@@ -4,7 +4,7 @@ current_phase_label: "Prototyp B1 — 12 Einheiten End-to-End"
 phase_0_complete: true
 phase_1_complete: true                # CI 24668142051 success, Site live
 phase_2_complete: true                # Outline user-approved 2026-04-20 ("go")
-last_completed_turn: 27
+last_completed_turn: 28
 
 phase_3_checklist:
   b1_unit_01: "complete"              # kurs_b1/units/unit01_neuanfang-in-basel{,_exam}.qmd
@@ -14,7 +14,7 @@ phase_3_checklist:
   b1_unit_05: "complete"
   b1_unit_06: "complete"
   b1_unit_07: "complete"
-  b1_unit_08: "not_started"
+  b1_unit_08: "complete"
   b1_unit_09: "not_started"
   b1_unit_10: "not_started"
   b1_unit_11: "not_started"
