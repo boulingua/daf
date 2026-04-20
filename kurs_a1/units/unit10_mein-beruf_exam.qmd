@@ -1,0 +1,57 @@
+---
+title: "Start Deutsch 1 — Schreiben, Teil 2"
+subtitle: "Einheit 10 · Mein Beruf · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Schreiben-Modul Teil 2 orientiert:
+Kurze persönliche Mitteilung, ca. 30 Wörter, drei Inhaltspunkte,
+10 P.
+:::
+
+Schreiben Sie Ihrer Freundin **Clara** eine kurze Nachricht
+(ca. 30 Wörter):
+
+- **Sagen** Sie Ihren neuen Beruf oder Ihr Studium.
+- **Erzählen** Sie, wo Sie arbeiten oder lernen.
+- **Laden** Sie Clara zu einem Treffen ein.
+
+Vergessen Sie Anrede, Grußformel und Namen nicht.
+
+## Bewertung
+
+| Kriterium                  | Punkte |
+|----------------------------|-------:|
+| Inhaltspunkt 1 (Beruf)     | 3      |
+| Inhaltspunkt 2 (Ort)       | 3      |
+| Inhaltspunkt 3 (Einladung) | 3      |
+| Textsortenadäquat          | 1      |
+| **Summe**                  | **10** |
+
+## Musterlösung (ca. 29 Wörter)
+
+> Hallo Clara,
+>
+> ich habe eine neue Stelle! Ich arbeite jetzt als
+> Programmiererin in Wien. Mein Büro ist in der Stadtmitte.
+> Treffen wir uns am Samstag?
+>
+> Liebe Grüße
+> Luka
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 10 · GER-Stufe A1*
