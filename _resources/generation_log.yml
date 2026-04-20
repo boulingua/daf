@@ -1,8 +1,9 @@
 site: "daf-goethe"
-current_phase: 1
-current_phase_label: "Scaffold — deploybares leeres Gerüst"
+current_phase: 2
+current_phase_label: "Themenplan — 60-Einheit-Outline vorgeschlagen"
 phase_0_complete: true
-last_completed_turn: 19
+phase_1_complete: true                # Phase 1 Ausstiegskriterium erfüllt: CI success 24668142051, Site live https://boulingua.github.io/daf/
+last_completed_turn: 20
 last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
@@ -53,14 +54,28 @@ phase_1_checklist:
   appendix_stubs: "complete"          # Turn 18 (5× anhaenge/*.qmd)
   local_render_check: "deferred"      # Quarto not installed locally; rely on CI on push
 
+phase_2_status:
+  outline_file: "_resources/curriculum_outline.yml"
+  units_total: 60
+  module_balance_per_course: {"lesen": 3, "hören": 3, "schreiben": 3, "sprechen": 3}
+  awaiting_user_approval: true
+  user_notes_to_consider:
+    - "B1 ist Prototyp (Phase 3) — 12 Einheiten Milos/Frau Dr. Lenz/Noa/Herr Malik"
+    - "DACH-Streuung: Wien/Graz/Zürich/Basel/Leipzig/Frankfurt/Köln/Sarajevo/Freiburg"
+    - "Figurenbesetzung pro Kurs in courses[].cast dokumentiert"
+
 next_turn:
-  action: "push_and_verify_ci"
+  action: "phase_3_prototype_b1_turn_1"
   description: >-
-    DaF Phase 1 Turn 19 — git push origin main, CI-Run beobachten,
-    GitHub-Pages-Deploy bestätigen. Bei Erfolg: Phase 1 Ausstiegs-
-    kriterium erfüllt (Live-URL + Navigation + Hell/Dunkel-Toggle).
+    DaF Phase 3 Prototyp — B1 Unit 1 „Neuanfang in Basel"
+    (kurs_b1/units/unit01_neuanfang-in-basel.qmd) mit 5-Schritt-
+    Template, Front Matter (Lesen-Modul, skills_focus=lesen+sprechen),
+    Einstiegsgeschichte (Milos), original Stimulustext (kurzer
+    Erfahrungsbericht), Üben-Übungen mit Lösung, Anwenden-Sprechimpuls,
+    Reflexionscheckliste, Prüfungsbeispiel-Abschnitt (B1-Lesen-Modul
+    simuliert), ## Downloads, Speaker-Notes. Ziel: 150-250 Zeilen.
+    Falls >350 Zeilen: Split in Turn A/B mit <!-- TURN B: --> Marker.
   estimated_duration_minutes: 3
-  after_that: "Phase 2 — Themenplan (curriculum_outline.yml 5×12) erzeugen und OK abwarten."
 
 notes:
   - "A1 format extracted from the official Goethe-Institut publication 'Prüfungsziele, Testbeschreibung A1' (VS_08_190422, 4. Auflage 2022), rather than the web overview page."
