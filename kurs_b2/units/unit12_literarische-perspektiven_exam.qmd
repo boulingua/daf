@@ -1,0 +1,46 @@
+---
+title: "Goethe-Zertifikat B2 — Sprechen, Teil 1"
+subtitle: "Einheit 12 · Literarische Perspektiven · GER-Stufe B2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+B2-Sprechen Teil 1 (Vortrag ca. 4 Min pro Person, Strukturvorgabe).
+:::
+
+Halten Sie einen Vortrag (ca. 4 Minuten) zum Thema:
+
+> *„Welche deutschsprachige Autorin oder welcher Autor lohnt sich
+> im DaF-Unterricht, und warum?"*
+
+Gliederung (5 Folien):
+
+1. Einleitung + persönlicher Bezug.
+2. Autor:in vorstellen (Kurzbiografie, Stil).
+3. Ein Textbeispiel (2–3 Sätze vorlesen).
+4. Pädagogischer Gewinn (Thema, Sprachniveau, Motivation).
+5. Abschluss / Empfehlung.
+
+## Bewertung
+
+- **Erfüllung** (alle 5 Punkte), **Kohärenz**, **Wortschatz**,
+  **Strukturen**, **Aussprache** — A–E pro Dimension.
+
+## Erwartungshorizont (Auszug)
+
+Ein B2-Vortrag zum Thema enthält mindestens:
+
+- eine Autor:in mit kurzem biografischen Kontext,
+- ein konkretes Textbeispiel oder Zitat,
+- einen klaren pädagogischen Grund der Auswahl (Thema /
+  Sprachstufe / Motivation),
+- eine Anwendungs-Idee für den Unterricht,
+- eine persönliche Position am Schluss.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 12 · GER-Stufe B2*
