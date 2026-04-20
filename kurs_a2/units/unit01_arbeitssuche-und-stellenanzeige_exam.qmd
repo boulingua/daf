@@ -1,0 +1,62 @@
+---
+title: "Goethe-Zertifikat A2 — Lesen, Teil 4"
+subtitle: "Einheit 1 · Arbeitssuche und Stellenanzeige · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Goethe-Zertifikat-A2-Lesen-Modul Teil 4 orientiert:
+Anzeigen verstehen, Zuordnungsaufgabe. Stimuli original.
+:::
+
+Ordnen Sie die fünf Situationen (1–5) den fünf Anzeigen (a–e) zu.
+
+### Anzeigen
+
+> **a) Pflegefachkraft — Landeskrankenhaus Graz.** Vollzeit,
+> Dienstwohnung möglich, 2 900 €.
+
+> **b) Kellner:in — Café Leopold.** Teilzeit, Samstag + Sonntag,
+> 12 €/Std.
+
+> **c) Kindergartenhelfer:in — Puntigam.** Mo–Fr 8–14 Uhr,
+> Deutsch B1 Pflicht.
+
+> **d) Pflegekraft — Pflegeheim St. Ulrich.** Schichtdienst,
+> Vollzeit, 3 100 €.
+
+> **e) IT-Junior — Homeoffice.** Flexible Arbeitszeiten.
+
+### Situationen
+
+|   | Situation                                                | a | b | c | d | e |
+|---|----------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|
+| 1 | „Ich möchte einen Job mit Kinderbetreuung, keine Pflege." | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 2 | „Ich will am Wochenende arbeiten."                        | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 3 | „Ich brauche mehr Gehalt, Schicht ist okay."              | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 4 | „Ich kann nur von zu Hause arbeiten."                     | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 5 | „Ich pflege gern und brauche eine Wohnung beim Arbeitsplatz."| ☐ | ☐ | ☐ | ☐ | ☐ |
+
+## Lösungen
+
+1. **c** — Kindergartenhelfer:in.
+2. **b** — Samstag + Sonntag.
+3. **d** — höheres Gehalt, Schicht.
+4. **e** — Homeoffice.
+5. **a** — Pflege + Dienstwohnung.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 1 · GER-Stufe A2*
