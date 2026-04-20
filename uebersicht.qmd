@@ -1,0 +1,53 @@
+---
+title: "Übersicht"
+---
+
+::: {.hero-kicker}
+DAF · 60 EINHEITEN · 5 GER-STUFEN
+:::
+
+# Vollständige Übersicht
+
+Alle 60 Einheiten der DaF-Site in einer Tabelle, sortierbar nach
+GER-Stufe, Einheit und Schwerpunktmodul. Die Tabelle wird in
+Phase 5 (Politur) aus `_resources/curriculum_outline.yml`
+automatisch regeneriert — diese Seite ist dann eine reine Ansicht
+auf den Themenplan.
+
+::: {.callout-note}
+**Scaffold-Stand.** Der Themenplan
+(`_resources/curriculum_outline.yml`) wird in Phase 2 erzeugt und
+hier eingespielt. Bis dahin verweist diese Seite auf die fünf
+Kursübersichten:
+:::
+
+## Kurse
+
+- [Kurs A1 — Anfänger:innen](kurs_a1/index.qmd)
+- [Kurs A2 — Grundlegende Kenntnisse](kurs_a2/index.qmd)
+- [Kurs B1 — Selbstständig (untere Stufe)](kurs_b1/index.qmd)
+- [Kurs B2 — Selbstständig (obere Stufe)](kurs_b2/index.qmd)
+- [Kurs C1 — Kompetent](kurs_c1/index.qmd)
+
+## Struktur pro Kurs
+
+Jeder Kurs hat:
+
+- eine **Startseite** (`index.qmd`) mit wiederkehrender
+  Figurenbesetzung, Themen-Arc und Goethe-Zielmodul-Verteilung,
+- einen **Kurswochenplan** (`uebersicht.qmd`) mit den 12 Einheiten
+  in chronologischer Reihenfolge,
+- 12 **Einheits-Artikel** (`units/unit01_*.qmd` ... `unit12_*.qmd`),
+- 12 **Prüfungs-PDF-Wrapper** (`units/unit01_*_exam.qmd` ...
+  `unit12_*_exam.qmd`),
+- einmalig eine `_metadata.yml` im `units/`-Ordner, die
+  `author: "S. Le Boulanger"` für alle Einheiten dieses Kurses
+  setzt.
+
+## Goethe-Module pro Einheit
+
+Jede Einheit vertieft **ein** Goethe-Modul (Lesen / Hören /
+Schreiben / Sprechen); über 12 Einheiten ergibt das mindestens
+zwei Einheiten pro Modul pro Kurs. Der genaue Modulplan steht in
+`_resources/curriculum_outline.yml` und wird hier nach Phase 2
+sichtbar.
