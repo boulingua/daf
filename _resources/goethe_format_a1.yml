@@ -1,0 +1,269 @@
+# Goethe-Zertifikat A1: Start Deutsch 1 — Prüfungsformat
+#
+# Quelle: "Goethe-Zertifikat A1: Start Deutsch 1 — Prüfungsziele,
+# Testbeschreibung" (VS_08_190422, 4. aktualisierte Auflage, © 2022),
+# herausgegeben vom Goethe-Institut e. V. und der telc GmbH.
+#
+# Abgerufen: 2026-04-20
+# URL: https://www.goethe.de/pro/relaunch/prf/de/Pruefungsziele_Testbeschreibung_A1_SD1.pdf
+# Referenz-Übersicht: https://www.goethe.de/de/spr/kup/prf/prf/gzsd1.html
+#
+# Alle strukturellen Angaben (Aufgabentypen, Teile, Zeiten, Punkte,
+# Bestehensgrenzen, Bewertungsschemata) sind der o. g. Publikation
+# verbatim entnommen. Interpretierende Ergänzungen sind als
+# `note:` markiert und stammen nicht aus der Quelle.
+
+cefr_level: "A1"
+zertifikat: "Goethe-Zertifikat A1: Start Deutsch 1"
+zielgruppe: "Erwachsene (ab 16 Jahren). Parallelformat für Jugendliche: Fit in Deutsch 1."
+gesamtdauer_minuten: 80              # ca. 80 Minuten
+gesamtpunkte: 100
+bestehensgrenze_punkte: 60           # 60 % der Maximalpunktzahl
+bestehensgrenze_prozent: 60
+prüfungssprache: "Deutsch"
+vorbereitungszeit_sprechen: false    # keine Vorbereitungszeit
+hilfsmittel_erlaubt: false           # Wörterbücher nicht erlaubt
+
+# Minimum im schriftlichen Teil:
+# "Wenn ein/e Teilnehmende/r im schriftlichen Teil weniger als 35
+# Punkte erzielt, ist eine Teilnahme an der mündlichen Prüfung nicht
+# sinnvoll" — d. h. ab 35/75 schriftlich ist die Gesamtgrenze von 60
+# über den mündlichen Teil noch erreichbar.
+schriftlich_max_punkte: 75           # Hören + Lesen + Schreiben
+schriftlich_min_sinnvoll: 35
+mündlich_max_punkte: 25
+
+# Notenschlüssel (Zeugnis-Rückseite):
+notenskala:
+  - prädikat: "sehr gut"
+    punkte_min: 90
+    punkte_max: 100
+  - prädikat: "gut"
+    punkte_min: 80
+    punkte_max: 89
+  - prädikat: "befriedigend"
+    punkte_min: 70
+    punkte_max: 79
+  - prädikat: "ausreichend"
+    punkte_min: 60
+    punkte_max: 69
+  - prädikat: "nicht bestanden"
+    punkte_min: 0
+    punkte_max: 59
+
+module:
+
+  hören:
+    gewichtung_punkte: 25
+    gewichtung_prozent: 25
+    dauer_minuten: 20                # "ca. 20 Minuten" inkl. Ansagen, Wiederholungen, Pausen
+    übertragungszeit_minuten: 3      # zusätzlich zum Antwortbogen
+    anzahl_teile: 3
+    gesamt_aufgaben: 15
+    rohpunkte_pro_aufgabe: 1
+    teile:
+      - nummer: 1
+        aufgabentyp: "Kurze Alltagsgespräche"
+        beschreibung: >-
+          Kurze Gespräche zwischen zwei Personen (Straße, privat,
+          schulisch, beruflich). Zu jedem Hörtext eine dreigliedrige,
+          bildunterstützte Mehrfachwahlaufgabe.
+        hört_wie_oft: 2
+        items: 5                     # 15 Items ÷ 3 Teile = 5 je Teil (gleichverteilt laut Publikation)
+        punkte: 5
+      - nummer: 2
+        aufgabentyp: "Öffentliche Lautsprecherdurchsagen"
+        beschreibung: >-
+          Kurze Durchsagen aus öffentlichen Räumen (Flughafen,
+          Supermarkt, U-Bahnhof). Zu jedem Hörtext:
+          "richtig oder falsch?"
+        hört_wie_oft: 1
+        items: 5
+        punkte: 5
+      - nummer: 3
+        aufgabentyp: "Telefonansagen"
+        beschreibung: >-
+          Kurze Ansagen und Nachrichten auf dem Anrufbeantworter,
+          teils privat, teils offiziell (Arztpraxis, Firma). Zu jedem
+          Hörtext eine dreigliedrige Mehrfachwahlaufgabe.
+        hört_wie_oft: 2
+        items: 5
+        punkte: 5
+
+  lesen:
+    gewichtung_punkte: 25
+    gewichtung_prozent: 25
+    dauer_minuten: 25
+    anzahl_teile: 3
+    gesamt_aufgaben: 15
+    rohpunkte_pro_aufgabe: 1
+    teile:
+      - nummer: 1
+        aufgabentyp: "Kurznotizen"
+        beschreibung: >-
+          Zwei kurze semiauthentische Texte (Notizzettel, E-Mails)
+          aus privatem oder beruflichem Alltag: Mitteilungen,
+          Handlungsanweisungen, Einladungen. Richtig-/Falsch-Aussagen.
+        items: 5
+        punkte: 5
+      - nummer: 2
+        aufgabentyp: "Kleinanzeigen"
+        beschreibung: >-
+          10 semiauthentische Kleinanzeigen werden 5 Situationen
+          paarweise zugeordnet. Pro Situation: welche der zwei
+          Anzeigen passt? (Wahl a/b)
+        items: 5
+        punkte: 5
+      - nummer: 3
+        aufgabentyp: "Hinweisschilder / Aushänge"
+        beschreibung: >-
+          5 sehr kurze Texte (Schilder, Aushänge). Pro Text ist zu
+          entscheiden, ob eine vorgegebene Aussage richtig oder
+          falsch ist.
+        items: 5
+        punkte: 5
+
+  schreiben:
+    gewichtung_punkte: 25
+    gewichtung_prozent: 25
+    dauer_minuten: 20
+    anzahl_teile: 2
+    rohpunkte_gesamt: 15             # Teil 1: 5, Teil 2: 10 → 15 Rohpunkte (auf 25 gewichtet)
+    teile:
+      - nummer: 1
+        aufgabentyp: "Formular ausfüllen"
+        beschreibung: >-
+          Anmeldung, Bestellung o. Ä. An fünf Stellen fehlende Daten
+          ergänzen. Der Einleitungstext enthält die dafür
+          notwendigen Informationen.
+        items: 5
+        punkte_pro_item: 1
+        punkte: 5
+      - nummer: 2
+        aufgabentyp: "Kurzmitteilung"
+        beschreibung: >-
+          Kurzmitteilung (Kurznotiz oder E-Mail) anhand von drei
+          Leitpunkten schreiben. Umfang ca. 30 Wörter. Neben den drei
+          Inhaltspunkten soll die Kurzmitteilung textsortengerecht
+          gestaltet sein (z. B. passende Anrede- und Grußformeln).
+        punkte: 10
+        bewertungsschema:
+          erfüllung_aufgabenstellung:
+            pro_inhaltspunkt_max: 3
+            punkte_voll: 3
+            punkte_voll_kriterium: "Aufgabe voll erfüllt und verständlich"
+            punkte_halb: 1.5
+            punkte_halb_kriterium: "Aufgabe wegen sprachlicher oder inhaltlicher Mängel nur teilweise erfüllt"
+            punkte_null: 0
+            punkte_null_kriterium: "Aufgabe nicht erfüllt und/oder unverständlich"
+            inhaltspunkte_anzahl: 3
+            inhaltspunkte_gesamt_max: 9
+          kommunikative_gestaltung:
+            max: 1
+            punkte_voll: 1
+            punkte_voll_kriterium: "der Textsorte angemessen"
+            punkte_halb: 0.5
+            punkte_halb_kriterium: "untypische oder fehlende Wendungen (z. B. keine Anrede)"
+            punkte_null: 0
+            punkte_null_kriterium: "keine textsortenspezifischen Wendungen"
+          orthografie_hinweis: >-
+            Orthografiefehler werden nur dann mit Punktabzug bewertet,
+            wenn das Verständnis beeinträchtigt ist.
+
+  sprechen:
+    gewichtung_punkte: 25
+    gewichtung_prozent: 25
+    dauer_minuten: 15
+    format: "Gruppenprüfung mit maximal 4 Prüfungsteilnehmenden und 2 Prüfenden"
+    vorbereitungszeit_minuten: 0
+    rollen_prüfende:
+      - "Interlokutor/Moderator (Ansagen, Nachfragen)"
+      - "zweite/r Prüfende/r (füllt Ergebnisbogen aus)"
+    rohpunkte_gesamt: 15             # Teil 1: 3, Teil 2: 6, Teil 3: 6 → 15 (auf 25 gewichtet)
+    anzahl_teile: 3
+    teile:
+      - nummer: 1
+        aufgabentyp: "Sich vorstellen"
+        beschreibung: >-
+          Sich anhand von Stichwörtern kurz vorstellen, etwas
+          buchstabieren (z. B. Name, Wohnort, Geburtsort, Heimat-
+          stadt), und eine Nummer angeben (z. B. Telefon-, Handy-,
+          Hausnummer, Vorwahl, Postleitzahl). Nummern mindestens
+          zweistellig.
+        zeit_pro_teilnehmer_sekunden: 80
+        punkte_max: 3
+        punkte_verteilung:
+          sich_vorstellen: 1
+          buchstabieren: 1
+          nummer_angeben: 1
+      - nummer: 2
+        aufgabentyp: "Fragen stellen und beantworten"
+        beschreibung: >-
+          Anhand von Handlungskarten (Bild oder Wort) gegenseitig
+          Fragen stellen und Antworten geben. Reihum, bis jede/r
+          Teilnehmende 2 Fragen und 2 Antworten produziert hat.
+          Partnerorientiert.
+        punkte_max: 6
+      - nummer: 3
+        aufgabentyp: "Bitten formulieren und darauf reagieren"
+        beschreibung: >-
+          Anhand von Handlungskarten Bitten formulieren (z. B. um
+          etwas bitten, auf Bitten reagieren). Reihum, bis jede/r
+          Teilnehmende 2 Bitten und 2 Reaktionen produziert hat.
+        punkte_max: 6
+    bewertungsschema:
+      kriterien:
+        - "Versteht der/die Teilnehmer/in die Frage bzw. Bitte, die ein/e anderer/e an ihn/sie stellt?"
+        - "Formuliert er/sie selber angemessen?"
+        - "Wie verständlich ist seine/ihre Äußerung?"
+      ausschlaggebend: "Verständlichkeit, nicht die Zahl der Fehler."
+      punkte_schema:
+        volle_punktzahl: "Aufgabe voll erfüllt und verständlich"
+        halbe_punktzahl: "Aufgabe wegen sprachlicher oder inhaltlicher Mängel nur teilweise erfüllt"
+        null_punkte: "Aufgabe nicht erfüllt und/oder unverständlich"
+      beeinträchtigungstypen:
+        - "falscher Wortakzent"
+        - "falsche Syntax"
+        - "unpassende Wortwahl"
+
+# Kompetenzbeschreibung Globalskala (GER A1, verbatim aus der Publikation):
+globalskala_a1: |
+  Kann vertraute, alltägliche Ausdrücke und ganz einfache Sätze
+  verstehen und verwenden, die auf die Befriedigung konkreter
+  Bedürfnisse zielen. Kann sich und andere vorstellen und anderen
+  Leuten Fragen zu ihrer Person stellen — z. B. wo sie wohnen, was
+  für Leute sie kennen oder was für Dinge sie besitzen — und kann
+  auf Fragen dieser Art Antwort geben. Kann sich auf einfache Art
+  verständigen, wenn die Gesprächspartnerinnen oder Gesprächs-
+  partner langsam und deutlich sprechen und bereit sind zu helfen.
+
+# Textsorten auf A1 (Rezeption + Produktion), verbatim aus Kapitel 2:
+textsorten_rezeption:
+  hören:
+    - "Lautsprecherdurchsage"
+    - "automatische Telefonansage"
+    - "Meldung im Rundfunk (Wetter, Straßenverkehr etc.)"
+    - "Mitteilung und Anweisung"
+    - "Face-to-face-Gespräch"
+  lesen:
+    - "kurze Zeitungsmeldung"
+    - "einfache und kurze Kleinanzeige"
+    - "einfache Informations-Broschüre (mit Bildanteil)"
+    - "Werbeprospekt, Katalog, Plakat (mit Bildanteil)"
+    - "Hinweisschild und (Waren-)Beschriftung"
+    - "kurze Anleitung, Gebrauchsanweisung"
+    - "Mitteilung und Notiz"
+    - "kurzer Brief, Fax, E-Mail und Postkarte"
+    - "tabellarisches Verzeichnis (z. B. Fahrplan, Arbeitsplan, Speisekarte, Inhaltsverzeichnis)"
+textsorten_produktion:
+  schreiben:
+    - "Formular (z. B. Anmeldung)"
+    - "(Post-)Karte, kurzer persönlicher Brief, kurzes Fax bzw. E-Mail"
+    - "kurze einfache Notiz oder Mitteilung"
+
+# Didaktische Einsatzhinweise für dieses Projekt (nicht Goethe-Quelle):
+note_für_unit_design: |
+  Für die DaF-Site werden pro Einheit eigene, original von der
+  Autorin verfasste Stimulustexte erstellt, die formatlich streng
+  diesem Schema folgen (Anzahl Items, Aufgabentypen, Punkte).
+  Keine Reproduktion echter Prüfungstexte aus Goethe-Modellsätzen.

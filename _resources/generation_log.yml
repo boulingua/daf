@@ -1,0 +1,53 @@
+site: "daf-goethe"
+current_phase: 0
+current_phase_label: "Preflight — Goethe-Prüfungsformate fetchen"
+last_completed_turn: 2
+last_completed_at: "2026-04-20T00:00:00Z"
+last_commit_sha: ""
+
+phase_0_checklist:
+  a1_format: "complete"               # _resources/goethe_format_a1.yml
+  a2_format: "not_started"
+  b1_format: "not_started"
+  b2_format: "not_started"
+  c1_format: "not_started"
+
+preflight_context_answers:
+  github:
+    org: "boulingua"
+    repo: "daf"
+    origin: "https://github.com/boulingua/daf.git"
+    pages_url: "https://boulingua.github.io/daf/"
+    admin_account: "r-heller"
+  git_identity:
+    name: "R. Heller"
+    email: "58561665+r-heller@users.noreply.github.com"
+  content_author: "S. Le Boulanger"
+  cast_per_cefr:
+    a1: ["Ana", "Luka", "Frau Kurz", "Herr Keks"]   # vom Prompt vorgeschlagen; in Phase 2 bestätigen
+    a2: "to be invented in Phase 2 (Nachbar:innen + Alltagshelfer:innen, DACH-Streuung)"
+    b1: "to be invented in Phase 2 (mobile Erwachsene, Pendler:innen, Studierende)"
+    b2: "to be invented in Phase 2 (Diskutierende, Journalist:innen, Migrationsperspektiven ab B1)"
+    c1: "to be invented in Phase 2 (Textstimmen, Autor:innen)"
+  licensing:
+    code: "MIT"
+    content: "CC-BY-SA 4.0"
+    confirmed: true
+  impressum:
+    name: "S. Le Boulanger"
+    strasse: "Albert-Einstein-Straße 47"
+    plz: "02977"
+    ort: "Hoyerswerda"
+    land: "Deutschland"
+    email: "<TODO: still open — CI gate remains until filled>"
+
+next_turn:
+  action: "fetch_goethe_format_a2"
+  target_file: "_resources/goethe_format_a2.yml"
+  source_url: "https://www.goethe.de/de/spr/kup/prf/prf/gza2.html"
+  estimated_duration_minutes: 3
+
+notes:
+  - "A1 format extracted from the official Goethe-Institut publication 'Prüfungsziele, Testbeschreibung A1' (VS_08_190422, 4. Auflage 2022), rather than the web overview page."
+  - "All quantitative structural fields are verbatim from the source PDF."
+  - "No real Goethe exam text is reproduced; originals will be authored by S. Le Boulanger in Phase 3–4."
