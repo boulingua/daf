@@ -1,13 +1,13 @@
 site: "daf-goethe"
 current_phase: 0
 current_phase_label: "Preflight — Goethe-Prüfungsformate fetchen"
-last_completed_turn: 2
+last_completed_turn: 3
 last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
 phase_0_checklist:
   a1_format: "complete"               # _resources/goethe_format_a1.yml
-  a2_format: "not_started"
+  a2_format: "complete"               # _resources/goethe_format_a2.yml
   b1_format: "not_started"
   b2_format: "not_started"
   c1_format: "not_started"
@@ -39,12 +39,12 @@ preflight_context_answers:
     plz: "02977"
     ort: "Hoyerswerda"
     land: "Deutschland"
-    email: "<TODO: still open — CI gate remains until filled>"
+    email: "277736839+s-leboulanger@users.noreply.github.com"
 
 next_turn:
-  action: "fetch_goethe_format_a2"
-  target_file: "_resources/goethe_format_a2.yml"
-  source_url: "https://www.goethe.de/de/spr/kup/prf/prf/gza2.html"
+  action: "fetch_goethe_format_b1"
+  target_file: "_resources/goethe_format_b1.yml"
+  source_url: "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Modellsatz_Erwachsene.pdf"
   estimated_duration_minutes: 3
 
 notes:
