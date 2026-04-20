@@ -2,7 +2,7 @@ site: "daf-goethe"
 current_phase: 1
 current_phase_label: "Scaffold — deploybares leeres Gerüst"
 phase_0_complete: true
-last_completed_turn: 7
+last_completed_turn: 8
 last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
@@ -44,7 +44,7 @@ preflight_context_answers:
 
 phase_1_checklist:
   repo_basics: "complete"             # LICENSE + LICENSE-content + README + .gitignore + .nojekyll
-  quarto_config: "not_started"        # _quarto.yml + styles.css + custom.scss + assets/slides.scss
+  quarto_config: "complete"           # _quarto.yml + styles.css + custom.scss + assets/slides.scss
   ci_workflow: "not_started"          # .github/workflows/publish.yml
   lua_shortcode: "not_started"        # _extensions/downloads/*.lua + _includes/_exam.tex
   python_scripts: "not_started"       # _scripts/*.py + organise_downloads.sh
@@ -54,11 +54,14 @@ phase_1_checklist:
   local_render_check: "not_started"   # quarto render + first GH-Pages deploy
 
 next_turn:
-  action: "scaffold_quarto_config"
+  action: "scaffold_ci_workflow"
   description: >-
-    DaF Phase 1 Turn 8 — _quarto.yml (Navbar + Footer), styles.css
-    (Palette + data-bs-theme-Kaskade), custom.scss (Bootstrap
-    defaults), assets/slides.scss (Reveal.js dunkle Palette).
+    DaF Phase 1 Turn 9 — .github/workflows/publish.yml mit offiziellen
+    GitHub-Pages-Actions (actions/configure-pages@v5,
+    actions/upload-pages-artifact@v3, actions/deploy-pages@v4),
+    Quarto + tinytex + Python (pyyaml pandas jupyter reportlab pypdf),
+    _freeze/-Cache, 60 Exam + 60 Worksheet PDF-Count-Gates,
+    pypdf-Autor-Metadata-Gate, Impressum-TODO-Check.
   estimated_duration_minutes: 3
 
 notes:
