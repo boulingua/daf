@@ -1,0 +1,35 @@
+---
+title: "Glossar"
+---
+
+::: {.hero-kicker}
+DAF · ANHANG
+:::
+
+# Glossar
+
+::: {.callout-note}
+**Scaffold-Stand.** Dieser Anhang wird in **Phase 5 (Politur)**
+gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
+diese Seite quer durch das Material Links zu konkreten
+Unterrichtsstellen setzen.
+:::
+
+Alphabetisches Glossar der DaF-, CEFR- und Goethe-spezifischen Begriffe, die über die Site verstreut vorkommen. Jeder Eintrag verweist auf die Einheit, die den Begriff erstmals einführt.
+
+## Vorläufige Struktur
+
+**Geplante Einträge (Auszug):**
+
+- CEFR / GER — Globalskala, Deskriptor, Kann-Beschreibung.
+- Goethe-Module — Lesen, Hören, Schreiben, Sprechen.
+- Textsorten — Kurzmitteilung, Forumsbeitrag, halb offizielle E-Mail.
+- Prüfungsbegriffe — Bestehensgrenze, Aufgabenerfüllung, Bewertungsraster, Erwartungshorizont.
+- Didaktik — CLIL, Scaffolding, Sprachmittlung, immersives Lehren, Binnendifferenzierung.
+- Sprachreflexion — Register, Konnotation, Nominalisierung, Hypotaxe.
+
+## Zurück
+
+- [Startseite](../index.qmd)
+- [Übersicht aller Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)

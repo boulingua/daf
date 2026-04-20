@@ -1,0 +1,31 @@
+---
+title: "Bewertungsraster"
+---
+
+::: {.hero-kicker}
+DAF · ANHANG
+:::
+
+# Bewertungsraster
+
+::: {.callout-note}
+**Scaffold-Stand.** Dieser Anhang wird in **Phase 5 (Politur)**
+gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
+diese Seite quer durch das Material Links zu konkreten
+Unterrichtsstellen setzen.
+:::
+
+Die offiziellen Goethe-Bewertungsraster für Schreiben und Sprechen auf den fünf Stufen, in einer einheitlichen Tabellenform. Die Rohdaten liegen in `_resources/goethe_format_<stufe>.yml`; diese Seite macht sie durchsuchbar.
+
+## Vorläufige Struktur
+
+- **Schreiben-Raster A1–C1** — Aufgabenerfüllung + Sprache (A–E-Skala), KO-Regeln (Textumfang < 50 %).
+- **Sprechen-Raster A1–C1** — Aufgabenerfüllung + Sprache + Aussprache, je mit stufenspezifischen Deskriptoren.
+- **Skalenumrechnung** — Rohpunkte zu Zertifikatspunkten (z. B. A2: ×1.25 für Lesen/Hören/Schreiben).
+- **Goethe-Prädikate** — sehr gut / gut / befriedigend / ausreichend / nicht bestanden (A1/A2-Punkteskala).
+
+## Zurück
+
+- [Startseite](../index.qmd)
+- [Übersicht aller Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)

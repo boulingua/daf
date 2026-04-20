@@ -1,0 +1,33 @@
+---
+title: "Typische Fehler"
+---
+
+::: {.hero-kicker}
+DAF · ANHANG
+:::
+
+# Typische Fehler
+
+::: {.callout-note}
+**Scaffold-Stand.** Dieser Anhang wird in **Phase 5 (Politur)**
+gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
+diese Seite quer durch das Material Links zu konkreten
+Unterrichtsstellen setzen.
+:::
+
+Systematische Sammlung typischer L1-Transfer-Fehler für DaF-Lernende aus dem englischen, französischen, türkischen, russischen, chinesischen und arabischen Sprachraum — nach CEFR-Stufe geordnet, mit Korrekturstrategien.
+
+## Vorläufige Struktur
+
+- **Wortstellung** — V2 im Hauptsatz, Verbendstellung im Nebensatz.
+- **Artikel und Kasus** — der/die/das, Nominativ/Akkusativ/Dativ/Genitiv, Präpositionen.
+- **Tempus und Aspekt** — Perfekt vs. Präteritum, Konjunktiv II.
+- **Falsche Freunde** (DE-EN, DE-FR) — become/bekommen, sensible/sensibel, actuellement/aktuell.
+- **Wortschatzregister** — du/Sie, gesprochene vs. geschriebene Varietät.
+- **Pragmatik** — Höflichkeit, indirekte Sprechakte, Kulturelles.
+
+## Zurück
+
+- [Startseite](../index.qmd)
+- [Übersicht aller Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)
