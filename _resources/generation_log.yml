@@ -1,7 +1,8 @@
 site: "daf-goethe"
 current_phase: 0
-current_phase_label: "Preflight — Goethe-Prüfungsformate fetchen"
-last_completed_turn: 5
+current_phase_label: "Preflight — Goethe-Prüfungsformate fetchen (ABGESCHLOSSEN)"
+phase_0_complete: true
+last_completed_turn: 6
 last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
@@ -10,7 +11,7 @@ phase_0_checklist:
   a2_format: "complete"               # _resources/goethe_format_a2.yml
   b1_format: "complete"               # _resources/goethe_format_b1.yml
   b2_format: "complete"               # _resources/goethe_format_b2.yml
-  c1_format: "not_started"
+  c1_format: "complete"               # _resources/goethe_format_c1.yml
 
 preflight_context_answers:
   github:
@@ -42,10 +43,19 @@ preflight_context_answers:
     email: "277736839+s-leboulanger@users.noreply.github.com"
 
 next_turn:
-  action: "fetch_goethe_format_c1"
-  target_file: "_resources/goethe_format_c1.yml"
-  source_url: "https://www.goethe.de/pro/relaunch/prf/materialien/C1_modular/c1-modular_modellsatz.pdf"
+  action: "begin_phase_1_scaffold"
+  description: >-
+    DaF Phase 1 Turn 7 — Scaffold beginnt mit .gitignore/.nojekyll/
+    README/LICENSE/LICENSE-content ablegen. Danach _quarto.yml,
+    styles.css, custom.scss, assets/slides.scss, CI-Workflow,
+    Lua-Shortcode {{< downloads >}}, Python-Scripts
+    (make_placeholder_worksheets.py, pdf_attribution.py,
+    organise_downloads.sh), fünf Kursordner-Stubs, fünf Anhänge,
+    Top-Level-Seiten (index, ueber, start, uebersicht,
+    goethe_formate, literatur, danksagung, impressum, datenschutz).
+  split_into: "~6-8 Turns per DaF prompt Phase 1"
   estimated_duration_minutes: 3
+  first_deliverable: "README.md + LICENSE + LICENSE-content + .gitignore + .nojekyll"
 
 notes:
   - "A1 format extracted from the official Goethe-Institut publication 'Prüfungsziele, Testbeschreibung A1' (VS_08_190422, 4. Auflage 2022), rather than the web overview page."
