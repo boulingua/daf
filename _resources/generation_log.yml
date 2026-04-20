@@ -1,7 +1,7 @@
 site: "daf-goethe"
 current_phase: 0
 current_phase_label: "Preflight — Goethe-Prüfungsformate fetchen"
-last_completed_turn: 4
+last_completed_turn: 5
 last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
@@ -9,7 +9,7 @@ phase_0_checklist:
   a1_format: "complete"               # _resources/goethe_format_a1.yml
   a2_format: "complete"               # _resources/goethe_format_a2.yml
   b1_format: "complete"               # _resources/goethe_format_b1.yml
-  b2_format: "not_started"
+  b2_format: "complete"               # _resources/goethe_format_b2.yml
   c1_format: "not_started"
 
 preflight_context_answers:
@@ -42,9 +42,9 @@ preflight_context_answers:
     email: "277736839+s-leboulanger@users.noreply.github.com"
 
 next_turn:
-  action: "fetch_goethe_format_b2"
-  target_file: "_resources/goethe_format_b2.yml"
-  source_url: "https://www.goethe.de/pro/relaunch/prf/materialien/B2/B2_Modellsatz_Erwachsene.pdf"
+  action: "fetch_goethe_format_c1"
+  target_file: "_resources/goethe_format_c1.yml"
+  source_url: "https://www.goethe.de/pro/relaunch/prf/materialien/C1_modular/c1-modular_modellsatz.pdf"
   estimated_duration_minutes: 3
 
 notes:
