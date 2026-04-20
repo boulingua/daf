@@ -1,0 +1,45 @@
+---
+title: "Kurs A2 — Grundlegende Kenntnisse"
+---
+
+::: {.hero-kicker}
+KURS A2 · GRUNDLEGENDE KENNTNISSE
+:::
+
+# A2 — Grundlegende Kenntnisse
+
+[A2]{.cefr-badge .a2}
+
+Zwölf Einheiten entlang des GER-Niveaus **A2**. Vertraute Themen, Perfekt, Modalverben, einfache Nebensätze. Ziel: Goethe-Zertifikat A2 bestehen.
+
+## Prüfungsziel
+
+**Goethe-Zertifikat A2** · 105 Minuten, 100 Punkte, Bestehen bei 60 %.
+
+Details zum Prüfungsformat siehe
+[Goethe-Formate](../goethe_formate.qmd) oder die Rohdaten in
+[`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml).
+
+## Die zwölf Einheiten
+
+::: {.callout-note}
+**Scaffold-Stand.** Die Einheit-Titel und -Themen werden in
+Phase 2 im Themenplan `_resources/curriculum_outline.yml` fixiert
+und hier in ein Kartenraster übertragen. Bis dahin ist dies eine
+Placeholderseite.
+:::
+
+- [Kurswochenplan](uebersicht.qmd) — 12 Einheiten in
+  chronologischer Reihenfolge.
+
+## Wiederkehrende Figurenbesetzung
+
+Die Figuren für diesen Kurs werden in Phase 2 (Themenplan) final
+benannt. Die Setzung folgt der im DaF-Prompt vorgegebenen
+stufengerechten Tonalität (A2: Nachbar:innen und Alltagshelfer:innen mit DACH-Streuung).
+
+## Weiter
+
+- [Vollständige Übersicht aller 60 Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)
+- [Zurück zur Startseite](../index.qmd)

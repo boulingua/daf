@@ -1,0 +1,45 @@
+---
+title: "Kurs C1 — Kompetent"
+---
+
+::: {.hero-kicker}
+KURS C1 · KOMPETENT
+:::
+
+# C1 — Kompetent
+
+[C1]{.cefr-badge .c1}
+
+Zwölf Einheiten entlang des GER-Niveaus **C1**. Nuancierte Argumentation, stilistische Register, Nominalisierung, Konnotation, Fachsprachen. Ziel: Goethe-Zertifikat C1 (modular).
+
+## Prüfungsziel
+
+**Goethe-Zertifikat C1 (modular)** · modular, je Modul 100 Punkte, Bestehen bei 60 %.
+
+Details zum Prüfungsformat siehe
+[Goethe-Formate](../goethe_formate.qmd) oder die Rohdaten in
+[`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml).
+
+## Die zwölf Einheiten
+
+::: {.callout-note}
+**Scaffold-Stand.** Die Einheit-Titel und -Themen werden in
+Phase 2 im Themenplan `_resources/curriculum_outline.yml` fixiert
+und hier in ein Kartenraster übertragen. Bis dahin ist dies eine
+Placeholderseite.
+:::
+
+- [Kurswochenplan](uebersicht.qmd) — 12 Einheiten in
+  chronologischer Reihenfolge.
+
+## Wiederkehrende Figurenbesetzung
+
+Die Figuren für diesen Kurs werden in Phase 2 (Themenplan) final
+benannt. Die Setzung folgt der im DaF-Prompt vorgegebenen
+stufengerechten Tonalität (C1: Textstimmen, Autor:innen als Charaktere).
+
+## Weiter
+
+- [Vollständige Übersicht aller 60 Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)
+- [Zurück zur Startseite](../index.qmd)
