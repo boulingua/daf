@@ -1,0 +1,36 @@
+---
+title: "Goethe-Zertifikat A2 — Schreiben, Teil 1"
+subtitle: "Einheit 8 · Gestern · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+A2-Schreiben Teil 1 (Interaktion: persönliche Mitteilung, ca. 30
+Wörter).
+:::
+
+Schreiben Sie Ihrer Freundin **Mira** eine kurze Nachricht
+(ca. 30 Wörter):
+
+- Was haben Sie **am Morgen** gemacht?
+- Was **am Nachmittag**?
+- Und **am Abend**?
+
+## Musterlösung
+
+> Hallo Mira,
+>
+> gestern war ein schöner Tag. Morgens habe ich lange geschlafen.
+> Am Nachmittag bin ich in den Park gegangen. Abends habe ich
+> mit Ana Pizza gegessen.
+>
+> Liebe Grüße
+> Maja
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 8 · GER-Stufe A2*
