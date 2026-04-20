@@ -1,0 +1,48 @@
+---
+title: "Goethe-Zertifikat A2 — Sprechen, Teil 3"
+subtitle: "Einheit 9 · Pläne und Zukunft · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+A2-Sprechen Teil 3 (gemeinsam planen und aushandeln, ca. 3 Min).
+:::
+
+Planen Sie mit Ihrer Partnerin / Ihrem Partner einen **Ausflug
+für das nächste Wochenende**. Einigen Sie sich auf alle vier
+Punkte:
+
+1. **Ziel** (Berg · See · Stadt)?
+2. **Datum + Uhrzeit**?
+3. **Anreise** (Auto · Bahn · Rad)?
+4. **Was mitbringen**?
+
+## Bewertung
+
+- **Aufgabenerfüllung** (alle 4 Punkte): A (5) – E (0).
+- **Sprache**: A (4) – E (0).
+- **Aussprache** (einmal gesamt): A (2) – E (0).
+
+## Musterdialog (Auszug)
+
+> A: Wohin wollen wir am Wochenende fahren?
+>
+> B: Ich habe vor, zum Schöckl zu wandern. Passt das?
+>
+> A: Ja, gern. Am Samstag oder Sonntag?
+>
+> B: Samstag, 9 Uhr Bahnhof Graz.
+>
+> A: Mit der Bahn?
+>
+> B: Ja. Ich bringe Wasser mit, du das Brot?
+>
+> A: Abgemacht.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 9 · GER-Stufe A2*
