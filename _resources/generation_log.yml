@@ -1,9 +1,26 @@
 site: "daf-goethe"
-current_phase: 2
-current_phase_label: "Themenplan — 60-Einheit-Outline vorgeschlagen"
+current_phase: 3
+current_phase_label: "Prototyp B1 — 12 Einheiten End-to-End"
 phase_0_complete: true
-phase_1_complete: true                # Phase 1 Ausstiegskriterium erfüllt: CI success 24668142051, Site live https://boulingua.github.io/daf/
-last_completed_turn: 20
+phase_1_complete: true                # CI 24668142051 success, Site live
+phase_2_complete: true                # Outline user-approved 2026-04-20 ("go")
+last_completed_turn: 21
+
+phase_3_checklist:
+  b1_unit_01: "complete"              # kurs_b1/units/unit01_neuanfang-in-basel{,_exam}.qmd
+  b1_unit_02: "not_started"
+  b1_unit_03: "not_started"
+  b1_unit_04: "not_started"
+  b1_unit_05: "not_started"
+  b1_unit_06: "not_started"
+  b1_unit_07: "not_started"
+  b1_unit_08: "not_started"
+  b1_unit_09: "not_started"
+  b1_unit_10: "not_started"
+  b1_unit_11: "not_started"
+  b1_unit_12: "not_started"
+  b1_worksheets: "not_started"        # python _scripts/make_placeholder_worksheets.py --course b1
+  b1_local_render: "deferred"         # Quarto nicht lokal verfügbar; CI beim Push
 last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
@@ -58,23 +75,18 @@ phase_2_status:
   outline_file: "_resources/curriculum_outline.yml"
   units_total: 60
   module_balance_per_course: {"lesen": 3, "hören": 3, "schreiben": 3, "sprechen": 3}
-  awaiting_user_approval: true
-  user_notes_to_consider:
-    - "B1 ist Prototyp (Phase 3) — 12 Einheiten Milos/Frau Dr. Lenz/Noa/Herr Malik"
-    - "DACH-Streuung: Wien/Graz/Zürich/Basel/Leipzig/Frankfurt/Köln/Sarajevo/Freiburg"
-    - "Figurenbesetzung pro Kurs in courses[].cast dokumentiert"
+  user_approved_at: "2026-04-20 ('go')"
 
 next_turn:
-  action: "phase_3_prototype_b1_turn_1"
+  action: "phase_3_prototype_b1_unit_02"
   description: >-
-    DaF Phase 3 Prototyp — B1 Unit 1 „Neuanfang in Basel"
-    (kurs_b1/units/unit01_neuanfang-in-basel.qmd) mit 5-Schritt-
-    Template, Front Matter (Lesen-Modul, skills_focus=lesen+sprechen),
-    Einstiegsgeschichte (Milos), original Stimulustext (kurzer
-    Erfahrungsbericht), Üben-Übungen mit Lösung, Anwenden-Sprechimpuls,
-    Reflexionscheckliste, Prüfungsbeispiel-Abschnitt (B1-Lesen-Modul
-    simuliert), ## Downloads, Speaker-Notes. Ziel: 150-250 Zeilen.
-    Falls >350 Zeilen: Split in Turn A/B mit <!-- TURN B: --> Marker.
+    DaF Phase 3 Turn 22 — B1 Unit 2 „Der Bewerbungsweg: Anschreiben
+    und Vorstellungsgespräch" (kurs_b1/units/unit02_der-bewerbungsweg.qmd).
+    goethe_module: schreiben. skills_focus: schreiben+sprechen.
+    Input: Anschreibensmuster (original) + Vorstellungsgespräch-Dialog.
+    Prüfungsbeispiel: B1-Schreiben-Teil 1 (Mitteilung zur
+    Kontaktpflege, ~80 Wörter) oder Teil 3 (Mitteilung zur
+    Handlungsregulierung).
   estimated_duration_minutes: 3
 
 notes:
