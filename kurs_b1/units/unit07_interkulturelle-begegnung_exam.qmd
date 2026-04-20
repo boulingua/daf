@@ -1,0 +1,54 @@
+---
+title: "Goethe-Modellprüfung B1 — Sprechen, Teil 1"
+subtitle: "Einheit 7 · Interkulturelle Begegnung · GER-Stufe B1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabenstellung
+
+::: {.callout-warning}
+Formal am B1-Sprechen-Modul Teil 1 orientiert: gemeinsam etwas
+planen und aushandeln, vier Leitpunkte, ca. 3 Minuten zu zweit.
+:::
+
+Sie planen mit Ihrer Prüfungspartnerin / Ihrem Prüfungspartner
+ein **gemeinsames Abschlussessen für einen Sprachkurs**.
+Einigen Sie sich auf **alle vier Leitpunkte**:
+
+1. **Wann?** Datum und Uhrzeit.
+2. **Wo?** Restaurant, zu Hause, im Park — begründet.
+3. **Was essen?** Budget, Vorlieben, Allergien.
+4. **Wer organisiert / wer lädt wen ein?**
+
+## Bewertungskriterien (B1 Sprechen)
+
+- **Erfüllung der Aufgabe** — alle vier Leitpunkte behandelt?
+- **Kohärenz** — Übergänge, Redefluss.
+- **Wortschatz** — Spektrum und Beherrschung.
+- **Strukturen** — Spektrum und Beherrschung.
+- **Aussprache** — Satzmelodie, Wortakzent, einzelne Laute.
+
+Skala A–E pro Dimension. Bei E in Erfüllung wird die Aufgabe
+insgesamt mit 0 bewertet.
+
+## Redemittel für die Paarprüfung
+
+- Vorschlag: *„Wie wäre es mit …?" · „Was hältst du von …?"*
+- Zustimmung: *„Das ist eine gute Idee." · „Da stimme ich dir zu."*
+- Ablehnung: *„Ich finde … nicht so passend, weil …" · „Da bin ich
+  skeptisch, weil …"*
+- Einigung: *„Abgemacht, also …" · „Also halten wir fest: …"*
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 7 · GER-Stufe B1*
