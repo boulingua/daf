@@ -3,43 +3,120 @@ title: "Kurs A1 — Anfänger:innen"
 ---
 
 ::: {.hero-kicker}
-KURS A1 · ANFÄNGER:INNEN
+KURS A1 · ANFÄNGER:INNEN · ALLTAGSENSEMBLE WIEN
 :::
 
 # A1 — Anfänger:innen
 
 [A1]{.cefr-badge .a1}
 
-Zwölf Einheiten entlang des GER-Niveaus **A1**. Absoluter Einstieg. Alltagsphrasen, einfaches Präsens, Ich/Du-Grundlagen. Ziel: Start Deutsch 1 bestehen.
-
-## Prüfungsziel
-
-**Start Deutsch 1** · ca. 80 Minuten, 100 Punkte, Bestehen bei 60 %.
-
-Details zum Prüfungsformat siehe
-[Goethe-Formate](../goethe_formate.qmd) oder die Rohdaten in
-[`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml).
-
-## Die zwölf Einheiten
-
-::: {.callout-note}
-**Scaffold-Stand.** Die Einheit-Titel und -Themen werden in
-Phase 2 im Themenplan `_resources/curriculum_outline.yml` fixiert
-und hier in ein Kartenraster übertragen. Bis dahin ist dies eine
-Placeholderseite.
-:::
-
-- [Kurswochenplan](uebersicht.qmd) — 12 Einheiten in
-  chronologischer Reihenfolge.
+Zwölf Einheiten für den absoluten Einstieg in die deutsche
+Sprache. Alltagsphrasen, einfaches Präsens, Ich/Du/Er-Grundlagen.
+Ziel: **Start Deutsch 1** (Goethe-Zertifikat A1) — ca. 80 Min,
+100 Punkte, Bestehen bei 60 %.
 
 ## Wiederkehrende Figurenbesetzung
 
-Die Figuren für diesen Kurs werden in Phase 2 (Themenplan) final
-benannt. Die Setzung folgt der im DaF-Prompt vorgegebenen
-stufengerechten Tonalität (A1: Alltagsensemble wie Ana, Luka, Frau Kurz, Herr Keks).
+Vier Figuren, ein Sprachkurs in Wien:
+
+- **Ana Silva** — 24, aus Lissabon. Studiert Musik, macht ein
+  Praktikum an einer Wiener Musikschule. Erste Protagonistin.
+- **Luka** — Programmierer aus Istanbul. Lebt seit 6 Monaten in
+  Wien, fotografiert gern.
+- **Frau Kurz** — Deutschlehrerin an der Volkshochschule Wien.
+  Moderiert den Kurs, gibt Feedback.
+- **Herr Keks** — Bäcker aus Linz, hat eine kleine Bäckerei in
+  Wien-Ottakring. Zentraler Ort des Kurs-Alltags: sein Café.
+
+## Die zwölf Einheiten
+
+::: {.card-grid}
+
+::: {.card}
+### [Einheit 1 — Begrüßung und Name](units/unit01_begruessung-und-name.qmd)
+Modul: Sprechen. Hallo/Tschüss, Name + Herkunft.
+:::
+
+::: {.card}
+### [Einheit 2 — Meine Familie](units/unit02_meine-familie.qmd)
+Modul: Lesen. Familienvokabular, mein/meine.
+:::
+
+::: {.card}
+### [Einheit 3 — Woher kommst du?](units/unit03_woher-kommst-du.qmd)
+Modul: Hören. Länder, Städte, W-Fragen.
+:::
+
+::: {.card}
+### [Einheit 4 — Meine Wohnung](units/unit04_meine-wohnung.qmd)
+Modul: Schreiben. Räume, Möbel, Formular.
+:::
+
+::: {.card}
+### [Einheit 5 — Essen und trinken](units/unit05_essen-und-trinken.qmd)
+Modul: Lesen. Speisekarte, Bestellen.
+:::
+
+::: {.card}
+### [Einheit 6 — Einkaufen und Preise](units/unit06_einkaufen-und-preise.qmd)
+Modul: Hören. Zahlen, Preise, Durchsagen.
+:::
+
+::: {.card}
+### [Einheit 7 — Uhrzeit und Wochenplan](units/unit07_uhrzeit-und-wochenplan.qmd)
+Modul: Schreiben. Tage, Zeiten, am/um, SMS.
+:::
+
+::: {.card}
+### [Einheit 8 — Wetter und Jahreszeiten](units/unit08_wetter-und-jahreszeiten.qmd)
+Modul: Hören. Wetterbericht, 4 Jahreszeiten.
+:::
+
+::: {.card}
+### [Einheit 9 — Körper und Gesundheit](units/unit09_koerper-und-gesundheit.qmd)
+Modul: Sprechen. Körperteile, Arztgespräch.
+:::
+
+::: {.card}
+### [Einheit 10 — Mein Beruf](units/unit10_mein-beruf.qmd)
+Modul: Schreiben. Berufe m/f, kurze Kontaktmail.
+:::
+
+::: {.card}
+### [Einheit 11 — Meine Freizeit und Hobbys](units/unit11_meine-freizeit.qmd)
+Modul: Sprechen. Hobbys, Präsens, Fragen.
+:::
+
+::: {.card}
+### [Einheit 12 — Reisen und unterwegs](units/unit12_reisen-und-unterwegs.qmd)
+Modul: Lesen. Fahrplan, Schilder, Postkarte.
+:::
+
+:::
+
+## Prüfungsziel
+
+**Goethe-Zertifikat A1: Start Deutsch 1** — eine schriftliche
+Prüfung (Hören + Lesen + Schreiben, je 25 P.) plus mündliche
+Gruppenprüfung Sprechen (25 P.). Gesamtdauer ca. 80 Min,
+Bestehensgrenze 60 P. (60 %).
+
+Details: [Goethe-Formate](../goethe_formate.qmd) ·
+Rohdaten in
+[`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml).
+
+## Modul-Abdeckung
+
+| Modul     | Einheiten |
+|-----------|-----------|
+| Lesen     | 2, 5, 12  |
+| Hören     | 3, 6, 8   |
+| Schreiben | 4, 7, 10  |
+| Sprechen  | 1, 9, 11  |
 
 ## Weiter
 
-- [Vollständige Übersicht aller 60 Einheiten](../uebersicht.qmd)
+- [Wochenplan des Kurses](uebersicht.qmd)
+- [Übersicht aller 60 Einheiten](../uebersicht.qmd)
 - [Goethe-Formate](../goethe_formate.qmd)
 - [Zurück zur Startseite](../index.qmd)
