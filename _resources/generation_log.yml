@@ -1,10 +1,11 @@
 site: "daf-goethe"
 current_phase: 3
-current_phase_label: "Prototyp B1 — 12 Einheiten End-to-End"
+current_phase_label: "Prototyp B1 — 12 Einheiten abgeschlossen"
 phase_0_complete: true
 phase_1_complete: true                # CI 24668142051 success, Site live
 phase_2_complete: true                # Outline user-approved 2026-04-20 ("go")
-last_completed_turn: 31
+phase_3_complete: true                # 12 B1-Einheiten + Exam-Wrapper committet
+last_completed_turn: 32
 
 phase_3_checklist:
   b1_unit_01: "complete"              # kurs_b1/units/unit01_neuanfang-in-basel{,_exam}.qmd
@@ -18,7 +19,7 @@ phase_3_checklist:
   b1_unit_09: "complete"
   b1_unit_10: "complete"
   b1_unit_11: "complete"
-  b1_unit_12: "not_started"
+  b1_unit_12: "complete"
   b1_worksheets: "not_started"        # python _scripts/make_placeholder_worksheets.py --course b1
   b1_local_render: "deferred"         # Quarto nicht lokal verfügbar; CI beim Push
 last_completed_at: "2026-04-20T00:00:00Z"
@@ -78,16 +79,15 @@ phase_2_status:
   user_approved_at: "2026-04-20 ('go')"
 
 next_turn:
-  action: "phase_3_prototype_b1_unit_02"
+  action: "phase_4_fanout_start"
   description: >-
-    DaF Phase 3 Turn 22 — B1 Unit 2 „Der Bewerbungsweg: Anschreiben
-    und Vorstellungsgespräch" (kurs_b1/units/unit02_der-bewerbungsweg.qmd).
-    goethe_module: schreiben. skills_focus: schreiben+sprechen.
-    Input: Anschreibensmuster (original) + Vorstellungsgespräch-Dialog.
-    Prüfungsbeispiel: B1-Schreiben-Teil 1 (Mitteilung zur
-    Kontaktpflege, ~80 Wörter) oder Teil 3 (Mitteilung zur
-    Handlungsregulierung).
+    DaF Phase 4 Fan-out — die 48 übrigen Einheiten (A1×12, A2×12,
+    B2×12, C1×12) analog zum B1-Prototyp. Batching: pro Batch ein
+    kompletter Kurs (12 Einheiten + Exam-Wrapper). Vorgeschlagene
+    Reihenfolge: A1 → A2 → B2 → C1 (vom leichtesten zum schwersten).
+    Phase 4 entspricht ~48 Turns.
   estimated_duration_minutes: 3
+  next_after: "Phase 5 Politur (Glossar-Links, Schedule, Coverage)"
 
 notes:
   - "A1 format extracted from the official Goethe-Institut publication 'Prüfungsziele, Testbeschreibung A1' (VS_08_190422, 4. Auflage 2022), rather than the web overview page."
