@@ -1,0 +1,61 @@
+---
+title: "Goethe-Modellprüfung B1 — Schreiben, Teil 3"
+subtitle: "Einheit 9 · Konsum und Verbraucherschutz · GER-Stufe B1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabenstellung
+
+::: {.callout-warning}
+Formal am B1-Schreiben-Modul Teil 3 orientiert (persönliche
+Mitteilung zur Handlungsregulierung, ca. 40 Wörter). Stimulus
+original.
+:::
+
+Sie haben ein Konzertticket online gekauft — das Konzert wurde
+kurzfristig abgesagt. Sie möchten die Rückerstattung klären.
+
+Schreiben Sie an den Veranstalter (**ca. 40 Wörter**):
+
+- Beschreiben Sie den Kauf kurz (Datum, Preis, Konzert).
+- Fragen Sie nach einer Rückerstattung.
+- Erkundigen Sie sich nach dem genauen Ablauf.
+
+Vergessen Sie Anrede, Grußformel und Namen nicht.
+
+## Bewertungskriterien (B1 Schreiben Teil 3)
+
+- **Erfüllung der Aufgabe (Mitteilung, Inhalt)** — drei Punkte
+  behandelt?
+- **Register / soziokulturelle Angemessenheit** — halb-formell,
+  Sie-Anrede.
+- **Wortschatz und Strukturen** — B1-typisch.
+
+Skala A–E pro Dimension. Unter 20 Wörter oder Thema verfehlt →
+Aufgabe insgesamt E (0 Punkte).
+
+## Musterlösung (ca. 42 Wörter)
+
+> Sehr geehrte Damen und Herren,
+>
+> ich habe am 12.05. zwei Tickets für das Konzert von „Ava Lang"
+> am 20.05. für 68 € gekauft. Das Konzert wurde abgesagt. Können
+> Sie mir den Betrag zurückerstatten? Ich bitte um Information
+> zum genauen Ablauf.
+>
+> Mit freundlichen Grüßen
+> T. Jelińska
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 9 · GER-Stufe B1*
