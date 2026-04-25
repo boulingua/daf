@@ -1,11 +1,15 @@
 site: "daf-goethe"
-current_phase: 3
-current_phase_label: "Prototyp B1 — 12 Einheiten abgeschlossen"
+current_phase: 6
+current_phase_label: "Übergabe — DaF-Site abgeschlossen"
 phase_0_complete: true
-phase_1_complete: true                # CI 24668142051 success, Site live
-phase_2_complete: true                # Outline user-approved 2026-04-20 ("go")
-phase_3_complete: true                # 12 B1-Einheiten + Exam-Wrapper committet
-last_completed_turn: 32
+phase_1_complete: true                # CI success, Site live
+phase_2_complete: true                # Outline user-approved 2026-04-20
+phase_3_complete: true                # B1 Prototyp 12 Einheiten
+phase_4_complete: true                # A1+A2+B2+C1 = 48 Einheiten; Site-Vollausbau 60/60
+phase_5_complete: true                # Schedule + Glossar + Bewertungsraster + Coverage 100%
+phase_6_complete: true                # HANDOVER.md
+last_completed_turn: 84
+release_tag: "v1.0.0"
 
 phase_3_checklist:
   b1_unit_01: "complete"              # kurs_b1/units/unit01_neuanfang-in-basel{,_exam}.qmd
