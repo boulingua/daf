@@ -190,7 +190,7 @@ courses:
         goethe_module: "schreiben"
         theme_arc_position: 8
       - unit_nr: 9
-        slug: "pläne-und-zukunft"
+        slug: "plaene-und-zukunft"
         title: "Pläne und Zukunft"
         skills_focus: ["sprechen", "schreiben"]
         cefr_can_do: ["Pläne ausdrücken", "eine Einladung oder Zusage formulieren"]
