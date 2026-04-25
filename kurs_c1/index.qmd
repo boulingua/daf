@@ -3,43 +3,119 @@ title: "Kurs C1 — Kompetent"
 ---
 
 ::: {.hero-kicker}
-KURS C1 · KOMPETENT
+KURS C1 · KOMPETENT · METHODISCH-LITERARISCH
 :::
 
 # C1 — Kompetent
 
 [C1]{.cefr-badge .c1}
 
-Zwölf Einheiten entlang des GER-Niveaus **C1**. Nuancierte Argumentation, stilistische Register, Nominalisierung, Konnotation, Fachsprachen. Ziel: Goethe-Zertifikat C1 (modular).
+Zwölf Einheiten auf C1: nuancierte Argumentation, stilistische
+Register, Nominalisierung, Konnotation, literarische Tradition.
+Ziel: **Goethe-Zertifikat C1 (modular)**, je Modul 100 Punkte,
+Bestehen bei 60 %.
 
-## Prüfungsziel
+## Cast: Textstimmen statt Charaktere
 
-**Goethe-Zertifikat C1 (modular)** · modular, je Modul 100 Punkte, Bestehen bei 60 %.
+Auf C1 wechseln wir den Modus: Statt einer wiederkehrenden Figuren-
+besetzung arbeiten wir mit **Textstimmen** und **Diskurs-Rollen**:
 
-Details zum Prüfungsformat siehe
-[Goethe-Formate](../goethe_formate.qmd) oder die Rohdaten in
-[`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml).
+- **Die Autorin (Meta-Stimme)** — reflektiert über DaF-Didaktik,
+  besonders in Einheit 1 + 5 + 11.
+- **Textstimmen-Bezugspunkte** im Geist von **May Ayim** (Einheit
+  5), **Peter Handke** (Einheit 4 / 11), **Terézia Mora** (Einheit
+  4 / 12) — alle Textauszüge sind originale Imitationen *im Stil*.
+- **Spezialist:innen-Cameos:** Dr. Helena Stark (U3 Wissenschafts-
+  theorie), drei Historiker:innen Vogt/Bauer/Lange (U7), Prof.
+  Roth (U8), drei Literatur-Stimmen K/B/L (U12).
 
 ## Die zwölf Einheiten
 
-::: {.callout-note}
-**Scaffold-Stand.** Die Einheit-Titel und -Themen werden in
-Phase 2 im Themenplan `_resources/curriculum_outline.yml` fixiert
-und hier in ein Kartenraster übertragen. Bis dahin ist dies eine
-Placeholderseite.
+::: {.card-grid}
+
+::: {.card}
+### [Einheit 1 — Literarisches Argumentieren](units/unit01_literarisches-argumentieren.qmd)
+Modul: Lesen. Hermeneutischer Zirkel, Formalismus vs. Biografismus.
 :::
 
-- [Kurswochenplan](uebersicht.qmd) — 12 Einheiten in
-  chronologischer Reihenfolge.
+::: {.card}
+### [Einheit 2 — Politische Diskursanalyse](units/unit02_politische-diskursanalyse.qmd)
+Modul: Schreiben. Framing, Präsupposition, Wir-Bildung.
+:::
 
-## Wiederkehrende Figurenbesetzung
+::: {.card}
+### [Einheit 3 — Wissenschaftstheorie](units/unit03_wissenschaftstheorie.qmd)
+Modul: Hören. Empirismus / Falsifikation / Paradigmen.
+:::
 
-Die Figuren für diesen Kurs werden in Phase 2 (Themenplan) final
-benannt. Die Setzung folgt der im DaF-Prompt vorgegebenen
-stufengerechten Tonalität (C1: Textstimmen, Autor:innen als Charaktere).
+::: {.card}
+### [Einheit 4 — Ästhetik und Urteil](units/unit04_aesthetik-und-urteil.qmd)
+Modul: Sprechen. Stilanalyse, Geschmack vs. Kanon.
+:::
+
+::: {.card}
+### [Einheit 5 — Identität und Sprache](units/unit05_identitaet-und-sprache.qmd)
+Modul: Schreiben. Heritage Speaker, Translanguaging, Code-Switching.
+:::
+
+::: {.card}
+### [Einheit 6 — Postkoloniale Perspektiven](units/unit06_postkoloniale-perspektiven.qmd)
+Modul: Lesen. Othering, Repräsentation, Restitution.
+:::
+
+::: {.card}
+### [Einheit 7 — Historiografie](units/unit07_historiografie.qmd)
+Modul: Hören. Quelle, Narrativ, Schweige-Archiv.
+:::
+
+::: {.card}
+### [Einheit 8 — Philosophie für Laien](units/unit08_philosophie-fuer-informierte-laien.qmd)
+Modul: Schreiben. Lebenswelt, Antinomie, höflicher Widerspruch.
+:::
+
+::: {.card}
+### [Einheit 9 — Fachsprachen](units/unit09_fachsprachen-wirtschaft-medizin-recht.qmd)
+Modul: Lesen. Wirtschaft / Medizin / Recht im Vergleich,
+Sprachmittlungs-Strategien.
+:::
+
+::: {.card}
+### [Einheit 10 — Stilistik und Rhetorik](units/unit10_stilistik-und-rhetorik.qmd)
+Modul: Sprechen. Anapher, Klimax, Antithese, Chiasmus.
+:::
+
+::: {.card}
+### [Einheit 11 — Literarische Moderne](units/unit11_literarische-moderne.qmd)
+Modul: Sprechen. Kafka / Mann / Musil — Stiltypen 1900-1939.
+:::
+
+::: {.card}
+### [Einheit 12 — Gegenwartsliteratur](units/unit12_gegenwartsliteratur.qmd)
+Modul: Hören. Auto-Fiktion, politische Romanstruktur, Stilfragment.
+:::
+
+:::
+
+## Prüfungsziel
+
+**Goethe-Zertifikat C1 (modular)** — Lesen 65 Min · Hören 40 Min ·
+Schreiben 75 Min · Sprechen ca. 20 Min Paarprüfung. Je Modul
+100 Punkte, Bestehen bei 60.
+
+Details: [Goethe-Formate](../goethe_formate.qmd) ·
+[`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml).
+
+## Modul-Abdeckung
+
+| Modul     | Einheiten   |
+|-----------|-------------|
+| Lesen     | 1, 6, 9     |
+| Hören     | 3, 7, 12    |
+| Schreiben | 2, 5, 8     |
+| Sprechen  | 4, 10, 11   |
 
 ## Weiter
 
-- [Vollständige Übersicht aller 60 Einheiten](../uebersicht.qmd)
-- [Goethe-Formate](../goethe_formate.qmd)
+- [Wochenplan des Kurses](uebersicht.qmd)
+- [Übersicht aller 60 Einheiten](../uebersicht.qmd)
 - [Zurück zur Startseite](../index.qmd)
