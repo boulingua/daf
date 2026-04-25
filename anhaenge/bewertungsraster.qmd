@@ -3,29 +3,111 @@ title: "Bewertungsraster"
 ---
 
 ::: {.hero-kicker}
-DAF · ANHANG
+DAF · BEWERTUNGSRASTER · A1–C1
 :::
 
-# Bewertungsraster
+# Bewertungsraster (Auszüge)
 
-::: {.callout-note}
-**Scaffold-Stand.** Dieser Anhang wird in **Phase 5 (Politur)**
-gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
-diese Seite quer durch das Material Links zu konkreten
-Unterrichtsstellen setzen.
-:::
+Die offiziellen Goethe-Bewertungsraster für **Schreiben** und
+**Sprechen** auf den fünf Stufen — in einer einheitlichen
+Tabellenform. Vollständig ausformulierte Skalen liegen in den
+fünf YAML-Dateien unter
+[`_resources/`](https://github.com/boulingua/daf/tree/main/_resources):
+`goethe_format_a1.yml` bis `goethe_format_c1.yml`.
 
-Die offiziellen Goethe-Bewertungsraster für Schreiben und Sprechen auf den fünf Stufen, in einer einheitlichen Tabellenform. Die Rohdaten liegen in `_resources/goethe_format_<stufe>.yml`; diese Seite macht sie durchsuchbar.
+## Pass-Schwellen kompakt
 
-## Vorläufige Struktur
+| Stufe | Prüfungsmodell        | Max. Punkte         | Bestehen |
+|-------|-----------------------|---------------------|----------|
+| A1    | 4 Module in 1 Block   | 100 (4 × 25)        | 60 %     |
+| A2    | 4 Module in 1 Block   | 100 (4 × 25)        | 60 %     |
+| B1    | 4 Module modular      | je 100 pro Modul    | 60 % pro Modul |
+| B2    | 4 Module modular      | je 100 pro Modul    | 60 % pro Modul |
+| C1    | 4 Module modular      | je 100 pro Modul    | 60 % pro Modul |
 
-- **Schreiben-Raster A1–C1** — Aufgabenerfüllung + Sprache (A–E-Skala), KO-Regeln (Textumfang < 50 %).
-- **Sprechen-Raster A1–C1** — Aufgabenerfüllung + Sprache + Aussprache, je mit stufenspezifischen Deskriptoren.
-- **Skalenumrechnung** — Rohpunkte zu Zertifikatspunkten (z. B. A2: ×1.25 für Lesen/Hören/Schreiben).
-- **Goethe-Prädikate** — sehr gut / gut / befriedigend / ausreichend / nicht bestanden (A1/A2-Punkteskala).
+## Skalen-Logik (B1 / B2 / C1)
 
-## Zurück
+Auf B1, B2 und C1 wird jede produktive Aufgabe (Schreiben /
+Sprechen) entlang **fünf Dimensionen** auf einer **A–E-Skala**
+bewertet. Die Skala ist absteigend:
 
-- [Startseite](../index.qmd)
-- [Übersicht aller Einheiten](../uebersicht.qmd)
-- [Goethe-Formate](../goethe_formate.qmd)
+| Stufe | Punkte | Bedeutung               |
+|-------|--------|-------------------------|
+| A     | 5      | voll erfüllt            |
+| B     | 3,5    | überwiegend erfüllt     |
+| C     | 2      | teilweise erfüllt       |
+| D     | 0,5    | kaum erfüllt            |
+| E     | 0      | nicht erfüllt           |
+
+**KO-Regel:** Wird die Dimension **Erfüllung der Aufgabe** mit E
+bewertet, ist die gesamte Aufgabe 0 Punkte — unabhängig von den
+anderen Dimensionen.
+
+## Schreiben — Dimensionen je Stufe
+
+| Stufe | Dimensionen                                    |
+|-------|------------------------------------------------|
+| A1    | 1 Punkt pro richtig ausgefülltem Feld (Formular) + Inhaltspunkte (Kurzmitteilung) |
+| A2    | Aufgabenerfüllung · Sprache (je A–E)           |
+| B1    | Erfüllung · Kohärenz · Wortschatz · Strukturen |
+| B2    | Erfüllung · Wortschatz · Strukturen · Register |
+| C1    | Erfüllung · Kohärenz · Wortschatz · Strukturen · Register |
+
+## Sprechen — Dimensionen je Stufe
+
+| Stufe | Dimensionen                                       |
+|-------|---------------------------------------------------|
+| A1    | je 1 Punkt für Vorstellen / Buchstabieren / Nummer (Teil 1) + Aufgabenerfüllung Teil 2/3 |
+| A2    | Aufgabenerfüllung · Sprache · Aussprache (gesamt) |
+| B1    | Erfüllung · Kohärenz · Wortschatz · Strukturen · Aussprache |
+| B2    | Erfüllung · Kohärenz · Wortschatz · Strukturen · Aussprache |
+| C1    | Erfüllung · Kohärenz · Wortschatz · Strukturen · Aussprache |
+
+## A1 / A2 — Notenskala (Ergebnisskala)
+
+| Punkte (von 100) | Prädikat (DE)          |
+|------------------|------------------------|
+| 90 – 100         | sehr gut               |
+| 80 – 89          | gut                    |
+| 70 – 79          | befriedigend           |
+| 60 – 69          | ausreichend            |
+| 0 – 59           | nicht bestanden        |
+
+(Quelle: Goethe-Zertifikat A1 *Prüfungsziele,
+Testbeschreibung*, S. 7.)
+
+## Modul-Verteilung in dieser Site
+
+Pro Kurs (12 Einheiten) wird jedes Goethe-Modul **dreimal**
+vertieft. Über alle 60 Einheiten ergibt das:
+
+| Modul     | Einheiten gesamt |
+|-----------|------------------:|
+| Lesen     | 15               |
+| Hören     | 15               |
+| Schreiben | 15               |
+| Sprechen  | 15               |
+
+→ siehe [Übersicht](../uebersicht.qmd) für die genaue Zuordnung.
+
+## Pflicht-Lektüre
+
+Diese Tabelle ist eine Kompaktfassung. Für Prüfungsdurchführung
+und offizielle Bewertung ist immer die jeweilige
+*„Prüfungsziele, Testbeschreibung"* bzw. *„Modellsatz"*-Publikation
+des Goethe-Instituts maßgeblich. Direktverweise:
+
+- [`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml)
+- [`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml)
+- [`_resources/goethe_format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b1.yml)
+- [`_resources/goethe_format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b2.yml)
+- [`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml)
+
+## Siehe auch
+
+- [Goethe-Formate](../goethe_formate.qmd) — Übersicht aller
+  Module pro Stufe.
+- [Glossar](glossar.qmd) — Begriffe wie *Erwartungshorizont,
+  Inhaltspunkt*, etc.
+- [Übersicht](../uebersicht.qmd) — alle 60 Einheiten mit
+  Modul-Tag.
