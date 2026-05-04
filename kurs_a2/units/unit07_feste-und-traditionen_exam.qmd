@@ -1,0 +1,47 @@
+---
+title: "Goethe-Zertifikat A2 — Lesen, Teil 3"
+subtitle: "Einheit 7 · Feste und Traditionen · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+A2-Lesen Teil 3 (Korrespondenz verstehen, MC-3gl).
+:::
+
+Lesen Sie die Einladung.
+
+> **Stadtfest Graz — Samstag, 28. Juni**
+>
+> Liebe Nachbar:innen, wir feiern am Samstag unser Stadtfest:
+> 11 – 23 Uhr, Hauptplatz. Musik, Kinderecke (14-17 Uhr),
+> Würstel, Wein, Punsch am Abend. Eintritt frei. Bitte kommt
+> auch mit dem Rad oder mit den Öffis!
+
+Wählen Sie a, b oder c.
+
+1. Wann beginnt das Stadtfest?
+   - [ ] a) 10 Uhr
+   - [ ] b) 11 Uhr
+   - [ ] c) 14 Uhr
+
+2. Wann ist die Kinderecke offen?
+   - [ ] a) den ganzen Tag
+   - [ ] b) 14–17 Uhr
+   - [ ] c) nur am Abend
+
+3. Wie viel kostet der Eintritt?
+   - [ ] a) 5 €
+   - [ ] b) 10 €
+   - [ ] c) umsonst
+
+## Lösungen
+
+1. **b** · 2. **b** · 3. **c**.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 7 · GER-Stufe A2*

@@ -1,0 +1,56 @@
+---
+title: "Start Deutsch 1 — Schreiben, Teil 2"
+subtitle: "Einheit 7 · Uhrzeit und Wochenplan · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Schreiben-Modul Teil 2 orientiert:
+Kurzmitteilung mit 3 Inhaltspunkten, ca. 30 Wörter, 10 P.
+:::
+
+Sie haben am Donnerstag um **9:00 Uhr Deutschkurs**. Leider
+sind Sie krank. Schreiben Sie eine **kurze Nachricht an Ihre
+Kursleiterin Frau Kurz** (ca. 30 Wörter):
+
+- **Entschuldigen** Sie sich.
+- **Erklären** Sie, warum Sie nicht kommen.
+- **Fragen** Sie nach den Hausaufgaben.
+
+Vergessen Sie Anrede, Grußformel und Ihren Namen nicht.
+
+## Bewertung
+
+| Kriterium                    | Punkte |
+|------------------------------|-------:|
+| Inhaltspunkt 1 (Entschuldigung) | 3   |
+| Inhaltspunkt 2 (Grund)        | 3     |
+| Inhaltspunkt 3 (Hausaufgaben) | 3     |
+| Textsortenadäquat (Anrede, Gruß) | 1  |
+| **Gesamt**                    | **10** |
+
+## Musterlösung (ca. 31 Wörter)
+
+> Liebe Frau Kurz,
+>
+> es tut mir leid. Ich kann heute nicht kommen — ich bin krank.
+> Können Sie mir bitte die Hausaufgaben schicken? Vielen Dank!
+>
+> Viele Grüße
+> Ana
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 7 · GER-Stufe A1*

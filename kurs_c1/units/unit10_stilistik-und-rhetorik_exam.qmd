@@ -1,0 +1,50 @@
+---
+title: "Goethe-Zertifikat C1 — Sprechen Teil 1 + 2"
+subtitle: "Einheit 10 · Stilistik und Rhetorik · GER-Stufe C1"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+C1-Sprechen Teil 1 (Vortrag, ca. 4 Min) + Teil 2 (Diskussion,
+kontroverse Frage, ca. 5 Min).
+:::
+
+### Teil 1 — Vortrag
+
+Halten Sie einen Vortrag (ca. 4 Minuten) zu:
+
+> *„Stil im Beruf — wann ist sprachliche Ausschmückung Hilfe,
+> wann Hindernis?"*
+
+Setzen Sie vier Sprachfunktionen um (erklären, argumentieren,
+mit Beispielen erläutern, Vor- und Nachteile erwägen).
+
+### Teil 2 — Diskussion
+
+> *„Eine Pressemitteilung sollte ohne rhetorische Figuren
+> auskommen — alles andere ist Manipulation."*
+
+Eine Person vertritt die These, die andere widerspricht.
+
+## Bewertung
+
+A–E pro Dimension: Erfüllung · Kohärenz · Wortschatz · Strukturen
+· Aussprache.
+
+## Erwartungshorizont
+
+Eine gute Bearbeitung enthält:
+
+- mindestens drei rhetorische Figuren mit Namen,
+- zwei konkrete Berufsbeispiele,
+- eine reflexive Einsicht zur Grenze zwischen Stil und
+  Manipulation,
+- eine persönliche Position am Schluss.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 10 · GER-Stufe C1*

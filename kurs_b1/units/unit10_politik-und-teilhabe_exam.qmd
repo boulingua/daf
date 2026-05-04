@@ -1,0 +1,64 @@
+---
+title: "Goethe-Modellprüfung B1 — Sprechen, Teil 2+3"
+subtitle: "Einheit 10 · Politik und Teilhabe · GER-Stufe B1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabenstellung
+
+::: {.callout-warning}
+Formal am B1-Sprechen-Modul Teil 2 (Präsentation mit 5 Folien)
+und Teil 3 (Feedback + Rückfrage) orientiert.
+:::
+
+Halten Sie eine Präsentation (**5 Folien, ca. 3 Minuten**) zu
+Thema A **oder** Thema B. Gliedern Sie wie folgt:
+
+1. Einleitung / persönlicher Bezug zum Thema.
+2. Hauptteil: Beispiele und Erfahrungen.
+3. Die Situation in meinem Land / meiner Region.
+4. Vor- und Nachteile aus meiner Sicht.
+5. Abschluss / Ausblick.
+
+**Thema A:** Wählen ab 16 — sinnvoll oder nicht?
+
+**Thema B:** Bürgerinitiativen — hilft das wirklich, oder ist
+es nur Symbolpolitik?
+
+### Teil 3 (1–2 Min)
+
+Nachdem Ihre Partnerin / Ihr Partner präsentiert hat, geben Sie
+eine Rückmeldung **und** stellen eine Frage zum Vortrag.
+
+## Bewertungskriterien
+
+Bewertet entlang der offiziellen B1-Sprechen-Kriterien:
+
+- Erfüllung der Aufgabe
+- Kohärenz
+- Wortschatz (Spektrum + Beherrschung)
+- Strukturen (Spektrum + Beherrschung)
+- Aussprache
+
+## Erwartungshorizont (Thema B, Auszug)
+
+Ein guter B1-Vortrag zu Thema B enthält mindestens:
+
+- ein konkretes Beispiel einer Initiative (Mülltrennung,
+  Verkehrsberuhigung, Schulgarten),
+- ein Argument für und eines gegen den Nutzen,
+- eine persönliche Positionierung am Schluss.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 10 · GER-Stufe B1*

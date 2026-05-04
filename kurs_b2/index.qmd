@@ -1,0 +1,119 @@
+---
+title: "Kurs B2 — Selbstständig (obere Stufe)"
+---
+
+::: {.hero-kicker}
+KURS B2 · ARGUMENTATIV · GESELLSCHAFTLICHE THEMEN
+:::
+
+# B2 — Selbstständig (obere Stufe)
+
+[B2]{.cefr-badge .b2}
+
+Zwölf Einheiten auf B2: differenzierte Meinungen, Passiv,
+komplexe Hypotaxe, Argumentation in gesellschaftlichen und
+fachlichen Diskursen. Ziel: **Goethe-Zertifikat B2 (modular)**,
+je Modul 100 P., Bestehen bei 60 %.
+
+## Wiederkehrende Figurenbesetzung
+
+- **Elena Mazzini** — Wissenschaftsjournalistin in Wien,
+  moderiert Podcasts und Panels.
+- **Kjell Baumann** — NGO-Mitarbeiter Köln, schreibt
+  gesellschaftspolitische Forumsbeiträge.
+- **Dr. Talia Weiss** — Ethikerin in Freiburg, kommentiert
+  Studien und digitale Ethik.
+- **Nihad Kovač** — Kulturmanager aus Sarajevo, mit Bühne in
+  Berlin, Brückenfigur im Literatur- und Migrationsdiskurs.
+
+Aus B1 weiter mit: **Dr. Lenz** (U7 Gesundheitspolitik).
+
+## Die zwölf Einheiten
+
+::: {.card-grid}
+
+::: {.card}
+### [Einheit 1 — Medienlandschaft heute](units/unit01_medienlandschaft-heute.qmd)
+Modul: Lesen. Qualitätspresse vs. Boulevard vs. Fachmagazin.
+:::
+
+::: {.card}
+### [Einheit 2 — Wissenschaft kommunizieren](units/unit02_wissenschaft-kommunizieren.qmd)
+Modul: Hören. Fachinterview, Polarisierungsstudie.
+:::
+
+::: {.card}
+### [Einheit 3 — Gesellschaftliche Debatten](units/unit03_gesellschaftliche-debatten.qmd)
+Modul: Schreiben. Forumsbeitrag-Bausteine, Konnektoren.
+:::
+
+::: {.card}
+### [Einheit 4 — Arbeitswelt KI](units/unit04_arbeitswelt-im-wandel.qmd)
+Modul: Sprechen. 4 Stimmen, pro/kontra KI.
+:::
+
+::: {.card}
+### [Einheit 5 — Kunst und Kultur](units/unit05_kunst-und-kultur.qmd)
+Modul: Hören. Leopold Museum, Radio-Kritik.
+:::
+
+::: {.card}
+### [Einheit 6 — Migrationsdiskurs](units/unit06_migrationsdiskurs.qmd)
+Modul: Lesen. Essay zu Zugehörigkeit, Wortnuancen.
+:::
+
+::: {.card}
+### [Einheit 7 — Gesundheitspolitik](units/unit07_gesundheitspolitik.qmd)
+Modul: Sprechen. Pflegenotstand, 3-Hebel-Modell.
+:::
+
+::: {.card}
+### [Einheit 8 — Umweltpolitik](units/unit08_umweltpolitik.qmd)
+Modul: Schreiben. CO₂-Preis, Klimageld, ausgewogene Stellungnahme.
+:::
+
+::: {.card}
+### [Einheit 9 — Bildungsdebatten](units/unit09_bildungsdebatten.qmd)
+Modul: Lesen. PISA, Herkunfts-Effekt, Chancengleichheit.
+:::
+
+::: {.card}
+### [Einheit 10 — Ethik digitaler Technologien](units/unit10_ethik-digitaler-technologien.qmd)
+Modul: Schreiben. Gesichtserkennung, Moderations-Redemittel.
+:::
+
+::: {.card}
+### [Einheit 11 — Ökonomie für Laien](units/unit11_oekonomie-fuer-laien.qmd)
+Modul: Hören. Inflation, Kaufkraft, Leitzins.
+:::
+
+::: {.card}
+### [Einheit 12 — Literarische Perspektiven](units/unit12_literarische-perspektiven.qmd)
+Modul: Sprechen. Erzählperspektiven, Buchpräsentation.
+:::
+
+:::
+
+## Prüfungsziel
+
+**Goethe-Zertifikat B2 (modular)** — Lesen 65 Min · Hören 40 Min
+· Schreiben 75 Min · Sprechen ca. 15 Min Paarprüfung. Je Modul
+100 Punkte, Bestehen bei 60.
+
+Details: [Goethe-Formate](../goethe_formate.qmd) ·
+[`_resources/goethe_format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b2.yml).
+
+## Modul-Abdeckung
+
+| Modul     | Einheiten |
+|-----------|-----------|
+| Lesen     | 1, 6, 9   |
+| Hören     | 2, 5, 11  |
+| Schreiben | 3, 8, 10  |
+| Sprechen  | 4, 7, 12  |
+
+## Weiter
+
+- [Wochenplan des Kurses](uebersicht.qmd)
+- [Übersicht aller 60 Einheiten](../uebersicht.qmd)
+- [Zurück zur Startseite](../index.qmd)

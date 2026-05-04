@@ -1,0 +1,49 @@
+---
+title: "Goethe-Zertifikat A2 — Hören, Teil 1"
+subtitle: "Einheit 10 · Medien im Alltag · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+A2-Hören Teil 1 (Radio-Durchsagen, MC-3gl, einmaliges Hören).
+:::
+
+Sie hören fünf Radio-Durchsagen (einmal). Wählen Sie die richtige
+Lösung.
+
+**1. In Wien eröffnet heute …**
+- [ ] a) eine Schule
+- [ ] b) ein Kulturmuseum
+- [ ] c) ein Krankenhaus
+
+**2. Die Tram 6 in Graz fährt ab …**
+- [ ] a) 8 Uhr
+- [ ] b) 10 Uhr
+- [ ] c) 12 Uhr
+
+**3. Das Wetter in Zürich heute …**
+- [ ] a) sonnig
+- [ ] b) regnerisch ab Mittag
+- [ ] c) schneit
+
+**4. Auf der A1 bei Linz …**
+- [ ] a) ist frei
+- [ ] b) 3 km Stau
+- [ ] c) Umleitung
+
+**5. Die Schweizer Nationalbank …**
+- [ ] a) erhöht den Zins
+- [ ] b) senkt um 0,25 Pp.
+- [ ] c) lässt gleich
+
+## Lösungen
+
+1. **b** · 2. **b** · 3. **b** · 4. **b** · 5. **b**.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 10 · GER-Stufe A2*

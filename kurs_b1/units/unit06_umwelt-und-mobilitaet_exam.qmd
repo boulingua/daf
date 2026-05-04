@@ -1,0 +1,54 @@
+---
+title: "Goethe-Modellprüfung B1 — Hören, Teil 3"
+subtitle: "Einheit 6 · Umwelt und Mobilität · GER-Stufe B1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabenstellung
+
+::: {.callout-warning}
+Formal am B1-Hören-Modul Teil 3 orientiert (Gespräche zwischen
+Muttersprachlern, Richtig/Falsch-Aufgabe, einmaliges Hören).
+Transkript aus Einheit 6, Input A.
+:::
+
+Sie hören den Ausschnitt aus einer Podiumsdiskussion zum Thema
+*„Autofrei in der Stadt?"*. Entscheiden Sie zu den folgenden sechs
+Aussagen, ob sie *richtig* oder *falsch* sind.
+
+|   | Aussage                                                                  | Richtig | Falsch |
+|---|--------------------------------------------------------------------------|:-------:|:------:|
+| 1 | Amina Mišić meint, eine autofreie Innenstadt in Sarajevo ist technisch unmöglich. | ☐       | ☐      |
+| 2 | Kjell Baumann argumentiert, in Köln beginne man viertelweise.            | ☐       | ☐      |
+| 3 | Herr Tanner ist grundsätzlich gegen alle Einschränkungen für das Auto.   | ☐       | ☐      |
+| 4 | Die Anwohner:innen in Köln seien nach sechs Monaten begeistert.          | ☐       | ☐      |
+| 5 | Dreißig Prozent der Autofahrten in Sarajevo dauern unter zwei Minuten.   | ☐       | ☐      |
+| 6 | Herr Tanner würde unter sicheren Bedingungen wieder Rad fahren.          | ☐       | ☐      |
+
+## Bewertungskriterien
+
+Pro richtige Antwort ein Punkt, maximal 6 Punkte.
+
+## Lösungen
+
+1. **Falsch** — Aminas Aussage: „technisch ja, politisch kompliziert".
+2. **Richtig** — „Wir fangen mit einem Viertel an, dann noch einem".
+3. **Falsch** — Herr Tanner differenziert (eingeschränkte
+   Mobilität, Ausnahmen), ist nicht absolut gegen Einschränkungen.
+4. **Richtig** — „nach sechs Monaten sind die Anwohner begeistert".
+5. **Falsch** — „kürzer als zwei Kilometer", nicht Minuten.
+6. **Richtig** — „wenn ich mich traute".
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 6 · GER-Stufe B1*

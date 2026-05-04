@@ -1,0 +1,78 @@
+---
+title: "Goethe-Zertifikat C1 — Schreiben, Teil 1"
+subtitle: "Einheit 2 · Politische Diskursanalyse · GER-Stufe C1"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+C1-Schreiben Teil 1 (Meinungsäußerung, ca. 230 Wörter, vier
+Sprachfunktionen).
+:::
+
+Verfassen Sie in einem Feuilleton-Forum einen **analytischen
+Kommentar** (**ca. 230 Wörter**) zur These:
+
+> *„Die Schule sollte ein Pflichtfach ‚Rhetorik und
+> Medienkompetenz' einführen."*
+
+Setzen Sie die folgenden vier **Sprachfunktionen** um:
+
+- **etwas erklären**
+- **Argumente anführen**
+- **anhand von Beispielen erläutern**
+- **Vor- und Nachteile erwägen**
+
+Titel des Beitrags selbst wählen.
+
+## Bewertungskriterien (C1, A-E)
+
+- Erfüllung (Inhalt, Textsorte, 4 Sprachfunktionen)
+- Kohärenz (Textaufbau, Verknüpfung, Absatzgliederung)
+- Wortschatz (Spektrum + Beherrschung, Register)
+- Strukturen (Spektrum + Beherrschung)
+
+Thema verfehlt oder Textumfang < 50 % → insgesamt E.
+
+## Musterlösung (ca. 232 Wörter)
+
+> **Rhetorik lernen — damit wir nicht nur überredet werden**
+>
+> Ein Pflichtfach „Rhetorik und Medienkompetenz" halte ich in
+> einer polarisierten Öffentlichkeit für notwendig, nicht für
+> optional.
+>
+> Erklären lässt sich das an einem einfachen Befund: Jugendliche
+> bewegen sich täglich in rhetorisch hochverdichteten
+> Umgebungen — TikTok-Clips, politische Reden,
+> Werbeströme — ohne dafür je systematisch
+> Analyseinstrumente zu erhalten. Begriffe wie *Framing*,
+> *Präsupposition* oder *Gegnerkonstruktion* gehören heute zur
+> Grundbildung.
+>
+> Argumentativ lassen sich drei Punkte anführen: Erstens schützt
+> Rhetorikanalyse vor Manipulation, ohne zu entmündigen. Zweitens
+> stärkt sie die eigene Ausdrucksfähigkeit. Drittens macht sie
+> Demokratie lehrbar: Ein Bürger, der die Spielregeln kennt,
+> widerspricht präziser.
+>
+> Konkret zeigt sich der Bedarf etwa an der viel zitierten Rede,
+> in der „Heilung" eines „kranken Landes" versprochen wird.
+> Ohne Werkzeug bleibt solch eine Körper-Metapher eine bloße
+> Emotion; mit Werkzeug wird sie zum Analyseobjekt.
+>
+> Natürlich bestehen Nachteile: Die Curricula sind bereits voll,
+> Lehrkräfte brauchen Fortbildung, und die Trennschärfe zwischen
+> Analyse und politischer Positionierung ist anspruchsvoll.
+>
+> Dennoch überwiegt der Gewinn. Ich plädiere deshalb für ein
+> verbindliches, aber schlankes Modul — nicht für einen neuen
+> Großkurs, sondern für eine durchlässige Querschnittskompetenz
+> in Deutsch, Ethik und Sozialkunde.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 2 · GER-Stufe C1*

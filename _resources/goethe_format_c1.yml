@@ -1,0 +1,171 @@
+# Goethe-Zertifikat C1 (modular) — Prüfungsformat
+#
+# Quelle: "Goethe-Zertifikat C1 (modular) — Modellsatz Erwachsene",
+# Goethe-Institut e. V., Bereich 41 DaF-Prüfungen.
+#
+# Abgerufen: 2026-04-20
+# URL: https://www.goethe.de/pro/relaunch/prf/materialien/C1_modular/c1-modular_modellsatz.pdf
+# Referenz-Handbuch: https://www.goethe.de/pro/relaunch/prf/de/Handbuch_Pruefungsziele_Testbeschreibung_C1.pdf
+
+cefr_level: "C1"
+zertifikat: "Goethe-Zertifikat C1 (modular)"
+zielgruppe: "Erwachsene — Bereich 41 DaF-Prüfungen (Goethe-Institut)."
+modularer_aufbau: true
+gesamtpunkte_pro_modul: 100
+bestehensgrenze_pro_modul_prozent: 60
+bestehensgrenze_pro_modul_punkte: 60
+prüfungssprache: "Deutsch"
+hilfsmittel_erlaubt: false
+
+module:
+
+  lesen:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 65
+    anzahl_teile: 4
+    gesamt_items: 30
+    teile:
+      - nummer: 1
+        prüfungsziel: "Text mit Wörtern rekonstruieren"
+        textsorte: "Populärwissenschaftlicher, informativer Artikel"
+        aufgabentyp: "Lückentext mit Multiple-Choice (4-gliedrig)"
+        items: 8
+      - nummer: 2
+        prüfungsziel: "Hauptaussagen und Einzelinformationen verstehen"
+        textsorte: "Zeitschriftenartikel mit hohem Informationsgehalt"
+        aufgabentyp: "Multiple-Choice (3-gliedrig)"
+        items: 7
+      - nummer: 3
+        prüfungsziel: "Text mit Sätzen rekonstruieren"
+        textsorte: "Kommentar oder Reportage aus der Presse"
+        aufgabentyp: "Lückentext mit Zuordnung von acht Sätzen (2 Distraktoren)"
+        items: 8
+      - nummer: 4
+        prüfungsziel: "Meinung oder Aussage suchen, erkennen und verorten"
+        textsorte: "Populär-/wissenschaftliche Beiträge (mehrere Texte)"
+        aufgabentyp: "Zuordnung von fünf Aussagen zu Texten"
+        items: 7
+
+  hören:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 40
+    anzahl_teile: 4
+    gesamt_items: 30
+    teile:
+      - nummer: 1
+        prüfungsziel: "Einzelinformationen in einer Sendung (Rezension) verstehen"
+        textsorte: "Podcast"
+        aufgabentyp: "Zuordnung von Aussagen zu Textabschnitten"
+        items: 6
+      - nummer: 2
+        prüfungsziel: "Aussagen und Einzelinformationen zu Fachthemen verstehen"
+        textsorte: "Interview mit einem Experten / einer Expertin"
+        aufgabentyp: "Multiple-Choice (3-gliedrig)"
+        items: 9
+      - nummer: 3
+        prüfungsziel: "Hauptaussagen und Meinungen in einer Diskussion zu einem aktuellen Thema verstehen"
+        textsorte: "(Radio-) Diskussion mit drei Personen"
+        aufgabentyp: "Multiple-Choice (3-gliedrig)"
+        items: 8
+      - nummer: 4
+        prüfungsziel: "Einzelinformationen zu einem aktuellen Thema verstehen"
+        textsorte: "Vortrag"
+        aufgabentyp: "Multiple-Choice (3-gliedrig)"
+        items: 7
+
+  schreiben:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 75
+    anzahl_teile: 2
+    teile:
+      - nummer: 1
+        prüfungsziel: "Produktion — Meinungsäußerung verfassen"
+        textsorte: "Diskussionsbeitrag in einem Online-Forum"
+        aufgabentyp: "Freier Text (ca. 230 Wörter)"
+        wörter_richtwert: 230
+        sprachfunktionen_anzahl: 4
+        sprachfunktionen_beispiele:
+          - "etwas erklären"
+          - "Argumente anführen"
+          - "anhand von Beispielen erläutern"
+      - nummer: 2
+        prüfungsziel: "Interaktion — (halb-)formelle Mitteilung verfassen"
+        textsorte: "E-Mail"
+        aufgabentyp: "Freier Text (ca. 120 Wörter)"
+        wörter_richtwert: 120
+        sprachfunktionen_anzahl: 4
+        sprachfunktionen_beispiele:
+          - "auf ein Problem aufmerksam machen"
+          - "vorschlagen"
+          - "beschreiben"
+          - "höflich Verständnis zeigen"
+    bewertungskriterien:
+      skala: "A / B / C / D / E"
+      dimensionen:
+        - "Erfüllung (Inhalt, Textsorte, vier Sprachfunktionen)"
+        - "Kohärenz (Textaufbau, Verknüpfung, Absatzgliederung)"
+        - "Wortschatz (Spektrum + Beherrschung, Register)"
+        - "Strukturen (Spektrum + Beherrschung: Morphologie, Syntax, Orthografie)"
+      ko_regel: >-
+        Thema verfehlt oder Textumfang < 50 % der geforderten
+        Wortanzahl → Aufgabe insgesamt E (0 Punkte).
+
+  sprechen:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 20                # ca. 20 Min pro Paar + Vorbereitungszeit
+    format: "Paarprüfung — 2 Teilnehmende, 2 Prüfende (Moderator/in + Bewerter/in)"
+    vorbereitungszeit_minuten: 20    # vor der Prüfung: Vortrag mit Stichpunkten
+    anzahl_teile: 2
+    teile:
+      - nummer: 1
+        prüfungsziel: "Produktion — vor Publikum sprechen; Fragen stellen und beantworten"
+        textsorte: "Vortrag"
+        aufgabentyp: "Vortrag zu einem gewählten Thema mit Stichpunkten inkl. Beantwortung von Nachfragen"
+        sprachfunktionen_anzahl: 4
+        material: "Vortragsleitfaden mit Strukturvorgabe"
+      - nummer: 2
+        prüfungsziel: "Interaktion — Standpunkte vertreten, argumentieren"
+        textsorte: "Diskussion"
+        aufgabentyp: "Freie Diskussion zu einer kontroversen Frage mit kurzem Inputtext und vier Stichpunkten"
+        material: "Kontroverse These + Inputtext + 4 Stichpunkte"
+    bewertungskriterien:
+      skala: "A / B / C / D / E"
+      dimensionen:
+        - "Erfüllung der Aufgabe"
+        - "Kohärenz (Strukturierung, Redefluss, Verknüpfung)"
+        - "Wortschatz (Spektrum + Beherrschung, Register, Idiomatik)"
+        - "Strukturen (Spektrum + Beherrschung)"
+        - "Aussprache (Satzmelodie, Wortakzent, einzelne Laute, Sprechtempo)"
+
+kompetenzbeschreibung_c1: |
+  Mit erfolgreichem Abschluss dieser Prüfung haben Teilnehmende
+  nachgewiesen, dass sie die überregionale deutsche
+  Standardsprache sicher verwenden und für ihre persönlichen
+  Belange im privaten, gesellschaftlichen, akademischen und
+  beruflichen Leben adäquat einsetzen können. Teilnehmende können
+  mit dem erfolgreich abgelegten Modul
+  - ein Spektrum anspruchsvoller und längerer Texte verstehen und
+    auch implizite Bedeutungen erfassen;
+  - längere Redebeiträge und Vorträge verstehen sowie komplexer
+    Argumentation und nicht vertrauten Themen leicht folgen;
+  - Texte zu verschiedenen Themen verfassen, die klar strukturiert
+    und ausführlich sowie stilistisch dem jeweiligen Adressaten
+    und Zweck angemessen sind;
+  - sich spontan und fließend ausdrücken, ein komplexes Thema gut
+    strukturiert und klar vortragen sowie beinahe mühelos an einer
+    Diskussion teilnehmen und überzeugend eine Position vertreten.
+
+note_für_unit_design: |
+  C1-Kurs-Einheiten dieser Site fokussieren literarisch-
+  essayistische Textproduktion, Fachdiskurs, nuancierte
+  Argumentation und Register-Bewusstsein. Pro Einheit wird ein
+  Modul vertieft; über 12 Einheiten ausgewogene Abdeckung aller
+  vier Module. Stimulustexte (Forumsbeiträge, E-Mails,
+  Interview-Transkripte, Podcast-Rezensionen, Diskussionsausschnitte,
+  Vortragsfragmente) sind original von S. Le Boulanger verfasst;
+  keine Reproduktion der Modellsatz-Texte.
+  Themenschwerpunkte: Wissenschaftstheorie, politische
+  Diskursanalyse, Identitätsdiskurse, postkoloniale Perspektiven
+  im deutschsprachigen Raum, Historiografie, Ästhetik — passend
+  zu C1-Kompetenzen „implizite Bedeutungen erfassen" und
+  „überzeugend eine Position vertreten".

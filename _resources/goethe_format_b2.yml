@@ -1,0 +1,173 @@
+# Goethe-Zertifikat B2 — Prüfungsformat
+#
+# Quelle: "Goethe-Zertifikat B2 — Modellsatz Erwachsene"
+# (Vs0.4_290725, Goethe-Institut e. V.).
+#
+# Abgerufen: 2026-04-20
+# URL: https://www.goethe.de/pro/relaunch/prf/materialien/B2/b2_modellsatz_erwachsene.pdf
+# Referenz-Handbuch Prüfungsziele: https://www.goethe.de/pro/relaunch/prf/de/Pruefungsziele_Testbeschreibung_B2.pdf
+
+cefr_level: "B2"
+zertifikat: "Goethe-Zertifikat B2"
+zielgruppe: "Erwachsene (ab 16 Jahren). Parallelformat: Goethe-Zertifikat B2 Jugendliche (ab 15 Jahren)."
+modularer_aufbau: true
+gesamtpunkte_pro_modul: 100
+bestehensgrenze_pro_modul_prozent: 60
+bestehensgrenze_pro_modul_punkte: 60
+prüfungssprache: "Deutsch"
+hilfsmittel_erlaubt: false
+
+module:
+
+  lesen:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 65
+    anzahl_teile: 5
+    gesamt_items: 30
+    teile:
+      - nummer: 1
+        prüfungsziel: "Einstellungen und Haltungen in Forenbeiträgen verstehen"
+        aufgabentyp: "Zuordnung — Aussagen zu 4 Personen (Personen können mehrfach gewählt werden)"
+        items: 9
+        arbeitszeit_minuten: 18
+        textsorte: "Forumsbeiträge"
+      - nummer: 2
+        prüfungsziel: "Argumentation eines längeren Sachtexts verstehen"
+        aufgabentyp: "Satzeinsetzung (Zuordnung) — 2 Distraktoren"
+        items: 6
+        arbeitszeit_minuten: 12
+        textsorte: "Zeitschriftenartikel"
+      - nummer: 3
+        prüfungsziel: "Informationen verstehen (Detail + Gesamtaussage)"
+        aufgabentyp: "Mehrfachauswahl (3-gliedrig)"
+        items: 6
+        arbeitszeit_minuten: 12
+        textsorte: "Zeitungsartikel"
+      - nummer: 4
+        prüfungsziel: "Meinungen / Standpunkte verstehen"
+        aufgabentyp: "Zuordnung — Meinungsäußerung zu Überschrift (1 Distraktor)"
+        items: 6
+        arbeitszeit_minuten: 12
+        textsorte: "Meinungsäußerungen in Zeitschrift"
+      - nummer: 5
+        prüfungsziel: "Regeln / Instruktionen verstehen"
+        aufgabentyp: "Zuordnung — Überschriften zu Paragrafen (mehrere Distraktoren)"
+        items: 3
+        arbeitszeit_minuten: 6
+        textsorte: "Studien-/Prüfungs-/Geschäftsordnung"
+
+  hören:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 40
+    anzahl_teile: 4
+    gesamt_items: 30
+    teile:
+      - nummer: 1
+        prüfungsziel: "Alltagsgespräche und kurze Äußerungen verstehen"
+        aufgabentyp: "Pro Text 2 Aufgaben: Wahl (2-gliedrig Richtig/Falsch) + Wahl (3-gliedrig MC)"
+        items: 10                     # 5 Texte × 2 Items
+        texte: 5
+        hört_wie_oft: 1
+        textsorte: "Kurzgespräche, Durchsagen, Monologe"
+      - nummer: 2
+        prüfungsziel: "Aussagen / Interviewaussagen verstehen"
+        aufgabentyp: "Mehrfachauswahl (3-gliedrig)"
+        items: 6
+        hört_wie_oft: 2
+        textsorte: "Radiointerview mit Persönlichkeit aus Wissenschaft/Kultur"
+      - nummer: 3
+        prüfungsziel: "Standpunkte verstehen (wer sagt was)"
+        aufgabentyp: "Zuordnung — Aussage zu Person"
+        items: 6
+        hört_wie_oft: 1
+        textsorte: "Radiogespräch / Podiumsdiskussion mit mehreren Personen"
+      - nummer: 4
+        prüfungsziel: "Vorträge verstehen"
+        aufgabentyp: "Mehrfachauswahl (3-gliedrig)"
+        items: 8
+        hört_wie_oft: 2
+        textsorte: "Kurzvortrag / akademischer Impulsvortrag"
+
+  schreiben:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 75                # 50 + 25
+    anzahl_teile: 2
+    teile:
+      - nummer: 1
+        prüfungsziel: "Produktion — Meinungsäußerung verfassen"
+        aufgabentyp: "Freier Text (ca. 150 Wörter): Meinung äußern, begründen, etwas vorschlagen, Vor- und Nachteile erläutern"
+        arbeitszeit_minuten: 50
+        wörter_richtwert: 150
+        textsorte: "Forumsbeitrag, Leserkommentar"
+      - nummer: 2
+        prüfungsziel: "Interaktion — Korrespondenz / persönliche Mitteilung verfassen"
+        aufgabentyp: "Freier Text (ca. 100 Wörter): erklären, beschreiben, etwas vorschlagen, höflich bitten"
+        arbeitszeit_minuten: 25
+        wörter_richtwert: 100
+        textsorte: "Halb offizielle E-Mail / Mitteilung"
+    bewertungskriterien:
+      skala: "A / B / C / D / E"
+      dimensionen:
+        - "Erfüllung (Inhalt, Textsorte, Kohärenz)"
+        - "Wortschatz (Spektrum + Beherrschung)"
+        - "Strukturen (Spektrum + Beherrschung: Morphologie, Syntax, Orthografie)"
+        - "Register / Soziokulturelle Angemessenheit"
+      ko_regel: >-
+        Thema verfehlt oder Textumfang < 50 % der geforderten
+        Wortanzahl → Aufgabe insgesamt E (0 Punkte).
+
+  sprechen:
+    gewichtung_punkte_eigenständig: 100
+    dauer_minuten: 15                # ca. 15 Min pro Paar; Vortrag 8 + Diskussion 5 + Puffer
+    format: "Paarprüfung — 2 Teilnehmende, 2 Prüfende (Moderator/in + Bewerter/in)"
+    vorbereitungszeit_minuten: 15    # vor der Prüfung: Vortrag + Notizen
+    anzahl_teile: 2
+    teile:
+      - nummer: 1
+        prüfungsziel: "Produktion/Interaktion — vor Publikum sprechen; Fragen stellen und beantworten"
+        aufgabentyp: "Vorbereiteter Vortrag zu einem gewählten Thema (Strukturvorgabe) + Beantwortung von Nachfragen"
+        dauer_minuten_pro_paar: 8
+        material: "Vortragsleitfaden mit Strukturvorgabe (Einleitung, Hauptteil, Vor-/Nachteile, Beispiele, Abschluss)"
+      - nummer: 2
+        prüfungsziel: "Interaktion — Argumente pro und kontra erörtern"
+        aufgabentyp: "Gespräch zu einer kontroversen Frage; Teilnehmende vertreten eine Position argumentativ"
+        dauer_minuten_pro_paar: 5
+        material: "Aufgabenblatt mit kontroverser These (Debattierclub-Szenario)"
+    bewertungskriterien:
+      skala: "A / B / C / D / E"
+      dimensionen:
+        - "Erfüllung der Aufgabe"
+        - "Kohärenz (Strukturierung, Redefluss)"
+        - "Wortschatz (Spektrum + Beherrschung)"
+        - "Strukturen (Spektrum + Beherrschung)"
+        - "Aussprache (Satzmelodie, Wortakzent, einzelne Laute)"
+
+kompetenzbeschreibung_b2: |
+  Mit erfolgreichem Abschluss dieser Prüfung haben Teilnehmende
+  nachgewiesen, dass sie die überregionale deutsche
+  Standardsprache für ihre persönlichen Belange im privaten,
+  gesellschaftlichen, akademischen und beruflichen Leben einsetzen
+  können. Sie können:
+  - gesprochene Standardsprache in Gesprächen, Vorträgen und in
+    Radiosendungen verstehen, dabei zu abstrakten Themen die
+    Hauptinhalte verstehen und für sich relevante Informationen
+    entnehmen;
+  - eine breite Palette von geschriebenen Texten verstehen,
+    darunter längere, komplexere Sachtexte, Kommentare und Berichte;
+  - sich in E-Mails und Diskussionsbeiträgen über komplexe
+    Sachverhalte schriftlich klar und strukturiert ausdrücken;
+  - klar strukturierte mündliche Darstellungen zu abstrakten
+    Themen geben;
+  - sich in vertrauten Kontexten aktiv an Diskussionen beteiligen,
+    dabei Stellung nehmen und eigene Standpunkte darlegen.
+
+note_für_unit_design: |
+  B2-Kurs-Einheiten dieser Site vertiefen pro Einheit ein Modul
+  (Lesen/Hören/Schreiben/Sprechen); über 12 Einheiten ausgewogene
+  Abdeckung aller vier Module mit mindestens drei Einheiten je
+  Modul. Alle Stimuli original von S. Le Boulanger; keine
+  Reproduktion der Modellsatz-Texte (Minimalismus-Forum,
+  Reisefieber-Artikel, Wohn-WG-Radiogespräch etc.).
+  Gesellschaftsthemen, Wissenschaftskommunikation und
+  Meinungsdiskurs dominieren — passend zu den B2-Fertigkeiten
+  „Argumentation" und „Standpunkte verstehen".

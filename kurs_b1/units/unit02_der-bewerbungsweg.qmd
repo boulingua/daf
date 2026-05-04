@@ -1,0 +1,304 @@
+---
+title: "Einheit 2 — Der Bewerbungsweg"
+subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Schreiben"
+cefr_level: "B1"
+unit_nr: 2
+slug: "der-bewerbungsweg"
+cefr_can_do:
+  - "Ich kann ein einfaches Motivationsschreiben auf Deutsch verfassen."
+  - "Ich kann auf eine Stellenanzeige mit einer höflichen E-Mail reagieren."
+  - "Ich kann ein kurzes Vorstellungsgespräch selbst moderieren — Fragen stellen und auf Fragen reagieren."
+skills_focus:
+  - schreiben
+  - sprechen
+goethe_module:
+  - schreiben
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  revealjs:
+    output-file: "unit02_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B1
+:::
+
+{{< downloads >}}
+
+## Lernziele
+
+Am Ende dieser Einheit …
+
+- … **kann ich** ein einfaches, adressatengerechtes
+  Anschreiben verfassen.
+- … **kann ich** eine Stellenanzeige verstehen und passend darauf
+  reagieren.
+- … **kann ich** in einem Vorstellungsgespräch auf klassische
+  Fragen ruhig und strukturiert antworten.
+
+## GER-Ausrichtung
+
+- Kompetenzbereich: **Schriftliche Interaktion / Produktion**
+  (B1, halb-formelle Korrespondenz).
+- Goethe-Modul dieser Einheit: **Schreiben** — Teil 3
+  (persönliche Mitteilung zur Handlungsregulierung) mit
+  Anschluss an Teil 1 (Kontaktpflege).
+- Zusätzlich mündlich: B1-Sprechen-Teil 3 als Rollenspiel
+  (Vorstellungsgespräch).
+
+## Einstiegsgeschichte
+
+Zwei Monate sind vergangen. Milos' Frau Anisa ist noch in Tuzla;
+Milos hat in Basel eine kleine Wohnung und ein Rad, das im
+Treppenhaus steht und manchmal nach Regen riecht. Heute sitzt
+er am Küchentisch und hilft seiner Cousine **Lejla**. Lejla ist
+24, Pflegefachfrau, lebt in Brežice in Slowenien und will ihren
+nächsten Schritt nach Österreich machen — ein Kantonsspital in
+Villach hat eine Stelle ausgeschrieben. Sie hat den deutschen Text
+dreimal gelesen und ihn immer noch nicht ganz verstanden.
+
+„Komm", sagt Milos, „wir schreiben das zusammen. Und nächste
+Woche üben wir das Gespräch."
+
+## 1. Einstieg
+
+**Aktivieren Sie Ihr Vorwissen.**
+
+- Haben Sie schon einmal ein Anschreiben auf Deutsch verfasst?
+  In welcher Situation?
+- Welche **drei Sätze** gehören für Sie auf jeden Fall in ein
+  Anschreiben? Diskutieren Sie zu zweit.
+- Wenn Sie eine Stellenanzeige lesen — auf welches Detail
+  achten Sie **zuerst**: Aufgaben, Gehalt, Arbeitsort,
+  Anforderungen?
+
+## 2. Input
+
+### A. Die Stellenanzeige (Original)
+
+> **Kantonsspital Villach**
+> Wir suchen zum nächstmöglichen Zeitpunkt eine
+> **Pflegefachfrau / einen Pflegefachmann (m/w/d)** für unsere
+> Abteilung Innere Medizin.
+>
+> **Ihre Aufgaben:** Grundpflege, Medikamentenvorbereitung,
+> Dokumentation; enge Zusammenarbeit mit ärztlichem Team.
+>
+> **Unser Angebot:** Unbefristete Stelle, 80 %- oder 100 %-Anstellung
+> möglich, strukturierte Einarbeitung, Weiterbildungsbudget.
+>
+> **Ihr Profil:** Abgeschlossene Ausbildung als Pflegefachfrau /
+> Pflegefachmann; Deutschkenntnisse mindestens auf B1-Niveau;
+> Teamfähigkeit, Zuverlässigkeit, Belastbarkeit.
+>
+> **Ihre Bewerbung:** Bitte senden Sie Ihr Anschreiben, Ihren
+> Lebenslauf und Ihre Zeugniskopien per E-Mail an Frau Elke
+> Rauter, Personalabteilung. Ansprechperson für Rückfragen:
+> Frau Rauter, +43 4242 xxx-xxx.
+
+### B. Aufbau eines Anschreibens (B1-Grundmuster)
+
+Ein **formell-höfliches Anschreiben** auf B1 hat typisch sechs
+Bausteine:
+
+1. **Absender:innen-Kopf** — Name, Adresse, E-Mail, Datum.
+2. **Adresse der Empfänger:in** — Firma, Abteilung, Name wenn
+   bekannt.
+3. **Betreff** — „Bewerbung als Pflegefachfrau in der Inneren
+   Medizin" oder ähnlich konkret.
+4. **Anrede** — *Sehr geehrte Frau Rauter,*
+5. **Text** — Einstieg, Motivation, Qualifikationen,
+   Schlussformel (3–5 kurze Absätze).
+6. **Grußformel + Unterschrift** — *Mit freundlichen Grüßen,
+   Lejla Hodžić.*
+
+### C. Muster-Anschreiben (original)
+
+> Sehr geehrte Frau Rauter,
+>
+> mit großem Interesse habe ich Ihre Stellenanzeige für eine
+> Pflegefachfrau in der Abteilung Innere Medizin gelesen. Ich
+> bewerbe mich hiermit um diese Stelle.
+>
+> Mein Name ist Lejla Hodžić. Ich bin 24 Jahre alt und habe 2023
+> meine Ausbildung zur Pflegefachfrau in Ljubljana abgeschlossen.
+> Seitdem arbeite ich in einem regionalen Krankenhaus in Brežice,
+> ebenfalls in der Inneren Medizin. Besonders gern arbeite ich
+> mit älteren Patient:innen; die Dokumentation am Computer läuft
+> für mich inzwischen routiniert.
+>
+> Deutsch habe ich in einem Sprachkurs im Goethe-Institut
+> Zagreb gelernt und dort 2024 das B1-Zertifikat abgelegt. Ich
+> möchte mich in Villach weiterentwickeln, weil ich deutschsprachige
+> Arbeitsumgebungen kenne und mir die Zusammenarbeit mit einem
+> größeren, interdisziplinären Team wichtig ist.
+>
+> Über die Möglichkeit eines persönlichen Gesprächs würde ich
+> mich sehr freuen. Meinen Lebenslauf und meine Zeugnisse finden
+> Sie im Anhang.
+>
+> Mit freundlichen Grüßen
+> Lejla Hodžić
+
+### D. Redemittel
+
+| Funktion                 | B1-taugliche Redemittel                          |
+|--------------------------|--------------------------------------------------|
+| Einstieg                 | *Mit großem Interesse habe ich Ihre Anzeige gelesen.* |
+| Motivation               | *Ich möchte mich … weiterentwickeln, weil …*     |
+| Qualifikation            | *Ich habe eine Ausbildung als … abgeschlossen.*  |
+| Bezug auf das Angebot    | *Besonders anspricht mich, dass Sie … anbieten.* |
+| Schlussformel            | *Über ein persönliches Gespräch würde ich mich freuen.* |
+
+## 3. Üben
+
+**Aufgabe 1 — Reihenfolge.** Bringen Sie die folgenden Sätze in
+die richtige Reihenfolge für ein B1-Anschreiben (A–F).
+
+A. „Über die Möglichkeit eines persönlichen Gesprächs würde ich mich freuen."
+B. „Mit großem Interesse habe ich Ihre Anzeige gelesen."
+C. „Mit freundlichen Grüßen, Marta Jelińska."
+D. „Sehr geehrte Frau Rauter,"
+E. „Ich habe 2023 meine Ausbildung zur Pflegefachfrau abgeschlossen."
+F. „Ich möchte mich beruflich weiterentwickeln und suche daher eine neue Stelle in Österreich."
+
+**Aufgabe 2 — Welche Wendung ist zu informell?** Streichen Sie
+die Variante, die **nicht** in ein formelles Anschreiben gehört.
+
+1. *Mit freundlichen Grüßen* / *Bis bald!* / *Hochachtungsvoll*
+2. *Sehr geehrte Frau Rauter* / *Hi Elke* / *Sehr geehrte Damen und Herren*
+3. *Ich möchte mich um diese Stelle bewerben* / *Ich hab Bock auf den Job* / *Hiermit bewerbe ich mich …*
+
+**Aufgabe 3 — Fehlersuche.** Finden Sie die drei Fehler im
+folgenden Satz und korrigieren Sie ihn: „Ich arbeite seit drei
+Jahr in ein Krankenhaus und hab schon viele Erfahrung mit
+Patient."
+
+::: {.callout-tip collapse="true" title="Lösungen"}
+
+**Aufgabe 1.** D – B – F – E – A – C.
+Anrede → Einstieg → Motivation → Qualifikation → Schlussformel →
+Grußformel.
+
+**Aufgabe 2.**
+
+1. *Bis bald!* (zu informell).
+2. *Hi Elke* (zu informell).
+3. *Ich hab Bock auf den Job* (umgangssprachlich).
+
+**Aufgabe 3.** Drei Fehler + Korrektur:
+
+- „drei Jahr" → **drei Jahren** (Dativ Plural).
+- „in ein Krankenhaus" → **in einem Krankenhaus**
+  (Dativ: *wo?*).
+- „hab schon viele Erfahrung" → **habe schon viel Erfahrung**
+  (vollständig + Singular, weil *Erfahrung* hier abstrakt;
+  alternativ: *viele Erfahrungen* in Pluralbedeutung).
+
+:::
+
+## 4. Anwenden
+
+**Aufgabe (B1-Schreiben, Teil 3 — Mitteilung zur Handlungsregulierung):**
+
+Sie haben Lejlas Anschreiben mit verfasst. Jetzt meldet sich
+Frau Rauter vom Kantonsspital und lädt Lejla zu einem
+Vorstellungsgespräch in Villach ein — für einen Termin, an dem
+Lejla im Schichtdienst ist.
+
+**Schreiben Sie an Frau Rauter (ca. 40 Wörter):**
+
+- Bedanken Sie sich für die Einladung.
+- Bitten Sie um einen alternativen Termin.
+- Schlagen Sie zwei konkrete Tage vor, an denen Sie Zeit hätten.
+
+**Musterlösung (B1):**
+
+> Sehr geehrte Frau Rauter,
+>
+> vielen Dank für Ihre Einladung zum Vorstellungsgespräch. Leider
+> habe ich am vorgeschlagenen Termin Schichtdienst. Könnten wir
+> das Gespräch auf einen anderen Tag verschieben? Ich hätte am
+> Mittwoch, den 15.05., oder am Freitag, den 17.05., Zeit.
+>
+> Vielen Dank im Voraus. Mit freundlichen Grüßen,
+> Lejla Hodžić
+
+## 5. Reflexion
+
+- [ ] Ich kann die Bausteine eines Anschreibens benennen.
+- [ ] Ich kann Formelles von Informellem in Anschreiben
+      unterscheiden.
+- [ ] Ich kann eine kurze höfliche Absage-/Umplanungs-E-Mail in
+      ca. 40 Wörtern schreiben.
+- [ ] Ich erkenne drei typische B1-Fehler (Dativ Plural,
+      Präposition + Kasus, vollständige Verbform).
+
+## Prüfungsbeispiel — Goethe B1 Schreiben, Teil 3
+
+::: {.callout-warning}
+Formal am offiziellen B1-Schreiben-Modul orientiert (persönliche
+Mitteilung zur Handlungsregulierung, ca. 40 Wörter). Stimulus und
+Lösungsbeispiele original.
+:::
+
+**Aufgabe:**
+
+> Ein Freund hat Sie zu seinem Geburtstag eingeladen. Sie können
+> leider nicht kommen. Schreiben Sie an den Freund (ca. 40
+> Wörter):
+>
+> - Bedanken Sie sich für die Einladung.
+> - Erklären Sie, warum Sie nicht kommen können.
+> - Schlagen Sie ein gemeinsames Treffen zu einem anderen
+>   Zeitpunkt vor.
+>
+> Vergessen Sie Anrede, Gruß und Ihren Namen nicht.
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+
+**Zeitplan (90-Min-Doppelstunde):** Einstieg 10' · Input A+B+C+D
+20' · Üben 15' · Anwenden (Schreibaufgabe + Korrektur) 25' ·
+Reflexion 5' · Prüfungsvorschau 15'.
+
+**Binnendifferenzierung.** Stärkere: eigenes Anschreiben für eine
+selbst gewählte Anzeige entwerfen. Schwächere: das Muster in
+Aufgabe 1 mit Hilfe der Redemittel-Tabelle rekonstruieren.
+
+**Mikro-Check:** „Was unterscheidet *Sehr geehrte Damen und
+Herren* von *Sehr geehrte Frau Rauter* — und wann benutzt man was?"
+
+:::
+
+## Häufige Stolperfallen
+
+- **„Sehr geehrte Frau" ohne Nachnamen** geht nie. Wenn der Name
+  nicht bekannt ist: *Sehr geehrte Damen und Herren*.
+- **Zeitangabe mit Dativ.** *seit drei Jahren*, nicht *seit drei
+  Jahre*.
+- **Präpositionen + Kasus.** *in einem Krankenhaus* (wo? →
+  Dativ), nicht *in ein*.
+- **„Bis bald" / „Liebe Grüße"** sind zu informell für
+  Bewerbungen; korrekt ist *Mit freundlichen Grüßen*.
+
+## Weiterführende Materialien
+
+- **Deutsche Welle — „Deutsch im Job"**:
+  <https://learngerman.dw.com/de/deutsch-im-job/c-60258145>
+- **EURES — Europäisches Portal zur beruflichen Mobilität**
+  (Stellenanzeigen auf Deutsch in DACH + EU):
+  <https://eures.europa.eu/>
+- **Goethe-Institut — Deutsch für den Beruf**:
+  <https://www.goethe.de/de/spr/ueb.html>

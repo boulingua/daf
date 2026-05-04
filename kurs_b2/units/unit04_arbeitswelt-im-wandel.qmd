@@ -1,0 +1,176 @@
+---
+title: "Einheit 4 — Arbeitswelt im Wandel: KI und Beruf"
+subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Sprechen"
+cefr_level: "B2"
+unit_nr: 4
+slug: "arbeitswelt-im-wandel"
+cefr_can_do:
+  - "Ich erkenne Standpunkte in Meinungsäußerungen."
+  - "Ich vertrete eine eigene Haltung argumentativ."
+  - "Ich diskutiere pro/kontra KI im Berufsleben."
+skills_focus:
+  - lesen
+  - sprechen
+goethe_module:
+  - sprechen
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs: { output-file: "unit04_slides.html", theme: [default, ../../assets/slides.scss], slide-number: c/t, progress: true, scrollable: true, transition: none, preview-links: auto }
+---
+
+::: {.callout-note}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B2
+:::
+
+{{< downloads >}}
+
+## Lernziele
+
+- Ich unterscheide vier Positionen zu KI im Beruf.
+- Ich halte einen 4-Minuten-Vortrag mit Pro/Kontra.
+- Ich führe eine 5-Minuten-Diskussion.
+
+## GER-Ausrichtung
+
+Goethe-Modul **Sprechen** — Teil 1 (Vortrag halten) und Teil 2
+(Diskussion).
+
+## Einstiegsgeschichte
+
+**Nihad Kovač**, Kulturmanager, moderiert ein Panel in Berlin:
+*„Wird der Kulturberuf durch KI ersetzt?"* Vier Gäste — aus
+Journalismus, Übersetzung, Programmierung und Theater — werden
+vier sehr verschiedene Antworten geben.
+
+## 1. Einstieg
+
+- Welche Berufe werden laut Medien „von KI bedroht"?
+- Welchen Teil Ihres Berufs könnten Sie *nicht* automatisieren
+  lassen?
+- Wo ist KI hilfreich, wo lästig?
+
+## 2. Input
+
+### A. Vier Meinungsäußerungen (original)
+
+> **Journalismus — Jana:** „Die Recherche beschleunigt sich, das
+> ist ein Segen. Aber wenn KI den Kommentar schreibt, verliert
+> die Zeitung ihre Stimme. Die Grenze ist klar: Fakten sammeln
+> ja, Meinung formulieren nein."
+
+> **Übersetzung — Pavel:** „Für technische Texte nutze ich KI
+> jeden Tag. Literaturübersetzung hingegen bleibt anstrengend
+> persönlich — die Nuance ist nicht berechenbar."
+
+> **Programmierung — Amira:** „Ich war skeptisch. Heute
+> benutze ich KI als Partnerin beim Debuggen. Ich bin schneller.
+> Was ich vermisse: die Kolleg:innen, mit denen ich früher über
+> Code diskutiert habe."
+
+> **Theater — Leo:** „Ein Schauspiel funktioniert, weil etwas
+> Unberechenbares zwischen Menschen passiert. Kein Modell der
+> Welt kann das nachstellen — zumindest nicht jetzt."
+
+### B. Argumentations-Werkzeuge (B2)
+
+| Funktion           | Redemittel                                    |
+|--------------------|-----------------------------------------------|
+| These              | *Ich vertrete die Position, dass …*           |
+| Beleg              | *Das zeigt sich daran, dass …*                |
+| Einschränkung      | *Man muss allerdings bedenken, dass …*        |
+| Gegenposition      | *Dagegen lässt sich einwenden, dass …*        |
+| Schluss            | *Zusammenfassend halte ich fest: …*           |
+
+## 3. Üben
+
+**Aufgabe 1 — Position erkennen.** Wer ist *pro*, wer *teils/teils*?
+
+- Jana →
+- Pavel →
+- Amira →
+- Leo →
+
+**Aufgabe 2 — Redemittel zuordnen.** Welche der vier Aussagen
+aus A nutzt:
+
+1. eine Einschränkung?
+2. einen Fachvergleich (technisch / literarisch)?
+3. einen emotional-kulturellen Beleg?
+
+**Aufgabe 3 — Satz schreiben.** Formulieren Sie in zwei Sätzen
+Ihre eigene Position zur KI in Ihrem Beruf.
+
+::: {.callout-tip collapse="true" title="Lösungen"}
+
+**Aufgabe 1.** Jana = teils/teils · Pavel = teils/teils · Amira
+= eher pro · Leo = eher kontra.
+
+**Aufgabe 2.** 1) Jana und Pavel · 2) Pavel · 3) Leo.
+
+**Aufgabe 3.** Individuell.
+
+:::
+
+## 4. Anwenden
+
+**Vortrag (B2-Sprechen Teil 1, ca. 4 Min):** Bereiten Sie einen
+strukturierten Vortrag vor:
+
+> *„KI wird meinen Beruf verändern — in welche Richtung?"*
+
+Gliederung:
+
+1. Einleitung + persönlicher Bezug.
+2. Beispiele aus dem Arbeitsalltag.
+3. Stärken der KI in Ihrem Beruf.
+4. Grenzen / Probleme.
+5. Abschluss / Fazit.
+
+Anschließend **Diskussion** zu zweit (B2-Sprechen Teil 2, ca. 5 Min):
+
+> *„KI-Systeme sollten in kulturell-kreativen Berufen eine
+> untergeordnete Rolle spielen."*
+
+## 5. Reflexion
+
+- [ ] Ich unterscheide vier Positionen zu KI im Beruf.
+- [ ] Ich strukturiere einen 4-Minuten-Vortrag.
+- [ ] Ich führe eine 5-Minuten-Diskussion mit Argumenten.
+
+## Prüfungsbeispiel — Goethe B2 Sprechen, Teil 1 + 2
+
+**Aufgabenstellung:**
+
+**Teil 1 (Vortrag, ca. 4 Min pro Person):** Wählen Sie ein Thema
+und präsentieren Sie strukturiert:
+
+- A: *„Sollten Universitäten das Nutzen von KI-Tools in
+  Hausarbeiten regulieren?"*
+- B: *„Sollte KI in Bewerbungsverfahren zur Vorauswahl dienen?"*
+
+**Teil 2 (Diskussion, ca. 5 Min):** Debattieren Sie die These
+
+> *„KI wird die Jobs der Zukunft mehr schaffen als zerstören."*
+
+Vertreten Sie je eine Seite (Befürworter / Kritiker) argumentativ.
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Zeit:** Einstieg 8' · Input 15' · Üben 15' · Anwenden 25' ·
+Prüfungsvorschau 17'.
+:::
+
+## Häufige Stolperfallen
+
+- **„KI"** ist Feminin (*die KI*).
+- **Anglizismen** wie *„promptsen"* vermeiden — B2 benutzt
+  *„(An-)Prompts formulieren"*.
+- **„Lebensmittel"** nicht mit **„Lebenslagen"** verwechseln.
+
+## Weiterführende Materialien
+
+- **DW „Made in Germany — Arbeit 4.0"**.
+- **Ö1 „Digital.Leben"**: <https://oe1.orf.at/digital-leben>

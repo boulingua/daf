@@ -1,0 +1,61 @@
+---
+title: "Goethe-Zertifikat C1 — Lesen, Teil 3"
+subtitle: "Einheit 1 · Literarisches Argumentieren · GER-Stufe C1"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+C1-Lesen Teil 3 (Lückentext mit Satzeinsetzung, 8 Items, 2
+Distraktoren).
+:::
+
+Lesen Sie den folgenden Essay-Ausschnitt. Acht Sätze wurden
+entfernt. Ordnen Sie die Satzbausteine (a–j) den Lücken (1–8) zu.
+Zwei Bausteine passen nicht.
+
+> Ein literarischer Text kann nichts „beweisen" im Sinne einer
+> Statistik. …[**1**]…
+>
+> Wer diese Erzählung auslegt, bewegt sich zwischen zwei
+> Zumutungen: …[**2**]… — das wäre methodisch fahrlässig.
+> …[**3**]… — das wäre formalistisch verarmt.
+>
+> Die Praxis guter Interpretation ist deshalb zirkulär.
+> …[**4**]… Diese Zirkularität ist kein Mangel. …[**5**]…
+>
+> Wer einen Textbeleg aus einer Erzählung herausgreift, **muss
+> kenntlich machen**, …[**6**]… …[**7**]… Der Wert einer
+> literarischen Argumentation liegt nicht in ihrer
+> Reproduzierbarkeit. …[**8**]…
+
+### Satzbausteine
+
+- **a)** Er kann aber etwas freilegen, was ohne den Text nicht
+  hörbar gewesen wäre.
+- **b)** Einerseits darf er den Text nicht als Biografie-Spiegel
+  lesen.
+- **c)** Andererseits darf er die historische und soziale
+  Einbettung nicht ignorieren.
+- **d)** Ich lese den Text, entwickle eine These, kehre zurück
+  zum Text.
+- **e)** Sondern in ihrer Präzision gegenüber einer einzelnen
+  Erfahrung.
+- **f)** Sie ist vielmehr die Struktur des Verstehens selbst.
+- **g)** Dass es sich um eine Auslegung handelt, nicht um eine
+  Übertragung.
+- **h)** Erst dann wird der Beleg intersubjektiv überprüfbar.
+- **i)** Alle Methoden sollten durch Statistik ersetzt werden.
+- **j)** Die Tradition deutscher Hermeneutik beginnt bei Goethe.
+
+## Lösungen
+
+1 = a · 2 = b · 3 = c · 4 = d · 5 = f · 6 = g · 7 = h · 8 = e.
+(i und j sind Distraktoren.)
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 1 · GER-Stufe C1*

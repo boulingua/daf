@@ -1,0 +1,59 @@
+% _exam.tex — shared LaTeX header for all Goethe-Modellprüfung PDFs
+%
+% Included by every unit<NN>_<slug>_exam.qmd via `include-in-header`
+% in the Unit's front matter. Sets document metadata, a running
+% footer on every page, and a diagonal "S. Le Boulanger" watermark.
+%
+% CI asserts that every PDF in docs/downloads carries S. Le Boulanger
+% as /Author in its metadata.
+
+% --- Document metadata ---
+\usepackage{hyperref}
+\hypersetup{
+  pdftitle={Goethe-Modellprüfung — DaF},
+  pdfauthor={S. Le Boulanger},
+  pdfsubject={DaF — Goethe-Modellprüfung},
+  pdfkeywords={DaF, Deutsch als Fremdsprache, Goethe-Zertifikat, Prüfungsbeispiel, CEFR}
+}
+
+% --- Footer on every page ---
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[L]{\small © S. Le Boulanger · DaF}
+\fancyfoot[C]{\small \thepage\ / \pageref{LastPage}}
+\fancyfoot[R]{\small CC-BY-SA 4.0}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.3pt}
+
+% --- Diagonal watermark on every page ---
+% Primary: draftwatermark. If tinytex doesn't have it, the fallback
+% below (eso-pic + rotatebox) is used instead.
+\IfFileExists{draftwatermark.sty}{%
+  \usepackage{draftwatermark}
+  \SetWatermarkText{S. Le Boulanger}
+  \SetWatermarkScale{0.6}
+  \SetWatermarkLightness{0.92}
+  \SetWatermarkAngle{55}
+}{%
+  \IfFileExists{eso-pic.sty}{%
+    \usepackage{eso-pic}
+    \usepackage{graphicx}
+    \AddToShipoutPictureBG{%
+      \put(0.5\paperwidth,0.5\paperheight){%
+        \makebox(0,0){%
+          \rotatebox{55}{%
+            \textcolor{gray!20}{\fontsize{48}{58}\selectfont S. Le Boulanger}%
+          }%
+        }%
+      }%
+    }
+  }{%
+    % If neither package is available, fail loudly rather than ship
+    % an unwatermarked exam PDF.
+    \PackageError{_exam.tex}{%
+      Neither draftwatermark nor eso-pic is available in this tinytex install.%
+    }{Install draftwatermark or eso-pic into tinytex.}
+  }%
+}

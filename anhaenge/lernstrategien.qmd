@@ -1,0 +1,31 @@
+---
+title: "Lernstrategien"
+---
+
+::: {.hero-kicker}
+DAF · ANHANG
+:::
+
+# Lernstrategien
+
+::: {.callout-note}
+**Scaffold-Stand.** Dieser Anhang wird in **Phase 5 (Politur)**
+gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
+diese Seite quer durch das Material Links zu konkreten
+Unterrichtsstellen setzen.
+:::
+
+Kompakte Sammlung von Lernstrategien für DaF-Lernende auf allen CEFR-Stufen — von Wortschatzlernen (Anki/Leitner, Vernetzung, Kollokationen) über Hörverstehen (aktives Hören, Schattenhören) bis Schreibstrategien (Planung, Entwurf, Selbstlektorat).
+
+## Vorläufige Struktur
+
+- **Rezeptive Strategien** — Hörverstehen, Lesen mit Strategie, Sprachmittlung.
+- **Produktive Strategien** — Sprechen vorbereiten, Schreibprozess, Selbstkorrektur.
+- **Metakognitive Strategien** — Lernjournal, Selbstevaluation, Zielsetzung nach CEFR.
+- **Prüfungsstrategien** — Zeitmanagement, Umgang mit Unbekanntem, typische Goethe-Fallen.
+
+## Zurück
+
+- [Startseite](../index.qmd)
+- [Übersicht aller Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)

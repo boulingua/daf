@@ -1,0 +1,43 @@
+---
+title: "Goethe-Zertifikat A2 — Hören, Teil 2"
+subtitle: "Einheit 11 · Umwelt im Alltag · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+A2-Hören Teil 2 (zusammenhängendes Gespräch, Zuordnung 5 Items,
+einmaliges Hören).
+:::
+
+Sie hören das Gespräch zur Mülltrennung. Ordnen Sie die fünf
+**Gegenstände** (1–5) den fünf **Tonnen/Orten** (a–e) zu.
+
+### Gegenstände
+
+1. Zeitung
+2. Apfelkern
+3. Saubere Plastikdose
+4. Altglas
+5. Batterie
+
+### Tonnen / Orte
+
+|   | Ort                                      | 1 | 2 | 3 | 4 | 5 |
+|---|------------------------------------------|:-:|:-:|:-:|:-:|:-:|
+| a | Blaue Tonne — Papier                     | ☐ | ☐ | ☐ | ☐ | ☐ |
+| b | Braune Tonne — Bio                       | ☐ | ☐ | ☐ | ☐ | ☐ |
+| c | Gelber Sack — Verpackung                 | ☐ | ☐ | ☐ | ☐ | ☐ |
+| d | Altglas-Iglu                             | ☐ | ☐ | ☐ | ☐ | ☐ |
+| e | Altstoffzentrum / Supermarkt             | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+## Lösungen
+
+1 = a · 2 = b · 3 = c · 4 = d · 5 = e.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 11 · GER-Stufe A2*
