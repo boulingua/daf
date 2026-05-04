@@ -1,0 +1,57 @@
+---
+title: "Goethe-Zertifikat B2 — Lesen, Teil 2"
+subtitle: "Einheit 9 · Bildungsdebatten · GER-Stufe B2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+B2-Lesen Teil 2 (Satzeinsetzung, 6 Lücken mit 2 Distraktoren).
+:::
+
+Im folgenden Artikel fehlen sechs Sätze. Ordnen Sie die
+Satzbausteine (a–h) in die Lücken (1–6). Zwei Bausteine passen
+nicht.
+
+> **Bildungserfolg hängt vom Elternhaus ab — PISA 2022**
+>
+> Die neue PISA-Studie der OECD bestätigt einen seit Jahren
+> bekannten Befund: …[**1**]… Kinder aus sozioökonomisch
+> benachteiligten Familien erreichen in Lesekompetenz
+> durchschnittlich 89 Punkte weniger. …[**2**]…
+>
+> In Österreich liegt der Unterschied bei 87 Punkten, in der
+> Schweiz bei 83. …[**3**]… Estland hingegen erreicht einen
+> Unterschied von nur 54 Punkten. …[**4**]…
+>
+> Reformvorschläge zielen auf früheren Sprachunterricht,
+> Ganztagsschulen und gezielte Förderung in sozialen
+> Brennpunkten. …[**5**]… Bildung brauche Jahrzehnte, nicht
+> Legislaturperioden. …[**6**]…
+
+### Satzbausteine
+
+- **a)** Das entspricht etwa zwei Schuljahren.
+- **b)** Alle drei Länder stehen damit im unteren Drittel der OECD.
+- **c)** Das Schulsystem kann den Einfluss des Elternhauses
+  mildern, wenn es gewollt ist.
+- **d)** In Deutschland entscheidet das Elternhaus stärker über
+  den Bildungserfolg als in den meisten anderen OECD-Ländern.
+- **e)** Kritiker warnen vor kurzfristigem Aktionismus.
+- **f)** Bildung hat in Estland eine jahrzehntealte Tradition
+  der Priorität.
+- **g)** Reformen in den letzten zehn Jahren sind in
+  Deutschland ausgeblieben.
+- **h)** Eltern klagen über zu viele Hausaufgaben.
+
+## Lösungen
+
+1 = **d** · 2 = **a** · 3 = **b** · 4 = **c** · 5 = **e** ·
+6 = **f**. (g und h sind Distraktoren.)
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 9 · GER-Stufe B2*

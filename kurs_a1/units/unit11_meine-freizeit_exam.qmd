@@ -1,0 +1,59 @@
+---
+title: "Start Deutsch 1 — Sprechen, Teil 2"
+subtitle: "Einheit 11 · Meine Freizeit · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Sprechen-Modul Teil 2 orientiert:
+Fragen stellen und beantworten, Handlungskarten.
+:::
+
+Jede:r zieht **zwei Themenkarten**. Stellen Sie zu jeder Karte
+**eine Frage** an Ihre Partnerin / Ihren Partner. Die Person
+antwortet. Reihum, bis alle zwei Fragen gestellt und zwei Antworten
+gegeben haben.
+
+### Themenkarten (Beispiele)
+
+| Karte A  | Karte B   | Karte C   | Karte D     |
+|----------|-----------|-----------|-------------|
+| 🎸 Musik | ⚽ Sport  | 📚 Bücher | ✈️ Reisen   |
+| 🎬 Film  | 🎮 Spiele | 🍳 Kochen | 📸 Fotografie |
+
+### Mögliche Fragen
+
+- *Was für Musik hörst du gern?*
+- *Spielst du ein Instrument?*
+- *Welches Buch liest du gerade?*
+- *Wohin reist du gern?*
+- *Kochst du oft?*
+
+## Bewertung
+
+Pro Paarwechsel max. 6 Punkte (Verständlichkeit der Frage und der
+Antwort).
+
+## Musterdialog
+
+> A: Was für Musik hörst du gern?
+>
+> B: Ich höre gern Pop und Klassik. Und du?
+>
+> A: Ich spiele Gitarre. Ich höre oft Rock.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 11 · GER-Stufe A1*

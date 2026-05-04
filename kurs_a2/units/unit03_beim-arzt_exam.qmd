@@ -1,0 +1,32 @@
+---
+title: "Goethe-Zertifikat A2 — Hören, Teil 3"
+subtitle: "Einheit 3 · Beim Arzt und in der Apotheke · GER-Stufe A2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+A2-Hören Teil 3 (Einzelgespräche MC-3gl, einmaliges Hören).
+:::
+
+Sie hören drei kurze Gespräche. Wählen Sie a, b oder c.
+
+**1. Wie oft nimmt die Patientin das Medikament?**
+a) einmal · b) zweimal · c) dreimal täglich
+
+**2. Was kostet die Packung?**
+a) 5,04 € · b) 5,40 € · c) 4,50 €
+
+**3. Bis wann ist die Person krankgeschrieben?**
+a) Mittwoch · b) Donnerstag · c) Freitag
+
+## Lösungen
+
+1. **c** · 2. **b** · 3. **c**.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 3 · GER-Stufe A2*

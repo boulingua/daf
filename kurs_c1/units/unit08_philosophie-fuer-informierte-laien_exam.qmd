@@ -1,0 +1,56 @@
+---
+title: "Goethe-Zertifikat C1 — Schreiben, Teil 2"
+subtitle: "Einheit 8 · Philosophie für Laien · GER-Stufe C1"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+C1-Schreiben Teil 2 ((halb-)formelle Mitteilung, ca. 120 Wörter,
+vier Sprachfunktionen).
+:::
+
+Schreiben Sie eine Mail (**ca. 120 Wörter**) an Ihre
+Seminarleiterin **Prof. Roth** zum Essay über die *Lebenswelt*.
+
+Setzen Sie folgende vier Sprachfunktionen um:
+
+- **auf ein Problem aufmerksam machen** (begriffliche Unschärfe?),
+- **vorschlagen** (Lektüre, Beispiel),
+- **beschreiben**, was Ihnen am Text auffällt,
+- **höflich Verständnis zeigen**, dass die Sache komplex ist.
+
+## Bewertung (C1, A–E)
+
+- Erfüllung · Kohärenz · Wortschatz · Strukturen · Register
+
+## Musterlösung
+
+> Sehr geehrte Frau Prof. Roth,
+>
+> ich habe den Essay-Ausschnitt zur Lebenswelt mit Interesse
+> gelesen. Mir fällt auf, dass die Asymmetrie zwischen Alltag
+> und Lebenswelt im Text klar formuliert, im Seminar aber oft
+> abgeflacht wird.
+>
+> Ich möchte Sie auf eine kleine Unklarheit aufmerksam machen:
+> die Stelle „immer schon voraussetzen" lässt sich leicht mit
+> „selbstverständlich" verwechseln. Vielleicht würde ein
+> alltägliches Beispiel — etwa der Boden unter dem Bett — diese
+> Differenz für die Diskussion sichern.
+>
+> Ich verstehe, dass die Begriffsschärfung anspruchsvoll bleibt;
+> deshalb wäre eine begleitende Kurzlektüre (etwa Husserls
+> Krisis-Schrift, ausgewählte Passagen) womöglich hilfreich.
+>
+> Vielen Dank für Ihre Mühe.
+>
+> Mit freundlichen Grüßen
+> M. K.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 8 · GER-Stufe C1*

@@ -1,0 +1,83 @@
+---
+title: "Impressum"
+---
+
+## Angaben gemäß § 5 DDG
+
+**S. Le Boulanger**
+Albert-Einstein-Straße 47
+02977 Hoyerswerda
+Deutschland
+
+## Kontakt
+
+E-Mail: [277736839+s-leboulanger@users.noreply.github.com](mailto:277736839+s-leboulanger@users.noreply.github.com)
+
+Der Kontaktweg ist eine GitHub-Noreply-Adresse; Antworten können
+entsprechend verzögert erfolgen. Für schnelle Fehlermeldungen ist
+ein Issue im
+[Repository](https://github.com/boulingua/daf/issues) der
+effizientere Weg.
+
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+
+S. Le Boulanger
+Albert-Einstein-Straße 47
+02977 Hoyerswerda
+Deutschland
+
+## Haftungsausschluss
+
+**Haftung für Inhalte.** Als Diensteanbieterin bin ich gemäß § 7
+Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den
+allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG bin ich
+als Diensteanbieterin jedoch nicht verpflichtet, übermittelte oder
+gespeicherte fremde Informationen zu überwachen oder nach
+Umständen zu forschen, die auf eine rechtswidrige Tätigkeit
+hinweisen.
+
+**Haftung für Links.** Diese Website enthält Links zu externen
+Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Für
+die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter
+oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten
+wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
+überprüft; rechtswidrige Inhalte waren zum Zeitpunkt der
+Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle
+der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer
+Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von
+Rechtsverletzungen werden solche Links umgehend entfernt.
+
+## Urheberrecht
+
+Die durch S. Le Boulanger erstellten Inhalte und Werke auf diesen
+Seiten unterliegen dem deutschen Urheberrecht. Der Lehrinhalt
+(Texte, Aufgaben, Prüfungsbeispiele, Transkripte, Lösungen,
+Rubrics) steht unter der Lizenz **CC-BY-SA 4.0**. Der
+zugrundeliegende Website-Code (Quarto-Konfiguration,
+Lua-Shortcodes, Python-Helfer, SCSS) steht unter der
+**MIT-Lizenz**. Beide Lizenztexte liegen im Repository unter
+`LICENSE` und `LICENSE-content`.
+
+Zitate Dritter — insbesondere aus dem *Gemeinsamen europäischen
+Referenzrahmen für Sprachen* (Begleitband 2020) und aus den
+Publikationen *Prüfungsziele, Testbeschreibung* bzw. *Modellsatz*
+des Goethe-Instituts e. V. — bleiben Eigentum der jeweiligen
+Rechteinhaber und werden im Rahmen des Zitatrechts und der
+bildungsbezogenen Nutzung verwendet. Die strukturellen Angaben
+zu den Goethe-Prüfungsformaten in `_resources/goethe_format_*.yml`
+referenzieren die öffentlich dokumentierten Publikationen des
+Goethe-Instituts; keine Stimulustexte aus offiziellen
+Modellsätzen werden reproduziert.
+
+## Hinweis zum Goethe-Institut
+
+Die auf dieser Website bereitgestellten Prüfungsbeispiele
+orientieren sich formal an den öffentlich dokumentierten
+Prüfungsformaten der Goethe-Zertifikate A1–C1. Sie sind eigene
+didaktische Adaptionen der Autorin und stehen in **keinem
+offiziellen Zusammenhang mit dem Goethe-Institut e. V.** Für die
+offizielle Anmeldung, Durchführung und Bewertung der
+Goethe-Zertifikate ist ausschließlich das Goethe-Institut und
+seine Prüfungszentren zuständig.
+
+Offizielle Informationen: <https://www.goethe.de/de/spr/kup/prf.html>

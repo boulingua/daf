@@ -1,0 +1,76 @@
+---
+title: "Start Deutsch 1 — Sprechen, Teil 3"
+subtitle: "Einheit 9 · Körper und Gesundheit · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Sprechen-Modul Teil 3 orientiert:
+Bitten formulieren und reagieren, 2 Handlungskarten pro Person.
+:::
+
+Sie ziehen zwei Handlungskarten mit Bildern. Formulieren Sie
+eine **Bitte** an Ihre Partnerin / Ihren Partner. Die Person
+reagiert und bittet dann Sie.
+
+### Handlungskarte 1 (für Teilnehmende A)
+
+> 🌡️ **Thermometer**
+
+Formulieren Sie eine Bitte (Beispiel: *„Gib mir bitte das
+Thermometer." / „Können Sie mir das Thermometer geben?"*).
+Die andere Person reagiert.
+
+### Handlungskarte 2 (für Teilnehmende A)
+
+> 💊 **Tablette (Kopfschmerz)**
+
+Formulieren Sie eine Bitte (Beispiel: *„Ich habe Kopfschmerzen,
+hast du eine Tablette für mich?"*). Die andere Person reagiert.
+
+---
+
+### Handlungskarte 3 (für Teilnehmende B)
+
+> 🥤 **Wasser**
+
+Bitten Sie um ein Glas Wasser. Die andere Person reagiert.
+
+### Handlungskarte 4 (für Teilnehmende B)
+
+> 🛏️ **Bett ausruhen**
+
+Bitten Sie darum, sich ausruhen zu dürfen. Die andere Person
+reagiert.
+
+## Bewertung
+
+Pro Aufgabe max. 3 Punkte — volle / halbe / 0 Punktzahl nach
+Verständlichkeit der Bitte und der Reaktion. Insgesamt 6 Punkte
+pro Teilnehmender.
+
+## Mögliche Lösungen
+
+**A → B:** „Kannst du mir bitte das Thermometer geben?" / „Bitte
+eine Tablette — mein Kopf tut weh."
+**B reagiert:** „Hier, bitte." / „Warte, ich hole eine."
+
+**B → A:** „Kannst du mir ein Glas Wasser geben?" / „Ich gehe
+jetzt ins Bett — ist das okay?"
+**A reagiert:** „Natürlich." / „Ja, gute Besserung!"
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 9 · GER-Stufe A1*

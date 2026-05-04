@@ -1,0 +1,53 @@
+---
+title: "Start Deutsch 1 — Lesen, Teil 1"
+subtitle: "Einheit 5 · Essen und trinken · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Lesen-Modul Teil 1 orientiert:
+Kurznotiz, Richtig/Falsch.
+:::
+
+Lesen Sie die Nachricht. Sind die Aussagen **richtig** oder
+**falsch**?
+
+> Hallo Ana,
+>
+> ich gehe heute zum Café „Zum Keks". Das kleine Frühstück
+> (Brot, Butter, Marmelade, Kaffee) ist nur 6 Euro. Kommst du
+> mit? Treffen um 9 Uhr.
+>
+> Luka
+
+|   | Aussage                                      | Richtig | Falsch |
+|---|----------------------------------------------|:-------:|:------:|
+| 1 | Luka lädt Ana zum Abendessen ein.            | ☐       | ☐      |
+| 2 | Das Frühstück kostet 6 €.                    | ☐       | ☐      |
+| 3 | Im kleinen Frühstück ist Kaffee dabei.       | ☐       | ☐      |
+| 4 | Sie treffen sich am Abend.                   | ☐       | ☐      |
+| 5 | Sie treffen sich um 9 Uhr.                   | ☐       | ☐      |
+
+## Lösungen
+
+1. **Falsch** — Frühstück, nicht Abendessen.
+2. **Richtig**.
+3. **Richtig**.
+4. **Falsch** — um 9 Uhr (morgens).
+5. **Richtig**.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 5 · GER-Stufe A1*

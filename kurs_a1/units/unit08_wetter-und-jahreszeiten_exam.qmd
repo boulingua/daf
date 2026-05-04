@@ -1,0 +1,68 @@
+---
+title: "Start Deutsch 1 — Hören, Teil 3"
+subtitle: "Einheit 8 · Wetter und Jahreszeiten · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Hören-Modul Teil 3 orientiert:
+Telefonansagen, Mehrfachwahl 3-gliedrig, 2× hören.
+:::
+
+Sie hören **drei Telefon-Nachrichten**. Sie hören jeden Text
+zweimal. Wählen Sie pro Nachricht die richtige Lösung.
+
+### Nachricht 1
+
+> „Hallo Ana, das ist Luka. Heute regnet es. Ich bleibe zu
+> Hause. Gehen wir morgen in den Park?"
+
+**1.** Wie ist das Wetter heute?
+
+- [ ] a) sonnig
+- [ ] b) regnerisch
+- [ ] c) windig
+
+### Nachricht 2
+
+> „Hier Frau Meier. Die Wanderung am Samstag fällt aus — es soll
+> schneien! Wir machen sie im April."
+
+**2.** Wann findet die Wanderung jetzt statt?
+
+- [ ] a) am Samstag
+- [ ] b) im April
+- [ ] c) im Mai
+
+### Nachricht 3
+
+> „Liebe Kundinnen und Kunden, heute sonnig mit 24 Grad. Unsere
+> Terrasse ist geöffnet!"
+
+**3.** Wie warm ist es heute?
+
+- [ ] a) 14 Grad
+- [ ] b) 24 Grad
+- [ ] c) 34 Grad
+
+## Lösungen
+
+1. **b** — „Heute regnet es."
+2. **b** — „Wir machen sie im April."
+3. **b** — „heute sonnig mit 24 Grad."
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 8 · GER-Stufe A1*

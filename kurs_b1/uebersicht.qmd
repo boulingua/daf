@@ -1,0 +1,35 @@
+---
+title: "Kurs B1 — Wochenplan"
+---
+
+::: {.hero-kicker}
+KURS B1 · WOCHENPLAN
+:::
+
+# Kurs B1 — Die zwölf Einheiten
+
+::: {.callout-note}
+**Scaffold-Stand.** Dieser Wochenplan wird in Phase 2 aus dem
+Themenplan `_resources/curriculum_outline.yml` generiert. Derzeit
+sind nur die Einheit-Plätze reserviert.
+:::
+
+| Woche | Einheit | Thema | Skill-Fokus | Goethe-Modul |
+|------:|:-------:|:------|:------------|:-------------|
+|  1    | Einheit 1  | _TBD_ | _TBD_ | _TBD_ |
+|  2    | Einheit 2  | _TBD_ | _TBD_ | _TBD_ |
+|  3    | Einheit 3  | _TBD_ | _TBD_ | _TBD_ |
+|  4    | Einheit 4  | _TBD_ | _TBD_ | _TBD_ |
+|  5    | Einheit 5  | _TBD_ | _TBD_ | _TBD_ |
+|  6    | Einheit 6  | _TBD_ | _TBD_ | _TBD_ |
+|  7    | Einheit 7  | _TBD_ | _TBD_ | _TBD_ |
+|  8    | Einheit 8  | _TBD_ | _TBD_ | _TBD_ |
+|  9    | Einheit 9  | _TBD_ | _TBD_ | _TBD_ |
+| 10    | Einheit 10 | _TBD_ | _TBD_ | _TBD_ |
+| 11    | Einheit 11 | _TBD_ | _TBD_ | _TBD_ |
+| 12    | Einheit 12 | _TBD_ | _TBD_ | _TBD_ |
+
+## Siehe auch
+
+- [Kurs B1 — Startseite](index.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)

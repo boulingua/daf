@@ -1,0 +1,33 @@
+---
+title: "Kompetenzbaum"
+---
+
+::: {.hero-kicker}
+DAF · ANHANG
+:::
+
+# Kompetenzbaum
+
+::: {.callout-note}
+**Scaffold-Stand.** Dieser Anhang wird in **Phase 5 (Politur)**
+gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
+diese Seite quer durch das Material Links zu konkreten
+Unterrichtsstellen setzen.
+:::
+
+Ein Mermaid-Entscheidungsbaum, der bei einem Skill-Bedarf (Hören / Lesen / Sprechen / Schreiben / Sprachmittlung / Sprachreflexion) direkt in die passenden Einheiten leitet — sortiert nach CEFR-Stufe.
+
+## Vorläufige Struktur
+
+- **Rezeption** → Hörverstehen-Einheiten pro Stufe.
+- **Rezeption** → Leseverstehen-Einheiten pro Stufe.
+- **Produktion** → Schreibeinheiten nach Textsorte (SMS, E-Mail, Forumsbeitrag, Diskussionsbeitrag).
+- **Produktion/Interaktion** → Sprechaufgaben (Vorstellung, Planung, Präsentation, Diskussion).
+- **Sprachmittlung** → Einheiten mit DE↔FR/EN-Transfer.
+- **Sprachreflexion** → Einheiten mit metasprachlichem Schwerpunkt.
+
+## Zurück
+
+- [Startseite](../index.qmd)
+- [Übersicht aller Einheiten](../uebersicht.qmd)
+- [Goethe-Formate](../goethe_formate.qmd)

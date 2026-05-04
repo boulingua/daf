@@ -1,0 +1,48 @@
+---
+title: "Goethe-Zertifikat B2 — Schreiben, Teil 2"
+subtitle: "Einheit 8 · Umweltpolitik · GER-Stufe B2"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+B2-Schreiben Teil 2 (halb-formelle Mitteilung, ca. 100 Wörter,
+vier Sprachfunktionen: erklären, beschreiben, vorschlagen,
+höflich bitten).
+:::
+
+Schreiben Sie einer Bundestagsabgeordneten eine halb-formelle
+Mail (ca. 100 Wörter):
+
+- **Stellen** Sie sich kurz vor (Wohnort / Kontext).
+- **Beschreiben** Sie Ihre Hauptsorge zum CO₂-Preis.
+- **Fragen** Sie nach zwei konkreten Informationen.
+- **Bitten** Sie höflich um Rückmeldung.
+
+## Musterlösung (ca. 105 Wörter)
+
+> Sehr geehrte Frau Abgeordnete Weber,
+>
+> mein Name ist K. Baumann; ich wohne in Ihrem Wahlkreis in
+> Köln-Mülheim und bin in einer Umwelt-NGO aktiv.
+>
+> Der CO₂-Preis steigt 2026 auf 55 € pro Tonne. Gleichzeitig
+> fehlt das angekündigte Klimageld, während die Kosten
+> weitergereicht werden. Für viele Familien in unserem Viertel
+> wird das spürbar.
+>
+> Meine zwei konkreten Fragen: Wann wird das Klimageld
+> ausgezahlt, und wird es pauschal pro Kopf oder nach Einkommen
+> gestaffelt?
+>
+> Ich wäre Ihnen sehr dankbar für eine kurze, konkrete Antwort.
+>
+> Mit freundlichen Grüßen
+> K. Baumann
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 8 · GER-Stufe B2*

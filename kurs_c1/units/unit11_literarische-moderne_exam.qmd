@@ -1,0 +1,43 @@
+---
+title: "Goethe-Zertifikat C1 — Sprechen, Teil 1"
+subtitle: "Einheit 11 · Literarische Moderne · GER-Stufe C1"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+C1-Sprechen Teil 1 (Vortrag, ca. 4 Min, vier Sprachfunktionen).
+:::
+
+Halten Sie einen Vortrag (ca. 4 Minuten) zur Frage:
+
+> *„Lohnt es sich, im DaF-Unterricht (B2 / C1) literarische
+> Moderne zu lesen?"*
+
+Setzen Sie folgende vier Sprachfunktionen um:
+
+- **erklären**, was literarische Moderne meint,
+- **argumentieren**, ob sie didaktisch lohnt,
+- **anhand eines Textbeispiels** illustrieren,
+- **Vor- und Nachteile** erwägen.
+
+## Bewertung
+
+A–E pro Dimension: Erfüllung · Kohärenz · Wortschatz · Strukturen
+· Aussprache.
+
+## Erwartungshorizont
+
+- begriffliche Klärung *Moderne* als Periode 1900–1939,
+- ein konkreter Textauszug (auch eigener Imitationsstil
+  zulässig, wenn als solcher markiert),
+- ein didaktischer Vorteil (z. B. Sprachreflexion, kulturelle
+  Verortung) und ein Nachteil (z. B. Niveau, Distanz),
+- klare persönliche Position am Schluss.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 11 · GER-Stufe C1*

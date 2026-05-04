@@ -1,0 +1,7 @@
+# _metadata.yml — inherited by every .qmd in this folder.
+#
+# Quarto propagates these fields to every unit<NN>_*.qmd in the
+# same directory. Never set `author:` inside an individual Unit
+# file.
+
+author: "S. Le Boulanger"

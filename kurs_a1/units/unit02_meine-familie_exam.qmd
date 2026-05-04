@@ -1,0 +1,54 @@
+---
+title: "Start Deutsch 1 — Lesen, Teil 1"
+subtitle: "Einheit 2 · Meine Familie · GER-Stufe A1"
+author: "S. Le Boulanger"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=25mm
+    include-in-header: ../../_includes/_exam.tex
+    number-sections: false
+    toc: false
+---
+
+## Aufgabe
+
+::: {.callout-warning}
+Formal am Start-Deutsch-1-Lesen-Modul Teil 1 orientiert:
+Kurznotizen (Richtig/Falsch).
+:::
+
+Lesen Sie die Postkarte. Sind die Aussagen **richtig** oder
+**falsch**?
+
+> Liebe Oma,
+>
+> mein Bruder Miguel ist jetzt 10 Jahre alt. Seine Schule gefällt
+> ihm. Mama arbeitet wieder als Ärztin im Krankenhaus. Papa hat
+> viel zu tun in der Schule. Ich spreche jetzt Deutsch!
+>
+> Liebe Grüße
+> Ana
+
+|   | Aussage                           | Richtig | Falsch |
+|---|-----------------------------------|:-------:|:------:|
+| 1 | Miguel ist 9 Jahre alt.           | ☐       | ☐      |
+| 2 | Anas Mutter ist Ärztin.           | ☐       | ☐      |
+| 3 | Ana lernt Deutsch.                | ☐       | ☐      |
+| 4 | Anas Vater arbeitet in einer Schule.| ☐     | ☐      |
+| 5 | Die Postkarte ist an die Mutter.  | ☐       | ☐      |
+
+## Lösungen
+
+1. **Falsch** — Miguel ist 10.
+2. **Richtig**.
+3. **Richtig**.
+4. **Richtig**.
+5. **Falsch** — an die Oma.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · DaF · Einheit 2 · GER-Stufe A1*
