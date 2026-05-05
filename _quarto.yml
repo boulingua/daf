@@ -31,6 +31,14 @@ website:
           - href: kurs_c1/index.qmd
             text: "C1 — Kompetent"
     right:
+      - text: "Rechtliches"
+        menu:
+          - href: impressum.qmd
+            text: "Impressum"
+          - href: datenschutz.qmd
+            text: "Datenschutzerklärung"
+          - href: haftungsausschluss.qmd
+            text: "Haftungsausschluss"
       - icon: github
         href: https://github.com/boulingua/daf
   page-navigation: true
@@ -50,8 +58,13 @@ website:
       [FLE](https://boulingua.github.io/fle/) ·
       [Ressourcen](https://boulingua.github.io/ressources/) ·
       **[Impressum](/impressum.qmd)** ·
-      **[Datenschutz](/datenschutz.qmd)**
+      **[Datenschutz](/datenschutz.qmd)** ·
+      **[Haftungsausschluss](/haftungsausschluss.qmd)** ·
+      [Kontakt](mailto:277736839+s-leboulanger@users.noreply.github.com)
     right: "Mit [Quarto](https://quarto.org) gebaut"
+
+filters:
+  - _scripts/vgwort.lua
 
 format:
   html:
