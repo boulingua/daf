@@ -1,6 +1,6 @@
 ---
 title: "Einheit 4 — Ästhetik und Urteil"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Sprechen"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen"
 cefr_level: "C1"
 unit_nr: 4
 slug: "aesthetik-und-urteil"
@@ -33,21 +33,21 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1 (Vortrag, vier
+Prüfungsmodul **Sprechen** — Teil 1 (Vortrag, vier
 Sprachfunktionen).
 
 ## Einstiegsgeschichte
 
 Die Autorin (Meta-Stimme) erinnert sich: in einem DaF-Workshop
 fragte eine Teilnehmerin: *„Warum ist Brecht im Schulkanon, aber
-ich finde seine Sprache hölzern?"* Die Frage stand am Anfang
+ich finde seine Sprache hölzern?“* Die Frage stand am Anfang
 einer langen, fruchtbaren Diskussion — und wird in dieser
 Einheit zum Ausgangspunkt.
 
 ## 1. Einstieg
 
 - Welches Buch / welcher Film hat Sie zuletzt überzeugt? Warum?
-- Lässt sich „schön" begründen — oder nur konstatieren?
+- Lässt sich „schön“ begründen — oder nur konstatieren?
 - Wer entscheidet, was in den Kanon kommt?
 
 ## 2. Input
@@ -57,17 +57,17 @@ Werken)
 
 > **Stil 1 — beobachtend:** *„Sie öffnete den Brief, las, faltete
 > ihn wieder. Auf dem Tisch stand kalter Kaffee. Der Wind
-> bewegte den Vorhang."*
+> bewegte den Vorhang.“*
 
 > **Stil 2 — innerlich:** *„Sie las den Brief, und während sie
 > las, dachte sie an alles, was sie nicht gesagt hatte, und an
 > alles, was sie hätte sagen müssen, wenn sie nur gewusst hätte,
-> dass dieser Brief der letzte sein würde."*
+> dass dieser Brief der letzte sein würde.“*
 
 > **Stil 3 — analytisch:** *„Der Brief, das Datum, die Form der
 > Anrede: drei Hinweise, die zusammengelesen ein viertes ergeben
 > — den Adressaten, der nicht genannt ist, aber ohne den der
-> Text nicht funktioniert."*
+> Text nicht funktioniert.“*
 
 ### B. Begriffliches Werkzeug
 
@@ -83,10 +83,10 @@ Werken)
 
 ### C. Redemittel für Stilanalyse
 
-- *„Auffällig ist die …"*
-- *„Was diesen Stil von … unterscheidet, ist …"*
-- *„Die Wirkung auf mich ist …"*
-- *„Ich vermute, dass die Autorin / der Autor damit … erreichen will."*
+- *„Auffällig ist die …“*
+- *„Was diesen Stil von … unterscheidet, ist …“*
+- *„Die Wirkung auf mich ist …“*
+- *„Ich vermute, dass die Autorin / der Autor damit … erreichen will.“*
 
 ## 3. Üben
 
@@ -98,7 +98,7 @@ c) Parataxe und kühle Außenwelt-Beobachtung?
 
 **Aufgabe 2 — Urteilsformulierung.** Schreiben Sie zu jedem
 Stil **einen Satz**, der eine subjektive Wirkung benennt, ohne
-zu werten („gut/schlecht").
+zu werten („gut/schlecht“).
 
 **Aufgabe 3 — Geschmack vs. Kanon.** Notieren Sie zwei Sätze:
 
@@ -139,12 +139,12 @@ einen Film, ein Gemälde, eine Komposition. Halten Sie eine
 - [ ] Ich formuliere ein ästhetisches Urteil ohne Polemik.
 - [ ] Ich verorte ein Werk in / außer Kanon.
 
-## Prüfungsbeispiel — Goethe C1 Sprechen, Teil 1
+## Prüfungsbeispiel — GER C1 Sprechen, Teil 1
 
 **Aufgabenstellung:** Halten Sie einen 4-Minuten-Vortrag zu:
 
 > *„Was macht eine Stilbeschreibung gelungen — und wo wird
-> sie zur Plage?"*
+> sie zur Plage?“*
 
 Verwenden Sie vier Sprachfunktionen + ein konkretes Beispiel.
 
@@ -159,12 +159,12 @@ Prüfungsvorschau 15'.
 
 ## Häufige Stolperfallen
 
-- **„Geschmack" (m.)** — keine Pluralform im ästhetischen Sinn.
-- **„Kanon" (m.)** ≠ **„Kanone" (f.)**.
-- **„Subjektivität" als Stärke**, nicht Schwäche der Argumentation
+- **„Geschmack“ (m.)** — keine Pluralform im ästhetischen Sinn.
+- **„Kanon“ (m.)** ≠ **„Kanone“ (f.)**.
+- **„Subjektivität“ als Stärke**, nicht Schwäche der Argumentation
   — auf C1-Niveau muss diese Differenzierung gelingen.
 
 ## Weiterführende Materialien
 
 - **Theodor W. Adorno, *Ästhetische Theorie***.
-- **Ö1 „Hörbilder"** zur Stilanalyse.
+- **Ö1 „Hörbilder“** zur Stilanalyse.

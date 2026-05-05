@@ -1,6 +1,6 @@
 ---
 title: "Einheit 6 — Hobbys und Vereine"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Sprechen"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen"
 cefr_level: "A2"
 unit_nr: 6
 slug: "hobbys-und-vereine"
@@ -32,14 +32,14 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 2: Produktion, ausführliche
+Prüfungsmodul **Sprechen** — Teil 2: Produktion, ausführliche
 Informationen zum eigenen Leben geben.
 
 ## Einstiegsgeschichte
 
 **Omar** hat sich einem Fotoclub in Graz angeschlossen. Jeden
 Mittwochabend: vier Fotograf:innen treffen sich im Café „Zum
-Keks" (wie Herr Keks aus A1 — Kamea ist sein Neffe, der den
+Keks“ (wie Herr Keks aus A1 — Kamea ist sein Neffe, der den
 Grazer Ableger betreibt).
 
 ## 1. Einstieg
@@ -53,19 +53,19 @@ Grazer Ableger betreibt).
 ### A. Radio-Ausschnitt
 
 > „Heute im Bezirksradio Graz: der Fotoclub Graz-Mitte. Gast:
-> Omar Hafez. Omar, wie hast du den Club gefunden?"
+> Omar Hafez. Omar, wie hast du den Club gefunden?“
 >
 > „Ein Freund hat mir erzählt. Wir treffen uns jeden Mittwoch
 > um 19 Uhr, machen Fotos, besprechen sie. Ich bin seit drei
-> Monaten Mitglied."
+> Monaten Mitglied.“
 >
-> „Wie viel kostet die Mitgliedschaft?"
+> „Wie viel kostet die Mitgliedschaft?“
 >
-> „Dreißig Euro pro Jahr. Für Studierende fünfzehn."
+> „Dreißig Euro pro Jahr. Für Studierende fünfzehn.“
 >
-> „Was war dein Lieblingsprojekt bisher?"
+> „Was war dein Lieblingsprojekt bisher?“
 >
-> „Ein Spaziergang durch Graz-Lend — Fotos von alten Türen."
+> „Ein Spaziergang durch Graz-Lend — Fotos von alten Türen.“
 
 ### B. Redemittel
 
@@ -127,10 +127,10 @@ Hobby oder einen Verein. Gliederung:
 - [ ] Ich nenne Häufigkeit und Dauer.
 - [ ] Ich stelle drei Fragen zu einem Verein.
 
-## Prüfungsbeispiel — Goethe A2 Sprechen, Teil 2
+## Prüfungsbeispiel — GER A2 Sprechen, Teil 2
 
 **Aufgabe:** Erzählen Sie Ihrer Prüfungspartnerin / Ihrem Prüfer
-etwas zum Thema „**Mein Hobby / Mein Verein**". Sie bekommen ein
+etwas zum Thema „**Mein Hobby / Mein Verein**“. Sie bekommen ein
 Aufgabenblatt mit fünf Stichwörtern:
 
 - Name / Art
@@ -152,12 +152,12 @@ Prüfungsvorschau 10'.
 
 ## Häufige Stolperfallen
 
-- **„seit" + Dativ:** *seit drei Monaten*, nicht *Monate*.
-- **„Mitgliedschaft" (f)** ≠ **„Mitglied" (n)**: *Ich bin Mitglied
+- **„seit“ + Dativ:** *seit drei Monaten*, nicht *Monate*.
+- **„Mitgliedschaft“ (f)** ≠ **„Mitglied“ (n)**: *Ich bin Mitglied
   / habe eine Mitgliedschaft.*
-- **„jeden Mittwoch"** ohne Präposition (Akkusativ der Zeit).
+- **„jeden Mittwoch“** ohne Präposition (Akkusativ der Zeit).
 
 ## Weiterführende Materialien
 
 - **ORF Bezirksradio**: <https://oe1.orf.at/>
-- **DW „Deutsche Vereine"** (A2-taugliche Erklärformate).
+- **DW „Deutsche Vereine“** (A2-taugliche Erklärformate).

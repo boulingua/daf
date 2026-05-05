@@ -1,6 +1,6 @@
 ---
 title: "Einheit 8 — Stadt und Land"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Lesen"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen"
 cefr_level: "B1"
 unit_nr: 8
 slug: "stadt-und-land"
@@ -42,13 +42,13 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Lesen** — Teil 4 (Ja/Nein-Aufgabe zu
+- Prüfungsmodul **Lesen** — Teil 4 (Ja/Nein-Aufgabe zu
   Meinungsbeiträgen).
 
 ## Einstiegsgeschichte
 
-Die Wiener Zeitung „**Wochenblick**" hat zum Thema *„Ist das
-Land attraktiver geworden?"* einen Leserbrief-Aufruf gestartet.
+Die Wiener Zeitung „**Wochenblick**“ hat zum Thema *„Ist das
+Land attraktiver geworden?“* einen Leserbrief-Aufruf gestartet.
 Noa (unsere Erasmus-Studentin) moderiert die Einsendungen für
 ihre Praktikumsstelle. Vier Briefe sind angekommen — aus Wien,
 aus Dornbirn, aus St. Pölten und aus Bregenz.
@@ -148,7 +148,7 @@ Brief soll:
 - [ ] Ich kann jeweils eine Einzelaussage im Kernsatz komprimieren.
 - [ ] Ich kann eine eigene strukturierte Meinung schreiben.
 
-## Prüfungsbeispiel — Goethe B1 Lesen, Teil 4
+## Prüfungsbeispiel — GER B1 Lesen, Teil 4
 
 **Aufgabenstellung:** Entscheiden Sie zu den folgenden sieben
 Aussagen, ob sie zu Cornelia S. **passen (Ja)** oder **nicht
@@ -164,7 +164,7 @@ passen (Nein)**.
 
 ::: {.callout-tip collapse="true" title="Lösungen Prüfungsbeispiel"}
 
-1. Ja · 2. Nein (*„Mieten sind absurd"*) · 3. Ja · 4. Nein · 5.
+1. Ja · 2. Nein (*„Mieten sind absurd“*) · 3. Ja · 4. Nein · 5.
 Ja (Konzerte, Schulen, …) · 6. Nein (keine Aussage dazu) · 7. Ja
 (U-Bahnen; implizit).
 
@@ -183,7 +183,7 @@ Reflexion 3' · Prüfungsvorschau 30'.
 
 ## Häufige Stolperfallen
 
-- **„Land" ≠ „Staat".** Im Deutschen hat *Land* zwei Bedeutungen:
+- **„Land“ ≠ „Staat“.** Im Deutschen hat *Land* zwei Bedeutungen:
   Bundesland / Staat **und** ländlicher Raum. Aus dem Kontext
   erschließbar.
 - **Homeoffice** ist Pseudo-Anglizismus — korrekt: *im Homeoffice*,

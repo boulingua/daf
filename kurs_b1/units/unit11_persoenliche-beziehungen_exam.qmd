@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Lesen, Teil 1"
+title: "GER-Modellprüfung B1 — Lesen, Teil 1"
 subtitle: "Einheit 11 · Persönliche Beziehungen · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -26,7 +26,7 @@ sechs Aussagen *richtig* oder *falsch* sind.
 
 > Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee,
 > einfach reden. Ich hatte mich gefreut. Als ich in die Wohnung
-> kam, saß Stefan vor seinem Laptop und spielte. „Einen Moment",
+> kam, saß Stefan vor seinem Laptop und spielte. „Einen Moment“,
 > sagte er. Der Moment dauerte eine halbe Stunde. Wir haben dann
 > geredet, aber ich war schon so enttäuscht, dass ich nicht mehr
 > richtig zuhören konnte.
@@ -49,13 +49,13 @@ sechs Aussagen *richtig* oder *falsch* sind.
 
 ## Lösungen
 
-1. **Richtig** — „Als ich in die Wohnung kam".
-2. **Falsch** — „der Moment dauerte eine halbe Stunde".
-3. **Richtig** — „der Moment dauerte eine halbe Stunde", dann
-   „Wir haben dann geredet".
-4. **Falsch** — „nicht mehr richtig zuhören konnte".
-5. **Richtig** — „Vielleicht hat er den Termin einfach vergessen".
-6. **Falsch** — „Morgen schicke ich ihm …".
+1. **Richtig** — „Als ich in die Wohnung kam“.
+2. **Falsch** — „der Moment dauerte eine halbe Stunde“.
+3. **Richtig** — „der Moment dauerte eine halbe Stunde“, dann
+   „Wir haben dann geredet“.
+4. **Falsch** — „nicht mehr richtig zuhören konnte“.
+5. **Richtig** — „Vielleicht hat er den Termin einfach vergessen“.
+6. **Falsch** — „Morgen schicke ich ihm …“.
 
 ---
 

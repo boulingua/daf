@@ -4,8 +4,7 @@ project:
 
 website:
   title: "DaF — S. Le Boulanger"
-  description: "Ein DaF-Kursangebot entlang des Gemeinsamen Europäischen Referenzrahmens, A1 bis C1, mit Goethe-Modellprüfungen pro Einheit."
-  author: "S. Le Boulanger"
+  description: "Ein DaF-Kursangebot entlang des Gemeinsamen Europäischen Referenzrahmens, A1 bis C1, mit GER-Modellprüfung pro Einheit."
   site-url: "https://boulingua.github.io/daf/"
   repo-url: "https://github.com/boulingua/daf"
   navbar:
@@ -16,7 +15,7 @@ website:
       - href: ueber.qmd
         text: "Über"
       - href: goethe_formate.qmd
-        text: "Goethe-Formate"
+        text: "Prüfungsformate"
       - href: uebersicht.qmd
         text: "Übersicht"
       - text: "GER-Stufen"
@@ -47,7 +46,7 @@ website:
     left: "DaF · © S. Le Boulanger · MIT / CC-BY-SA 4.0"
     center: |
       [Start](/start.qmd) · [Übersicht](/uebersicht.qmd) ·
-      [Goethe-Formate](/goethe_formate.qmd) ·
+      [Prüfungsformate](/goethe_formate.qmd) ·
       [Lernstrategien](/anhaenge/lernstrategien.qmd) ·
       [Kompetenzbaum](/anhaenge/kompetenzbaum.qmd) ·
       [Glossar](/anhaenge/glossar.qmd) ·

@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 3 (Hinweisschilder / Aushänge,
+Prüfungsmodul **Lesen** — Teil 3 (Hinweisschilder / Aushänge,
 Richtig/Falsch).
 
 ## Einstiegsgeschichte
@@ -166,11 +166,11 @@ an Luka** (ca. 30 Wörter):
 
 |   | Schild                     | Aussage                                           |
 |---|----------------------------|---------------------------------------------------|
-| 1 | „Rauchen verboten"         | Sie dürfen hier rauchen.                          |
-| 2 | „Eingang"                  | Hier ist die Tür, um hineinzugehen.               |
-| 3 | „Gleis 5 — ICE 22 Zürich"  | Der Zug nach Zürich fährt auf Gleis 3.            |
-| 4 | „Geschlossen bis 14:00"    | Ab 14 Uhr ist offen.                              |
-| 5 | „Bitte einsteigen"         | Sie sollen aussteigen.                            |
+| 1 | „Rauchen verboten“         | Sie dürfen hier rauchen.                          |
+| 2 | „Eingang“                  | Hier ist die Tür, um hineinzugehen.               |
+| 3 | „Gleis 5 — ICE 22 Zürich“  | Der Zug nach Zürich fährt auf Gleis 3.            |
+| 4 | „Geschlossen bis 14:00“    | Ab 14 Uhr ist offen.                              |
+| 5 | „Bitte einsteigen“         | Sie sollen aussteigen.                            |
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 1. **F** · 2. **R** · 3. **F** (Gleis 5) · 4. **R** · 5. **F**
@@ -186,7 +186,7 @@ Sie haben **12 Einheiten** auf A1 bearbeitet und können sich nun:
   Zeit angeben · Wetter beschreiben · beim Arzt helfen ·
   über Beruf sprechen · Hobbys nennen · Fahrpläne lesen.
 
-Das entspricht dem Zielkanon der Goethe-Stufe A1.
+Das entspricht dem Zielkanon der GER-Stufe A1.
 
 ## Downloads {#downloads}
 
@@ -201,11 +201,11 @@ Reflexion 3' · Prüfungsvorschau 9'.
 
 - **Gleis** ist neutrum (*das Gleis*) — *auf Gleis 7*.
 - **zwischen Zeit und Gleis:** *um 08:58 auf Gleis 7*.
-- **„Bitte einsteigen"** = bitte einsteigen in den Zug
+- **„Bitte einsteigen“** = bitte einsteigen in den Zug
   (hineingehen), nicht aussteigen.
 
 ## Weiterführende Materialien
 
 - **ÖBB Scotty — Fahrplanauskunft A1 rezeptiv**:
   <https://www.oebb.at/>
-- **DW Nicos Weg — „Unterwegs"**: <https://learngerman.dw.com/>
+- **DW Nicos Weg — „Unterwegs“**: <https://learngerman.dw.com/>

@@ -41,21 +41,21 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 3: Bitten formulieren und
+Prüfungsmodul **Sprechen** — Teil 3: Bitten formulieren und
 darauf reagieren (Arztpraxis-Kontext).
 
 ## Einstiegsgeschichte
 
 Ana hat Kopfschmerzen. Sie geht zu Dr. Frey. Ana:
 
-> „Guten Tag, Frau Doktor. Ich habe starke Kopfschmerzen."
+> „Guten Tag, Frau Doktor. Ich habe starke Kopfschmerzen.“
 >
-> **Dr. Frey:** „Seit wann?"
+> **Dr. Frey:** „Seit wann?“
 >
-> **Ana:** „Seit gestern Abend."
+> **Ana:** „Seit gestern Abend.“
 >
 > **Dr. Frey:** „Setzen Sie sich, bitte. Ich messe Ihren
-> Blutdruck."
+> Blutdruck.“
 
 ## 1. Einstieg
 
@@ -102,10 +102,10 @@ Situation?
 
 A. Kopfschmerzen · B. Husten · C. Halsweh · D. Bauchschmerzen
 
-- „Mein Bauch tut weh, ich habe das Falsche gegessen."
-- „Ich habe viel gehustet, ich brauche Hustensaft."
-- „Ich kann nicht schlucken, mein Hals tut weh."
-- „Der Kopf tut mir furchtbar weh, ich brauche eine Tablette."
+- „Mein Bauch tut weh, ich habe das Falsche gegessen.“
+- „Ich habe viel gehustet, ich brauche Hustensaft.“
+- „Ich kann nicht schlucken, mein Hals tut weh.“
+- „Der Kopf tut mir furchtbar weh, ich brauche eine Tablette.“
 
 **Aufgabe 2 — Artikel.** *der / die / das*?
 
@@ -137,9 +137,9 @@ zwei Tagen.*
 
 ## 4. Anwenden
 
-**Rollenspiel „Beim Arzt".** Zu zweit. A ist Arzt/Ärztin, B ist
-Patient:in. B nennt **zwei Beschwerden** mit *„Ich habe …"* oder
-*„Mein … tut weh."* A gibt **zwei Anweisungen** im Imperativ Sie.
+**Rollenspiel „Beim Arzt“.** Zu zweit. A ist Arzt/Ärztin, B ist
+Patient:in. B nennt **zwei Beschwerden** mit *„Ich habe …“* oder
+*„Mein … tut weh.“* A gibt **zwei Anweisungen** im Imperativ Sie.
 
 ## 5. Reflexion
 
@@ -171,13 +171,13 @@ Prüfungsvorschau 3'.
 
 ## Häufige Stolperfallen
 
-- **„weh tun"** + Dativ: *Mir tut der Kopf weh* (formell) oder
+- **„weh tun“** + Dativ: *Mir tut der Kopf weh* (formell) oder
   einfacher *Mein Kopf tut weh*.
-- **„fehlen"** in Arztpraxen: *Was fehlt Ihnen?* — höfliche
+- **„fehlen“** in Arztpraxen: *Was fehlt Ihnen?* — höfliche
   Frage.
 - **Imperativ Sie**: Verb + *Sie*: *Atmen Sie*, *Setzen Sie*.
 
 ## Weiterführende Materialien
 
-- **DW — „Beim Arzt"**: <https://learngerman.dw.com/>
+- **DW — „Beim Arzt“**: <https://learngerman.dw.com/>
 - **Gesundheitsinformation A1**: <https://www.gesundheitsinformation.de/>

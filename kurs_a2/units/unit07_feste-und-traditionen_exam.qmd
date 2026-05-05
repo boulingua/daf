@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Lesen, Teil 3"
+title: "GER-Prüfung A2 — Lesen, Teil 3"
 subtitle: "Einheit 7 · Feste und Traditionen · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:

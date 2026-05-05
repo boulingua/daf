@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Lesen, Teil 2"
+title: "GER-Prüfung B2 — Lesen, Teil 2"
 subtitle: "Einheit 9 · Bildungsdebatten · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:

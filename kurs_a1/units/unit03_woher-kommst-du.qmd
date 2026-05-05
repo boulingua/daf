@@ -35,13 +35,13 @@ format:
 
 ## Lernziele
 
-- Ich verstehe: *„Woher kommst du? Wo wohnst du?"*
+- Ich verstehe: *„Woher kommst du? Wo wohnst du?“*
 - Ich nenne 10 Länder auf Deutsch.
-- Ich sage: *„Ich komme aus …"* / *„Ich wohne in …"*
+- Ich sage: *„Ich komme aus …“* / *„Ich wohne in …“*
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 1: Kurze Alltagsgespräche,
+Prüfungsmodul **Hören** — Teil 1: Kurze Alltagsgespräche,
 bildunterstützte Mehrfachwahl.
 
 ## Einstiegsgeschichte
@@ -207,16 +207,16 @@ Prüfungsvorschau 6'.
 
 ## Häufige Stolperfallen
 
-- **„die Schweiz" / „die Türkei"** haben Artikel — deshalb *aus
+- **„die Schweiz“ / „die Türkei“** haben Artikel — deshalb *aus
   der Schweiz / aus der Türkei*.
-- **„aus" + Land** ohne Artikel bei den meisten Ländern
+- **„aus“ + Land** ohne Artikel bei den meisten Ländern
   (*aus Portugal*).
 - **Vorsicht Uhrzeit / Alter:** *bin 22* für Alter, *ist 22 Uhr*
   für Zeit.
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg A1 — „Ich heiße Nico"**:
+- **DW Nicos Weg A1 — „Ich heiße Nico“**:
   <https://learngerman.dw.com/de/nico/c-37000174>
-- **Goethe A1 Wortliste** (offen):
+- **GER A1 Wortliste** (offen):
   <https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf>

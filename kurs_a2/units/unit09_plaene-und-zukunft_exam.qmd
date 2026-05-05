@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Sprechen, Teil 3"
+title: "GER-Prüfung A2 — Sprechen, Teil 3"
 subtitle: "Einheit 9 · Pläne und Zukunft · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:

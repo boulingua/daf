@@ -1,6 +1,6 @@
 ---
 title: "Einheit 11 — Literarische Moderne: Kafka, Mann, Musil — und warum sie heute lesen?"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Sprechen"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen"
 cefr_level: "C1"
 unit_nr: 11
 slug: "literarische-moderne"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1 (Vortrag mit Stichpunkten,
+Prüfungsmodul **Sprechen** — Teil 1 (Vortrag mit Stichpunkten,
 4 Min, vier Sprachfunktionen).
 
 ## Einstiegsgeschichte
@@ -46,7 +46,7 @@ drei Autoren — sie sind keine echten Romanfragmente.
 ## 1. Einstieg
 
 - Welche deutschen Romane vor 1939 haben Sie gelesen?
-- Was bedeutet *„Moderne"* in Ihrer Muttersprache?
+- Was bedeutet *„Moderne“* in Ihrer Muttersprache?
 - Welche drei Themen waren um 1910 in Wien / Prag / München
   zentral?
 
@@ -58,19 +58,19 @@ drei Autoren — sie sind keine echten Romanfragmente.
 > seinem Zimmer. Es war nicht das andere Zimmer. Es war
 > dasselbe Zimmer, aber von außen — er sah es zum ersten Mal
 > als Raum, der ihn ausgeschlossen hatte, indem er ihn
-> aufnahm."*
+> aufnahm.“*
 
 > **b) Thomas-Mann-nah** — *„Es ist mit der Liebe in der Familie
 > nicht so, dass sie wachse oder schwinde; sie wechselt nur
 > ihre Verkleidung — heute Geduld, morgen Strenge, übermorgen
 > jene leise, immer auf den Falten der Stimme reitende Form,
-> die wir Sorge nennen."*
+> die wir Sorge nennen.“*
 
 > **c) Musil-nah** — *„Er war einer von jenen Männern, deren
 > Eigenschaften nicht ihnen, sondern den Anlässen gehören,
 > denen sie begegnen. Eine andere Stadt, ein anderer Tisch
 > — und er wäre jemand anderer geworden, ohne sich dessen je
-> bewusst zu sein."*
+> bewusst zu sein.“*
 
 ### B. Stilcharakteristika
 
@@ -109,9 +109,9 @@ sie in einem Satz.
 **Aufgabe 1.** 1) c · 2) a · 3) b.
 
 **Aufgabe 2.** Muster:
-- a) chiastische Inversion *„ausgeschlossen, indem er ihn aufnahm"*;
+- a) chiastische Inversion *„ausgeschlossen, indem er ihn aufnahm“*;
   unbestimmte Räumlichkeit.
-- b) hypotaktische Listen *„heute …, morgen …, übermorgen …"*;
+- b) hypotaktische Listen *„heute …, morgen …, übermorgen …“*;
   klangvolle Adjektive (*leise, immer auf den Falten*).
 - c) Konditionale (*Eine andere Stadt — und er wäre …*);
   Reflexion über Identität.
@@ -137,12 +137,12 @@ Halten Sie eine **Lektürepräsentation** mit:
 - [ ] Ich erkenne drei Stiltypen.
 - [ ] Ich präsentiere einen Lektüreeindruck strukturiert.
 
-## Prüfungsbeispiel — Goethe C1 Sprechen, Teil 1
+## Prüfungsbeispiel — GER C1 Sprechen, Teil 1
 
 **Aufgabenstellung:** Halten Sie einen Vortrag (ca. 4 Min) zu:
 
 > *„Lohnt es sich, im DaF-Unterricht (B2 / C1) literarische
-> Moderne zu lesen?"*
+> Moderne zu lesen?“*
 
 Vier Sprachfunktionen + ein konkretes Textbeispiel + eigene
 didaktische Position.
@@ -158,9 +158,9 @@ Prüfungsvorschau 16'.
 
 ## Häufige Stolperfallen
 
-- **„Moderne" ist Periodenbegriff** (ca. 1900–1939), nicht
-  „neu/aktuell".
-- **„Hypotaxe"** = verschachtelter Satzbau; **„Parataxe"** =
+- **„Moderne“ ist Periodenbegriff** (ca. 1900–1939), nicht
+  „neu/aktuell“.
+- **„Hypotaxe“** = verschachtelter Satzbau; **„Parataxe“** =
   Satzaneinanderreihung.
 - **Originalwerke ≠ Imitationen:** Auf C1 ist die Unterscheidung
   Pflicht.

@@ -1,6 +1,6 @@
 ---
 title: "Einheit 7 — Feste und Traditionen im DACH-Raum"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Lesen"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen"
 cefr_level: "A2"
 unit_nr: 7
 slug: "feste-und-traditionen"
@@ -33,7 +33,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 3 (Korrespondenz / Einladung
+Prüfungsmodul **Lesen** — Teil 3 (Korrespondenz / Einladung
 verstehen, MC).
 
 ## Einstiegsgeschichte
@@ -60,7 +60,7 @@ hingehen.
 > **b) Weihnachtsmarkt Rathausplatz Wien — 22.11.-26.12.,
 > täglich 10-22 Uhr.** Punsch, Kekse, Handwerk, Eisbahn.
 
-> **c) Fasnacht Basel — 3.-5.3., ab 4 Uhr morgens „Morgestraich".**
+> **c) Fasnacht Basel — 3.-5.3., ab 4 Uhr morgens „Morgestraich“.**
 > Kostüme, Laternen, Trommeln. *Nicht* für kleine Kinder
 > (laut).
 
@@ -128,7 +128,7 @@ Fest in Ihrer Heimat:
 - [ ] Ich unterscheide Weihnachtsmarkt, Stadtfest, Fasnacht.
 - [ ] Ich erzähle 50 Wörter über ein Fest in meiner Heimat.
 
-## Prüfungsbeispiel — Goethe A2 Lesen, Teil 3
+## Prüfungsbeispiel — GER A2 Lesen, Teil 3
 
 **Aufgabe:** Lesen Sie die Einladung. Wählen Sie bei jeder
 Aufgabe a, b oder c.
@@ -160,10 +160,10 @@ Prüfungsvorschau 7'.
 
 ## Häufige Stolperfallen
 
-- **„Fasnacht" (CH, SW-DE)** ≠ **„Karneval" (Rheinland)** ≠
-  **„Fasching" (AT, Bayern)**. Alle dasselbe Fest, drei Namen.
-- **„Feiertag"** ≠ **„Ferientag"** (Feiertag = gesetzlich frei).
-- **„ab"** für Zeitpunkte: *ab 4 Uhr*, nicht *von 4 Uhr*.
+- **„Fasnacht“ (CH, SW-DE)** ≠ **„Karneval“ (Rheinland)** ≠
+  **„Fasching“ (AT, Bayern)**. Alle dasselbe Fest, drei Namen.
+- **„Feiertag“** ≠ **„Ferientag“** (Feiertag = gesetzlich frei).
+- **„ab“** für Zeitpunkte: *ab 4 Uhr*, nicht *von 4 Uhr*.
 
 ## Weiterführende Materialien
 

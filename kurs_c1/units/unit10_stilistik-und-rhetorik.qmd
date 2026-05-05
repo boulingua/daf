@@ -1,6 +1,6 @@
 ---
 title: "Einheit 10 — Stilistik und Rhetorik"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Sprechen"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen"
 cefr_level: "C1"
 unit_nr: 10
 slug: "stilistik-und-rhetorik"
@@ -32,14 +32,14 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1 (Vortrag) und Teil 2
+Prüfungsmodul **Sprechen** — Teil 1 (Vortrag) und Teil 2
 (Diskussion).
 
 ## Einstiegsgeschichte
 
 Die Autorin gibt einen Workshop für DaF-Lehrkräfte zum Thema:
 *„Wie unterrichten wir Stilfiguren ohne Klassizismus, ohne sie
-trocken werden zu lassen?"* Diese Einheit ist die didaktische
+trocken werden zu lassen?“* Diese Einheit ist die didaktische
 Antwort — mit kleinen Stilanwendungen aus dem Alltag.
 
 ## 1. Einstieg
@@ -55,12 +55,12 @@ Antwort — mit kleinen Stilanwendungen aus dem Alltag.
 
 | Figur          | Definition                                  | Beispiel (original)                              |
 |----------------|---------------------------------------------|--------------------------------------------------|
-| Anapher        | Wiederholung am Satzanfang                  | *„Wir haben gefragt. Wir haben gewartet. Wir haben verloren."* |
-| Klimax         | Steigerung                                   | *„Eine Idee, ein Plan, ein Ergebnis."*           |
-| Antithese      | Gegensatz                                    | *„Klein im Format, groß in Wirkung."*            |
-| Chiasmus       | Über-Kreuz-Stellung                          | *„Wir lernen, um zu leben — wir leben, um zu lernen."* |
-| Parallelismus  | gleicher Satzbau in Folge                    | *„Sie kam allein. Sie blieb allein. Sie ging allein."* |
-| Rhetorische Frage | Frage ohne Antworterwartung               | *„Wer kann das noch ernst nehmen?"*              |
+| Anapher        | Wiederholung am Satzanfang                  | *„Wir haben gefragt. Wir haben gewartet. Wir haben verloren.“* |
+| Klimax         | Steigerung                                   | *„Eine Idee, ein Plan, ein Ergebnis.“*           |
+| Antithese      | Gegensatz                                    | *„Klein im Format, groß in Wirkung.“*            |
+| Chiasmus       | Über-Kreuz-Stellung                          | *„Wir lernen, um zu leben — wir leben, um zu lernen.“* |
+| Parallelismus  | gleicher Satzbau in Folge                    | *„Sie kam allein. Sie blieb allein. Sie ging allein.“* |
+| Rhetorische Frage | Frage ohne Antworterwartung               | *„Wer kann das noch ernst nehmen?“*              |
 
 ### B. Stil + Wirkung
 
@@ -89,16 +89,16 @@ Sie **drei** Figuren.
 **Aufgabe 2 — Eigene Anwendung.** Schreiben Sie zu jedem dieser
 drei Themen einen Satz mit der angegebenen Figur:
 
-1. *„Mehrsprachigkeit"* mit **Anapher**.
-2. *„Verantwortung"* mit **Antithese**.
-3. *„Hoffnung"* mit **Chiasmus**.
+1. *„Mehrsprachigkeit“* mit **Anapher**.
+2. *„Verantwortung“* mit **Antithese**.
+3. *„Hoffnung“* mit **Chiasmus**.
 
 **Aufgabe 3 — Übermaß erkennen.** Wann wirkt Stil pathetisch?
 Geben Sie zwei Hinweise.
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
-**Aufgabe 1.** Anapher („Eine Stadt, die …"), Parallelismus, sowie
+**Aufgabe 1.** Anapher („Eine Stadt, die …“), Parallelismus, sowie
 rhetorische Frage am Schluss.
 
 **Aufgabe 2.** Individuell. Muster:
@@ -127,16 +127,16 @@ Berufs-/Studien-Umfeld. Halten Sie eine kurze Rede, in der Sie
 - [ ] Ich setze zwei davon bewusst in einer Rede ein.
 - [ ] Ich erkenne, wann Stil ins Pathos kippt.
 
-## Prüfungsbeispiel — Goethe C1 Sprechen, Teil 1 + 2
+## Prüfungsbeispiel — GER C1 Sprechen, Teil 1 + 2
 
 **Aufgabenstellung:**
 
 **Teil 1 (Vortrag, ca. 4 Min):** *„Stil im Beruf — wann ist
-sprachliche Ausschmückung Hilfe, wann Hindernis?"*
+sprachliche Ausschmückung Hilfe, wann Hindernis?“*
 
 **Teil 2 (Diskussion, ca. 5 Min):** *„Eine Pressemitteilung sollte
 ohne rhetorische Figuren auskommen — alles andere ist
-Manipulation."*
+Manipulation.“*
 
 Eine Person vertritt die These, die andere widerspricht.
 
@@ -151,9 +151,9 @@ Prüfungsvorschau 20'.
 
 ## Häufige Stolperfallen
 
-- **„Anapher" ≠ „Anaphylaxie":** rhetorische Figur vs.
+- **„Anapher“ ≠ „Anaphylaxie“:** rhetorische Figur vs.
   medizinische Reaktion.
-- **„rhetorische Frage" ohne Antwort** kann manipulativ wirken,
+- **„rhetorische Frage“ ohne Antwort** kann manipulativ wirken,
   wenn die Antwort *vorausgesetzt* wird.
 - **Stil-Übermaß** wirkt im Deutschen oft pathetischer als in
   romanischen Sprachen — Vorsicht bei wörtlicher Übersetzung.
@@ -161,5 +161,5 @@ Prüfungsvorschau 20'.
 ## Weiterführende Materialien
 
 - **Hans-Henrik Ebert: Rhetorik (Reclam)**.
-- **Süddeutsche Zeitung „Sprache" / Glossen**:
+- **Süddeutsche Zeitung „Sprache“ / Glossen**:
   <https://www.sueddeutsche.de/>

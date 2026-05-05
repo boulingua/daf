@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Sprechen, Teil 1"
+title: "GER-Prüfung C1 — Sprechen, Teil 1"
 subtitle: "Einheit 4 · Ästhetik und Urteil · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -16,7 +16,7 @@ mit Vorbereitungszeit).
 Halten Sie einen Vortrag (ca. 4 Minuten) zur Frage:
 
 > *„Was macht eine Stilbeschreibung gelungen — und wo wird sie
-> zur Plage?"*
+> zur Plage?“*
 
 Setzen Sie folgende Sprachfunktionen um:
 
@@ -36,7 +36,7 @@ A–E pro Dimension: Erfüllung · Kohärenz · Wortschatz · Strukturen
 
 Ein guter C1-Vortrag enthält:
 
-- begriffliche Klärung („Stilbeschreibung" vs. „Inhaltszusammenfassung"),
+- begriffliche Klärung („Stilbeschreibung“ vs. „Inhaltszusammenfassung“),
 - mindestens drei stilistische Kategorien (Wortwahl, Satzbau,
   Erzählhaltung),
 - ein konkretes, möglichst spezifisches Beispiel,

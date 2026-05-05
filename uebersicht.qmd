@@ -6,8 +6,6 @@ title: "Übersicht"
 DAF · 60 EINHEITEN · 5 GER-STUFEN
 :::
 
-# Vollständige Übersicht aller 60 Einheiten
-
 Diese Tabelle wird automatisch aus
 [`_resources/curriculum_outline.yml`](https://github.com/boulingua/daf/blob/main/_resources/curriculum_outline.yml)
 generiert (siehe `_scripts/generate_uebersicht.py`). Jede Zeile
@@ -78,7 +76,7 @@ verlinkt direkt auf die Einheit.
 
 ## Hinweise
 
-- **Modul** = vertieftes Goethe-Prüfungsmodul der Einheit
+- **Modul** = vertieftes GER-Prüfungsmodul der Einheit
   (Lesen / Hören / Schreiben / Sprechen).
 - **Skills** = breitere GER-Fertigkeiten der Einheit
   (hoeren · lesen · sprechen · schreiben · sprachmittlung ·

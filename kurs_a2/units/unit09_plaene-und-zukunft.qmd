@@ -1,6 +1,6 @@
 ---
 title: "Einheit 9 — Pläne und Zukunft"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Sprechen"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen"
 cefr_level: "A2"
 unit_nr: 9
 slug: "plaene-und-zukunft"
@@ -32,20 +32,20 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 3 (gemeinsam planen / aushandeln).
+Prüfungsmodul **Sprechen** — Teil 3 (gemeinsam planen / aushandeln).
 
 ## Einstiegsgeschichte
 
 **Sabina**, **Omar** und **Maja** planen ein Wochenende zusammen.
 Sabina schreibt im Chat: *„Ich habe vor, am Samstag zum
-Schöckl zu wandern. Wer kommt mit?"*
+Schöckl zu wandern. Wer kommt mit?“*
 
 ## 1. Einstieg
 
 - Was sind Ihre Pläne für das nächste Wochenende?
 - Benutzen Sie *möchten* oder *wollen*, wenn Sie einen Wunsch
   ausdrücken?
-- Wie sagen Sie „wahrscheinlich" in Ihrer Muttersprache?
+- Wie sagen Sie „wahrscheinlich“ in Ihrer Muttersprache?
 
 ## 2. Input
 
@@ -82,12 +82,12 @@ Schöckl zu wandern. Wer kommt mit?"*
 
 **Aufgabe 1 — Wunsch oder Plan?** Markieren Sie **W** oder **P**.
 
-1. „Ich möchte später einmal in Wien leben."
-2. „Am Samstag will ich zum Schöckl wandern."
-3. „Ich habe vor, ein Pflegeexamen zu machen."
-4. „Ich möchte gern einen Espresso."
+1. „Ich möchte später einmal in Wien leben.“
+2. „Am Samstag will ich zum Schöckl wandern.“
+3. „Ich habe vor, ein Pflegeexamen zu machen.“
+4. „Ich möchte gern einen Espresso.“
 
-**Aufgabe 2 — „werden" für Zukunft.** Formulieren Sie:
+**Aufgabe 2 — „werden“ für Zukunft.** Formulieren Sie:
 
 - *Sabina … (kaufen) Brot und Käse.*
 - *Omar … (abholen) Maja.*
@@ -121,7 +121,7 @@ Einigen Sie sich auf **Ort, Zeit, Treffpunkt**.
 - [ ] Ich schreibe eine Einladung.
 - [ ] Ich antworte mit Zu- oder Absage plus Begründung.
 
-## Prüfungsbeispiel — Goethe A2 Sprechen, Teil 3
+## Prüfungsbeispiel — GER A2 Sprechen, Teil 3
 
 **Aufgabenstellung:** Sie planen mit Ihrer Partnerin / Ihrem
 Partner einen **Ausflug für das nächste Wochenende**. Einigen
@@ -143,13 +143,13 @@ Prüfungsvorschau 7'.
 
 ## Häufige Stolperfallen
 
-- **„möchten"** ist höflicher / schwächer als **„wollen"**.
-- **„vorhaben, zu + Infinitiv":** *Ich habe vor, morgen zu
+- **„möchten“** ist höflicher / schwächer als **„wollen“**.
+- **„vorhaben, zu + Infinitiv“:** *Ich habe vor, morgen zu
   wandern.*
-- **„werden" + Infinitiv** (Futur): *Ich werde zu wandern* ist
+- **„werden“ + Infinitiv** (Futur): *Ich werde zu wandern* ist
   falsch → *Ich werde wandern*.
 
 ## Weiterführende Materialien
 
-- **DW „Deutsch im Urlaub"**: <https://learngerman.dw.com/>
-- **Goethe Online A2 Modalverben**: <https://www.goethe.de/de/spr/ueb.html>
+- **DW „Deutsch im Urlaub“**: <https://learngerman.dw.com/>
+- **Online A2 Modalverben**: <https://www.goethe.de/de/spr/ueb.html>

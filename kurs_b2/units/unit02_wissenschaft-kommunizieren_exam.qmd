@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Hören, Teil 2"
+title: "GER-Prüfung B2 — Hören, Teil 2"
 subtitle: "Einheit 2 · Wissenschaft kommunizieren · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:

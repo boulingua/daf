@@ -1,6 +1,6 @@
 ---
 title: "Einheit 7 — Interkulturelle Begegnung: Missverständnisse und Lösungen"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Sprechen"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen"
 cefr_level: "B1"
 unit_nr: 7
 slug: "interkulturelle-begegnung"
@@ -44,7 +44,7 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Sprechen** — Teil 1 (gemeinsam etwas planen +
+- Prüfungsmodul **Sprechen** — Teil 1 (gemeinsam etwas planen +
   aushandeln) und Teil 3 (situationsadäquat reagieren).
 
 ## Einstiegsgeschichte
@@ -54,20 +54,20 @@ sitzen beim Mittagessen. Milos hat als Gastgeschenk eine Flasche
 bosnischen Schnaps mitgebracht und hält sie Philippe entgegen.
 Philippe schaut irritiert: „Äh, danke — aber ich trinke nichts,
 was höher als Wein ist. Und überhaupt: bei uns macht man das nicht
-so offen." Milos ist verunsichert. Hat er einen Fehler gemacht?
+so offen.“ Milos ist verunsichert. Hat er einen Fehler gemacht?
 Was jetzt?
 
 ## 1. Einstieg
 
 - Haben Sie selbst schon ein Missverständnis im Alltag erlebt,
   das **kulturell** und nicht sprachlich war?
-- Welche „Selbstverständlichkeit" aus Ihrer Herkunftskultur
+- Welche „Selbstverständlichkeit“ aus Ihrer Herkunftskultur
   funktioniert im DACH-Raum **nicht**?
 - Wer bestimmt, wann man vom *Sie* zum *Du* wechselt?
 
 ## 2. Input
 
-### A. Dialog — „Schnaps oder kein Schnaps?"
+### A. Dialog — „Schnaps oder kein Schnaps?“
 
 > **Philippe:** Ich bin offen gestanden etwas überrascht — wir
 > kennen uns erst zwei Wochen.
@@ -94,10 +94,10 @@ Was jetzt?
 
 | Funktion                | Formell-höflich                     | Informell-freundlich               |
 |-------------------------|-------------------------------------|------------------------------------|
-| Überraschung ausdrücken | *„Ich bin offen gestanden überrascht."* | *„Ich bin echt überrascht."*       |
-| Gegenposition nennen    | *„Ich sehe das etwas anders, weil …"* | *„Ich seh das anders, und zwar …"* |
-| Relativieren            | *„Wir können das vielleicht so verstehen …"* | *„Vielleicht meinst du das so …"* |
-| Einigen                 | *„Abgemacht — beim nächsten Mal frag ich vorher."* | *„Okay, machen wir so."*           |
+| Überraschung ausdrücken | *„Ich bin offen gestanden überrascht.“* | *„Ich bin echt überrascht.“*       |
+| Gegenposition nennen    | *„Ich sehe das etwas anders, weil …“* | *„Ich seh das anders, und zwar …“* |
+| Relativieren            | *„Wir können das vielleicht so verstehen …“* | *„Vielleicht meinst du das so …“* |
+| Einigen                 | *„Abgemacht — beim nächsten Mal frag ich vorher.“* | *„Okay, machen wir so.“*           |
 
 ## 3. Üben
 
@@ -105,13 +105,13 @@ Was jetzt?
 Dialog oben **höflich** oder **zu direkt** für die Situation
 (Kollegen, die sich erst seit zwei Wochen kennen)?
 
-1. „Wir kennen uns erst zwei Wochen."
-2. „Du trinkst das jetzt, das ist Tradition."
-3. „Ich nehme das mit."
-4. „Nein, das passt überhaupt nicht."
+1. „Wir kennen uns erst zwei Wochen.“
+2. „Du trinkst das jetzt, das ist Tradition.“
+3. „Ich nehme das mit.“
+4. „Nein, das passt überhaupt nicht.“
 
 **Aufgabe 2 — Umformulieren.** Machen Sie den Satz höflicher:
-*„Dein Geschenk ist seltsam."*
+*„Dein Geschenk ist seltsam.“*
 
 **Aufgabe 3 — Rollenspielkarten vorbereiten.** Schreiben Sie zu
 zweit **zwei Handlungskarten** für Teil 1 der B1-Sprechen-Prüfung:
@@ -127,15 +127,15 @@ Sie planen eine gemeinsame Feier im Team. Vier Leitpunkte:
 **Aufgabe 1.** 1 = höflich (offen gestanden macht Distanz). 2 =
 zu direkt, direktiver Ton. 3 = höflich (signalisiert Aufnahme).
 4 = zu direkt (vielleicht besser: *„Das passt für mich nicht
-ganz, weil …"*).
+ganz, weil …“*).
 
 **Aufgabe 2.** Mögliche Umformulierung: *„Ich kenne so ein
 Geschenk nicht aus meiner Kultur — kannst du mir erzählen, wie
-man es üblicherweise verwendet?"* — ersetzt Wertung durch Frage.
+man es üblicherweise verwendet?“* — ersetzt Wertung durch Frage.
 
-**Aufgabe 3.** Karten z. B.: „Vorschlag: Restaurant"; „Vorschlag:
-Picknick im Park"; „Einwand: zu teuer"; „Einwand: Regenwetter
-möglich".
+**Aufgabe 3.** Karten z. B.: „Vorschlag: Restaurant“; „Vorschlag:
+Picknick im Park“; „Einwand: zu teuer“; „Einwand: Regenwetter
+möglich“.
 
 :::
 
@@ -161,7 +161,7 @@ Achten Sie auf:
 - [ ] Ich kann eine abweichende Reaktion annehmen.
 - [ ] Ich kann eine Absage mit einem Gegenangebot ausbalancieren.
 
-## Prüfungsbeispiel — Goethe B1 Sprechen, Teil 1
+## Prüfungsbeispiel — GER B1 Sprechen, Teil 1
 
 **Aufgabenstellung:** Sie planen mit Ihrer Prüfungspartnerin /
 Ihrem Prüfungspartner ein **gemeinsames Abschlussessen für einen
@@ -190,7 +190,7 @@ Reflexion 3' · Prüfungsvorschau 19'.
 
 ## Häufige Stolperfallen
 
-- **„höflich" ≠ „indirekt".** Im DACH-Register gilt Klarheit als
+- **„höflich“ ≠ „indirekt“.** Im DACH-Register gilt Klarheit als
   höflich, solange Schwellenformeln (*offen gestanden, wenn ich
   darf …*) vorausgehen.
 - **Du-Angebot** geht in der Regel von der älteren / ranghöheren
@@ -200,5 +200,5 @@ Reflexion 3' · Prüfungsvorschau 19'.
 
 - **IFA — Institut für Auslandsbeziehungen** (Kultur & Kontakt):
   <https://www.ifa.de/>
-- **Goethe-Institut — „Mein Weg nach Deutschland"** (Themenkarten
+- **Prüfungsanbieter — „Mein Weg nach Deutschland“** (Themenkarten
   zur Alltagskultur): <https://www.goethe.de/de/spr/udn.html>

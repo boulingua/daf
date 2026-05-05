@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 2: Öffentliche
+Prüfungsmodul **Hören** — Teil 2: Öffentliche
 Lautsprecherdurchsagen (Richtig/Falsch).
 
 ## Einstiegsgeschichte
@@ -50,7 +50,7 @@ Samstagvormittag. Supermarkt in Wien. Aus dem Lautsprecher:
 
 > „Liebe Kundinnen und Kunden, heute Sonderangebot: Äpfel aus
 > Österreich, ein Kilogramm nur 1 Euro 99. Besuchen Sie unsere
-> Obstabteilung."
+> Obstabteilung.“
 
 Ana hört zu und freut sich. Sie braucht Äpfel.
 
@@ -73,14 +73,14 @@ Ana hört zu und freut sich. Sie braucht Äpfel.
 |  200 | zweihundert       |
 |  999 | neunhundertneunundneunzig |
 
-Preise spricht man: *1,99 €* = *„ein Euro neunundneunzig"* (oder
-*„ein Euro neunzig"*, gekürzt).
+Preise spricht man: *1,99 €* = *„ein Euro neunundneunzig“* (oder
+*„ein Euro neunzig“*, gekürzt).
 
 ### B. Hörtext (Durchsage)
 
 > „Liebe Kundinnen, liebe Kunden. Heute im Angebot: Äpfel aus
 > Österreich, 1 kg nur **1 Euro 99**. Milch aus Tirol, 1 Liter
-> für **1 Euro 29**. Käse „Almkönig" 500 g, Sonderpreis **3 Euro
+> für **1 Euro 29**. Käse „Almkönig“ 500 g, Sonderpreis **3 Euro
 > 99**. Besuchen Sie unser Reich der Frische."
 
 ### C. Redemittel
@@ -103,7 +103,7 @@ Preise spricht man: *1,99 €* = *„ein Euro neunundneunzig"* (oder
 
 1. Ein Kilogramm Äpfel kostet 2,99 €.
 2. Die Milch kommt aus Tirol.
-3. Käse „Almkönig" ist im Sonderangebot.
+3. Käse „Almkönig“ ist im Sonderangebot.
 4. Milch ist heute für 2,99 € zu haben.
 
 **Aufgabe 3 — Rollenspiel vorbereiten.**
@@ -126,7 +126,7 @@ Schreiben Sie zwei Fragen für den Einkauf:
 
 ## 4. Anwenden
 
-**Rollenspiel „Am Obststand".** Zu zweit. A ist Verkäufer:in, B
+**Rollenspiel „Am Obststand“.** Zu zweit. A ist Verkäufer:in, B
 ist Kund:in. B kauft **drei Dinge** und fragt jeweils nach dem
 Preis. A nennt die Preise. B sagt: *Zusammen, bitte.*
 
@@ -141,19 +141,19 @@ Preis. A nennt die Preise. B sagt: *Zusammen, bitte.*
 **Aufgabe:** Sie hören **fünf Durchsagen** (einmal). Sind die
 Aussagen richtig oder falsch?
 
-1. **Durchsage:** „Äpfel, 1 kg für 99 Cent."
+1. **Durchsage:** „Äpfel, 1 kg für 99 Cent.“
    *Aussage:* Ein Kilogramm Äpfel kostet 99 Cent. → R / F
 
-2. **Durchsage:** „Heute Angebot: Milch 1,29 € pro Liter."
+2. **Durchsage:** „Heute Angebot: Milch 1,29 € pro Liter.“
    *Aussage:* Milch kostet über 2 €. → R / F
 
-3. **Durchsage:** „Kaffee im Shop der Bäckerei, 2 € die Tasse."
+3. **Durchsage:** „Kaffee im Shop der Bäckerei, 2 € die Tasse.“
    *Aussage:* Eine Tasse Kaffee kostet 2 €. → R / F
 
-4. **Durchsage:** „Brot, 500 g, 2,50 €."
+4. **Durchsage:** „Brot, 500 g, 2,50 €.“
    *Aussage:* Ein halbes Kilo Brot kostet 2,50 €. → R / F
 
-5. **Durchsage:** „Kasse 3 ist geöffnet."
+5. **Durchsage:** „Kasse 3 ist geöffnet.“
    *Aussage:* Die dritte Kasse ist geschlossen. → R / F
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
@@ -177,5 +177,5 @@ Prüfungsvorschau 5'.
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg — „Einkaufen"**: <https://learngerman.dw.com/>
+- **DW Nicos Weg — „Einkaufen“**: <https://learngerman.dw.com/>
 - **ORF 1 A1-Ressourcen zu Supermarkt-Situationen**.

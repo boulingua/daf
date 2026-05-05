@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Lesen, Teil 5"
+title: "GER-Modellprüfung B1 — Lesen, Teil 5"
 subtitle: "Einheit 3 · Weiterbildung und Studium · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -70,12 +70,12 @@ einem vollständigen B1-Lesen-Teil 5 mit 4 Items).
 
 ## Lösungen
 
-1. **b** — *„in der Reihenfolge 1 → 5 absolviert"*.
-2. **c** — *„online bis spätestens 14 Tage vor dem Prüfungstermin"*.
+1. **b** — *„in der Reihenfolge 1 → 5 absolviert“*.
+2. **c** — *„online bis spätestens 14 Tage vor dem Prüfungstermin“*.
 3. **b** — Die Abwesenheit wird nur bei Erkrankung oder
    schwerwiegenden Fällen akzeptiert; unentschuldigt bedeutet:
    nicht anerkannt.
-4. **b** — *„nur bei nachgewiesener Erkrankung (ärztliches Attest)"*.
+4. **b** — *„nur bei nachgewiesener Erkrankung (ärztliches Attest)“*.
 
 ---
 

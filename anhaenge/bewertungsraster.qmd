@@ -6,9 +6,7 @@ title: "Bewertungsraster"
 DAF · BEWERTUNGSRASTER · A1–C1
 :::
 
-# Bewertungsraster (Auszüge)
-
-Die offiziellen Goethe-Bewertungsraster für **Schreiben** und
+Die offiziellen Bewertungsraster für **Schreiben** und
 **Sprechen** auf den fünf Stufen — in einer einheitlichen
 Tabellenform. Vollständig ausformulierte Skalen liegen in den
 fünf YAML-Dateien unter
@@ -49,8 +47,8 @@ anderen Dimensionen.
 |-------|------------------------------------------------|
 | A1    | 1 Punkt pro richtig ausgefülltem Feld (Formular) + Inhaltspunkte (Kurzmitteilung) |
 | A2    | Aufgabenerfüllung · Sprache (je A–E)           |
-| B1    | Erfüllung · Kohärenz · Wortschatz · Strukturen |
-| B2    | Erfüllung · Wortschatz · Strukturen · Register |
+| B1    | Erfüllung · inhaltlicher Zusammenhang („Kohärenz“) · Wortschatz · Strukturen |
+| B2    | Erfüllung · Wortschatz · Strukturen · Sprachebene („Register“) |
 | C1    | Erfüllung · Kohärenz · Wortschatz · Strukturen · Register |
 
 ## Sprechen — Dimensionen je Stufe
@@ -73,12 +71,12 @@ anderen Dimensionen.
 | 60 – 69          | ausreichend            |
 | 0 – 59           | nicht bestanden        |
 
-(Quelle: Goethe-Zertifikat A1 *Prüfungsziele,
+(Quelle: GER-Prüfung A1 *Prüfungsziele,
 Testbeschreibung*, S. 7.)
 
 ## Modul-Verteilung in dieser Site
 
-Pro Kurs (12 Einheiten) wird jedes Goethe-Modul **dreimal**
+Pro Kurs (12 Einheiten) wird jedes Prüfungsmodul **dreimal**
 vertieft. Über alle 60 Einheiten ergibt das:
 
 | Modul     | Einheiten gesamt |
@@ -94,8 +92,8 @@ vertieft. Über alle 60 Einheiten ergibt das:
 
 Diese Tabelle ist eine Kompaktfassung. Für Prüfungsdurchführung
 und offizielle Bewertung ist immer die jeweilige
-*„Prüfungsziele, Testbeschreibung"* bzw. *„Modellsatz"*-Publikation
-des Goethe-Instituts maßgeblich. Direktverweise:
+*„Prüfungsziele, Testbeschreibung“* bzw. *„Modellsatz“*-Publikation
+des Prüfungsanbieters maßgeblich. Direktverweise:
 
 - [`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml)
 - [`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml)
@@ -105,7 +103,7 @@ des Goethe-Instituts maßgeblich. Direktverweise:
 
 ## Siehe auch
 
-- [Goethe-Formate](../goethe_formate.qmd) — Übersicht aller
+- [Prüfungsformate](../goethe_formate.qmd) — Übersicht aller
   Module pro Stufe.
 - [Glossar](glossar.qmd) — Begriffe wie *Erwartungshorizont,
   Inhaltspunkt*, etc.

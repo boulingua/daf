@@ -6,13 +6,11 @@ title: "Kurs B2 — Selbstständig (obere Stufe)"
 KURS B2 · ARGUMENTATIV · GESELLSCHAFTLICHE THEMEN
 :::
 
-# B2 — Selbstständig (obere Stufe)
-
 [B2]{.cefr-badge .b2}
 
-Zwölf Einheiten auf B2: differenzierte Meinungen, Passiv,
-komplexe Hypotaxe, Argumentation in gesellschaftlichen und
-fachlichen Diskursen. Ziel: **Goethe-Zertifikat B2 (modular)**,
+Zwölf Einheiten auf der selbstständigen Sprachverwendung, obere Stufe („B2“): differenzierte Meinungen, Leideform („Passiv“),
+komplexes Satzgefüge mit Nebensätzen („Hypotaxe“), Argumentation im Sprachgebrauch im Kontext („Diskurs“) gesellschaftlicher und
+fachlicher Themen. Ziel: **GER-Prüfung B2 (modular)**,
 je Modul 100 P., Bestehen bei 60 %.
 
 ## Wiederkehrende Figurenbesetzung
@@ -96,11 +94,11 @@ Modul: Sprechen. Erzählperspektiven, Buchpräsentation.
 
 ## Prüfungsziel
 
-**Goethe-Zertifikat B2 (modular)** — Lesen 65 Min · Hören 40 Min
+**GER-Prüfung B2 (modular)** — Lesen 65 Min · Hören 40 Min
 · Schreiben 75 Min · Sprechen ca. 15 Min Paarprüfung. Je Modul
 100 Punkte, Bestehen bei 60.
 
-Details: [Goethe-Formate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../goethe_formate.qmd) ·
 [`_resources/goethe_format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b2.yml).
 
 ## Modul-Abdeckung

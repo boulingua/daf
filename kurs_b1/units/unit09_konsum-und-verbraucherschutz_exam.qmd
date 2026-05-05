@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Schreiben, Teil 3"
+title: "GER-Modellprüfung B1 — Schreiben, Teil 3"
 subtitle: "Einheit 9 · Konsum und Verbraucherschutz · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -48,7 +48,7 @@ Aufgabe insgesamt E (0 Punkte).
 
 > Sehr geehrte Damen und Herren,
 >
-> ich habe am 12.05. zwei Tickets für das Konzert von „Ava Lang"
+> ich habe am 12.05. zwei Tickets für das Konzert von „Ava Lang“
 > am 20.05. für 68 € gekauft. Das Konzert wurde abgesagt. Können
 > Sie mir den Betrag zurückerstatten? Ich bitte um Information
 > zum genauen Ablauf.

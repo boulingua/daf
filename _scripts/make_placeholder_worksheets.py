@@ -58,7 +58,7 @@ def render_placeholder(out_path: pathlib.Path, ctx: UnitContext) -> None:
     c.drawString(
         20 * mm,
         height - 45 * mm,
-        f"GER-Stufe {ctx.cefr_level.upper()} · Goethe-Zertifikat {ctx.cefr_level.upper()}",
+        f"GER-Stufe {ctx.cefr_level.upper()} · GER-Prüfung {ctx.cefr_level.upper()}",
     )
 
     # Body

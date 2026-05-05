@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Sprechen, Teil 1"
+title: "GER-Prüfung C1 — Sprechen, Teil 1"
 subtitle: "Einheit 11 · Literarische Moderne · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -15,7 +15,7 @@ C1-Sprechen Teil 1 (Vortrag, ca. 4 Min, vier Sprachfunktionen).
 Halten Sie einen Vortrag (ca. 4 Minuten) zur Frage:
 
 > *„Lohnt es sich, im DaF-Unterricht (B2 / C1) literarische
-> Moderne zu lesen?"*
+> Moderne zu lesen?“*
 
 Setzen Sie folgende vier Sprachfunktionen um:
 

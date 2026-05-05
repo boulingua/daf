@@ -1,6 +1,6 @@
 ---
 title: "Einheit 12 — Gegenwartsliteratur: Stimmen der letzten zehn Jahre"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Hören"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Hören"
 cefr_level: "C1"
 unit_nr: 12
 slug: "gegenwartsliteratur"
@@ -33,13 +33,13 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 1 (Podcast / Rezension,
+Prüfungsmodul **Hören** — Teil 1 (Podcast / Rezension,
 Zuordnung von Aussagen zu Textabschnitten).
 
 ## Einstiegsgeschichte
 
 Letzte Einheit des Kurses, letzte Einheit der gesamten DaF-Site.
-Eine fiktive Folge des Podcasts *„Bücher und Stimmen"* mit drei
+Eine fiktive Folge des Podcasts *„Bücher und Stimmen“* mit drei
 Stimmen: einer Kritikerin, einem Buchhändler, einer
 Literaturwissenschaftlerin. Thema: drei Tendenzen
 deutschsprachiger Gegenwartsliteratur seit 2014.
@@ -65,7 +65,7 @@ deutschsprachiger Gegenwartsliteratur seit 2014.
 >
 > **Buchhändler:** Zweitens: der Aufstieg der Auto-Fiktion. Sasha
 > Marianna Salzmann, Annie Ernaux übersetzt, jüngere Stimmen wie
-> Jana Volkmann — sie schreiben „Ich" so, dass es ein „Wir"
+> Jana Volkmann — sie schreiben „Ich“ so, dass es ein „Wir“
 > wird.
 >
 > **Literaturwissenschaftlerin:** Drittens: die Wiederentdeckung
@@ -109,7 +109,7 @@ deutschsprachiger Gegenwartsliteratur seit 2014.
 
 **Aufgabe 2 — Begriff einsetzen.**
 
-1. *„Ich" wird so geschrieben, dass es ein „Wir" wird.* → ___
+1. *„Ich“ wird so geschrieben, dass es ein „Wir“ wird.* → ___
 2. *Politik als atmosphärischer Hintergrund.* → ___
 3. *Bewusst kurze, montierte Texte mit typografischen Mitteln.*
    → ___
@@ -153,26 +153,26 @@ erschlossen — von **literarischem Argumentieren** über
 Sie können nun ein anspruchsvolles Spektrum deutschsprachiger
 Texte rezipieren, klar strukturierte Texte verfassen und
 spontan-fließend an Diskussionen über komplexe Themen
-teilnehmen — die Vollerwartung des Goethe-Zertifikats C1.
+teilnehmen — die Vollerwartung des GER-Prüfung C1.
 
 ## Site-Abschluss
 
 Mit dieser letzten Einheit ist die DaF-Site auf
 <https://boulingua.github.io/daf/> in ihrer ersten Vollfassung
 fertig. Fünf Kurse · sechzig Einheiten · 240 Sprachfunktions-
-Übungen · sechzig Goethe-Modellprüfungs-PDFs.
+Übungen · sechzig GER-Modellprüfungs-PDFs.
 
-## Prüfungsbeispiel — Goethe C1 Hören, Teil 1
+## Prüfungsbeispiel — GER C1 Hören, Teil 1
 
 **Aufgabenstellung:** Sie hören die Podcast-Folge (Input A)
 zweimal. Ordnen Sie sechs Aussagen den drei Sprecher:innen zu.
 
-1. „Die Politik wird als Hintergrundrauschen zur Zentralfigur." → K
-2. „Junge Stimmen schreiben ‚Ich' so, dass es ein ‚Wir' wird." → B
-3. „Stilfragmente kommen aus der Online-Lektüre." → L
-4. „Auto-Fiktion bleibt." → B
-5. „Politik bleibt, wenn sie politisch genug bleibt." → K
-6. „Das Fragment ist verletzlich durch seine Ironie." → L
+1. „Die Politik wird als Hintergrundrauschen zur Zentralfigur.“ → K
+2. „Junge Stimmen schreiben ‚Ich' so, dass es ein ‚Wir' wird.“ → B
+3. „Stilfragmente kommen aus der Online-Lektüre.“ → L
+4. „Auto-Fiktion bleibt.“ → B
+5. „Politik bleibt, wenn sie politisch genug bleibt.“ → K
+6. „Das Fragment ist verletzlich durch seine Ironie.“ → L
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 1 = K · 2 = B · 3 = L · 4 = B · 5 = K · 6 = L.
@@ -189,11 +189,11 @@ Anwenden 30' · Reflexion + Kursabschluss 15' · Prüfungsvorschau 17'.
 
 ## Häufige Stolperfallen
 
-- **„Auto-Fiktion"** ist nicht dasselbe wie *Autobiografie* —
+- **„Auto-Fiktion“** ist nicht dasselbe wie *Autobiografie* —
   Auto-Fiktion arbeitet bewusst mit dem Status zwischen Wahrheit
   und Form.
-- **„Stilfragment"** auf C1 ist Fachbegriff, nicht Wertung.
-- **„Gegenwartsliteratur"** als Periodenbegriff ist offen — der
+- **„Stilfragment“** auf C1 ist Fachbegriff, nicht Wertung.
+- **„Gegenwartsliteratur“** als Periodenbegriff ist offen — der
   Beginn wird je nach Standpunkt um 2000 oder 2014 angesetzt.
 
 ## Weiterführende Materialien

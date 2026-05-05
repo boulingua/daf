@@ -1,6 +1,6 @@
 ---
 title: "Einheit 6 — Postkoloniale Perspektiven im deutschsprachigen Raum"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Lesen"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen"
 cefr_level: "C1"
 unit_nr: 6
 slug: "postkoloniale-perspektiven"
@@ -34,7 +34,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 4 (Zuordnung von fünf Aussagen zu
+Prüfungsmodul **Lesen** — Teil 4 (Zuordnung von fünf Aussagen zu
 populär-/wissenschaftlichen Beiträgen).
 
 ## Einstiegsgeschichte
@@ -49,7 +49,7 @@ und Schweizer Sammlungen.
 - Welche kolonialen Bezüge haben deutsche, österreichische oder
   Schweizer Institutionen, die Sie kennen?
 - Restitution — was wissen Sie darüber?
-- Wer „besitzt" historisch belastete Objekte?
+- Wer „besitzt“ historisch belastete Objekte?
 
 ## 2. Input
 
@@ -58,23 +58,23 @@ und Schweizer Sammlungen.
 > **Direktorin (Wien):** *„Restitution ist unausweichlich. Sie
 > ist auch komplex. Wer sie nur als Gerechtigkeit denkt, wird
 > die Frage nach Erhalt und Pflege ignorieren — wer sie nur als
-> Pflege denkt, ignoriert das Unrecht."*
+> Pflege denkt, ignoriert das Unrecht.“*
 
 > **Politikwissenschaftler (Bern):** *„Die Schweiz hat keine
 > formellen Kolonien gehabt — sie hat aber an deren Profit
 > teilgenommen. Diese Subtilität entlässt sie nicht aus der
-> Verantwortung."*
+> Verantwortung.“*
 
 > **Aktivistin (Berlin):** *„Es geht nicht nur um Objekte. Es
 > geht um Sichtbarkeit, Kuratierung, Sprache. Ein Objekt ist
 > in einem Museum nie ‚nur Objekt' — es trägt eine Erzählung,
-> die wir wählen oder unterlassen."*
+> die wir wählen oder unterlassen.“*
 
 ### B. Begriffliches Werkzeug
 
 | Begriff             | Erklärung                                       |
 |---------------------|-------------------------------------------------|
-| Othering            | rhetorische / praktische Konstruktion eines „Anderen" |
+| Othering            | rhetorische / praktische Konstruktion eines „Anderen“ |
 | Repräsentation      | wer wird wie sichtbar gemacht                   |
 | Restitution         | Rückgabe geraubter Objekte                      |
 | Provenienzforschung | Ermittlung der Herkunftsgeschichte              |
@@ -83,9 +83,9 @@ und Schweizer Sammlungen.
 
 ### C. Argumentationsstrategien
 
-- **Doppel-Negation auflösen:** „nicht nur … nicht nur …" zu
-  „und auch …" überführen.
-- **Zwischenposition explizit benennen:** „komplex" als Anerkennung
+- **Doppel-Negation auflösen:** „nicht nur … nicht nur …“ zu
+  „und auch …“ überführen.
+- **Zwischenposition explizit benennen:** „komplex“ als Anerkennung
   beider Pole, ohne sich zu drücken.
 - **Historische Verantwortung ohne Schuldrhetorik.**
 
@@ -95,11 +95,11 @@ und Schweizer Sammlungen.
 passt zu welchem Beitrag (Direktorin / Politikwissenschaftler /
 Aktivistin)?
 
-1. „Schweizer Profitiert hat, ohne Kolonie zu führen."
-2. „Restitution ohne Pflege ist halb."
-3. „Sichtbarkeit ist mehr als Rückgabe."
-4. „Subtile Verflechtung schützt nicht vor Verantwortung."
-5. „Die Erzählung im Museum ist eine Wahl."
+1. „Schweizer Profitiert hat, ohne Kolonie zu führen.“
+2. „Restitution ohne Pflege ist halb.“
+3. „Sichtbarkeit ist mehr als Rückgabe.“
+4. „Subtile Verflechtung schützt nicht vor Verantwortung.“
+5. „Die Erzählung im Museum ist eine Wahl.“
 
 **Aufgabe 2 — Begriff einsetzen.**
 
@@ -112,7 +112,7 @@ Aktivistin)?
 **Aufgabe 3 — Polemik vermeiden.** Formulieren Sie um:
 
 > *„Wer Restitution ablehnt, hat aus der Kolonialzeit nichts
-> gelernt."*
+> gelernt.“*
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -133,7 +133,7 @@ Anlass der Debatte.*
 
 > *„Sollten Schweizer Institutionen, die nicht-formal an Kolonialprofit
 > beteiligt waren, dieselbe Restitutionspflicht tragen wie
-> deutsche?"*
+> deutsche?“*
 
 Argumentieren Sie ohne Polemik, mit mindestens drei der sechs
 Begriffe aus B.
@@ -145,15 +145,15 @@ Begriffe aus B.
 - [ ] Ich diskutiere koloniale Erinnerung ohne Schuldrhetorik.
 - [ ] Ich formuliere eine Zwischenposition explizit.
 
-## Prüfungsbeispiel — Goethe C1 Lesen, Teil 4
+## Prüfungsbeispiel — GER C1 Lesen, Teil 4
 
-**Aufgabe:** Im Themenheft *„Erinnerungskultur"* lesen Sie sieben
+**Aufgabe:** Im Themenheft *„Erinnerungskultur“* lesen Sie sieben
 kurze Aussagen zur kolonialen Erinnerung. Ordnen Sie fünf
 Aussagen den drei Beiträgen aus A zu. Zwei Aussagen passen zu
 keinem Beitrag.
 
 *(Aussagenpool aus Aufgabe 1 plus zwei Distraktoren wie:
-„Restitution ist nur PR" / „Provenienzforschung ist überflüssig".)*
+„Restitution ist nur PR“ / „Provenienzforschung ist überflüssig“.)*
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 Wie Aufgabe 1 oben; die zwei Distraktoren passen zu keinem Beitrag.
@@ -170,14 +170,14 @@ Prüfungsvorschau 16'.
 
 ## Häufige Stolperfallen
 
-- **„Othering"** ist Anglizismus, der im akademischen Deutsch
-  übernommen wird; deutsche Alternative: *„Veranderung"* (selten).
-- **„Subalterne"** stammt aus Gramsci/Spivak — die akademische
+- **„Othering“** ist Anglizismus, der im akademischen Deutsch
+  übernommen wird; deutsche Alternative: *„Veranderung“* (selten).
+- **„Subalterne“** stammt aus Gramsci/Spivak — die akademische
   Tradition prägt den Gebrauch.
-- **„Erinnerungskultur"** wird oft pauschal verwendet — präzise
+- **„Erinnerungskultur“** wird oft pauschal verwendet — präzise
   wäre, anzugeben *welche* Erinnerung.
 
 ## Weiterführende Materialien
 
 - **Gayatri C. Spivak, *Can the Subaltern Speak?***
-- **Tageszeitung „taz" — Themenseite „Kolonialismus"**.
+- **Tageszeitung „taz“ — Themenseite „Kolonialismus“**.

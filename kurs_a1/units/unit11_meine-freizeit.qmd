@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1 (Sich vorstellen, Hobbys
+Prüfungsmodul **Sprechen** — Teil 1 (Sich vorstellen, Hobbys
 nennen) und Teil 2 (Fragen stellen und beantworten).
 
 ## Einstiegsgeschichte
@@ -92,15 +92,15 @@ Bank.
 ### C. Hörtext (Radio-Ausschnitt)
 
 > „Heute im Freizeittelefon: Luka aus Wien. Hallo Luka! Was
-> machst du gern?"
+> machst du gern?“
 >
 > „Hallo. Ich fotografiere gern. Ich gehe durch Wien und
-> fotografiere Häuser."
+> fotografiere Häuser.“
 >
-> „Und was noch?"
+> „Und was noch?“
 >
 > „Ich spiele Schach. Ich gehe einmal pro Woche in den
-> Schachclub."
+> Schachclub.“
 
 ## 3. Üben
 
@@ -147,7 +147,7 @@ Bank.
 3. Mit wem?
 
 Erzählen Sie danach der Gruppe über Ihre Partnerin / Ihren
-Partner: *„Das ist X. X spielt gern Gitarre …"*
+Partner: *„Das ist X. X spielt gern Gitarre …“*
 
 ## 5. Reflexion
 
@@ -167,8 +167,8 @@ Karte **eine Frage** an Ihre:n Partner:in. Die Person antwortet.
 - 📚 Bücher
 - ✈️ Reisen
 
-**Beispielfrage:** *„Was für Musik hörst du gern?"* / *„Spielst
-du ein Instrument?"*
+**Beispielfrage:** *„Was für Musik hörst du gern?“* / *„Spielst
+du ein Instrument?“*
 
 ## Downloads {#downloads}
 
@@ -181,13 +181,13 @@ Prüfungsvorschau 3'.
 
 ## Häufige Stolperfallen
 
-- **„gern"** kommt **nach dem Verb**: *Ich spiele gern Gitarre*,
+- **„gern“** kommt **nach dem Verb**: *Ich spiele gern Gitarre*,
   nicht *Ich gern spiele*.
-- **„Ich mag …"** + Akkusativ: *Ich mag Musik.*
-- **„spielen"** + Sport/Instrument, aber: *Rad fahren*, *Ski
+- **„Ich mag …“** + Akkusativ: *Ich mag Musik.*
+- **„spielen“** + Sport/Instrument, aber: *Rad fahren*, *Ski
   fahren*, *Schlittschuh laufen*.
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg — „Freizeit"**: <https://learngerman.dw.com/>
+- **DW Nicos Weg — „Freizeit“**: <https://learngerman.dw.com/>
 - **Easy German Short — Hobbys**: <https://www.easygerman.org/>

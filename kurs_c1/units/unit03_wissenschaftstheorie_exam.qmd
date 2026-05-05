@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Hören, Teil 4"
+title: "GER-Prüfung C1 — Hören, Teil 4"
 subtitle: "Einheit 3 · Wissenschaftstheorie · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -13,7 +13,7 @@ C1-Hören Teil 4 (Vortrag, MC-3gl, 7 Items, 2× hören).
 :::
 
 Sie hören den Vortrag von Dr. Helena Stark *„Was ist
-Erkenntnis?"*. Wählen Sie pro Frage a, b oder c.
+Erkenntnis?“*. Wählen Sie pro Frage a, b oder c.
 
 **1.** Drei prägende Positionen des 20. Jhd.:
 - [ ] a) Logik / Empirie / Hermeneutik

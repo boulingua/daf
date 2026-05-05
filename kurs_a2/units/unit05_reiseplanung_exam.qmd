@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Lesen, Teil 4"
+title: "GER-Prüfung A2 — Lesen, Teil 4"
 subtitle: "Einheit 5 · Reiseplanung · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:
@@ -13,11 +13,11 @@ passt zu niemandem.
 
 ### Anzeigen
 
-- **a)** Ferienwohnung „Almblick" Schladming, 90 €/Nacht, Selbst­versorger.
+- **a)** Ferienwohnung „Almblick“ Schladming, 90 €/Nacht, Selbst­versorger.
 - **b)** Jugendherberge Graz, 28 €, Mehrbettzimmer.
 - **c)** Bauernhof Riegersburg, 65 €, Hofküche.
 - **d)** Camping Altaussee, 18 €, Zelt.
-- **e)** Hotel „Blau am See" Maria Wörth, 180 €, Pool.
+- **e)** Hotel „Blau am See“ Maria Wörth, 180 €, Pool.
 - **f)** Hostel Wien Mitte, 35 €, Zentrum.
 
 ### Personen

@@ -1,6 +1,6 @@
 ---
 title: "Einheit 9 — Bildungsdebatten: Leistungsdruck und Chancengleichheit"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Lesen"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen"
 cefr_level: "B2"
 unit_nr: 9
 slug: "bildungsdebatten"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 2 (Artikel mit hohem
+Prüfungsmodul **Lesen** — Teil 2 (Artikel mit hohem
 Informationsgehalt) und Teil 4 (Meinungen zuordnen).
 
 ## Einstiegsgeschichte
@@ -86,11 +86,11 @@ Elternhaus ab. Österreich und die Schweiz stehen vergleichbar.
 
 ### C. Vier Meinungen zum Thema
 
-> **a)** „Schule kann die Herkunft nicht ausgleichen."
-> **b)** „Ganztagsschule ist der entscheidende Hebel."
+> **a)** „Schule kann die Herkunft nicht ausgleichen.“
+> **b)** „Ganztagsschule ist der entscheidende Hebel.“
 > **c)** „Die Lehrer:innen werden allein gelassen — ohne Aufstockung
-> geht gar nichts."
-> **d)** „Estland zeigt: mit politischem Willen geht es."
+> geht gar nichts.“
+> **d)** „Estland zeigt: mit politischem Willen geht es.“
 
 ## 3. Üben
 
@@ -119,7 +119,7 @@ dass Schule den Einfluss der Herkunft deutlich mildern kann.*
 **Schreibaufgabe (B2, ca. 150 Wörter):** Verfassen Sie einen
 Forums-Kommentar zur These:
 
-> *„Bildung braucht Jahrzehnte, nicht Legislaturperioden."*
+> *„Bildung braucht Jahrzehnte, nicht Legislaturperioden.“*
 
 Struktur:
 
@@ -134,7 +134,7 @@ Struktur:
 - [ ] Ich schreibe 150 Wörter argumentativ.
 - [ ] Ich benutze sozialwissenschaftlichen Wortschatz auf B2.
 
-## Prüfungsbeispiel — Goethe B2 Lesen, Teil 2
+## Prüfungsbeispiel — GER B2 Lesen, Teil 2
 
 **Aufgabenstellung:** Im Text A fehlen sechs Sätze. Ordnen Sie
 die folgenden Satzbausteine in die Lücken (zwei passen nicht).
@@ -154,9 +154,9 @@ Prüfungsvorschau 15'.
 
 ## Häufige Stolperfallen
 
-- **„sozioökonomisch"** — Komposita-Adjektiv, oft schwer
+- **„sozioökonomisch“** — Komposita-Adjektiv, oft schwer
   auszusprechen.
-- **„Brennpunkt" (der)** in Bildungskontext ist bildlich
+- **„Brennpunkt“ (der)** in Bildungskontext ist bildlich
   (Stadtteil mit besonderen Herausforderungen).
 - **PISA-Daten** sind statistisch — keine kausalen Schlüsse ohne
   Vorsicht.

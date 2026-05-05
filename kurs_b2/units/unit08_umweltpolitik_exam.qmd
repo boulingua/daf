@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Schreiben, Teil 2"
+title: "GER-Prüfung B2 — Schreiben, Teil 2"
 subtitle: "Einheit 8 · Umweltpolitik · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:

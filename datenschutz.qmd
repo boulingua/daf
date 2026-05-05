@@ -6,8 +6,6 @@ aliases:
   - /privacy/
 ---
 
-# Datenschutzerklärung
-
 ## 1. Verantwortlicher
 
 Verantwortliche Stelle im Sinne der Datenschutz-Grundverordnung
@@ -126,8 +124,8 @@ gegebenenfalls ein Recht auf Berichtigung (Art. 16) oder Löschung
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der
 Übertragung vertraulicher Inhalte eine SSL- bzw. TLS-
 Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie
-daran, dass die Adresszeile des Browsers von „http://" auf
-„https://" wechselt.
+daran, dass die Adresszeile des Browsers von „http://“ auf
+„https://“ wechselt.
 
 ## 3. Datenerfassung auf dieser Website
 
@@ -278,7 +276,7 @@ Weitere Informationen:
 ### Externe Verlinkungen und Mediatheken
 
 Die Seite verweist an einigen Stellen auf externe Quellen
-(Goethe-Institut, Deutsche Welle, GitHub, Wikipedia, Europarat,
+(Prüfungsanbieter, Deutsche Welle, GitHub, Wikipedia, Europarat,
 ZDF- / 3sat-Mediatheken u. a.). Beim Klick auf solche Links
 verlassen Sie diese Seite; die jeweilige Datenschutzpolitik des
 verlinkten Angebots gilt.

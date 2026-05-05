@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Hören, Teil 3"
+title: "GER-Prüfung B2 — Hören, Teil 3"
 subtitle: "Einheit 5 · Kunst und Kultur · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -10,22 +10,22 @@ format:
 
 ::: {.callout-warning}
 B2-Hören Teil 3 (Radio-Diskussion mit mehreren Personen,
-Zuordnung „wer sagt was?", einmaliges Hören).
+Zuordnung „wer sagt was?“, einmaliges Hören).
 :::
 
 Sie hören die Radio-Diskussion über die Ausstellung *„Frauen der
-Wiener Moderne"* im Leopold Museum. Ordnen Sie jede Aussage einer
+Wiener Moderne“* im Leopold Museum. Ordnen Sie jede Aussage einer
 Person zu: **H = Dr. Hübner · R = Kritiker Ritter · L =
 Besucherin Luisa.**
 
 |   | Aussage                                                            | H | R | L |
 |---|--------------------------------------------------------------------|:-:|:-:|:-:|
-| 1 | „Wir haben den Zeitrahmen bewusst schmal gehalten."                | ☐ | ☐ | ☐ |
-| 2 | „Manche Werke brauchen Luft."                                      | ☐ | ☐ | ☐ |
-| 3 | „Der Katalog liefert den Alltagsaspekt."                           | ☐ | ☐ | ☐ |
-| 4 | „Die Audiotour war hilfreich."                                     | ☐ | ☐ | ☐ |
-| 5 | „Viele dieser Malerinnen wurden systematisch vergessen."           | ☐ | ☐ | ☐ |
-| 6 | „Die Konzeption ist stark, die Hängung nicht."                     | ☐ | ☐ | ☐ |
+| 1 | „Wir haben den Zeitrahmen bewusst schmal gehalten.“                | ☐ | ☐ | ☐ |
+| 2 | „Manche Werke brauchen Luft.“                                      | ☐ | ☐ | ☐ |
+| 3 | „Der Katalog liefert den Alltagsaspekt.“                           | ☐ | ☐ | ☐ |
+| 4 | „Die Audiotour war hilfreich.“                                     | ☐ | ☐ | ☐ |
+| 5 | „Viele dieser Malerinnen wurden systematisch vergessen.“           | ☐ | ☐ | ☐ |
+| 6 | „Die Konzeption ist stark, die Hängung nicht.“                     | ☐ | ☐ | ☐ |
 
 ## Lösungen
 

@@ -6,13 +6,11 @@ title: "Kurs A1 — Anfänger:innen"
 KURS A1 · ANFÄNGER:INNEN · ALLTAGSENSEMBLE WIEN
 :::
 
-# A1 — Anfänger:innen
-
 [A1]{.cefr-badge .a1}
 
 Zwölf Einheiten für den absoluten Einstieg in die deutsche
-Sprache. Alltagsphrasen, einfaches Präsens, Ich/Du/Er-Grundlagen.
-Ziel: **Start Deutsch 1** (Goethe-Zertifikat A1) — ca. 80 Min,
+Sprache. Alltagsphrasen, einfache Gegenwart („Präsens“), Ich/Du/Er-Grundlagen.
+Ziel: **Start Deutsch 1** — ca. 80 Min,
 100 Punkte, Bestehen bei 60 %.
 
 ## Wiederkehrende Figurenbesetzung
@@ -96,12 +94,12 @@ Modul: Lesen. Fahrplan, Schilder, Postkarte.
 
 ## Prüfungsziel
 
-**Goethe-Zertifikat A1: Start Deutsch 1** — eine schriftliche
+**GER-Prüfung A1: Start Deutsch 1** — eine schriftliche
 Prüfung (Hören + Lesen + Schreiben, je 25 P.) plus mündliche
 Gruppenprüfung Sprechen (25 P.). Gesamtdauer ca. 80 Min,
 Bestehensgrenze 60 P. (60 %).
 
-Details: [Goethe-Formate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../goethe_formate.qmd) ·
 Rohdaten in
 [`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml).
 
@@ -118,5 +116,5 @@ Rohdaten in
 
 - [Wochenplan des Kurses](uebersicht.qmd)
 - [Übersicht aller 60 Einheiten](../uebersicht.qmd)
-- [Goethe-Formate](../goethe_formate.qmd)
+- [Prüfungsformate](../goethe_formate.qmd)
 - [Zurück zur Startseite](../index.qmd)

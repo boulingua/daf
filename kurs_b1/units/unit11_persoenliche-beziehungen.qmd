@@ -1,6 +1,6 @@
 ---
 title: "Einheit 11 — Persönliche Beziehungen und Konflikte"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Lesen"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen"
 cefr_level: "B1"
 unit_nr: 11
 slug: "persoenliche-beziehungen"
@@ -44,7 +44,7 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Lesen** — Teil 1 (Korrespondenz) kombiniert mit
+- Prüfungsmodul **Lesen** — Teil 1 (Korrespondenz) kombiniert mit
   Teil 4 (Meinungen zuordnen).
 
 ## Einstiegsgeschichte
@@ -62,7 +62,7 @@ Heimweg schreibt er einen Blogeintrag.
   Freundschaften, die man auf Deutsch beschreiben können sollte?
 - Schreiben Sie bei Konflikten eher oder sprechen Sie eher?
 - Welche deutschen Ausdrücke kennen Sie für
-  „Enttäuschung / Versöhnung"?
+  „Enttäuschung / Versöhnung“?
 
 ## 2. Input
 
@@ -70,7 +70,7 @@ Heimweg schreibt er einen Blogeintrag.
 
 > Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee,
 > einfach reden. Ich hatte mich gefreut. Als ich in die Wohnung
-> kam, saß Stefan vor seinem Laptop und spielte. „Einen Moment",
+> kam, saß Stefan vor seinem Laptop und spielte. „Einen Moment“,
 > sagte er. Der Moment dauerte eine halbe Stunde. Wir haben dann
 > geredet, aber ich war schon so enttäuscht, dass ich nicht
 > mehr richtig zuhören konnte.
@@ -86,8 +86,8 @@ Heimweg schreibt er einen Blogeintrag.
 
 | Wort                        | Erklärung / Beispielsatz                                    |
 |-----------------------------|-------------------------------------------------------------|
-| enttäuscht (adj.)           | *„Ich war enttäuscht, als er nicht gekommen ist."*           |
-| Vorwurf, der                | negative Aussage über jemanden, *„Das ist ein schwerer Vorwurf."* |
+| enttäuscht (adj.)           | *„Ich war enttäuscht, als er nicht gekommen ist.“*           |
+| Vorwurf, der                | negative Aussage über jemanden, *„Das ist ein schwerer Vorwurf.“* |
 | Aussprache, die             | hier: klärendes Gespräch                                     |
 | sich beruhigen (refl.)      | zur Ruhe kommen                                              |
 | Einsicht, die               | Erkenntnis, etwas falsch gemacht zu haben                    |
@@ -104,16 +104,16 @@ Heimweg schreibt er einen Blogeintrag.
 **Aufgabe 2.** Welches Wort aus **B** passt?
 
 1. *„Ich brauche eine …, um ruhig zu erzählen, was mich gestört
-   hat."*
-2. *„Seine späte Nachricht zeigt, dass er eine … gefunden hat."*
+   hat.“*
+2. *„Seine späte Nachricht zeigt, dass er eine … gefunden hat.“*
 3. *„Bitte mach mir keinen …, ich habe wirklich nicht an den
-   Termin gedacht."*
+   Termin gedacht.“*
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
 **Aufgabe 1.** 1 = Falsch · 2 = Richtig (*„so enttäuscht, dass
-ich nicht mehr richtig zuhören konnte"*) · 3 = Falsch (*„Ich
-möchte nicht schreiben, bevor ich mich beruhigt habe"*) · 4 =
+ich nicht mehr richtig zuhören konnte“*) · 3 = Falsch (*„Ich
+möchte nicht schreiben, bevor ich mich beruhigt habe“*) · 4 =
 Richtig.
 
 **Aufgabe 2.** 1 = Aussprache · 2 = Einsicht · 3 = Vorwurf.
@@ -141,7 +141,7 @@ Antwort:
 - [ ] Ich kann Konfliktvokabular (Vorwurf, Einsicht, Aussprache)
       passiv verwenden.
 
-## Prüfungsbeispiel — Goethe B1 Lesen, Teil 1
+## Prüfungsbeispiel — GER B1 Lesen, Teil 1
 
 **Aufgabenstellung:** Lesen Sie Amirs Blogeintrag noch einmal
 und entscheiden Sie zu den sechs Aussagen: **Richtig** oder
@@ -156,12 +156,12 @@ und entscheiden Sie zu den sechs Aussagen: **Richtig** oder
 
 ::: {.callout-tip collapse="true" title="Lösungen Prüfungsbeispiel"}
 
-1. Richtig (implizit: „als ich in die Wohnung kam")
-2. Falsch („der Moment dauerte eine halbe Stunde")
+1. Richtig (implizit: „als ich in die Wohnung kam“)
+2. Falsch („der Moment dauerte eine halbe Stunde“)
 3. Richtig
-4. Falsch („nicht mehr richtig zuhören")
+4. Falsch („nicht mehr richtig zuhören“)
 5. Richtig (stressige Woche / bewusst klein gehalten)
-6. Falsch („Morgen schicke ich …")
+6. Falsch („Morgen schicke ich …“)
 
 :::
 
@@ -178,14 +178,14 @@ Reflexion 3' · Prüfungsvorschau 35'.
 
 ## Häufige Stolperfallen
 
-- **„Vorwurf"** ist oft negativ; die passende Alternative in
+- **„Vorwurf“** ist oft negativ; die passende Alternative in
   freundschaftlicher Kommunikation ist *Bitte*, *Wunsch*, *Ich-
   Botschaft*.
-- **„sich beruhigen"** wird oft mit „ruhig machen" verwechselt.
+- **„sich beruhigen“** wird oft mit „ruhig machen“ verwechselt.
   Reflexiv: *ich beruhige mich*.
 
 ## Weiterführende Materialien
 
-- **DW — „Ticket nach Berlin"**: Konfliktszenen im DaF-Format.
+- **DW — „Ticket nach Berlin“**: Konfliktszenen im DaF-Format.
 - **Schubert-Verlag: Gewaltfreie Kommunikation B1+** (Kurzartikel
   offen zugänglich).

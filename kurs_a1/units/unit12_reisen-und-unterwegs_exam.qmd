@@ -26,19 +26,19 @@ Sie sehen fünf Schilder an einem Bahnhof. Sind die Aussagen
 
 |   | Schild                         | Aussage                                      | Richtig | Falsch |
 |---|--------------------------------|----------------------------------------------|:-------:|:------:|
-| 1 | „Rauchen verboten"             | Sie dürfen hier rauchen.                     | ☐       | ☐      |
-| 2 | „Eingang"                      | Hier ist die Tür, um hineinzugehen.          | ☐       | ☐      |
-| 3 | „Gleis 5 — ICE 22 Zürich"      | Der Zug nach Zürich fährt auf Gleis 3.       | ☐       | ☐      |
-| 4 | „Geschlossen bis 14:00"        | Ab 14 Uhr ist das Geschäft offen.            | ☐       | ☐      |
-| 5 | „Bitte einsteigen"             | Sie sollen aussteigen.                       | ☐       | ☐      |
+| 1 | „Rauchen verboten“             | Sie dürfen hier rauchen.                     | ☐       | ☐      |
+| 2 | „Eingang“                      | Hier ist die Tür, um hineinzugehen.          | ☐       | ☐      |
+| 3 | „Gleis 5 — ICE 22 Zürich“      | Der Zug nach Zürich fährt auf Gleis 3.       | ☐       | ☐      |
+| 4 | „Geschlossen bis 14:00“        | Ab 14 Uhr ist das Geschäft offen.            | ☐       | ☐      |
+| 5 | „Bitte einsteigen“             | Sie sollen aussteigen.                       | ☐       | ☐      |
 
 ## Lösungen
 
-1. **Falsch** — „Rauchen verboten" = Sie dürfen nicht rauchen.
+1. **Falsch** — „Rauchen verboten“ = Sie dürfen nicht rauchen.
 2. **Richtig**.
 3. **Falsch** — Gleis 5, nicht 3.
-4. **Richtig** — „bis 14:00 geschlossen" = ab 14:00 offen.
-5. **Falsch** — „einsteigen" = hineingehen.
+4. **Richtig** — „bis 14:00 geschlossen“ = ab 14:00 offen.
+5. **Falsch** — „einsteigen“ = hineingehen.
 
 ---
 

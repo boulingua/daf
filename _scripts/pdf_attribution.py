@@ -48,7 +48,7 @@ def set_metadata(canvas: "Canvas", context: UnitContext, kind: str) -> None:
     canvas.setTitle(f"{kind} — Einheit {context.unit_nr}: {context.unit_title}")
     canvas.setSubject(f"{SITE} — {kind} (GER {context.cefr_level.upper()})")
     canvas.setKeywords(
-        f"DaF, Deutsch als Fremdsprache, Goethe-Zertifikat, CEFR "
+        f"DaF, Deutsch als Fremdsprache, GER-Prüfung, CEFR "
         f"{context.cefr_level.upper()}, {kind}"
     )
     canvas.setCreator(f"{SITE} — {AUTHOR}")

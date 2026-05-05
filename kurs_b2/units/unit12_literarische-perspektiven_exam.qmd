@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Sprechen, Teil 1"
+title: "GER-Prüfung B2 — Sprechen, Teil 1"
 subtitle: "Einheit 12 · Literarische Perspektiven · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -15,7 +15,7 @@ B2-Sprechen Teil 1 (Vortrag ca. 4 Min pro Person, Strukturvorgabe).
 Halten Sie einen Vortrag (ca. 4 Minuten) zum Thema:
 
 > *„Welche deutschsprachige Autorin oder welcher Autor lohnt sich
-> im DaF-Unterricht, und warum?"*
+> im DaF-Unterricht, und warum?“*
 
 Gliederung (5 Folien):
 

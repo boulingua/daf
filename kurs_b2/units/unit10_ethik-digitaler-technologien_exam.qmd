@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Schreiben, Teil 1"
+title: "GER-Prüfung B2 — Schreiben, Teil 1"
 subtitle: "Einheit 10 · Ethik digitaler Technologien · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -18,7 +18,7 @@ Verfassen Sie in einem Online-Forum einen **Kommentar**
 
 > *„Staatliche Stellen sollten KI-gestützte Auswertung
 > öffentlicher Daten nur nach Zustimmung der Betroffenen
-> verwenden."*
+> verwenden.“*
 
 Vier Sprachfunktionen:
 
@@ -42,7 +42,7 @@ Vier Sprachfunktionen:
 > stille Überwachung, die Vertrauen zerstört, sobald sie
 > publik wird. Skandinavische Länder zeigen, dass freiwillige
 > Zustimmungsmodelle mit klarer Rückmeldung („Was geschieht mit
-> meinen Daten?") deutlich mehr Beteiligung erzeugen als
+> meinen Daten?“) deutlich mehr Beteiligung erzeugen als
 > Pflichtlösungen.
 >
 > Ich halte es für richtig, die Zustimmung zur Voraussetzung zu

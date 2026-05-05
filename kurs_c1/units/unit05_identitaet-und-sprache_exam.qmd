@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Schreiben, Teil 1"
+title: "GER-Prüfung C1 — Schreiben, Teil 1"
 subtitle: "Einheit 5 · Identität und Sprache · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -18,7 +18,7 @@ Verfassen Sie einen Beitrag in einem Bildungsforum
 
 > *„Heritage-Sprachen sollten in der Schule wie reguläre
 > Fremdsprachen unterrichtet werden — mit Note, Lehrplan,
-> Prüfung."*
+> Prüfung.“*
 
 Setzen Sie folgende Sprachfunktionen um:
 

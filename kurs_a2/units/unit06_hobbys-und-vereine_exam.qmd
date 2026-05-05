@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Sprechen, Teil 2"
+title: "GER-Prüfung A2 — Sprechen, Teil 2"
 subtitle: "Einheit 6 · Hobbys und Vereine · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:
@@ -12,7 +12,7 @@ format:
 A2-Sprechen Teil 2 (Produktion, 2–3 Min zu eigenen Themen).
 :::
 
-Sprechen Sie zum Thema **„Mein Hobby / Mein Verein"** anhand
+Sprechen Sie zum Thema **„Mein Hobby / Mein Verein“** anhand
 folgender Stichwörter:
 
 - Name / Art

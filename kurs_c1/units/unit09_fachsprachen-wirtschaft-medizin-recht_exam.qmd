@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Lesen, Teil 4"
+title: "GER-Prüfung C1 — Lesen, Teil 4"
 subtitle: "Einheit 9 · Fachsprachen · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -19,13 +19,13 @@ fünf Aussagen den Fachtexten zu: **W = Wirtschaft · M = Medizin
 
 |   | Aussage                                                        | W | M | R | – |
 |---|----------------------------------------------------------------|:-:|:-:|:-:|:-:|
-| 1 | „Die Patientin erhält intravenöse Antibiotika."                | ☐ | ☐ | ☐ | ☐ |
-| 2 | „Die Anlage bietet keinen Kapitalschutz."                       | ☐ | ☐ | ☐ | ☐ |
-| 3 | „Die Haftung ist auf bestimmte Pflichten beschränkt."           | ☐ | ☐ | ☐ | ☐ |
-| 4 | „Eine Erhöhung der Entzündungswerte deutet auf Infektion."      | ☐ | ☐ | ☐ | ☐ |
-| 5 | „Vergangene Renditen garantieren nichts für die Zukunft."       | ☐ | ☐ | ☐ | ☐ |
-| 6 | „Alle drei Fachsprachen sind ohne Fremdwörter."                  | ☐ | ☐ | ☐ | ☐ |
-| 7 | „Recht ist allgemein verständlich formuliert."                   | ☐ | ☐ | ☐ | ☐ |
+| 1 | „Die Patientin erhält intravenöse Antibiotika.“                | ☐ | ☐ | ☐ | ☐ |
+| 2 | „Die Anlage bietet keinen Kapitalschutz.“                       | ☐ | ☐ | ☐ | ☐ |
+| 3 | „Die Haftung ist auf bestimmte Pflichten beschränkt.“           | ☐ | ☐ | ☐ | ☐ |
+| 4 | „Eine Erhöhung der Entzündungswerte deutet auf Infektion.“      | ☐ | ☐ | ☐ | ☐ |
+| 5 | „Vergangene Renditen garantieren nichts für die Zukunft.“       | ☐ | ☐ | ☐ | ☐ |
+| 6 | „Alle drei Fachsprachen sind ohne Fremdwörter.“                  | ☐ | ☐ | ☐ | ☐ |
+| 7 | „Recht ist allgemein verständlich formuliert.“                   | ☐ | ☐ | ☐ | ☐ |
 
 ## Lösungen
 

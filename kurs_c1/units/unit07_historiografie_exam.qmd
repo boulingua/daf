@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Hören, Teil 3"
+title: "GER-Prüfung C1 — Hören, Teil 3"
 subtitle: "Einheit 7 · Historiografie · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -13,20 +13,20 @@ C1-Hören Teil 3 ((Radio-)Diskussion mit drei Personen, MC-3gl,
 8 Items, einmaliges Hören).
 :::
 
-Sie hören die Podcast-Folge *„Geschichte verhandelt"*. Ordnen
+Sie hören die Podcast-Folge *„Geschichte verhandelt“*. Ordnen
 Sie die Aussagen zu: **V = Dr. Vogt · B = Bauer · L = Lange ·
 – = niemand**.
 
 |   | Aussage                                                              | V | B | L | – |
 |---|----------------------------------------------------------------------|:-:|:-:|:-:|:-:|
-| 1 | „Akten sind durch ihre Sammler ausgewählt."                          | ☐ | ☐ | ☐ | ☐ |
-| 2 | „90er Jahre dominierten West-Historiker:innen."                       | ☐ | ☐ | ☐ | ☐ |
-| 3 | „Es gibt kein Ohne-Standpunkt-Erzählen."                              | ☐ | ☐ | ☐ | ☐ |
-| 4 | „Standpunkte offenlegen ist Methodik, nicht Schwäche."                | ☐ | ☐ | ☐ | ☐ |
-| 5 | „Schweige-Archive sind reine Polemik."                                | ☐ | ☐ | ☐ | ☐ |
-| 6 | „West-Sozialisierte schreiben nicht neutral."                         | ☐ | ☐ | ☐ | ☐ |
-| 7 | „Heute kommen Stimmen aus DDR-Sozialisation dazu."                    | ☐ | ☐ | ☐ | ☐ |
-| 8 | „Material und Akten sind beliebig austauschbar."                       | ☐ | ☐ | ☐ | ☐ |
+| 1 | „Akten sind durch ihre Sammler ausgewählt.“                          | ☐ | ☐ | ☐ | ☐ |
+| 2 | „90er Jahre dominierten West-Historiker:innen.“                       | ☐ | ☐ | ☐ | ☐ |
+| 3 | „Es gibt kein Ohne-Standpunkt-Erzählen.“                              | ☐ | ☐ | ☐ | ☐ |
+| 4 | „Standpunkte offenlegen ist Methodik, nicht Schwäche.“                | ☐ | ☐ | ☐ | ☐ |
+| 5 | „Schweige-Archive sind reine Polemik.“                                | ☐ | ☐ | ☐ | ☐ |
+| 6 | „West-Sozialisierte schreiben nicht neutral.“                         | ☐ | ☐ | ☐ | ☐ |
+| 7 | „Heute kommen Stimmen aus DDR-Sozialisation dazu.“                    | ☐ | ☐ | ☐ | ☐ |
+| 8 | „Material und Akten sind beliebig austauschbar.“                       | ☐ | ☐ | ☐ | ☐ |
 
 ## Lösungen
 

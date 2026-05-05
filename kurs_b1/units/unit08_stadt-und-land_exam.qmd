@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Lesen, Teil 4"
+title: "GER-Modellprüfung B1 — Lesen, Teil 4"
 subtitle: "Einheit 8 · Stadt und Land · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -46,10 +46,10 @@ Pro richtige Antwort ein Punkt, maximal 7 Punkte.
 
 ## Lösungen
 
-1. **Ja** — „Ich bin in Wien groß geworden".
-2. **Nein** — „die Mieten sind absurd" (d. h. unangemessen).
-3. **Ja** — „Wenn ich müde werde, fahre ich am Wochenende raus".
-4. **Nein** — „und bleibe".
+1. **Ja** — „Ich bin in Wien groß geworden“.
+2. **Nein** — „die Mieten sind absurd“ (d. h. unangemessen).
+3. **Ja** — „Wenn ich müde werde, fahre ich am Wochenende raus“.
+4. **Nein** — „und bleibe“.
 5. **Ja** — Konzerte, Schulen, Ärztinnen = kulturelle und
    infrastrukturelle Vielfalt.
 6. **Nein** — keine Aussage dazu.

@@ -1,6 +1,6 @@
 ---
 title: "Einheit 12 — Literarische Perspektiven: Erzählstimmen der Gegenwart"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Sprechen"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen"
 cefr_level: "B2"
 unit_nr: 12
 slug: "literarische-perspektiven"
@@ -32,14 +32,14 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1 (Vortrag).
+Prüfungsmodul **Sprechen** — Teil 1 (Vortrag).
 
 ## Einstiegsgeschichte
 
 **Elena, Kjell, Dr. Weiss, Nihad** treffen sich zum letzten Mal
 im B2-Kurs — nicht zur politischen, sondern zur literarischen
 Debatte. Jede:r hat einen kurzen Text vorbereitet. Elena liest
-den Anfang von Terézia Moras Roman *„Das Ungeheuer"*; Kjell bringt
+den Anfang von Terézia Moras Roman *„Das Ungeheuer“*; Kjell bringt
 einen Ausschnitt von Navid Kermani; Dr. Weiss wählt Judith
 Hermann, Nihad Sasha Marianna Salzmann.
 
@@ -56,10 +56,10 @@ Hermann, Nihad Sasha Marianna Salzmann.
 
 | Perspektive     | Kennzeichen                           | Beispiel                       |
 |-----------------|---------------------------------------|--------------------------------|
-| Ich-Erzähler:in | Erzähler ist Figur im Text            | *„Ich ging am Morgen …"*       |
-| Auktorial       | allwissender Erzähler                 | *„Sie wusste nicht, dass …"*   |
-| Personal        | eng an einer Figur, nicht allwissend  | *„Sie sah ihn — und erschrak."* |
-| Neutral         | beobachtend, distanziert              | *„Der Mann betrat den Raum."*  |
+| Ich-Erzähler:in | Erzähler ist Figur im Text            | *„Ich ging am Morgen …“*       |
+| Auktorial       | allwissender Erzähler                 | *„Sie wusste nicht, dass …“*   |
+| Personal        | eng an einer Figur, nicht allwissend  | *„Sie sah ihn — und erschrak.“* |
+| Neutral         | beobachtend, distanziert              | *„Der Mann betrat den Raum.“*  |
 
 ### B. Miniatur-Textauszug (original, frei erfunden, kein
 echter Roman-Ausschnitt)
@@ -86,11 +86,11 @@ Figur — wir wissen, was sie denkt, aber nicht mehr als sie.
 
 **Aufgabe 1 — Perspektive erkennen.** Welche Perspektive?
 
-1. *„Ich stand am Fenster. Ich hielt die Tasse."*
-2. *„Sie stand am Fenster. Warum, wusste sie nicht."*
-3. *„Die Frau stand am Fenster."*
+1. *„Ich stand am Fenster. Ich hielt die Tasse.“*
+2. *„Sie stand am Fenster. Warum, wusste sie nicht.“*
+3. *„Die Frau stand am Fenster.“*
 4. *„Sie stand am Fenster. Er wusste, dass sie nicht schlafen
-   konnte."*
+   konnte.“*
 
 **Aufgabe 2 — Sprachfokus.** Welche drei Wortfelder dominieren
 den Miniatur-Text in **B**?
@@ -134,13 +134,13 @@ Mit zwölf Einheiten haben Sie B2 gemeistert: **Medienanalyse,
 Wissenschaftskommunikation, gesellschaftliche Debatten,
 Arbeitswelt-Wandel, Kultur, Migration, Gesundheits-/Umwelt-/
 Bildungspolitik, digitale Ethik, Ökonomie, Literatur.** Das
-entspricht der vollen Themenbreite des Goethe-Zertifikats B2.
+entspricht der vollen Themenbreite des GER-Prüfung B2.
 
-## Prüfungsbeispiel — Goethe B2 Sprechen, Teil 1
+## Prüfungsbeispiel — GER B2 Sprechen, Teil 1
 
 **Aufgabenstellung:** Halten Sie einen Vortrag (ca. 4 Min) zum
 Thema *„Welche deutschsprachige Autorin oder welcher Autor
-lohnt sich im DaF-Unterricht, und warum?"*
+lohnt sich im DaF-Unterricht, und warum?“*
 
 Struktur:
 
@@ -161,16 +161,16 @@ Anwenden 30' · Reflexion + Kursabschluss 15' · Prüfungsvorschau 12'.
 
 ## Häufige Stolperfallen
 
-- **„Erzähler:in"** vs. **„Autor:in"** — der Erzähler ist die
+- **„Erzähler:in“** vs. **„Autor:in“** — der Erzähler ist die
   *Stimme im Text*, nicht die Person, die schreibt.
-- **„Perspektive"** — viele falsche Freunde (Grundstück-Perspektive
+- **„Perspektive“** — viele falsche Freunde (Grundstück-Perspektive
   vs. literarische).
-- **„Ich-Erzähler:in" ≠ Autor:in** — wichtige Regel in
+- **„Ich-Erzähler:in“ ≠ Autor:in** — wichtige Regel in
   Textanalyse.
 
 ## Weiterführende Materialien
 
 - **Suhrkamp Verlag — Autorinnenprofile**:
   <https://www.suhrkamp.de/>
-- **Deutschlandradio „Lesart"**: <https://www.deutschlandfunkkultur.de/>
-- **ORF Ö1 „Ex libris"**: <https://oe1.orf.at/exlibris>
+- **Deutschlandradio „Lesart“**: <https://www.deutschlandfunkkultur.de/>
+- **ORF Ö1 „Ex libris“**: <https://oe1.orf.at/exlibris>

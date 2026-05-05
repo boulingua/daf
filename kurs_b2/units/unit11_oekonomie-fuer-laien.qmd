@@ -1,6 +1,6 @@
 ---
 title: "Einheit 11 — Ökonomie für Laien: Inflation und Geldwert"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Hören"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Hören"
 cefr_level: "B2"
 unit_nr: 11
 slug: "oekonomie-fuer-laien"
@@ -32,13 +32,13 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 4 (Vortrag / Podcast, MC-3gl,
+Prüfungsmodul **Hören** — Teil 4 (Vortrag / Podcast, MC-3gl,
 2× hören).
 
 ## Einstiegsgeschichte
 
 **Elena** sitzt im Studio, der Gast ist **Prof. Dr. Wagner** von
-der WU Wien. Thema: *„Inflation — warum versteht es niemand?"*
+der WU Wien. Thema: *„Inflation — warum versteht es niemand?“*
 Der Titel ist natürlich eine Übertreibung; der Podcast erklärt
 genau das.
 
@@ -135,7 +135,7 @@ unterschiedlich trifft**.
 - [ ] Ich benutze sechs Fachbegriffe + Laienversion.
 - [ ] Ich sprachmittle zwischen Fach und Alltag.
 
-## Prüfungsbeispiel — Goethe B2 Hören, Teil 4
+## Prüfungsbeispiel — GER B2 Hören, Teil 4
 
 **Aufgabenstellung:** Sie hören den Podcast-Beitrag (siehe Input
 A) zweimal. Wählen Sie bei jeder Frage a, b oder c.
@@ -171,13 +171,13 @@ Prüfungsvorschau 17'.
 
 ## Häufige Stolperfallen
 
-- **„Inflation" (f.)** — feminin.
-- **„Zins"** vs. **„Zinsen":** Singular selten; im Plural für
+- **„Inflation“ (f.)** — feminin.
+- **„Zins“** vs. **„Zinsen“:** Singular selten; im Plural für
   Bankzinsen.
-- **„Konjunktur" (f.)** ≠ **„Konjunktiv"** (Grammatik).
+- **„Konjunktur“ (f.)** ≠ **„Konjunktiv“** (Grammatik).
 
 ## Weiterführende Materialien
 
-- **Ö1 „Saldo"**: <https://oe1.orf.at/saldo>
+- **Ö1 „Saldo“**: <https://oe1.orf.at/saldo>
 - **WU Wien — Videos Ökonomie für alle**:
   <https://www.wu.ac.at/>

@@ -6,13 +6,11 @@ title: "Kurs A2 — Grundlegende Kenntnisse"
 KURS A2 · GRUNDLEGENDE KENNTNISSE · DACH-ALLTAG
 :::
 
-# A2 — Grundlegende Kenntnisse
-
 [A2]{.cefr-badge .a2}
 
-Zwölf Einheiten auf dem GER-Niveau **A2**. Vertraute Themen,
-Perfekt, Modalverben, einfache Nebensätze. Ziel:
-**Goethe-Zertifikat A2** (105 Min, 100 Punkte, Bestehen bei 60 %).
+Zwölf Einheiten auf der grundlegenden Sprachverwendung („A2“). Vertraute Themen,
+zusammengesetzte Vergangenheit („Perfekt“), Hilfsverben der Möglichkeit/Notwendigkeit („Modalverben“), einfache Nebensätze. Ziel:
+**GER-Prüfung A2** (105 Min, 100 Punkte, Bestehen bei 60 %).
 
 ## Wiederkehrende Figurenbesetzung
 
@@ -95,12 +93,12 @@ Modul: Schreiben. Mini-Biografie, Dankesmitteilung.
 
 ## Prüfungsziel
 
-**Goethe-Zertifikat A2** — 4 Module (Lesen 30 Min · Hören 30 Min ·
+**GER-Prüfung A2** — 4 Module (Lesen 30 Min · Hören 30 Min ·
 Schreiben 30 Min · Sprechen 15 Min Paarprüfung) in einem Block.
 Je Modul 25 Punkte, Gesamt 100, Bestehen bei 60 %.
 Rohpunkte in Lesen/Hören/Schreiben ×1.25 auf Zertifikatspunkte.
 
-Details: [Goethe-Formate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../goethe_formate.qmd) ·
 [`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml).
 
 ## Modul-Abdeckung

@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Hören, Teil 3"
+title: "GER-Prüfung A2 — Hören, Teil 3"
 subtitle: "Einheit 3 · Beim Arzt und in der Apotheke · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:

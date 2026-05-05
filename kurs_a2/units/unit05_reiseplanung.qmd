@@ -1,6 +1,6 @@
 ---
 title: "Einheit 5 — Reiseplanung mit Budget"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Lesen"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen"
 cefr_level: "A2"
 unit_nr: 5
 slug: "reiseplanung"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 4: Anzeigen verstehen (Zuordnung).
+Prüfungsmodul **Lesen** — Teil 4: Anzeigen verstehen (Zuordnung).
 
 ## Einstiegsgeschichte
 
@@ -50,7 +50,7 @@ Unterkunft + Ausflüge. Sie liest Kleinanzeigen im Lokalblatt.
 
 ### A. Fünf Kleinanzeigen
 
-> **a) Ferienwohnung „Almblick", Schladming.** 3 Zi., Balkon.
+> **a) Ferienwohnung „Almblick“, Schladming.** 3 Zi., Balkon.
 > 90 €/Nacht. Selbstversorger.
 
 > **b) Jugendherberge Graz.** Mehrbettzimmer 28 €/Nacht + Frühstück.
@@ -60,7 +60,7 @@ Unterkunft + Ausflüge. Sie liest Kleinanzeigen im Lokalblatt.
 
 > **d) Campingplatz Altaussee.** Stellplatz mit Zelt 18 €/Nacht.
 
-> **e) Hotel „Blau am See" Maria Wörth.** Doppelzimmer 180 €, Pool.
+> **e) Hotel „Blau am See“ Maria Wörth.** Doppelzimmer 180 €, Pool.
 
 ### B. Wortschatz
 
@@ -84,11 +84,11 @@ Unterkunft + Ausflüge. Sie liest Kleinanzeigen im Lokalblatt.
 
 **Aufgabe 1 — Zuordnen.** Welche Anzeige passt?
 
-1. „Wir wollen möglichst billig übernachten." →
-2. „Wir reisen mit Zelt." →
-3. „Wir möchten frisches Essen vom Bauernhof." →
-4. „Wir wollen Komfort und Pool." →
-5. „Wir brauchen eine Wohnung mit Küche zum Selberkochen." →
+1. „Wir wollen möglichst billig übernachten.“ →
+2. „Wir reisen mit Zelt.“ →
+3. „Wir möchten frisches Essen vom Bauernhof.“ →
+4. „Wir wollen Komfort und Pool.“ →
+5. „Wir brauchen eine Wohnung mit Küche zum Selberkochen.“ →
 
 **Aufgabe 2 — Textdetails.** Zur Ferienwohnung a:
 
@@ -100,7 +100,7 @@ Unterkunft + Ausflüge. Sie liest Kleinanzeigen im Lokalblatt.
 
 - Jugendherberge 28 € × 5 = 140 € ✓
 - Bauernhof 65 € × 5 = 325 € ✓
-- Hotel „Blau am See" 180 € × 5 = 900 € ✗
+- Hotel „Blau am See“ 180 € × 5 = 900 € ✗
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -111,7 +111,7 @@ Unterkunft + Ausflüge. Sie liest Kleinanzeigen im Lokalblatt.
 
 **Aufgabe 3.** Passt zu Sabina: Jugendherberge, Bauernhof,
 Campingplatz, Ferienwohnung (450 € für 5 Nächte). Zu teuer:
-Hotel „Blau am See".
+Hotel „Blau am See“.
 
 :::
 
@@ -131,19 +131,19 @@ Tage an einen selbst gewählten Ort. Angaben:
 - [ ] Ich rechne ein Reisebudget auf A2-Niveau.
 - [ ] Ich plane fünf Reisetage schriftlich.
 
-## Prüfungsbeispiel — Goethe A2 Lesen, Teil 4
+## Prüfungsbeispiel — GER A2 Lesen, Teil 4
 
 **Aufgabenstellung:** Ordnen Sie die **fünf Personen** (1–5) den
 **sechs Anzeigen** (a–f) zu. Eine Anzeige passt zu keiner Person.
 
 *(Stimulus wie Abschnitt A, plus eine Extra-Anzeige f: „Hostel
-Wien Mitte, 35 €/Nacht, Zentrum".)*
+Wien Mitte, 35 €/Nacht, Zentrum“.)*
 
-1. „Wir brauchen ein Hostel in der Innenstadt."
-2. „Wir wollen Komfort und Pool am See."
-3. „Wir lieben frische Bauernprodukte."
-4. „Wir zelten."
-5. „Wir suchen eine Ferienwohnung in den Bergen."
+1. „Wir brauchen ein Hostel in der Innenstadt.“
+2. „Wir wollen Komfort und Pool am See.“
+3. „Wir lieben frische Bauernprodukte.“
+4. „Wir zelten.“
+5. „Wir suchen eine Ferienwohnung in den Bergen.“
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 1 = f · 2 = e · 3 = c · 4 = d · 5 = a. (b passt zu niemandem.)
@@ -162,8 +162,8 @@ Prüfungsvorschau 7'.
 
 - **Halbpension = Frühstück + eine Hauptmahlzeit.**
   **Vollpension = drei Mahlzeiten.**
-- **„Aufschlag"** ist Aufpreis, z. B. *Einzelzimmer-Aufschlag*.
-- **„Selbstversorger"** = eigene Küche, ohne Essen inkludiert.
+- **„Aufschlag“** ist Aufpreis, z. B. *Einzelzimmer-Aufschlag*.
+- **„Selbstversorger“** = eigene Küche, ohne Essen inkludiert.
 
 ## Weiterführende Materialien
 

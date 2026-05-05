@@ -1,6 +1,6 @@
 ---
 title: "Einheit 9 — Konsum und Verbraucherschutz"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Schreiben"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben"
 cefr_level: "B1"
 unit_nr: 9
 slug: "konsum-und-verbraucherschutz"
@@ -42,7 +42,7 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Schreiben** — Teil 3 (Mitteilung zur
+- Prüfungsmodul **Schreiben** — Teil 3 (Mitteilung zur
   Handlungsregulierung): Reklamation, Rückgabe, Beschwerde.
 
 ## Einstiegsgeschichte
@@ -51,7 +51,7 @@ format:
 bestellt. Nach drei Tagen kommt das Paket — aber ohne das
 versprochene Zubehör. Der Zettel in der Packung sagt: *„Im
 Lieferumfang enthalten: Kaffeemaschine, Milchaufschäumer,
-Reinigungsbürste, Entkalker-Tab."* In der Packung: nur die
+Reinigungsbürste, Entkalker-Tab.“* In der Packung: nur die
 Maschine und die Bürste. Milchaufschäumer und Entkalker fehlen.
 Sie schreibt an den Kundenservice.
 
@@ -84,7 +84,7 @@ Sie schreibt an den Kundenservice.
 > Sehr geehrte Damen und Herren,
 >
 > am 14. Mai habe ich bei Ihnen eine Kaffeemaschine vom Modell
-> „KA-3200" bestellt (Bestellnummer: **KA-5578912**). Das Paket
+> „KA-3200“ bestellt (Bestellnummer: **KA-5578912**). Das Paket
 > ist am 17. Mai angekommen. Leider fehlen zwei Teile aus dem
 > auf Ihrer Website angegebenen Lieferumfang: der
 > Milchaufschäumer und der Entkalker-Tab.
@@ -127,17 +127,17 @@ D. Sehr geehrte Damen und Herren,
 E. Hinweis auf die Bestellung (Datum + Nummer).
 
 **Aufgabe 3 — Höflichkeit.** Was ist freundlicher —
-*„Das ist inakzeptabel!"* oder *„Das hat mich sehr überrascht"*?
+*„Das ist inakzeptabel!“* oder *„Das hat mich sehr überrascht“*?
 Warum?
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
 **Aufgabe 1.** 1 = Falsch · 2 = Richtig · 3 = Falsch (*„eindeutige
-Erklärung, z. B. per E-Mail"*) · 4 = Richtig.
+Erklärung, z. B. per E-Mail“*) · 4 = Richtig.
 
 **Aufgabe 2.** D – E – A – B – C.
 
-**Aufgabe 3.** *„Das hat mich sehr überrascht"* ist höflicher —
+**Aufgabe 3.** *„Das hat mich sehr überrascht“* ist höflicher —
 benennt die eigene Reaktion, wertet nicht.
 
 :::
@@ -160,7 +160,7 @@ Größe an. Schreiben Sie an den Shop:
       schreiben.
 - [ ] Ich kenne drei höfliche Wendungen für Beschwerden.
 
-## Prüfungsbeispiel — Goethe B1 Schreiben, Teil 3
+## Prüfungsbeispiel — GER B1 Schreiben, Teil 3
 
 **Aufgabenstellung:** Sie haben ein Konzertticket online gekauft,
 das Konzert wurde abgesagt. Schreiben Sie an den Veranstalter
@@ -185,9 +185,9 @@ Reflexion 3' · Prüfungsvorschau 30'.
 
 ## Häufige Stolperfallen
 
-- **„ich bitte Sie" + Infinitiv** + „zu" + Infinitiv: *„Ich
-  bitte Sie, mir die fehlenden Teile **zu** senden."*
-- **„entsorgen" ≠ „zurücksenden".** Oft werden diese zwei
+- **„ich bitte Sie“ + Infinitiv** + „zu“ + Infinitiv: *„Ich
+  bitte Sie, mir die fehlenden Teile **zu** senden.“*
+- **„entsorgen“ ≠ „zurücksenden“.** Oft werden diese zwei
   Aktionsverben in Reklamationen verwechselt.
 
 ## Weiterführende Materialien

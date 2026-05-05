@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Sprechen, Teil 3"
+title: "GER-Prüfung A2 — Sprechen, Teil 3"
 subtitle: "Einheit 2 · Wohnung mieten · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:
@@ -17,7 +17,7 @@ format:
 ## Aufgabe
 
 ::: {.callout-warning}
-Formal am Goethe-A2-Sprechen-Modul Teil 3 orientiert: mit einer
+Formal am A2-Sprechen-Modul Teil 3 orientiert: mit einer
 Partnerin / einem Partner eine Unternehmung planen und aushandeln.
 :::
 

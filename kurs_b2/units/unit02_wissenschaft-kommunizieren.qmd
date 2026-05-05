@@ -1,6 +1,6 @@
 ---
 title: "Einheit 2 — Wissenschaft kommunizieren"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Hören"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Hören"
 cefr_level: "B2"
 unit_nr: 2
 slug: "wissenschaft-kommunizieren"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 2 (Radiointerview mit einer
+Prüfungsmodul **Hören** — Teil 2 (Radiointerview mit einer
 Persönlichkeit, 2× hören, MC-3gl).
 
 ## Einstiegsgeschichte
@@ -47,7 +47,7 @@ zusammenfassen.
 
 - Wo suchen Sie wissenschaftliche Informationen?
 - Was trennt Wissenschaft von Meinung?
-- Wie würden Sie einer Laien-Zuhörerin *„Korrelation ≠ Kausation"*
+- Wie würden Sie einer Laien-Zuhörerin *„Korrelation ≠ Kausation“*
   erklären?
 
 ## 2. Input
@@ -105,9 +105,9 @@ zusammenfassen.
 
 **Aufgabe 3 — Korrelation oder Kausation?**
 
-1. „Kinder mit mehr Büchern zu Hause lesen besser."
+1. „Kinder mit mehr Büchern zu Hause lesen besser.“
    (Korrelation / Kausation?)
-2. „Regen macht die Straße nass."
+2. „Regen macht die Straße nass.“
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -139,7 +139,7 @@ Sprache zusammenfasst:
 - [ ] Ich unterscheide Hypothese, Befund und Einschränkung.
 - [ ] Ich paraphrasiere Wissenschaftssprache für Laien.
 
-## Prüfungsbeispiel — Goethe B2 Hören, Teil 2
+## Prüfungsbeispiel — GER B2 Hören, Teil 2
 
 **Aufgabenstellung:** Sie hören das Interview mit Dr. Weiss
 zweimal. Wählen Sie bei jeder Frage die richtige Lösung a/b/c.
@@ -176,14 +176,14 @@ Prüfungsvorschau 15'.
 
 ## Häufige Stolperfallen
 
-- **„Befund" vs. „Ergebnis":** Befund oft in
+- **„Befund“ vs. „Ergebnis“:** Befund oft in
   medizinisch/wissenschaftlichem Kontext, Ergebnis allgemeiner.
-- **„Stichprobe" (f.)** = sample; nicht mit „Beispiel" verwechseln.
+- **„Stichprobe“ (f.)** = sample; nicht mit „Beispiel“ verwechseln.
 - **Konjunktiv I in Zitat**: *Sie sagt, die Wirkung trete
   differenziert auf.* B2 rezeptiv.
 
 ## Weiterführende Materialien
 
-- **Ö1 „Dimensionen"**: <https://oe1.orf.at/dimensionen>
-- **Deutschlandfunk „Forschung aktuell"**: <https://www.deutschlandfunk.de/>
+- **Ö1 „Dimensionen“**: <https://oe1.orf.at/dimensionen>
+- **Deutschlandfunk „Forschung aktuell“**: <https://www.deutschlandfunk.de/>
 - **Scilogs.spektrum.de — Wissenschaftsblogs B2+**.

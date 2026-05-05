@@ -1,6 +1,6 @@
 ---
 title: "Einheit 5 — Digitale Kommunikation: Chat, E-Mail, Forum"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Schreiben"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben"
 cefr_level: "B1"
 unit_nr: 5
 slug: "digitale-kommunikation"
@@ -44,7 +44,7 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Schreiben** — Teil 1 (persönliche Mitteilung
+- Prüfungsmodul **Schreiben** — Teil 1 (persönliche Mitteilung
   zur Kontaktpflege) und Teil 2 (Meinungsäußerung zu einem Thema).
 
 ## Einstiegsgeschichte
@@ -54,7 +54,7 @@ seit einem Jahr ein Online-Forum für seine Redaktion. Er ist dort
 zuständig, Leser:innenbeiträge zu sichten. Manche Beiträge
 gefallen ihm, manche nicht — aber alle müssen moderiert werden,
 und Herr Malik antwortet immer höflich, auch bei scharfen
-Meinungen. „Ton bleibt Ton", sagt er, „Argument bleibt Argument."
+Meinungen. „Ton bleibt Ton“, sagt er, „Argument bleibt Argument.“
 
 ## 1. Einstieg
 
@@ -119,7 +119,7 @@ Meinungen. „Ton bleibt Ton", sagt er, „Argument bleibt Argument."
 
 **Aufgabe 1 — Register-Übersetzung.** Formulieren Sie den
 Chat-Satz ins E-Mail-Register um:
-*„kann den termin am do nicht schaff, ok?"*
+*„kann den termin am do nicht schaff, ok?“*
 
 **Aufgabe 2 — Forumsantwort.** Schreiben Sie in 2–3 Sätzen eine
 höfliche, begründete Antwort auf den Beitrag von `wasserwart_72`.
@@ -186,7 +186,7 @@ Schreiben Sie einen eigenen Forumsbeitrag, in dem Sie:
 - [ ] Ich kann einen 80-Wörter-Forumsbeitrag mit Argument +
       Beispiel + Vorschlag schreiben.
 
-## Prüfungsbeispiel — Goethe B1 Schreiben, Teil 2
+## Prüfungsbeispiel — GER B1 Schreiben, Teil 2
 
 **Aufgabenstellung:** Sie lesen in einem Online-Forum folgenden
 Beitrag. Schreiben Sie Ihre Meinung dazu (ca. 80 Wörter):
@@ -194,7 +194,7 @@ Beitrag. Schreiben Sie Ihre Meinung dazu (ca. 80 Wörter):
 > „Immer mehr junge Leute lesen keine Zeitung mehr. Ich finde
 > das schade — die Nachrichten im Internet sind oft einseitig
 > und schnell vergessen. Wer ohne Zeitung aufwächst, bekommt die
-> Welt nicht mehr vollständig mit."
+> Welt nicht mehr vollständig mit.“
 
 - Äußern Sie Ihre Meinung zur These.
 - Geben Sie ein Beispiel aus Ihrem eigenen Alltag.
@@ -213,7 +213,7 @@ Reflexion 3' · Prüfungsvorschau 28'.
 **Binnendifferenzierung.** Stärkere: eigener Forumsbeitrag
 (100 Wörter) zu einem selbst gewählten Thema. Schwächere:
 Aufgabe 3 mit Lösungshinweis: „Was ist zu informell, was ist
-zu emotional?"
+zu emotional?“
 
 :::
 
@@ -230,5 +230,5 @@ zu emotional?"
 
 - **Duden — Briefe und E-Mails**:
   <https://www.duden.de/sprachwissen/sprachratgeber>
-- **Goethe-Institut — Übungen zum schriftlichen Ausdruck B1**:
+- **Prüfungsanbieter — Übungen zum schriftlichen Ausdruck B1**:
   <https://www.goethe.de/de/spr/ueb/b1.html>

@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 1: Kurznotizen / Speisekarten
+Prüfungsmodul **Lesen** — Teil 1: Kurznotizen / Speisekarten
 (Richtig/Falsch).
 
 ## Einstiegsgeschichte
@@ -80,7 +80,7 @@ Ana und Luka bei Herrn Keks vorbei.
 
 ### B. Einfache Speisekarte
 
-> **Café „Zum Keks"**
+> **Café „Zum Keks“**
 >
 > *Frühstück*
 >
@@ -190,12 +190,12 @@ Prüfungsvorschau 4'.
 
 - **Kaffee/Tee maskulin**, **Milch feminin**, **Wasser
   neutrum**. Artikel lernen!
-- **„Ich nehme …"** und **„Ich möchte …"** sind beides höflich
+- **„Ich nehme …“** und **„Ich möchte …“** sind beides höflich
   für Bestellungen.
 - **Euro** bleibt Singular: *sechs Euro* (nicht *sechs Euros*).
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg — „Essen und Trinken"**:
+- **DW Nicos Weg — „Essen und Trinken“**:
   <https://learngerman.dw.com/>
-- **Easy German — „Im Café"**: <https://www.easygerman.org/>
+- **Easy German — „Im Café“**: <https://www.easygerman.org/>

@@ -1,6 +1,6 @@
 ---
 title: "Einheit 3 — Weiterbildung und Studium"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Lesen"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen"
 cefr_level: "B1"
 unit_nr: 3
 slug: "weiterbildung-und-studium"
@@ -43,7 +43,7 @@ format:
 ## GER-Ausrichtung
 
 - Kompetenz: **Leseverstehen B1**, selektiv und detailliert.
-- Goethe-Modul: **Lesen** — Teil 5 (Schriftliche Anweisungen /
+- Prüfungsmodul: **Lesen** — Teil 5 (Schriftliche Anweisungen /
   Studienordnungen) und Teil 3 (Zur Orientierung lesen).
 - Zusätzlich rezeptiv: Hören-Teil 2 als Kontextübung.
 
@@ -59,7 +59,7 @@ Drei Wege stehen im Raum:
    Universität Wien,
 2. eine berufsbegleitende Weiterbildung in Mediation und
    Fachübersetzung an der Donau-Universität Krems,
-3. ein Kurzprogramm „Wissenschaftskommunikation" am ÖAW-Institut.
+3. ein Kurzprogramm „Wissenschaftskommunikation“ am ÖAW-Institut.
 
 Heute liest sie die Studienordnungen und vergleicht.
 
@@ -89,7 +89,7 @@ Heute liest sie die Studienordnungen und vergleicht.
 >
 > (3) Bewerbende mit einer anderen Erstsprache als Deutsch
 > weisen ihre Sprachkompetenz durch ein anerkanntes Zertifikat
-> (z. B. Goethe-Zertifikat C1, DSH-2, TestDaF 4×5) nach.
+> (z. B. GER-Prüfung C1, DSH-2, TestDaF 4×5) nach.
 >
 > **§ 4 Studiendauer**
 >
@@ -153,11 +153,11 @@ Syntax, am Vokabular, an der Ansprache?
 
 **Aufgabe 1.**
 
-1. Richtig. *„einschlägiger Bachelorabschluss"*.
+1. Richtig. *„einschlägiger Bachelorabschluss“*.
 2. Falsch. Deutsch **C1** ist verlangt.
 3. Richtig. *„kann im Wintersemester oder im Sommersemester
-   aufgenommen werden"*.
-4. Falsch. *„Das Teilzeitstudium ist möglich"*.
+   aufgenommen werden“*.
+4. Falsch. *„Das Teilzeitstudium ist möglich“*.
 
 **Aufgabe 2.**
 
@@ -172,7 +172,7 @@ Syntax, am Vokabular, an der Ansprache?
   Paragrafen, Passivkonstruktionen, keine direkte Ansprache,
   Nominalstil (*Zulassung*, *Nachweis*).
 - **Text B** (Donau-Uni Krems) ist werblich: direkte Ansprache
-  („Sie arbeiten bereits …"), rhetorische Fragen, Adjektive
+  („Sie arbeiten bereits …“), rhetorische Fragen, Adjektive
   *methodisch* / *terminologisch* mit positiver Konnotation.
 
 :::
@@ -191,13 +191,13 @@ Konnektoren:
 
 ## 5. Reflexion
 
-- [ ] Ich kann die Textsorte „Studienordnung" erkennen.
+- [ ] Ich kann die Textsorte „Studienordnung“ erkennen.
 - [ ] Ich kann gezielt nach Zahlen, Namen, Daten im Text suchen.
 - [ ] Ich kann zwei Bildungsangebote in drei Kriterien
       vergleichen.
 - [ ] Ich kann mit Konnektoren eine Wahl begründen.
 
-## Prüfungsbeispiel — Goethe B1 Lesen, Teil 5
+## Prüfungsbeispiel — GER B1 Lesen, Teil 5
 
 **Aufgabe:** Sie lesen die folgende Ordnung und beantworten 4
 Fragen durch Mehrfachauswahl (3-gliedrig).
@@ -231,7 +231,7 @@ Fragen durch Mehrfachauswahl (3-gliedrig).
 
 ::: {.callout-tip collapse="true" title="Lösungen Prüfungsbeispiel"}
 
-1. b · 2. c · 3. b (implizit aus „nur … akzeptiert") · 4. b.
+1. b · 2. c · 3. b (implizit aus „nur … akzeptiert“) · 4. b.
 
 :::
 
@@ -245,7 +245,7 @@ Fragen durch Mehrfachauswahl (3-gliedrig).
 · Reflexion 4' · Prüfungsvorschau 28'.
 
 **Binnendifferenzierung.** Stärkere: Aufgabe 3 als Mini-Aufsatz
-(100 Wörter) „Warum sind Studienordnungen so schwer zu lesen?".
+(100 Wörter) „Warum sind Studienordnungen so schwer zu lesen?“.
 Schwächere: Aufgabe 2 mit Unterstreichen im Text, bevor sie
 schriftlich beantwortet wird.
 
@@ -253,14 +253,14 @@ schriftlich beantwortet wird.
 
 ## Häufige Stolperfallen
 
-- **„einschlägig"** erkennen B1-Lerner:innen oft nicht. Hinweis:
+- **„einschlägig“** erkennen B1-Lerner:innen oft nicht. Hinweis:
   *einschlägige Erfahrung, einschlägiges Studium* = zum Thema
   passend.
-- **Nominalstil** in Paragrafen („die Zulassung erfolgt") ist für
+- **Nominalstil** in Paragrafen („die Zulassung erfolgt“) ist für
   B1-Lerner:innen schwer. Tipp: innerlich verbalisieren („jemand
-  lässt zu").
-- **Modalverben in der Passiv-Ersatzform:** „ist zu erbringen"
-  = „muss erbracht werden". Auf C1 aktiv, auf B1 rezeptiv.
+  lässt zu“).
+- **Modalverben in der Passiv-Ersatzform:** „ist zu erbringen“
+  = „muss erbracht werden“. Auf C1 aktiv, auf B1 rezeptiv.
 
 ## Weiterführende Materialien
 

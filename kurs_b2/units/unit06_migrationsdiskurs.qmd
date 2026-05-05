@@ -1,6 +1,6 @@
 ---
 title: "Einheit 6 — Migrationsdiskurs und Zugehörigkeit"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Lesen"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen"
 cefr_level: "B2"
 unit_nr: 6
 slug: "migrationsdiskurs"
@@ -32,21 +32,21 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 2 (Sachtext mit Lücken / Satz-
+Prüfungsmodul **Lesen** — Teil 2 (Sachtext mit Lücken / Satz-
 einsetzung) und Teil 3 (MC).
 
 ## Einstiegsgeschichte
 
 **Nihad Kovač** (Kulturmanager, Sarajevo → Berlin) schreibt für
-die Zeitschrift *„Durchblick"* einen kurzen Essay zum Thema
-*„Was bedeutet heute Zugehörigkeit?"*. **Elena** moderiert später
+die Zeitschrift *„Durchblick“* einen kurzen Essay zum Thema
+*„Was bedeutet heute Zugehörigkeit?“*. **Elena** moderiert später
 eine Leserdebatte dazu.
 
 ## 1. Einstieg
 
-- Welche Wörter benutzen Medien für „Menschen, die kommen"?
+- Welche Wörter benutzen Medien für „Menschen, die kommen“?
 - Welche Wörter fühlen sich neutral / welche wertend an?
-- Wer entscheidet, ab wann jemand „zugehörig" ist?
+- Wer entscheidet, ab wann jemand „zugehörig“ ist?
 
 ## 2. Input
 
@@ -79,10 +79,10 @@ eine Leserdebatte dazu.
 
 ### C. Rhetorische Strategien
 
-- **Wir-Bildung**: „für meine Generation" — inkludiert.
+- **Wir-Bildung**: „für meine Generation“ — inkludiert.
 - **Auflistung von Orten**: Sarajevo-Berlin-zwischen — macht
   Komplexität sichtbar.
-- **Gegensatzpaare** („drin/draußen, integriert/nicht") — um sie
+- **Gegensatzpaare** („drin/draußen, integriert/nicht“) — um sie
   dann zu **überwinden**.
 
 ## 3. Üben
@@ -106,17 +106,17 @@ Sie:
 **Aufgabe 3 — Selbsttest.** Reagieren Sie auf diese drei Sätze
 **neutraler**, ohne abwertend zu werden:
 
-1. „Ausländer sollen Deutsch lernen."
-2. „Wer integriert ist, hat das geschafft."
-3. „Das ist nicht mehr unsere Stadt."
+1. „Ausländer sollen Deutsch lernen.“
+2. „Wer integriert ist, hat das geschafft.“
+3. „Das ist nicht mehr unsere Stadt.“
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
 **Aufgabe 1.** 1) b · 2) a · 3) b.
 
-**Aufgabe 2.** 1) *„für meine Generation"* · 2) *„drin oder
-draußen, integriert oder nicht"* wird durch *„eine lange
-Verhandlung"* überwunden.
+**Aufgabe 2.** 1) *„für meine Generation“* · 2) *„drin oder
+draußen, integriert oder nicht“* wird durch *„eine lange
+Verhandlung“* überwunden.
 
 **Aufgabe 3.** Muster:
 1. *Sprachkompetenz ist wichtig für Teilhabe; die Verantwortung
@@ -131,7 +131,7 @@ Verhandlung"* überwunden.
 
 **Paar-Gespräch:** Diskutieren Sie 5 Minuten:
 
-> *„Braucht ein Land mehr Migration oder weniger?"*
+> *„Braucht ein Land mehr Migration oder weniger?“*
 
 Achten Sie auf:
 
@@ -145,7 +145,7 @@ Achten Sie auf:
 - [ ] Ich erkenne zwei rhetorische Strategien.
 - [ ] Ich formuliere eine Position mit Nuance.
 
-## Prüfungsbeispiel — Goethe B2 Lesen, Teil 3
+## Prüfungsbeispiel — GER B2 Lesen, Teil 3
 
 **Aufgabenstellung:** Lesen Sie den Essay-Ausschnitt erneut.
 Wählen Sie bei jeder Frage a, b oder c.
@@ -161,7 +161,7 @@ Wählen Sie bei jeder Frage a, b oder c.
 4. Der Autor / die Autorin nennt zwei Bedingungen …
    a) Geld + Freunde · b) Sprachkompetenz + ein zuhörendes
    Gegenüber · c) Pass + Arbeit.
-5. Das Beispiel „Amt, Arzt, Esstisch, Büro" steht für …
+5. Das Beispiel „Amt, Arzt, Esstisch, Büro“ steht für …
    a) alltägliche Aushandlungsorte · b) bürokratische Hürden · c)
    die vier Lebensbereiche laut Gesetz.
 6. Der Text richtet sich eher an …
@@ -183,11 +183,11 @@ Prüfungsvorschau 18'.
 
 ## Häufige Stolperfallen
 
-- **„Migrant:in"** ist Oberbegriff; wertend wird es erst durch
-  den Kontext. Vorsicht mit **„Ausländer:in"** — juristisch, oft
+- **„Migrant:in“** ist Oberbegriff; wertend wird es erst durch
+  den Kontext. Vorsicht mit **„Ausländer:in“** — juristisch, oft
   nicht mehr neutral.
-- **„Integration"** ist normativ — manche Autor:innen bevorzugen
-  „Teilhabe".
+- **„Integration“** ist normativ — manche Autor:innen bevorzugen
+  „Teilhabe“.
 - **Gegensatzpaare** lassen sich stilistisch überwinden, statt
   sie zu bestätigen.
 
@@ -195,4 +195,4 @@ Prüfungsvorschau 18'.
 
 - **Der Freitag — Migrationsdebatte**:
   <https://www.freitag.de/>
-- **DW „Zoom In"**: <https://www.dw.com/>
+- **DW „Zoom In“**: <https://www.dw.com/>

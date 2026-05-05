@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Hören, Teil 4"
+title: "GER-Modellprüfung B1 — Hören, Teil 4"
 subtitle: "Einheit 12 · Zukunftsvisionen · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -22,21 +22,21 @@ Aussage-zu-Person bei Radiosendung / Podcast, zweimaliges
 Hören). Transkript in Einheit 12, Input A.
 :::
 
-Sie hören den Podcast **„Morgen ist auch noch ein Tag"** mit
+Sie hören den Podcast **„Morgen ist auch noch ein Tag“** mit
 vier Gästen: Milos, Noa, Dr. Lenz, Herr Malik. Ordnen Sie die
 Aussagen zu: **M = Milos · N = Noa · L = Dr. Lenz · K = Malik
 · – = passt zu niemandem.**
 
 |   | Aussage                                                           | M | N | L | K | – |
 |---|-------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|
-| 1 | „Hubs an kleinen Orten machen das Pendeln anders."               | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 2 | „Stabile Beziehungen sind schwerer unter Mobilität."             | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 3 | „Videosprechstunden ersetzen Hausärzt:innen nicht vollständig."  | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 4 | „Wenn Medien Fakten und Meinung trennen, wird die Zukunft besser."| ☐ | ☐ | ☐ | ☐ | ☐ |
-| 5 | „Mobilität wird für jüngere Menschen Normalität."                | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 6 | „Hausärzt:innen vor Ort bleiben wichtig."                        | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 7 | „Automatisierung wird alle Arbeitsplätze ersetzen."              | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 8 | „2040 fahren wir vielleicht einmal pro Woche in die Stadt."      | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 1 | „Hubs an kleinen Orten machen das Pendeln anders.“               | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 2 | „Stabile Beziehungen sind schwerer unter Mobilität.“             | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 3 | „Videosprechstunden ersetzen Hausärzt:innen nicht vollständig.“  | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 4 | „Wenn Medien Fakten und Meinung trennen, wird die Zukunft besser.“| ☐ | ☐ | ☐ | ☐ | ☐ |
+| 5 | „Mobilität wird für jüngere Menschen Normalität.“                | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 6 | „Hausärzt:innen vor Ort bleiben wichtig.“                        | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 7 | „Automatisierung wird alle Arbeitsplätze ersetzen.“              | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 8 | „2040 fahren wir vielleicht einmal pro Woche in die Stadt.“      | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## Bewertungskriterien
 

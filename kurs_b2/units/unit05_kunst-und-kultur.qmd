@@ -1,6 +1,6 @@
 ---
 title: "Einheit 5 — Kunst und Kultur: Ausstellung besprechen"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Hören"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Hören"
 cefr_level: "B2"
 unit_nr: 5
 slug: "kunst-und-kultur"
@@ -32,13 +32,13 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 3 (Radio-Diskussion, Zuordnung
-„wer sagt was").
+Prüfungsmodul **Hören** — Teil 3 (Radio-Diskussion, Zuordnung
+„wer sagt was“).
 
 ## Einstiegsgeschichte
 
 Ausstellung im Leopold Museum, Wien: *„Frauen der Wiener
-Moderne: Wiederentdeckt."* Im ORF-Kulturradio diskutieren drei
+Moderne: Wiederentdeckt.“* Im ORF-Kulturradio diskutieren drei
 Personen: **die Kuratorin Dr. Hübner**, **der Kritiker Ritter**,
 und **die Besucherin Luisa**.
 
@@ -89,16 +89,16 @@ und **die Besucherin Luisa**.
 **Aufgabe 1 — Zur Diskussion.** Wer sagt was? (H = Hübner · R =
 Ritter · L = Luisa)
 
-1. „Die Hängung ist zu dicht."
-2. „Wir zeigen 84 Werke aus Privatsammlungen."
-3. „Mir hat Biografisches gefehlt."
-4. „Der Kanon hat diese Frauen vergessen."
+1. „Die Hängung ist zu dicht.“
+2. „Wir zeigen 84 Werke aus Privatsammlungen.“
+3. „Mir hat Biografisches gefehlt.“
+4. „Der Kanon hat diese Frauen vergessen.“
 
 **Aufgabe 2 — Kritik höflich formulieren.** Wie klingt
 **konstruktive** Kritik? Formulieren Sie um:
 
-- „Die Hängung ist schlecht." →
-- „Der Katalog ist zu oberflächlich." →
+- „Die Hängung ist schlecht.“ →
+- „Der Katalog ist zu oberflächlich.“ →
 
 **Aufgabe 3 — Rezensions-Bausteine.** Ordnen Sie zu:
 
@@ -109,18 +109,18 @@ D. Empfehlung
 
 Bausätze:
 
-- *„Das Leopold zeigt … Frauen der Wiener Moderne."*
-- *„Besonders stark ist die Konzeption rund um …"*
-- *„Kritisch anzumerken bleibt die dichte Hängung."*
-- *„Empfehlenswert für alle, die …"*
+- *„Das Leopold zeigt … Frauen der Wiener Moderne.“*
+- *„Besonders stark ist die Konzeption rund um …“*
+- *„Kritisch anzumerken bleibt die dichte Hängung.“*
+- *„Empfehlenswert für alle, die …“*
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
 **Aufgabe 1.** 1 = R · 2 = H · 3 = L · 4 = H.
 
 **Aufgabe 2.** *„Die Hängung wirkt auf mich dicht; einige Werke
-brauchen mehr Raum."* / *„Der Katalog könnte die biografische
-Seite ausführlicher behandeln."*
+brauchen mehr Raum.“* / *„Der Katalog könnte die biografische
+Seite ausführlicher behandeln.“*
 
 **Aufgabe 3.** A/B/C/D passen in gleicher Reihenfolge.
 
@@ -143,17 +143,17 @@ Podcasts. Enthalten:
 - [ ] Ich benutze Wortschatz zur Kulturbesprechung.
 - [ ] Ich schreibe eine 120-Wörter-Rezension.
 
-## Prüfungsbeispiel — Goethe B2 Hören, Teil 3
+## Prüfungsbeispiel — GER B2 Hören, Teil 3
 
 **Aufgabenstellung:** Sie hören die Radio-Diskussion (siehe Input
 A) einmal. Ordnen Sie sechs Aussagen den Personen H / R / L zu.
 
-1. „Wir haben den Zeitrahmen bewusst schmal gehalten." → H
-2. „Manche Werke brauchen Luft." → R
-3. „Der Katalog liefert den Alltagsaspekt." → H
-4. „Die Audiotour war hilfreich." → L
-5. „Viele dieser Malerinnen wurden systematisch vergessen." → H
-6. „Die Konzeption ist stark, die Hängung nicht." → R
+1. „Wir haben den Zeitrahmen bewusst schmal gehalten.“ → H
+2. „Manche Werke brauchen Luft.“ → R
+3. „Der Katalog liefert den Alltagsaspekt.“ → H
+4. „Die Audiotour war hilfreich.“ → L
+5. „Viele dieser Malerinnen wurden systematisch vergessen.“ → H
+6. „Die Konzeption ist stark, die Hängung nicht.“ → R
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 1 = H · 2 = R · 3 = H · 4 = L · 5 = H · 6 = R.
@@ -170,12 +170,12 @@ Prüfungsvorschau 14'.
 
 ## Häufige Stolperfallen
 
-- **„Rezension" (f.) ≠ „Rezept":** Rezension = Kritik, Rezept =
+- **„Rezension“ (f.) ≠ „Rezept“:** Rezension = Kritik, Rezept =
   Anweisung/Verordnung.
-- **„ebenbürtig"** = gleichrangig; oft im Kultur-Kontext.
-- **„Kanon"** = etablierte Liste, z. B. Literaturkanon.
+- **„ebenbürtig“** = gleichrangig; oft im Kultur-Kontext.
+- **„Kanon“** = etablierte Liste, z. B. Literaturkanon.
 
 ## Weiterführende Materialien
 
-- **Ö1 „Kunst und Kulturmagazin"**.
+- **Ö1 „Kunst und Kulturmagazin“**.
 - **Leopold Museum online**: <https://www.leopoldmuseum.org/>

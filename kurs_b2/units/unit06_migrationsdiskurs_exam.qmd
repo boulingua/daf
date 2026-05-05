@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Lesen, Teil 3"
+title: "GER-Prüfung B2 — Lesen, Teil 3"
 subtitle: "Einheit 6 · Migrationsdiskurs · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -41,7 +41,7 @@ a, b oder c.
 **4.** Zwei genannte Bedingungen sind …
 - [ ] a) Geld + Freunde · b) Sprachkompetenz + ein zuhörendes Gegenüber · c) Pass + Arbeit
 
-**5.** „Amt, Arzt, Esstisch, Büro" stehen für …
+**5.** „Amt, Arzt, Esstisch, Büro“ stehen für …
 - [ ] a) alltägliche Aushandlungsorte · b) bürokratische Hürden · c) gesetzliche Lebensbereiche
 
 **6.** Der Text richtet sich an …

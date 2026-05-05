@@ -6,11 +6,9 @@ title: "Start"
 DAF · ERSTE SCHRITTE
 :::
 
-# Start — wie diese Seite zu lesen ist
-
 Diese Seite richtet sich an zwei Gruppen gleichzeitig: Lehrende,
 die nach Material für ihre Lerngruppen suchen, und Lernende, die
-sich auf die Goethe-Zertifikate A1–C1 vorbereiten. Der Aufbau
+sich auf die Prüfungen des Gemeinsamen europäischen Referenzrahmens („GER“) A1–C1 vorbereiten. Der Aufbau
 funktioniert für beide.
 
 ## Für Lehrende
@@ -23,8 +21,8 @@ funktioniert für beide.
    Reveal.js-Foliensatz (zum Präsentieren). Links auf beide
    Versionen stehen oben in der Einheit.
 3. **Prüfungsbeispiel als PDF ausdrucken.** Jede Einheit enthält
-   eine Goethe-Modellprüfungsaufgabe, die als eigenständiges PDF
-   mit Erwartungshorizont und Bewertungsraster bereitsteht.
+   eine GER-Modellprüfungsaufgabe, die als eigenständiges PDF
+   mit Bewertungsraster mit Musterantworten („Erwartungshorizont“) und Bewertungsraster bereitsteht.
 4. **Arbeitsblatt-PDF** ist vorerst ein Platzhalter — echte
    Inhalte folgen iterativ. Die Dateipfade sind kanonisch, damit
    Aktualisierungen keine Linkbrüche erzeugen.
@@ -33,7 +31,7 @@ funktioniert für beide.
 
 1. **Selbsttest mit der GER-Globalskala.** Auf jeder Kurs-
    Startseite (z. B. [A1](kurs_a1/index.qmd)) die
-   „Ich kann"-Aussagen lesen. Passen drei von fünf? Dann ist das
+   „Ich kann“-Aussagen lesen. Passen drei von fünf? Dann ist das
    die richtige Stufe.
 2. **Einheit 1 versuchen.** Wenn die Einstiegsgeschichte zu leicht
    ist, eine Stufe höher; wenn sie schwierig ist, eine Stufe
@@ -42,9 +40,9 @@ funktioniert für beide.
    Reflexion. Die Lösungen zum Üben-Abschnitt stehen in einem
    Klappblock.
 4. **Prüfung simulieren.** Jedes Prüfungsbeispiel am Ende einer
-   Einheit lässt sich wie eine echte Goethe-Modulprüfung ablegen
+   Einheit lässt sich wie ein echtes Prüfungsmodul ablegen
    (Zeit stoppen, Hilfsmittel beiseite). Vergleich mit dem
-   Erwartungshorizont folgt.
+   Bewertungsraster folgt.
 
 ## Was die Symbole bedeuten
 
@@ -60,12 +58,12 @@ funktioniert für beide.
 | Artikel durchlesen          | 30–45 Minuten    |
 | Foliensatz präsentieren     | 60–90 Minuten (je nach Gruppeninteraktion) |
 | Übungsabschnitt bearbeiten  | 20–40 Minuten    |
-| Prüfungsbeispiel simulieren | je nach Modul (siehe [Goethe-Formate](goethe_formate.qmd)) |
+| Prüfungsbeispiel simulieren | je nach Modul (siehe [Prüfungsformate](goethe_formate.qmd)) |
 
 ## Nächste Schritte
 
 - [Vollständige Übersicht aller 60 Einheiten](uebersicht.qmd)
-- [Details zu den Goethe-Formaten A1–C1](goethe_formate.qmd)
+- [Details zu den Prüfungsformaten A1–C1](goethe_formate.qmd)
 - [Lernstrategien (Anhang)](anhaenge/lernstrategien.qmd)
 - [Glossar](anhaenge/glossar.qmd)
 

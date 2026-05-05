@@ -70,7 +70,7 @@ Site; diese Literaturliste ist die Primärquelle.
 
 ## Authentische Medienquellen (nicht reproduziert, verlinkt)
 
-- **Deutsche Welle — „Nicos Weg"**
+- **Deutsche Welle — „Nicos Weg“**
   <https://learngerman.dw.com/de/nicos-weg/c-36519687>
 - **Goethe-Institut — kostenlose Übungen**
   <https://www.goethe.de/de/spr/ueb.html>
@@ -85,7 +85,7 @@ Site; diese Literaturliste ist die Primärquelle.
 
 Im Sinne der Transparenz: **nicht** in die Einheiten eingeflossen
 sind Hueber, Klett, Cornelsen, Schubert, telc, Pons — weder
-direkt noch „inspired by". Vergleichende Recherche in diesen
+direkt noch „inspired by“. Vergleichende Recherche in diesen
 Werken hat stattgefunden, um typische didaktische Progressionen
 nachzuvollziehen; der Text jeder Einheit ist jedoch ausschließlich
 von S. Le Boulanger verfasst.

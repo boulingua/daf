@@ -1,6 +1,6 @@
 ---
 title: "Einheit 8 — Umweltpolitik: CO₂-Preis und Verteilungsfragen"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Schreiben"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben"
 cefr_level: "B2"
 unit_nr: 8
 slug: "umweltpolitik"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 2 (halb-formelle Mitteilung /
+Prüfungsmodul **Schreiben** — Teil 2 (halb-formelle Mitteilung /
 Stellungnahme).
 
 ## Einstiegsgeschichte
@@ -60,7 +60,7 @@ die Debatte nüchtern zusammenfasst — ohne zu werten.
 >
 > Kritiker der Bundesregierung bemängeln: die Kosten werden an
 > Verbraucher:innen weitergegeben, aber die versprochene
-> Rückzahlung in Form eines „Klimageldes" fehlt. Die
+> Rückzahlung in Form eines „Klimageldes“ fehlt. Die
 > Bundesregierung argumentiert, der Haushalt sei zurzeit zu
 > angespannt, um eine direkte Pro-Kopf-Rückzahlung zu beginnen.
 >
@@ -76,11 +76,11 @@ die Debatte nüchtern zusammenfasst — ohne zu werten.
 
 | Satz                                                  | F / M        |
 |-------------------------------------------------------|--------------|
-| „Der CO₂-Preis beträgt 2024 45 € pro Tonne."          | Fakt         |
-| „Kritiker bemängeln, das Klimageld fehle."            | Fakt über eine Meinung |
-| „Der Preis ist ein stumpfes Werkzeug."                | Meinung (markiert) |
-| „Der Preis belastet niedrige Einkommen stärker."      | Tendenziell Meinung, statistisch diskutierbar |
-| „Das Klimageld soll laut Koalitionsvertrag kommen."   | Fakt         |
+| „Der CO₂-Preis beträgt 2024 45 € pro Tonne.“          | Fakt         |
+| „Kritiker bemängeln, das Klimageld fehle.“            | Fakt über eine Meinung |
+| „Der Preis ist ein stumpfes Werkzeug.“                | Meinung (markiert) |
+| „Der Preis belastet niedrige Einkommen stärker.“      | Tendenziell Meinung, statistisch diskutierbar |
+| „Das Klimageld soll laut Koalitionsvertrag kommen.“   | Fakt         |
 
 ## 3. Üben
 
@@ -89,8 +89,8 @@ Einstufung jedes Satzes.
 
 **Aufgabe 2 — Paraphrase.** Formulieren Sie neutral um:
 
-1. „Der CO₂-Preis ist eine Belastung für die Mittelschicht."
-2. „Ohne Klimageld ist der Preis unzumutbar."
+1. „Der CO₂-Preis ist eine Belastung für die Mittelschicht.“
+2. „Ohne Klimageld ist der Preis unzumutbar.“
 
 **Aufgabe 3 — Stellungnahme-Bausteine.** Ordnen Sie:
 
@@ -103,8 +103,8 @@ E. Ausblick auf Lösung.
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
 **Aufgabe 1.** Individuelle Markierung mit Hinweis, welche
-Aussagen als Meinungen markiert sind (Signalwörter wie *„halte",
-„bemängeln", „geteilte Expert:innen"*).
+Aussagen als Meinungen markiert sind (Signalwörter wie *„halte“,
+„bemängeln“, „geteilte Expert:innen“*).
 
 **Aufgabe 2.** Muster:
 1. *Die Auswirkungen des CO₂-Preises auf mittlere Einkommen sind
@@ -119,7 +119,7 @@ Aussagen als Meinungen markiert sind (Signalwörter wie *„halte",
 ## 4. Anwenden
 
 **Schreibaufgabe (B2, ca. 120 Wörter):** Verfassen Sie eine
-Stellungnahme zum Thema *„CO₂-Preis ohne Klimageld — gerecht?"*.
+Stellungnahme zum Thema *„CO₂-Preis ohne Klimageld — gerecht?“*.
 
 Bauen Sie ein:
 
@@ -134,7 +134,7 @@ Bauen Sie ein:
 - [ ] Ich paraphrasiere wertende Aussagen neutral.
 - [ ] Ich schreibe 120 Wörter mit abwägender Struktur.
 
-## Prüfungsbeispiel — Goethe B2 Schreiben, Teil 2
+## Prüfungsbeispiel — GER B2 Schreiben, Teil 2
 
 **Aufgabenstellung:** Sie schreiben einer Abgeordneten eine
 halb-formelle Mail (ca. 100 Wörter):
@@ -155,11 +155,11 @@ Prüfungsvorschau 16'.
 
 ## Häufige Stolperfallen
 
-- **„der Preis / die Preise"** vs. **„das Preis(gericht)"** —
+- **„der Preis / die Preise“** vs. **„das Preis(gericht)“** —
   Kontext.
-- **„Klimadividende / Klimageld"** — deutsche Begriffe für die
+- **„Klimadividende / Klimageld“** — deutsche Begriffe für die
   Pro-Kopf-Rückzahlung.
-- **„bemängeln"** + Akkusativ: *bemängeln das Fehlen*.
+- **„bemängeln“** + Akkusativ: *bemängeln das Fehlen*.
 
 ## Weiterführende Materialien
 

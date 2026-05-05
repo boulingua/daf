@@ -1,6 +1,6 @@
 ---
 title: "Einheit 4 — Arbeitswelt im Wandel: KI und Beruf"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Sprechen"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen"
 cefr_level: "B2"
 unit_nr: 4
 slug: "arbeitswelt-im-wandel"
@@ -32,19 +32,19 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1 (Vortrag halten) und Teil 2
+Prüfungsmodul **Sprechen** — Teil 1 (Vortrag halten) und Teil 2
 (Diskussion).
 
 ## Einstiegsgeschichte
 
 **Nihad Kovač**, Kulturmanager, moderiert ein Panel in Berlin:
-*„Wird der Kulturberuf durch KI ersetzt?"* Vier Gäste — aus
+*„Wird der Kulturberuf durch KI ersetzt?“* Vier Gäste — aus
 Journalismus, Übersetzung, Programmierung und Theater — werden
 vier sehr verschiedene Antworten geben.
 
 ## 1. Einstieg
 
-- Welche Berufe werden laut Medien „von KI bedroht"?
+- Welche Berufe werden laut Medien „von KI bedroht“?
 - Welchen Teil Ihres Berufs könnten Sie *nicht* automatisieren
   lassen?
 - Wo ist KI hilfreich, wo lästig?
@@ -56,20 +56,20 @@ vier sehr verschiedene Antworten geben.
 > **Journalismus — Jana:** „Die Recherche beschleunigt sich, das
 > ist ein Segen. Aber wenn KI den Kommentar schreibt, verliert
 > die Zeitung ihre Stimme. Die Grenze ist klar: Fakten sammeln
-> ja, Meinung formulieren nein."
+> ja, Meinung formulieren nein.“
 
 > **Übersetzung — Pavel:** „Für technische Texte nutze ich KI
 > jeden Tag. Literaturübersetzung hingegen bleibt anstrengend
-> persönlich — die Nuance ist nicht berechenbar."
+> persönlich — die Nuance ist nicht berechenbar.“
 
 > **Programmierung — Amira:** „Ich war skeptisch. Heute
 > benutze ich KI als Partnerin beim Debuggen. Ich bin schneller.
 > Was ich vermisse: die Kolleg:innen, mit denen ich früher über
-> Code diskutiert habe."
+> Code diskutiert habe.“
 
 > **Theater — Leo:** „Ein Schauspiel funktioniert, weil etwas
 > Unberechenbares zwischen Menschen passiert. Kein Modell der
-> Welt kann das nachstellen — zumindest nicht jetzt."
+> Welt kann das nachstellen — zumindest nicht jetzt.“
 
 ### B. Argumentations-Werkzeuge (B2)
 
@@ -116,7 +116,7 @@ Ihre eigene Position zur KI in Ihrem Beruf.
 **Vortrag (B2-Sprechen Teil 1, ca. 4 Min):** Bereiten Sie einen
 strukturierten Vortrag vor:
 
-> *„KI wird meinen Beruf verändern — in welche Richtung?"*
+> *„KI wird meinen Beruf verändern — in welche Richtung?“*
 
 Gliederung:
 
@@ -129,7 +129,7 @@ Gliederung:
 Anschließend **Diskussion** zu zweit (B2-Sprechen Teil 2, ca. 5 Min):
 
 > *„KI-Systeme sollten in kulturell-kreativen Berufen eine
-> untergeordnete Rolle spielen."*
+> untergeordnete Rolle spielen.“*
 
 ## 5. Reflexion
 
@@ -137,7 +137,7 @@ Anschließend **Diskussion** zu zweit (B2-Sprechen Teil 2, ca. 5 Min):
 - [ ] Ich strukturiere einen 4-Minuten-Vortrag.
 - [ ] Ich führe eine 5-Minuten-Diskussion mit Argumenten.
 
-## Prüfungsbeispiel — Goethe B2 Sprechen, Teil 1 + 2
+## Prüfungsbeispiel — GER B2 Sprechen, Teil 1 + 2
 
 **Aufgabenstellung:**
 
@@ -145,12 +145,12 @@ Anschließend **Diskussion** zu zweit (B2-Sprechen Teil 2, ca. 5 Min):
 und präsentieren Sie strukturiert:
 
 - A: *„Sollten Universitäten das Nutzen von KI-Tools in
-  Hausarbeiten regulieren?"*
-- B: *„Sollte KI in Bewerbungsverfahren zur Vorauswahl dienen?"*
+  Hausarbeiten regulieren?“*
+- B: *„Sollte KI in Bewerbungsverfahren zur Vorauswahl dienen?“*
 
 **Teil 2 (Diskussion, ca. 5 Min):** Debattieren Sie die These
 
-> *„KI wird die Jobs der Zukunft mehr schaffen als zerstören."*
+> *„KI wird die Jobs der Zukunft mehr schaffen als zerstören.“*
 
 Vertreten Sie je eine Seite (Befürworter / Kritiker) argumentativ.
 
@@ -165,12 +165,12 @@ Prüfungsvorschau 17'.
 
 ## Häufige Stolperfallen
 
-- **„KI"** ist Feminin (*die KI*).
-- **Anglizismen** wie *„promptsen"* vermeiden — B2 benutzt
-  *„(An-)Prompts formulieren"*.
-- **„Lebensmittel"** nicht mit **„Lebenslagen"** verwechseln.
+- **„KI“** ist Feminin (*die KI*).
+- **Anglizismen** wie *„promptsen“* vermeiden — B2 benutzt
+  *„(An-)Prompts formulieren“*.
+- **„Lebensmittel“** nicht mit **„Lebenslagen“** verwechseln.
 
 ## Weiterführende Materialien
 
-- **DW „Made in Germany — Arbeit 4.0"**.
-- **Ö1 „Digital.Leben"**: <https://oe1.orf.at/digital-leben>
+- **DW „Made in Germany — Arbeit 4.0“**.
+- **Ö1 „Digital.Leben“**: <https://oe1.orf.at/digital-leben>

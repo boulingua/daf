@@ -1,6 +1,6 @@
 ---
 title: "Einheit 1 — Medienlandschaft heute"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Lesen"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen"
 cefr_level: "B2"
 unit_nr: 1
 slug: "medienlandschaft-heute"
@@ -32,14 +32,14 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 2 (Sachtext mit Satzeinsetzung) und
+Prüfungsmodul **Lesen** — Teil 2 (Sachtext mit Satzeinsetzung) und
 Teil 4 (Meinungen zuordnen).
 
 ## Einstiegsgeschichte
 
 **Elena Mazzini**, Wissenschaftsjournalistin in Wien, gibt eine
 Workshop-Reihe für DaF-B2-Lernende. Thema heute: *„Nachrichten
-lesen, ohne sich verbraucherisch zu verschlucken."* Sie bringt
+lesen, ohne sich verbraucherisch zu verschlucken.“* Sie bringt
 drei Zeitungsartikel — aus einer Qualitätszeitung, aus einem
 Boulevardblatt, aus einem Fachmagazin. Die Teilnehmenden sollen
 die drei unterscheiden.
@@ -57,16 +57,16 @@ die drei unterscheiden.
 > **a) Qualitätszeitung:** *„Die neue Studie der Universität Wien
 > zeigt, dass Kinder in Großstädten durchschnittlich vier
 > Stunden täglich am Bildschirm verbringen. Die Forscher:innen
-> plädieren für …"*
+> plädieren für …“*
 
 > **b) Boulevardblatt:** *„Unsere Kinder — Zombies vor dem
 > Bildschirm! Mütter sind verzweifelt. Jetzt muss etwas
-> geschehen!"*
+> geschehen!“*
 
 > **c) Fachmagazin:** *„Neue Daten aus einer longitudinalen
 > Studie mit n=2 480 Teilnehmenden legen nahe, dass die
 > mediale Exposition von Kindern zwischen 6 und 12 Jahren
-> signifikant höher liegt als 2019 …"*
+> signifikant höher liegt als 2019 …“*
 
 ### B. Textsorten-Matrix
 
@@ -79,26 +79,26 @@ die drei unterscheiden.
 
 ### C. Rhetorische Mittel (B2)
 
-- **Hyperbel** (Übertreibung): *„Zombies vor dem Bildschirm"*
-- **Rhetorische Frage:** *„Wer kann das noch ertragen?"*
-- **Generalisierung:** *„Alle Mütter sind verzweifelt."*
-- **Fachterminus + Fremdwort:** *„longitudinal, signifikant"*
+- **Hyperbel** (Übertreibung): *„Zombies vor dem Bildschirm“*
+- **Rhetorische Frage:** *„Wer kann das noch ertragen?“*
+- **Generalisierung:** *„Alle Mütter sind verzweifelt.“*
+- **Fachterminus + Fremdwort:** *„longitudinal, signifikant“*
 
 ## 3. Üben
 
 **Aufgabe 1 — Zuordnung.** Ordnen Sie zu (a, b oder c):
 
-1. „Die Daten basieren auf einer Stichprobe von n=2 480."
-2. „Unsere Kinder sind in Gefahr!!!"
-3. „Forscher:innen plädieren für eine regulierte Bildschirmzeit."
-4. „Eltern wissen nicht mehr, was sie tun sollen!"
-5. „Die Methode der Studie: repräsentative Längsschnittstudie."
+1. „Die Daten basieren auf einer Stichprobe von n=2 480.“
+2. „Unsere Kinder sind in Gefahr!!!“
+3. „Forscher:innen plädieren für eine regulierte Bildschirmzeit.“
+4. „Eltern wissen nicht mehr, was sie tun sollen!“
+5. „Die Methode der Studie: repräsentative Längsschnittstudie.“
 
 **Aufgabe 2 — Rhetorik erkennen.** Welches Mittel?
 
-1. „Niemand liest mehr Zeitung."
-2. „Die totale Medienverseuchung unserer Jugend."
-3. „Ist das wirklich der Weg, den wir gehen wollen?"
+1. „Niemand liest mehr Zeitung.“
+2. „Die totale Medienverseuchung unserer Jugend.“
+3. „Ist das wirklich der Weg, den wir gehen wollen?“
 
 **Aufgabe 3 — Eigene Umformulierung.** Schreiben Sie die
 Boulevardzeile **a)** sachlich-nüchtern um:
@@ -133,24 +133,24 @@ seriöse Quelle, die Sie kennen. Präsentieren Sie:
 - [ ] Ich erkenne drei rhetorische Mittel.
 - [ ] Ich halte eine 2-Minuten-Medienkritik.
 
-## Prüfungsbeispiel — Goethe B2 Lesen, Teil 4
+## Prüfungsbeispiel — GER B2 Lesen, Teil 4
 
 **Aufgabenstellung:** Sie lesen fünf kurze Meinungsäußerungen
-zum Thema *„Bildschirmzeit bei Kindern"*. Ordnen Sie jeder
+zum Thema *„Bildschirmzeit bei Kindern“*. Ordnen Sie jeder
 Meinung (1–5) eine Überschrift (a–g) zu. **Zwei Überschriften
 passen nicht.**
 
 ### Meinungen
 
 1. *„Verbote helfen nicht. Entscheidend ist, dass Eltern mit
-   ihren Kindern die Inhalte gemeinsam anschauen."*
+   ihren Kindern die Inhalte gemeinsam anschauen.“*
 2. *„Ohne strikte Zeitlimits verlieren Kinder den Bezug zur
-   Realität."*
+   Realität.“*
 3. *„Die Debatte führt in die Irre — das Problem ist nicht die
-   Bildschirmzeit, sondern die Qualität der Inhalte."*
+   Bildschirmzeit, sondern die Qualität der Inhalte.“*
 4. *„Wir haben selber früher vier Stunden am Tag fern gesehen.
-   Die heutige Panik ist überzogen."*
-5. *„Schulen müssen Medienkompetenz als Pflichtfach etablieren."*
+   Die heutige Panik ist überzogen.“*
+5. *„Schulen müssen Medienkompetenz als Pflichtfach etablieren.“*
 
 ### Überschriften
 
@@ -177,11 +177,11 @@ Prüfungsvorschau 15'.
 
 ## Häufige Stolperfallen
 
-- **„Leser" vs. „Lesende":** Leser:innen zunehmend Standard in
+- **„Leser“ vs. „Lesende“:** Leser:innen zunehmend Standard in
   Qualitätsmedien.
-- **„Quelle" (f.)** vs. **„Qualität" (f.)** — Homöofeminin, oft
+- **„Quelle“ (f.)** vs. **„Qualität“ (f.)** — Homöofeminin, oft
   verwechselt.
-- **„signifikant" (statistisch)** ≠ „wichtig" — B2-Fachterminus.
+- **„signifikant“ (statistisch)** ≠ „wichtig“ — B2-Fachterminus.
 
 ## Weiterführende Materialien
 

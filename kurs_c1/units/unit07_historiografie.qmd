@@ -1,6 +1,6 @@
 ---
 title: "Einheit 7 — Historiografie: Wem gehört das Narrativ?"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Hören"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Hören"
 cefr_level: "C1"
 unit_nr: 7
 slug: "historiografie"
@@ -32,15 +32,15 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 3 ((Radio-)Diskussion mit drei
+Prüfungsmodul **Hören** — Teil 3 ((Radio-)Diskussion mit drei
 Personen, MC-3gl, einmaliges Hören).
 
 ## Einstiegsgeschichte
 
-Eine Folge des Podcasts *„Geschichte verhandelt"* — drei
+Eine Folge des Podcasts *„Geschichte verhandelt“* — drei
 Historiker:innen, eine Moderatorin. Thema: *„Wer schreibt die
-Geschichte der DDR?"* — und allgemein: wer schreibt
-*„unsere"* Geschichte?
+Geschichte der DDR?“* — und allgemein: wer schreibt
+*„unsere“* Geschichte?
 
 ## 1. Einstieg
 
@@ -91,17 +91,17 @@ Geschichte der DDR?"* — und allgemein: wer schreibt
 
 **Aufgabe 1 — MC.** Wer sagt was?
 
-1. „Die Akten sind dieselben — das verändert sich nicht." → V / B / L
-2. „Es gibt kein Ohne-Standpunkt-Erzählen." → V / B / L
-3. „Schweige-Archive sind ebenso Geschichte." → V / B / L
-4. „Standpunkte offenlegen ist Methodik." → V / B / L
+1. „Die Akten sind dieselben — das verändert sich nicht.“ → V / B / L
+2. „Es gibt kein Ohne-Standpunkt-Erzählen.“ → V / B / L
+3. „Schweige-Archive sind ebenso Geschichte.“ → V / B / L
+4. „Standpunkte offenlegen ist Methodik.“ → V / B / L
 
 **Aufgabe 2 — Begriff.** Was ist gemeint?
 
 - *„Mehrere Generationen erzählen die DDR. Wer hört sich
-  durch?"*
-- *„Was nicht in der Akte steht, ist auch Quelle."*
-- *„Die Geschichte vom ‚Wirtschaftswunder' ist ein …"*
+  durch?“*
+- *„Was nicht in der Akte steht, ist auch Quelle.“*
+- *„Die Geschichte vom ‚Wirtschaftswunder' ist ein …“*
 
 **Aufgabe 3 — Eigenes Beispiel.** Nennen Sie ein Meta-Narrativ
 Ihrer Heimat — und einen Aspekt, der darin nicht erzählt wird.
@@ -122,7 +122,7 @@ Schweige-Archiv · 3) Meta-Narrativ.
 **Diskussion (C1, ca. 5 Min):**
 
 > *„Welches Meta-Narrativ Ihrer Heimat würden Sie anders
-> erzählen wollen — und warum?"*
+> erzählen wollen — und warum?“*
 
 Verwenden Sie *Quelle, Narrativ, Standpunkt offenlegen*.
 
@@ -134,20 +134,20 @@ Verwenden Sie *Quelle, Narrativ, Standpunkt offenlegen*.
       Schweige-Archiv*.
 - [ ] Ich nenne ein Meta-Narrativ + Lücke darin.
 
-## Prüfungsbeispiel — Goethe C1 Hören, Teil 3
+## Prüfungsbeispiel — GER C1 Hören, Teil 3
 
 **Aufgabenstellung:** Sie hören die Podcast-Diskussion (Input A)
 einmal. Ordnen Sie acht Aussagen den drei Historiker:innen zu
 oder als Distraktor (–).
 
-1. „Akten sind durch ihre Sammler ausgewählt." → B
-2. „90er Jahre dominierten West-Historiker:innen." → V
-3. „Es gibt kein Ohne-Standpunkt-Erzählen." → L
-4. „Standpunkte offenlegen ist Methodik." → B
-5. „Schweige-Archive sind reine Polemik." → – (Distraktor)
-6. „West-Sozialisierte schreiben nicht neutral." → L
-7. „Heute kommen mehr Stimmen aus DDR-Sozialisation dazu." → V
-8. „Material und Akten sind beliebig austauschbar." → – (Distraktor)
+1. „Akten sind durch ihre Sammler ausgewählt.“ → B
+2. „90er Jahre dominierten West-Historiker:innen.“ → V
+3. „Es gibt kein Ohne-Standpunkt-Erzählen.“ → L
+4. „Standpunkte offenlegen ist Methodik.“ → B
+5. „Schweige-Archive sind reine Polemik.“ → – (Distraktor)
+6. „West-Sozialisierte schreiben nicht neutral.“ → L
+7. „Heute kommen mehr Stimmen aus DDR-Sozialisation dazu.“ → V
+8. „Material und Akten sind beliebig austauschbar.“ → – (Distraktor)
 
 ## Downloads {#downloads}
 
@@ -160,10 +160,10 @@ Prüfungsvorschau 17'.
 
 ## Häufige Stolperfallen
 
-- **„Narrativ" (n.)** ist neutrum.
-- **„Schweige-Archiv"** ist methodisches Konzept (nicht
+- **„Narrativ“ (n.)** ist neutrum.
+- **„Schweige-Archiv“** ist methodisches Konzept (nicht
   Stille = Schweigen + Archiv-Akte).
-- **„Standpunkt offenlegen"** ≠ Subjektivität als Schwäche.
+- **„Standpunkt offenlegen“** ≠ Subjektivität als Schwäche.
 
 ## Weiterführende Materialien
 

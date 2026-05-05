@@ -6,24 +6,22 @@ title: "Über"
 DAF · BOULINGUA
 :::
 
-# Über diese Seite
-
 Diese Seite ist die **DaF-Arbeit** (Deutsch als Fremdsprache) von
 **S. Le Boulanger**. Sie versammelt didaktische Einheiten und
-Prüfungsbeispiele entlang der GER-Stufen A1, A2, B1, B2 und C1 —
+Prüfungsbeispiele entlang der Stufen des Gemeinsamen europäischen Referenzrahmens („GER“) A1, A2, B1, B2 und C1 —
 insgesamt 60 Einheiten — und stellt sie anderen Lehrenden und
 Lernenden offen zur Verfügung.
 
 ## Autorin
 
 S. Le Boulanger ist Lehrende mit jahrelanger Erfahrung in
-DaF-Unterricht auf allen CEFR-Stufen. Die Materialien dieser Seite
+DaF-Unterricht auf allen Stufen des Gemeinsamen europäischen Referenzrahmens („CEFR“). Die Materialien dieser Seite
 sind aus dem Unterricht gewachsen: jede Einheit wurde zuerst in
 einer realen Lerngruppe getestet, dann für die Veröffentlichung
 aufbereitet.
 
 Alle Inhalte — Texte, Transkripte, Übungen, Prüfungsaufgaben,
-Lösungen, Rubrics — stammen von S. Le Boulanger und sind
+Lösungen, Bewertungskriterien („Rubrics“) — stammen von S. Le Boulanger und sind
 CC-BY-SA 4.0 lizenziert (siehe `LICENSE-content` im Repository).
 Der zugrundeliegende Website-Code steht unter MIT (`LICENSE`).
 
@@ -36,17 +34,17 @@ einem Format, das sich remixen, lokalisieren und erweitern lässt.
 
 ## Was diese Seite nicht ist
 
-- **Keine offizielle Goethe-Institut-Seite.** Die Prüfungsbeispiele
+- **Keine offizielle Prüfungsanbieter-Seite.** Die Prüfungsbeispiele
   orientieren sich formal an den öffentlich dokumentierten
-  Goethe-Formaten A1–C1, sind aber eigene didaktische Adaptionen
+  Prüfungsformaten A1–C1, sind aber eigene didaktische Adaptionen
   der Autorin und stehen in keinem offiziellen Zusammenhang mit
-  dem Goethe-Institut e. V.
+  dem Prüfungsanbieter
 - **Keine Reproduktion kommerzieller Lehrwerke.** Keine Inhalte
   aus Hueber, Klett, Cornelsen, Schubert, telc, Pons — auch nicht
-  „inspired by". Originaltexte der Autorin.
+  „inspired by“. Originaltexte der Autorin.
 - **Keine vollständige Modellprüfungssimulation.** Jede Einheit
-  vertieft ein Modul; eine echte Goethe-Prüfung prüft alle vier
-  Module in einem Zeitblock. Dafür sind die Goethe-Institut-
+  vertieft ein Modul; eine echte GER-Prüfung prüft alle vier
+  Module in einem Zeitblock. Dafür sind die Prüfungsanbieter-
   Modellsätze die primäre Quelle.
 
 ## Kontakt
@@ -57,4 +55,4 @@ Fehlermeldungen, Vorschläge für Ressourcen, Lizenzfragen: siehe
 
 ---
 
-*Siehe auch: [Start für neue Lernende](start.qmd) · [Übersicht](uebersicht.qmd) · [Goethe-Formate](goethe_formate.qmd).*
+*Siehe auch: [Start für neue Lernende](start.qmd) · [Übersicht](uebersicht.qmd) · [Prüfungsformate](goethe_formate.qmd).*

@@ -6,8 +6,6 @@ title: "Danksagung"
 DAF · DANKSAGUNG
 :::
 
-# Danksagung
-
 Diese Seite ist aus Unterrichtsarbeit entstanden — aus
 Lerngruppen, Kolleg:innenrunden, Tool-Ketten und offenen
 Dokumentationsquellen. Diese Seite möchte dem ausdrücklich Rechnung
@@ -21,8 +19,8 @@ Texte sind kopiert — aber viele Lehrentscheidungen sind von ihnen
 inspiriert:
 
 - **Scott Thornbury** — *An A–Z of ELT*, *About Language*, Blog
-  „An A–Z of ELT". Seine Haltung zum Text im Klassenzimmer
-  („text first, rule later") liegt dem Input-Schritt jeder Einheit
+  „An A–Z of ELT“. Seine Haltung zum Text im Klassenzimmer
+  („text first, rule later“) liegt dem Input-Schritt jeder Einheit
   zugrunde.
 - **Jim Scrivener** — *Learning Teaching*. Kategorisierung von
   Übungstypen, klassische ELT-Techniken in DaF-Adaptionen.
@@ -63,7 +61,7 @@ inspiriert:
 
 ## Strukturelle Inspiration
 
-Die Architektur „eine `.qmd`-Quelle, zwei Formate" stammt aus der
+Die Architektur „eine `.qmd`-Quelle, zwei Formate“ stammt aus der
 offiziellen Quarto-Dokumentation für Reveal.js-Parallelrendering.
 Das Farbschema `flatly`/`darkly` mit Override ist die
 konventionelle Bootswatch-Kombination; die konkrete Palette
@@ -83,6 +81,6 @@ Namen nur auf expliziten Wunsch.
 Der Website-Code steht unter **MIT** (`LICENSE` im Repository),
 die didaktischen und kuratorischen Inhalte unter
 **CC-BY-SA 4.0** (`LICENSE-content`). Zitate aus dem
-GER-Begleitband und aus Goethe-Institut-Publikationen bleiben
+GER-Begleitband und aus Prüfungsanbieter-Publikationen bleiben
 Eigentum der jeweiligen Rechteinhaber und werden im Rahmen von
 Zitatrecht und Bildungszweck verwendet.

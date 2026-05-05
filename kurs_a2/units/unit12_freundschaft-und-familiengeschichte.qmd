@@ -1,6 +1,6 @@
 ---
 title: "Einheit 12 — Freundschaft und Familiengeschichte"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Schreiben"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben"
 cefr_level: "A2"
 unit_nr: 12
 slug: "freundschaft-und-familiengeschichte"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 2 (halb-offizielle Mitteilung
+Prüfungsmodul **Schreiben** — Teil 2 (halb-offizielle Mitteilung
 zur Handlungsregulierung / Danksagung).
 
 ## Einstiegsgeschichte
@@ -132,9 +132,9 @@ eine kurze Dankesmitteilung:
 Mit 12 Einheiten haben Sie A2 abgedeckt: **Arbeitssuche, Wohnung,
 Arzt, Amt, Reise, Hobby, Fest, Perfekt, Zukunftspläne, Medien,
 Umwelt, Familiengeschichte.** Das entspricht der Zielkompetenz
-des Goethe-Zertifikat A2.
+des GER-Prüfung A2.
 
-## Prüfungsbeispiel — Goethe A2 Schreiben, Teil 2
+## Prüfungsbeispiel — GER A2 Schreiben, Teil 2
 
 **Aufgabe:** Sie haben eine neue Stelle bekommen. Ihre Chefin
 hat Ihnen dabei geholfen. Schreiben Sie ihr eine Nachricht
@@ -155,12 +155,12 @@ Prüfungsvorschau 7'.
 
 ## Häufige Stolperfallen
 
-- **„weil" + Verbletzt**: *… weil meine Tante hier **lebt**.*
-- **„denn" + Verbzweit**: *… denn sie **lebt** hier.*
-- **„aber" kann Hauptsatzverbindung sein**: *Ich bleibe, aber
+- **„weil“ + Verbletzt**: *… weil meine Tante hier **lebt**.*
+- **„denn“ + Verbzweit**: *… denn sie **lebt** hier.*
+- **„aber“ kann Hauptsatzverbindung sein**: *Ich bleibe, aber
   nicht lange.*
 
 ## Weiterführende Materialien
 
-- **DW „Deutsch lernen"**: <https://learngerman.dw.com/>
-- **Goethe A2-Übungen**: <https://www.goethe.de/de/spr/ueb/a2.html>
+- **DW „Deutsch lernen“**: <https://learngerman.dw.com/>
+- **GER A2-Übungen**: <https://www.goethe.de/de/spr/ueb/a2.html>

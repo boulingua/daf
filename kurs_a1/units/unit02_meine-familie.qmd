@@ -40,18 +40,18 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 1: Kurznotizen verstehen.
+Prüfungsmodul **Lesen** — Teil 1: Kurznotizen verstehen.
 
 ## Einstiegsgeschichte
 
 Ana zeigt Luka ein Foto. Familie auf einer Bank in Lissabon.
 
-> Ana: „Das ist meine Familie."
+> Ana: „Das ist meine Familie.“
 >
-> Luka: „Wer ist das?"
+> Luka: „Wer ist das?“
 >
 > Ana: „Das sind meine Eltern: mein Vater und meine Mutter. Das
-> ist mein Bruder Miguel."
+> ist mein Bruder Miguel.“
 
 ## 1. Einstieg
 
@@ -183,7 +183,7 @@ Prüfungsvorschau 5'.
 
 - **mein/meine:** *mein* + maskulin/neutrum; *meine* +
   feminin/Plural.
-- **„die Eltern"** nur Plural, kein Singular.
+- **„die Eltern“** nur Plural, kein Singular.
 - **Adjektiv-Deklination** kommt auf A2.
 
 ## Weiterführende Materialien

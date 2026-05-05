@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Hören, Teil 4 (Zuordnung)"
+title: "GER-Modellprüfung B1 — Hören, Teil 4 (Zuordnung)"
 subtitle: "Einheit 4 · Gesundheitssystem im DACH-Raum · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -22,8 +22,8 @@ Meinungen / Aussagen zu Sprecher:innen nach zweimaligem Hören).
 Transkript und Aussagen original.
 :::
 
-Sie hören das Podcast-Interview „Sprechstunde" mit Frau Dr. Lenz
-(Transkript in Einheit 4, Abschnitt „Input A"). Ordnen Sie die
+Sie hören das Podcast-Interview „Sprechstunde“ mit Frau Dr. Lenz
+(Transkript in Einheit 4, Abschnitt „Input A“). Ordnen Sie die
 folgenden acht Aussagen einem der drei Länder zu: **DE =
 Deutschland · AT = Österreich · CH = Schweiz**. Eine Aussage
 passt zu **keinem** der drei Länder (Distraktor).

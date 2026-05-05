@@ -1,6 +1,6 @@
 ---
 title: "Einheit 3 — Gesellschaftliche Debatten: Generationengerechtigkeit"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Schreiben"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben"
 cefr_level: "B2"
 unit_nr: 3
 slug: "gesellschaftliche-debatten"
@@ -28,19 +28,19 @@ format:
 
 - Ich schreibe einen 150-Wörter-Forumsbeitrag mit These,
   Begründung und Beispiel.
-- Ich integriere ein Gegenargument („Zwar … aber …").
+- Ich integriere ein Gegenargument („Zwar … aber …“).
 - Ich unterscheide konzessive und adversative Konnektoren.
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (Meinungsäußerung,
+Prüfungsmodul **Schreiben** — Teil 1 (Meinungsäußerung,
 Forumsbeitrag, ca. 150 Wörter).
 
 ## Einstiegsgeschichte
 
 **Kjell Baumann**, NGO-Mitarbeiter Köln, arbeitet im Projekt
-*„Generationen im Gespräch"*. Er hat einen Forumsbeitrag zum
-Thema „Rente und junge Leute" vorgelegt, den wir zerlegen —
+*„Generationen im Gespräch“*. Er hat einen Forumsbeitrag zum
+Thema „Rente und junge Leute“ vorgelegt, den wir zerlegen —
 nicht, um zuzustimmen oder zu widersprechen, sondern um die
 **Struktur** zu sehen.
 
@@ -56,7 +56,7 @@ nicht, um zuzustimmen oder zu widersprechen, sondern um die
 
 > Die Debatte um Rentenkürzungen wird oft als Kampf der
 > Generationen geführt. Das halte ich für irreführend. Die Frage
-> ist nicht „alt gegen jung", sondern „wer zahlt wofür".
+> ist nicht „alt gegen jung“, sondern „wer zahlt wofür“.
 >
 > Zwar ist richtig, dass heute deutlich mehr Menschen das Rentenalter
 > erreichen als vor 30 Jahren. Die Finanzierung wird enger.
@@ -71,9 +71,9 @@ nicht, um zuzustimmen oder zu widersprechen, sondern um die
 >
 > Das klingt nach viel, ist aber weniger radikal als das, was das
 > aktuelle System gerade mit der Jugend macht. Wenn wir die
-> Debatte auf „alt gegen jung" reduzieren, verlieren beide.
+> Debatte auf „alt gegen jung“ reduzieren, verlieren beide.
 
-— *Kjell Baumann, Forumsbeitrag, Zeitung „Stadtspiegel Köln"*
+— *Kjell Baumann, Forumsbeitrag, Zeitung „Stadtspiegel Köln“*
 
 ### B. Struktur-Analyse
 
@@ -106,8 +106,8 @@ Funktion (B)? Markieren Sie im Text A die fünf Bausteine.
 3. Junge Leute verdienen weniger; ___ zahlen sie dieselben
    Beiträge.
 
-**Aufgabe 3 — Umformulieren.** *„Zwar … aber …"* in *„Obwohl …,
-…"* oder *„Auch wenn …, …"*:
+**Aufgabe 3 — Umformulieren.** *„Zwar … aber …“* in *„Obwohl …,
+…“* oder *„Auch wenn …, …“*:
 
 - *Zwar ist die Rente wichtig, aber die Jugendfinanzen müssen
   auch stimmen.*
@@ -131,7 +131,7 @@ eigenen Forumsbeitrag zur Frage:
 
 > *„Sollten junge Leute einen bezahlten Gesellschaftsdienst
 > (z. B. Pflegehilfe, Ökodienst, Bildungsdienst) leisten
-> dürfen / sollen / müssen?"*
+> dürfen / sollen / müssen?“*
 
 Bauen Sie enthalten:
 
@@ -147,13 +147,13 @@ Bauen Sie enthalten:
 - [ ] Ich benutze konzessive Konnektoren korrekt.
 - [ ] Ich schreibe 150 Wörter argumentativ auf B2-Niveau.
 
-## Prüfungsbeispiel — Goethe B2 Schreiben, Teil 1
+## Prüfungsbeispiel — GER B2 Schreiben, Teil 1
 
 **Aufgabenstellung:** Verfassen Sie in einem Online-Forum einen
 **Kommentar** zu folgender These (**ca. 150 Wörter**):
 
 > *„Junge Erwachsene sollten verpflichtend ein soziales Jahr
-> absolvieren, bevor sie ins Berufsleben starten."*
+> absolvieren, bevor sie ins Berufsleben starten.“*
 
 Setzen Sie vier **Sprachfunktionen** um:
 
@@ -173,13 +173,13 @@ Prüfungsvorschau 14'.
 
 ## Häufige Stolperfallen
 
-- **„zwar" ohne „aber"** wirkt unfertig. Immer als Tandem denken.
-- **„trotz" + Genitiv** im geschriebenen Deutsch: *trotz des
+- **„zwar“ ohne „aber“** wirkt unfertig. Immer als Tandem denken.
+- **„trotz“ + Genitiv** im geschriebenen Deutsch: *trotz des
   Problems*; umgangssprachlich auch mit Dativ.
-- **„denn" steht im Hauptsatz** (Verbzweitstellung) — anders als
-  „weil".
+- **„denn“ steht im Hauptsatz** (Verbzweitstellung) — anders als
+  „weil“.
 
 ## Weiterführende Materialien
 
 - **Der Standard Meinungsforum (AT)**.
-- **Zeit Online „Streit"**: <https://www.zeit.de/thema/streit>
+- **Zeit Online „Streit“**: <https://www.zeit.de/thema/streit>

@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Sprechen, Teil 2+3"
+title: "GER-Modellprüfung B1 — Sprechen, Teil 2+3"
 subtitle: "Einheit 10 · Politik und Teilhabe · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:

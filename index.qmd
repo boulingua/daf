@@ -5,16 +5,14 @@ page-layout: full
 
 ::: {.hero-block}
 ::: {.hero-kicker}
-DaF · GER A1–C1 · Goethe-Formate
+DaF · GER A1–C1 · Prüfungsformate
 :::
-
-# Deutsch als Fremdsprache — von A1 bis C1
 
 ::: {.lead}
 Ein vollständiges DaF-Kurscurriculum entlang des Gemeinsamen
-Europäischen Referenzrahmens. Fünf GER-Stufen zu je zwölf
+Europäischen Referenzrahmens („GER“). Fünf GER-Stufen zu je zwölf
 Einheiten — 60 Einheiten insgesamt, jede mit
-Goethe-Modellprüfung, Foliensatz und Arbeitsblatt. Geschrieben
+GER-Modellprüfung, Foliensatz und Arbeitsblatt. Geschrieben
 für erwachsene und jugendliche Lernende, aus der Feder einer
 Lehrenden, nicht eines Lehrwerkverlags.
 :::
@@ -30,20 +28,20 @@ fünfstufigen Modell
 einer einzigen Quelle zweimal gerendert: einmal als HTML-Artikel
 zum Lesen, einmal als Reveal.js-Foliensatz zum Präsentieren.
 Zusätzlich gibt es pro Einheit ein Prüfungsbeispiel im
-Goethe-Format und ein Arbeitsblatt (vorerst Platzhalter).
+Prüfungsformat und ein Arbeitsblatt (vorerst Platzhalter).
 
 Die Metasprache ist durchgängig Deutsch, immersiv — auf A1 mit
-starkem Scaffolding (Bilder, kurze Sätze, optionale
+starkem gestütztem Lernen („Scaffolding“) (Bilder, kurze Sätze, optionale
 Fremdsprachen-Klappelemente), ab B1 ohne
 Scaffolding-Unterstützung. Das Ziel: Sprache im Gebrauch, nicht
 Sprache als Liste.
 
 ## Für wen
 
-Die Seite richtet sich an DaF-Lehrende weltweit — Goethe-Institute,
+Die Seite richtet sich an DaF-Lehrende weltweit — Sprachinstitute,
 Volkshochschulen, Universitäten, Integrationskurse, private
 Sprachschulen — und an Lernende, die sich auf die
-Goethe-Zertifikate A1, A2, B1, B2 oder C1 vorbereiten. Der Aufbau
+GER-Prüfungen A1, A2, B1, B2 oder C1 vorbereiten. Der Aufbau
 ist modular: ein ganzer Kurs (12 Einheiten) füllt ein Semester
 oder ein Schuljahr im Ausland, einzelne Einheiten funktionieren
 als eigenständige Doppelstunden.
@@ -55,7 +53,7 @@ als eigenständige Doppelstunden.
 ### [A1 — Anfänger:innen](kurs_a1/index.qmd)
 [A1]{.cefr-badge .a1}
 
-Absoluter Einstieg. Alltagsphrasen, einfaches Präsens, Ich/Du-
+Absoluter Einstieg. Alltagsphrasen, einfache Gegenwart („Präsens“), Ich/Du-
 Grundlagen. Zielprüfung: Start Deutsch 1, ca. 80 Min, Bestehen
 bei 60 %.
 :::
@@ -64,15 +62,15 @@ bei 60 %.
 ### [A2 — Grundlegende Kenntnisse](kurs_a2/index.qmd)
 [A2]{.cefr-badge .a2}
 
-Vertraute Themen, Perfekt, Modalverben. Zielprüfung:
-Goethe-Zertifikat A2, 105 Min, 4 Module.
+Vertraute Themen, zusammengesetzte Vergangenheit („Perfekt“), Hilfsverben der Möglichkeit/Notwendigkeit („Modalverben“). Zielprüfung:
+GER-Prüfung A2, 105 Min, 4 Module.
 :::
 
 ::: {.card}
 ### [B1 — Selbstständig (untere Stufe)](kurs_b1/index.qmd)
 [B1]{.cefr-badge .b1}
 
-Zusammenhängende Äußerungen, Präteritum, Konjunktiv II.
+Zusammenhängende Äußerungen, einfache Vergangenheit („Präteritum“), Möglichkeitsform („Konjunktiv II“).
 Zielprüfung: Zertifikat B1 (modular, je Modul 100 Punkte).
 :::
 
@@ -80,16 +78,16 @@ Zielprüfung: Zertifikat B1 (modular, je Modul 100 Punkte).
 ### [B2 — Selbstständig (obere Stufe)](kurs_b2/index.qmd)
 [B2]{.cefr-badge .b2}
 
-Differenzierte Meinungen, Passiv, komplexe Hypotaxe.
-Zielprüfung: Goethe-Zertifikat B2 (modular).
+Differenzierte Meinungen, Leideform („Passiv“), komplexes Satzgefüge mit Nebensätzen („Hypotaxe“).
+Zielprüfung: GER-Prüfung B2 (modular).
 :::
 
 ::: {.card}
 ### [C1 — Kompetent](kurs_c1/index.qmd)
 [C1]{.cefr-badge .c1}
 
-Nuancierte Argumentation, Register, Stilistik. Zielprüfung:
-Goethe-Zertifikat C1 (modular).
+Nuancierte Argumentation, Sprachebene („Register“), Stilistik. Zielprüfung:
+GER-Prüfung C1 (modular).
 :::
 :::
 
@@ -104,7 +102,7 @@ planbar, für Lernende erwartbar:
 3. **Üben** — geführte Übungen mit Lösungen in einem
    Klappblock.
 4. **Anwenden** — freie Produktion: Schreib-, Sprech-, Rollenspiel-,
-   Sprachmittlungsaufgabe.
+   Aufgabe zum sinngemäßen Übertragen zwischen Sprachen („Sprachmittlung“).
 5. **Reflexion** — metakognitiver Abschluss, Selbstcheckliste
    zum Anknüpfen an die Lernziele.
 
@@ -121,21 +119,21 @@ Klausuren und Übungen als Ausdruck verwenden können. Das
 Arbeitsblatt-PDF existiert als Platzhalter — echte Inhalte folgen
 iterativ.
 
-## Goethe-Modellprüfungen
+## GER-Modellprüfungen
 
 Pro Einheit eine Prüfungsaufgabe, die sich **strikt am
-Goethe-Format der entsprechenden Stufe orientiert** — Anzahl der
+Prüfungsformat der entsprechenden Stufe orientiert** — Anzahl der
 Aufgaben, Aufgabentypen, Zeitvorgaben, Bewertungskriterien — aber
-mit **original von der Autorin verfassten Stimulustexten**. Keine
-Reproduktion echter Goethe-Modellsätze. Details zu den fünf
-Formaten siehe [Goethe-Formate](goethe_formate.qmd).
+mit **original von der Autorin verfassten Aufgaben-Impuls-Texten („Stimulus“)**. Keine
+Reproduktion echter Modellsätze. Details zu den fünf
+Formaten siehe [Prüfungsformate](goethe_formate.qmd).
 
 ## Weiter
 
 - [Über diese Seite](ueber.qmd)
 - [Start für neue Lernende](start.qmd)
 - [Vollständige Übersicht aller 60 Einheiten](uebersicht.qmd)
-- [Goethe-Formate A1–C1 im Detail](goethe_formate.qmd)
+- [Prüfungsformate A1–C1 im Detail](goethe_formate.qmd)
 - [Literatur und Ressourcen](literatur.qmd)
 - [Danksagung](danksagung.qmd)
 
@@ -146,8 +144,8 @@ Organisation **boulingua**. Die drei Schwestern teilen Palette,
 Typografie und das fünfstufige Modell — nur Sprache, Niveaustruktur
 und Prüfungsformate unterscheiden sich:
 
-- [EFL BW](https://boulingua.github.io/efl/) — Englisch, Gesamtschule BW Kl. 5–13.
-- [FLE BW](https://boulingua.github.io/fle/) — Französisch, Gesamtschule BW Kl. 6–13.
+- [EFL](https://boulingua.github.io/efl/) — Englisch als Fremdsprache, Sekundarstufe.
+- [FLE](https://boulingua.github.io/fle/) — Französisch als Fremdsprache, Sekundarstufe.
 - [Ressourcen](https://boulingua.github.io/ressources/) — kuratierter Hub mit
   Open-Educational-Resources, die jede Einheit dieser drei Sites
   flankieren.

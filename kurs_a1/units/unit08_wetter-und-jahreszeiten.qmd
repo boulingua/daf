@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 2 / 3: Durchsagen / Gespräche zum
+Prüfungsmodul **Hören** — Teil 2 / 3: Durchsagen / Gespräche zum
 Wetter.
 
 ## Einstiegsgeschichte
@@ -50,9 +50,9 @@ Samstag im Stadtpark. Ana und Luka machen ein Picknick. Ana
 hört den Wetterbericht im Radio:
 
 > „Heute in Wien: am Vormittag Sonnenschein, 18 Grad. Am
-> Nachmittag Wolken und ab 16 Uhr Regen. Temperatur bis 14 Grad."
+> Nachmittag Wolken und ab 16 Uhr Regen. Temperatur bis 14 Grad.“
 
-Luka hört zu und sagt: „Dann gehen wir um 15 Uhr nach Hause."
+Luka hört zu und sagt: „Dann gehen wir um 15 Uhr nach Hause.“
 
 ## 1. Einstieg
 
@@ -156,7 +156,7 @@ hören jeden Text zweimal. Wählen Sie die richtige Lösung (a/b/c).
 ### Nachricht 1
 
 > „Hallo Ana, das ist Luka. Heute regnet es. Ich bleibe zu Hause.
-> Gehen wir morgen in den Park?"
+> Gehen wir morgen in den Park?“
 
 1. Wie ist das Wetter heute?
    a) sonnig · b) regnerisch · c) windig
@@ -164,7 +164,7 @@ hören jeden Text zweimal. Wählen Sie die richtige Lösung (a/b/c).
 ### Nachricht 2
 
 > „Frau Meier, die Wanderung am Samstag fällt aus. Es soll
-> schneien! Wir machen sie im April."
+> schneien! Wir machen sie im April.“
 
 2. Wann findet die Wanderung statt?
    a) am Samstag · b) im April · c) im Mai
@@ -172,7 +172,7 @@ hören jeden Text zweimal. Wählen Sie die richtige Lösung (a/b/c).
 ### Nachricht 3
 
 > „Liebe Kund:innen, heute sonnig mit 24 Grad. Unsere
-> Terrasse ist geöffnet!"
+> Terrasse ist geöffnet!“
 
 3. Wie warm ist es?
    a) 14 Grad · b) 24 Grad · c) 34 Grad
@@ -198,5 +198,5 @@ Prüfungsvorschau 5'.
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg — „Das Wetter"**: <https://learngerman.dw.com/>
+- **DW Nicos Weg — „Das Wetter“**: <https://learngerman.dw.com/>
 - **ORF Wetterradio A1**: öffentliche Kurzbeiträge.

@@ -47,7 +47,7 @@ FOOTER = """
 
 ## Hinweise
 
-- **Modul** = vertieftes Goethe-Prüfungsmodul der Einheit
+- **Modul** = vertieftes GER-Prüfungsmodul der Einheit
   (Lesen / Hören / Schreiben / Sprechen).
 - **Skills** = breitere GER-Fertigkeiten der Einheit
   (hoeren · lesen · sprechen · schreiben · sprachmittlung ·

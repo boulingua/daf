@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Lesen, Teil 3"
+title: "GER-Prüfung C1 — Lesen, Teil 3"
 subtitle: "Einheit 1 · Literarisches Argumentieren · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -17,7 +17,7 @@ Lesen Sie den folgenden Essay-Ausschnitt. Acht Sätze wurden
 entfernt. Ordnen Sie die Satzbausteine (a–j) den Lücken (1–8) zu.
 Zwei Bausteine passen nicht.
 
-> Ein literarischer Text kann nichts „beweisen" im Sinne einer
+> Ein literarischer Text kann nichts „beweisen“ im Sinne einer
 > Statistik. …[**1**]…
 >
 > Wer diese Erzählung auslegt, bewegt sich zwischen zwei

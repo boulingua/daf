@@ -1,6 +1,6 @@
 ---
 title: "Einheit 2 — Politische Diskursanalyse"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Schreiben"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben"
 cefr_level: "C1"
 unit_nr: 2
 slug: "politische-diskursanalyse"
@@ -33,7 +33,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (Meinungsäußerung /
+Prüfungsmodul **Schreiben** — Teil 1 (Meinungsäußerung /
 analytischer Beitrag, ca. 230 Wörter, vier Sprachfunktionen).
 
 ## Einstiegsgeschichte
@@ -57,15 +57,15 @@ reale Person im Unterricht bloßgestellt wird.
 > *„Wir werden die Grenzen unseres Landes nicht nur verteidigen
 > — wir werden sie heilen. Unser Land ist krank, und ein krankes
 > Land braucht Ruhe. Wer das verstanden hat, steht bei uns. Wer
-> es nicht verstanden hat, wird es lernen."*
+> es nicht verstanden hat, wird es lernen.“*
 
 ### B. Drei rhetorische Strategien
 
 | Strategie       | Beispiel aus A                                   | Effekt                                |
 |-----------------|--------------------------------------------------|---------------------------------------|
-| **Framing (Land = Körper)** | *„unser Land ist krank"*             | Macht Politik emotional-somatisch     |
-| **Präsupposition** | *„Wer das verstanden hat …"*                 | Unterstellt, es gebe nur eine richtige Lesart |
-| **Drohung als Lehre** | *„wird es lernen"*                        | Setzt Konformität moralisch voraus    |
+| **Framing (Land = Körper)** | *„unser Land ist krank“*             | Macht Politik emotional-somatisch     |
+| **Präsupposition** | *„Wer das verstanden hat …“*                 | Unterstellt, es gebe nur eine richtige Lesart |
+| **Drohung als Lehre** | *„wird es lernen“*                        | Setzt Konformität moralisch voraus    |
 
 ### C. Analyse-Wortschatz
 
@@ -75,7 +75,7 @@ reale Person im Unterricht bloßgestellt wird.
 | Präsupposition     | stille Voraussetzung, die mitverstanden wird   |
 | Metapher           | bildhafte Übertragung                          |
 | Wir-Bildung        | explizite / implizite Zugehörigkeit            |
-| Gegnerkonstruktion | rhetorische Erzeugung eines „Anderen"          |
+| Gegnerkonstruktion | rhetorische Erzeugung eines „Anderen“          |
 | Euphemismus        | beschönigende Formulierung                     |
 | Tabuwort           | Wort, das die Strategie offenlegen würde      |
 
@@ -84,9 +84,9 @@ reale Person im Unterricht bloßgestellt wird.
 **Aufgabe 1 — Strategie zuordnen.** Welches Beispiel illustriert
 welche Strategie?
 
-1. „Wir alle wissen, dass …"
-2. „Für die schweigende Mehrheit."
-3. „Arbeitsplatzverlust" statt „Massenentlassung".
+1. „Wir alle wissen, dass …“
+2. „Für die schweigende Mehrheit.“
+3. „Arbeitsplatzverlust“ statt „Massenentlassung“.
 
 **Aufgabe 2 — Gegentext.** Schreiben Sie zwei Sätze, die dem
 Zitat A **ohne Polemik** argumentativ widersprechen.
@@ -121,7 +121,7 @@ analytischen Forumsbeitrag zur These:
 
 > *„Politische Rhetorik sollte im Staatsbürgerkunde-Unterricht
 > als Analyseobjekt behandelt werden — inklusive Rhetorik, die
-> uns stört."*
+> uns stört.“*
 
 Setzen Sie **vier** Sprachfunktionen um (erklären, argumentieren,
 mit Beispielen erläutern, Vor-/Nachteile).
@@ -132,13 +132,13 @@ mit Beispielen erläutern, Vor-/Nachteile).
 - [ ] Ich schreibe einen 230-Wörter-Analyseabsatz auf C1.
 - [ ] Ich unterscheide kritische Analyse von Polemik.
 
-## Prüfungsbeispiel — Goethe C1 Schreiben, Teil 1
+## Prüfungsbeispiel — GER C1 Schreiben, Teil 1
 
 **Aufgabe:** Kommentar (ca. 230 Wörter) in einem Feuilleton-
 Forum zur These:
 
 > *„Die Schule sollte ein Pflichtfach ‚Rhetorik und
-> Medienkompetenz' einführen."*
+> Medienkompetenz' einführen.“*
 
 Vier Sprachfunktionen. Titel selbst wählen.
 
@@ -153,13 +153,13 @@ Prüfungsvorschau 16'.
 
 ## Häufige Stolperfallen
 
-- **„Framing" ≠ „Lügen":** Framing setzt einen Rahmen; es kann
+- **„Framing“ ≠ „Lügen“:** Framing setzt einen Rahmen; es kann
   auch aufrichtig sein. Manipulation entsteht bei bewusster
   Irreführung.
-- **„Präsupposition"** ist technischer Fachterminus aus der
+- **„Präsupposition“** ist technischer Fachterminus aus der
   Linguistik.
-- **„Tabuwort"** ist hier das Wort, das die Strategie entlarven
-  würde (z. B. *„Entlassung"* statt *„Arbeitsplatzverlust"*).
+- **„Tabuwort“** ist hier das Wort, das die Strategie entlarven
+  würde (z. B. *„Entlassung“* statt *„Arbeitsplatzverlust“*).
 
 ## Weiterführende Materialien
 

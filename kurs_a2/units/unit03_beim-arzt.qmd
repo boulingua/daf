@@ -1,6 +1,6 @@
 ---
 title: "Einheit 3 — Beim Arzt und in der Apotheke"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Hören"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Hören"
 cefr_level: "A2"
 unit_nr: 3
 slug: "beim-arzt"
@@ -37,24 +37,24 @@ format:
 
 - Ich beschreibe Beschwerden mit mehr Detail als auf A1.
 - Ich verstehe Anweisungen in der Praxis.
-- Ich verstehe Dosierungen („dreimal täglich nach dem Essen").
+- Ich verstehe Dosierungen („dreimal täglich nach dem Essen“).
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 3: Einzelgespräche verstehen
+Prüfungsmodul **Hören** — Teil 3: Einzelgespräche verstehen
 (Mehrfachwahl Bild/Text).
 
 ## Einstiegsgeschichte
 
 **Maja** hat seit zwei Tagen Halsschmerzen und Husten. Sie geht
 zu **Dr. Bartl** in Graz. In der Praxis klingelt ihr Handy —
-**Omar** fragt: „Wie lange dauert das?"
+**Omar** fragt: „Wie lange dauert das?“
 
 ## 1. Einstieg
 
 - Wann waren Sie zuletzt beim Arzt?
 - Welche Beschwerden kennen Sie auf A1?
-- Wie sagt man in Ihrem Heimatland „Rezept"?
+- Wie sagt man in Ihrem Heimatland „Rezept“?
 
 ## 2. Input
 
@@ -107,9 +107,9 @@ zu **Dr. Bartl** in Graz. In der Praxis klingelt ihr Handy —
 
 **Aufgabe 2 — Dosierung.** Übersetzen Sie:
 
-- „1-0-1" →
-- „nach dem Essen" →
-- „auf nüchternen Magen" →
+- „1-0-1“ →
+- „nach dem Essen“ →
+- „auf nüchternen Magen“ →
 
 **Aufgabe 3 — Wortschatz.** Welches Wort fehlt?
 
@@ -121,8 +121,8 @@ zu **Dr. Bartl** in Graz. In der Praxis klingelt ihr Handy —
 
 **Aufgabe 1.** 1) b · 2) b · 3) c.
 
-**Aufgabe 2.** „1-0-1" = morgens und abends je 1 Tablette, mittags
-nichts. „nach dem Essen" = after meal. „auf nüchternen Magen" =
+**Aufgabe 2.** „1-0-1“ = morgens und abends je 1 Tablette, mittags
+nichts. „nach dem Essen“ = after meal. „auf nüchternen Magen“ =
 on empty stomach.
 
 **Aufgabe 3.** 1) Rezept · 2) Packung · 3) krank.
@@ -141,38 +141,38 @@ on empty stomach.
 ## 5. Reflexion
 
 - [ ] Ich verstehe Mandeln / Fieber / Antibiotikum.
-- [ ] Ich sage Beschwerden mit Zeitangabe („seit zwei Tagen").
+- [ ] Ich sage Beschwerden mit Zeitangabe („seit zwei Tagen“).
 - [ ] Ich verstehe Dosierungsangaben.
 
-## Prüfungsbeispiel — Goethe A2 Hören, Teil 3
+## Prüfungsbeispiel — GER A2 Hören, Teil 3
 
 **Aufgabenstellung:** Sie hören drei kurze Gespräche. Sie hören
 jeden Text einmal. Wählen Sie die richtige Lösung a/b/c.
 
 **Gespräch 1:** Arztpraxis
 
-> — „Mein Hals tut weh seit zwei Tagen."
+> — „Mein Hals tut weh seit zwei Tagen.“
 >
-> — „Fieber?"
+> — „Fieber?“
 >
-> — „Ja, 38,5."
+> — „Ja, 38,5.“
 >
-> — „Ich verschreibe ein Antibiotikum. Dreimal täglich."
+> — „Ich verschreibe ein Antibiotikum. Dreimal täglich.“
 
 1. Wie oft nimmt die Person das Medikament? a) einmal · b)
    zweimal · c) dreimal.
 
 **Gespräch 2:** Apotheke
 
-> — „Ihre Packung, bitte. Nach dem Essen nehmen. Das macht 5,40."
+> — „Ihre Packung, bitte. Nach dem Essen nehmen. Das macht 5,40.“
 
 2. Wie hoch ist der Preis? a) 5,04 € · b) 5,40 € · c) 4,50 €.
 
 **Gespräch 3:** Arbeitsplatz
 
-> — „Du bleibst drei Tage zu Hause, oder?"
+> — „Du bleibst drei Tage zu Hause, oder?“
 >
-> — „Ja, der Arzt hat mich bis Freitag krankgeschrieben."
+> — „Ja, der Arzt hat mich bis Freitag krankgeschrieben.“
 
 3. Bis wann ist die Person krankgeschrieben? a) Mittwoch · b)
    Donnerstag · c) Freitag.
@@ -192,12 +192,12 @@ Prüfungsvorschau 7'.
 
 ## Häufige Stolperfallen
 
-- **„seit" + Dativ:** *seit zwei Tagen*, nicht *seit zwei Tage*.
-- **„krankgeschrieben"** = offiziell krank (mit Attest).
-- **„nüchtern" ≠ „sober"** im medizinischen Kontext:
+- **„seit“ + Dativ:** *seit zwei Tagen*, nicht *seit zwei Tage*.
+- **„krankgeschrieben“** = offiziell krank (mit Attest).
+- **„nüchtern“ ≠ „sober“** im medizinischen Kontext:
   nüchtern = leerer Magen.
 
 ## Weiterführende Materialien
 
 - **Pharmazie.de A2 Einträge**: <https://www.pharmazie.de/>
-- **DW „Beim Arzt"**: <https://learngerman.dw.com/>
+- **DW „Beim Arzt“**: <https://learngerman.dw.com/>

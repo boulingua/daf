@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Sprechen, Teil 2"
+title: "GER-Prüfung B2 — Sprechen, Teil 2"
 subtitle: "Einheit 7 · Gesundheitspolitik · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -15,7 +15,7 @@ B2-Sprechen Teil 2 (Diskussion, ca. 5 Min, pro/kontra).
 Debattieren Sie in Paarprüfung:
 
 > *„Der Staat sollte verpflichtende Mindestvergütungen in der
-> Pflege einführen."*
+> Pflege einführen.“*
 
 - Teilnehmender A vertritt **pro**.
 - Teilnehmender B vertritt **kontra**.

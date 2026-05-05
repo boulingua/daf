@@ -1,6 +1,6 @@
 ---
 title: "Einheit 8 — Philosophie für informierte Laien"
-subtitle: "GER-Stufe C1 · Goethe-Zertifikat C1 · Modul Schreiben"
+subtitle: "GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben"
 cefr_level: "C1"
 unit_nr: 8
 slug: "philosophie-fuer-informierte-laien"
@@ -33,7 +33,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 2 (E-Mail / halb-formelle
+Prüfungsmodul **Schreiben** — Teil 2 (E-Mail / halb-formelle
 Mitteilung, ca. 120 Wörter, vier Sprachfunktionen).
 
 ## Einstiegsgeschichte
@@ -56,7 +56,7 @@ verfassen — nicht zustimmend, nicht ablehnend, sondern
 ### A. Essay-Ausschnitt (original, im Geist phänomenologischer
 Tradition)
 
-> *„Lebenswelt"* ist nicht *„Alltag"*. Alltag ist, was wir
+> *„Lebenswelt“* ist nicht *„Alltag“*. Alltag ist, was wir
 > beschreiben können, wenn wir gefragt werden: Aufwachen,
 > Frühstück, Wege, Begegnungen. Lebenswelt ist das, was wir
 > **immer schon voraussetzen**, wenn wir all das beschreiben:
@@ -67,7 +67,7 @@ Tradition)
 > Die Lebenswelt ist deshalb nicht das, was wir untersuchen —
 > sie ist das, was wir in jeder Untersuchung in Anspruch nehmen.
 > Diese Asymmetrie zu vergessen, ist der häufigste Fehler in
-> der Diskussion um „Erfahrung" und „Subjekt".
+> der Diskussion um „Erfahrung“ und „Subjekt“.
 
 ### B. Begriffe
 
@@ -94,7 +94,7 @@ Tradition)
 **Aufgabe 3 — Höfliche Replik.** Schreiben Sie zwei Sätze, die
 einer Aussage höflich, aber präzise widersprechen:
 
-> *„Erfahrung ist immer subjektiv und deshalb unvergleichbar."*
+> *„Erfahrung ist immer subjektiv und deshalb unvergleichbar.“*
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -127,7 +127,7 @@ bliebe, wäre auch sprachlich nicht vermittelbar.*
 - [ ] Ich gebrauche *Lebenswelt, Dialektik, Antinomie, Phänomen*.
 - [ ] Ich verfasse eine 120-Wörter-Replik mit Einwand.
 
-## Prüfungsbeispiel — Goethe C1 Schreiben, Teil 2
+## Prüfungsbeispiel — GER C1 Schreiben, Teil 2
 
 **Aufgabe:** Schreiben Sie eine Mail (ca. 120 Wörter) an die
 Seminarleiterin mit den folgenden vier Sprachfunktionen:
@@ -147,8 +147,8 @@ Seminarleiterin mit den folgenden vier Sprachfunktionen:
 > abgeflacht wird.
 >
 > Ich möchte Sie auf eine kleine Unklarheit aufmerksam machen:
-> die Stelle „immer schon voraussetzen" lässt sich leicht mit
-> „selbstverständlich" verwechseln. Vielleicht würde ein
+> die Stelle „immer schon voraussetzen“ lässt sich leicht mit
+> „selbstverständlich“ verwechseln. Vielleicht würde ein
 > alltägliches Beispiel — etwa der Boden unter dem Bett — diese
 > Differenz für die Diskussion sichern.
 >
@@ -174,10 +174,10 @@ Prüfungsvorschau 15'.
 
 ## Häufige Stolperfallen
 
-- **„Lebenswelt" ≠ „Alltag"** — Kernunterscheidung der Einheit.
-- **„Antinomie" ≠ „Anonymität"** — phonetisch nah, semantisch
+- **„Lebenswelt“ ≠ „Alltag“** — Kernunterscheidung der Einheit.
+- **„Antinomie“ ≠ „Anonymität“** — phonetisch nah, semantisch
   fern.
-- **„höflicher Widerspruch"** ist auf C1 ein eigener Stilauftrag.
+- **„höflicher Widerspruch“** ist auf C1 ein eigener Stilauftrag.
 
 ## Weiterführende Materialien
 

@@ -1,6 +1,6 @@
 ---
 title: "Einheit 1 — Arbeitssuche und Stellenanzeige"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Lesen"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen"
 cefr_level: "A2"
 unit_nr: 1
 slug: "arbeitssuche-und-stellenanzeige"
@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Lesen** — Teil 4: Anzeigen verstehen (Zuordnung).
+Prüfungsmodul **Lesen** — Teil 4: Anzeigen verstehen (Zuordnung).
 
 ## Einstiegsgeschichte
 
@@ -101,7 +101,7 @@ an und fragt sich: *Welche passt zu mir?*
 | die Weiterbildung    | further training                     |
 | der Kindergarten     | kindergarten                         |
 
-### C. Redemittel „Bewerbung"
+### C. Redemittel „Bewerbung“
 
 - *Ich interessiere mich für Ihre Stellenanzeige …*
 - *Ich habe Erfahrung als …*
@@ -114,14 +114,14 @@ an und fragt sich: *Welche passt zu mir?*
 (a–d) passt am besten zur Situation?
 
 1. „Ich möchte nicht mehr in Schichten arbeiten und suche einen
-   geregelten Arbeitstag."
-2. „Ich brauche einen Nebenjob am Wochenende."
-3. „Ich suche mehr Gehalt — bereit für Schicht."
-4. „Ich möchte pflegen und gleichzeitig wohnen nah am Arbeitsplatz."
+   geregelten Arbeitstag.“
+2. „Ich brauche einen Nebenjob am Wochenende.“
+3. „Ich suche mehr Gehalt — bereit für Schicht.“
+4. „Ich möchte pflegen und gleichzeitig wohnen nah am Arbeitsplatz.“
 
 **Aufgabe 2 — Brutto / Teilzeit etc.** Richtig oder falsch?
 
-1. „Brutto" ist das Geld, das auf dem Konto ankommt.
+1. „Brutto“ ist das Geld, das auf dem Konto ankommt.
 2. Vollzeit sind meistens 38–40 Std.
 3. Schichtdienst bedeutet feste 9-bis-17-Uhr-Zeiten.
 4. Kollektivvertrag = Mindestgehalt pro Branche (AT/CH).
@@ -176,7 +176,7 @@ kurze Bewerbungs-E-Mail an das Landeskrankenhaus Graz:
 - [ ] Ich ordne eine Stellenanzeige meiner Wunschsituation zu.
 - [ ] Ich schreibe eine 50-Wörter-Bewerbungs-E-Mail.
 
-## Prüfungsbeispiel — Goethe A2 Lesen, Teil 4
+## Prüfungsbeispiel — GER A2 Lesen, Teil 4
 
 **Aufgabenstellung:** Ordnen Sie die fünf Situationen (1–5) den
 fünf Anzeigen (a–e) zu. **Eine Anzeige passt zu zwei
@@ -192,11 +192,11 @@ Situationen nicht; zwei Anzeigen passen zu keiner Situation.**
 
 ### Situationen
 
-1. „Ich möchte einen Job mit Kinderbetreuung — nicht Pflege."
-2. „Ich will am Wochenende arbeiten."
-3. „Ich brauche höheres Gehalt, Schicht ist okay."
-4. „Ich kann nur von zu Hause arbeiten."
-5. „Ich pflege gern und brauche eine Wohnung beim Arbeitsplatz."
+1. „Ich möchte einen Job mit Kinderbetreuung — nicht Pflege.“
+2. „Ich will am Wochenende arbeiten.“
+3. „Ich brauche höheres Gehalt, Schicht ist okay.“
+4. „Ich kann nur von zu Hause arbeiten.“
+5. „Ich pflege gern und brauche eine Wohnung beim Arbeitsplatz.“
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 1 = c · 2 = b · 3 = d · 4 = e · 5 = a.
@@ -216,7 +216,7 @@ Prüfungsvorschau 14'.
 - **brutto / netto:** brutto = vor Abzug; netto = nach Steuer.
 - **Kollektivvertrag (AT/CH)** ≈ Tarifvertrag (DE) ≈ Mindestlohn
   plus Branchenvereinbarung.
-- **„Beginn" vs. „Start":** beides ok in Anzeigen, Beginn etwas
+- **„Beginn“ vs. „Start“:** beides ok in Anzeigen, Beginn etwas
   formeller.
 
 ## Weiterführende Materialien

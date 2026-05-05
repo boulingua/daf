@@ -6,13 +6,11 @@ title: "Kurs B1 — Selbstständig (untere Stufe)"
 KURS B1 · PROTOTYP · SELBSTSTÄNDIGE SPRACHVERWENDUNG
 :::
 
-# B1 — Selbstständig (untere Stufe)
-
 [B1]{.cefr-badge .b1}
 
-Zwölf Einheiten entlang des GER-Niveaus **B1**. Zusammenhängende
-Äußerungen zu vertrauten Themen, Präteritum, Konjunktiv II für
-Höflichkeit, Konnektoren. Ziel: **Zertifikat B1** (modular) —
+Zwölf Einheiten entlang der selbstständigen Sprachverwendung („B1“). Zusammenhängende
+Äußerungen zu vertrauten Themen, einfache Vergangenheit („Präteritum“), Möglichkeitsform („Konjunktiv II“) für
+Höflichkeit, Verbindungswörter („Konnektoren“). Ziel: **Zertifikat B1** (modular) —
 je Modul 100 Punkte, Bestehen bei 60 %.
 
 B1 ist der **Prototyp-Kurs** dieser Site: der Kurs, an dem die
@@ -36,7 +34,7 @@ mobil zwischen DACH und Europa, alle in einer beruflichen
 - **Herr Malik** — 51, Journalist in Frankfurt am Main,
   moderiert das Leserforum seiner Redaktion. Im Finale
   (Einheit 12) fragen Milos, Noa, Dr. Lenz und Malik sich
-  gegenseitig im Podcast: *„Was wird 2040 anders sein?"*
+  gegenseitig im Podcast: *„Was wird 2040 anders sein?“*
 
 **Lejla Hodžić** (Milos' Cousine, 24, Pflegefachfrau in
 Slowenien) kommt in den Einheiten 2 und 9 als Zweit-Protagonistin
@@ -122,13 +120,13 @@ und Malik im ORF-Podcast: Was wird 2040 anders sein?
 
 ## Prüfungsziel
 
-**Zertifikat B1** (Gemeinschaftsprodukt Goethe-Institut / ÖSD /
+**Zertifikat B1** (Gemeinschaftsprodukt Prüfungsanbieter / ÖSD /
 Universität Freiburg/Schweiz, 2013). Modular ablegbar — jedes der
 vier Module (Lesen 65 Min · Hören 40 Min · Schreiben 60 Min ·
 Sprechen 15 Min in Paarprüfung) einzeln prüfbar, je 100 Punkte,
 Bestehen bei 60.
 
-Details: [Goethe-Formate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../goethe_formate.qmd) ·
 Rohdaten in
 [`_resources/goethe_format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b1.yml).
 
@@ -148,5 +146,5 @@ ein ausgewogenes Üben möglich wird.
 
 - [Wochenplan des Kurses](uebersicht.qmd)
 - [Übersicht aller 60 Einheiten](../uebersicht.qmd)
-- [Goethe-Formate](../goethe_formate.qmd)
+- [Prüfungsformate](../goethe_formate.qmd)
 - [Zurück zur Startseite](../index.qmd)

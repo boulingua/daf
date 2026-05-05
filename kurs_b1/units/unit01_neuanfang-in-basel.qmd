@@ -1,6 +1,6 @@
 ---
 title: "Einheit 1 — Neuanfang in Basel"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Sprechen"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen"
 cefr_level: "B1"
 unit_nr: 1
 slug: "neuanfang-in-basel"
@@ -49,7 +49,7 @@ Am Ende dieser Einheit …
 
 - Kompetenzbereich: **Mündliche Produktion / Interaktion
   (selbstständige Sprachverwendung, B1)**.
-- Goethe-Modul dieser Einheit: **Sprechen** — Teil 2
+- Prüfungsmodul dieser Einheit: **Sprechen** — Teil 2
   (Präsentation zu einem Thema anhand von fünf Folien) und
   Teil 3 (Feedback und situationsadäquate Reaktion).
 - Zusätzlich rezeptives Gerüst: Leseverstehen auf B1-Niveau
@@ -87,7 +87,7 @@ Aufenthaltsbewilligung, und ein ungutes Gefühl im Magen.
 
 Tipp für den Unterricht: Lassen Sie die Gruppe diese Fragen zu
 zweit diskutieren, je 3 Minuten. Auf der Tafel sammeln: *„Was
-hilft beim Neuanfang im Beruf?"*
+hilft beim Neuanfang im Beruf?“*
 
 ## 2. Input
 
@@ -95,7 +95,7 @@ Milos hat sich entschlossen, seine Erfahrungen auf einem
 Online-Forum für DaF-Lernende zu teilen. Der folgende Text
 stammt aus einem Forumsbeitrag, den er dort veröffentlicht hat.
 
-### Forumsbeitrag: „Pendelnde Jahre — und was ich gelernt habe"
+### Forumsbeitrag: „Pendelnde Jahre — und was ich gelernt habe“
 
 > Seit sechs Jahren fahre ich Montag um vier Uhr siebenundzwanzig
 > mit dem Bus nach Basel. Ich sitze immer rechts hinten, weil da
@@ -179,9 +179,9 @@ Setzen Sie die passenden Wörter aus der Liste oben ein.
 1. **Richtig.** Seit sechs Jahren.
 2. **Falsch.** Er hatte zwei Jahre eingeplant.
 3. **Falsch.** Sie schreibt ihre Dissertation in Tuzla.
-4. **Richtig.** „Fachwissen ist universeller als Sprache."
+4. **Richtig.** „Fachwissen ist universeller als Sprache.“
 5. **Falsch.** Er versteht viel, spricht es aber nicht.
-6. **Richtig.** „bereichernd", „ich sehe beides von außen".
+6. **Richtig.** „bereichernd“, „ich sehe beides von außen“.
 
 **Aufgabe 2 — Wortschatz in Kontext.**
 
@@ -242,11 +242,11 @@ Haken Sie ab, was Sie nach dieser Einheit können:
 **Was bleibt offen?** Notieren Sie in Ihrem Lernjournal einen
 Satz: *Beim nächsten Mal möchte ich …*
 
-## Prüfungsbeispiel — Goethe B1 Sprechen, Teile 2 und 3
+## Prüfungsbeispiel — GER B1 Sprechen, Teile 2 und 3
 
 ::: {.callout-warning}
 **Formal orientiert am offiziellen B1-Sprechen-Modul** (Vortrag
-+ Feedback). Keine Reproduktion echter Goethe-Modellsatz-Aufgaben
++ Feedback). Keine Reproduktion echter Modellsatz-Aufgaben
 — Stimulus und Struktur sind original.
 :::
 
@@ -285,14 +285,14 @@ Satz: *Beim nächsten Mal möchte ich …*
 Ein gutes B1-Niveau würde für Thema A mindestens enthalten:
 
 - eine **persönliche Anbindung** („Ich kenne jemanden, die / ich
-  selber habe einmal …"),
+  selber habe einmal …“),
 - zwei konkrete **Beispiele** (Familie, Freund:in, eigene
   Erfahrung, Medienbericht),
 - einen Hinweis auf **Unterschiede zwischen Ländern**,
 - mindestens **einen Vorteil und einen Nachteil** mit
-  Begründung („weil …", „das führt dazu, dass …"),
+  Begründung („weil …“, „das führt dazu, dass …“),
 - einen klaren **Abschluss** („Meiner Meinung nach lohnt sich
-  das, wenn …").
+  das, wenn …“).
 
 Typische Schwächen auf B1: reine Aufzählung ohne Konnektoren;
 keine Ich-Perspektive; Wiederholung statt Variation im Wortschatz.
@@ -314,30 +314,30 @@ Wortschatzitem (Aufgabe 2). Schwächere: Einstiegsfragen zu dritt.
 Heterogene Gruppen: gemischte Paarung beim Vortrag.
 
 **Mikro-Check nach Input:** „Was bedeutet Milos, wenn er sagt, er
-‚sehe beides von außen'? Geben Sie ein Beispiel aus Ihrem Leben."
+‚sehe beides von außen'? Geben Sie ein Beispiel aus Ihrem Leben.“
 
 :::
 
 ## Häufige Stolperfallen
 
-- **„pendeln" ≠ „reisen".** Pendeln impliziert Regelmäßigkeit und
+- **„pendeln“ ≠ „reisen“.** Pendeln impliziert Regelmäßigkeit und
   einen Arbeitsweg. Wer einmal im Jahr nach Basel fährt, reist —
   pendelt aber nicht.
-- **„passiv verstehen"** auf B1 wird oft mit „passiv lernen"
+- **„passiv verstehen“** auf B1 wird oft mit „passiv lernen“
   verwechselt. Gemeint ist: man versteht eine Sprache rezeptiv,
   produziert sie aber nicht.
 - **Präsens Perfekt vs. Präteritum** bei biografischer Erzählung:
   B1-Lerner:innen tendieren zum Perfekt in der gesprochenen
   Variante und wechseln beim Schreiben unsicher in den
   Präteritum. Tipp: in der Präsentation konsequent Perfekt
-  benutzen („Ich habe gearbeitet, habe gelernt, habe erfahren").
+  benutzen („Ich habe gearbeitet, habe gelernt, habe erfahren“).
 
 ## Weiterführende Materialien
 
 - **Deutsche Welle — Top-Thema mit Vokabeln** (B1-Niveau),
   kurze Hörbeiträge mit Transkript:
   <https://learngerman.dw.com/de/top-thema/c-37482647>
-- **Goethe-Institut — Übungen B1**:
+- **Prüfungsanbieter — Übungen B1**:
   <https://www.goethe.de/de/spr/ueb/b1.html>
 - **Easy German Podcast** (Episoden mit Fokus auf
   Arbeits-/Berufswelt, B1-geeignet): <https://www.easygerman.org/>

@@ -9,12 +9,12 @@ KURS C1 · WOCHENPLAN
 # Kurs C1 — Die zwölf Einheiten
 
 ::: {.callout-note}
-**Scaffold-Stand.** Dieser Wochenplan wird in Phase 2 aus dem
+**Stand des gestützten Lernens („Scaffold“).** Dieser Wochenplan wird in Phase 2 aus dem
 Themenplan `_resources/curriculum_outline.yml` generiert. Derzeit
 sind nur die Einheit-Plätze reserviert.
 :::
 
-| Woche | Einheit | Thema | Skill-Fokus | Goethe-Modul |
+| Woche | Einheit | Thema | Skill-Fokus | Prüfungsmodul |
 |------:|:-------:|:------|:------------|:-------------|
 |  1    | Einheit 1  | _TBD_ | _TBD_ | _TBD_ |
 |  2    | Einheit 2  | _TBD_ | _TBD_ | _TBD_ |
@@ -32,4 +32,4 @@ sind nur die Einheit-Plätze reserviert.
 ## Siehe auch
 
 - [Kurs C1 — Startseite](index.qmd)
-- [Goethe-Formate](../goethe_formate.qmd)
+- [Prüfungsformate](../goethe_formate.qmd)

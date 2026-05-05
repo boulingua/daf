@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Schreiben, Teil 3"
+title: "GER-Modellprüfung B1 — Schreiben, Teil 3"
 subtitle: "Einheit 2 · Der Bewerbungsweg · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -62,8 +62,8 @@ diese Aufgabe.
 
 **Wortzahl:** ca. 40. Alle drei Inhaltspunkte behandelt. Anrede
 und Gruß dem Register (Freundschaft) angemessen. Typische
-B1-Strukturen: Konjunktiv II („könnten"), Kausalzusammenhang
-(„leider … weil / denn").
+B1-Strukturen: Konjunktiv II („könnten“), Kausalzusammenhang
+(„leider … weil / denn“).
 
 ---
 

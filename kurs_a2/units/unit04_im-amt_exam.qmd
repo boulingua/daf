@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Schreiben, Teil 2"
+title: "GER-Prüfung A2 — Schreiben, Teil 2"
 subtitle: "Einheit 4 · Im Amt · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:

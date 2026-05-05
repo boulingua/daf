@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Schreiben, Teil 2"
+title: "GER-Modellprüfung B1 — Schreiben, Teil 2"
 subtitle: "Einheit 5 · Digitale Kommunikation · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -26,7 +26,7 @@ Sie lesen in einem Online-Forum folgenden Beitrag:
 > „Immer mehr junge Leute lesen keine Zeitung mehr. Ich finde
 > das schade — die Nachrichten im Internet sind oft einseitig und
 > schnell vergessen. Wer ohne Zeitung aufwächst, bekommt die Welt
-> nicht mehr vollständig mit."
+> nicht mehr vollständig mit.“
 
 Schreiben Sie einen eigenen Forumsbeitrag (**ca. 80 Wörter**):
 

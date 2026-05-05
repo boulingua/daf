@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Sprechen Teil 1 + 2"
+title: "GER-Prüfung C1 — Sprechen Teil 1 + 2"
 subtitle: "Einheit 10 · Stilistik und Rhetorik · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -18,7 +18,7 @@ kontroverse Frage, ca. 5 Min).
 Halten Sie einen Vortrag (ca. 4 Minuten) zu:
 
 > *„Stil im Beruf — wann ist sprachliche Ausschmückung Hilfe,
-> wann Hindernis?"*
+> wann Hindernis?“*
 
 Setzen Sie vier Sprachfunktionen um (erklären, argumentieren,
 mit Beispielen erläutern, Vor- und Nachteile erwägen).
@@ -26,7 +26,7 @@ mit Beispielen erläutern, Vor- und Nachteile erwägen).
 ### Teil 2 — Diskussion
 
 > *„Eine Pressemitteilung sollte ohne rhetorische Figuren
-> auskommen — alles andere ist Manipulation."*
+> auskommen — alles andere ist Manipulation.“*
 
 Eine Person vertritt die These, die andere widerspricht.
 

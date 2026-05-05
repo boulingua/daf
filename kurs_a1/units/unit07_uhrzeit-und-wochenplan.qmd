@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (Formular: Termin eintragen)
+Prüfungsmodul **Schreiben** — Teil 1 (Formular: Termin eintragen)
 und Teil 2 (Kurznotiz: Termin absagen/verschieben).
 
 ## Einstiegsgeschichte
@@ -173,15 +173,15 @@ Prüfungsvorschau 5'.
 
 ## Häufige Stolperfallen
 
-- **„halb zehn"** = 9:30, nicht 10:30! Der Deutsche zählt zur
+- **„halb zehn“** = 9:30, nicht 10:30! Der Deutsche zählt zur
   vollen Stunde **vor**.
 - **am / um:** *am Montag* (Tag), *um 10 Uhr* (Zeit).
-- **„Uhr"** erst nach voller Stunde: *neun Uhr*, nicht *neun Uhr
+- **„Uhr“** erst nach voller Stunde: *neun Uhr*, nicht *neun Uhr
   und Viertel*.
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg — „Wochenplan / Uhrzeit"**:
+- **DW Nicos Weg — „Wochenplan / Uhrzeit“**:
   <https://learngerman.dw.com/>
 - **Deutschakademie A1 Grammatik (offen)**:
   <https://www.deutschakademie.de/online-deutschkurs/>

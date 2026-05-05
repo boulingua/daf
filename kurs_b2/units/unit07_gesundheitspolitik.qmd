@@ -1,6 +1,6 @@
 ---
 title: "Einheit 7 — Gesundheitspolitik: Pflegenotstand und Solidarität"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Sprechen"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen"
 cefr_level: "B2"
 unit_nr: 7
 slug: "gesundheitspolitik"
@@ -33,12 +33,12 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 2 (Diskussion mit pro/kontra).
+Prüfungsmodul **Sprechen** — Teil 2 (Diskussion mit pro/kontra).
 
 ## Einstiegsgeschichte
 
 **Dr. Lenz** (die wir aus B1 kennen) ist heute im ORF-Politik-
-magazin zu Gast: *„Pflegenotstand — woran es wirklich liegt."*
+magazin zu Gast: *„Pflegenotstand — woran es wirklich liegt.“*
 
 ## 1. Einstieg
 
@@ -92,14 +92,14 @@ magazin zu Gast: *„Pflegenotstand — woran es wirklich liegt."*
 **Aufgabe 1 — Argumente zuordnen.** Ist das Argument
 *ökonomisch, demografisch* oder *ethisch*?
 
-1. „Pflege muss als Investition verstanden werden."
-2. „Anerkennung ist eine Würde-Frage."
-3. „In zehn Jahren gehen eine Million Pflegende in Rente."
+1. „Pflege muss als Investition verstanden werden.“
+2. „Anerkennung ist eine Würde-Frage.“
+3. „In zehn Jahren gehen eine Million Pflegende in Rente.“
 
 **Aufgabe 2 — Reframen.** *Formulieren Sie positiv:*
 
-1. „Pflege kostet zu viel." →
-2. „Pflegende sind zu schwach organisiert." →
+1. „Pflege kostet zu viel.“ →
+2. „Pflegende sind zu schwach organisiert.“ →
 
 **Aufgabe 3 — Drei-Hebel-Modell.** Notieren Sie stichwortartig
 die drei von Dr. Lenz genannten Hebel.
@@ -122,7 +122,7 @@ zur Berufsanerkennung.
 
 **Paar-Diskussion (ca. 5 Min):**
 
-> *„Wer Pflege als Kostenposition führt, gefährdet das System."*
+> *„Wer Pflege als Kostenposition führt, gefährdet das System.“*
 
 A vertritt die These, B die Gegenthese. Nutzen Sie die
 Redemittel aus B und mindestens drei der acht Wortschatzitems.
@@ -134,12 +134,12 @@ Redemittel aus B und mindestens drei der acht Wortschatzitems.
 - [ ] Ich reframe eine negative Aussage positiv.
 - [ ] Ich halte 5 Minuten Gegenthese mit Belegen.
 
-## Prüfungsbeispiel — Goethe B2 Sprechen, Teil 2
+## Prüfungsbeispiel — GER B2 Sprechen, Teil 2
 
 **Aufgabenstellung (Paarprüfung, ca. 5 Min):** Debattieren Sie:
 
 > *„Der Staat sollte verpflichtende Mindestvergütungen in der
-> Pflege einführen."*
+> Pflege einführen.“*
 
 A = pro · B = kontra. Je mindestens zwei Argumente. Einigung
 nicht zwingend nötig.
@@ -155,15 +155,15 @@ Prüfungsvorschau 18'.
 
 ## Häufige Stolperfallen
 
-- **„Anerkennung" (gesellschaftlich)** ≠ **„Anerkennung
-  (Berufsanerkennung)"** — Kontext erschließen.
-- **„Hebel"** in der Politik-Sprache ≈ „entscheidende
-  Maßnahme".
-- **„Vergütung" vs. „Gehalt":** Vergütung oft breiter (auch
+- **„Anerkennung“ (gesellschaftlich)** ≠ **„Anerkennung
+  (Berufsanerkennung)“** — Kontext erschließen.
+- **„Hebel“** in der Politik-Sprache ≈ „entscheidende
+  Maßnahme“.
+- **„Vergütung“ vs. „Gehalt“:** Vergütung oft breiter (auch
   Boni, Zulagen).
 
 ## Weiterführende Materialien
 
-- **ZDF „Berlin direkt" zum Pflegenotstand**.
+- **ZDF „Berlin direkt“ zum Pflegenotstand**.
 - **WHO Europe — Pflege und Gesundheitssysteme**:
   <https://www.who.int/europe/>

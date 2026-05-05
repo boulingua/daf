@@ -1,6 +1,6 @@
 ---
 title: "Einheit 4 — Gesundheitssystem im DACH-Raum"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Hören"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Hören"
 cefr_level: "B1"
 unit_nr: 4
 slug: "gesundheitssystem-dach"
@@ -44,7 +44,7 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul: **Hören** — Teil 3 (Gespräche zwischen
+- Prüfungsmodul: **Hören** — Teil 3 (Gespräche zwischen
   Muttersprachlern) und Teil 4 (Radiosendungen,
   Zuordnungs-aufgabe).
 - Zusätzlich: Sprachmittlung (B1-rezeptiv).
@@ -55,7 +55,7 @@ format:
 Gemeinschaftspraxis in Leipzig-Plagwitz. Sie behandelt Menschen
 aus dem Stadtteil — oft mit Migrationshintergrund, oft mit
 knappem Deutsch. Heute ist sie zu Gast im **Radio-Sachsen-Podcast
-„Sprechstunde"**, der vor allem Laien erklärt, wie Gesundheits-
+„Sprechstunde“**, der vor allem Laien erklärt, wie Gesundheits-
 systeme funktionieren. Thema der Folge: Krankenversicherung in
 Deutschland, Österreich und der Schweiz im Vergleich.
 
@@ -66,13 +66,13 @@ Deutschland, Österreich und der Schweiz im Vergleich.
 - Haben Sie schon einmal in einem anderen Land einen Arztbesuch
   gehabt? Was war überraschend?
 - Nennen Sie drei Wörter, die Ihnen zum Thema
-  „Krankenversicherung" einfallen.
+  „Krankenversicherung“ einfallen.
 
 ## 2. Input
 
 ### A. Hörtext — Podcast-Interview (Transkript)
 
-> **Moderator:** Willkommen zur „Sprechstunde". Frau Dr. Lenz,
+> **Moderator:** Willkommen zur „Sprechstunde“. Frau Dr. Lenz,
 > Sie sehen in Ihrer Praxis viele Patient:innen, die aus
 > Österreich oder der Schweiz zugezogen sind. Wo liegen die
 > wichtigsten Unterschiede zwischen den drei Systemen?
@@ -156,13 +156,13 @@ Gesundheitssystem-Vokabular hat (je 1 Satz):
 **Aufgabe 2.** Beispielformulierungen:
 
 - *Eigenfranchise* — „der Betrag, den man pro Jahr selbst
-  bezahlt, bevor die Versicherung etwas übernimmt".
+  bezahlt, bevor die Versicherung etwas übernimmt“.
 - *Facharzttermin* — „ein Termin bei einem Arzt oder einer Ärztin
   mit einem besonderen Fachgebiet, zum Beispiel Hautarzt oder
-  Augenärztin".
+  Augenärztin“.
 - *gesetzliche Krankenversicherung* — „eine Versicherung, deren
   Regeln vom Staat festgelegt sind und zu der fast alle
-  Arbeitnehmer:innen automatisch gehören".
+  Arbeitnehmer:innen automatisch gehören“.
 
 **Aufgabe 3.** 1) rund 400 Franken · 2) 4 Wochen · 3) rund 90
 Prozent.
@@ -189,7 +189,7 @@ Minuten. Wechseln Sie, wenn fertig.
 - [ ] Ich kann die drei Systeme in jeweils zwei Sätzen
       zusammenfassen.
 
-## Prüfungsbeispiel — Goethe B1 Hören, Teil 4 (Zuordnung)
+## Prüfungsbeispiel — GER B1 Hören, Teil 4 (Zuordnung)
 
 **Aufgabenstellung:** Sie hören noch einmal den Interview-
 Ausschnitt (Transkript siehe Input A). Ordnen Sie acht Aussagen
@@ -198,16 +198,16 @@ Länder (Distraktor).
 
 **Stimulus-Aussagen:**
 
-1. „Die Versicherten wählen ihre Kasse selbst." → CH
-2. „Rund 90 Prozent sind gesetzlich versichert." → DE
-3. „Ein Facharzttermin soll in vier Wochen möglich sein." → DE
-4. „Es gibt eine Eigenfranchise, die pro Jahr zu zahlen ist." → CH
-5. „Die Kassen wurden 2019 zur ÖGK zusammengeführt." → AT
+1. „Die Versicherten wählen ihre Kasse selbst.“ → CH
+2. „Rund 90 Prozent sind gesetzlich versichert.“ → DE
+3. „Ein Facharzttermin soll in vier Wochen möglich sein.“ → DE
+4. „Es gibt eine Eigenfranchise, die pro Jahr zu zahlen ist.“ → CH
+5. „Die Kassen wurden 2019 zur ÖGK zusammengeführt.“ → AT
 6. „Beiträge werden hälftig auf Arbeitgeber und Arbeitnehmer
-   aufgeteilt." → DE
-7. „Die Wartezeiten liegen im Mittelfeld der drei Länder." → AT
+   aufgeteilt.“ → DE
+7. „Die Wartezeiten liegen im Mittelfeld der drei Länder.“ → AT
 8. „Alle drei Länder bezahlen den Arztbesuch komplett aus
-   Steuergeldern." → **Distraktor** (passt zu keinem).
+   Steuergeldern.“ → **Distraktor** (passt zu keinem).
 
 ## Downloads {#downloads}
 
@@ -220,14 +220,14 @@ Reflexion 3' · Prüfungsvorschau 24'.
 
 **Binnendifferenzierung.** Stärkere: Aufgabe 2 mit zwei statt
 einem Satz; zusätzlich ein viertes Fachwort („solidarisch
-finanziert") selbst definieren. Schwächere: Transkript während
+finanziert“) selbst definieren. Schwächere: Transkript während
 Hören in Augen behalten.
 
 :::
 
 ## Häufige Stolperfallen
 
-- **„Franchise"** hat im CH-Deutschen eine andere Bedeutung als
+- **„Franchise“** hat im CH-Deutschen eine andere Bedeutung als
   in anderen Sprachen (z. B. französisch *franchise* = Offenheit).
 - **Prämie vs. Beitrag:** *Prämie* ist CH-Sprachgebrauch,
   *Beitrag* eher DE.
@@ -235,9 +235,9 @@ Hören in Augen behalten.
 
 ## Weiterführende Materialien
 
-- **DW — „Das sagt man so" zum Thema Gesundheit**:
+- **DW — „Das sagt man so“ zum Thema Gesundheit**:
   <https://learngerman.dw.com/>
 - **Gesundheitsinformation.de** (Stiftung für Qualität in der
   Medizin): <https://www.gesundheitsinformation.de/>
-- **SRF — „Puls"** (Schweizer Gesundheitsmagazin, B1+):
+- **SRF — „Puls“** (Schweizer Gesundheitsmagazin, B1+):
   <https://www.srf.ch/play/tv/puls>

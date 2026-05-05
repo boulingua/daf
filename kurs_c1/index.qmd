@@ -6,13 +6,11 @@ title: "Kurs C1 — Kompetent"
 KURS C1 · KOMPETENT · METHODISCH-LITERARISCH
 :::
 
-# C1 — Kompetent
-
 [C1]{.cefr-badge .c1}
 
-Zwölf Einheiten auf C1: nuancierte Argumentation, stilistische
-Register, Nominalisierung, Konnotation, literarische Tradition.
-Ziel: **Goethe-Zertifikat C1 (modular)**, je Modul 100 Punkte,
+Zwölf Einheiten auf der kompetenten Sprachverwendung („C1“): nuancierte Argumentation, stilistische
+Sprachebenen („Register“), Nominalisierung, Konnotation, literarische Tradition.
+Ziel: **GER-Prüfung C1 (modular)**, je Modul 100 Punkte,
 Bestehen bei 60 %.
 
 ## Cast: Textstimmen statt Charaktere
@@ -98,11 +96,11 @@ Modul: Hören. Auto-Fiktion, politische Romanstruktur, Stilfragment.
 
 ## Prüfungsziel
 
-**Goethe-Zertifikat C1 (modular)** — Lesen 65 Min · Hören 40 Min ·
+**GER-Prüfung C1 (modular)** — Lesen 65 Min · Hören 40 Min ·
 Schreiben 75 Min · Sprechen ca. 20 Min Paarprüfung. Je Modul
 100 Punkte, Bestehen bei 60.
 
-Details: [Goethe-Formate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../goethe_formate.qmd) ·
 [`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml).
 
 ## Modul-Abdeckung

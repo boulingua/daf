@@ -1,6 +1,6 @@
 ---
 title: "Einheit 10 — Politik und Teilhabe"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Sprechen"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen"
 cefr_level: "B1"
 unit_nr: 10
 slug: "politik-und-teilhabe"
@@ -42,14 +42,14 @@ format:
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Sprechen** — Teil 2 (Präsentation anhand von
+- Prüfungsmodul **Sprechen** — Teil 2 (Präsentation anhand von
   5 Folien) und Teil 3 (Feedback + Rückfrage).
 
 ## Einstiegsgeschichte
 
 **Noa** hat während des Erasmus eine Bürgerinitiative in Wien
 kennengelernt: *„Grünere Innenstadt — mehr Bäume auf der
-Mariahilfer Straße"*. Sie überlegt, ob sie das Thema als
+Mariahilfer Straße“*. Sie überlegt, ob sie das Thema als
 Präsentation für ihr B1-Prüfungsvorbereitungstreffen wählt.
 
 ## 1. Einstieg
@@ -92,16 +92,16 @@ Präsentation für ihr B1-Prüfungsvorbereitungstreffen wählt.
 
 **Aufgabe 1.** Wer sagt was (Stiegler / Rauscher / beide)?
 
-1. „Bäume sind wichtig, aber nicht ausreichend."
-2. „Bei 4 % Umweltbudget wäre es finanzierbar."
-3. „Radwege sind der zweite Schritt."
-4. „Parkgebühren könnten die Gegenfinanzierung sein."
+1. „Bäume sind wichtig, aber nicht ausreichend.“
+2. „Bei 4 % Umweltbudget wäre es finanzierbar.“
+3. „Radwege sind der zweite Schritt.“
+4. „Parkgebühren könnten die Gegenfinanzierung sein.“
 
 **Aufgabe 2.** Schreiben Sie zu jedem Wort aus Input B einen
 eigenen Beispielsatz.
 
 **Aufgabe 3.** Planen Sie in Stichworten eine 5-Folien-Präsentation
-zu *„Eine Initiative in meiner Stadt"*. Nutzen Sie die
+zu *„Eine Initiative in meiner Stadt“*. Nutzen Sie die
 Gliederung: Einleitung — Beispiel — eigene Position — Vor/Nachteil
 — Abschluss.
 
@@ -123,9 +123,9 @@ Stichpunkte, jede Folie beginnt mit einer Leitfrage.
 
 Halten Sie eine 3-Minuten-Präsentation zu einem der zwei Themen:
 
-- **Thema A:** „Wählen ab 16 — sinnvoll oder nicht?"
+- **Thema A:** „Wählen ab 16 — sinnvoll oder nicht?“
 - **Thema B:** „Bürgerinitiativen in meiner Stadt — nützt es
-  überhaupt?"
+  überhaupt?“
 
 **Gliederung (5 Folien):**
 
@@ -145,7 +145,7 @@ stellt **eine Frage** (Teil 3).
 - [ ] Ich kann eine 3-Minuten-Präsentation halten und spontan
       auf eine Frage reagieren.
 
-## Prüfungsbeispiel — Goethe B1 Sprechen, Teil 2 + 3
+## Prüfungsbeispiel — GER B1 Sprechen, Teil 2 + 3
 
 **Aufgabenstellung:** Halten Sie eine Präsentation (5 Folien,
 ca. 3 Min) zu Thema A **oder** Thema B.
@@ -170,10 +170,10 @@ Reflexion 3' · Prüfungsvorschau 31'.
 
 ## Häufige Stolperfallen
 
-- **„Politik"** ist Singular (die Politik); Plural *Politiken*
-  ist selten und bedeutet „politische Linien". Auf B1 Singular
+- **„Politik“** ist Singular (die Politik); Plural *Politiken*
+  ist selten und bedeutet „politische Linien“. Auf B1 Singular
   halten.
-- **„Bürgerinitiative" vs. „Volksabstimmung"** — unterschiedliche
+- **„Bürgerinitiative“ vs. „Volksabstimmung“** — unterschiedliche
   Mechanismen; nicht gleichsetzen.
 
 ## Weiterführende Materialien

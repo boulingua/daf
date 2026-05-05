@@ -40,26 +40,26 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 1: Sich vorstellen.
+Prüfungsmodul **Sprechen** — Teil 1: Sich vorstellen.
 
 ## Einstiegsgeschichte
 
 Montag. Sprachschule in Wien. **Ana** ist neu. Sie steht an der
 Tür. **Luka** sitzt schon am Tisch. **Frau Kurz** lächelt.
 
-> „Hallo! Ich bin Frau Kurz. Und du?"
+> „Hallo! Ich bin Frau Kurz. Und du?“
 >
-> „Ich heiße Ana."
+> „Ich heiße Ana.“
 >
-> „Schön! Woher kommst du, Ana?"
+> „Schön! Woher kommst du, Ana?“
 >
-> „Aus Portugal."
+> „Aus Portugal.“
 
 ## 1. Einstieg
 
 - Welche Wörter kennen Sie auf Deutsch schon?
 - Schauen Sie die Bilder an: Wer winkt? Wer lacht?
-- Zeigen Sie auf „Hallo" und „Tschüss".
+- Zeigen Sie auf „Hallo“ und „Tschüss“.
 
 ## 2. Input
 
@@ -181,12 +181,12 @@ Nennen Sie eine Nummer (Telefon, Postleitzahl, Hausnummer).
 ## Häufige Stolperfallen
 
 - **ß vs. ss:** *heißt* (mit ß), *ist* (ohne).
-- **„aus" + Land:** *aus Portugal*, nicht *in Portugal*.
-- **„Wie heißt du?"** ohne Komma vor *du*.
+- **„aus“ + Land:** *aus Portugal*, nicht *in Portugal*.
+- **„Wie heißt du?“** ohne Komma vor *du*.
 
 ## Weiterführende Materialien
 
-- **DW — „Nicos Weg A1"**:
+- **DW — „Nicos Weg A1“**:
   <https://learngerman.dw.com/de/nicos-weg/c-36519687>
-- **Goethe-Institut — Übungen A1**:
+- **Prüfungsanbieter — Übungen A1**:
   <https://www.goethe.de/de/spr/ueb/a1.html>

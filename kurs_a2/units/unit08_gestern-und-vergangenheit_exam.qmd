@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat A2 — Schreiben, Teil 1"
+title: "GER-Prüfung A2 — Schreiben, Teil 1"
 subtitle: "Einheit 8 · Gestern · GER-Stufe A2"
 author: "S. Le Boulanger"
 format:

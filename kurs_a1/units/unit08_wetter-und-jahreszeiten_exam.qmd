@@ -27,7 +27,7 @@ zweimal. Wählen Sie pro Nachricht die richtige Lösung.
 ### Nachricht 1
 
 > „Hallo Ana, das ist Luka. Heute regnet es. Ich bleibe zu
-> Hause. Gehen wir morgen in den Park?"
+> Hause. Gehen wir morgen in den Park?“
 
 **1.** Wie ist das Wetter heute?
 
@@ -38,7 +38,7 @@ zweimal. Wählen Sie pro Nachricht die richtige Lösung.
 ### Nachricht 2
 
 > „Hier Frau Meier. Die Wanderung am Samstag fällt aus — es soll
-> schneien! Wir machen sie im April."
+> schneien! Wir machen sie im April.“
 
 **2.** Wann findet die Wanderung jetzt statt?
 
@@ -49,7 +49,7 @@ zweimal. Wählen Sie pro Nachricht die richtige Lösung.
 ### Nachricht 3
 
 > „Liebe Kundinnen und Kunden, heute sonnig mit 24 Grad. Unsere
-> Terrasse ist geöffnet!"
+> Terrasse ist geöffnet!“
 
 **3.** Wie warm ist es heute?
 
@@ -59,9 +59,9 @@ zweimal. Wählen Sie pro Nachricht die richtige Lösung.
 
 ## Lösungen
 
-1. **b** — „Heute regnet es."
-2. **b** — „Wir machen sie im April."
-3. **b** — „heute sonnig mit 24 Grad."
+1. **b** — „Heute regnet es.“
+2. **b** — „Wir machen sie im April.“
+3. **b** — „heute sonnig mit 24 Grad.“
 
 ---
 

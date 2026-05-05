@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (Formular: Berufsangabe)
+Prüfungsmodul **Schreiben** — Teil 1 (Formular: Berufsangabe)
 und Teil 2 (kurze persönliche Mitteilung).
 
 ## Einstiegsgeschichte
@@ -133,10 +133,10 @@ die Köchin.
 **Kettenübung.** Jede:r sagt einen Satz zu ihrem/seinem Beruf —
 die nächste Person wiederholt plus fügt sich selbst hinzu:
 
-> A: „Ich bin Programmiererin. Ich arbeite in Wien."
+> A: „Ich bin Programmiererin. Ich arbeite in Wien.“
 >
 > B: „Anna ist Programmiererin und arbeitet in Wien. Ich bin
-> Student und studiere Mathematik."
+> Student und studiere Mathematik.“
 
 ## 5. Reflexion
 
@@ -179,14 +179,14 @@ Prüfungsvorschau 3'.
 
 - **Beruf ohne Artikel** in *Ich bin …*: *Ich bin Lehrer*, nicht
   *Ich bin ein Lehrer* (auf A1 typisch).
-- **„arbeiten als" vs. „arbeiten in/bei":** *Ich arbeite als
+- **„arbeiten als“ vs. „arbeiten in/bei“:** *Ich arbeite als
   Bäcker bei einer Firma in Wien.*
-- **„studieren" vs. „lernen":** studieren = Universität; lernen
+- **„studieren“ vs. „lernen“:** studieren = Universität; lernen
   = allgemein.
 
 ## Weiterführende Materialien
 
-- **DW Nicos Weg — „Beruf und Arbeit"**:
+- **DW Nicos Weg — „Beruf und Arbeit“**:
   <https://learngerman.dw.com/>
 - **BA — Berufenet (offen, nachschlagen)**:
   <https://berufenet.arbeitsagentur.de/>

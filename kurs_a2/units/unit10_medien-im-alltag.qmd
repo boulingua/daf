@@ -1,6 +1,6 @@
 ---
 title: "Einheit 10 — Medien im Alltag"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Hören"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Hören"
 cefr_level: "A2"
 unit_nr: 10
 slug: "medien-im-alltag"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 1 (Radio-Durchsagen, MC-3gl,
+Prüfungsmodul **Hören** — Teil 1 (Radio-Durchsagen, MC-3gl,
 einmaliges Hören).
 
 ## Einstiegsgeschichte
@@ -45,7 +45,7 @@ einmaliges Hören).
 > drei Monate frei.
 > In Basel wird die Fasnacht vorbereitet, das Wetter wird kalt.
 > Der Verkehr auf der A1 bei Linz läuft gut.
-> Die Wirtschaftsnachrichten …"
+> Die Wirtschaftsnachrichten …“
 
 ## 1. Einstieg
 
@@ -59,16 +59,16 @@ einmaliges Hören).
 ### A. Fünf kurze Radio-Durchsagen
 
 > **a)** „In Wien eröffnet heute das Kulturmuseum. Eintritt drei
-> Monate frei."
+> Monate frei.“
 
-> **b)** „In Graz fährt heute ab 10 Uhr die neue Tramlinie 6."
+> **b)** „In Graz fährt heute ab 10 Uhr die neue Tramlinie 6.“
 
-> **c)** „Wetter Zürich: Regen ab Mittag, 14 Grad."
+> **c)** „Wetter Zürich: Regen ab Mittag, 14 Grad.“
 
-> **d)** „Staumeldung: A1 bei Linz 3 km Stau wegen Unfall."
+> **d)** „Staumeldung: A1 bei Linz 3 km Stau wegen Unfall.“
 
 > **e)** „Die Schweizer Nationalbank senkt den Leitzins um 0,25
-> Prozentpunkte."
+> Prozentpunkte.“
 
 ### B. Kurze Zeitungsmeldung (original)
 
@@ -106,7 +106,7 @@ welche Rubrik?
 2. Wer hat sie eröffnet? ___.
 3. Wie lange ist die Fahrzeit? ___.
 
-**Aufgabe 3 — Wortschatz.** Welche Wörter gehören zu „Medien"?
+**Aufgabe 3 — Wortschatz.** Welche Wörter gehören zu „Medien“?
 Kreuzen Sie an.
 
 - Zeitung ✓ · Regen · Sender ✓ · Teller · Überschrift ✓ · Kopf
@@ -135,7 +135,7 @@ Verkehr, Wetter oder Sport).
 - [ ] Ich verstehe Details in einer Zeitungsmeldung.
 - [ ] Ich schreibe eine 2-Satz-Durchsage.
 
-## Prüfungsbeispiel — Goethe A2 Hören, Teil 1
+## Prüfungsbeispiel — GER A2 Hören, Teil 1
 
 **Aufgabenstellung:** Sie hören fünf Radio-Durchsagen (einmal).
 Wählen Sie bei jeder die richtige Lösung a/b/c.
@@ -170,10 +170,10 @@ Prüfungsvorschau 8'.
 
 ## Häufige Stolperfallen
 
-- **„die Nachrichten"** nur Plural, kein Singular „*die Nachricht*"
+- **„die Nachrichten“** nur Plural, kein Singular „*die Nachricht*“
   in diesem Sinn (eine Nachricht = *a message*).
-- **„Eintritt frei"** = Eintritt = 0 €.
-- **„öffnen / eröffnen":** *eröffnen* für erste Öffnung / Eröffnung
+- **„Eintritt frei“** = Eintritt = 0 €.
+- **„öffnen / eröffnen“:** *eröffnen* für erste Öffnung / Eröffnung
   eines Ortes; *öffnen* generell.
 
 ## Weiterführende Materialien

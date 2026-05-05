@@ -1,6 +1,6 @@
 ---
 title: "Einheit 11 — Umwelt im Alltag: Müll trennen, sparen"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Hören"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Hören"
 cefr_level: "A2"
 unit_nr: 11
 slug: "umwelt-und-alltag"
@@ -32,14 +32,14 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Hören** — Teil 2 (zusammenhängendes Gespräch,
+Prüfungsmodul **Hören** — Teil 2 (zusammenhängendes Gespräch,
 Zuordnung Bild/Text).
 
 ## Einstiegsgeschichte
 
 **Herr Ebner** (aus Graz) erklärt **Omar**, wie die österreichische
 Mülltrennung geht. *„Das ist kompliziert, aber logisch — wenn
-du es einmal verstanden hast."*
+du es einmal verstanden hast.“*
 
 ## 1. Einstieg
 
@@ -134,7 +134,7 @@ gehört und warum.
 - [ ] Ich verstehe einen Radio-Dialog zur Umwelt.
 - [ ] Ich formuliere drei Umwelt-Tipps im Imperativ (du).
 
-## Prüfungsbeispiel — Goethe A2 Hören, Teil 2
+## Prüfungsbeispiel — GER A2 Hören, Teil 2
 
 **Aufgabenstellung:** Sie hören ein zusammenhängendes Gespräch
 über Mülltrennung (Transkript A). Ordnen Sie die fünf
@@ -171,9 +171,9 @@ Prüfungsvorschau 5'.
 
 ## Häufige Stolperfallen
 
-- **„Gelber Sack" in DE, „Gelbe Tonne" in AT.** Unterschied nach
+- **„Gelber Sack“ in DE, „Gelbe Tonne“ in AT.** Unterschied nach
   Gemeinde.
-- **„Restmüll"** kommt am Ende: nur was nirgendwo sonst passt.
+- **„Restmüll“** kommt am Ende: nur was nirgendwo sonst passt.
 - **Batterien / Elektrogeräte:** *niemals* in den Hausmüll.
 
 ## Weiterführende Materialien

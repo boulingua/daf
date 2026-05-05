@@ -1,6 +1,6 @@
 ---
 title: "Einheit 6 — Umwelt und Mobilität"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Hören"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Hören"
 cefr_level: "B1"
 unit_nr: 6
 slug: "umwelt-und-mobilitaet"
@@ -37,13 +37,13 @@ format:
 
 - … **kann ich** einer Podiumsdiskussion folgen und die
   Positionen den Sprecher:innen zuordnen.
-- … **kann ich** zum Thema „Mobilität in der Stadt" eine
+- … **kann ich** zum Thema „Mobilität in der Stadt“ eine
   eigene Haltung formulieren und kurz begründen.
 - … **kann ich** Gegenargumente höflich annehmen.
 
 ## GER-Ausrichtung
 
-- Goethe-Modul **Hören** — Teil 3 (Gespräche zwischen
+- Prüfungsmodul **Hören** — Teil 3 (Gespräche zwischen
   Muttersprachlern; Wer sagt was?).
 - Anschluss: B1-Sprechen-Teil 3 (Feedback & situationsadäquate
   Reaktion).
@@ -52,7 +52,7 @@ format:
 
 Eine Podiumsdiskussion im **Kulturzentrum Sarajevo**, organisiert
 vom Österreichischen Kulturforum. Thema: *„Autofrei? Wie geht das
-in einer Stadt, in der der Bus drei Mal am Tag fährt?"* Drei
+in einer Stadt, in der der Bus drei Mal am Tag fährt?“* Drei
 Gäste: **Kjell Baumann** (NGO-Mitarbeiter, Köln), **Amina Mišić**
 (Verkehrsplanerin, Sarajevo), **Herr Stefan Tanner** (Rentner,
 Salzburg). Moderation: Nihad Kovač.
@@ -62,7 +62,7 @@ Salzburg). Moderation: Nihad Kovač.
 - Wie kommen Sie typischerweise in die Stadtmitte — Auto, Rad,
   Öffis, zu Fuß? Was sagt das über Ihre Stadt aus?
 - Welche Argumente hören Sie häufig für / gegen autofreie Zonen?
-- „Mobilität ist Freiheit." Stimmen Sie zu?
+- „Mobilität ist Freiheit.“ Stimmen Sie zu?
 
 ## 2. Input
 
@@ -80,7 +80,7 @@ Salzburg). Moderation: Nihad Kovač.
 > **Kjell Baumann:** Genau dieses Argument höre ich in Köln auch.
 > Wir sagen dann: Wir fangen mit *einem* Viertel an, dann noch
 > einem. In Köln gibt es jetzt fünf „verkehrsberuhigte
-> Quartiere". Nach sechs Monaten sind die Anwohner begeistert —
+> Quartiere“. Nach sechs Monaten sind die Anwohner begeistert —
 > weil die Kinder wieder draußen spielen können.
 >
 > **Herr Tanner:** Das hört sich schön an, aber für uns Ältere
@@ -117,12 +117,12 @@ Salzburg). Moderation: Nihad Kovač.
 **Aufgabe 1 — Zuordnung (B1-Hören Teil 3).** Ordnen Sie die
 Aussage der Person zu: **N = Nihad · A = Amina · K = Kjell · T = Tanner**
 
-1. „Ohne guten öffentlichen Verkehr funktioniert es nicht."
-2. „Für ältere Menschen ist das Auto oft die einzige Option."
-3. „Wir fangen mit einem Viertel an, dann noch einem."
-4. „Dreißig Prozent der Fahrten sind unter zwei Kilometer."
-5. „Ausnahmen für Lieferverkehr müssen klar geregelt sein."
-6. „Mit dem Rad wäre ich wieder unterwegs, wenn die Wege sicher wären."
+1. „Ohne guten öffentlichen Verkehr funktioniert es nicht.“
+2. „Für ältere Menschen ist das Auto oft die einzige Option.“
+3. „Wir fangen mit einem Viertel an, dann noch einem.“
+4. „Dreißig Prozent der Fahrten sind unter zwei Kilometer.“
+5. „Ausnahmen für Lieferverkehr müssen klar geregelt sein.“
+6. „Mit dem Rad wäre ich wieder unterwegs, wenn die Wege sicher wären.“
 
 **Aufgabe 2 — Argumente sortieren.** Ordnen Sie *pro autofrei*
 oder *contra autofrei* zu:
@@ -152,8 +152,8 @@ oder *contra autofrei* zu:
 Wählen Sie eine Position und halten Sie eine 90-Sekunden-
 Stellungnahme vor der Gruppe:
 
-- *„Meine Stadt sollte ein autofreies Viertel haben."*
-- *„Meine Stadt braucht kein autofreies Viertel."*
+- *„Meine Stadt sollte ein autofreies Viertel haben.“*
+- *„Meine Stadt braucht kein autofreies Viertel.“*
 
 **Baukasten (B1):**
 
@@ -172,7 +172,7 @@ Feedback** und stellt **eine Frage**.
 - [ ] Ich kann eine eigene Position in 90 Sekunden begründen.
 - [ ] Ich kann höflich auf ein Gegenargument reagieren.
 
-## Prüfungsbeispiel — Goethe B1 Hören, Teil 3
+## Prüfungsbeispiel — GER B1 Hören, Teil 3
 
 **Aufgabenstellung:** Sie hören (eine Woche später wieder) den
 Ausschnitt aus der Diskussion. Entscheiden Sie zu sechs Aussagen,
@@ -191,13 +191,13 @@ ob sie *richtig* oder *falsch* sind. Sie hören den Text einmal.
 
 ::: {.callout-tip collapse="true" title="Lösungen Prüfungsbeispiel"}
 
-1. **Falsch** (*„technisch ja, politisch kompliziert"*).
+1. **Falsch** (*„technisch ja, politisch kompliziert“*).
 2. **Richtig**.
 3. **Falsch** (Tanner argumentiert kontextuell, nicht absolut
    gegen).
 4. **Richtig**.
-5. **Falsch** (*„kürzer als zwei Kilometer"*, nicht Minuten).
-6. **Richtig** (*„wenn ich mich traute"*).
+5. **Falsch** (*„kürzer als zwei Kilometer“*, nicht Minuten).
+6. **Richtig** (*„wenn ich mich traute“*).
 
 :::
 
@@ -214,15 +214,15 @@ Reflexion 3' · Prüfungsvorschau 29'.
 
 ## Häufige Stolperfallen
 
-- **„Anwohner" vs. „Einwohner":** Anwohner = an einer Straße
+- **„Anwohner“ vs. „Einwohner“:** Anwohner = an einer Straße
   wohnen; Einwohner = Bewohner einer Stadt.
-- **„unter" + Dativ für Zeitangaben** („unter zwei Minuten") vs.
-  **„unter" + Dativ für räumliche Beziehungen** — in der Hörung
+- **„unter“ + Dativ für Zeitangaben** („unter zwei Minuten“) vs.
+  **„unter“ + Dativ für räumliche Beziehungen** — in der Hörung
   oft verwechselt.
 
 ## Weiterführende Materialien
 
-- **DW — „Wieso? Weshalb? Warum?"** (B1-Erklär-Podcast):
+- **DW — „Wieso? Weshalb? Warum?“** (B1-Erklär-Podcast):
   <https://learngerman.dw.com/>
 - **Agora Verkehrswende** (Hintergrund zur Verkehrspolitik):
   <https://www.agora-verkehrswende.de/>

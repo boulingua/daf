@@ -1,6 +1,6 @@
 ---
 title: "Einheit 2 — Wohnung mieten"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Sprechen"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen"
 cefr_level: "A2"
 unit_nr: 2
 slug: "wohnung-mieten"
@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Sprechen** — Teil 3: Gemeinsam etwas planen
+Prüfungsmodul **Sprechen** — Teil 3: Gemeinsam etwas planen
 (Besichtigung).
 
 ## Einstiegsgeschichte
@@ -165,7 +165,7 @@ E. Wann kann ich sie anschauen?
 - [ ] Ich stelle drei W-Fragen zu einer Anzeige.
 - [ ] Ich handle einen Besichtigungstermin aus.
 
-## Prüfungsbeispiel — Goethe A2 Sprechen, Teil 3
+## Prüfungsbeispiel — GER A2 Sprechen, Teil 3
 
 **Aufgabenstellung (Paarprüfung):** Sie planen gemeinsam eine
 Wohnungsbesichtigung. Einigen Sie sich auf:
@@ -191,7 +191,7 @@ Prüfungsvorschau 17'.
 - **Warmmiete** = Kaltmiete + Nebenkosten. Frage immer: Warm
   oder kalt?
 - **Kaution** ist eine Sicherheit, die man zurückbekommt.
-- **„Wann könnte ich …"** — höfliche Frage mit Konjunktiv II auf
+- **„Wann könnte ich …“** — höfliche Frage mit Konjunktiv II auf
   A2 rezeptiv.
 
 ## Weiterführende Materialien

@@ -28,7 +28,7 @@ Sie hören **fünf Durchsagen** (je einmal). Ist die Aussage
 ### Durchsage 1
 
 > „Sehr geehrte Kundinnen und Kunden, heute im Sonderangebot:
-> Äpfel aus Österreich, 1 kg für nur 99 Cent."
+> Äpfel aus Österreich, 1 kg für nur 99 Cent.“
 
 **Aussage 1:** Ein Kilogramm Äpfel kostet 99 Cent.
 
@@ -37,7 +37,7 @@ Sie hören **fünf Durchsagen** (je einmal). Ist die Aussage
 
 ### Durchsage 2
 
-> „Angebot der Woche: Milch aus Tirol, 1 Liter für 1,29 €."
+> „Angebot der Woche: Milch aus Tirol, 1 Liter für 1,29 €.“
 
 **Aussage 2:** Milch kostet über 2 Euro.
 
@@ -46,7 +46,7 @@ Sie hören **fünf Durchsagen** (je einmal). Ist die Aussage
 
 ### Durchsage 3
 
-> „Kaffee frisch gebrüht in unserem Café-Shop, pro Tasse 2 Euro."
+> „Kaffee frisch gebrüht in unserem Café-Shop, pro Tasse 2 Euro.“
 
 **Aussage 3:** Eine Tasse Kaffee kostet 2 Euro.
 
@@ -55,7 +55,7 @@ Sie hören **fünf Durchsagen** (je einmal). Ist die Aussage
 
 ### Durchsage 4
 
-> „Frisches Brot aus eigener Backstube, 500 Gramm nur 2,50 €."
+> „Frisches Brot aus eigener Backstube, 500 Gramm nur 2,50 €.“
 
 **Aussage 4:** Ein halbes Kilo Brot kostet 2,50 €.
 
@@ -64,7 +64,7 @@ Sie hören **fünf Durchsagen** (je einmal). Ist die Aussage
 
 ### Durchsage 5
 
-> „Bitte beachten Sie: Kasse 3 ist geöffnet."
+> „Bitte beachten Sie: Kasse 3 ist geöffnet.“
 
 **Aussage 5:** Die dritte Kasse ist geschlossen.
 
@@ -74,7 +74,7 @@ Sie hören **fünf Durchsagen** (je einmal). Ist die Aussage
 ## Lösungen
 
 1. **R** · 2. **F** (1,29 € < 2 €) · 3. **R** · 4. **R** (500 g
-= halbes Kilo) · 5. **F** („geöffnet", nicht geschlossen).
+= halbes Kilo) · 5. **F** („geöffnet“, nicht geschlossen).
 
 ---
 

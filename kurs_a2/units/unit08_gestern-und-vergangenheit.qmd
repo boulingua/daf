@@ -1,6 +1,6 @@
 ---
 title: "Einheit 8 — Gestern — Ereignisse erzählen"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Schreiben"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben"
 cefr_level: "A2"
 unit_nr: 8
 slug: "gestern-und-vergangenheit"
@@ -32,7 +32,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (persönliche Mitteilung zur
+Prüfungsmodul **Schreiben** — Teil 1 (persönliche Mitteilung zur
 Kontaktpflege: Bericht an Freund:in).
 
 ## Einstiegsgeschichte
@@ -44,14 +44,14 @@ beim Pflegeheim. Maja erzählt:
 > gefrühstückt, bin zum Pflegeheim gefahren und habe eine Stunde
 > mit der Chefin gesprochen. Danach habe ich einen Kaffee
 > getrunken und bin nach Hause gefahren. Die Chefin hat mir
-> gesagt, sie meldet sich in zwei Tagen."
+> gesagt, sie meldet sich in zwei Tagen.“
 
 ## 1. Einstieg
 
 - Was haben Sie gestern gemacht?
 - Nennen Sie zwei Verben mit **haben** (gegessen, getrunken) und
   zwei mit **sein** (gegangen, gefahren).
-- Wie sagt man „ich bin aufgestanden" in Ihrer Muttersprache?
+- Wie sagt man „ich bin aufgestanden“ in Ihrer Muttersprache?
 
 ## 2. Input
 
@@ -140,7 +140,7 @@ Freund / einer Freundin, was Sie **gestern** gemacht haben:
 - [ ] Ich nenne 10 Partizipien II.
 - [ ] Ich schreibe eine 40-Wörter-Erzählung über gestern.
 
-## Prüfungsbeispiel — Goethe A2 Schreiben, Teil 1
+## Prüfungsbeispiel — GER A2 Schreiben, Teil 1
 
 **Aufgabe:** Sie schreiben einer Freundin, was Sie gestern
 gemacht haben (ca. 30 Wörter):
@@ -178,10 +178,10 @@ Prüfungsvorschau 5'.
   *Ich habe das Auto gefahren.*
 - **Partizip II steht am Satzende**: *Ich bin gestern nach Wien
   **gefahren**.*
-- **„gestern"** → Perfekt. **„heute"** → oft Präsens.
+- **„gestern“** → Perfekt. **„heute“** → oft Präsens.
 
 ## Weiterführende Materialien
 
-- **DW „Jojo sucht das Glück" A2 mit Perfekt**:
+- **DW „Jojo sucht das Glück“ A2 mit Perfekt**:
   <https://learngerman.dw.com/>
 - **Deutschakademie Perfekt A2 Übungen**.

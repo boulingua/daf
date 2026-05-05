@@ -1,6 +1,6 @@
 ---
 title: "Einheit 2 — Der Bewerbungsweg"
-subtitle: "GER-Stufe B1 · Goethe-Zertifikat B1 · Modul Schreiben"
+subtitle: "GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben"
 cefr_level: "B1"
 unit_nr: 2
 slug: "der-bewerbungsweg"
@@ -48,7 +48,7 @@ Am Ende dieser Einheit …
 
 - Kompetenzbereich: **Schriftliche Interaktion / Produktion**
   (B1, halb-formelle Korrespondenz).
-- Goethe-Modul dieser Einheit: **Schreiben** — Teil 3
+- Prüfungsmodul dieser Einheit: **Schreiben** — Teil 3
   (persönliche Mitteilung zur Handlungsregulierung) mit
   Anschluss an Teil 1 (Kontaktpflege).
 - Zusätzlich mündlich: B1-Sprechen-Teil 3 als Rollenspiel
@@ -65,8 +65,8 @@ nächsten Schritt nach Österreich machen — ein Kantonsspital in
 Villach hat eine Stelle ausgeschrieben. Sie hat den deutschen Text
 dreimal gelesen und ihn immer noch nicht ganz verstanden.
 
-„Komm", sagt Milos, „wir schreiben das zusammen. Und nächste
-Woche üben wir das Gespräch."
+„Komm“, sagt Milos, „wir schreiben das zusammen. Und nächste
+Woche üben wir das Gespräch.“
 
 ## 1. Einstieg
 
@@ -113,7 +113,7 @@ Bausteine:
 2. **Adresse der Empfänger:in** — Firma, Abteilung, Name wenn
    bekannt.
 3. **Betreff** — „Bewerbung als Pflegefachfrau in der Inneren
-   Medizin" oder ähnlich konkret.
+   Medizin“ oder ähnlich konkret.
 4. **Anrede** — *Sehr geehrte Frau Rauter,*
 5. **Text** — Einstieg, Motivation, Qualifikationen,
    Schlussformel (3–5 kurze Absätze).
@@ -135,7 +135,7 @@ Bausteine:
 > mit älteren Patient:innen; die Dokumentation am Computer läuft
 > für mich inzwischen routiniert.
 >
-> Deutsch habe ich in einem Sprachkurs im Goethe-Institut
+> Deutsch habe ich in einem Sprachkurs im Prüfungsanbieter
 > Zagreb gelernt und dort 2024 das B1-Zertifikat abgelegt. Ich
 > möchte mich in Villach weiterentwickeln, weil ich deutschsprachige
 > Arbeitsumgebungen kenne und mir die Zusammenarbeit mit einem
@@ -163,12 +163,12 @@ Bausteine:
 **Aufgabe 1 — Reihenfolge.** Bringen Sie die folgenden Sätze in
 die richtige Reihenfolge für ein B1-Anschreiben (A–F).
 
-A. „Über die Möglichkeit eines persönlichen Gesprächs würde ich mich freuen."
-B. „Mit großem Interesse habe ich Ihre Anzeige gelesen."
-C. „Mit freundlichen Grüßen, Marta Jelińska."
-D. „Sehr geehrte Frau Rauter,"
-E. „Ich habe 2023 meine Ausbildung zur Pflegefachfrau abgeschlossen."
-F. „Ich möchte mich beruflich weiterentwickeln und suche daher eine neue Stelle in Österreich."
+A. „Über die Möglichkeit eines persönlichen Gesprächs würde ich mich freuen.“
+B. „Mit großem Interesse habe ich Ihre Anzeige gelesen.“
+C. „Mit freundlichen Grüßen, Marta Jelińska.“
+D. „Sehr geehrte Frau Rauter,“
+E. „Ich habe 2023 meine Ausbildung zur Pflegefachfrau abgeschlossen.“
+F. „Ich möchte mich beruflich weiterentwickeln und suche daher eine neue Stelle in Österreich.“
 
 **Aufgabe 2 — Welche Wendung ist zu informell?** Streichen Sie
 die Variante, die **nicht** in ein formelles Anschreiben gehört.
@@ -180,7 +180,7 @@ die Variante, die **nicht** in ein formelles Anschreiben gehört.
 **Aufgabe 3 — Fehlersuche.** Finden Sie die drei Fehler im
 folgenden Satz und korrigieren Sie ihn: „Ich arbeite seit drei
 Jahr in ein Krankenhaus und hab schon viele Erfahrung mit
-Patient."
+Patient.“
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -196,10 +196,10 @@ Grußformel.
 
 **Aufgabe 3.** Drei Fehler + Korrektur:
 
-- „drei Jahr" → **drei Jahren** (Dativ Plural).
-- „in ein Krankenhaus" → **in einem Krankenhaus**
+- „drei Jahr“ → **drei Jahren** (Dativ Plural).
+- „in ein Krankenhaus“ → **in einem Krankenhaus**
   (Dativ: *wo?*).
-- „hab schon viele Erfahrung" → **habe schon viel Erfahrung**
+- „hab schon viele Erfahrung“ → **habe schon viel Erfahrung**
   (vollständig + Singular, weil *Erfahrung* hier abstrakt;
   alternativ: *viele Erfahrungen* in Pluralbedeutung).
 
@@ -242,7 +242,7 @@ Lejla im Schichtdienst ist.
 - [ ] Ich erkenne drei typische B1-Fehler (Dativ Plural,
       Präposition + Kasus, vollständige Verbform).
 
-## Prüfungsbeispiel — Goethe B1 Schreiben, Teil 3
+## Prüfungsbeispiel — GER B1 Schreiben, Teil 3
 
 ::: {.callout-warning}
 Formal am offiziellen B1-Schreiben-Modul orientiert (persönliche
@@ -278,27 +278,27 @@ selbst gewählte Anzeige entwerfen. Schwächere: das Muster in
 Aufgabe 1 mit Hilfe der Redemittel-Tabelle rekonstruieren.
 
 **Mikro-Check:** „Was unterscheidet *Sehr geehrte Damen und
-Herren* von *Sehr geehrte Frau Rauter* — und wann benutzt man was?"
+Herren* von *Sehr geehrte Frau Rauter* — und wann benutzt man was?“
 
 :::
 
 ## Häufige Stolperfallen
 
-- **„Sehr geehrte Frau" ohne Nachnamen** geht nie. Wenn der Name
+- **„Sehr geehrte Frau“ ohne Nachnamen** geht nie. Wenn der Name
   nicht bekannt ist: *Sehr geehrte Damen und Herren*.
 - **Zeitangabe mit Dativ.** *seit drei Jahren*, nicht *seit drei
   Jahre*.
 - **Präpositionen + Kasus.** *in einem Krankenhaus* (wo? →
   Dativ), nicht *in ein*.
-- **„Bis bald" / „Liebe Grüße"** sind zu informell für
+- **„Bis bald“ / „Liebe Grüße“** sind zu informell für
   Bewerbungen; korrekt ist *Mit freundlichen Grüßen*.
 
 ## Weiterführende Materialien
 
-- **Deutsche Welle — „Deutsch im Job"**:
+- **Deutsche Welle — „Deutsch im Job“**:
   <https://learngerman.dw.com/de/deutsch-im-job/c-60258145>
 - **EURES — Europäisches Portal zur beruflichen Mobilität**
   (Stellenanzeigen auf Deutsch in DACH + EU):
   <https://eures.europa.eu/>
-- **Goethe-Institut — Deutsch für den Beruf**:
+- **Prüfungsanbieter — Deutsch für den Beruf**:
   <https://www.goethe.de/de/spr/ueb.html>

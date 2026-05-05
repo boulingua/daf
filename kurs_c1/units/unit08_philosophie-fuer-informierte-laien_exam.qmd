@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Schreiben, Teil 2"
+title: "GER-Prüfung C1 — Schreiben, Teil 2"
 subtitle: "Einheit 8 · Philosophie für Laien · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -37,8 +37,8 @@ Setzen Sie folgende vier Sprachfunktionen um:
 > abgeflacht wird.
 >
 > Ich möchte Sie auf eine kleine Unklarheit aufmerksam machen:
-> die Stelle „immer schon voraussetzen" lässt sich leicht mit
-> „selbstverständlich" verwechseln. Vielleicht würde ein
+> die Stelle „immer schon voraussetzen“ lässt sich leicht mit
+> „selbstverständlich“ verwechseln. Vielleicht würde ein
 > alltägliches Beispiel — etwa der Boden unter dem Bett — diese
 > Differenz für die Diskussion sichern.
 >

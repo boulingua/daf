@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Schreiben, Teil 1"
+title: "GER-Prüfung B2 — Schreiben, Teil 1"
 subtitle: "Einheit 3 · Gesellschaftliche Debatten · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -17,7 +17,7 @@ Verfassen Sie in einem Online-Forum einen **Kommentar**
 (ca. 150 Wörter) zu folgender These:
 
 > *„Junge Erwachsene sollten verpflichtend ein soziales Jahr
-> absolvieren, bevor sie ins Berufsleben starten."*
+> absolvieren, bevor sie ins Berufsleben starten.“*
 
 Setzen Sie vier **Sprachfunktionen** um:
 

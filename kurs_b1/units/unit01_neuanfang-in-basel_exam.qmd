@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Sprechen, Teile 2 und 3"
+title: "GER-Modellprüfung B1 — Sprechen, Teile 2 und 3"
 subtitle: "Einheit 1 · Neuanfang in Basel · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -19,7 +19,7 @@ format:
 ::: {.callout-warning}
 Diese Aufgabe ist **formal am offiziellen B1-Sprechen-Modul
 orientiert** (Vortrag + Feedback). Kein Text ist aus einem
-Goethe-Modellsatz reproduziert — Stimulus und Struktur sind
+Modellsatz reproduziert — Stimulus und Struktur sind
 original von S. Le Boulanger.
 :::
 
@@ -68,14 +68,14 @@ wird die gesamte Aufgabe mit 0 bewertet.
 Ein gutes B1-Niveau enthält für Thema A mindestens:
 
 - eine **persönliche Anbindung** („Ich kenne jemanden, die / ich
-  selber habe einmal …");
+  selber habe einmal …“);
 - zwei konkrete **Beispiele** (Familie, Freund:in, eigene
   Erfahrung, Medienbericht);
 - einen Hinweis auf **Unterschiede zwischen Ländern**;
 - mindestens **einen Vorteil und einen Nachteil** mit Begründung
-  („weil …", „das führt dazu, dass …");
+  („weil …“, „das führt dazu, dass …“);
 - einen klaren **Abschluss** („Meiner Meinung nach lohnt sich
-  das, wenn …").
+  das, wenn …“).
 
 Typische Schwächen auf B1: reine Aufzählung ohne Konnektoren,
 keine Ich-Perspektive, Wiederholung statt Variation im

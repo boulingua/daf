@@ -5,8 +5,6 @@ aliases:
   - /legal/impressum/
 ---
 
-# Impressum
-
 ## Angaben gemäß § 5 DDG
 
 S. Le Boulanger\
@@ -47,15 +45,15 @@ Hinweise zur Haftung für eigene Inhalte, fremde Inhalte und Links
 sowie zum Urheberrecht finden Sie auf der Seite
 [Haftungsausschluss](haftungsausschluss.qmd).
 
-## Hinweis zum Goethe-Institut
+## Hinweis zum Prüfungsanbieter
 
 Die auf dieser Website bereitgestellten Prüfungsbeispiele
 orientieren sich formal an den öffentlich dokumentierten
-Prüfungsformaten der Goethe-Zertifikate A1–C1. Sie sind eigene
+Prüfungsformaten der GER-Prüfungen A1–C1. Sie sind eigene
 didaktische Adaptionen der Autorin und stehen in **keinem
-offiziellen Zusammenhang mit dem Goethe-Institut e. V.** Für die
+offiziellen Zusammenhang mit dem Prüfungsanbieter** Für die
 offizielle Anmeldung, Durchführung und Bewertung der
-Goethe-Zertifikate ist ausschließlich das Goethe-Institut und
+GER-Prüfungen ist ausschließlich das Prüfungsanbieter und
 seine Prüfungszentren zuständig.
 
 Offizielle Informationen: <https://www.goethe.de/de/spr/kup/prf.html>

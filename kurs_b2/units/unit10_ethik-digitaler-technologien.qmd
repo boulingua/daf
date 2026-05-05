@@ -1,6 +1,6 @@
 ---
 title: "Einheit 10 — Ethik digitaler Technologien"
-subtitle: "GER-Stufe B2 · Goethe-Zertifikat B2 · Modul Schreiben"
+subtitle: "GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben"
 cefr_level: "B2"
 unit_nr: 10
 slug: "ethik-digitaler-technologien"
@@ -32,14 +32,14 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (Meinungsäußerung) +
+Prüfungsmodul **Schreiben** — Teil 1 (Meinungsäußerung) +
 Register-Moderation (halb-formell).
 
 ## Einstiegsgeschichte
 
 **Dr. Talia Weiss** (Ethikerin aus Freiburg, aus Einheit 2) hält
 im Ö1-Podcast einen Kurzbeitrag zum Thema *„Gesichtserkennung in
-Schulen — darf das sein?"* Kjell moderiert das zugehörige Forum.
+Schulen — darf das sein?“* Kjell moderiert das zugehörige Forum.
 
 ## 1. Einstieg
 
@@ -53,16 +53,16 @@ Schulen — darf das sein?"* Kjell moderiert das zugehörige Forum.
 ### A. Drei Forumsbeiträge
 
 > **Benutzer:in 1 (pro):** „Wenn Kameras Vandalismus verhindern,
-> ist das ein Nutzen für alle. Die Technik funktioniert."
+> ist das ein Nutzen für alle. Die Technik funktioniert.“
 
 > **Benutzer:in 2 (kontra):** „Überwachung in Schulen gewöhnt
 > Kinder daran, dass jede Bewegung beobachtet wird. Das ist
-> keine Demokratie-Erziehung."
+> keine Demokratie-Erziehung.“
 
 > **Benutzer:in 3 (differenzierend):** „Gesichtserkennung ist
 > nicht gleich Gesichtserkennung. Für Zutrittskontrolle am
 > Eingang sehe ich Nutzen. In Unterrichtsräumen sehe ich ein
-> Problem."
+> Problem.“
 
 ### B. Ethische Begriffe
 
@@ -77,10 +77,10 @@ Schulen — darf das sein?"* Kjell moderiert das zugehörige Forum.
 
 ### C. Moderations-Redemittel
 
-- *„Interessanter Punkt. Können Sie konkretisieren, wie …?"*
-- *„Ich verstehe die Sorge. Zugleich zeigt die Studie …"*
-- *„Lassen wir beide Seiten ausklingen und schauen dann auf …"*
-- *„Wir nähern uns einem differenzierten Bild: …"*
+- *„Interessanter Punkt. Können Sie konkretisieren, wie …?“*
+- *„Ich verstehe die Sorge. Zugleich zeigt die Studie …“*
+- *„Lassen wir beide Seiten ausklingen und schauen dann auf …“*
+- *„Wir nähern uns einem differenzierten Bild: …“*
 
 ## 3. Üben
 
@@ -94,18 +94,18 @@ Schulen — darf das sein?"* Kjell moderiert das zugehörige Forum.
 **Aufgabe 2 — Moderieren.** Welche Antwort moderiert am
 besten?
 
-*„Alle, die gegen Überwachung sind, haben etwas zu verbergen."*
+*„Alle, die gegen Überwachung sind, haben etwas zu verbergen.“*
 
-a) „Das stimmt nicht." · b) „Das ist eine zugespitzte Aussage.
-Können wir drei konkrete Szenarien durchgehen?" · c) „Ich lösche
-Ihren Beitrag."
+a) „Das stimmt nicht.“ · b) „Das ist eine zugespitzte Aussage.
+Können wir drei konkrete Szenarien durchgehen?“ · c) „Ich lösche
+Ihren Beitrag.“
 
 **Aufgabe 3 — Zwei Seiten formulieren.**
 
-> *„Einerseits … · Andererseits …"*
+> *„Einerseits … · Andererseits …“*
 
 Füllen Sie je einen Satz zu: *„KI-Analyse von
-Schüler:innen-Leistung"*.
+Schüler:innen-Leistung“*.
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -126,7 +126,7 @@ Verhältnismäßigkeit.
 
 **Schreibaufgabe (B2, ca. 150 Wörter):** Sie moderieren ein
 Forum zur Frage *„Sollen Schulen Gesichtserkennung für
-Zutrittskontrolle nutzen?"*. Schreiben Sie ein moderierendes
+Zutrittskontrolle nutzen?“*. Schreiben Sie ein moderierendes
 Eingangsstatement mit:
 
 - Begrüßung,
@@ -141,12 +141,12 @@ Eingangsstatement mit:
 - [ ] Ich moderiere zugespitzte Aussagen respektvoll.
 - [ ] Ich formuliere zwei Perspektiven mit *einerseits/andererseits*.
 
-## Prüfungsbeispiel — Goethe B2 Schreiben, Teil 1
+## Prüfungsbeispiel — GER B2 Schreiben, Teil 1
 
 **Aufgabe:** Kommentar (ca. 150 Wörter) zur These:
 
 > *„Staatliche Stellen sollten KI-gestützte Auswertung öffentlicher
-> Daten nur nach Zustimmung der Betroffenen verwenden."*
+> Daten nur nach Zustimmung der Betroffenen verwenden.“*
 
 Mit den vier Sprachfunktionen aus dem B2-Prüfungsformat
 (Meinung, Argument, Beispiel, Vor/Nachteile).
@@ -162,11 +162,11 @@ Prüfungsvorschau 13'.
 
 ## Häufige Stolperfallen
 
-- **„Datenschutz" (DSGVO)** vs. **„Datensicherheit"** (technische
+- **„Datenschutz“ (DSGVO)** vs. **„Datensicherheit“** (technische
   Absicherung). Zwei Dinge.
-- **„Verhältnismäßigkeit"** als Rechtsbegriff — wichtig in
+- **„Verhältnismäßigkeit“** als Rechtsbegriff — wichtig in
   Debatten.
-- **„Bias"** wird im Deutschen oft übernommen; Alternative:
+- **„Bias“** wird im Deutschen oft übernommen; Alternative:
   *Verzerrung*.
 
 ## Weiterführende Materialien

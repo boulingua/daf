@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat B2 — Sprechen Teil 1 + 2"
+title: "GER-Prüfung B2 — Sprechen Teil 1 + 2"
 subtitle: "Einheit 4 · Arbeitswelt im Wandel · GER-Stufe B2"
 author: "S. Le Boulanger"
 format:
@@ -25,7 +25,7 @@ dienen?
 
 ### Teil 2 — Diskussion
 
-> *„KI wird die Jobs der Zukunft mehr schaffen als zerstören."*
+> *„KI wird die Jobs der Zukunft mehr schaffen als zerstören.“*
 
 Vertreten Sie je eine Seite (Befürworter / Kritiker) argumentativ.
 
@@ -43,7 +43,7 @@ Ein guter B2-Vortrag zu Thema A enthält:
 
 - eine klare Position + Begründung
 - mindestens ein konkretes Beispiel (Hausarbeit, Prüfungsform)
-- ein Gegenargument („Dagegen lässt sich einwenden …")
+- ein Gegenargument („Dagegen lässt sich einwenden …“)
 - eine Schlussfolgerung mit Konsequenz für die Praxis
 - mindestens zwei Konnektoren (kausal, konzessiv)
 

@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Zertifikat C1 — Schreiben, Teil 1"
+title: "GER-Prüfung C1 — Schreiben, Teil 1"
 subtitle: "Einheit 2 · Politische Diskursanalyse · GER-Stufe C1"
 author: "S. Le Boulanger"
 format:
@@ -17,7 +17,7 @@ Verfassen Sie in einem Feuilleton-Forum einen **analytischen
 Kommentar** (**ca. 230 Wörter**) zur These:
 
 > *„Die Schule sollte ein Pflichtfach ‚Rhetorik und
-> Medienkompetenz' einführen."*
+> Medienkompetenz' einführen.“*
 
 Setzen Sie die folgenden vier **Sprachfunktionen** um:
 
@@ -41,7 +41,7 @@ Thema verfehlt oder Textumfang < 50 % → insgesamt E.
 
 > **Rhetorik lernen — damit wir nicht nur überredet werden**
 >
-> Ein Pflichtfach „Rhetorik und Medienkompetenz" halte ich in
+> Ein Pflichtfach „Rhetorik und Medienkompetenz“ halte ich in
 > einer polarisierten Öffentlichkeit für notwendig, nicht für
 > optional.
 >
@@ -60,7 +60,7 @@ Thema verfehlt oder Textumfang < 50 % → insgesamt E.
 > widerspricht präziser.
 >
 > Konkret zeigt sich der Bedarf etwa an der viel zitierten Rede,
-> in der „Heilung" eines „kranken Landes" versprochen wird.
+> in der „Heilung“ eines „kranken Landes“ versprochen wird.
 > Ohne Werkzeug bleibt solch eine Körper-Metapher eine bloße
 > Emotion; mit Werkzeug wird sie zum Analyseobjekt.
 >

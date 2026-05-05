@@ -6,9 +6,7 @@ title: "Glossar"
 DAF · GLOSSAR · ALPHABETISCH
 :::
 
-# Glossar
-
-Alphabetisches Glossar der DaF-, CEFR- und Goethe-spezifischen
+Alphabetisches Glossar der DaF-, CEFR- und prüfungsspezifischen
 Begriffe, die über die Site verstreut auftauchen. Jeder Eintrag
 verweist (wo sinnvoll) auf die Einheit, in der der Begriff
 erstmals eingeführt oder vertieft wird.
@@ -20,7 +18,7 @@ selbst. *Passiv* = man versteht, ohne selbst produzieren zu müssen.
 → erstmals B1, [Einheit 1](../kurs_b1/units/unit01_neuanfang-in-basel.qmd).
 
 **Anapher.** Wiederholung des Anfangs in aufeinanderfolgenden
-Sätzen, *„Wir haben gefragt. Wir haben gewartet."*
+Sätzen, *„Wir haben gefragt. Wir haben gewartet.“*
 → C1, [Einheit 10](../kurs_c1/units/unit10_stilistik-und-rhetorik.qmd).
 
 **Antinomie.** Scheinbarer Widerspruch, in dem beide Seiten
@@ -28,7 +26,7 @@ berechtigt erscheinen. → C1,
 [Einheit 8](../kurs_c1/units/unit08_philosophie-fuer-informierte-laien.qmd).
 
 **Auto-Fiktion.** Literarische Form zwischen Roman und Memoir;
-„Ich" wird so geschrieben, dass es ein „Wir" werden kann.
+„Ich“ wird so geschrieben, dass es ein „Wir“ werden kann.
 → C1, [Einheit 12](../kurs_c1/units/unit12_gegenwartsliteratur.qmd).
 
 ## B
@@ -49,10 +47,10 @@ Herausforderungen. → B2,
 
 **CEFR / GER.** Gemeinsamer Europäischer Referenzrahmen, sechs
 Stufen A1–C2. Diese Site deckt A1–C1 ab.
-→ [Goethe-Formate](../goethe_formate.qmd).
+→ [Prüfungsformate](../goethe_formate.qmd).
 
 **Chiasmus.** Über-Kreuz-Stellung, *„Wir lernen, um zu leben — wir
-leben, um zu lernen."* → C1,
+leben, um zu lernen.“* → C1,
 [Einheit 10](../kurs_c1/units/unit10_stilistik-und-rhetorik.qmd).
 
 **Code-Switching.** Spontaner Wechsel zwischen Sprachen im
@@ -76,7 +74,7 @@ oder Behinderung. → B1,
 [Einheit 6](../kurs_b1/units/unit06_umwelt-und-mobilitaet.qmd).
 
 **einschlägig.** Zum Thema passend, *„einschlägige
-Berufserfahrung"*. → B1,
+Berufserfahrung“*. → B1,
 [Einheit 3](../kurs_b1/units/unit03_weiterbildung-und-studium.qmd).
 
 **empirisch.** Erfahrungs- und datenbasiert. → C1,
@@ -103,9 +101,9 @@ Renteneintritt. → B2,
 **Gewährleistung.** Haftung des Verkäufers bei mangelhafter Ware.
 → B1, [Einheit 9](../kurs_b1/units/unit09_konsum-und-verbraucherschutz.qmd).
 
-**Goethe-Module.** Lesen / Hören / Schreiben / Sprechen — die
-vier Bestandteile einer Goethe-Prüfung.
-→ [Goethe-Formate](../goethe_formate.qmd).
+**Prüfungsmodule.** Lesen / Hören / Schreiben / Sprechen — die
+vier Bestandteile einer GER-Prüfung.
+→ [Prüfungsformate](../goethe_formate.qmd).
 
 ## H
 
@@ -189,7 +187,7 @@ typisch für Recht / Wissenschaft. → C1,
 ## O
 
 **Othering.** Rhetorische / praktische Konstruktion eines
-„Anderen". → C1,
+„Anderen“. → C1,
 [Einheit 6](../kurs_c1/units/unit06_postkoloniale-perspektiven.qmd).
 
 ## P
@@ -287,7 +285,7 @@ Regel binnen 14 Tagen. → B1,
 [Einheit 9](../kurs_b1/units/unit09_konsum-und-verbraucherschutz.qmd).
 
 **Wir-Bildung.** Rhetorische Erzeugung einer Gruppe, in die ein
-„Anderer" implizit nicht gehört. → C1,
+„Anderer“ implizit nicht gehört. → C1,
 [Einheit 2](../kurs_c1/units/unit02_politische-diskursanalyse.qmd).
 
 ## Z

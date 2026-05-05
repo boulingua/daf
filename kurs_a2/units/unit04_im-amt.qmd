@@ -1,6 +1,6 @@
 ---
 title: "Einheit 4 — Im Amt: Formulare und Termine"
-subtitle: "GER-Stufe A2 · Goethe-Zertifikat A2 · Modul Schreiben"
+subtitle: "GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben"
 cefr_level: "A2"
 unit_nr: 4
 slug: "im-amt"
@@ -33,13 +33,13 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1 (Formular) + Teil 2 (halb
+Prüfungsmodul **Schreiben** — Teil 1 (Formular) + Teil 2 (halb
 offizielle E-Mail).
 
 ## Einstiegsgeschichte
 
 **Omar** hat Post vom Magistrat Graz. Brief-Kopf: *„Einladung zur
-Anmeldung in Graz — Termin am Donnerstag, 6. Juni, 9:00 Uhr."*
+Anmeldung in Graz — Termin am Donnerstag, 6. Juni, 9:00 Uhr.“*
 Omar kann leider nicht kommen — er hat Prüfung.
 
 ## 1. Einstieg
@@ -105,8 +105,8 @@ erfinden):
 
 **Aufgabe 3 — Mailsätze umformulieren in formell.**
 
-1. „Kann leider nicht." →
-2. „Gibt es einen anderen Tag?" →
+1. „Kann leider nicht.“ →
+2. „Gibt es einen anderen Tag?“ →
 
 ::: {.callout-tip collapse="true" title="Lösungen"}
 
@@ -114,8 +114,8 @@ erfinden):
 
 **Aufgabe 2.** 1) F (Donnerstag) · 2) R · 3) F.
 
-**Aufgabe 3.** 1) „Leider kann ich nicht kommen." / 2) „Könnten
-wir den Termin auf einen anderen Tag verschieben?"
+**Aufgabe 3.** 1) „Leider kann ich nicht kommen.“ / 2) „Könnten
+wir den Termin auf einen anderen Tag verschieben?“
 
 :::
 
@@ -134,7 +134,7 @@ Stadt. Schreiben Sie eine Mail an das Meldeamt:
 - [ ] Ich lese eine Amts-Einladung.
 - [ ] Ich schreibe eine formelle Mail zur Terminverschiebung.
 
-## Prüfungsbeispiel — Goethe A2 Schreiben, Teil 2
+## Prüfungsbeispiel — GER A2 Schreiben, Teil 2
 
 **Aufgabenstellung:** Sie haben am Donnerstag einen Termin beim
 Amt. Leider können Sie nicht. Schreiben Sie eine Mail (ca. 30
@@ -155,8 +155,8 @@ Prüfungsvorschau 3'.
 
 ## Häufige Stolperfallen
 
-- **„Meldezettel" (AT) = Anmeldung (DE) = Anmeldung (CH).**
-- **„Unterkunftgeber"** = Vermieter:in oder Gastgeber:in, die das
+- **„Meldezettel“ (AT) = Anmeldung (DE) = Anmeldung (CH).**
+- **„Unterkunftgeber“** = Vermieter:in oder Gastgeber:in, die das
   Wohnen bestätigt.
 - **Frist für Anmeldung:** in AT 3 Tage, in DE 14 Tage, in CH
   variabel nach Kanton.

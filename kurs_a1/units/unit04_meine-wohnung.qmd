@@ -41,7 +41,7 @@ format:
 
 ## GER-Ausrichtung
 
-Goethe-Modul **Schreiben** — Teil 1: Formular ausfüllen.
+Prüfungsmodul **Schreiben** — Teil 1: Formular ausfüllen.
 
 ## Einstiegsgeschichte
 
@@ -202,7 +202,7 @@ Prüfungsvorschau 5'.
 
 ## Häufige Stolperfallen
 
-- **m²** wird *„Quadratmeter"* gelesen.
+- **m²** wird *„Quadratmeter“* gelesen.
 - **€** steht nach der Zahl: *450 €*.
 - **Warm- vs. Kaltmiete:** Miete + Nebenkosten (warm) vs. ohne
   (kalt). A1 nur rezeptiv.
@@ -211,4 +211,4 @@ Prüfungsvorschau 5'.
 
 - **Immobilien-Scout24 Anzeigen (A1 rezeptiv, nur zum Lesen)**:
   <https://www.immobilienscout24.de/>
-- **DW Nicos Weg — „Wohnen"**: <https://learngerman.dw.com/>
+- **DW Nicos Weg — „Wohnen“**: <https://learngerman.dw.com/>

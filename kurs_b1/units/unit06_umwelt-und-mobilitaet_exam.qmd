@@ -1,5 +1,5 @@
 ---
-title: "Goethe-Modellprüfung B1 — Hören, Teil 3"
+title: "GER-Modellprüfung B1 — Hören, Teil 3"
 subtitle: "Einheit 6 · Umwelt und Mobilität · GER-Stufe B1"
 author: "S. Le Boulanger"
 format:
@@ -23,7 +23,7 @@ Transkript aus Einheit 6, Input A.
 :::
 
 Sie hören den Ausschnitt aus einer Podiumsdiskussion zum Thema
-*„Autofrei in der Stadt?"*. Entscheiden Sie zu den folgenden sechs
+*„Autofrei in der Stadt?“*. Entscheiden Sie zu den folgenden sechs
 Aussagen, ob sie *richtig* oder *falsch* sind.
 
 |   | Aussage                                                                  | Richtig | Falsch |
@@ -41,13 +41,13 @@ Pro richtige Antwort ein Punkt, maximal 6 Punkte.
 
 ## Lösungen
 
-1. **Falsch** — Aminas Aussage: „technisch ja, politisch kompliziert".
-2. **Richtig** — „Wir fangen mit einem Viertel an, dann noch einem".
+1. **Falsch** — Aminas Aussage: „technisch ja, politisch kompliziert“.
+2. **Richtig** — „Wir fangen mit einem Viertel an, dann noch einem“.
 3. **Falsch** — Herr Tanner differenziert (eingeschränkte
    Mobilität, Ausnahmen), ist nicht absolut gegen Einschränkungen.
-4. **Richtig** — „nach sechs Monaten sind die Anwohner begeistert".
-5. **Falsch** — „kürzer als zwei Kilometer", nicht Minuten.
-6. **Richtig** — „wenn ich mich traute".
+4. **Richtig** — „nach sechs Monaten sind die Anwohner begeistert“.
+5. **Falsch** — „kürzer als zwei Kilometer“, nicht Minuten.
+6. **Richtig** — „wenn ich mich traute“.
 
 ---
 
