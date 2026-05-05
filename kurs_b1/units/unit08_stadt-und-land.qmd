@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - lesen
   - schreiben
-goethe_module:
+pruefungs_module:
   - lesen
 format:
   html:

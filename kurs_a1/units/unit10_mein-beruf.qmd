@@ -1,6 +1,6 @@
 ---
 title: "Einheit 10 — Mein Beruf"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Schreiben"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben"
 cefr_level: "A1"
 unit_nr: 10
 slug: "mein-beruf"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - schreiben
   - sprechen
-goethe_module:
+pruefungs_module:
   - schreiben
 format:
   html:
@@ -144,7 +144,7 @@ die nächste Person wiederholt plus fügt sich selbst hinzu:
 - [ ] Ich sage drei Sätze über meinen Beruf.
 - [ ] Ich schreibe einen Kurztext (4 Sätze) über meine Arbeit.
 
-## Prüfungsbeispiel — Start Deutsch 1 Schreiben, Teil 2
+## Prüfungsbeispiel — GER-Prüfung A1 Schreiben, Teil 2
 
 **Aufgabe:** Schreiben Sie eine kurze Mitteilung an Ihre
 Freundin Clara (ca. 30 Wörter):

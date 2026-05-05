@@ -47,7 +47,7 @@ Herausforderungen. → B2,
 
 **CEFR / GER.** Gemeinsamer Europäischer Referenzrahmen, sechs
 Stufen A1–C2. Diese Site deckt A1–C1 ab.
-→ [Prüfungsformate](../goethe_formate.qmd).
+→ [Prüfungsformate](../formate.qmd).
 
 **Chiasmus.** Über-Kreuz-Stellung, *„Wir lernen, um zu leben — wir
 leben, um zu lernen.“* → C1,
@@ -103,7 +103,7 @@ Renteneintritt. → B2,
 
 **Prüfungsmodule.** Lesen / Hören / Schreiben / Sprechen — die
 vier Bestandteile einer GER-Prüfung.
-→ [Prüfungsformate](../goethe_formate.qmd).
+→ [Prüfungsformate](../formate.qmd).
 
 ## H
 

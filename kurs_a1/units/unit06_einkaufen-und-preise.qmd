@@ -1,6 +1,6 @@
 ---
 title: "Einheit 6 — Einkaufen und Preise"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Hören"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Hören"
 cefr_level: "A1"
 unit_nr: 6
 slug: "einkaufen-und-preise"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - hoeren
   - sprechen
-goethe_module:
+pruefungs_module:
   - hören
 format:
   html:
@@ -136,7 +136,7 @@ Preis. A nennt die Preise. B sagt: *Zusammen, bitte.*
 - [ ] Ich verstehe Preise im Format *1,99 €*.
 - [ ] Ich frage nach dem Preis und einer Menge.
 
-## Prüfungsbeispiel — Start Deutsch 1 Hören, Teil 2
+## Prüfungsbeispiel — GER-Prüfung A1 Hören, Teil 2
 
 **Aufgabe:** Sie hören **fünf Durchsagen** (einmal). Sind die
 Aussagen richtig oder falsch?

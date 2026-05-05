@@ -1,6 +1,6 @@
 ---
 title: "Einheit 9 — Körper und Gesundheit"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Sprechen"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen"
 cefr_level: "A1"
 unit_nr: 9
 slug: "koerper-und-gesundheit"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - sprechen
   - lesen
-goethe_module:
+pruefungs_module:
   - sprechen
 format:
   html:
@@ -147,7 +147,7 @@ Patient:in. B nennt **zwei Beschwerden** mit *„Ich habe …“* oder
 - [ ] Ich sage zwei Beschwerden.
 - [ ] Ich verstehe drei Arzt-Anweisungen.
 
-## Prüfungsbeispiel — Start Deutsch 1 Sprechen, Teil 3
+## Prüfungsbeispiel — GER-Prüfung A1 Sprechen, Teil 3
 
 **Aufgabe:** Sie ziehen zwei Handlungskarten mit Bildern:
 **Thermometer** und **Kopfschmerz-Icon**. Formulieren Sie zwei

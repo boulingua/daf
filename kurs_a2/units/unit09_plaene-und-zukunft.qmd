@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - sprechen
   - schreiben
-goethe_module:
+pruefungs_module:
   - sprechen
 format:
   html: { toc: true, toc-depth: 3 }

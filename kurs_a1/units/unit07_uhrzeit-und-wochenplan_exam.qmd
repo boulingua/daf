@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Schreiben, Teil 2"
+title: "GER-Prüfung A1 — Schreiben, Teil 2"
 subtitle: "Einheit 7 · Uhrzeit und Wochenplan · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

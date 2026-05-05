@@ -54,7 +54,7 @@ als eigenständige Doppelstunden.
 [A1]{.cefr-badge .a1}
 
 Absoluter Einstieg. Alltagsphrasen, einfache Gegenwart („Präsens“), Ich/Du-
-Grundlagen. Zielprüfung: Start Deutsch 1, ca. 80 Min, Bestehen
+Grundlagen. Zielprüfung: GER-Prüfung A1, ca. 80 Min, Bestehen
 bei 60 %.
 :::
 
@@ -126,14 +126,14 @@ Prüfungsformat der entsprechenden Stufe orientiert** — Anzahl der
 Aufgaben, Aufgabentypen, Zeitvorgaben, Bewertungskriterien — aber
 mit **original von der Autorin verfassten Aufgaben-Impuls-Texten („Stimulus“)**. Keine
 Reproduktion echter Modellsätze. Details zu den fünf
-Formaten siehe [Prüfungsformate](goethe_formate.qmd).
+Formaten siehe [Prüfungsformate](formate.qmd).
 
 ## Weiter
 
 - [Über diese Seite](ueber.qmd)
 - [Start für neue Lernende](start.qmd)
 - [Vollständige Übersicht aller 60 Einheiten](uebersicht.qmd)
-- [Prüfungsformate A1–C1 im Detail](goethe_formate.qmd)
+- [Prüfungsformate A1–C1 im Detail](formate.qmd)
 - [Literatur und Ressourcen](literatur.qmd)
 - [Danksagung](danksagung.qmd)
 

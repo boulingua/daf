@@ -1,6 +1,6 @@
 ---
 title: "Einheit 5 — Essen und trinken"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Lesen"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen"
 cefr_level: "A1"
 unit_nr: 5
 slug: "essen-und-trinken"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - sprechen
   - lesen
-goethe_module:
+pruefungs_module:
   - lesen
 format:
   html:
@@ -157,7 +157,7 @@ Wechseln Sie die Rollen.
 - [ ] Ich lese eine Speisekarte mit Preisen.
 - [ ] Ich bestelle auf Deutsch.
 
-## Prüfungsbeispiel — Start Deutsch 1 Lesen, Teil 1
+## Prüfungsbeispiel — GER-Prüfung A1 Lesen, Teil 1
 
 **Aufgabe:** Lesen Sie die Nachricht. Sind die Aussagen
 richtig oder falsch?

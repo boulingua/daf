@@ -1,8 +1,8 @@
-# DaF — Deutsch als Fremdsprache (Goethe-Formate, A1–C1)
+# DaF — Deutsch als Fremdsprache (A1–C1)
 
 Ein Kurscurriculum für **Deutsch als Fremdsprache** entlang des
 Gemeinsamen Europäischen Referenzrahmens (GER / CEFR), mit
-Goethe-Modellprüfungen pro Einheit. Fünf GER-Stufen **A1, A2, B1,
+GER-Modellprüfungen pro Einheit. Fünf GER-Stufen **A1, A2, B1,
 B2, C1** zu je **12 Einheiten** — **60 Einheiten insgesamt**.
 
 Autorin: **S. Le Boulanger**. Live-Site:
@@ -27,7 +27,7 @@ Fünf-Schritt-Didaktik).
 - Gebaut mit **[Quarto](https://quarto.org)**.
 - Jede Einheit rendert **zweimal** aus einer einzigen `.qmd`-Quelle:
   HTML-Artikel + Reveal.js-Foliensatz.
-- Goethe-Modellprüfungsaufgabe pro Einheit als eigenständiges PDF.
+- GER-Modellprüfungsaufgabe pro Einheit als eigenständiges PDF.
 - Platzhalter-Arbeitsblatt-PDF pro Einheit (echte Inhalte folgen).
 - Hell/Dunkel-Toggle. Lucide-Icons. Keine urheberrechtlich
   geschützten Medien.
@@ -42,26 +42,27 @@ Fünfstufig (mit deutscher Terminologie):
 Bei Prüfungsvorbereitungs-Einheiten:
 **Aufgabe → Modell → Strategie → Versuch → Feedback**.
 
-## Goethe-Prüfungsformate
+## Prüfungsformate
 
-Pro GER-Stufe wird das offizielle Goethe-Prüfungsformat
-(verbatim aus Goethe-Institut-Publikationen) im Ordner
-`_resources/goethe_format_<stufe>.yml` dokumentiert. Diese YAML-
+Pro GER-Stufe wird ein Prüfungsformat im Ordner
+`_resources/format_<stufe>.yml` dokumentiert. Diese YAML-
 Dateien sind die autoritative Quelle für Aufgabentyp, Itemzahl,
 Zeitvorgaben, Punkteverteilung und Bewertungskriterien jeder
-Prüfungssimulation auf der Site.
+Prüfungssimulation auf der Site. Die Formate sind an den im
+[Literaturverzeichnis](literatur.qmd) genannten Modellsätzen
+orientiert, ohne deckungsgleich zu sein.
 
-| Stufe | Zertifikat                    | Prüfung             | Bestehensgrenze |
-|-------|-------------------------------|---------------------|-----------------|
-| A1    | Start Deutsch 1               | ca. 80 Min, 100 P.  | 60 P. (60 %)    |
-| A2    | Goethe-Zertifikat A2          | 105 Min, 100 P.     | 60 P. (60 %)    |
-| B1    | Zertifikat B1 (modular)       | je Modul 100 P.     | 60 P. pro Modul |
-| B2    | Goethe-Zertifikat B2 (modular)| je Modul 100 P.     | 60 P. pro Modul |
-| C1    | Goethe-Zertifikat C1 (modular)| je Modul 100 P.     | 60 P. pro Modul |
+| Stufe | Prüfungsmodell           | Prüfung             | Bestehensgrenze |
+|-------|--------------------------|---------------------|-----------------|
+| A1    | 4 Module in 1 Block      | ca. 80 Min, 100 P.  | 60 P. (60 %)    |
+| A2    | 4 Module in 1 Block      | 105 Min, 100 P.     | 60 P. (60 %)    |
+| B1    | 4 Module modular         | je Modul 100 P.     | 60 P. pro Modul |
+| B2    | 4 Module modular         | je Modul 100 P.     | 60 P. pro Modul |
+| C1    | 4 Module modular         | je Modul 100 P.     | 60 P. pro Modul |
 
-**Keine** Reproduktion echter Goethe-Modellsatz-Texte. Alle
-Stimulustexte original von S. Le Boulanger verfasst, formal am
-Goethe-Format orientiert.
+**Keine** Reproduktion offizieller Modellsatz-Texte. Alle
+Stimulustexte original von S. Le Boulanger verfasst, formal an
+den GER-Stufen orientiert.
 
 ## Lizenz
 
@@ -92,3 +93,24 @@ Siehe [CONTRIBUTING](https://github.com/boulingua/.github/blob/main/CONTRIBUTING
 im Org-Meta-Repo. Kurzfassung: persönliches Projekt, Pull
 Requests werden in der Regel nicht angenommen; Fehler bitte als
 Issue melden.
+
+## Zitation
+
+Maschinenlesbare Metadaten in [`CITATION.cff`](CITATION.cff).
+Empfohlene Zitierform:
+
+> Le Boulanger, S. (2026). *DaF — Deutsch als Fremdsprache (A1–C1).*
+> boulingua. <https://boulingua.github.io/daf/>
+
+BibTeX:
+
+```bibtex
+@misc{leboulanger_daf_2026,
+  author       = {Le Boulanger, S.},
+  title        = {{DaF — Deutsch als Fremdsprache (A1--C1)}},
+  year         = {2026},
+  howpublished = {boulingua},
+  url          = {https://boulingua.github.io/daf/},
+  note         = {MIT (Code) / CC-BY-SA 4.0 (Inhalte)}
+}
+```

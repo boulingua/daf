@@ -1,6 +1,6 @@
 ---
 title: "Einheit 1 — Begrüßung und Name"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Sprechen"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen"
 cefr_level: "A1"
 unit_nr: 1
 slug: "begruessung-und-name"
@@ -10,7 +10,7 @@ cefr_can_do:
   - "Ich kann Begrüßungs- und Abschiedsformeln benutzen."
 skills_focus:
   - sprechen
-goethe_module:
+pruefungs_module:
   - sprechen
 format:
   html:
@@ -152,7 +152,7 @@ Antworten Sie auch.
 - [ ] Ich kann nach dem Namen fragen.
 - [ ] Ich kenne vier Grußformeln.
 
-## Prüfungsbeispiel — Start Deutsch 1 Sprechen, Teil 1
+## Prüfungsbeispiel — GER-Prüfung A1 Sprechen, Teil 1
 
 **Aufgabenstellung:** Stellen Sie sich vor. Sprechen Sie über:
 

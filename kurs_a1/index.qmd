@@ -10,7 +10,7 @@ KURS A1 · ANFÄNGER:INNEN · ALLTAGSENSEMBLE WIEN
 
 Zwölf Einheiten für den absoluten Einstieg in die deutsche
 Sprache. Alltagsphrasen, einfache Gegenwart („Präsens“), Ich/Du/Er-Grundlagen.
-Ziel: **Start Deutsch 1** — ca. 80 Min,
+Ziel: **GER-Prüfung A1** — ca. 80 Min,
 100 Punkte, Bestehen bei 60 %.
 
 ## Wiederkehrende Figurenbesetzung
@@ -94,14 +94,14 @@ Modul: Lesen. Fahrplan, Schilder, Postkarte.
 
 ## Prüfungsziel
 
-**GER-Prüfung A1: Start Deutsch 1** — eine schriftliche
+**GER-Prüfung A1: GER-Prüfung A1** — eine schriftliche
 Prüfung (Hören + Lesen + Schreiben, je 25 P.) plus mündliche
 Gruppenprüfung Sprechen (25 P.). Gesamtdauer ca. 80 Min,
 Bestehensgrenze 60 P. (60 %).
 
-Details: [Prüfungsformate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../formate.qmd) ·
 Rohdaten in
-[`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml).
+[`_resources/format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_a1.yml).
 
 ## Modul-Abdeckung
 
@@ -116,5 +116,5 @@ Rohdaten in
 
 - [Wochenplan des Kurses](uebersicht.qmd)
 - [Übersicht aller 60 Einheiten](../uebersicht.qmd)
-- [Prüfungsformate](../goethe_formate.qmd)
+- [Prüfungsformate](../formate.qmd)
 - [Zurück zur Startseite](../index.qmd)

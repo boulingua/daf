@@ -58,12 +58,12 @@ funktioniert für beide.
 | Artikel durchlesen          | 30–45 Minuten    |
 | Foliensatz präsentieren     | 60–90 Minuten (je nach Gruppeninteraktion) |
 | Übungsabschnitt bearbeiten  | 20–40 Minuten    |
-| Prüfungsbeispiel simulieren | je nach Modul (siehe [Prüfungsformate](goethe_formate.qmd)) |
+| Prüfungsbeispiel simulieren | je nach Modul (siehe [Prüfungsformate](formate.qmd)) |
 
 ## Nächste Schritte
 
 - [Vollständige Übersicht aller 60 Einheiten](uebersicht.qmd)
-- [Details zu den Prüfungsformaten A1–C1](goethe_formate.qmd)
+- [Details zu den Prüfungsformaten A1–C1](formate.qmd)
 - [Lernstrategien (Anhang)](anhaenge/lernstrategien.qmd)
 - [Glossar](anhaenge/glossar.qmd)
 

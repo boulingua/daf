@@ -30,11 +30,11 @@ last_completed_at: "2026-04-20T00:00:00Z"
 last_commit_sha: ""
 
 phase_0_checklist:
-  a1_format: "complete"               # _resources/goethe_format_a1.yml
-  a2_format: "complete"               # _resources/goethe_format_a2.yml
-  b1_format: "complete"               # _resources/goethe_format_b1.yml
-  b2_format: "complete"               # _resources/goethe_format_b2.yml
-  c1_format: "complete"               # _resources/goethe_format_c1.yml
+  a1_format: "complete"               # _resources/format_a1.yml
+  a2_format: "complete"               # _resources/format_a2.yml
+  b1_format: "complete"               # _resources/format_b1.yml
+  b2_format: "complete"               # _resources/format_b2.yml
+  c1_format: "complete"               # _resources/format_c1.yml
 
 preflight_context_answers:
   github:
@@ -94,6 +94,6 @@ next_turn:
   next_after: "Phase 5 Politur (Glossar-Links, Schedule, Coverage)"
 
 notes:
-  - "A1 format extracted from the official Goethe-Institut publication 'Prüfungsziele, Testbeschreibung A1' (VS_08_190422, 4. Auflage 2022), rather than the web overview page."
+  - "A1 format extracted from the official Prüfungsanbieter publication 'Prüfungsziele, Testbeschreibung A1' (VS_08_190422, 4. Auflage 2022), rather than the web overview page."
   - "All quantitative structural fields are verbatim from the source PDF."
   - "No real Goethe exam text is reproduced; originals will be authored by S. Le Boulanger in Phase 3–4."

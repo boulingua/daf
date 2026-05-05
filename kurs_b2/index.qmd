@@ -98,8 +98,8 @@ Modul: Sprechen. Erzählperspektiven, Buchpräsentation.
 · Schreiben 75 Min · Sprechen ca. 15 Min Paarprüfung. Je Modul
 100 Punkte, Bestehen bei 60.
 
-Details: [Prüfungsformate](../goethe_formate.qmd) ·
-[`_resources/goethe_format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b2.yml).
+Details: [Prüfungsformate](../formate.qmd) ·
+[`_resources/format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_b2.yml).
 
 ## Modul-Abdeckung
 

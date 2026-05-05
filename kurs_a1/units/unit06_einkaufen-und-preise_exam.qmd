@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Hören, Teil 2"
+title: "GER-Prüfung A1 — Hören, Teil 2"
 subtitle: "Einheit 6 · Einkaufen und Preise · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

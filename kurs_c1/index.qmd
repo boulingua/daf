@@ -100,8 +100,8 @@ Modul: Hören. Auto-Fiktion, politische Romanstruktur, Stilfragment.
 Schreiben 75 Min · Sprechen ca. 20 Min Paarprüfung. Je Modul
 100 Punkte, Bestehen bei 60.
 
-Details: [Prüfungsformate](../goethe_formate.qmd) ·
-[`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml).
+Details: [Prüfungsformate](../formate.qmd) ·
+[`_resources/format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_c1.yml).
 
 ## Modul-Abdeckung
 

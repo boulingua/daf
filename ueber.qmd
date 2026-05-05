@@ -55,4 +55,4 @@ Fehlermeldungen, Vorschläge für Ressourcen, Lizenzfragen: siehe
 
 ---
 
-*Siehe auch: [Start für neue Lernende](start.qmd) · [Übersicht](uebersicht.qmd) · [Prüfungsformate](goethe_formate.qmd).*
+*Siehe auch: [Start für neue Lernende](start.qmd) · [Übersicht](uebersicht.qmd) · [Prüfungsformate](formate.qmd).*

@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Sprechen, Teil 2"
+title: "GER-Prüfung A1 — Sprechen, Teil 2"
 subtitle: "Einheit 11 · Meine Freizeit · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

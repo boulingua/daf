@@ -1,6 +1,6 @@
 ---
 title: "Einheit 11 — Meine Freizeit und Hobbys"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Sprechen"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen"
 cefr_level: "A1"
 unit_nr: 11
 slug: "meine-freizeit"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - sprechen
   - hoeren
-goethe_module:
+pruefungs_module:
   - sprechen
 format:
   html:
@@ -155,7 +155,7 @@ Partner: *„Das ist X. X spielt gern Gitarre …“*
 - [ ] Ich konjugiere *spielen / lesen / machen / sehen*.
 - [ ] Ich stelle Fragen zu Hobbys.
 
-## Prüfungsbeispiel — Start Deutsch 1 Sprechen, Teil 2
+## Prüfungsbeispiel — GER-Prüfung A1 Sprechen, Teil 2
 
 **Aufgabe:** Sie ziehen zwei Themenkarten. Stellen Sie zu jeder
 Karte **eine Frage** an Ihre:n Partner:in. Die Person antwortet.

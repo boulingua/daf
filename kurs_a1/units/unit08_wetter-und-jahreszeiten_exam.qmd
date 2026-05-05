@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Hören, Teil 3"
+title: "GER-Prüfung A1 — Hören, Teil 3"
 subtitle: "Einheit 8 · Wetter und Jahreszeiten · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

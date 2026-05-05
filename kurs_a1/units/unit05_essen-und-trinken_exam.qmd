@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Lesen, Teil 1"
+title: "GER-Prüfung A1 — Lesen, Teil 1"
 subtitle: "Einheit 5 · Essen und trinken · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

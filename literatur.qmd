@@ -45,7 +45,7 @@ stammen verbatim aus dem GER-Begleitband 2020.
 
 Die strukturellen Parameter dieser fünf Dokumente (Teile,
 Aufgabentypen, Itemzahl, Zeitvorgaben, Punkteverteilung,
-Bewertungskriterien) sind im Ordner `_resources/goethe_format_*.yml`
+Bewertungskriterien) sind im Ordner `_resources/format_*.yml`
 verbatim archiviert. Die YAML-Dateien sind autoritativ für die
 Site; diese Literaturliste ist die Primärquelle.
 

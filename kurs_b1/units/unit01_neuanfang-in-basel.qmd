@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - lesen
   - sprechen
-goethe_module:
+pruefungs_module:
   - sprechen
 format:
   html:
@@ -272,7 +272,7 @@ Satz: *Beim nächsten Mal möchte ich …*
 > Ihr Partner präsentiert hat, geben Sie eine kurze Rückmeldung
 > und stellen eine Frage zum Vortrag.
 
-**Bewertungskriterien** (siehe auch `_resources/goethe_format_b1.yml`):
+**Bewertungskriterien** (siehe auch `_resources/format_b1.yml`):
 
 - Erfüllung der Aufgabe — sind alle fünf Folien behandelt?
 - Kohärenz — hängen die Teile zusammen, gibt es Konnektoren?

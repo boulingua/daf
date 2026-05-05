@@ -98,8 +98,8 @@ Schreiben 30 Min · Sprechen 15 Min Paarprüfung) in einem Block.
 Je Modul 25 Punkte, Gesamt 100, Bestehen bei 60 %.
 Rohpunkte in Lesen/Hören/Schreiben ×1.25 auf Zertifikatspunkte.
 
-Details: [Prüfungsformate](../goethe_formate.qmd) ·
-[`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml).
+Details: [Prüfungsformate](../formate.qmd) ·
+[`_resources/format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_a2.yml).
 
 ## Modul-Abdeckung
 

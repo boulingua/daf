@@ -3,7 +3,7 @@
 # 5 Kurse (A1 · A2 · B1 · B2 · C1) × 12 Einheiten = 60 Einheiten.
 #
 # Jede Einheit trägt eine primäre GER-Fertigkeit (skills_focus) und
-# ein vertieftes Goethe-Modul (goethe_module). Über einen Kurs
+# ein vertieftes Prüfungs-Modul (pruefungs_module). Über einen Kurs
 # hinweg ist die Modulverteilung mindestens 2× pro Modul
 # (tatsächlich 3×/3×/3×/3× in dieser Fassung).
 #
@@ -15,7 +15,7 @@
 # STATUS: Phase 2 Turn 20 — vorgeschlagen. Wartet auf
 # User-Bestätigung, bevor Phase 3 (Prototyp B1) beginnt.
 
-site: "daf-goethe"
+site: "daf"
 outline_version: "2026-04-20-draft1"
 courses_total: 5
 units_total: 60
@@ -46,84 +46,84 @@ courses:
         title: "Begrüßung und Name"
         skills_focus: ["sprechen"]
         cefr_can_do: ["sich vorstellen und anderen Fragen zur Person stellen", "Begrüßungs- und Abschiedsformeln gebrauchen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 1
       - unit_nr: 2
         slug: "meine-familie"
         title: "Meine Familie"
         skills_focus: ["sprechen", "lesen"]
         cefr_can_do: ["über die Familie einfache Aussagen machen", "kurze persönliche Notizen verstehen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 2
       - unit_nr: 3
         slug: "woher-kommst-du"
         title: "Woher kommst du?"
         skills_focus: ["sprechen", "hoeren"]
         cefr_can_do: ["Herkunft angeben", "einfache Fragen zu Herkunft und Wohnort verstehen und beantworten"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 3
       - unit_nr: 4
         slug: "meine-wohnung"
         title: "Meine Wohnung"
         skills_focus: ["schreiben", "lesen"]
         cefr_can_do: ["Räume und Möbel benennen", "einfache Kleinanzeigen für Wohnungen verstehen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 4
       - unit_nr: 5
         slug: "essen-und-trinken"
         title: "Essen und trinken"
         skills_focus: ["sprechen", "lesen"]
         cefr_can_do: ["Lebensmittel benennen", "einfache Speisekarten lesen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 5
       - unit_nr: 6
         slug: "einkaufen-und-preise"
         title: "Einkaufen und Preise"
         skills_focus: ["sprechen", "hoeren"]
         cefr_can_do: ["Preise nennen und verstehen", "mit Zahlen und Mengenangaben umgehen"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 6
       - unit_nr: 7
         slug: "uhrzeit-und-wochenplan"
         title: "Uhrzeit und Wochenplan"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Uhrzeiten angeben und verstehen", "einen einfachen Wochenplan lesen und schreiben"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 7
       - unit_nr: 8
         slug: "wetter-und-jahreszeiten"
         title: "Wetter und Jahreszeiten"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["Wettermeldungen verstehen", "einfache Aussagen über das Wetter machen"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 8
       - unit_nr: 9
         slug: "koerper-und-gesundheit"
         title: "Körper und Gesundheit"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["Körperteile benennen", "beim Arzt einfache Beschwerden nennen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 9
       - unit_nr: 10
         slug: "mein-beruf"
         title: "Mein Beruf"
         skills_focus: ["schreiben", "sprechen"]
         cefr_can_do: ["den eigenen Beruf einfach beschreiben", "Berufe im Alltag erkennen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 10
       - unit_nr: 11
         slug: "meine-freizeit"
         title: "Meine Freizeit und Hobbys"
         skills_focus: ["sprechen", "hoeren"]
         cefr_can_do: ["über Hobbys sprechen", "einfache Radiobeiträge zur Freizeit verstehen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 11
       - unit_nr: 12
         slug: "reisen-und-unterwegs"
         title: "Reisen und unterwegs"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Fahrpläne lesen", "kurze Postkarten / Nachrichten von unterwegs schreiben"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 12
 
   - id: "kurs_a2"
@@ -138,84 +138,84 @@ courses:
         title: "Arbeitssuche und Stellenanzeige"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Stellenanzeigen verstehen", "eine kurze Bewerbungs-E-Mail schreiben"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 1
       - unit_nr: 2
         slug: "wohnung-mieten"
         title: "Wohnung mieten"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["Wohnungsanzeigen verstehen", "einen Besichtigungstermin aushandeln"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 2
       - unit_nr: 3
         slug: "beim-arzt"
         title: "Beim Arzt und in der Apotheke"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["Anweisungen in der Praxis verstehen", "Beschwerden genauer beschreiben"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 3
       - unit_nr: 4
         slug: "im-amt"
         title: "Im Amt: Formulare und Termine"
         skills_focus: ["schreiben", "lesen"]
         cefr_can_do: ["Anmeldeformulare ausfüllen", "Termin-Bestätigungen verstehen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 4
       - unit_nr: 5
         slug: "reiseplanung"
         title: "Reiseplanung mit Budget"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Reise-Kleinanzeigen zuordnen", "eine Mini-Reiseroute schriftlich planen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 5
       - unit_nr: 6
         slug: "hobbys-und-vereine"
         title: "Hobbys und Vereine"
         skills_focus: ["sprechen", "hoeren"]
         cefr_can_do: ["Interessen ausführlicher beschreiben", "Radiobeiträge über Freizeitvereine verstehen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 6
       - unit_nr: 7
         slug: "feste-und-traditionen"
         title: "Feste und Traditionen im DACH-Raum"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["Einladungen und Programme lesen", "über ein Fest erzählen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 7
       - unit_nr: 8
         slug: "gestern-und-vergangenheit"
         title: "Gestern — Ereignisse erzählen"
         skills_focus: ["sprechen", "schreiben"]
         cefr_can_do: ["im Perfekt über Vergangenes sprechen", "eine kurze Alltagsgeschichte schreiben"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 8
       - unit_nr: 9
         slug: "plaene-und-zukunft"
         title: "Pläne und Zukunft"
         skills_focus: ["sprechen", "schreiben"]
         cefr_can_do: ["Pläne ausdrücken", "eine Einladung oder Zusage formulieren"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 9
       - unit_nr: 10
         slug: "medien-im-alltag"
         title: "Medien im Alltag"
         skills_focus: ["hoeren", "lesen"]
         cefr_can_do: ["kurze Nachrichten im Radio verstehen", "einfache Zeitungsmeldungen lesen"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 10
       - unit_nr: 11
         slug: "umwelt-und-alltag"
         title: "Umwelt im Alltag: Müll trennen, sparen"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["Umwelttipps im Radio verstehen", "einfache Tipps weitergeben"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 11
       - unit_nr: 12
         slug: "freundschaft-und-familiengeschichte"
         title: "Freundschaft und Familiengeschichte"
         skills_focus: ["sprechen", "schreiben"]
         cefr_can_do: ["eine persönliche Mini-Biografie erzählen", "eine halb-formelle Dankesmitteilung schreiben"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 12
 
   - id: "kurs_b1"
@@ -231,84 +231,84 @@ courses:
         title: "Neuanfang in Basel — Arbeitsleben in zwei Ländern"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["einen Erfahrungsbericht verstehen", "über eigene Berufserfahrungen zusammenhängend erzählen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 1
       - unit_nr: 2
         slug: "der-bewerbungsweg"
         title: "Der Bewerbungsweg: Anschreiben und Vorstellungsgespräch"
         skills_focus: ["schreiben", "sprechen"]
         cefr_can_do: ["ein Motivationsschreiben verfassen", "in einem Vorstellungsgespräch flüssig reagieren"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 2
       - unit_nr: 3
         slug: "weiterbildung-und-studium"
         title: "Weiterbildung und Studium"
         skills_focus: ["lesen", "hoeren"]
         cefr_can_do: ["eine Studienordnung verstehen", "einem Vortrag zum Thema Bildung folgen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 3
       - unit_nr: 4
         slug: "gesundheitssystem-dach"
         title: "Gesundheitssystem im DACH-Raum"
         skills_focus: ["hoeren", "sprachmittlung"]
         cefr_can_do: ["Gespräche in der Arztpraxis differenziert verstehen", "zwischen Laien und Fachsprache vermitteln"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 4
       - unit_nr: 5
         slug: "digitale-kommunikation"
         title: "Digitale Kommunikation: Chat, E-Mail, Forum"
         skills_focus: ["schreiben", "lesen"]
         cefr_can_do: ["Forumsbeiträge lesen und einschätzen", "höfliche halb-formelle E-Mails verfassen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 5
       - unit_nr: 6
         slug: "umwelt-und-mobilitaet"
         title: "Umwelt und Mobilität"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["eine Diskussionsrunde verstehen", "eine Position zur Mobilität begründen"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 6
       - unit_nr: 7
         slug: "interkulturelle-begegnung"
         title: "Interkulturelle Begegnung: Missverständnisse und Lösungen"
         skills_focus: ["sprechen", "sprachreflexion"]
         cefr_can_do: ["ein Missverständnis aushandeln", "Register situationsadäquat wählen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 7
       - unit_nr: 8
         slug: "stadt-und-land"
         title: "Stadt und Land"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Standpunkte in Leserbriefen erkennen", "eine Meinung zum Thema verfassen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 8
       - unit_nr: 9
         slug: "konsum-und-verbraucherschutz"
         title: "Konsum und Verbraucherschutz"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Allgemeine Geschäftsbedingungen überfliegen", "eine Reklamations-E-Mail schreiben"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 9
       - unit_nr: 10
         slug: "politik-und-teilhabe"
         title: "Politik und Teilhabe: Wahlen und Bürgerinitiativen"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["einer Wahldiskussion folgen", "eine einfache politische Position begründen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 10
       - unit_nr: 11
         slug: "persoenliche-beziehungen"
         title: "Persönliche Beziehungen und Konflikte"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Beziehungstexte verstehen", "eine ausgleichende Mitteilung formulieren"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 11
       - unit_nr: 12
         slug: "zukunftsvisionen"
         title: "Zukunftsvisionen: Was wird 2040 anders sein?"
         skills_focus: ["sprechen", "hoeren"]
         cefr_can_do: ["eine Präsentation zu einem Zukunftsthema geben", "Meinungen zur Zukunft verstehen"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 12
 
   - id: "kurs_b2"
@@ -323,84 +323,84 @@ courses:
         title: "Medienlandschaft heute"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["komplexere Kommentare analysieren", "eine Medienkritik vortragen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 1
       - unit_nr: 2
         slug: "wissenschaft-kommunizieren"
         title: "Wissenschaft kommunizieren"
         skills_focus: ["hoeren", "schreiben"]
         cefr_can_do: ["einem Fachinterview folgen", "wissenschaftlich zugängliche Beiträge verfassen"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 2
       - unit_nr: 3
         slug: "gesellschaftliche-debatten"
         title: "Gesellschaftliche Debatten: Generationengerechtigkeit"
         skills_focus: ["schreiben", "sprechen"]
         cefr_can_do: ["einen Forumsbeitrag mit Argumenten verfassen", "in einer Diskussion Position vertreten"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 3
       - unit_nr: 4
         slug: "arbeitswelt-im-wandel"
         title: "Arbeitswelt im Wandel: KI und Beruf"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["Standpunkte in Meinungsäußerungen zuordnen", "eine eigene Haltung argumentativ vertreten"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 4
       - unit_nr: 5
         slug: "kunst-und-kultur"
         title: "Kunst und Kultur: Ausstellung besprechen"
         skills_focus: ["hoeren", "schreiben"]
         cefr_can_do: ["Rezensionen im Radio verstehen", "eine Ausstellungsbesprechung schreiben"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 5
       - unit_nr: 6
         slug: "migrationsdiskurs"
         title: "Migrationsdiskurs und Zugehörigkeit"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["essayistische Texte kritisch lesen", "sensibel über Migration sprechen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 6
       - unit_nr: 7
         slug: "gesundheitspolitik"
         title: "Gesundheitspolitik: Pflegenotstand und Solidarität"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["politischer Sendung folgen", "eine Gegenthese formulieren"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 7
       - unit_nr: 8
         slug: "umweltpolitik"
         title: "Umweltpolitik: CO₂-Preis und Verteilungsfragen"
         skills_focus: ["schreiben", "lesen"]
         cefr_can_do: ["Fakten und Meinungen trennen", "eine ausgewogene Stellungnahme verfassen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 8
       - unit_nr: 9
         slug: "bildungsdebatten"
         title: "Bildungsdebatten: Leistungsdruck und Chancengleichheit"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Bildungsstudien verstehen", "einen Kommentar zum Thema schreiben"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 9
       - unit_nr: 10
         slug: "ethik-digitaler-technologien"
         title: "Ethik digitaler Technologien"
         skills_focus: ["schreiben", "sprechen"]
         cefr_can_do: ["ethische Dilemmata formulieren", "einen Forumsbeitrag moderieren"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 10
       - unit_nr: 11
         slug: "oekonomie-fuer-laien"
         title: "Ökonomie für Laien: Inflation und Geldwert"
         skills_focus: ["hoeren", "sprachmittlung"]
         cefr_can_do: ["einem Wirtschaftspodcast folgen", "Fachtermini für Nicht-Fachpublikum umformulieren"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 11
       - unit_nr: 12
         slug: "literarische-perspektiven"
         title: "Literarische Perspektiven: Erzählstimmen der Gegenwart"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["literarische Perspektive analysieren", "einen eigenen Leseeindruck präsentieren"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 12
 
   - id: "kurs_c1"
@@ -415,82 +415,82 @@ courses:
         title: "Literarisches Argumentieren: Was kann ein Text beweisen?"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["implizite Bedeutungen in literarischen Texten erfassen", "einen interpretatorischen Standpunkt vertreten"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 1
       - unit_nr: 2
         slug: "politische-diskursanalyse"
         title: "Politische Diskursanalyse"
         skills_focus: ["schreiben", "lesen"]
         cefr_can_do: ["rhetorische Strategien identifizieren", "einen analytischen Forumsbeitrag schreiben"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 2
       - unit_nr: 3
         slug: "wissenschaftstheorie"
         title: "Wissenschaftstheorie: Was ist Erkenntnis?"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["einem Vortrag zur Wissenschaftstheorie folgen", "erkenntnistheoretische Fragen reformulieren"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 3
       - unit_nr: 4
         slug: "aesthetik-und-urteil"
         title: "Ästhetik und Urteil"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["ästhetische Urteile differenziert formulieren", "Stilanalyse mündlich vortragen"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 4
       - unit_nr: 5
         slug: "identitaet-und-sprache"
         title: "Identität und Sprache: Mehrsprachigkeit als Ressource"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["Identitätsdiskurse kritisch lesen", "einen essayistischen Forumsbeitrag verfassen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 5
       - unit_nr: 6
         slug: "postkoloniale-perspektiven"
         title: "Postkoloniale Perspektiven im deutschsprachigen Raum"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["postkoloniale Texte kontextualisieren", "eine differenzierte Position vertreten"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 6
       - unit_nr: 7
         slug: "historiografie"
         title: "Historiografie: Wem gehört das Narrativ?"
         skills_focus: ["hoeren", "sprechen"]
         cefr_can_do: ["historiografischer Debatte folgen", "Geschichtserzählung argumentativ problematisieren"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 7
       - unit_nr: 8
         slug: "philosophie-fuer-informierte-laien"
         title: "Philosophie für informierte Laien"
         skills_focus: ["lesen", "schreiben"]
         cefr_can_do: ["philosophische Essays lesen", "eine präzise Kurzreplik verfassen"]
-        goethe_module: "schreiben"
+        pruefungs_module: "schreiben"
         theme_arc_position: 8
       - unit_nr: 9
         slug: "fachsprachen-wirtschaft-medizin-recht"
         title: "Fachsprachen: Wirtschaft, Medizin, Recht im Vergleich"
         skills_focus: ["lesen", "sprachmittlung"]
         cefr_can_do: ["Fachtextregister unterscheiden", "Fachaussagen für Nicht-Fachpublikum verständlich machen"]
-        goethe_module: "lesen"
+        pruefungs_module: "lesen"
         theme_arc_position: 9
       - unit_nr: 10
         slug: "stilistik-und-rhetorik"
         title: "Stilistik und Rhetorik"
         skills_focus: ["sprechen", "schreiben"]
         cefr_can_do: ["stilistische Mittel bewusst einsetzen", "eine stilistisch markierte Rede halten"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 10
       - unit_nr: 11
         slug: "literarische-moderne"
         title: "Literarische Moderne: Kafka, Mann, Musil — und warum sie heute lesen?"
         skills_focus: ["lesen", "sprechen"]
         cefr_can_do: ["literarische Moderne verorten", "einen Lektüreeindruck öffentlich präsentieren"]
-        goethe_module: "sprechen"
+        pruefungs_module: "sprechen"
         theme_arc_position: 11
       - unit_nr: 12
         slug: "gegenwartsliteratur"
         title: "Gegenwartsliteratur: Stimmen der letzten zehn Jahre"
         skills_focus: ["hoeren", "schreiben"]
         cefr_can_do: ["Literaturpodcasts folgen", "eine analytische Kurzrezension schreiben"]
-        goethe_module: "hören"
+        pruefungs_module: "hören"
         theme_arc_position: 12

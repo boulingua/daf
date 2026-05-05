@@ -49,7 +49,7 @@ Sie eine kurze Rückmeldung und stellen eine Frage zum Vortrag.
 
 Die Prüfung bewertet entlang der im offiziellen B1-Modellsatz
 dokumentierten Kriterien (siehe auch
-`_resources/goethe_format_b1.yml`):
+`_resources/format_b1.yml`):
 
 - **Erfüllung der Aufgabe** — alle fünf Folien behandelt?
 - **Kohärenz** — hängen die Teile zusammen, werden Konnektoren

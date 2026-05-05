@@ -126,9 +126,9 @@ vier Module (Lesen 65 Min · Hören 40 Min · Schreiben 60 Min ·
 Sprechen 15 Min in Paarprüfung) einzeln prüfbar, je 100 Punkte,
 Bestehen bei 60.
 
-Details: [Prüfungsformate](../goethe_formate.qmd) ·
+Details: [Prüfungsformate](../formate.qmd) ·
 Rohdaten in
-[`_resources/goethe_format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b1.yml).
+[`_resources/format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_b1.yml).
 
 ## Abdeckung der vier Module
 
@@ -146,5 +146,5 @@ ein ausgewogenes Üben möglich wird.
 
 - [Wochenplan des Kurses](uebersicht.qmd)
 - [Übersicht aller 60 Einheiten](../uebersicht.qmd)
-- [Prüfungsformate](../goethe_formate.qmd)
+- [Prüfungsformate](../formate.qmd)
 - [Zurück zur Startseite](../index.qmd)

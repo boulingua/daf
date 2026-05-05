@@ -28,4 +28,4 @@ Ein Mermaid-Entscheidungsbaum, der bei einem Skill-Bedarf (Hören / Lesen / Spre
 
 - [Startseite](../index.qmd)
 - [Übersicht aller Einheiten](../uebersicht.qmd)
-- [Prüfungsformate](../goethe_formate.qmd)
+- [Prüfungsformate](../formate.qmd)

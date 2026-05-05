@@ -14,18 +14,18 @@ Gemeinsamen Europäischen Referenzrahmens A1–C1, jede mit:
 
 - 1 Unit-`.qmd` (HTML-Artikel + Reveal.js-Foliensatz aus einer
   Quelle)
-- 1 Exam-Wrapper-`.qmd` (eigenständiges Goethe-Modellprüfungs-PDF)
+- 1 Exam-Wrapper-`.qmd` (eigenständiges Modellprüfungs-PDF)
 - 1 Platzhalter-Arbeitsblatt-PDF (durch CI generiert,
   Standard-Werk in jedem CI-Lauf)
 
 Plus 9 Top-Level-Seiten, 5 Kurs-Startseiten, 5 Anhang-Seiten,
-1 Lua-Shortcode und 5 Goethe-Format-YAMLs als autoritative Quelle.
+1 Lua-Shortcode und 5 Format-YAMLs als autoritative Quelle.
 
 ## 2. Datei-Statistik
 
 | Kategorie                            |  Anzahl |
 |--------------------------------------|--------:|
-| Goethe-Format-YAMLs                  |       5 |
+| Format-YAMLs                         |       5 |
 | Curriculum-Outline                   |       1 |
 | Top-Level `.qmd`                     |       9 |
 | Kurs-Startseiten                     |       5 |
@@ -61,7 +61,7 @@ Sprechen:  3 pro Kurs × 5 Kurse = 15 Einheiten
 Gesamt:                            60 Einheiten
 ```
 
-Jede Stufe deckt damit alle vier Goethe-Module ausgewogen ab.
+Jede Stufe deckt damit alle vier Prüfungsmodule ausgewogen ab.
 
 ## 5. CI / Deploy
 
@@ -139,12 +139,12 @@ DaF-Site ist in **erster Vollfassung** abgeschlossen. Sie folgt
 der Vorgabe des DaF-Prompts in allen prüfenden Punkten:
 
 - 5 Kurse · 12 Einheiten · 60 Einheiten gesamt ✓
-- pro Einheit: Artikel + Slides + Goethe-Modellprüfung ✓
+- pro Einheit: Artikel + Slides + Modellprüfung ✓
 - Modul-Balance pro Kurs 3/3/3/3 ✓
 - Cast pro Stufe konsistent ✓
 - DACH-Streuung (Wien/Graz/Berlin/Köln/Basel/Sarajevo/Freiburg) ✓
-- Goethe-Formate aus offiziellen Quellen verbatim erfasst ✓
-- keine Reproduktion echter Goethe-Modellsatztexte ✓
+- Prüfungsformate an offiziellen Quellen orientiert ✓
+- keine Reproduktion echter Modellsatz-Texte ✓
 - keine Reproduktion kommerzieller Lehrwerke ✓
 - Lizenzsplit MIT + CC-BY-SA 4.0 sichtbar ✓
 - Impressum + Datenschutz inkl. Adresse + GitHub-Hosting ✓

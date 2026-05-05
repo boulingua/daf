@@ -38,7 +38,7 @@ Notices:
     property of the respective rights holders and is used here under
     quotation and educational-use provisions.
 
-  * The Goethe-Zertifikat format descriptions in `_resources/goethe_format_*.yml`
+  * The exam-format descriptions in `_resources/format_*.yml`
     cite structural information (Teile, Zeiten, Punkte, Aufgabentypen)
     that is publicly documented by the Goethe-Institut. No actual exam
     stimulus material from any official Goethe-Modellsatz is reproduced;

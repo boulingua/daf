@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - hoeren
   - sprachmittlung
-goethe_module:
+pruefungs_module:
   - hören
 format:
   html:

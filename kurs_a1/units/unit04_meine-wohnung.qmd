@@ -1,6 +1,6 @@
 ---
 title: "Einheit 4 — Meine Wohnung"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Schreiben"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben"
 cefr_level: "A1"
 unit_nr: 4
 slug: "meine-wohnung"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - schreiben
   - lesen
-goethe_module:
+pruefungs_module:
   - schreiben
 format:
   html:
@@ -156,7 +156,7 @@ fünf kurzen Sätzen. Nutzen Sie mindestens vier der Möbel aus A.
 - [ ] Ich verstehe eine kurze Wohnungsanzeige.
 - [ ] Ich fülle ein A1-Formular korrekt aus.
 
-## Prüfungsbeispiel — Start Deutsch 1 Schreiben, Teil 1
+## Prüfungsbeispiel — GER-Prüfung A1 Schreiben, Teil 1
 
 **Aufgabe:** Sie wollen in Deutschland eine Wohnung mieten. Sie
 füllen das Formular aus. Ergänzen Sie **die fünf Felder**.

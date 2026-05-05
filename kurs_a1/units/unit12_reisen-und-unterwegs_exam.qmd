@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Lesen, Teil 3"
+title: "GER-Prüfung A1 — Lesen, Teil 3"
 subtitle: "Einheit 12 · Reisen und unterwegs · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

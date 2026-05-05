@@ -14,7 +14,7 @@ website:
         text: "Start"
       - href: ueber.qmd
         text: "Über"
-      - href: goethe_formate.qmd
+      - href: formate.qmd
         text: "Prüfungsformate"
       - href: uebersicht.qmd
         text: "Übersicht"
@@ -46,7 +46,7 @@ website:
     left: "DaF · © S. Le Boulanger · MIT / CC-BY-SA 4.0"
     center: |
       [Start](/start.qmd) · [Übersicht](/uebersicht.qmd) ·
-      [Prüfungsformate](/goethe_formate.qmd) ·
+      [Prüfungsformate](/formate.qmd) ·
       [Lernstrategien](/anhaenge/lernstrategien.qmd) ·
       [Kompetenzbaum](/anhaenge/kompetenzbaum.qmd) ·
       [Glossar](/anhaenge/glossar.qmd) ·

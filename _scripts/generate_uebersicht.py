@@ -96,7 +96,7 @@ def main() -> int:
             n = unit["unit_nr"]
             slug = unit["slug"]
             title = unit["title"]
-            modul = unit["goethe_module"]
+            modul = unit["pruefungs_module"]
             skills = " · ".join(unit.get("skills_focus", []))
             link = slugify_filename(cid, n, slug)
             rows.append(

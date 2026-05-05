@@ -28,7 +28,7 @@ Prüfungsanbieter — bibliografische Angaben siehe
 - **Prüfungsform Sprechen:** Gruppenprüfung (max. 4
   Teilnehmende, 2 Prüfende), 15 Minuten, keine Vorbereitungszeit.
 - **Format-Spezifikation:**
-  [`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml).
+  [`_resources/format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_a1.yml).
 
 ### A2 [A2]{.cefr-badge .a2}
 
@@ -38,7 +38,7 @@ Prüfungsanbieter — bibliografische Angaben siehe
 - **Punkte:** 100 gesamt, je Modul 25, Bestehen bei 60 %.
   Rohpunkte in Lesen/Hören/Schreiben werden mit 1,25 multipliziert.
 - **Format-Spezifikation:**
-  [`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml).
+  [`_resources/format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_a2.yml).
 
 ### B1 (modular) [B1]{.cefr-badge .b1}
 
@@ -49,7 +49,7 @@ Prüfungsanbieter — bibliografische Angaben siehe
 - **Sprechen-Teile:** Planung (4 Leitpunkte) · Präsentation (5 Folien)
   · Feedback und Rückfragen.
 - **Format-Spezifikation:**
-  [`_resources/goethe_format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b1.yml).
+  [`_resources/format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_b1.yml).
 
 ### B2 (modular) [B2]{.cefr-badge .b2}
 
@@ -61,7 +61,7 @@ Prüfungsanbieter — bibliografische Angaben siehe
 - **Sprechen:** Vortrag (ca. 4 Min pro Person) + Diskussion
   (pro/kontra, ca. 5 Min).
 - **Format-Spezifikation:**
-  [`_resources/goethe_format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b2.yml).
+  [`_resources/format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_b2.yml).
 
 ### C1 (modular) [C1]{.cefr-badge .c1}
 
@@ -72,7 +72,7 @@ Prüfungsanbieter — bibliografische Angaben siehe
   Dreier-Diskussion, Kontroversdebatte. Schreiben: Forumsbeitrag
   ~230 Wörter + E-Mail ~120 Wörter, je mit vier Sprachfunktionen.
 - **Format-Spezifikation:**
-  [`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml).
+  [`_resources/format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_c1.yml).
 
 ## Wie diese Seite die Formate verwendet
 

@@ -1,6 +1,6 @@
 ---
 title: "Einheit 12 — Reisen und unterwegs"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Lesen"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen"
 cefr_level: "A1"
 unit_nr: 12
 slug: "reisen-und-unterwegs"
@@ -11,7 +11,7 @@ cefr_can_do:
 skills_focus:
   - lesen
   - schreiben
-goethe_module:
+pruefungs_module:
   - lesen
 format:
   html:
@@ -159,7 +159,7 @@ an Luka** (ca. 30 Wörter):
 - [ ] Ich verstehe 6 Bahnhofsschilder.
 - [ ] Ich schreibe eine kurze Postkarte.
 
-## Prüfungsbeispiel — Start Deutsch 1 Lesen, Teil 3
+## Prüfungsbeispiel — GER-Prüfung A1 Lesen, Teil 3
 
 **Aufgabe:** Sie sehen fünf Schilder. Sind die Aussagen
 **richtig** oder **falsch**?

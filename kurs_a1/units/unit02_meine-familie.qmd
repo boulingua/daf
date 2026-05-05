@@ -1,6 +1,6 @@
 ---
 title: "Einheit 2 — Meine Familie"
-subtitle: "GER-Stufe A1 · Start Deutsch 1 · Modul Lesen"
+subtitle: "GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen"
 cefr_level: "A1"
 unit_nr: 2
 slug: "meine-familie"
@@ -10,7 +10,7 @@ cefr_can_do:
 skills_focus:
   - sprechen
   - lesen
-goethe_module:
+pruefungs_module:
   - lesen
 format:
   html:
@@ -148,7 +148,7 @@ Erzählen Sie in vier Sätzen:
 - [ ] Ich kann *mein* / *meine* richtig benutzen.
 - [ ] Ich verstehe einen kurzen Familien-Text.
 
-## Prüfungsbeispiel — Start Deutsch 1 Lesen, Teil 1
+## Prüfungsbeispiel — GER-Prüfung A1 Lesen, Teil 1
 
 **Aufgabe:** Lesen Sie die Notiz. Sind die Aussagen *richtig*
 oder *falsch*?

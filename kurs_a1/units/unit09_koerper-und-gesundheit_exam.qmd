@@ -1,5 +1,5 @@
 ---
-title: "Start Deutsch 1 — Sprechen, Teil 3"
+title: "GER-Prüfung A1 — Sprechen, Teil 3"
 subtitle: "Einheit 9 · Körper und Gesundheit · GER-Stufe A1"
 author: "S. Le Boulanger"
 format:

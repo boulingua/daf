@@ -32,4 +32,4 @@ sind nur die Einheit-Plätze reserviert.
 ## Siehe auch
 
 - [Kurs A2 — Startseite](index.qmd)
-- [Prüfungsformate](../goethe_formate.qmd)
+- [Prüfungsformate](../formate.qmd)

@@ -26,4 +26,4 @@ Kompakte Sammlung von Lernstrategien für DaF-Lernende auf allen Stufen des Geme
 
 - [Startseite](../index.qmd)
 - [Übersicht aller Einheiten](../uebersicht.qmd)
-- [Prüfungsformate](../goethe_formate.qmd)
+- [Prüfungsformate](../formate.qmd)

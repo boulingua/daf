@@ -11,7 +11,7 @@ Die offiziellen Bewertungsraster für **Schreiben** und
 Tabellenform. Vollständig ausformulierte Skalen liegen in den
 fünf YAML-Dateien unter
 [`_resources/`](https://github.com/boulingua/daf/tree/main/_resources):
-`goethe_format_a1.yml` bis `goethe_format_c1.yml`.
+`format_a1.yml` bis `format_c1.yml`.
 
 ## Pass-Schwellen kompakt
 
@@ -95,15 +95,15 @@ und offizielle Bewertung ist immer die jeweilige
 *„Prüfungsziele, Testbeschreibung“* bzw. *„Modellsatz“*-Publikation
 des Prüfungsanbieters maßgeblich. Direktverweise:
 
-- [`_resources/goethe_format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a1.yml)
-- [`_resources/goethe_format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_a2.yml)
-- [`_resources/goethe_format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b1.yml)
-- [`_resources/goethe_format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_b2.yml)
-- [`_resources/goethe_format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/goethe_format_c1.yml)
+- [`_resources/format_a1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_a1.yml)
+- [`_resources/format_a2.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_a2.yml)
+- [`_resources/format_b1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_b1.yml)
+- [`_resources/format_b2.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_b2.yml)
+- [`_resources/format_c1.yml`](https://github.com/boulingua/daf/blob/main/_resources/format_c1.yml)
 
 ## Siehe auch
 
-- [Prüfungsformate](../goethe_formate.qmd) — Übersicht aller
+- [Prüfungsformate](../formate.qmd) — Übersicht aller
   Module pro Stufe.
 - [Glossar](glossar.qmd) — Begriffe wie *Erwartungshorizont,
   Inhaltspunkt*, etc.
