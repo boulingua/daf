@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or cite this material, please use the following metadata."
+title: "DaF — Deutsch als Fremdsprache (Goethe-Formate, A1–C1)"
+abstract: >-
+  Ein Kurscurriculum für Deutsch als Fremdsprache entlang des
+  Gemeinsamen Europäischen Referenzrahmens (GER / CEFR), mit
+  Goethe-Modellprüfungen pro Einheit. Fünf GER-Stufen (A1, A2, B1,
+  B2, C1) zu je 12 Einheiten — 60 Einheiten insgesamt.
+type: dataset
+authors:
+  - family-names: "Le Boulanger"
+    given-names: "S."
+    email: "277736839+s-leboulanger@users.noreply.github.com"
+repository-code: "https://github.com/boulingua/daf"
+url: "https://boulingua.github.io/daf/"
+license:
+  - MIT
+  - CC-BY-SA-4.0
+keywords:
+  - "Deutsch als Fremdsprache"
+  - "DaF"
+  - "Goethe-Zertifikat"
+  - "CEFR"
+  - "GER"
+  - "A1"
+  - "A2"
+  - "B1"
+  - "B2"
+  - "C1"

@@ -1,0 +1,32 @@
+# Default owner — content authorship
+*                           @s-leboulanger
+
+# Pedagogical / curatorial content
+/kurs_a1/                   @s-leboulanger
+/kurs_a2/                   @s-leboulanger
+/kurs_b1/                   @s-leboulanger
+/kurs_b2/                   @s-leboulanger
+/kurs_c1/                   @s-leboulanger
+/anhaenge/                  @s-leboulanger
+/_resources/                @s-leboulanger
+*.qmd                       @s-leboulanger
+README.md                   @s-leboulanger
+LEGAL.md                    @s-leboulanger
+HANDOVER.md                 @s-leboulanger
+LICENSE-content             @s-leboulanger
+CITATION.cff                @s-leboulanger
+impressum.qmd               @s-leboulanger
+datenschutz.qmd             @s-leboulanger
+haftungsausschluss.qmd      @s-leboulanger
+
+# Infrastructure / scaffolding — maintainer
+/.github/                   @r-heller
+/_scripts/                  @r-heller
+/_includes/                 @r-heller
+/_extensions/               @r-heller
+/assets/                    @r-heller
+_quarto.yml                 @r-heller
+custom.scss                 @r-heller
+styles.css                  @r-heller
+.gitignore                  @r-heller
+LICENSE                     @r-heller
