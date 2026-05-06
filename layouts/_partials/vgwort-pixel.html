@@ -1,0 +1,25 @@
+{{/*
+  VG Wort Standard-Zählpixel for one page.
+
+  Reads `vgwort_pixel` (or `vgwort-pixel`) from page params. Accepts:
+    - a full URL ("https://vg08.met.vgwort.de/na/<token>"),
+    - a server+path ("vg08.met.vgwort.de/na/<token>"),
+    - or a bare 32-char token (default server "vg08.met.vgwort.de/na/" assumed).
+
+  Mirrors the behaviour of _scripts/vgwort.lua from the Quarto setup.
+*/}}
+{{ $token := or (.Params.vgwort_pixel) (.Params.vgwort) "" }}
+{{ if and $token (ne (printf "%s" $token) "") }}
+  {{ $t := printf "%s" $token }}
+  {{ $url := "" }}
+  {{ if hasPrefix $t "http://" }}
+    {{ $url = $t }}
+  {{ else if hasPrefix $t "https://" }}
+    {{ $url = $t }}
+  {{ else if findRE "^vg[a-z0-9]+\\.met\\.vgwort\\.de/" $t }}
+    {{ $url = printf "https://%s" $t }}
+  {{ else }}
+    {{ $url = printf "https://vg08.met.vgwort.de/na/%s" $t }}
+  {{ end }}
+  <img src="{{ $url }}" width="1" height="1" alt="" loading="lazy" referrerpolicy="no-referrer" style="position:absolute;left:-9999px;" />
+{{ end }}

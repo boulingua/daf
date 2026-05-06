@@ -1,0 +1,337 @@
+/* DaF — design tokens layered on hugo-coder. Mirrors boulingua/website
+   colour scheme so all four sister sites feel like one product. */
+
+:root {
+  --boulingua-accent: #1a73e8;
+  --boulingua-accent-hover: #0b57d0;
+  --boulingua-panel-border: rgba(0, 0, 0, 0.12);
+  --boulingua-panel-border-hover: var(--boulingua-accent);
+  --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  --boulingua-rule: rgba(0, 0, 0, 0.12);
+  --boulingua-cefr-a: #4caf50;
+  --boulingua-cefr-b: #1a73e8;
+  --boulingua-cefr-c: #8e24aa;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto {
+    --boulingua-accent: #79b8ff;
+    --boulingua-accent-hover: #b8d4fd;
+    --boulingua-panel-border: rgba(255, 255, 255, 0.16);
+    --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+    --boulingua-rule: rgba(255, 255, 255, 0.16);
+  }
+}
+
+body.colorscheme-dark {
+  --boulingua-accent: #79b8ff;
+  --boulingua-accent-hover: #b8d4fd;
+  --boulingua-panel-border: rgba(255, 255, 255, 0.16);
+  --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+  --boulingua-rule: rgba(255, 255, 255, 0.16);
+}
+
+/* ── Typography ─────────────────────────────────── */
+body {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, sans-serif;
+}
+
+code, pre, kbd, samp {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, monospace;
+}
+
+/* ── Navbar brand ───────────────────────────────── */
+.navigation .navigation-title {
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+}
+
+.navigation .navigation-title::before {
+  content: "#";
+}
+
+/* ── Accent links ───────────────────────────────── */
+a {
+  color: var(--boulingua-accent);
+}
+
+a:hover,
+a:focus {
+  color: var(--boulingua-accent-hover);
+}
+
+.social-icons a:hover,
+.tags-overview .tag-item:hover,
+.navigation .navigation-list .navigation-item a:hover,
+.navigation .navigation-list .navigation-parent:hover {
+  color: var(--boulingua-accent);
+}
+
+/* ── Submenu (dropdown) ─────────────────────────── */
+.navigation-list .has-children {
+  position: relative;
+}
+
+.navigation-parent {
+  cursor: default;
+}
+
+.navigation-parent::after {
+  content: " ▾";
+  font-size: 0.75em;
+  opacity: 0.7;
+}
+
+.navigation-submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: var(--bg-color, #fff);
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 4px;
+  list-style: none;
+  margin: 0;
+  padding: 0.4rem 0;
+  min-width: 14rem;
+  z-index: 100;
+  box-shadow: var(--boulingua-panel-shadow);
+}
+
+body.colorscheme-dark .navigation-submenu,
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto .navigation-submenu {
+    background: #1d1f21;
+  }
+}
+
+.navigation-submenu .navigation-subitem {
+  list-style: none;
+}
+
+.navigation-submenu .navigation-subitem a {
+  display: block;
+  padding: 0.4rem 1rem;
+  white-space: nowrap;
+}
+
+.navigation-list .has-children:hover .navigation-submenu,
+.navigation-list .has-children:focus-within .navigation-submenu {
+  display: block;
+}
+
+@media (max-width: 720px) {
+  .navigation-submenu {
+    position: static;
+    box-shadow: none;
+    border: none;
+    padding-left: 1rem;
+  }
+}
+
+/* ── H2 rule on content pages ───────────────────── */
+main.content h2,
+.content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--boulingua-rule);
+  transition: border-color 0.2s ease;
+}
+
+main.content h2:hover,
+.content h2:hover {
+  border-bottom-color: var(--boulingua-accent);
+}
+
+/* ── Footer ─────────────────────────────────────── */
+.footer {
+  font-size: 0.9rem;
+}
+
+.footer .footer-links {
+  margin: 0.6rem 0;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.footer .footer-links a {
+  margin: 0 0.25rem;
+}
+
+/* ── Hero (used on landing pages) ───────────────── */
+.hero-block {
+  margin: 2rem 0 3rem;
+}
+
+.hero-kicker {
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.7;
+  margin-bottom: 0.6rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  max-width: 50rem;
+}
+
+/* ── Card grid (course landings) ────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.card {
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  background: transparent;
+  transition: box-shadow 0.2s ease, transform 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: var(--boulingua-panel-shadow);
+  transform: translateY(-2px);
+  border-color: var(--boulingua-panel-border-hover);
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+/* ── CEFR badge ─────────────────────────────────── */
+.cefr-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: var(--boulingua-cefr-b);
+  color: #fff;
+}
+
+.cefr-badge.a1, .cefr-badge.a2 { background: var(--boulingua-cefr-a); }
+.cefr-badge.b1, .cefr-badge.b2 { background: var(--boulingua-cefr-b); }
+.cefr-badge.c1               { background: var(--boulingua-cefr-c); }
+
+/* ── Callouts (Quarto-equivalent) ───────────────── */
+.callout {
+  border-left: 4px solid var(--boulingua-accent);
+  background: rgba(26, 115, 232, 0.06);
+  padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.callout > p:first-child { margin-top: 0; }
+.callout > p:last-child { margin-bottom: 0; }
+
+.callout-note    { border-left-color: #1a73e8; background: rgba(26,115,232,0.06); }
+.callout-tip     { border-left-color: #2e7d32; background: rgba(46,125,50,0.06); }
+.callout-warning { border-left-color: #ef6c00; background: rgba(239,108,0,0.08); }
+.callout-important { border-left-color: #c62828; background: rgba(198,40,40,0.06); }
+.callout-caution { border-left-color: #ef6c00; background: rgba(239,108,0,0.08); }
+
+.callout-title {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+/* ── Collapsible details (replaces collapse=true callout) ─ */
+details.callout {
+  padding: 0.5rem 1rem;
+}
+
+details.callout summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.3rem 0;
+}
+
+/* ── Materials hub cards ───────────────────────── */
+.material-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.material-card {
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.2s ease, transform 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.material-card:hover {
+  box-shadow: var(--boulingua-panel-shadow);
+  transform: translateY(-2px);
+  border-color: var(--boulingua-panel-border-hover);
+}
+
+.material-card .thumb {
+  background: rgba(0,0,0,0.04);
+  aspect-ratio: 4 / 3;
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+.material-card .body {
+  padding: 0.8rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.material-card h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.material-card .tags {
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
+.material-card .download {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+}
+
+/* ── Per-article material links partial (paired) ─ */
+.material-pair {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.material-pair .material-card .thumb {
+  aspect-ratio: 16 / 10;
+}
+
+/* ── Speaker / presenter notes (Quarto .notes) ───*/
+.notes {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  border-left: 3px solid var(--boulingua-rule);
+  padding: 0.4rem 1rem;
+  margin: 1.5rem 0;
+}

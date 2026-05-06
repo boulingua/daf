@@ -1,0 +1,94 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: "0.147.0"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install Hugo
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb \
+            https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Check legal placeholders
+        run: |
+          if [ -f content/impressum.md ] || [ -f content/datenschutz.md ]; then
+            if grep -nE "<TODO|\[PLACEHOLDER" content/impressum.md content/datenschutz.md 2>/dev/null; then
+              echo "::error::Unfilled placeholders in impressum.md or datenschutz.md."
+              exit 1
+            fi
+          fi
+
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+          TZ: Europe/Berlin
+        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Verify Plausible snippet survived the build
+        run: |
+          # The Plausible script must be present on every rendered page.
+          # If the head/extensions partial is removed or the data-domain
+          # attribute drifts, this fails the build.
+          # --minify strips quotes; accept either quoted or unquoted form.
+          if ! grep -qE 'data-domain=["]?boulingua\.github\.io/daf["]?' public/index.html; then
+            echo "::error::Plausible snippet missing or data-domain mismatch in public/index.html"
+            exit 1
+          fi
+
+      - name: Verify VG Wort pixels (manifest gate)
+        run: |
+          if [ -f scripts/verify-vgwort.sh ]; then
+            bash scripts/verify-vgwort.sh
+          else
+            echo "verify-vgwort.sh not present — skipping."
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,139 @@
+baseURL = "https://boulingua.github.io/daf/"
+title = "DaF — S. Le Boulanger"
+languageCode = "de"
+defaultContentLanguage = "de"
+enableEmoji = false
+
+[pagination]
+  pagerSize = 20
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 4
+
+[params]
+  author = "S. Le Boulanger"
+  description = "Ein DaF-Kursangebot entlang des Gemeinsamen Europäischen Referenzrahmens, A1 bis C1, mit GER-Modellprüfung pro Einheit."
+  keywords = "DaF,Deutsch als Fremdsprache,GER,CEFR,A1,A2,B1,B2,C1,Curriculum,OER"
+  info = ["Deutsch als Fremdsprache", "GER A1 – C1", "60 Einheiten · Prüfungsformate"]
+  dateFormat = "2006-01-02"
+  hideFooter = false
+  hideCredits = false
+  since = 2025
+  colorScheme = "auto"
+  customCSS = ["css/custom.css"]
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/boulingua/daf"
+
+# ── Top-level menu ─────────────────────────────────────────
+[[menu.main]]
+  name = "Start"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "Über"
+  weight = 2
+  url = "/ueber/"
+
+[[menu.main]]
+  name = "Prüfungsformate"
+  weight = 3
+  url = "/formate/"
+
+[[menu.main]]
+  name = "Übersicht"
+  weight = 4
+  url = "/uebersicht/"
+
+# ── GER-Stufen submenu ─────────────────────────────────────
+[[menu.main]]
+  name = "GER-Stufen"
+  weight = 5
+  identifier = "ger-stufen"
+
+[[menu.main]]
+  parent = "ger-stufen"
+  weight = 51
+  name = "A1 — Anfänger:innen"
+  url = "/kurs_a1/"
+
+[[menu.main]]
+  parent = "ger-stufen"
+  weight = 52
+  name = "A2 — Grundlegende Kenntnisse"
+  url = "/kurs_a2/"
+
+[[menu.main]]
+  parent = "ger-stufen"
+  weight = 53
+  name = "B1 — Selbstständig (untere Stufe)"
+  url = "/kurs_b1/"
+
+[[menu.main]]
+  parent = "ger-stufen"
+  weight = 54
+  name = "B2 — Selbstständig (obere Stufe)"
+  url = "/kurs_b2/"
+
+[[menu.main]]
+  parent = "ger-stufen"
+  weight = 55
+  name = "C1 — Kompetent"
+  url = "/kurs_c1/"
+
+# ── Materialien submenu (Phase 3) ─────────────────────────
+[[menu.main]]
+  name = "Materialien"
+  weight = 6
+  identifier = "materialien"
+
+[[menu.main]]
+  parent = "materialien"
+  weight = 61
+  name = "Foliensätze"
+  url = "/materials/presentations/"
+
+[[menu.main]]
+  parent = "materialien"
+  weight = 62
+  name = "Arbeitsblätter"
+  url = "/materials/worksheets/"
+
+# ── Rechtliches submenu ────────────────────────────────────
+[[menu.main]]
+  name = "Rechtliches"
+  weight = 9
+  identifier = "rechtliches"
+
+[[menu.main]]
+  parent = "rechtliches"
+  weight = 91
+  name = "Impressum"
+  url = "/impressum/"
+
+[[menu.main]]
+  parent = "rechtliches"
+  weight = 92
+  name = "Datenschutzerklärung"
+  url = "/datenschutz/"
+
+[[menu.main]]
+  parent = "rechtliches"
+  weight = 93
+  name = "Haftungsausschluss"
+  url = "/haftungsausschluss/"
+
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"
