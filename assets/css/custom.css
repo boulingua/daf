@@ -505,6 +505,17 @@ body.colorscheme-dark {
   --network-fg-mute:   rgba(255, 255, 255, 0.55);
 }
 
+/* ── Phase-6 a11y — focus rings everywhere on the network page ───── */
+
+.network-page :focus-visible,
+.network-page button:focus-visible,
+.network-page input:focus-visible,
+.network-page a:focus-visible {
+  outline: 2px solid var(--network-highlight, #E8C547);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
 /* ── Page shell ───────────────────────────────────── */
 
 .network-page {
@@ -806,6 +817,14 @@ body.colorscheme-dark {
   }
   .network-graph { display: none; }
   .network-card.article { grid-column: span 1; }
+  .network-rail {
+    flex-direction: row;
+    overflow-x: auto;
+    min-height: auto;
+    padding: 0.6rem;
+    scroll-snap-type: x mandatory;
+  }
+  .network-rail .facet-group { min-width: 14rem; scroll-snap-align: start; }
 }
 
 .network-empty {

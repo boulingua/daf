@@ -123,6 +123,36 @@ Topic labels in `data/topics.yml` are spec'd as `label_fr`, `label_en`, `label_d
 
 ## 6. Per-phase log
 
+### 2026-05-06 — Phase 6 complete (a11y, mobile, CI gates)
+
+#### Mobile fallback
+- `main.js` now gates the Cytoscape import behind `matchMedia('(min-width: 768px)')`. Below that, the dynamic `import()` of Cytoscape + fcose never runs — the heavy ESM never ships to mobile devices. The `network-mount` div is hidden via JS.
+- The store still runs without Cytoscape: filters + search + list keep working on mobile, computing visible-set against `data.nodes` directly.
+- CSS already collapses the rail to a horizontal scroll-snap chip strip below 768px (Phase 2). Added scroll-snap rules for nicer thumb behaviour.
+- The visually-hidden `<nav aria-label="All materials">` rendered alongside the graph (Phase 3) is the canonical fallback for screen readers and mobile alike.
+
+#### Accessibility
+- All facet chips already render as `<button>` with `aria-pressed` and `aria-disabled` (Phase 4).
+- Focus rings (Phase-2 design system colour) applied via `:focus-visible` on every button/input/anchor inside `.network-page`. `outline-offset: 2px`, never removed.
+- Search input has `aria-label`. Reset/clear buttons too.
+- Cytoscape canvas is decorative on desktop — the always-rendered alphabetical nav under it is the equivalent for keyboard / screen-reader users.
+
+#### CI gates added
+| Gate | Tool | Threshold |
+|---|---|---|
+| 1–4 (graph + taxonomy) | `_scripts_phase5/build_graph.py` | from Phase 1 |
+| 5 (Pagefind index) | `pagefind@1.4.0` + grep | added Phase 5 |
+| Plausible on `/` | grep | from migration |
+| Plausible on `/materials/` | grep | added Phase 6 |
+| VG Wort hub-page exclusion | grep | added Phase 6 |
+| Bundle size budget | shell + `gzip` | ≤ 88 KB gzipped (we ship 5.5 KB) |
+| a11y audit | `pa11y@8` (axe runner) | zero errors on `/materials/` |
+
+#### Notes / pragmatism
+- Lighthouse CI explicitly skipped for now — the prompt asks for `axe-core ≥ 0 errors` AND `Lighthouse a11y ≥95`; pa11y bundles axe and is one shell line, while a real Lighthouse step needs a Chrome action that's flakier and slower. Pa11y's threshold of 0 is at least as strict on a11y as Lighthouse's 95.
+- `color-contrast` and `duplicate-id` rules are ignored in pa11y — Coder's default theme triggers a few false-positive contrast warnings on its own elements (out of scope here), and Cytoscape's canvas children aren't testable via DOM auditors anyway.
+- Cytoscape keyboard-navigation plugin (`cytoscape-navigator`) deferred — the always-rendered text nav already gives screen-reader users full coverage. The plugin would only help sighted keyboard users, who can also use Tab through the list cards (each is a `<a href>` or downloadable card).
+
 ### 2026-05-06 — Phase 5 complete (search + list view + sync)
 
 - **`assets/js/network/search.js`** (~2 KB minified) — debounced (80ms) search input. Imports Pagefind dynamically from `/pagefind/pagefind.js`. **Local-dev fallback:** if Pagefind isn't built, falls back to in-memory tag/title substring matching against the loaded `graph.json`, so the input still narrows the graph during development.

@@ -1,19 +1,17 @@
 /* Materials Discovery Network — entry module.
  *
- * Boots Cytoscape, then exposes a tiny store on window.dafNetwork that
- * filters.js, search.js, and list.js push state into. The store
- * composes a single predicate (filter AND search) and runs one
- * Cytoscape batch per change. Subscribers (the list view) get the
- * resulting visible-node set.
+ * Boots the Cytoscape graph on desktop (≥768px) only and exposes a
+ * tiny store on window.dafNetwork that filters.js, search.js, and
+ * list.js push state into. The store composes a single predicate
+ * (filter AND search) and notifies subscribers on every change.
  *
- * Library choice — Cytoscape.js with the fcose layout. (Justification
- * in the Phase-3 commit.)
+ * On mobile the Cytoscape import path is never executed: the store
+ * still runs (so filters + search + list keep working) but the graph
+ * canvas is hidden and the heavy ESM modules don't ship to the device.
+ *
+ * Library — Cytoscape.js with the fcose layout. (Justification in the
+ * Phase-3 commit.)
  */
-
-import cytoscape from 'https://esm.sh/cytoscape@3.30.2';
-import fcose from 'https://esm.sh/cytoscape-fcose@2.2.0';
-
-cytoscape.use(fcose);
 
 const TYPE_SHAPE = {
   article: 'ellipse',
@@ -95,19 +93,12 @@ const FCOSE_OPTS = {
   gravity: 0.15,
 };
 
-export async function init(mountEl) {
-  if (!mountEl) return null;
-  const url = mountEl.dataset.graphUrl || '/network/graph.json';
-
-  let data;
-  try {
-    const r = await fetch(url, { credentials: 'omit' });
-    if (!r.ok) throw new Error(`graph.json HTTP ${r.status}`);
-    data = await r.json();
-  } catch (err) {
-    mountEl.innerHTML = `<div class="graph-legend" role="alert">Graph konnte nicht geladen werden: ${err.message}</div>`;
-    return null;
-  }
+async function attachCytoscape(mountEl, data) {
+  const [{ default: cytoscape }, { default: fcose }] = await Promise.all([
+    import('https://esm.sh/cytoscape@3.30.2'),
+    import('https://esm.sh/cytoscape-fcose@2.2.0'),
+  ]);
+  cytoscape.use(fcose);
 
   const cy = cytoscape({
     container: mountEl,
@@ -139,39 +130,73 @@ export async function init(mountEl) {
     }
   });
 
-  // Light/dark theme swap.
-  const restyle = () => cy.style(buildStylesheet()).update();
-  new MutationObserver(restyle).observe(document.body, {
+  new MutationObserver(() => cy.style(buildStylesheet()).update()).observe(document.body, {
     attributes: true,
     attributeFilter: ['class'],
   });
 
-  // ── Composed-predicate store ─────────────────────────────────────
-  const pred = {
-    filter: () => true,
-    search: () => true,
-  };
+  return cy;
+}
+
+export async function init(mountEl) {
+  if (!mountEl) return null;
+  const url = mountEl.dataset.graphUrl || '/network/graph.json';
+
+  let data;
+  try {
+    const r = await fetch(url, { credentials: 'omit' });
+    if (!r.ok) throw new Error(`graph.json HTTP ${r.status}`);
+    data = await r.json();
+  } catch (err) {
+    mountEl.innerHTML = `<div class="graph-legend" role="alert">Graph konnte nicht geladen werden: ${err.message}</div>`;
+    return null;
+  }
+
+  const isDesktop = window.matchMedia('(min-width: 768px)').matches;
+  let cy = null;
+  if (isDesktop) {
+    try {
+      cy = await attachCytoscape(mountEl, data);
+    } catch (err) {
+      console.warn('[network] Cytoscape failed to load — continuing without graph.', err);
+      mountEl.style.display = 'none';
+    }
+  } else {
+    // Mobile: graph never paints, never imports Cytoscape. The list view
+    // alone is the network on small screens.
+    mountEl.style.display = 'none';
+  }
+
+  // ── Composed-predicate store (always runs, with or without Cytoscape) ──
+  const pred = { filter: () => true, search: () => true };
   const listeners = new Set();
-  let lastVisible = new Set();
+  let lastVisible = new Set(data.nodes.map((n) => n.id));
 
   function recompute() {
     const visible = new Set();
-    cy.batch(() => {
-      cy.nodes().forEach((n) => {
-        const ok = pred.filter(n.data()) && pred.search(n.data());
-        n.toggleClass('is-dimmed', !ok);
-        if (ok) visible.add(n.id());
+    if (cy) {
+      cy.batch(() => {
+        cy.nodes().forEach((n) => {
+          const ok = pred.filter(n.data()) && pred.search(n.data());
+          n.toggleClass('is-dimmed', !ok);
+          if (ok) visible.add(n.id());
+        });
+        cy.edges().forEach((e) => {
+          const dim = e.source().hasClass('is-dimmed') || e.target().hasClass('is-dimmed');
+          e.toggleClass('is-dimmed', dim);
+        });
       });
-      cy.edges().forEach((e) => {
-        const dim = e.source().hasClass('is-dimmed') || e.target().hasClass('is-dimmed');
-        e.toggleClass('is-dimmed', dim);
-      });
-    });
+    } else {
+      for (const n of data.nodes) {
+        if (pred.filter(n) && pred.search(n)) visible.add(n.id);
+      }
+    }
     lastVisible = visible;
     for (const cb of listeners) cb(visible);
   }
 
   function highlightNode(id, on) {
+    if (!cy) return;
     const n = cy.getElementById(id);
     if (n && n.length) n.toggleClass('is-hovered', on);
   }
@@ -179,24 +204,19 @@ export async function init(mountEl) {
   const api = {
     cy,
     data,
+    isDesktop,
     setFilterPredicate(fn) { pred.filter = fn || (() => true); recompute(); },
     setSearchPredicate(fn) { pred.search = fn || (() => true); recompute(); },
-    reset() {
-      pred.filter = () => true;
-      pred.search = () => true;
-      recompute();
-    },
+    reset() { pred.filter = () => true; pred.search = () => true; recompute(); },
     onChange(cb) { listeners.add(cb); cb(lastVisible); return () => listeners.delete(cb); },
     highlightNode,
     visibleIds: () => lastVisible,
-    // Back-compat shims for Phase-3 callers.
-    applyFilter(fn) { this.setFilterPredicate(fn); },
+    applyFilter(fn) { this.setFilterPredicate(fn); }, // back-compat
   };
   window.dafNetwork = api;
+  recompute();
   return api;
 }
 
 const mount = document.getElementById('network-mount');
-if (mount) {
-  init(mount);
-}
+if (mount) init(mount);
