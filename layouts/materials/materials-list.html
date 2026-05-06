@@ -1,0 +1,92 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+{{- $kind := .Params.material_kind -}}
+{{- $pages := slice -}}
+{{- range .Site.RegularPages.ByTitle -}}
+  {{- if (index .Params $kind) -}}
+    {{- $pages = $pages | append . -}}
+  {{- end -}}
+{{- end -}}
+<section class="container materials-hub">
+  <header>
+    <h1 class="title"><a class="title-link" href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h1>
+    {{- with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end -}}
+  </header>
+
+  {{ .Content }}
+
+  <div class="materials-controls">
+    <input type="search" id="materials-search" class="materials-search" placeholder="Suchen (Titel, Tag, Stufe)…" data-pagefind-search>
+    <div class="materials-tags" id="materials-tags">
+      {{- $allTags := slice -}}
+      {{- range $pages -}}
+        {{- range .Params.tags -}}
+          {{- $allTags = $allTags | append . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $uniq := uniq $allTags -}}
+      {{- range (sort $uniq) -}}
+        <button class="tag-chip" data-tag="{{ . }}" type="button">{{ . }}</button>
+      {{- end -}}
+    </div>
+  </div>
+
+  <ul class="materials-grid" id="materials-grid">
+    {{- range $pages -}}
+      {{- $material := index .Params $kind -}}
+      {{- if $material -}}
+        {{- $tags := delimit (.Params.tags | default slice) " " -}}
+        <li class="material-tile" data-tags="{{ $tags }}" data-title="{{ .Title }}">
+          <a class="material-tile-link" href="{{ .RelPermalink }}">
+            {{- with index $material "thumbnail" }}<img src="{{ . | relURL }}" alt="" loading="lazy">{{ end -}}
+            <div class="material-tile-body">
+              <div class="material-tile-title">{{ .Title }}</div>
+              {{- with .Params.description }}<div class="material-tile-meta">{{ . }}</div>{{ end -}}
+              {{- with .Params.tags -}}
+                <div class="material-tile-tags">
+                  {{- range . -}}<span class="tile-tag">{{ . }}</span>{{- end -}}
+                </div>
+              {{- end -}}
+            </div>
+          </a>
+          <a class="download-btn" href="{{ index $material "file" | relURL }}" download>Herunterladen</a>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+</section>
+
+<script>
+(function(){
+  const grid = document.getElementById('materials-grid');
+  const search = document.getElementById('materials-search');
+  const chips = document.querySelectorAll('#materials-tags .tag-chip');
+  if (!grid) return;
+  const tiles = Array.from(grid.querySelectorAll('.material-tile'));
+  const active = new Set();
+
+  function apply(){
+    const q = (search.value || '').trim().toLowerCase();
+    let visible = 0;
+    for (const t of tiles){
+      const tags = (t.dataset.tags || '').split(/\s+/).filter(Boolean);
+      const title = (t.dataset.title || '').toLowerCase();
+      const tagOk = active.size === 0 || tags.some(x => active.has(x));
+      const qOk = !q || title.includes(q) || tags.some(x => x.toLowerCase().includes(q));
+      const show = tagOk && qOk;
+      t.style.display = show ? '' : 'none';
+      if (show) visible++;
+    }
+  }
+  search.addEventListener('input', apply);
+  for (const c of chips){
+    c.addEventListener('click', () => {
+      const v = c.dataset.tag;
+      if (active.has(v)){ active.delete(v); c.classList.remove('active'); }
+      else { active.add(v); c.classList.add('active'); }
+      apply();
+    });
+  }
+})();
+</script>
+{{ end }}

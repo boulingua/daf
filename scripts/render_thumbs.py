@@ -30,6 +30,7 @@ except ImportError:
 REPO = Path(__file__).resolve().parent.parent
 PRES = REPO / "static" / "materials" / "presentations"
 WORK = REPO / "static" / "materials" / "worksheets"
+EXAMS = REPO / "static" / "downloads"
 
 # Render PDF page 1 at this width (px). 96 dpi × 8.27 in ≈ 794; we go
 # wider for retina rendering of the card thumbnail.
@@ -104,6 +105,16 @@ def main() -> int:
         try:
             render_pdf(pdf, png)
             print(f"  pdf  -> {png.relative_to(REPO)}")
+            n_pdf += 1
+        except Exception as e:
+            print(f"  FAIL {pdf.relative_to(REPO)}: {e}", file=sys.stderr)
+            return 1
+
+    for pdf in sorted(EXAMS.rglob("*.pdf")):
+        png = pdf.with_suffix(".png")
+        try:
+            render_pdf(pdf, png)
+            print(f"  exam -> {png.relative_to(REPO)}")
             n_pdf += 1
         except Exception as e:
             print(f"  FAIL {pdf.relative_to(REPO)}: {e}", file=sys.stderr)

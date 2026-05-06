@@ -246,6 +246,7 @@ def main() -> int:
     n_articles = sum(1 for n in nodes if n["type"] == "article")
     n_pres = sum(1 for n in nodes if n["type"] == "presentation")
     n_work = sum(1 for n in nodes if n["type"] == "worksheet")
+    n_exam = sum(1 for n in nodes if n["type"] == "exam")
     e_struct = sum(1 for e in edges if e["kind"] == "same-article")
     e_tags = sum(1 for e in edges if e["kind"] == "shared-tags")
     max_possible = n_articles * (n_articles - 1) // 2
@@ -253,7 +254,7 @@ def main() -> int:
     singletons = [t for t, c in tag_counts.items() if c == 1]
 
     print(f"graph.json built: {OUT.relative_to(REPO)}")
-    print(f"  nodes: {len(nodes)}  ({n_articles} articles, {n_pres} pres, {n_work} ws)")
+    print(f"  nodes: {len(nodes)}  ({n_articles} articles, {n_pres} pres, {n_work} ws, {n_exam} exam)")
     print(f"  edges: {len(edges)}  ({e_struct} same-article, {e_tags} shared-tags)")
     print(f"  graph density (article subgraph): {density:.3f}")
     print(f"  topics: {len(topics)} declared, {len(topic_counts)} populated")
