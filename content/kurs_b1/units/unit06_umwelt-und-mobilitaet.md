@@ -2,7 +2,6 @@
 title: Einheit 6 — Umwelt und Mobilität
 cefr_level: B1
 unit_nr: 6
-slug: umwelt-und-mobilitaet
 cefr_can_do:
 - Ich kann einer Diskussionsrunde zu Mobilität in ihren Hauptaussagen folgen.
 - Ich kann zu einer Mobilitäts-Frage eine eigene Position begründen.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: umwelt-und-mobilitaet
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 ---
 

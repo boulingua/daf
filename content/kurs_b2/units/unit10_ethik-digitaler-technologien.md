@@ -2,7 +2,6 @@
 title: Einheit 10 — Ethik digitaler Technologien
 cefr_level: B2
 unit_nr: 10
-slug: ethik-digitaler-technologien
 cefr_can_do:
 - Ich formuliere ein ethisches Dilemma aus dem digitalen Bereich.
 - Ich moderiere einen Forumsbeitrag.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - schreiben
+unit_slug: ethik-digitaler-technologien
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
 ---
 

@@ -2,7 +2,6 @@
 title: 'Einheit 7 — Gesundheitspolitik: Pflegenotstand und Solidarität'
 cefr_level: B2
 unit_nr: 7
-slug: gesundheitspolitik
 cefr_can_do:
 - Ich folge einer politischen Sendung zum Pflegethema.
 - Ich formuliere eine Gegenthese und begründe sie.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: gesundheitspolitik
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 ---
 

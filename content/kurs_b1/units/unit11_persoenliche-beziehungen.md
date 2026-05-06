@@ -2,7 +2,6 @@
 title: Einheit 11 — Persönliche Beziehungen und Konflikte
 cefr_level: B1
 unit_nr: 11
-slug: persoenliche-beziehungen
 cefr_can_do:
 - Ich kann Texte über persönliche Konflikte in ihren Hauptaussagen verstehen.
 - Ich kann eine ausgleichende schriftliche Mitteilung formulieren.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - lesen
+unit_slug: persoenliche-beziehungen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 ---
 

@@ -2,7 +2,6 @@
 title: Einheit 8 — Wetter und Jahreszeiten
 cefr_level: A1
 unit_nr: 8
-slug: wetter-und-jahreszeiten
 cefr_can_do:
 - Ich verstehe einfache Wettermeldungen im Radio.
 - Ich kann Wetter in einfachen Sätzen beschreiben.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: wetter-und-jahreszeiten
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
 ---
 

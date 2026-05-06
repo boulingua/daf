@@ -2,7 +2,6 @@
 title: 'Einheit 4 — Arbeitswelt im Wandel: KI und Beruf'
 cefr_level: B2
 unit_nr: 4
-slug: arbeitswelt-im-wandel
 cefr_can_do:
 - Ich erkenne Standpunkte in Meinungsäußerungen.
 - Ich vertrete eine eigene Haltung argumentativ.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: arbeitswelt-im-wandel
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 ---
 

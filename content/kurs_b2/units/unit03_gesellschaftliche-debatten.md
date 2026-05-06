@@ -2,7 +2,6 @@
 title: 'Einheit 3 — Gesellschaftliche Debatten: Generationengerechtigkeit'
 cefr_level: B2
 unit_nr: 3
-slug: gesellschaftliche-debatten
 cefr_can_do:
 - Ich kann einen Forumsbeitrag mit klarer Position schreiben.
 - Ich argumentiere mit Beispielen und Gegenstimmen.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - schreiben
+unit_slug: gesellschaftliche-debatten
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
 ---
 

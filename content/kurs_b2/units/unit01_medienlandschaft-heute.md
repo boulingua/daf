@@ -2,7 +2,6 @@
 title: Einheit 1 — Medienlandschaft heute
 cefr_level: B2
 unit_nr: 1
-slug: medienlandschaft-heute
 cefr_can_do:
 - Ich kann komplexere Kommentare und Meinungsartikel in ihren Hauptaussagen analysieren.
 - Ich unterscheide Fakten und Meinungen in Zeitungsartikeln.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - lesen
+unit_slug: medienlandschaft-heute
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 ---
 

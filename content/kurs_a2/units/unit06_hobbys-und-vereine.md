@@ -2,7 +2,6 @@
 title: Einheit 6 — Hobbys und Vereine
 cefr_level: A2
 unit_nr: 6
-slug: hobbys-und-vereine
 cefr_can_do:
 - Ich beschreibe meine Hobbys mit mehr Detail.
 - Ich verstehe einen Radiobeitrag über einen Verein.
@@ -12,6 +11,7 @@ skills_focus:
 - hoeren
 pruefungs_module:
 - sprechen
+unit_slug: hobbys-und-vereine
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 ---
 

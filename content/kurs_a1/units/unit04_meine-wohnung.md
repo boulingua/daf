@@ -2,7 +2,6 @@
 title: Einheit 4 — Meine Wohnung
 cefr_level: A1
 unit_nr: 4
-slug: meine-wohnung
 cefr_can_do:
 - Ich kann Räume und Möbel benennen.
 - Ich kann einfache Wohnungsanzeigen verstehen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - schreiben
+unit_slug: meine-wohnung
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 ---
 

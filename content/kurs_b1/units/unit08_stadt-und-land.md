@@ -2,7 +2,6 @@
 title: Einheit 8 — Stadt und Land
 cefr_level: B1
 unit_nr: 8
-slug: stadt-und-land
 cefr_can_do:
 - Ich kann in Leserbriefen Standpunkte erkennen und zuordnen.
 - Ich kann die Hauptargumente einer Meinung in einem Satz zusammenfassen.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - lesen
+unit_slug: stadt-und-land
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 ---
 

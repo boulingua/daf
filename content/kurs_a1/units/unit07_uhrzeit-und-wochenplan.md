@@ -2,7 +2,6 @@
 title: Einheit 7 — Uhrzeit und Wochenplan
 cefr_level: A1
 unit_nr: 7
-slug: uhrzeit-und-wochenplan
 cefr_can_do:
 - Ich kann Uhrzeiten nennen und verstehen.
 - Ich kann einen einfachen Wochenplan lesen und schreiben.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - schreiben
+unit_slug: uhrzeit-und-wochenplan
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 ---
 

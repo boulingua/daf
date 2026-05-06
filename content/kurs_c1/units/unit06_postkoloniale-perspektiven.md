@@ -2,7 +2,6 @@
 title: Einheit 6 — Postkoloniale Perspektiven im deutschsprachigen Raum
 cefr_level: C1
 unit_nr: 6
-slug: postkoloniale-perspektiven
 cefr_can_do:
 - Ich kontextualisiere postkoloniale Texte historisch.
 - Ich vertrete eine differenzierte Position zu kolonialer Erinnerung.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - lesen
+unit_slug: postkoloniale-perspektiven
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 ---
 

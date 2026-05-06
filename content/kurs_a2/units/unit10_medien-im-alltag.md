@@ -2,7 +2,6 @@
 title: Einheit 10 — Medien im Alltag
 cefr_level: A2
 unit_nr: 10
-slug: medien-im-alltag
 cefr_can_do:
 - Ich verstehe kurze Radionachrichten.
 - Ich lese einfache Zeitungsmeldungen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - hören
+unit_slug: medien-im-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 ---
 

@@ -2,7 +2,6 @@
 title: Einheit 5 — Reiseplanung mit Budget
 cefr_level: A2
 unit_nr: 5
-slug: reiseplanung
 cefr_can_do:
 - Ich kann Reise-Kleinanzeigen und Hoteltexte verstehen.
 - Ich ordne Reiseangebote einer Situation zu.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - lesen
+unit_slug: reiseplanung
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
 ---
 

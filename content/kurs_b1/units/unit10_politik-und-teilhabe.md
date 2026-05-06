@@ -2,7 +2,6 @@
 title: Einheit 10 — Politik und Teilhabe
 cefr_level: B1
 unit_nr: 10
-slug: politik-und-teilhabe
 cefr_can_do:
 - Ich kann einer Wahldiskussion in ihren Hauptaussagen folgen.
 - Ich kann eine einfache politische Position begründen.
@@ -12,6 +11,7 @@ skills_focus:
 - hoeren
 pruefungs_module:
 - sprechen
+unit_slug: politik-und-teilhabe
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 ---
 

@@ -2,7 +2,6 @@
 title: Einheit 9 — Körper und Gesundheit
 cefr_level: A1
 unit_nr: 9
-slug: koerper-und-gesundheit
 cefr_can_do:
 - Ich kann Körperteile benennen.
 - Ich kann beim Arzt einfache Beschwerden nennen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - sprechen
+unit_slug: koerper-und-gesundheit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 ---
 

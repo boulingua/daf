@@ -2,7 +2,6 @@
 title: Einheit 3 — Woher kommst du?
 cefr_level: A1
 unit_nr: 3
-slug: woher-kommst-du
 cefr_can_do:
 - Ich kann kurze Gespräche zu Herkunft und Wohnort verstehen.
 - Ich kann einfache Fragen zur Herkunft stellen.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: woher-kommst-du
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
 ---
 

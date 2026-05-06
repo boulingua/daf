@@ -2,7 +2,6 @@
 title: 'Einheit 12 — Gegenwartsliteratur: Stimmen der letzten zehn Jahre'
 cefr_level: C1
 unit_nr: 12
-slug: gegenwartsliteratur
 cefr_can_do:
 - Ich folge einem Literatur-Podcast in seinen Hauptaussagen.
 - Ich schreibe eine analytische Kurzrezension.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - hören
+unit_slug: gegenwartsliteratur
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 ---
 

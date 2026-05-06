@@ -2,7 +2,6 @@
 title: 'Einheit 7 — Historiografie: Wem gehört das Narrativ?'
 cefr_level: C1
 unit_nr: 7
-slug: historiografie
 cefr_can_do:
 - Ich folge einer historiografischen Debatte.
 - Ich problematisiere Geschichtserzählungen argumentativ.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: historiografie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 ---
 

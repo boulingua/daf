@@ -2,7 +2,6 @@
 title: Einheit 7 — Feste und Traditionen im DACH-Raum
 cefr_level: A2
 unit_nr: 7
-slug: feste-und-traditionen
 cefr_can_do:
 - Ich verstehe Einladungen und Programme zu Festen.
 - Ich erzähle über ein Fest in meiner Heimat.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - lesen
+unit_slug: feste-und-traditionen
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
 ---
 

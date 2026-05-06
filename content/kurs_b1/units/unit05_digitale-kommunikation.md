@@ -2,7 +2,6 @@
 title: 'Einheit 5 — Digitale Kommunikation: Chat, E-Mail, Forum'
 cefr_level: B1
 unit_nr: 5
-slug: digitale-kommunikation
 cefr_can_do:
 - Ich kann Forumsbeiträge einschätzen und höflich darauf reagieren.
 - Ich kann halb-formelle E-Mails je nach Register anpassen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - schreiben
+unit_slug: digitale-kommunikation
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 ---
 

@@ -2,7 +2,6 @@
 title: Einheit 2 — Meine Familie
 cefr_level: A1
 unit_nr: 2
-slug: meine-familie
 cefr_can_do:
 - Ich kann einfache Sätze über meine Familie sagen.
 - Ich kann eine kurze persönliche Notiz über eine Familie verstehen.
@@ -11,6 +10,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - lesen
+unit_slug: meine-familie
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 ---
 

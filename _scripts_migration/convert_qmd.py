@@ -62,6 +62,11 @@ def emit_frontmatter(fm: dict) -> str:
     fm.pop("format", None)
     fm.pop("editor", None)
     fm.pop("lang", None)  # Hugo derives language from site config
+    # Hugo treats top-level `slug` as a URL override. Move it to a
+    # custom key so the .qmd filename keeps driving the URL — that
+    # preserves parity with the old Quarto URLs.
+    if "slug" in fm:
+        fm["unit_slug"] = fm.pop("slug")
     # Merge subtitle into title at write-time (preserved nowhere lost).
     subtitle = fm.pop("subtitle", None)
     if subtitle and fm.get("title"):

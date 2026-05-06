@@ -2,7 +2,6 @@
 title: Einheit 1 — Begrüßung und Name
 cefr_level: A1
 unit_nr: 1
-slug: begruessung-und-name
 cefr_can_do:
 - 'Ich kann mich vorstellen: Name, Herkunft, Alter.'
 - Ich kann einfache Fragen zur Person stellen und beantworten.
@@ -11,6 +10,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: begruessung-und-name
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 ---
 

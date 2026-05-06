@@ -2,7 +2,6 @@
 title: Einheit 3 — Beim Arzt und in der Apotheke
 cefr_level: A2
 unit_nr: 3
-slug: beim-arzt
 cefr_can_do:
 - Ich verstehe Anweisungen in Arztpraxis und Apotheke.
 - Ich kann Beschwerden genauer beschreiben.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: beim-arzt
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 ---
 

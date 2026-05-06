@@ -2,7 +2,6 @@
 title: Einheit 2 — Wissenschaft kommunizieren
 cefr_level: B2
 unit_nr: 2
-slug: wissenschaft-kommunizieren
 cefr_can_do:
 - Ich folge einem Fachinterview in seinen Kernaussagen.
 - Ich formuliere einen komplexen wissenschaftsjournalistischen Text.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - hören
+unit_slug: wissenschaft-kommunizieren
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 ---
 

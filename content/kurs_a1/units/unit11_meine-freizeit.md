@@ -2,7 +2,6 @@
 title: Einheit 11 — Meine Freizeit und Hobbys
 cefr_level: A1
 unit_nr: 11
-slug: meine-freizeit
 cefr_can_do:
 - Ich kann über meine Hobbys sprechen.
 - Ich verstehe einfache Radiobeiträge über Freizeit.
@@ -12,6 +11,7 @@ skills_focus:
 - hoeren
 pruefungs_module:
 - sprechen
+unit_slug: meine-freizeit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 ---
 

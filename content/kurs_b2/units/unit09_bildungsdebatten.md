@@ -2,7 +2,6 @@
 title: 'Einheit 9 — Bildungsdebatten: Leistungsdruck und Chancengleichheit'
 cefr_level: B2
 unit_nr: 9
-slug: bildungsdebatten
 cefr_can_do:
 - Ich verstehe eine Bildungsstudie in Grundzügen.
 - Ich schreibe einen Kommentar zu einem Bildungsthema.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - lesen
+unit_slug: bildungsdebatten
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 ---
 

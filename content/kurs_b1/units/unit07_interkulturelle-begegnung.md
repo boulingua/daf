@@ -2,7 +2,6 @@
 title: 'Einheit 7 — Interkulturelle Begegnung: Missverständnisse und Lösungen'
 cefr_level: B1
 unit_nr: 7
-slug: interkulturelle-begegnung
 cefr_can_do:
 - Ich kann ein kulturelles Missverständnis benennen und ausräumen.
 - Ich kann Register situationsadäquat wählen (förmlich / vertraut).
@@ -13,6 +12,7 @@ skills_focus:
 - sprachreflexion
 pruefungs_module:
 - sprechen
+unit_slug: interkulturelle-begegnung
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 ---
 

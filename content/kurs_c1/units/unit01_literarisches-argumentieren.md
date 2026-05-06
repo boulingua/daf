@@ -2,7 +2,6 @@
 title: 'Einheit 1 — Literarisches Argumentieren: Was kann ein Text beweisen?'
 cefr_level: C1
 unit_nr: 1
-slug: literarisches-argumentieren
 cefr_can_do:
 - Ich erfasse implizite Bedeutungen in literarischen Texten.
 - Ich vertrete einen interpretatorischen Standpunkt schriftlich.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - lesen
+unit_slug: literarisches-argumentieren
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 ---
 

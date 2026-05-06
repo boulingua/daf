@@ -2,7 +2,6 @@
 title: Einheit 8 — Gestern — Ereignisse erzählen
 cefr_level: A2
 unit_nr: 8
-slug: gestern-und-vergangenheit
 cefr_can_do:
 - Ich kann im Perfekt über Vergangenes sprechen.
 - Ich schreibe eine kurze Alltagsgeschichte.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - schreiben
+unit_slug: gestern-und-vergangenheit
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 ---
 

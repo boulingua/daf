@@ -2,7 +2,6 @@
 title: Einheit 2 — Wohnung mieten
 cefr_level: A2
 unit_nr: 2
-slug: wohnung-mieten
 cefr_can_do:
 - Ich kann eine Wohnungsanzeige verstehen.
 - Ich kann einen Besichtigungstermin aushandeln.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: wohnung-mieten
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 ---
 

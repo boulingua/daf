@@ -2,7 +2,6 @@
 title: 'Einheit 11 — Umwelt im Alltag: Müll trennen, sparen'
 cefr_level: A2
 unit_nr: 11
-slug: umwelt-und-alltag
 cefr_can_do:
 - Ich verstehe Umwelttipps im Radio.
 - Ich kenne die deutsche Mülltrennung.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: umwelt-und-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 ---
 

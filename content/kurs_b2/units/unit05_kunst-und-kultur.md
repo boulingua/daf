@@ -2,7 +2,6 @@
 title: 'Einheit 5 — Kunst und Kultur: Ausstellung besprechen'
 cefr_level: B2
 unit_nr: 5
-slug: kunst-und-kultur
 cefr_can_do:
 - Ich verstehe eine Ausstellungs-Rezension im Radio.
 - Ich schreibe eine Kurzrezension mit Begründung.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - hören
+unit_slug: kunst-und-kultur
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 ---
 

@@ -3,7 +3,6 @@ title: 'Einheit 11 — Literarische Moderne: Kafka, Mann, Musil — und warum si
   lesen?'
 cefr_level: C1
 unit_nr: 11
-slug: literarische-moderne
 cefr_can_do:
 - Ich verorte literarische Moderne historisch.
 - Ich präsentiere einen Lektüreeindruck öffentlich.
@@ -13,6 +12,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: literarische-moderne
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 ---
 

@@ -2,7 +2,6 @@
 title: 'Einheit 12 — Zukunftsvisionen: Was wird 2040 anders sein?'
 cefr_level: B1
 unit_nr: 12
-slug: zukunftsvisionen
 cefr_can_do:
 - Ich kann einer Podcast-Folge über Zukunftsszenarien in den Hauptaussagen folgen.
 - Ich kann eine Präsentation zu einem Zukunftsthema halten.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: zukunftsvisionen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 ---
 

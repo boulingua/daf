@@ -2,7 +2,6 @@
 title: Einheit 4 — Ästhetik und Urteil
 cefr_level: C1
 unit_nr: 4
-slug: aesthetik-und-urteil
 cefr_can_do:
 - Ich formuliere ein ästhetisches Urteil differenziert.
 - Ich halte einen Vortrag mit Stilanalyse.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: aesthetik-und-urteil
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 ---
 

@@ -2,7 +2,6 @@
 title: 'Einheit 9 — Fachsprachen: Wirtschaft, Medizin, Recht im Vergleich'
 cefr_level: C1
 unit_nr: 9
-slug: fachsprachen-wirtschaft-medizin-recht
 cefr_can_do:
 - Ich unterscheide Fachtextregister.
 - Ich vermittle Fachaussagen für Nicht-Fachpublikum.
@@ -12,6 +11,7 @@ skills_focus:
 - sprachmittlung
 pruefungs_module:
 - lesen
+unit_slug: fachsprachen-wirtschaft-medizin-recht
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 ---
 

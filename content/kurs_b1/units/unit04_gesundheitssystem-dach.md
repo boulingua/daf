@@ -2,7 +2,6 @@
 title: Einheit 4 — Gesundheitssystem im DACH-Raum
 cefr_level: B1
 unit_nr: 4
-slug: gesundheitssystem-dach
 cefr_can_do:
 - Ich kann Informationen in einem Interview zu Gesundheitsthemen im Detail verstehen.
 - Ich kann Fachbegriffe aus dem Gesundheitsbereich in Alltagssprache umformulieren.
@@ -13,6 +12,7 @@ skills_focus:
 - sprachmittlung
 pruefungs_module:
 - hören
+unit_slug: gesundheitssystem-dach
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 ---
 

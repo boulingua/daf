@@ -2,7 +2,6 @@
 title: Einheit 2 — Politische Diskursanalyse
 cefr_level: C1
 unit_nr: 2
-slug: politische-diskursanalyse
 cefr_can_do:
 - Ich identifiziere rhetorische Strategien in politischen Texten.
 - Ich verfasse einen analytischen Forumsbeitrag (ca. 230 Wörter).
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - schreiben
+unit_slug: politische-diskursanalyse
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 ---
 

@@ -2,7 +2,6 @@
 title: Einheit 2 — Der Bewerbungsweg
 cefr_level: B1
 unit_nr: 2
-slug: der-bewerbungsweg
 cefr_can_do:
 - Ich kann ein einfaches Motivationsschreiben auf Deutsch verfassen.
 - Ich kann auf eine Stellenanzeige mit einer höflichen E-Mail reagieren.
@@ -13,6 +12,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - schreiben
+unit_slug: der-bewerbungsweg
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 ---
 

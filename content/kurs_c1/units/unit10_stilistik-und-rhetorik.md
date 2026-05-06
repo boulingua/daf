@@ -2,7 +2,6 @@
 title: Einheit 10 — Stilistik und Rhetorik
 cefr_level: C1
 unit_nr: 10
-slug: stilistik-und-rhetorik
 cefr_can_do:
 - Ich setze stilistische Mittel bewusst ein.
 - Ich halte eine stilistisch markierte Rede.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - sprechen
+unit_slug: stilistik-und-rhetorik
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 ---
 

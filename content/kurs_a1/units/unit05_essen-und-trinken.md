@@ -2,7 +2,6 @@
 title: Einheit 5 — Essen und trinken
 cefr_level: A1
 unit_nr: 5
-slug: essen-und-trinken
 cefr_can_do:
 - Ich kann Lebensmittel und Getränke benennen.
 - Ich kann eine einfache Speisekarte lesen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - lesen
+unit_slug: essen-und-trinken
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 ---
 

@@ -2,7 +2,6 @@
 title: 'Einheit 12 — Literarische Perspektiven: Erzählstimmen der Gegenwart'
 cefr_level: B2
 unit_nr: 12
-slug: literarische-perspektiven
 cefr_can_do:
 - Ich analysiere eine literarische Perspektive.
 - Ich präsentiere einen eigenen Leseeindruck strukturiert.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: literarische-perspektiven
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 ---
 

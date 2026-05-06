@@ -2,7 +2,6 @@
 title: Einheit 6 — Migrationsdiskurs und Zugehörigkeit
 cefr_level: B2
 unit_nr: 6
-slug: migrationsdiskurs
 cefr_can_do:
 - Ich lese essayistische Texte kritisch.
 - Ich erkenne rhetorische Strategien in Migrationsbeiträgen.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - lesen
+unit_slug: migrationsdiskurs
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 ---
 

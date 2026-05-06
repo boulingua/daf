@@ -2,7 +2,6 @@
 title: Einheit 9 — Pläne und Zukunft
 cefr_level: A2
 unit_nr: 9
-slug: plaene-und-zukunft
 cefr_can_do:
 - Ich drücke Pläne mit *wollen, möchten, werden* aus.
 - Ich formuliere eine Einladung oder Zusage.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - sprechen
+unit_slug: plaene-und-zukunft
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 ---
 

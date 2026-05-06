@@ -2,7 +2,6 @@
 title: 'Einheit 8 — Umweltpolitik: CO₂-Preis und Verteilungsfragen'
 cefr_level: B2
 unit_nr: 8
-slug: umweltpolitik
 cefr_can_do:
 - Ich trenne Fakten und Meinungen in einem Umwelt-Artikel.
 - Ich verfasse eine ausgewogene Stellungnahme.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - schreiben
+unit_slug: umweltpolitik
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
 ---
 

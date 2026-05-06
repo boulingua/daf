@@ -2,7 +2,6 @@
 title: Einheit 1 — Arbeitssuche und Stellenanzeige
 cefr_level: A2
 unit_nr: 1
-slug: arbeitssuche-und-stellenanzeige
 cefr_can_do:
 - Ich kann eine einfache Stellenanzeige in ihren Hauptpunkten verstehen.
 - Ich kann eine kurze Bewerbungs-E-Mail schreiben.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - lesen
+unit_slug: arbeitssuche-und-stellenanzeige
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
 ---
 

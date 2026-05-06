@@ -2,7 +2,6 @@
 title: Einheit 1 — Neuanfang in Basel
 cefr_level: B1
 unit_nr: 1
-slug: neuanfang-in-basel
 cefr_can_do:
 - Ich kann einen Erfahrungsbericht über Arbeiten im Ausland in seinen Hauptaussagen
   verstehen.
@@ -14,6 +13,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - sprechen
+unit_slug: neuanfang-in-basel
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 ---
 

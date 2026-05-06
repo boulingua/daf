@@ -2,7 +2,6 @@
 title: Einheit 8 — Philosophie für informierte Laien
 cefr_level: C1
 unit_nr: 8
-slug: philosophie-fuer-informierte-laien
 cefr_can_do:
 - Ich lese einen philosophischen Essay-Ausschnitt.
 - Ich verfasse eine präzise Kurzreplik (120 Wörter).
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - schreiben
+unit_slug: philosophie-fuer-informierte-laien
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 ---
 

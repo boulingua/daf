@@ -2,7 +2,6 @@
 title: Einheit 10 — Mein Beruf
 cefr_level: A1
 unit_nr: 10
-slug: mein-beruf
 cefr_can_do:
 - Ich kann den eigenen Beruf einfach beschreiben.
 - Ich erkenne zehn Berufsnamen im Alltag.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - schreiben
+unit_slug: mein-beruf
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 ---
 

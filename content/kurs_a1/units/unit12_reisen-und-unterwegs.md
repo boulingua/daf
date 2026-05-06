@@ -2,7 +2,6 @@
 title: Einheit 12 — Reisen und unterwegs
 cefr_level: A1
 unit_nr: 12
-slug: reisen-und-unterwegs
 cefr_can_do:
 - Ich kann einen Fahrplan in Grundzügen lesen.
 - Ich verstehe einfache Schilder und Hinweise.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - lesen
+unit_slug: reisen-und-unterwegs
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 ---
 

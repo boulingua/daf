@@ -2,7 +2,6 @@
 title: Einheit 6 — Einkaufen und Preise
 cefr_level: A1
 unit_nr: 6
-slug: einkaufen-und-preise
 cefr_can_do:
 - Ich verstehe Preise und Mengenangaben im Geschäft.
 - Ich kann nach Preisen fragen.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: einkaufen-und-preise
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
 ---
 

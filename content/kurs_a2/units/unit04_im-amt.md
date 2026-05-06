@@ -2,7 +2,6 @@
 title: 'Einheit 4 — Im Amt: Formulare und Termine'
 cefr_level: A2
 unit_nr: 4
-slug: im-amt
 cefr_can_do:
 - Ich fülle ein Anmeldeformular korrekt aus.
 - Ich verstehe Termin-Bestätigungen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - schreiben
+unit_slug: im-amt
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 ---
 

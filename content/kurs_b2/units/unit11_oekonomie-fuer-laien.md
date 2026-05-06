@@ -2,7 +2,6 @@
 title: 'Einheit 11 — Ökonomie für Laien: Inflation und Geldwert'
 cefr_level: B2
 unit_nr: 11
-slug: oekonomie-fuer-laien
 cefr_can_do:
 - Ich folge einem Wirtschaftspodcast in den Hauptaussagen.
 - Ich formuliere Fachbegriffe für Nicht-Fachpublikum um.
@@ -12,6 +11,7 @@ skills_focus:
 - sprachmittlung
 pruefungs_module:
 - hören
+unit_slug: oekonomie-fuer-laien
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 ---
 

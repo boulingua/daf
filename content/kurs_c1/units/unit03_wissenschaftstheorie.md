@@ -2,7 +2,6 @@
 title: 'Einheit 3 — Wissenschaftstheorie: Was ist Erkenntnis?'
 cefr_level: C1
 unit_nr: 3
-slug: wissenschaftstheorie
 cefr_can_do:
 - Ich folge einem Vortrag zur Wissenschaftstheorie.
 - Ich reformuliere erkenntnistheoretische Fragen für ein Laien-Publikum.
@@ -12,6 +11,7 @@ skills_focus:
 - sprechen
 pruefungs_module:
 - hören
+unit_slug: wissenschaftstheorie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 ---
 

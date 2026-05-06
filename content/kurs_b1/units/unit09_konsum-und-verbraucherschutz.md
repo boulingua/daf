@@ -2,7 +2,6 @@
 title: Einheit 9 — Konsum und Verbraucherschutz
 cefr_level: B1
 unit_nr: 9
-slug: konsum-und-verbraucherschutz
 cefr_can_do:
 - Ich kann Allgemeine Geschäftsbedingungen in Grundzügen verstehen.
 - Ich kann eine sachliche Reklamationsmail verfassen.
@@ -12,6 +11,7 @@ skills_focus:
 - lesen
 pruefungs_module:
 - schreiben
+unit_slug: konsum-und-verbraucherschutz
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 ---
 

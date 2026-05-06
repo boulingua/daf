@@ -2,7 +2,6 @@
 title: Einheit 12 — Freundschaft und Familiengeschichte
 cefr_level: A2
 unit_nr: 12
-slug: freundschaft-und-familiengeschichte
 cefr_can_do:
 - Ich erzähle eine kurze persönliche Mini-Biografie.
 - Ich schreibe eine halb-formelle Dankesmitteilung.
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - schreiben
+unit_slug: freundschaft-und-familiengeschichte
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 ---
 

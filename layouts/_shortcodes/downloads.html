@@ -14,7 +14,7 @@
 {{- $page := .Page -}}
 {{- $level := lower (or $page.Params.cefr_level "") -}}
 {{- $nr := $page.Params.unit_nr -}}
-{{- $slug := $page.Params.slug -}}
+{{- $slug := or $page.Params.unit_slug $page.Params.slug -}}
 {{- if and $level $nr $slug -}}
 {{- $nrPad := printf "%02d" (int $nr) -}}
 {{- $base := printf "/downloads/%s/unit%s_%s" $level $nrPad $slug -}}

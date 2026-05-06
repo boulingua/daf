@@ -2,7 +2,6 @@
 title: Einheit 3 — Weiterbildung und Studium
 cefr_level: B1
 unit_nr: 3
-slug: weiterbildung-und-studium
 cefr_can_do:
 - Ich kann eine längere Studien- oder Kursordnung in ihren Hauptaussagen verstehen.
 - Ich kann konkrete Informationen zu Kosten, Dauer und Zulassung in einem Infotext
@@ -13,6 +12,7 @@ skills_focus:
 - hoeren
 pruefungs_module:
 - lesen
+unit_slug: weiterbildung-und-studium
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 ---
 

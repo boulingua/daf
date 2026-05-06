@@ -2,7 +2,6 @@
 title: 'Einheit 5 — Identität und Sprache: Mehrsprachigkeit als Ressource'
 cefr_level: C1
 unit_nr: 5
-slug: identitaet-und-sprache
 cefr_can_do:
 - Ich lese Identitätsdiskurse kritisch.
 - Ich verfasse einen essayistischen Forumsbeitrag (230 Wörter).
@@ -12,6 +11,7 @@ skills_focus:
 - schreiben
 pruefungs_module:
 - schreiben
+unit_slug: identitaet-und-sprache
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 ---
 
