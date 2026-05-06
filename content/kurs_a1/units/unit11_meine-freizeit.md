@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit11_meine-freizeit.html
 - /kurs_a1/units/unit11_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-sprechen
+- skill-sprechen
+- skill-hoeren
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

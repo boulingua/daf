@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit11_umwelt-und-alltag.html
 - /kurs_a2/units/unit11_slides.html
+topic: umwelt
+tags:
+- level-a2
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-umwelt
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

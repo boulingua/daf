@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit06_einkaufen-und-preise.html
 - /kurs_a1/units/unit06_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

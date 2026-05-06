@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit10_ethik-digitaler-technologien.html
 - /kurs_b2/units/unit10_slides.html
+topic: wissenschaft
+tags:
+- level-b2
+- modul-schreiben
+- skill-schreiben
+- skill-sprechen
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

@@ -23,6 +23,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit03_weiterbildung-und-studium.html
 - /kurs_b1/units/unit03_slides.html
+topic: arbeit
+tags:
+- level-b1
+- modul-lesen
+- skill-lesen
+- skill-hoeren
+- topic-arbeit
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit10_mein-beruf.html
 - /kurs_a1/units/unit10_slides.html
+topic: arbeit
+tags:
+- level-a1
+- modul-schreiben
+- skill-schreiben
+- skill-sprechen
+- topic-arbeit
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

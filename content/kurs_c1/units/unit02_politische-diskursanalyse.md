@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit02_politische-diskursanalyse.html
 - /kurs_c1/units/unit02_slides.html
+topic: gesellschaft
+tags:
+- level-c1
+- modul-schreiben
+- skill-schreiben
+- skill-lesen
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

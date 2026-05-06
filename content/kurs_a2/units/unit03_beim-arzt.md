@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit03_beim-arzt.html
 - /kurs_a2/units/unit03_slides.html
+topic: alltag
+tags:
+- level-a2
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

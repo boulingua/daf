@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit08_stadt-und-land.html
 - /kurs_b1/units/unit08_slides.html
+topic: gesellschaft
+tags:
+- level-b1
+- modul-lesen
+- skill-lesen
+- skill-schreiben
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

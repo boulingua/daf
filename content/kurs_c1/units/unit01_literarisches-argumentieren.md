@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit01_literarisches-argumentieren.html
 - /kurs_c1/units/unit01_slides.html
+topic: kultur
+tags:
+- level-c1
+- modul-lesen
+- skill-lesen
+- skill-sprechen
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

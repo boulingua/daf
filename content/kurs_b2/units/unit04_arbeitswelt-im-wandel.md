@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit04_arbeitswelt-im-wandel.html
 - /kurs_b2/units/unit04_slides.html
+topic: arbeit
+tags:
+- level-b2
+- modul-sprechen
+- skill-lesen
+- skill-sprechen
+- topic-arbeit
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

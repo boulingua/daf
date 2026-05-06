@@ -23,6 +23,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit02_der-bewerbungsweg.html
 - /kurs_b1/units/unit02_slides.html
+topic: arbeit
+tags:
+- level-b1
+- modul-schreiben
+- skill-schreiben
+- skill-sprechen
+- topic-arbeit
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

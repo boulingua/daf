@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit06_umwelt-und-mobilitaet.html
 - /kurs_b1/units/unit06_slides.html
+topic: umwelt
+tags:
+- level-b1
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-umwelt
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

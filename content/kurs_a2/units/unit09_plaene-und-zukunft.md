@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit09_plaene-und-zukunft.html
 - /kurs_a2/units/unit09_slides.html
+topic: alltag
+tags:
+- level-a2
+- modul-sprechen
+- skill-sprechen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

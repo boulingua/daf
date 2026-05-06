@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit09_bildungsdebatten.html
 - /kurs_b2/units/unit09_slides.html
+topic: arbeit
+tags:
+- level-b2
+- modul-lesen
+- skill-lesen
+- skill-schreiben
+- topic-arbeit
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

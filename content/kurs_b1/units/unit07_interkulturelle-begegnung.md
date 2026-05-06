@@ -23,6 +23,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit07_interkulturelle-begegnung.html
 - /kurs_b1/units/unit07_slides.html
+topic: kommunikation
+tags:
+- level-b1
+- modul-sprechen
+- skill-sprechen
+- skill-sprachreflexion
+- topic-kommunikation
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

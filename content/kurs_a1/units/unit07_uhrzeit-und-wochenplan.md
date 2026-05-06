@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit07_uhrzeit-und-wochenplan.html
 - /kurs_a1/units/unit07_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-schreiben
+- skill-lesen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

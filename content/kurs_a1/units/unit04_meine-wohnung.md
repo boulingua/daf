@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit04_meine-wohnung.html
 - /kurs_a1/units/unit04_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-schreiben
+- skill-schreiben
+- skill-lesen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

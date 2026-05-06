@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit06_postkoloniale-perspektiven.html
 - /kurs_c1/units/unit06_slides.html
+topic: kultur
+tags:
+- level-c1
+- modul-lesen
+- skill-lesen
+- skill-sprechen
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

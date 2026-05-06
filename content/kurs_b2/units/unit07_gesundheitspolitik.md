@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit07_gesundheitspolitik.html
 - /kurs_b2/units/unit07_slides.html
+topic: gesellschaft
+tags:
+- level-b2
+- modul-sprechen
+- skill-hoeren
+- skill-sprechen
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

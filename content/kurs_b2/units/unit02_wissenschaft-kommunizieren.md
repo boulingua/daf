@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit02_wissenschaft-kommunizieren.html
 - /kurs_b2/units/unit02_slides.html
+topic: wissenschaft
+tags:
+- level-b2
+- modul-hören
+- skill-hoeren
+- skill-schreiben
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

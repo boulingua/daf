@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit10_medien-im-alltag.html
 - /kurs_a2/units/unit10_slides.html
+topic: kommunikation
+tags:
+- level-a2
+- modul-hören
+- skill-hoeren
+- skill-lesen
+- topic-kommunikation
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

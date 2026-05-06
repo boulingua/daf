@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit06_migrationsdiskurs.html
 - /kurs_b2/units/unit06_slides.html
+topic: gesellschaft
+tags:
+- level-b2
+- modul-lesen
+- skill-lesen
+- skill-sprechen
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

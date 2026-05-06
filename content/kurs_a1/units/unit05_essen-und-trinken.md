@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit05_essen-und-trinken.html
 - /kurs_a1/units/unit05_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-lesen
+- skill-sprechen
+- skill-lesen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

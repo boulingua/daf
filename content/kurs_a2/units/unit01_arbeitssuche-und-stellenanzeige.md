@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige.html
 - /kurs_a2/units/unit01_slides.html
+topic: arbeit
+tags:
+- level-a2
+- modul-lesen
+- skill-lesen
+- skill-schreiben
+- topic-arbeit
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

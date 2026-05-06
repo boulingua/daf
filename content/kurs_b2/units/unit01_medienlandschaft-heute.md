@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit01_medienlandschaft-heute.html
 - /kurs_b2/units/unit01_slides.html
+topic: kommunikation
+tags:
+- level-b2
+- modul-lesen
+- skill-lesen
+- skill-sprechen
+- topic-kommunikation
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

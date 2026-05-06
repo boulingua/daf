@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit03_wissenschaftstheorie.html
 - /kurs_c1/units/unit03_slides.html
+topic: wissenschaft
+tags:
+- level-c1
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

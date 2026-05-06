@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit05_digitale-kommunikation.html
 - /kurs_b1/units/unit05_slides.html
+topic: kommunikation
+tags:
+- level-b1
+- modul-schreiben
+- skill-schreiben
+- skill-lesen
+- topic-kommunikation
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

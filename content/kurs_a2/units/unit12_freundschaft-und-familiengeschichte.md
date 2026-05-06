@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit12_freundschaft-und-familiengeschichte.html
 - /kurs_a2/units/unit12_slides.html
+topic: alltag
+tags:
+- level-a2
+- modul-schreiben
+- skill-sprechen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

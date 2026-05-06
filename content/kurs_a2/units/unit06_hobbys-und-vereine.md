@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit06_hobbys-und-vereine.html
 - /kurs_a2/units/unit06_slides.html
+topic: kultur
+tags:
+- level-a2
+- modul-sprechen
+- skill-sprechen
+- skill-hoeren
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

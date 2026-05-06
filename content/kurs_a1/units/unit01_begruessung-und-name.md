@@ -21,6 +21,13 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit01_begruessung-und-name.html
 - /kurs_a1/units/unit01_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-sprechen
+- skill-sprechen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

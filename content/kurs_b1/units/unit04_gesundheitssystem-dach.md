@@ -23,6 +23,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit04_gesundheitssystem-dach.html
 - /kurs_b1/units/unit04_slides.html
+topic: gesellschaft
+tags:
+- level-b1
+- modul-hören
+- skill-hoeren
+- skill-sprachmittlung
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

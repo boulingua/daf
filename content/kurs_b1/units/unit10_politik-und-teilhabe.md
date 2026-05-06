@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit10_politik-und-teilhabe.html
 - /kurs_b1/units/unit10_slides.html
+topic: gesellschaft
+tags:
+- level-b1
+- modul-sprechen
+- skill-sprechen
+- skill-hoeren
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

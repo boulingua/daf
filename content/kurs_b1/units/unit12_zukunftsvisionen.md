@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit12_zukunftsvisionen.html
 - /kurs_b1/units/unit12_slides.html
+topic: gesellschaft
+tags:
+- level-b1
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

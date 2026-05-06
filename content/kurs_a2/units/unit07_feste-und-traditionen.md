@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit07_feste-und-traditionen.html
 - /kurs_a2/units/unit07_slides.html
+topic: kultur
+tags:
+- level-a2
+- modul-lesen
+- skill-lesen
+- skill-sprechen
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

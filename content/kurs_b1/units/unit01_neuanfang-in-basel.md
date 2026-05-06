@@ -24,6 +24,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit01_neuanfang-in-basel.html
 - /kurs_b1/units/unit01_slides.html
+topic: alltag
+tags:
+- level-b1
+- modul-sprechen
+- skill-lesen
+- skill-sprechen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

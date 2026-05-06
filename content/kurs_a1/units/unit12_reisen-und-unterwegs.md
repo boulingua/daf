@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit12_reisen-und-unterwegs.html
 - /kurs_a1/units/unit12_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-lesen
+- skill-lesen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

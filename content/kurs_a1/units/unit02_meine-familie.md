@@ -21,6 +21,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit02_meine-familie.html
 - /kurs_a1/units/unit02_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-lesen
+- skill-sprechen
+- skill-lesen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

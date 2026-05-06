@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit08_gestern-und-vergangenheit.html
 - /kurs_a2/units/unit08_slides.html
+topic: alltag
+tags:
+- level-a2
+- modul-schreiben
+- skill-sprechen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

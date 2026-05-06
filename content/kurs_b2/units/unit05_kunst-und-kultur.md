@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit05_kunst-und-kultur.html
 - /kurs_b2/units/unit05_slides.html
+topic: kultur
+tags:
+- level-b2
+- modul-hören
+- skill-hoeren
+- skill-schreiben
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

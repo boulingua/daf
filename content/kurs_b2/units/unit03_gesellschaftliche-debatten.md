@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit03_gesellschaftliche-debatten.html
 - /kurs_b2/units/unit03_slides.html
+topic: gesellschaft
+tags:
+- level-b2
+- modul-schreiben
+- skill-schreiben
+- skill-sprechen
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

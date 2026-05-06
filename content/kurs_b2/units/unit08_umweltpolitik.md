@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit08_umweltpolitik.html
 - /kurs_b2/units/unit08_slides.html
+topic: umwelt
+tags:
+- level-b2
+- modul-schreiben
+- skill-schreiben
+- skill-lesen
+- topic-umwelt
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit11_oekonomie-fuer-laien.html
 - /kurs_b2/units/unit11_slides.html
+topic: gesellschaft
+tags:
+- level-b2
+- modul-hören
+- skill-hoeren
+- skill-sprachmittlung
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

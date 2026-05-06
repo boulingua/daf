@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit08_philosophie-fuer-informierte-laien.html
 - /kurs_c1/units/unit08_slides.html
+topic: wissenschaft
+tags:
+- level-c1
+- modul-schreiben
+- skill-lesen
+- skill-schreiben
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

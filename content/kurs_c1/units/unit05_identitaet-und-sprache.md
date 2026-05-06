@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit05_identitaet-und-sprache.html
 - /kurs_c1/units/unit05_slides.html
+topic: wissenschaft
+tags:
+- level-c1
+- modul-schreiben
+- skill-lesen
+- skill-schreiben
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

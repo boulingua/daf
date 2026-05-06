@@ -42,6 +42,17 @@ jobs:
         with:
           enablement: true
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps
+        run: pip install pyyaml
+
+      - name: Build materials network graph + run Phase-1 gates
+        run: python _scripts_phase5/build_graph.py
+
       - name: Check legal placeholders
         run: |
           if [ -f content/impressum.md ] || [ -f content/datenschutz.md ]; then

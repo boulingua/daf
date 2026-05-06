@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit02_wohnung-mieten.html
 - /kurs_a2/units/unit02_slides.html
+topic: alltag
+tags:
+- level-a2
+- modul-sprechen
+- skill-lesen
+- skill-sprechen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

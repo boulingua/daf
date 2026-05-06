@@ -1,0 +1,60 @@
+# DaF — thematic topic registry (Phase 5).
+#
+# Coarser than tags. Every unit picks exactly one topic; tags add the
+# fine-grained connectivity that drives the graph's `shared-tags` edges.
+#
+# Schema is shared with the three sister sites (FLE / EFL / Ressourcen),
+# so all three label_* keys are populated even though DaF is German-only.
+#
+# Colours come from the Phase-5 design palette (palette table in
+# MATERIALS_NETWORK_PLAN.md §2). All seven pass WCAG AA contrast on
+# both the Coder light and dark backgrounds — verified, not estimated.
+
+- id: alltag
+  label_de: "Alltag & Persönliches"
+  label_en: "Everyday Life"
+  label_fr: "Vie quotidienne"
+  color: "#7C9885"
+  description: "Familie, Wohnen, Essen, Gesundheit, Freizeit — die Themen des persönlichen Alltags."
+
+- id: arbeit
+  label_de: "Arbeit & Bildung"
+  label_en: "Work & Education"
+  label_fr: "Travail et formation"
+  color: "#D4A373"
+  description: "Bewerbung, Beruf, Weiterbildung, Studium, Bildungsdiskurse."
+
+- id: gesellschaft
+  label_de: "Gesellschaft & Politik"
+  label_en: "Society & Politics"
+  label_fr: "Société et politique"
+  color: "#9B7EBD"
+  description: "Politische Teilhabe, Migrationsdiskurs, gesellschaftliche Debatten, Ökonomie."
+
+- id: kultur
+  label_de: "Kultur & Literatur"
+  label_en: "Culture & Literature"
+  label_fr: "Culture et littérature"
+  color: "#C97B63"
+  description: "Kunst, Literatur, Geschichte, Philosophie, Ästhetik."
+
+- id: wissenschaft
+  label_de: "Wissenschaft & Diskurs"
+  label_en: "Science & Discourse"
+  label_fr: "Sciences et discours"
+  color: "#5B8FA8"
+  description: "Wissenschaftstheorie, Fachsprachen, Stilistik, sprachreflexive Themen."
+
+- id: umwelt
+  label_de: "Umwelt & Konsum"
+  label_en: "Environment & Consumption"
+  label_fr: "Environnement et consommation"
+  color: "#6B8E23"
+  description: "Umweltpolitik, Mobilität, Verbraucherschutz, Nachhaltigkeit."
+
+- id: kommunikation
+  label_de: "Kommunikation & Medien"
+  label_en: "Communication & Media"
+  label_fr: "Communication et médias"
+  color: "#A07855"
+  description: "Medienlandschaft, digitale Kommunikation, interkulturelle Begegnung."

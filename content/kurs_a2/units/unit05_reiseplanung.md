@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit05_reiseplanung.html
 - /kurs_a2/units/unit05_slides.html
+topic: alltag
+tags:
+- level-a2
+- modul-lesen
+- skill-lesen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

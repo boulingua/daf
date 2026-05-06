@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit11_persoenliche-beziehungen.html
 - /kurs_b1/units/unit11_slides.html
+topic: alltag
+tags:
+- level-b1
+- modul-lesen
+- skill-lesen
+- skill-schreiben
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

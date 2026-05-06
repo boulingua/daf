@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a2/units/unit04_im-amt.html
 - /kurs_a2/units/unit04_slides.html
+topic: gesellschaft
+tags:
+- level-a2
+- modul-schreiben
+- skill-schreiben
+- skill-lesen
+- topic-gesellschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

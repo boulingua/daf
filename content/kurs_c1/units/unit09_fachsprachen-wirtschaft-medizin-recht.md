@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht.html
 - /kurs_c1/units/unit09_slides.html
+topic: wissenschaft
+tags:
+- level-c1
+- modul-lesen
+- skill-lesen
+- skill-sprachmittlung
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

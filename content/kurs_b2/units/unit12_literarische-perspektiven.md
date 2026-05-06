@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b2/units/unit12_literarische-perspektiven.html
 - /kurs_b2/units/unit12_slides.html
+topic: kultur
+tags:
+- level-b2
+- modul-sprechen
+- skill-lesen
+- skill-sprechen
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

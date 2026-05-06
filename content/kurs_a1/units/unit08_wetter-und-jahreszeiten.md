@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit08_wetter-und-jahreszeiten.html
 - /kurs_a1/units/unit08_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-hören
+- skill-hoeren
+- skill-sprechen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

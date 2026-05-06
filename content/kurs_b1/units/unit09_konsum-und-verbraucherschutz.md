@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_b1/units/unit09_konsum-und-verbraucherschutz.html
 - /kurs_b1/units/unit09_slides.html
+topic: umwelt
+tags:
+- level-b1
+- modul-schreiben
+- skill-schreiben
+- skill-lesen
+- topic-umwelt
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

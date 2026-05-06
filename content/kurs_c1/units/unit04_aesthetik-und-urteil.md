@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit04_aesthetik-und-urteil.html
 - /kurs_c1/units/unit04_slides.html
+topic: kultur
+tags:
+- level-c1
+- modul-sprechen
+- skill-lesen
+- skill-sprechen
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit12_gegenwartsliteratur.html
 - /kurs_c1/units/unit12_slides.html
+topic: kultur
+tags:
+- level-c1
+- modul-hören
+- skill-hoeren
+- skill-schreiben
+- topic-kultur
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

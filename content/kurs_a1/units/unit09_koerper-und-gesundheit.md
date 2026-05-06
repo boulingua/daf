@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_a1/units/unit09_koerper-und-gesundheit.html
 - /kurs_a1/units/unit09_slides.html
+topic: alltag
+tags:
+- level-a1
+- modul-sprechen
+- skill-sprechen
+- skill-lesen
+- topic-alltag
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}

@@ -22,6 +22,14 @@ worksheet:
 aliases:
 - /kurs_c1/units/unit10_stilistik-und-rhetorik.html
 - /kurs_c1/units/unit10_slides.html
+topic: wissenschaft
+tags:
+- level-c1
+- modul-sprechen
+- skill-sprechen
+- skill-schreiben
+- topic-wissenschaft
+materials_status: placeholder
 ---
 
 {{< callout type="note" >}}
