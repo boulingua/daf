@@ -20,6 +20,13 @@ enableEmoji = false
 [params]
   navTitle = "DaF"
   author = "S. Le Boulanger"
+
+  [params.plausible]
+    # Per-site values; sister repos (efl/fle/ressources) override their own.
+    # script.file-downloads.outbound-links.js preserved from the Quarto era
+    # by explicit author preference; both PII-free.
+    domain = "boulingua.github.io/daf"
+    src = "https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js"
   description = "Ein DaF-Kursangebot entlang des Gemeinsamen Europäischen Referenzrahmens, A1 bis C1, mit GER-Modellprüfung pro Einheit."
   keywords = "DaF,Deutsch als Fremdsprache,GER,CEFR,A1,A2,B1,B2,C1,Curriculum,OER"
   dateFormat = "2006-01-02"

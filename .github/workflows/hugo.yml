@@ -150,6 +150,9 @@ jobs:
             || (kill $server_pid; exit 1)
           kill $server_pid
 
+      - name: Audit VG Wort Mindestumfang (warns; does not fail)
+        run: python _scripts_phase5/vgwort_audit.py
+
       - name: Verify VG Wort pixels (manifest gate)
         run: |
           if [ -f scripts/verify-vgwort.sh ]; then

@@ -1,0 +1,22 @@
+# VG Wort Zählmarken registry — boulingua/daf.
+#
+# Each entry maps a content path to its public+private VG Wort token.
+# The partial layouts/_partials/vgwort-pixel.html consults this file
+# (in addition to per-page `vgwort_pixel:` frontmatter for back-compat)
+# and renders the 1×1 counting pixel only on full content pages.
+#
+# Schema:
+#   - path: content/<...>.md     (relative to repo root, exact match)
+#     public_id: "vgzm.123456-10.1234"   # rendered as src token
+#     private_id: ""                       # T.O.M. record-keeping; never rendered
+#     min_chars: 1800                      # VG Wort Mindestumfang
+#     registered_at: "YYYY-MM-DD"
+#     author: "S. Le Boulanger"
+#
+# **Empty by design.** Tokens are async — they come from the VG Wort
+# T.O.M. portal and must be issued per work. The build-time gate
+# `_scripts_phase5/vgwort_audit.py` warns about content over the 1800
+# Mindestumfang that lacks a token, so unregistered long-form content
+# stays visible in the build log.
+
+# entries: []

@@ -1,25 +1,45 @@
 {{/*
   VG Wort Standard-Zählpixel for one page.
 
-  Reads `vgwort_pixel` (or `vgwort-pixel`) from page params. Accepts:
-    - a full URL ("https://vg08.met.vgwort.de/na/<token>"),
-    - a server+path ("vg08.met.vgwort.de/na/<token>"),
-    - or a bare 32-char token (default server "vg08.met.vgwort.de/na/" assumed).
+  Token resolution order:
+    1. .Params.vgwort_pixel / .Params.vgwort   (per-page frontmatter)
+    2. site.Data.vgwort entry whose `path` matches .File.Path
 
-  Mirrors the behaviour of _scripts/vgwort.lua from the Quarto setup.
+  Token forms accepted:
+    - full URL          ("https://vg08.met.vgwort.de/na/<id>")
+    - server+path       ("vg08.met.vgwort.de/na/<id>")
+    - bare 32-hex token ("0123…")  → defaults to vg08.met.vgwort.de/na/
+
+  The pixel never appears on:
+    - list pages (.Kind != "page")
+    - the homepage
+    - the materials hub or its sub-listings
+    - any page without a token entry
 */}}
-{{ $token := or (.Params.vgwort_pixel) (.Params.vgwort) "" }}
-{{ if and $token (ne (printf "%s" $token) "") }}
-  {{ $t := printf "%s" $token }}
-  {{ $url := "" }}
-  {{ if hasPrefix $t "http://" }}
-    {{ $url = $t }}
-  {{ else if hasPrefix $t "https://" }}
-    {{ $url = $t }}
-  {{ else if findRE "^vg[a-z0-9]+\\.met\\.vgwort\\.de/" $t }}
-    {{ $url = printf "https://%s" $t }}
-  {{ else }}
-    {{ $url = printf "https://vg08.met.vgwort.de/na/%s" $t }}
-  {{ end }}
-  <img src="{{ $url }}" width="1" height="1" alt="" loading="lazy" referrerpolicy="no-referrer" style="position:absolute;left:-9999px;" />
-{{ end }}
+{{- if eq .Kind "page" -}}
+  {{- $hub := or (hasPrefix .Path "/materials") false -}}
+  {{- if not $hub -}}
+    {{- $token := or .Params.vgwort_pixel .Params.vgwort -}}
+    {{- if not $token -}}
+      {{- $rel := .File.Path -}}
+      {{- $entries := index site.Data "vgwort" -}}
+      {{- if reflect.IsSlice $entries -}}
+        {{- range $entries -}}
+          {{- if eq .path (printf "content/%s" $rel) -}}
+            {{- $token = .public_id -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $token -}}
+      {{- $t := printf "%s" $token -}}
+      {{- $url := "" -}}
+      {{- if hasPrefix $t "http://" -}}{{- $url = $t -}}
+      {{- else if hasPrefix $t "https://" -}}{{- $url = $t -}}
+      {{- else if findRE "^vg[a-z0-9]+\\.met\\.vgwort\\.de/" $t -}}{{- $url = printf "https://%s" $t -}}
+      {{- else -}}{{- $url = printf "https://vg08.met.vgwort.de/na/%s" $t -}}
+      {{- end -}}
+      <div style="display:inline"><img src="{{ $url }}" width="1" height="1" alt="" loading="lazy" referrerpolicy="no-referrer" /></div>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
