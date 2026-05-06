@@ -40,5 +40,16 @@
         {{ end }}
       </ul>
     {{ end }}
+    {{ with .Site.Params.social }}
+    <ul class="navigation-social">
+      {{ range . }}
+      <li class="navigation-item">
+        <a class="navigation-link" href="{{ .url }}" rel="noopener" target="_blank" aria-label="{{ .name }}">
+          <i class="{{ .icon }}" aria-hidden="true"></i>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
   </section>
 </nav>

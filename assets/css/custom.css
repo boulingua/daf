@@ -131,6 +131,41 @@ body.colorscheme-dark .navigation-submenu,
   }
 }
 
+/* ── Navbar social icons (top-right) ────────────── */
+.navigation-social {
+  display: inline-flex;
+  list-style: none;
+  margin: 0 0 0 1rem;
+  padding: 0;
+  gap: 0.6rem;
+  vertical-align: middle;
+}
+
+.navigation-social .navigation-item {
+  display: inline-flex;
+}
+
+.navigation-social .navigation-link {
+  font-size: 1.25rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.4rem;
+  color: inherit;
+}
+
+.navigation-social .navigation-link:hover {
+  color: var(--boulingua-accent);
+}
+
+@media (max-width: 720px) {
+  .navigation-social {
+    display: block;
+    margin: 0.5rem 0 0;
+    text-align: left;
+  }
+}
+
 /* ── H2 rule on content pages ───────────────────── */
 main.content h2,
 .content h2 {
