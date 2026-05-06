@@ -15,28 +15,82 @@
     {{ if $isHub }}
       {{ .Content }}
 
-      {{/* Phase 3 — Cytoscape graph mount. Filter rail + list view
-           are wired in Phases 4 and 5. */}}
-      {{ $main := resources.Get "js/network/main.js" | js.Build (dict "format" "esm" "minify" true "externals" (slice "https://esm.sh/cytoscape@3.30.2" "https://esm.sh/cytoscape-fcose@2.2.0")) | fingerprint }}
+      {{/* Phase 3 — Cytoscape graph. Phase 4 — facet rail + URL state.
+           List view (Phase 5) and Pagefind search (Phase 5) still TODO. */}}
+      {{ $graph := resources.Get "js/network/main.js" | js.Build (dict "format" "esm" "minify" true "externals" (slice "https://esm.sh/cytoscape@3.30.2" "https://esm.sh/cytoscape-fcose@2.2.0")) | fingerprint }}
+      {{ $filters := resources.Get "js/network/filters.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
       <link rel="modulepreload" href="https://esm.sh/cytoscape@3.30.2">
       <link rel="modulepreload" href="https://esm.sh/cytoscape-fcose@2.2.0">
 
+      {{/* Compute facet sources from unit pages (server-side so first
+           paint matches URL state without flash). */}}
+      {{- $units := where (where .Site.RegularPages "Section" "in" (slice "kurs_a1" "kurs_a2" "kurs_b1" "kurs_b2" "kurs_c1")) "Params.presentation" "ne" nil -}}
+      {{- $courses := slice -}}
+      {{- $topics := slice -}}
+      {{- $tags := slice -}}
+      {{- range $units -}}
+        {{- $courses = $courses | append .Section -}}
+        {{- with .Params.topic }}{{ $topics = $topics | append . }}{{ end -}}
+        {{- with .Params.tags }}{{ range . }}{{ $tags = $tags | append . }}{{ end }}{{ end -}}
+      {{- end -}}
+      {{- $courses = $courses | uniq | sort -}}
+      {{- $topics = $topics | uniq -}}
+      {{- $tags = $tags | uniq | sort -}}
+      {{- $topicData := index .Site.Data "topics" -}}
+
       <section class="network-page network-hub" aria-label="Materials network">
+
         <div class="network-search">
           <span aria-hidden="true">⌕</span>
           <input type="search" placeholder="Suche kommt in Phase 5…" disabled>
-          <button type="button" disabled>Reset</button>
+          <button type="button" data-action="reset">Filter zurücksetzen</button>
         </div>
 
-        <aside class="network-rail" aria-label="Filter (Phase 4)">
+        <aside class="network-rail" aria-label="Filter" data-network-rail>
+
           <div class="facet-group">
-            <h4>Phase 4</h4>
-            <p style="font-size:0.85rem; opacity:0.7; margin:0;">
-              Facet-Rail mit Live-Filterung folgt im nächsten Schritt.
-              Der Graph rechts zeigt heute die volle Materialien-Datenbasis
-              (180 Knoten, 965 Kanten).
-            </p>
+            <h4>Typ</h4>
+            <div class="facet-chips">
+              <button class="facet-chip" type="button" data-facet="type" data-value="article" aria-pressed="false"><span class="glyph" aria-hidden="true">●</span>Artikel <span class="count">0</span></button>
+              <button class="facet-chip" type="button" data-facet="type" data-value="presentation" aria-pressed="false"><span class="glyph" aria-hidden="true">■</span>Foliensatz <span class="count">0</span></button>
+              <button class="facet-chip" type="button" data-facet="type" data-value="worksheet" aria-pressed="false"><span class="glyph" aria-hidden="true">◆</span>Arbeitsblatt <span class="count">0</span></button>
+            </div>
           </div>
+
+          <div class="facet-group">
+            <h4>Kurs</h4>
+            <div class="facet-chips">
+              {{- range $courses }}
+              <button class="facet-chip" type="button" data-facet="course" data-value="{{ . }}" aria-pressed="false">{{ upper (replace . "kurs_" "") }} <span class="count">0</span></button>
+              {{- end }}
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <h4>Topic</h4>
+            <div class="facet-chips">
+              {{- range $topics }}
+              {{- $tid := . -}}
+              {{- $t := index (where $topicData "id" $tid) 0 -}}
+              {{- $label := or ($t.label_de) $tid -}}
+              <button class="facet-chip topic" type="button" data-facet="topic" data-value="{{ $tid }}" data-topic="{{ $tid }}" aria-pressed="false"><span class="swatch" aria-hidden="true"></span>{{ $label }} <span class="count">0</span></button>
+              {{- end }}
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <h4>Tags</h4>
+            <div class="facet-chips">
+              {{- range $tags }}
+              <button class="facet-chip" type="button" data-facet="tag" data-value="{{ . }}" aria-pressed="false">{{ . }} <span class="count">0</span></button>
+              {{- end }}
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <button class="facet-chip" type="button" data-action="reset">Filter zurücksetzen</button>
+          </div>
+
         </aside>
 
         <div id="network-mount"
@@ -45,7 +99,7 @@
              aria-label="Force-directed graph"></div>
 
         <div class="network-status">
-          <span><strong>180</strong> Materialien geladen.</span>
+          <span data-count-total><strong>180</strong> Einträge sichtbar</span>
           <span><a href="{{ "/materials/preview/" | relURL }}">Layout-Vorschau</a></span>
         </div>
 
@@ -54,14 +108,15 @@
              will swap visibility rules). */}}
         <nav class="visually-hidden" aria-label="All materials">
           <ul>
-            {{ range where (where .Site.RegularPages "Section" "in" (slice "kurs_a1" "kurs_a2" "kurs_b1" "kurs_b2" "kurs_c1")) "Params.presentation" "ne" nil }}
+            {{ range $units }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </nav>
       </section>
 
-      <script type="module" src="{{ $main.RelPermalink }}"></script>
+      <script type="module" src="{{ $graph.RelPermalink }}"></script>
+      <script type="module" src="{{ $filters.RelPermalink }}"></script>
     {{ else }}
       {{/* Build the list of unit pages that have the relevant material. */}}
       {{- $field := cond $isPresentation "presentation" "worksheet" -}}

@@ -123,6 +123,17 @@ Topic labels in `data/topics.yml` are spec'd as `label_fr`, `label_en`, `label_d
 
 ## 6. Per-phase log
 
+### 2026-05-06 — Phase 4 complete (filter rail + URL state)
+
+- **`assets/js/network/filters.js`** — second ESM module (no externals, ~1.6 KB minified). Holds a `FilterState` of four sets (type, course, topic, tag), parses URL on load, writes URL via `history.replaceState` on every change.
+- **Facet algebra** — within a facet OR; across facets AND. `tag` matches against the node's `tags` array.
+- **Facet rail** rendered server-side from unit-page frontmatter (Hugo loops over `data/topics.yml` for swatch labels). Five groups: Type · Kurs · Topic · Tags · Reset. Date facet dropped per Phase-0 decision d1 (curriculum isn't temporal).
+- **Live counts** — every chip shows the count of nodes that match every *other* active facet plus this chip's value. Lets the user predict what each chip will do without already pressing it. Recomputed on every state change. Empty chips get `aria-disabled="true"` + `.is-empty` class.
+- **URL state** — `?type=article,presentation&course=kurs_b1&topic=gesellschaft&tag=modul-sprechen,topic-gesellschaft`. Bookmarkable, shareable. Applied before first paint; no flash of unfiltered content.
+- **Reset** wired both in the search bar (the upper Reset button) and in the rail's last group.
+- **Wiring** — `filters.js` waits for `window.dafNetwork` (set by `main.js` after Cytoscape boots), then runs an initial `apply()`. Subsequent chip clicks trigger `api.applyFilter(predicate)`, which dims non-matching nodes (12% opacity, structure intact) plus any edge with a dimmed endpoint.
+- **Pagefind search** still placeholder copy in the search bar — Phase 5.
+
 ### 2026-05-06 — Phase 3 complete (Cytoscape rendering)
 
 - **`assets/js/network/main.js`** — single ESM module (~2.8 KB minified after Hugo `js.Build`). Imports Cytoscape + fcose from `esm.sh` as external URL specifiers; esbuild leaves them as-is so the bundle is just my glue.
