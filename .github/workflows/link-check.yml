@@ -1,0 +1,101 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # Mondays 05:00 UTC
+  pull_request:
+    paths:
+      - "content/**"
+      - "layouts/**"
+      - "static/**"
+      - "data/**"
+      - "hugo.toml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write   # for create-issue-from-file
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: "0.147.0"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install Hugo
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb \
+            https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps
+        run: pip install pyyaml
+
+      - name: Build graph (so /network/graph.json exists)
+        run: python _scripts_phase5/build_graph.py
+
+      - name: Build site
+        env:
+          HUGO_ENVIRONMENT: production
+          TZ: Europe/Berlin
+        run: hugo --minify --baseURL "https://boulingua.github.io/daf/"
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee on built site (HTML)
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --cache
+            --max-cache-age 1d
+            --accept 200,206,301,302,308,429
+            --exclude-mail
+            --exclude-path public/network
+            --base public
+            './public/**/*.html'
+          fail: true
+          jobSummary: true
+
+      - name: Run lychee on network graph URLs
+        # Network nodes carry article URLs that the rendered HTML doesn't
+        # link directly. Pull them straight out of graph.json.
+        run: |
+          python - <<'PY' > /tmp/network-urls.txt
+          import json, pathlib, urllib.parse
+          base = "https://boulingua.github.io/daf"
+          data = json.loads(pathlib.Path("public/network/graph.json").read_text(encoding="utf-8"))
+          for n in data["nodes"]:
+              u = n.get("url")
+              if not u:
+                  continue
+              # Already-absolute URLs pass through; relative ones get prefixed.
+              if u.startswith("http"):
+                  print(u)
+              else:
+                  print(urllib.parse.urljoin(base + "/", u.lstrip("/")))
+          PY
+          npx -y lychee --no-progress --cache --max-cache-age 1d \
+            --accept 200,206,301,302,308,429 \
+            --exclude-mail \
+            --base public \
+            /tmp/network-urls.txt
