@@ -1,0 +1,172 @@
+---
+title: Einheit 6 — Hobbys und Vereine
+cefr_level: A2
+unit_nr: 6
+cefr_can_do:
+- Ich beschreibe meine Hobbys mit mehr Detail.
+- Ich verstehe einen Radiobeitrag über einen Verein.
+- Ich stelle Fragen zur Mitgliedschaft.
+skills_focus:
+- sprechen
+- hoeren
+pruefungs_module:
+- sprechen
+unit_slug: hobbys-und-vereine
+description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit06_hobbys-und-vereine.pptx
+  thumbnail: /materials/presentations/unit06_hobbys-und-vereine.png
+worksheet:
+  file: /materials/worksheets/unit06_hobbys-und-vereine.pdf
+  thumbnail: /materials/worksheets/unit06_hobbys-und-vereine.png
+aliases:
+- /kurs_a2/units/unit06_hobbys-und-vereine.html
+- /kurs_a2/units/unit06_slides.html
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** A2
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- Ich spreche 90 Sekunden über ein eigenes Hobby.
+- Ich verstehe einen Radio-Ausschnitt über einen Verein.
+- Ich frage nach Mitgliedschaft und Kosten.
+
+## GER-Ausrichtung
+
+Prüfungsmodul **Sprechen** — Teil 2: Produktion, ausführliche
+Informationen zum eigenen Leben geben.
+
+## Einstiegsgeschichte
+
+**Omar** hat sich einem Fotoclub in Graz angeschlossen. Jeden
+Mittwochabend: vier Fotograf:innen treffen sich im Café „Zum
+Keks“ (wie Herr Keks aus A1 — Kamea ist sein Neffe, der den
+Grazer Ableger betreibt).
+
+## 1. Einstieg
+
+- Sind Sie in einem Verein oder Club?
+- Welche Hobbys haben Sie — und wie oft?
+- Wie viel kostet Vereinsmitgliedschaft bei Ihnen?
+
+## 2. Input
+
+### A. Radio-Ausschnitt
+
+> „Heute im Bezirksradio Graz: der Fotoclub Graz-Mitte. Gast:
+> Omar Hafez. Omar, wie hast du den Club gefunden?“
+>
+> „Ein Freund hat mir erzählt. Wir treffen uns jeden Mittwoch
+> um 19 Uhr, machen Fotos, besprechen sie. Ich bin seit drei
+> Monaten Mitglied.“
+>
+> „Wie viel kostet die Mitgliedschaft?“
+>
+> „Dreißig Euro pro Jahr. Für Studierende fünfzehn.“
+>
+> „Was war dein Lieblingsprojekt bisher?“
+>
+> „Ein Spaziergang durch Graz-Lend — Fotos von alten Türen.“
+
+### B. Redemittel
+
+| Funktion              | Beispiel                                        |
+|-----------------------|-------------------------------------------------|
+| Häufigkeit            | *jeden Mittwoch, einmal pro Woche, monatlich*  |
+| Mitgliedschaft        | *Seit X bin ich Mitglied.*                     |
+| Bewertung             | *Besonders gefällt mir …*                      |
+| Fragen                | *Wie werde ich Mitglied? / Was kostet das?*    |
+
+## 3. Üben
+
+**Aufgabe 1 — Zum Hörtext.** Richtig oder falsch?
+
+1. Omar ist seit drei Monaten im Fotoclub.
+2. Der Club trifft sich jeden Donnerstag.
+3. Die Mitgliedschaft kostet 30 € pro Jahr.
+4. Für Studierende kostet es 15 € pro Monat.
+
+**Aufgabe 2 — Fragen bilden.** Fragen Sie:
+
+1. Häufigkeit? → *___________________________________*
+2. Preis? → *___________________________________*
+3. Dauer der Mitgliedschaft? → *___________________________________*
+
+**Aufgabe 3 — Satzanfänge.** Vervollständigen Sie in ganzen
+Sätzen:
+
+- *Seit zwei Jahren …*
+- *Jeden Samstag …*
+- *Besonders gefällt mir …*
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** 1) R · 2) F (Mittwoch) · 3) R · 4) F (pro Jahr).
+
+**Aufgabe 2.**
+- Wie oft trifft sich der Club?
+- Wie viel kostet die Mitgliedschaft?
+- Seit wann bist du Mitglied?
+
+**Aufgabe 3.** Individuell.
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Mini-Vortrag (A2, ca. 90 Sekunden):** Sprechen Sie über ein
+Hobby oder einen Verein. Gliederung:
+
+1. Was ist das Hobby? *Ich …*
+2. Seit wann? *Seit …*
+3. Wie oft / wo? *Jede Woche …*
+4. Was gefällt Ihnen? *Besonders gefällt mir …*
+
+## 5. Reflexion
+
+- [ ] Ich spreche 90 Sek. über mein Hobby.
+- [ ] Ich nenne Häufigkeit und Dauer.
+- [ ] Ich stelle drei Fragen zu einem Verein.
+
+## Prüfungsbeispiel — GER A2 Sprechen, Teil 2
+
+**Aufgabe:** Erzählen Sie Ihrer Prüfungspartnerin / Ihrem Prüfer
+etwas zum Thema „**Mein Hobby / Mein Verein**“. Sie bekommen ein
+Aufgabenblatt mit fünf Stichwörtern:
+
+- Name / Art
+- Wann / wie oft
+- Seit wann
+- Was gefällt
+- Kosten / Zugang
+
+**Dauer:** 2–3 Min. Der Prüfer stellt eine oder zwei Rückfragen.
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+**Zeit:** Einstieg 5' · Input 12' · Üben 13' · Anwenden 15' ·
+Prüfungsvorschau 10'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **„seit“ + Dativ:** *seit drei Monaten*, nicht *Monate*.
+- **„Mitgliedschaft“ (f)** ≠ **„Mitglied“ (n)**: *Ich bin Mitglied
+  / habe eine Mitgliedschaft.*
+- **„jeden Mittwoch“** ohne Präposition (Akkusativ der Zeit).
+
+## Weiterführende Materialien
+
+- **ORF Bezirksradio**: <https://oe1.orf.at/>
+- **DW „Deutsche Vereine“** (A2-taugliche Erklärformate).

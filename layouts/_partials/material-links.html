@@ -1,0 +1,37 @@
+{{/*
+  material-links — paired thumbnail block (presentation + worksheet)
+  for a unit article. Reads frontmatter:
+    presentation:
+      file: /materials/presentations/<slug>.pptx
+      thumbnail: /materials/presentations/<slug>.png
+    worksheet:
+      file: /materials/worksheets/<slug>.pdf
+      thumbnail: /materials/worksheets/<slug>.png
+  Renders nothing if neither key is present.
+*/}}
+{{- $p := .Params.presentation -}}
+{{- $w := .Params.worksheet -}}
+{{- if or $p $w -}}
+<div class="material-pair">
+  {{- with $p }}
+  <a class="material-card" href="{{ .file | relURL }}" download>
+    {{- with .thumbnail }}<img class="thumb" src="{{ . | relURL }}" alt="" loading="lazy">{{- end }}
+    <div class="body">
+      <h3>Foliensatz</h3>
+      <span class="tags">PPTX · Platzhalter</span>
+      <span class="download">↓ Herunterladen</span>
+    </div>
+  </a>
+  {{- end }}
+  {{- with $w }}
+  <a class="material-card" href="{{ .file | relURL }}" download>
+    {{- with .thumbnail }}<img class="thumb" src="{{ . | relURL }}" alt="" loading="lazy">{{- end }}
+    <div class="body">
+      <h3>Arbeitsblatt</h3>
+      <span class="tags">PDF · Platzhalter</span>
+      <span class="download">↓ Herunterladen</span>
+    </div>
+  </a>
+  {{- end }}
+</div>
+{{- end -}}

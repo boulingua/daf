@@ -1,0 +1,44 @@
+{{/*
+  Override of hugo-coder's header.html.
+  Adds support for nested submenus via [[menu.main]] entries that carry
+  a `parent` key. Top-level entries with children render as a hover/click
+  dropdown; childless entries render as plain links — same as upstream.
+*/}}
+<nav class="navigation">
+  <section class="container">
+    {{ with .Site }}
+    <a class="navigation-title" href="{{ absLangURL "" }}">
+      {{ .Title }}
+    </a>
+    {{ end }}
+    {{ if or .Site.Menus.main hugo.IsMultilingual }}
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        {{ with .Site.Menus.main }}
+          {{ range sort . }}
+            {{ if not .Parent }}
+              {{ $hasChildren := gt (len .Children) 0 }}
+              <li class="navigation-item{{ if $hasChildren }} has-children{{ end }}">
+                {{ if $hasChildren }}
+                  <span class="navigation-link navigation-parent">{{ .Name }}</span>
+                  <ul class="navigation-submenu">
+                    {{ range sort .Children }}
+                      <li class="navigation-subitem">
+                        <a class="navigation-link" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
+                      </li>
+                    {{ end }}
+                  </ul>
+                {{ else }}
+                  <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
+                {{ end }}
+              </li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
+  </section>
+</nav>

@@ -1,0 +1,196 @@
+---
+title: Einheit 9 — Konsum und Verbraucherschutz
+cefr_level: B1
+unit_nr: 9
+cefr_can_do:
+- Ich kann Allgemeine Geschäftsbedingungen in Grundzügen verstehen.
+- Ich kann eine sachliche Reklamationsmail verfassen.
+- Ich kenne meine zentralen Verbraucherrechte im DACH-Raum.
+skills_focus:
+- schreiben
+- lesen
+pruefungs_module:
+- schreiben
+unit_slug: konsum-und-verbraucherschutz
+description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit09_konsum-und-verbraucherschutz.pptx
+  thumbnail: /materials/presentations/unit09_konsum-und-verbraucherschutz.png
+worksheet:
+  file: /materials/worksheets/unit09_konsum-und-verbraucherschutz.pdf
+  thumbnail: /materials/worksheets/unit09_konsum-und-verbraucherschutz.png
+aliases:
+- /kurs_b1/units/unit09_konsum-und-verbraucherschutz.html
+- /kurs_b1/units/unit09_slides.html
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B1
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- … **kann ich** wichtige AGB-Punkte überfliegen.
+- … **kann ich** höflich und klar reklamieren.
+- … **kann ich** ein Rücktrittsrecht oder Widerrufsrecht
+  benennen.
+
+## GER-Ausrichtung
+
+- Prüfungsmodul **Schreiben** — Teil 3 (Mitteilung zur
+  Handlungsregulierung): Reklamation, Rückgabe, Beschwerde.
+
+## Einstiegsgeschichte
+
+**Lejla** (jetzt in Villach) hat online eine Kaffeemaschine
+bestellt. Nach drei Tagen kommt das Paket — aber ohne das
+versprochene Zubehör. Der Zettel in der Packung sagt: *„Im
+Lieferumfang enthalten: Kaffeemaschine, Milchaufschäumer,
+Reinigungsbürste, Entkalker-Tab.“* In der Packung: nur die
+Maschine und die Bürste. Milchaufschäumer und Entkalker fehlen.
+Sie schreibt an den Kundenservice.
+
+## 1. Einstieg
+
+- Wie oft kaufen Sie online ein? Was ist dabei schon schiefgelaufen?
+- Kennen Sie den Unterschied zwischen **Widerrufsrecht** und
+  **Gewährleistung**?
+- Welche drei Wörter brauchen Sie, um eine Reklamation höflich
+  zu formulieren?
+
+## 2. Input
+
+### A. AGB-Auszug (original)
+
+> **§ 7 Widerruf und Rückgabe**
+>
+> (1) Sie haben das Recht, binnen 14 Tagen ohne Angabe von
+> Gründen vom Vertrag zurückzutreten. Die Widerrufsfrist beginnt
+> ab Erhalt der Ware.
+>
+> (2) Zur Ausübung des Widerrufsrechts müssen Sie uns mittels
+> einer eindeutigen Erklärung (z. B. per E-Mail) informieren.
+>
+> (3) Die Kosten der Rücksendung tragen Sie, sofern der Warenwert
+> 40 € überschreitet und die Ware bestellungsgemäß geliefert wurde.
+
+### B. Muster-Reklamationsmail
+
+> Sehr geehrte Damen und Herren,
+>
+> am 14. Mai habe ich bei Ihnen eine Kaffeemaschine vom Modell
+> „KA-3200“ bestellt (Bestellnummer: **KA-5578912**). Das Paket
+> ist am 17. Mai angekommen. Leider fehlen zwei Teile aus dem
+> auf Ihrer Website angegebenen Lieferumfang: der
+> Milchaufschäumer und der Entkalker-Tab.
+>
+> Ich bitte Sie, mir die fehlenden Teile kostenfrei nachzusenden.
+> Sollte das nicht möglich sein, würde ich die Bestellung gern
+> vollständig zurückgeben.
+>
+> Vielen Dank für Ihre Rückmeldung.
+>
+> Mit freundlichen Grüßen
+> Lejla Hodžić
+
+### C. Wortschatz
+
+| Wort / Wendung              | Erklärung                                     |
+|-----------------------------|-----------------------------------------------|
+| Widerrufsrecht, das         | Recht, einen Vertrag zurückzunehmen           |
+| Gewährleistung, die         | Haftung des Verkäufers bei mangelhafter Ware  |
+| Lieferumfang, der           | was im Paket enthalten sein sollte             |
+| Rücksendung, die            | das Zurückschicken der Ware                   |
+| bestellungsgemäß (adv.)     | wie in der Bestellung angegeben               |
+
+## 3. Üben
+
+**Aufgabe 1 — AGB verstehen.** Richtig oder falsch?
+
+1. Das Widerrufsrecht gilt nur mit Begründung.
+2. Die Widerrufsfrist beträgt 14 Tage.
+3. Man kann das Widerrufsrecht auch mündlich per Anruf ausüben.
+4. Bis 40 € Warenwert zahlt der Händler die Rücksendung.
+
+**Aufgabe 2 — Textstruktur.** Bringen Sie die Bausteine einer
+Reklamationsmail in die richtige Reihenfolge:
+
+A. Angabe, was genau fehlt / kaputt ist.
+B. Bitte (Nachsendung, Rückerstattung, Austausch).
+C. Grußformel.
+D. Sehr geehrte Damen und Herren,
+E. Hinweis auf die Bestellung (Datum + Nummer).
+
+**Aufgabe 3 — Höflichkeit.** Was ist freundlicher —
+*„Das ist inakzeptabel!“* oder *„Das hat mich sehr überrascht“*?
+Warum?
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** 1 = Falsch · 2 = Richtig · 3 = Falsch (*„eindeutige
+Erklärung, z. B. per E-Mail“*) · 4 = Richtig.
+
+**Aufgabe 2.** D – E – A – B – C.
+
+**Aufgabe 3.** *„Das hat mich sehr überrascht“* ist höflicher —
+benennt die eigene Reaktion, wertet nicht.
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Schreibaufgabe (B1, Teil 3 — ca. 40 Wörter):**
+
+Sie haben eine Jacke online bestellt. Sie kommt in der falschen
+Größe an. Schreiben Sie an den Shop:
+
+- Beschreiben Sie das Problem kurz.
+- Bitten Sie um Austausch oder Rückerstattung.
+- Fragen Sie nach dem Ablauf der Rücksendung.
+
+## 5. Reflexion
+
+- [ ] Ich erkenne in AGB die wichtigsten Klauseln zum Widerruf.
+- [ ] Ich kann eine 40-Wörter-Reklamation ohne Emotionen
+      schreiben.
+- [ ] Ich kenne drei höfliche Wendungen für Beschwerden.
+
+## Prüfungsbeispiel — GER B1 Schreiben, Teil 3
+
+**Aufgabenstellung:** Sie haben ein Konzertticket online gekauft,
+das Konzert wurde abgesagt. Schreiben Sie an den Veranstalter
+(ca. 40 Wörter):
+
+- Beschreiben Sie den Kauf kurz (Datum, Preis, Konzert).
+- Fragen Sie nach einer Rückerstattung.
+- Erkundigen Sie sich nach dem genauen Ablauf.
+
+Vergessen Sie Anrede, Grußformel und Namen nicht.
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+
+**Zeit:** Einstieg 7' · Input 12' · Üben 18' · Anwenden 20' ·
+Reflexion 3' · Prüfungsvorschau 30'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **„ich bitte Sie“ + Infinitiv** + „zu“ + Infinitiv: *„Ich
+  bitte Sie, mir die fehlenden Teile **zu** senden.“*
+- **„entsorgen“ ≠ „zurücksenden“.** Oft werden diese zwei
+  Aktionsverben in Reklamationen verwechselt.
+
+## Weiterführende Materialien
+
+- **Verbraucherzentrale (DE)**: <https://www.verbraucherzentrale.de/>
+- **Arbeiterkammer Konsumentenschutz (AT)**: <https://www.arbeiterkammer.at/>
+- **Konsumentenschutz (CH)**: <https://www.konsum.admin.ch/>

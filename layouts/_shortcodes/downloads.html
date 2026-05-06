@@ -1,0 +1,28 @@
+{{/*
+  downloads — reproduces the {{< downloads >}} shortcode that the
+  Quarto unit pages reference. Renders links to the canonical exam
+  PDF and worksheet PDF for the page, derived from frontmatter:
+    cefr_level: "A1" | "A2" | "B1" | "B2" | "C1"
+    unit_nr:    1..12
+    slug:       "begruessung-und-name"
+  Both files are expected at:
+    /downloads/<level-lc>/unit<NN>_<slug>_exam.pdf
+    /downloads/<level-lc>/unit<NN>_<slug>_worksheet.pdf
+  If any frontmatter key is missing the shortcode renders nothing,
+  to avoid broken links on pages where downloads do not apply.
+*/}}
+{{- $page := .Page -}}
+{{- $level := lower (or $page.Params.cefr_level "") -}}
+{{- $nr := $page.Params.unit_nr -}}
+{{- $slug := or $page.Params.unit_slug $page.Params.slug -}}
+{{- if and $level $nr $slug -}}
+{{- $nrPad := printf "%02d" (int $nr) -}}
+{{- $exam := printf "/downloads/%s/unit%s_%s_exam.pdf" $level $nrPad $slug -}}
+{{- $work := printf "/materials/worksheets/unit%s_%s.pdf" $nrPad $slug -}}
+<div class="downloads">
+  <strong>Downloads:</strong>
+  <a href="{{ $exam | relURL }}">Modellprüfung (PDF)</a>
+  ·
+  <a href="{{ $work | relURL }}">Arbeitsblatt (PDF)</a>
+</div>
+{{- end -}}

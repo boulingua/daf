@@ -1,0 +1,20 @@
+{{/*
+  Override of Coder's page.html. Injects the material-links partial
+  immediately under the title so unit pages surface their paired
+  Foliensatz / Arbeitsblatt download cards above the fold.
+*/}}
+<section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+    </header>
+
+    {{ partial "material-links.html" . }}
+
+    {{ .Content }}
+  </article>
+</section>
