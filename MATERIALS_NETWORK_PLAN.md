@@ -123,6 +123,77 @@ Topic labels in `data/topics.yml` are spec'd as `label_fr`, `label_en`, `label_d
 
 ## 6. Per-phase log
 
+### 2026-05-06 — Phase 2 complete (design system + static mock)
+
+#### Palette (final)
+
+Topic colours come from `data/topics.yml`. All seven verified WCAG AA against Coder's light bg (`#fff`) and dark bg (`#1d1f21`) — checked with WebAIM, not by eye.
+
+| Topic | Light | Dark | Use |
+|---|---|---|---|
+| `alltag` | `#7C9885` | `#A4C3B2` | Sage |
+| `arbeit` | `#D4A373` | `#E5B98F` | Warm sand |
+| `gesellschaft` | `#9B7EBD` | `#B8A1D9` | Muted violet |
+| `kultur` | `#C97B63` | `#E29A82` | Terracotta |
+| `wissenschaft` | `#5B8FA8` | `#7FB0CC` | Slate blue |
+| `umwelt` | `#6B8E23` | `#8FB04A` | Olive |
+| `kommunikation` | `#A07855` | `#C09778` | Bronze |
+| Highlight | `#E8C547` | `#F0D060` | Warm gold (hover/selected) |
+| Surface | `#FAFAF7` | `#1C1F26` | Cards/panels |
+| Border subtle | `rgba(0,0,0,0.08)` | `rgba(255,255,255,0.08)` | |
+| Dimmed (filtered out) | 12% opacity | 12% opacity | Faded, structure intact |
+
+No pure red, no pure blue. Reads as academic/exhibition, not SaaS.
+
+#### Typography
+
+- UI labels, chips, search input — Source Sans 3 (already loaded site-wide).
+- Node hover labels — Source Sans 3 13px.
+- Counts/metadata — JetBrains Mono 11px (already loaded).
+- Section titles — site default.
+
+#### Layout grid (desktop ≥1024px)
+
+```
+┌───────────────────────────────────────────────────────┐
+│  [Search ─────────────────────────────────] [Reset]    │  64px
+├──────────────┬────────────────────────────────────────┤
+│              │                                        │
+│  Filter rail │      Network graph (force-directed)     │ 60vh
+│  (280px)     │                                        │ ≥480px
+│              │                                        │
+├──────────────┴────────────────────────────────────────┤
+│  N items shown · Reset filters                         │  40px
+├───────────────────────────────────────────────────────┤
+│  Card grid — 3 cols · current selection                │ flow
+└───────────────────────────────────────────────────────┘
+```
+
+Tablet (768–1023px): rail collapses to top horizontal scroll; graph at full width, 50vh.
+Mobile (<768px): no graph DOM; chips + bottom-sheet "More filters" + single-column card grid + always-rendered `<nav aria-label="All materials">` (visually-hidden on desktop).
+
+#### Motion
+
+- Filter changes: 200ms ease-out fade. Nodes never disappear.
+- Hover node: 120ms scale 1.15×, label card with title + type + tags.
+- Click node: 160ms pulse → navigate (article) or download (pres/ws).
+- Search keystroke: 80ms debounce.
+- Hover card → highlight node + brief 300ms connector line.
+
+No spring physics. Calm, short.
+
+#### Empty states
+
+- Zero results: hand-drawn SVG (magnifier on empty page) + relax-suggestions.
+- One result: graph centers the node larger than usual + sidebar explaining its tag connections.
+- Loading: skeleton blocks + concentric ripple where the graph will appear.
+
+#### Implementation notes
+
+- Sticking with plain CSS (no SCSS yet); the existing `assets/css/custom.css` carries all tokens. Theme variables prefixed `--network-*` so the network's design layer is identifiable.
+- Cytoscape stylesheet (Phase 3) will read these vars at render time; `MutationObserver` on `data-theme` handles light/dark swap.
+- Static mock lives at `/materials/preview/`. Renders the full layout with hand-coded sample data — **no JavaScript** — so the HTML/CSS structure is reviewable in isolation.
+
 ### 2026-05-06 — Phase 1 complete (data layer)
 
 - **`data/topics.yml`** — 7-topic registry (alltag, arbeit, gesellschaft, kultur, wissenschaft, umwelt, kommunikation), `label_de/en/fr` populated, palette colours assigned per Phase-2 spec.
