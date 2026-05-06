@@ -207,7 +207,9 @@ Footer references `boulingua.github.io/ressources/` (singular Latinised), but `_
 
 ## 7. Manual review needed (populated during Phase 2)
 
-*(empty — Phase 2 not started)*
+*(empty — every file ported at 0% word-count drift after the
+converter's `:::` markers / shortcode tokens were excluded from
+both sides of the diff. No file flagged.)*
 
 ---
 
@@ -229,6 +231,26 @@ Empty. `grep -r 'vgwort_pixel\|vgwort-pixel' . --include='*.qmd'` → no matches
 ---
 
 ## 9. Phase log
+
+### 2026-05-06 — Phase 2 complete (content port)
+- 7 commits across the 19-batch plan: anhaenge (5), top-level (8),
+  index (1), uebersicht (1), course landings folded into _index.md
+  (5), 60 unit articles in five level commits, plus a follow-up
+  commit renaming the unit `slug` frontmatter key to `unit_slug`
+  so URL parity with the Quarto site holds.
+- 81 markdown files under `content/`. 0% word-count drift on
+  every file (after stripping `:::` fences and shortcode tokens
+  from both sides of the diff).
+- Hugo build clean: 94 pages, 13 aliases, no errors.
+- Decisions taken on the four open questions from §10:
+  Reveal.js dropped, exam PDFs deferred to Phase 4 (option a:
+  pull live PDFs as static), kurs_a1/index.qmd does exist (Phase
+  0 was wrong; folded uniformly), Schwesternsite URL kept as
+  `ressources` (matches `_quarto.yml`).
+- Quarto sources still in place; deletion happens in Phase 4.
+- Batch 19 (exam wrappers): not converted — they're LaTeX-only
+  source for PDF render and have no role in Hugo. They stay on
+  disk and get removed in Phase 4 when the Quarto setup goes.
 
 ### 2026-05-06 — Phase 0 complete
 - Inventoried repo: 145 `.qmd` files, ~15k lines of original German pedagogical content, no images, 4 SCSS files, 1 Lua filter, 1 LaTeX header.
