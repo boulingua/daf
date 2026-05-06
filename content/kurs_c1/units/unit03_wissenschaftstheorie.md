@@ -1,0 +1,219 @@
+---
+title: 'Einheit 3 — Wissenschaftstheorie: Was ist Erkenntnis?'
+cefr_level: C1
+unit_nr: 3
+slug: wissenschaftstheorie
+cefr_can_do:
+- Ich folge einem Vortrag zur Wissenschaftstheorie.
+- Ich reformuliere erkenntnistheoretische Fragen für ein Laien-Publikum.
+- Ich kenne Begriffe wie *Falsifikation, Induktion, Paradigma*.
+skills_focus:
+- hoeren
+- sprechen
+pruefungs_module:
+- hören
+description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** C1
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- Ich folge einem Universitätsvortrag (B2/C1) zur Erkenntnistheorie.
+- Ich unterscheide *Induktion, Deduktion, Falsifikation,
+  Paradigmenwechsel*.
+- Ich übersetze einen erkenntnistheoretischen Begriff in
+  Alltagssprache.
+
+## GER-Ausrichtung
+
+Prüfungsmodul **Hören** — Teil 4 (Vortrag, MC-3gl, 7 Items, 2× hören).
+
+## Einstiegsgeschichte
+
+Vorlesung an der Universität Wien, *„Einführung in die
+Wissenschaftstheorie“*. Dozentin: **Dr. Helena Stark**. Im
+Hörsaal sitzen DaF-Lernende, denen Dr. Stark vorab versprochen
+hat, die wichtigsten Begriffe in Alltagssprache zu erklären.
+
+## 1. Einstieg
+
+- Wann ist eine Aussage „wissenschaftlich“?
+- Welcher Wissenschaftsphilosoph fällt Ihnen sofort ein?
+- Wo unterscheiden sich Naturwissenschaften und
+  Geisteswissenschaften in ihrer Methode?
+
+## 2. Input
+
+### A. Vortragsausschnitt (Transkript, ca. 6 Min)
+
+> **Dr. Stark:** *„Was ist Erkenntnis?“* — diese Frage ist nicht
+> rhetorisch. Sie ist die Geburtsfrage der Wissenschaftstheorie.
+> Drei Antworten haben das 20. Jahrhundert geprägt.
+>
+> **Erstens, der induktive Empirismus:** Wir sammeln Daten;
+> wenn wir genug haben, leiten wir Gesetze ab. Plausibel,
+> aber tückisch — wie viele weiße Schwäne braucht es, um zu
+> behaupten *„alle Schwäne sind weiß“*? Genau einen einzigen
+> schwarzen, um die Aussage zu zerstören.
+>
+> **Zweitens, Karl Popper und die Falsifikation:** Eine
+> wissenschaftliche Aussage ist nicht durch Bestätigung gültig,
+> sondern durch ihre **Widerlegbarkeit**. *„Alle Schwäne sind
+> weiß“* ist wissenschaftlich, weil ein einziger schwarzer
+> Schwan sie kippt. Popper rettet die Wissenschaftlichkeit der
+> Theorie — auf Kosten der Sicherheit.
+>
+> **Drittens, Thomas Kuhn und die Paradigmen:** Wissenschaft
+> verläuft nicht linear, sondern in **Phasen**. Lange Zeit
+> arbeitet eine Disziplin in einem Paradigma. Wenn die Anomalien
+> sich häufen, kommt es zu einer Krise — und schließlich zum
+> *Paradigmenwechsel.* Kuhn relativiert damit die Idee
+> stetigen Fortschritts.
+
+### B. Begriffliches Werkzeug
+
+| Begriff           | Knapp erklärt                                  |
+|-------------------|------------------------------------------------|
+| Induktion         | vom Einzelnen zum Allgemeinen schließen        |
+| Deduktion         | vom Allgemeinen zum Einzelnen schließen        |
+| Empirismus        | Erkenntnis aus Erfahrung                       |
+| Falsifikation     | Widerlegungsversuch als Methode                |
+| Paradigma         | etablierter Theorierahmen                      |
+| Anomalie          | Befund, der nicht ins Paradigma passt          |
+| Inkommensurabilität | Unvergleichbarkeit zweier Paradigmen         |
+
+### C. Laien-Übersetzungs-Werkzeugkasten
+
+- *Falsifikation* → „eine Aussage muss prinzipiell widerlegbar sein.“
+- *Paradigma* → „der Rahmen, in dem alle gerade arbeiten.“
+- *Anomalie* → „der Fall, der einfach nicht passt.“
+
+## 3. Üben
+
+**Aufgabe 1 — MC (C1-Hören Teil 4).**
+
+1. Welche drei Positionen prägten laut Dr. Stark das 20. Jhd.?
+   a) Logik, Hermeneutik, Empirie · b) Empirismus, Falsifikation,
+   Paradigmen · c) Realismus, Idealismus, Pragmatismus.
+
+2. Was reicht laut Popper, um eine Theorie zu kippen?
+   a) eine widerlegende Beobachtung · b) hundert · c) ein
+   Mehrheitsbeschluss.
+
+3. Wann kommt es laut Kuhn zur Krise?
+   a) wenn Anomalien sich häufen · b) wenn ein neuer Forscher
+   etwas anderes entdeckt · c) wenn das Geld ausgeht.
+
+4. *Inkommensurabilität* meint, dass …
+   a) zwei Paradigmen unvergleichbar sind · b) zwei Forscher
+   sich nicht einig werden · c) zwei Daten unverträglich sind.
+
+**Aufgabe 2 — Laien-Reformulierung.** Erklären Sie für eine
+Person ohne Vorkenntnisse:
+
+1. *„Wissenschaftlichkeit setzt Falsifizierbarkeit voraus.“*
+2. *„Die Anomalien akkumulieren sich, das Paradigma gerät unter
+   Druck.“*
+
+**Aufgabe 3 — Eigenes Beispiel.** Geben Sie ein eigenes
+Beispiel für:
+
+- ein Paradigma in Ihrer Heimatdisziplin oder Ihrem Beruf,
+- eine Anomalie darin.
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** 1) b · 2) a · 3) a · 4) a.
+
+**Aufgabe 2.**
+1. *Eine wissenschaftliche Theorie ist nur dann gültig, wenn man
+   sich vorstellen kann, was sie widerlegen würde.*
+2. *Es gibt immer mehr Befunde, die in die alte Theorie nicht
+   passen — sie wirkt zunehmend unhaltbar.*
+
+**Aufgabe 3.** Individuell.
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Mini-Vortrag (C1, ca. 4 Min):** Sprechen Sie über ein Paradigma
+in einem Bereich, den Sie kennen — und über eine reale oder
+historische Anomalie, die es ins Wanken gebracht hat. Beispiele:
+Plattentektonik vs. Kontinentaldrift, klassische Mechanik vs.
+Relativitätstheorie, Erziehungswissenschaft vor und nach
+Bildungsoffenheit.
+
+## 5. Reflexion
+
+- [ ] Ich folge einem 6-Min-Vortrag zur Wissenschaftstheorie.
+- [ ] Ich erkläre Falsifikation und Paradigma in Alltagssprache.
+- [ ] Ich gebe ein eigenes Paradigmen-Beispiel.
+
+## Prüfungsbeispiel — GER C1 Hören, Teil 4
+
+**Aufgabenstellung:** Sie hören den Vortrag von Dr. Stark
+zweimal. Wählen Sie pro Frage a, b oder c.
+
+1. Drei prägende Positionen sind …
+   a) Logik / Empirie / Hermeneutik · b) Empirismus /
+   Falsifikation / Paradigmen · c) Realismus / Idealismus /
+   Pragmatismus.
+
+2. Das Schwan-Beispiel illustriert vor allem …
+   a) Induktion · b) Deduktion · c) Hermeneutik.
+
+3. Falsifizierbarkeit ist für Popper …
+   a) ein didaktisches Spiel · b) das Kriterium der
+   Wissenschaftlichkeit · c) eine soziologische Frage.
+
+4. Kuhn betont …
+   a) lineare Ansammlung · b) Phasen mit Brüchen · c) Wirtschaft
+   als Treiber.
+
+5. Eine Anomalie ist …
+   a) ein methodischer Fehler · b) ein nicht passender Befund ·
+   c) ein politischer Konflikt.
+
+6. *Inkommensurabilität* bedeutet …
+   a) Unvergleichbarkeit zweier Paradigmen · b) Unverträglichkeit
+   zweier Personen · c) Unmessbarkeit großer Daten.
+
+7. Kuhn relativiert …
+   a) die Idee stetigen Fortschritts · b) den Begriff der
+   Empirie · c) die Geltungsdauer von Anomalien.
+
+{{< details type="tip" title="Lösungen" >}}
+1. b · 2. a · 3. b · 4. b · 5. b · 6. a · 7. a.
+
+{{< /details >}}
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+**Zeit:** Einstieg 8' · Input 22' · Üben 18' · Anwenden 25' ·
+Prüfungsvorschau 17'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **„Falsifikation“ ≠ „Fälschung“:** Falsifikation = methodischer
+  Widerlegungsversuch; Fälschung = Betrug.
+- **„Paradigma“ ist neutrum** (*das Paradigma*).
+- **„Anomalie“ + Genitiv** in Fachprosa: *die Anomalie der Daten*.
+
+## Weiterführende Materialien
+
+- **Karl Popper, *Logik der Forschung***.
+- **Thomas Kuhn, *Die Struktur wissenschaftlicher Revolutionen***.
+- **Ö1 „Radiokolleg“** zu Wissenschaftstheorie.
