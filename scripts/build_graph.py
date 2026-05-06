@@ -13,7 +13,7 @@ identical.
 
 Schema is exactly the one in the Phase-5 prompt §1 (Phase-1 section).
 
-Run from repo root:  python _scripts_phase5/build_graph.py
+Run from repo root:  python scripts/build_graph.py
 Exit code 1 on any gate failure.
 """
 from __future__ import annotations

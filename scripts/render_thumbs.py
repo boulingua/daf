@@ -11,7 +11,7 @@ PPTX → PNG: LibreOffice headless (`soffice --headless --convert-to pdf`)
             for local Windows dev where soffice may not be on PATH;
             CI runs on Ubuntu which ships it.
 
-Run from repo root:  python _scripts_phase5/render_thumbs.py
+Run from repo root:  python scripts/render_thumbs.py
 """
 from __future__ import annotations
 

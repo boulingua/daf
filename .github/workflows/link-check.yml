@@ -45,7 +45,7 @@ jobs:
         run: pip install pyyaml
 
       - name: Build graph (so /network/graph.json exists)
-        run: python _scripts_phase5/build_graph.py
+        run: python scripts/build_graph.py
 
       - name: Build site
         env:

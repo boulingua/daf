@@ -11,7 +11,7 @@ Emits ::warning:: on every miss so the CI run shows them. Does NOT
 fail the build — registration is async (you can't generate a
 Zählmarke from CI). Exit 0 always.
 
-Run from repo root:  python _scripts_phase5/vgwort_audit.py
+Run from repo root:  python scripts/vgwort_audit.py
 """
 from __future__ import annotations
 

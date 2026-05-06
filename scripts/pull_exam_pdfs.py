@@ -7,7 +7,7 @@ Quarto deploy of boulingua.github.io/daf currently serves at
 Hugo cannot regenerate them (no LaTeX path), so we pull them in
 once as static assets, preserving the existing public URL exactly.
 
-Run from repo root:  python _scripts_migration/pull_exam_pdfs.py
+Run from repo root:  python scripts/pull_exam_pdfs.py
 """
 from __future__ import annotations
 

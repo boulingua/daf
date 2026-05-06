@@ -15,7 +15,7 @@ open in their respective applications. The PNG thumbnails are
 drawn directly with Pillow (independent of the .pptx/.pdf renderers
 to keep this script Windows-friendly with no Poppler dependency).
 
-Run from repo root:  python _scripts_migration/make_materials.py
+Run from repo root:  python scripts/make_materials.py
 """
 from __future__ import annotations
 

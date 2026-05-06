@@ -37,7 +37,7 @@ DaF Goethe → these gates apply:
 
 | Gate | Status |
 |---|---|
-| `_scripts_phase5/build_graph.py` — 5 graph/topic/tag CI gates | active in `hugo.yml` |
+| `scripts/build_graph.py` — 5 graph/topic/tag CI gates | active in `hugo.yml` |
 | Pagefind index built post-Hugo | active |
 | Plausible snippet present on `/` | active |
 | Plausible snippet present on `/materials/` | active |
@@ -51,8 +51,8 @@ DaF Goethe → these gates apply:
 
 | # | Item | Status |
 |---|---|---|
-| 1 | Author + date frontmatter on every page | done — `_scripts_phase5/inject_author_date.py`, 83 files patched |
-| 1' | Author-attribution build gate | done — `_scripts_phase5/verify_author_meta.py` (84 pages, 0 violations) |
+| 1 | Author + date frontmatter on every page | done — `scripts/inject_author_date.py`, 83 files patched |
+| 1' | Author-attribution build gate | done — `scripts/verify_author_meta.py` (84 pages, 0 violations) |
 | 2 | Plausible parameterisation | done — `params.plausible.{domain,src}` in hugo.toml |
 | 3 | CEFR enforcement | done — `verify_cefr.py` (60/60 pass) |
 | 4 | PDF metadata audit | done — `verify_pdf_metadata.py` (120/120 pass) |
@@ -89,6 +89,6 @@ build_graph.py → render_thumbs.py → verify_downloads.py
   → upload-pages-artifact → deploy
 ```
 
-Every step is reproducible via `python _scripts_phase5/<script>.py` from the repo root.
+Every step is reproducible via `python scripts/<script>.py` from the repo root.
 
 ---

@@ -4,7 +4,7 @@ verify_downloads.py — walk every unit article in content/ and
 verify that the .pptx, .pdf, .png and exam-PDF files its frontmatter
 points at all exist on disk under static/.
 
-Run from repo root:  python _scripts_phase5/verify_downloads.py
+Run from repo root:  python scripts/verify_downloads.py
 Exit 1 if any file is missing.
 """
 from __future__ import annotations

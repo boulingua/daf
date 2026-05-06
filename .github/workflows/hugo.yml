@@ -56,19 +56,19 @@ jobs:
         run: pip install pyyaml pymupdf pypdf
 
       - name: Build materials network graph + run Phase-1 gates
-        run: python _scripts_phase5/build_graph.py
+        run: python scripts/build_graph.py
 
       - name: Render material thumbnails from .pptx and .pdf
-        run: python _scripts_phase5/render_thumbs.py
+        run: python scripts/render_thumbs.py
 
       - name: Verify every download path resolves on disk
-        run: python _scripts_phase5/verify_downloads.py
+        run: python scripts/verify_downloads.py
 
       - name: Verify CEFR levels (Phase-6.3 gate)
-        run: python _scripts_phase5/verify_cefr.py
+        run: python scripts/verify_cefr.py
 
       - name: Verify PDF metadata attribution (Phase-6.6 gate)
-        run: python _scripts_phase5/verify_pdf_metadata.py
+        run: python scripts/verify_pdf_metadata.py
 
       - name: Check legal placeholders
         run: |
@@ -113,10 +113,10 @@ jobs:
           fi
 
       - name: Verify author meta on every content page (Phase-6.7 gate)
-        run: python _scripts_phase5/verify_author_meta.py
+        run: python scripts/verify_author_meta.py
 
       - name: QA basics — sitemap, RSS, robots.txt, 404 (Phase-7)
-        run: python _scripts_phase5/verify_qa_basics.py
+        run: python scripts/verify_qa_basics.py
 
       - name: Verify Plausible loads on /materials/
         run: |
@@ -163,7 +163,7 @@ jobs:
           kill $server_pid
 
       - name: Audit VG Wort Mindestumfang (warns; does not fail)
-        run: python _scripts_phase5/vgwort_audit.py
+        run: python scripts/vgwort_audit.py
 
       - name: Verify VG Wort pixels (manifest gate)
         run: |

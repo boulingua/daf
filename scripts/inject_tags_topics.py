@@ -14,7 +14,7 @@ is idempotent and reviewable:
 Unit→topic mapping is hand-curated once here (60 entries). Sister sites
 will need their own mapping; the helper structure is identical.
 
-Run from repo root:  python _scripts_phase5/inject_tags_topics.py
+Run from repo root:  python scripts/inject_tags_topics.py
 """
 from __future__ import annotations
 
