@@ -123,6 +123,18 @@ Topic labels in `data/topics.yml` are spec'd as `label_fr`, `label_en`, `label_d
 
 ## 6. Per-phase log
 
+### 2026-05-06 — Phase 5 complete (search + list view + sync)
+
+- **`assets/js/network/search.js`** (~2 KB minified) — debounced (80ms) search input. Imports Pagefind dynamically from `/pagefind/pagefind.js`. **Local-dev fallback:** if Pagefind isn't built, falls back to in-memory tag/title substring matching against the loaded `graph.json`, so the input still narrows the graph during development.
+- **Search semantics** — articles match if their URL is in Pagefind's result set. Presentations and worksheets match if their `parent_article` URL matches. Empty query = no constraint.
+- **Keyboard** — `/` from anywhere focuses the search box; `Esc` while focused clears + blurs.
+- **`assets/js/network/list.js`** (~2.5 KB minified) — renders cards under the graph from the visible-node set. Subscribes to `api.onChange`, re-renders on every state change. Articles span 2 cols, presentations/worksheets compact. Each card carries the topic-colour left border + a "Platzhalter" badge while `materials_status: placeholder` is set.
+- **Hover sync** — hovering a card calls `api.highlightNode(id, true)` which adds `is-hovered` to the corresponding Cytoscape node (gold ring per Phase-2 spec). Reverse direction (hover node → scroll list) deferred to Phase 6.
+- **Card click** — articles use plain `<a>` (browser handles); presentations/worksheets fire a synthetic `<a download>` click identical to the graph node behaviour.
+- **`main.js` refactor** — predicate composition moved into the store. `setFilterPredicate` and `setSearchPredicate` push state; one `recompute()` per change does a single Cytoscape batch + notifies subscribers. `applyFilter` kept as a back-compat shim.
+- **CI** — `hugo.yml` runs `npx -y pagefind@1.4.0 --site public --output-path public/pagefind` after the Hugo build. Phase-1 gate 5 (Pagefind index empty) now enforced — fails the build if `public/pagefind/pagefind.js` isn't produced.
+- **JS budget** — main 3.2 KB + filters 2.4 KB + list 2.5 KB + search 2.0 KB ≈ **10 KB** minified glue, plus Cytoscape (~150 KB gz from CDN) and Pagefind UI/runtime (~30 KB). Well inside the 90-KB-excluding-Cytoscape budget the prompt sets.
+
 ### 2026-05-06 — Phase 4 complete (filter rail + URL state)
 
 - **`assets/js/network/filters.js`** — second ESM module (no externals, ~1.6 KB minified). Holds a `FilterState` of four sets (type, course, topic, tag), parses URL on load, writes URL via `history.replaceState` on every change.

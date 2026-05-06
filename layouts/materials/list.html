@@ -19,6 +19,8 @@
            List view (Phase 5) and Pagefind search (Phase 5) still TODO. */}}
       {{ $graph := resources.Get "js/network/main.js" | js.Build (dict "format" "esm" "minify" true "externals" (slice "https://esm.sh/cytoscape@3.30.2" "https://esm.sh/cytoscape-fcose@2.2.0")) | fingerprint }}
       {{ $filters := resources.Get "js/network/filters.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $search := resources.Get "js/network/search.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $list := resources.Get "js/network/list.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
       <link rel="modulepreload" href="https://esm.sh/cytoscape@3.30.2">
       <link rel="modulepreload" href="https://esm.sh/cytoscape-fcose@2.2.0">
 
@@ -40,9 +42,10 @@
 
       <section class="network-page network-hub" aria-label="Materials network">
 
-        <div class="network-search">
+        <div class="network-search" data-network-search>
           <span aria-hidden="true">⌕</span>
-          <input type="search" placeholder="Suche kommt in Phase 5…" disabled>
+          <input type="search" placeholder="Suche lädt…" autocomplete="off" aria-label="Materialien durchsuchen">
+          <button type="button" data-action="search-clear" aria-label="Suche leeren">×</button>
           <button type="button" data-action="reset">Filter zurücksetzen</button>
         </div>
 
@@ -103,6 +106,8 @@
           <span><a href="{{ "/materials/preview/" | relURL }}">Layout-Vorschau</a></span>
         </div>
 
+        <div id="network-list" class="network-list" aria-live="polite"></div>
+
         {{/* a11y nav: always-rendered alphabetical list of all article URLs.
              Visually hidden on desktop, primary view on mobile (Phase 6
              will swap visibility rules). */}}
@@ -117,6 +122,8 @@
 
       <script type="module" src="{{ $graph.RelPermalink }}"></script>
       <script type="module" src="{{ $filters.RelPermalink }}"></script>
+      <script type="module" src="{{ $search.RelPermalink }}"></script>
+      <script type="module" src="{{ $list.RelPermalink }}"></script>
     {{ else }}
       {{/* Build the list of unit pages that have the relevant material. */}}
       {{- $field := cond $isPresentation "presentation" "worksheet" -}}

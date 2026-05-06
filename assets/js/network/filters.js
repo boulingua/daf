@@ -128,7 +128,7 @@ export function init(api, root) {
   };
 
   const apply = () => {
-    api.applyFilter((n) => state.passes(n));
+    api.setFilterPredicate((n) => state.passes(n));
     syncPressed();
     updateCounts();
     const qs = state.toQS();

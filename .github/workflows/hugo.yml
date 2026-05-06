@@ -62,12 +62,27 @@ jobs:
             fi
           fi
 
+      - name: Set up Node (for Pagefind)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: Europe/Berlin
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Build Pagefind index
+        run: npx -y pagefind@1.4.0 --site public --output-path public/pagefind
+
+      - name: Verify Pagefind index built (Phase-1 gate 5)
+        run: |
+          if [ ! -f public/pagefind/pagefind.js ]; then
+            echo "::error::Pagefind index missing (public/pagefind/pagefind.js not built)"
+            exit 1
+          fi
 
       - name: Verify Plausible snippet survived the build
         run: |

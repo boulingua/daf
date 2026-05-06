@@ -808,6 +808,21 @@ body.colorscheme-dark {
   .network-card.article { grid-column: span 1; }
 }
 
+.network-empty {
+  grid-column: 1 / -1;
+  padding: 2rem 1rem;
+  text-align: center;
+  color: var(--network-fg-mute);
+  border: 1px dashed var(--network-border);
+  border-radius: 8px;
+}
+
+.network-search [data-action="search-clear"] {
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0.2rem 0.55rem;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;

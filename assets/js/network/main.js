@@ -1,27 +1,13 @@
-/* Materials Discovery Network — Phase 3 entry module.
+/* Materials Discovery Network — entry module.
  *
- * Fetches /network/graph.json, mounts a Cytoscape force-directed graph
- * onto a `#network-mount` element, and re-paints when the user toggles
- * the Coder colour scheme. Filtering, search, and list↔graph sync are
- * Phases 4 and 5; this module only exposes a tiny `applyFilter` hook
- * those phases will consume.
+ * Boots Cytoscape, then exposes a tiny store on window.dafNetwork that
+ * filters.js, search.js, and list.js push state into. The store
+ * composes a single predicate (filter AND search) and runs one
+ * Cytoscape batch per change. Subscribers (the list view) get the
+ * resulting visible-node set.
  *
- * Library choice — Cytoscape.js with the fcose layout. Justification:
- *   • Handles 200–2000 nodes smoothly.
- *   • First-class CSS-style stylesheet model — we read CSS custom
- *     properties at render time so the dark/light swap is one
- *     `cy.style(...).update()` call.
- *   • Mature plugin ecosystem (fcose for clustered layouts) and
- *     keyboard-navigation extensions (added in Phase 6 for a11y).
- *   • Smaller / better maintained than D3-force for this exact
- *     non-temporal graph; sigma is faster but harder to style;
- *     vis-network has too opinionated a default.
- *
- * Loading model — Cytoscape ships from a CDN as ESM via
- * <link rel="modulepreload">; this module imports it by URL.
- * esbuild marks the URL specifier as external (Hugo `js.Build` with
- * `externals`) so the bundle stays small and the browser fetches
- * Cytoscape in parallel with the page.
+ * Library choice — Cytoscape.js with the fcose layout. (Justification
+ * in the Phase-3 commit.)
  */
 
 import cytoscape from 'https://esm.sh/cytoscape@3.30.2';
@@ -75,10 +61,7 @@ function buildStylesheet() {
         'text-margin-y': -8,
       },
     },
-    {
-      selector: 'node.is-dimmed',
-      style: { 'opacity': 0.12 },
-    },
+    { selector: 'node.is-dimmed', style: { 'opacity': 0.12 } },
     {
       selector: 'edge',
       style: {
@@ -87,10 +70,7 @@ function buildStylesheet() {
         'opacity': 0.35,
       },
     },
-    {
-      selector: 'edge[kind = "same-article"]',
-      style: { 'line-color': fg, 'opacity': 0.3 },
-    },
+    { selector: 'edge[kind = "same-article"]', style: { 'line-color': fg, 'opacity': 0.3 } },
     {
       selector: 'edge[kind = "shared-tags"]',
       style: {
@@ -98,10 +78,7 @@ function buildStylesheet() {
         'opacity': 0.18,
       },
     },
-    {
-      selector: 'edge.is-dimmed',
-      style: { 'opacity': 0.04 },
-    },
+    { selector: 'edge.is-dimmed', style: { 'opacity': 0.04 } },
   ];
 }
 
@@ -146,17 +123,15 @@ export async function init(mountEl) {
     pixelRatio: 'auto',
   });
 
-  // Click an article = navigate; click a presentation/worksheet = download.
   cy.on('tap', 'node', (evt) => {
     const n = evt.target;
-    const url = n.data('url');
-    if (!url) return;
-    const type = n.data('type');
-    if (type === 'article') {
-      window.location.href = url;
+    const u = n.data('url');
+    if (!u) return;
+    if (n.data('type') === 'article') {
+      window.location.href = u;
     } else {
       const a = document.createElement('a');
-      a.href = url;
+      a.href = u;
       a.download = '';
       document.body.appendChild(a);
       a.click();
@@ -164,38 +139,63 @@ export async function init(mountEl) {
     }
   });
 
-  // Light/dark theme swap — restyle on body.class change (Coder swaps
-  // colorscheme-light/dark there).
+  // Light/dark theme swap.
   const restyle = () => cy.style(buildStylesheet()).update();
-  const obs = new MutationObserver(restyle);
-  obs.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+  new MutationObserver(restyle).observe(document.body, {
+    attributes: true,
+    attributeFilter: ['class'],
+  });
 
-  // Tiny API the Phase-4 filter rail will consume.
+  // ── Composed-predicate store ─────────────────────────────────────
+  const pred = {
+    filter: () => true,
+    search: () => true,
+  };
+  const listeners = new Set();
+  let lastVisible = new Set();
+
+  function recompute() {
+    const visible = new Set();
+    cy.batch(() => {
+      cy.nodes().forEach((n) => {
+        const ok = pred.filter(n.data()) && pred.search(n.data());
+        n.toggleClass('is-dimmed', !ok);
+        if (ok) visible.add(n.id());
+      });
+      cy.edges().forEach((e) => {
+        const dim = e.source().hasClass('is-dimmed') || e.target().hasClass('is-dimmed');
+        e.toggleClass('is-dimmed', dim);
+      });
+    });
+    lastVisible = visible;
+    for (const cb of listeners) cb(visible);
+  }
+
+  function highlightNode(id, on) {
+    const n = cy.getElementById(id);
+    if (n && n.length) n.toggleClass('is-hovered', on);
+  }
+
   const api = {
     cy,
     data,
-    applyFilter(predicate) {
-      cy.batch(() => {
-        cy.nodes().forEach((n) => {
-          const ok = predicate(n.data());
-          n.toggleClass('is-dimmed', !ok);
-        });
-        cy.edges().forEach((e) => {
-          const s = e.source().hasClass('is-dimmed');
-          const t = e.target().hasClass('is-dimmed');
-          e.toggleClass('is-dimmed', s || t);
-        });
-      });
-    },
+    setFilterPredicate(fn) { pred.filter = fn || (() => true); recompute(); },
+    setSearchPredicate(fn) { pred.search = fn || (() => true); recompute(); },
     reset() {
-      cy.batch(() => cy.elements().removeClass('is-dimmed'));
+      pred.filter = () => true;
+      pred.search = () => true;
+      recompute();
     },
+    onChange(cb) { listeners.add(cb); cb(lastVisible); return () => listeners.delete(cb); },
+    highlightNode,
+    visibleIds: () => lastVisible,
+    // Back-compat shims for Phase-3 callers.
+    applyFilter(fn) { this.setFilterPredicate(fn); },
   };
   window.dafNetwork = api;
   return api;
 }
 
-// Auto-init if a mount is on the page.
 const mount = document.getElementById('network-mount');
 if (mount) {
   init(mount);
