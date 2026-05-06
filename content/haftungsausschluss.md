@@ -4,6 +4,8 @@ aliases:
 - /legal/disclaimer/
 - /disclaimer/
 - /haftungsausschluss.html
+author: S. Le Boulanger
+date: '2026-05-05T08:39:15+02:00'
 ---
 
 ## Haftung für Inhalte

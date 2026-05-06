@@ -3,6 +3,8 @@ title: Deutsch als Fremdsprache — von A1 bis C1
 page-layout: full
 aliases:
 - /index.html
+author: S. Le Boulanger
+date: '2026-05-06T10:44:03+02:00'
 ---
 
 <div class="hero-block">

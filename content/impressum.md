@@ -3,6 +3,8 @@ title: Impressum
 aliases:
 - /legal/impressum/
 - /impressum.html
+author: S. Le Boulanger
+date: '2026-05-04T19:53:22+02:00'
 ---
 
 ## Angaben gemäß § 5 DDG

@@ -3,6 +3,8 @@ title: Kurs A1 — Anfänger:innen
 aliases:
 - /kurs_a1/index.html
 - /kurs_a1/uebersicht.html
+author: S. Le Boulanger
+date: '2026-05-04T19:53:22+02:00'
 ---
 
 <div class="hero-kicker">

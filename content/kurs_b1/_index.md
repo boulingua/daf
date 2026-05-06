@@ -3,6 +3,8 @@ title: Kurs B1 — Selbstständig (untere Stufe)
 aliases:
 - /kurs_b1/index.html
 - /kurs_b1/uebersicht.html
+author: S. Le Boulanger
+date: '2026-05-04T19:53:22+02:00'
 ---
 
 <div class="hero-kicker">

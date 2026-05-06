@@ -30,6 +30,8 @@ tags:
 - skill-schreiben
 - topic-gesellschaft
 materials_status: placeholder
+author: S. Le Boulanger
+date: '2026-05-04T19:53:22+02:00'
 ---
 
 {{< callout type="note" >}}

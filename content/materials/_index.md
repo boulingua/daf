@@ -1,6 +1,8 @@
 ---
-title: "Materialien"
-description: "Foliensätze und Arbeitsblätter zu allen 60 DaF-Einheiten."
+title: Materialien
+description: Foliensätze und Arbeitsblätter zu allen 60 DaF-Einheiten.
+author: S. Le Boulanger
+date: '2026-05-06T11:06:27+02:00'
 ---
 
 Pro Einheit gibt es zwei begleitende Materialien:
