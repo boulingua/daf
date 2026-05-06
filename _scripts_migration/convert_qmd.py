@@ -61,6 +61,7 @@ def emit_frontmatter(fm: dict) -> str:
     fm = dict(fm)
     fm.pop("format", None)
     fm.pop("editor", None)
+    fm.pop("lang", None)  # Hugo derives language from site config
     # Merge subtitle into title at write-time (preserved nowhere lost).
     subtitle = fm.pop("subtitle", None)
     if subtitle and fm.get("title"):

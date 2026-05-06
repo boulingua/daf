@@ -1,0 +1,58 @@
+---
+title: Über
+---
+
+<div class="hero-kicker">
+DAF · BOULINGUA
+</div>
+
+Diese Seite ist die **DaF-Arbeit** (Deutsch als Fremdsprache) von
+**S. Le Boulanger**. Sie versammelt didaktische Einheiten und
+Prüfungsbeispiele entlang der Stufen des Gemeinsamen europäischen Referenzrahmens („GER“) A1, A2, B1, B2 und C1 —
+insgesamt 60 Einheiten — und stellt sie anderen Lehrenden und
+Lernenden offen zur Verfügung.
+
+## Autorin
+
+S. Le Boulanger ist Lehrende mit jahrelanger Erfahrung in
+DaF-Unterricht auf allen Stufen des Gemeinsamen europäischen Referenzrahmens („CEFR“). Die Materialien dieser Seite
+sind aus dem Unterricht gewachsen: jede Einheit wurde zuerst in
+einer realen Lerngruppe getestet, dann für die Veröffentlichung
+aufbereitet.
+
+Alle Inhalte — Texte, Transkripte, Übungen, Prüfungsaufgaben,
+Lösungen, Bewertungskriterien („Rubrics“) — stammen von S. Le Boulanger und sind
+CC-BY-SA 4.0 lizenziert (siehe `LICENSE-content` im Repository).
+Der zugrundeliegende Website-Code steht unter MIT (`LICENSE`).
+
+## Warum diese Seite existiert
+
+Lehrende im DaF-Bereich produzieren selten in Kollaboration — das
+meiste Material bleibt in privaten Ordnern. Diese Seite versucht,
+eine Gegenbewegung zu sein: offenes Material, klar lizenziert, in
+einem Format, das sich remixen, lokalisieren und erweitern lässt.
+
+## Was diese Seite nicht ist
+
+- **Keine offizielle Prüfungsanbieter-Seite.** Die Prüfungsbeispiele
+  orientieren sich formal an den öffentlich dokumentierten
+  Prüfungsformaten A1–C1, sind aber eigene didaktische Adaptionen
+  der Autorin und stehen in keinem offiziellen Zusammenhang mit
+  dem Prüfungsanbieter
+- **Keine Reproduktion kommerzieller Lehrwerke.** Keine Inhalte
+  aus Hueber, Klett, Cornelsen, Schubert, telc, Pons — auch nicht
+  „inspired by“. Originaltexte der Autorin.
+- **Keine vollständige Modellprüfungssimulation.** Jede Einheit
+  vertieft ein Modul; eine echte GER-Prüfung prüft alle vier
+  Module in einem Zeitblock. Dafür sind die Prüfungsanbieter-
+  Modellsätze die primäre Quelle.
+
+## Kontakt
+
+Fehlermeldungen, Vorschläge für Ressourcen, Lizenzfragen: siehe
+[Impressum](/impressum/) oder Issue im
+[Repository](https://github.com/boulingua/daf/issues).
+
+---
+
+*Siehe auch: [Start für neue Lernende](/start/) · [Übersicht](/uebersicht/) · [Prüfungsformate](/formate/).*

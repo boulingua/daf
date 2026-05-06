@@ -1,0 +1,86 @@
+---
+title: Danksagung
+---
+
+<div class="hero-kicker">
+DAF · DANKSAGUNG
+</div>
+
+Diese Seite ist aus Unterrichtsarbeit entstanden — aus
+Lerngruppen, Kolleg:innenrunden, Tool-Ketten und offenen
+Dokumentationsquellen. Diese Seite möchte dem ausdrücklich Rechnung
+tragen.
+
+## Didaktik und Sprachreflexion
+
+Die Einheiten dieser Seite wären ohne das Vorbild folgender
+Autor:innen und Werke nicht in dieser Form entstanden. Keine ihrer
+Texte sind kopiert — aber viele Lehrentscheidungen sind von ihnen
+inspiriert:
+
+- **Scott Thornbury** — *An A–Z of ELT*, *About Language*, Blog
+  „An A–Z of ELT“. Seine Haltung zum Text im Klassenzimmer
+  („text first, rule later“) liegt dem Input-Schritt jeder Einheit
+  zugrunde.
+- **Jim Scrivener** — *Learning Teaching*. Kategorisierung von
+  Übungstypen, klassische ELT-Techniken in DaF-Adaptionen.
+- **Penny Ur** — *A Course in Language Teaching*. Der
+  Übungsabschnitt jeder Einheit folgt ihrer pragmatischen
+  Taxonomie.
+- **Paul Nation** — Wortschatzdidaktik. Die Frequenz- und
+  Familien-Logik hinter der Wortschatzauswahl A1–B1 orientiert
+  sich an seinen Arbeiten.
+- **Britta Hufeisen, Gerhard Neuner, Hans-Jürgen Krumm** —
+  DaF-Didaktik im deutschsprachigen Raum, insbesondere
+  Mehrsprachigkeits- und Tertiärsprachenansätze.
+
+## Authentische Quellen
+
+- **Deutsche Welle — Learn German** (Lehrformate und Podcasts).
+- **3sat** und **ZDFkultur** Mediatheken (Kultur- und
+  Wissenschaftsbeiträge für B2/C1).
+- **Projekt Gutenberg-DE** (gemeinfreie Literatur).
+- **Wikimedia Commons** (gemeinfreies / CC-lizenziertes
+  Bildmaterial, wenn verwendet).
+
+## Werkzeuge
+
+- **[Quarto](https://quarto.org)** — Publishing-System.
+- **[Pandoc](https://pandoc.org)** — Dokumentkonvertierung.
+- **[Reveal.js](https://revealjs.com)** — Foliensätze aus `.qmd`.
+- **[Lucide Icons](https://lucide.dev)** (ISC-Lizenz) — die
+  Icon-Sprache dieser Site.
+- **Source Sans 3** (OFL) und **JetBrains Mono** (OFL) — die
+  beiden Schriften.
+- **[reportlab](https://www.reportlab.com)** (Python) — die
+  Platzhalter-Arbeitsblätter.
+- **[pypdf](https://pypdf.readthedocs.io)** — die CI-Prüfung der
+  Autor-Metadata.
+- **TinyTeX / TeX Live** — die Exam-PDFs.
+- **GitHub Actions** — die Pages-Deployment-Kette.
+
+## Strukturelle Inspiration
+
+Die Architektur „eine `.qmd`-Quelle, zwei Formate“ stammt aus der
+offiziellen Quarto-Dokumentation für Reveal.js-Parallelrendering.
+Das Farbschema `flatly`/`darkly` mit Override ist die
+konventionelle Bootswatch-Kombination; die konkrete Palette
+(`#1a73e8`, `#79b8ff`) wurde gewählt, damit die drei
+Schwesternsites EFL/FLE/DaF und der Ressourcen-Hub visuell
+ununterscheidbar bleiben.
+
+## Persönlich
+
+Ein Dank gebührt den Lerngruppen der vergangenen Jahre, an denen
+die meisten dieser Einheiten zuerst getestet wurden, und den
+Kolleg:innen, die Feedback zu einzelnen Formaten gegeben haben.
+Namen nur auf expliziten Wunsch.
+
+## Lizenz
+
+Der Website-Code steht unter **MIT** (`LICENSE` im Repository),
+die didaktischen und kuratorischen Inhalte unter
+**CC-BY-SA 4.0** (`LICENSE-content`). Zitate aus dem
+GER-Begleitband und aus Prüfungsanbieter-Publikationen bleiben
+Eigentum der jeweiligen Rechteinhaber und werden im Rahmen von
+Zitatrecht und Bildungszweck verwendet.
