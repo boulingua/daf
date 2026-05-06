@@ -3,7 +3,9 @@ title: Start
 ---
 
 <div class="hero-kicker">
+
 DAF · ERSTE SCHRITTE
+
 </div>
 
 Diese Seite richtet sich an zwei Gruppen gleichzeitig: Lehrende,

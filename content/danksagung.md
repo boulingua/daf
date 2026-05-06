@@ -3,7 +3,9 @@ title: Danksagung
 ---
 
 <div class="hero-kicker">
+
 DAF · DANKSAGUNG
+
 </div>
 
 Diese Seite ist aus Unterrichtsarbeit entstanden — aus

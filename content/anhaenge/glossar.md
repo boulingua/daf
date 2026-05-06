@@ -3,7 +3,9 @@ title: Glossar
 ---
 
 <div class="hero-kicker">
+
 DAF · GLOSSAR · ALPHABETISCH
+
 </div>
 
 Alphabetisches Glossar der DaF-, CEFR- und prüfungsspezifischen

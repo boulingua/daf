@@ -3,7 +3,9 @@ title: Kompetenzbaum
 ---
 
 <div class="hero-kicker">
+
 DAF · ANHANG
+
 </div>
 
 {{< callout type="note" >}}
@@ -11,6 +13,7 @@ DAF · ANHANG
 gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
 diese Seite quer durch das Material Links zu konkreten
 Unterrichtsstellen setzen.
+
 {{< /callout >}}
 
 Ein Mermaid-Entscheidungsbaum, der bei einem Skill-Bedarf (Hören / Lesen / Sprechen / Schreiben / sinngemäßes Übertragen zwischen Sprachen („Sprachmittlung“) / Sprachreflexion) direkt in die passenden Einheiten leitet — sortiert nach Stufe des Gemeinsamen europäischen Referenzrahmens („CEFR“).

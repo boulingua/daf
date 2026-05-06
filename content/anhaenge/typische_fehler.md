@@ -3,7 +3,9 @@ title: Typische Fehler
 ---
 
 <div class="hero-kicker">
+
 DAF · ANHANG
+
 </div>
 
 {{< callout type="note" >}}
@@ -11,6 +13,7 @@ DAF · ANHANG
 gefüllt, nachdem alle 60 Einheiten geschrieben sind. Dann kann
 diese Seite quer durch das Material Links zu konkreten
 Unterrichtsstellen setzen.
+
 {{< /callout >}}
 
 Systematische Sammlung typischer L1-Transfer-Fehler für DaF-Lernende aus dem englischen, französischen, türkischen, russischen, chinesischen und arabischen Sprachraum — nach Stufe des Gemeinsamen europäischen Referenzrahmens („CEFR“) geordnet, mit Korrekturstrategien.

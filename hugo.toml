@@ -21,7 +21,6 @@ enableEmoji = false
   author = "S. Le Boulanger"
   description = "Ein DaF-Kursangebot entlang des Gemeinsamen Europäischen Referenzrahmens, A1 bis C1, mit GER-Modellprüfung pro Einheit."
   keywords = "DaF,Deutsch als Fremdsprache,GER,CEFR,A1,A2,B1,B2,C1,Curriculum,OER"
-  info = ["Deutsch als Fremdsprache", "GER A1 – C1", "60 Einheiten · Prüfungsformate"]
   dateFormat = "2006-01-02"
   hideFooter = false
   hideCredits = false

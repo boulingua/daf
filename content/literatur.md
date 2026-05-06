@@ -3,7 +3,9 @@ title: Literatur
 ---
 
 <div class="hero-kicker">
+
 DAF · LITERATURVERZEICHNIS
+
 </div>
 
 # Literatur und Bezugspunkte

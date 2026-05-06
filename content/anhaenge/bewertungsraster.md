@@ -3,7 +3,9 @@ title: Bewertungsraster
 ---
 
 <div class="hero-kicker">
+
 DAF · BEWERTUNGSRASTER · A1–C1
+
 </div>
 
 Die offiziellen Bewertungsraster für **Schreiben** und

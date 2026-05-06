@@ -3,7 +3,9 @@ title: Über
 ---
 
 <div class="hero-kicker">
+
 DAF · BOULINGUA
+
 </div>
 
 Diese Seite ist die **DaF-Arbeit** (Deutsch als Fremdsprache) von

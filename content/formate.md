@@ -3,7 +3,9 @@ title: Prüfungsformate A1–C1
 ---
 
 <div class="hero-kicker">
+
 DAF · GER-PRÜFUNGSFORMATE · A1–C1
+
 </div>
 
 {{< callout type="warning" >}}
@@ -15,6 +17,7 @@ aber nicht zwingend mit einer konkreten Prüfungsfassung. Verbindlich
 sind allein die Originalpublikationen der jeweiligen
 Prüfungsanbieter — bibliografische Angaben siehe
 [Literatur](/literatur/).
+
 {{< /callout >}}
 
 ## Die fünf Prüfungsformate

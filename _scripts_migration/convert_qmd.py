@@ -138,18 +138,25 @@ def transform_callouts_and_divs(body: str) -> str:
                 stack.append(close)
                 continue
 
-            # Generic class wrapper -> div
+            # Generic class wrapper -> div. A blank line after the open
+            # tag is required for goldmark to keep parsing Markdown inside.
             cls = " ".join(classes) if classes else ""
             id_match = re.search(r"#([A-Za-z0-9_\-]+)", inside)
             id_attr = f' id="{id_match.group(1)}"' if id_match else ""
             out.append(
                 f'<div class="{cls}"{id_attr}>' if cls else f"<div{id_attr}>"
             )
+            out.append("")
             stack.append("</div>")
             continue
 
         if line.strip() == ":::" and stack:
-            out.append(stack.pop())
+            close = stack.pop()
+            # Same — close tag also needs a blank line before so the
+            # preceding markdown block ends cleanly.
+            if out and out[-1].strip() != "":
+                out.append("")
+            out.append(close)
             continue
 
         out.append(line)
