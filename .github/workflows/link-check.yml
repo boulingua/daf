@@ -47,11 +47,15 @@ jobs:
       - name: Build graph (so /network/graph.json exists)
         run: python scripts/build_graph.py
 
-      - name: Build site
+      - name: Build site (flat baseURL so href paths map 1:1 to public/)
         env:
           HUGO_ENVIRONMENT: production
           TZ: Europe/Berlin
-        run: hugo --minify --baseURL "https://boulingua.github.io/daf/"
+        # baseURL "/" makes Hugo emit '/foo/' hrefs that lychee resolves
+        # as <root-dir>/foo/index.html. The production deploy uses the
+        # full baseURL via .github/workflows/hugo.yml — this build is
+        # a throwaway just for link-checking.
+        run: hugo --minify --baseURL "/"
 
       - name: Restore lychee cache
         uses: actions/cache@v4
@@ -64,9 +68,6 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          # --root-dir resolves root-relative hrefs (/foo) to public/foo;
-          # --base is the URL prefix the live site is deployed under so
-          # absolute external checks line up with the canonical URLs.
           args: >-
             --no-progress
             --cache
@@ -74,7 +75,6 @@ jobs:
             --accept 200,206,301,302,308,429
             --exclude-path public/network
             --root-dir ${{ github.workspace }}/public
-            --base https://boulingua.github.io/daf/
             './public/**/*.html'
           fail: true
           jobSummary: true
@@ -84,21 +84,20 @@ jobs:
         # link directly. Pull them straight out of graph.json.
         run: |
           python - <<'PY' > /tmp/network-urls.txt
-          import json, pathlib, urllib.parse
-          base = "https://boulingua.github.io/daf"
+          import json, pathlib
           data = json.loads(pathlib.Path("public/network/graph.json").read_text(encoding="utf-8"))
           for n in data["nodes"]:
               u = n.get("url")
               if not u:
                   continue
-              # Already-absolute URLs pass through; relative ones get prefixed.
               if u.startswith("http"):
                   print(u)
               else:
-                  print(urllib.parse.urljoin(base + "/", u.lstrip("/")))
+                  # Produce live-deploy URLs for the network's article URLs;
+                  # local file resolution would need the daf/ prefix that we
+                  # explicitly stripped from this build, so check live instead.
+                  print("https://boulingua.github.io/daf" + u)
           PY
           npx -y lychee --no-progress --cache --max-cache-age 1d \
             --accept 200,206,301,302,308,429 \
-            --root-dir "${{ github.workspace }}/public" \
-            --base https://boulingua.github.io/daf/ \
             /tmp/network-urls.txt
