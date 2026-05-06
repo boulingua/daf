@@ -21,9 +21,22 @@ STATIC = REPO / "static"
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.S)
 
 
+SITE_PREFIX = "daf/"  # GitHub Pages project-pages path prefix; baked
+                      # into frontmatter URLs to satisfy Hugo's relURL.
+
+
 def static_path(url: str) -> Path:
-    """Map a /downloads/... or /materials/... URL to its static/ path."""
-    return STATIC / url.lstrip("/")
+    """Map a /<prefix>/foo URL to its static/foo path on disk.
+
+    Frontmatter stores '/daf/materials/foo.png' so Hugo's relURL
+    passes it through verbatim and the live HTML carries the right
+    GitHub-Pages-prefixed path. The actual file lives at
+    static/materials/foo.png — strip the leading /daf/ here.
+    """
+    rel = url.lstrip("/")
+    if rel.startswith(SITE_PREFIX):
+        rel = rel[len(SITE_PREFIX):]
+    return STATIC / rel
 
 
 def main() -> int:
