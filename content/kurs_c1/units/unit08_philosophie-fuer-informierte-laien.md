@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: philosophie-fuer-informierte-laien
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 presentation:
-  file: /materials/presentations/unit08_philosophie-fuer-informierte-laien.pptx
-  thumbnail: /materials/presentations/unit08_philosophie-fuer-informierte-laien.png
+  file: /daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.pptx
+  thumbnail: /daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.png
 worksheet:
-  file: /materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf
-  thumbnail: /materials/worksheets/unit08_philosophie-fuer-informierte-laien.png
+  file: /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf
+  thumbnail: /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien.png
 aliases:
 - /kurs_c1/units/unit08_philosophie-fuer-informierte-laien.html
 - /kurs_c1/units/unit08_slides.html

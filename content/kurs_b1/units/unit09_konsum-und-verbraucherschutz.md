@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: konsum-und-verbraucherschutz
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 presentation:
-  file: /materials/presentations/unit09_konsum-und-verbraucherschutz.pptx
-  thumbnail: /materials/presentations/unit09_konsum-und-verbraucherschutz.png
+  file: /daf/materials/presentations/unit09_konsum-und-verbraucherschutz.pptx
+  thumbnail: /daf/materials/presentations/unit09_konsum-und-verbraucherschutz.png
 worksheet:
-  file: /materials/worksheets/unit09_konsum-und-verbraucherschutz.pdf
-  thumbnail: /materials/worksheets/unit09_konsum-und-verbraucherschutz.png
+  file: /daf/materials/worksheets/unit09_konsum-und-verbraucherschutz.pdf
+  thumbnail: /daf/materials/worksheets/unit09_konsum-und-verbraucherschutz.png
 aliases:
 - /kurs_b1/units/unit09_konsum-und-verbraucherschutz.html
 - /kurs_b1/units/unit09_slides.html

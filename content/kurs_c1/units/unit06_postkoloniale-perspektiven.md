@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: postkoloniale-perspektiven
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit06_postkoloniale-perspektiven.pptx
-  thumbnail: /materials/presentations/unit06_postkoloniale-perspektiven.png
+  file: /daf/materials/presentations/unit06_postkoloniale-perspektiven.pptx
+  thumbnail: /daf/materials/presentations/unit06_postkoloniale-perspektiven.png
 worksheet:
-  file: /materials/worksheets/unit06_postkoloniale-perspektiven.pdf
-  thumbnail: /materials/worksheets/unit06_postkoloniale-perspektiven.png
+  file: /daf/materials/worksheets/unit06_postkoloniale-perspektiven.pdf
+  thumbnail: /daf/materials/worksheets/unit06_postkoloniale-perspektiven.png
 aliases:
 - /kurs_c1/units/unit06_postkoloniale-perspektiven.html
 - /kurs_c1/units/unit06_slides.html

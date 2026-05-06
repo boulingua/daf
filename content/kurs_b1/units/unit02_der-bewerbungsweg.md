@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: der-bewerbungsweg
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 presentation:
-  file: /materials/presentations/unit02_der-bewerbungsweg.pptx
-  thumbnail: /materials/presentations/unit02_der-bewerbungsweg.png
+  file: /daf/materials/presentations/unit02_der-bewerbungsweg.pptx
+  thumbnail: /daf/materials/presentations/unit02_der-bewerbungsweg.png
 worksheet:
-  file: /materials/worksheets/unit02_der-bewerbungsweg.pdf
-  thumbnail: /materials/worksheets/unit02_der-bewerbungsweg.png
+  file: /daf/materials/worksheets/unit02_der-bewerbungsweg.pdf
+  thumbnail: /daf/materials/worksheets/unit02_der-bewerbungsweg.png
 aliases:
 - /kurs_b1/units/unit02_der-bewerbungsweg.html
 - /kurs_b1/units/unit02_slides.html

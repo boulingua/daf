@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: bildungsdebatten
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit09_bildungsdebatten.pptx
-  thumbnail: /materials/presentations/unit09_bildungsdebatten.png
+  file: /daf/materials/presentations/unit09_bildungsdebatten.pptx
+  thumbnail: /daf/materials/presentations/unit09_bildungsdebatten.png
 worksheet:
-  file: /materials/worksheets/unit09_bildungsdebatten.pdf
-  thumbnail: /materials/worksheets/unit09_bildungsdebatten.png
+  file: /daf/materials/worksheets/unit09_bildungsdebatten.pdf
+  thumbnail: /daf/materials/worksheets/unit09_bildungsdebatten.png
 aliases:
 - /kurs_b2/units/unit09_bildungsdebatten.html
 - /kurs_b2/units/unit09_slides.html

@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: oekonomie-fuer-laien
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 presentation:
-  file: /materials/presentations/unit11_oekonomie-fuer-laien.pptx
-  thumbnail: /materials/presentations/unit11_oekonomie-fuer-laien.png
+  file: /daf/materials/presentations/unit11_oekonomie-fuer-laien.pptx
+  thumbnail: /daf/materials/presentations/unit11_oekonomie-fuer-laien.png
 worksheet:
-  file: /materials/worksheets/unit11_oekonomie-fuer-laien.pdf
-  thumbnail: /materials/worksheets/unit11_oekonomie-fuer-laien.png
+  file: /daf/materials/worksheets/unit11_oekonomie-fuer-laien.pdf
+  thumbnail: /daf/materials/worksheets/unit11_oekonomie-fuer-laien.png
 aliases:
 - /kurs_b2/units/unit11_oekonomie-fuer-laien.html
 - /kurs_b2/units/unit11_slides.html

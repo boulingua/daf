@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: essen-und-trinken
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit05_essen-und-trinken.pptx
-  thumbnail: /materials/presentations/unit05_essen-und-trinken.png
+  file: /daf/materials/presentations/unit05_essen-und-trinken.pptx
+  thumbnail: /daf/materials/presentations/unit05_essen-und-trinken.png
 worksheet:
-  file: /materials/worksheets/unit05_essen-und-trinken.pdf
-  thumbnail: /materials/worksheets/unit05_essen-und-trinken.png
+  file: /daf/materials/worksheets/unit05_essen-und-trinken.pdf
+  thumbnail: /daf/materials/worksheets/unit05_essen-und-trinken.png
 aliases:
 - /kurs_a1/units/unit05_essen-und-trinken.html
 - /kurs_a1/units/unit05_slides.html

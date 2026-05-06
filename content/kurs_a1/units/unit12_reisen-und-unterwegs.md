@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: reisen-und-unterwegs
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit12_reisen-und-unterwegs.pptx
-  thumbnail: /materials/presentations/unit12_reisen-und-unterwegs.png
+  file: /daf/materials/presentations/unit12_reisen-und-unterwegs.pptx
+  thumbnail: /daf/materials/presentations/unit12_reisen-und-unterwegs.png
 worksheet:
-  file: /materials/worksheets/unit12_reisen-und-unterwegs.pdf
-  thumbnail: /materials/worksheets/unit12_reisen-und-unterwegs.png
+  file: /daf/materials/worksheets/unit12_reisen-und-unterwegs.pdf
+  thumbnail: /daf/materials/worksheets/unit12_reisen-und-unterwegs.png
 aliases:
 - /kurs_a1/units/unit12_reisen-und-unterwegs.html
 - /kurs_a1/units/unit12_slides.html

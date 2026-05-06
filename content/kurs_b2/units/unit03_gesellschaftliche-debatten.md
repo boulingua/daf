@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: gesellschaftliche-debatten
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
 presentation:
-  file: /materials/presentations/unit03_gesellschaftliche-debatten.pptx
-  thumbnail: /materials/presentations/unit03_gesellschaftliche-debatten.png
+  file: /daf/materials/presentations/unit03_gesellschaftliche-debatten.pptx
+  thumbnail: /daf/materials/presentations/unit03_gesellschaftliche-debatten.png
 worksheet:
-  file: /materials/worksheets/unit03_gesellschaftliche-debatten.pdf
-  thumbnail: /materials/worksheets/unit03_gesellschaftliche-debatten.png
+  file: /daf/materials/worksheets/unit03_gesellschaftliche-debatten.pdf
+  thumbnail: /daf/materials/worksheets/unit03_gesellschaftliche-debatten.png
 aliases:
 - /kurs_b2/units/unit03_gesellschaftliche-debatten.html
 - /kurs_b2/units/unit03_slides.html

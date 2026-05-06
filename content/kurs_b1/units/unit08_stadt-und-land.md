@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: stadt-und-land
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit08_stadt-und-land.pptx
-  thumbnail: /materials/presentations/unit08_stadt-und-land.png
+  file: /daf/materials/presentations/unit08_stadt-und-land.pptx
+  thumbnail: /daf/materials/presentations/unit08_stadt-und-land.png
 worksheet:
-  file: /materials/worksheets/unit08_stadt-und-land.pdf
-  thumbnail: /materials/worksheets/unit08_stadt-und-land.png
+  file: /daf/materials/worksheets/unit08_stadt-und-land.pdf
+  thumbnail: /daf/materials/worksheets/unit08_stadt-und-land.png
 aliases:
 - /kurs_b1/units/unit08_stadt-und-land.html
 - /kurs_b1/units/unit08_slides.html

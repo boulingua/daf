@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: reiseplanung
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit05_reiseplanung.pptx
-  thumbnail: /materials/presentations/unit05_reiseplanung.png
+  file: /daf/materials/presentations/unit05_reiseplanung.pptx
+  thumbnail: /daf/materials/presentations/unit05_reiseplanung.png
 worksheet:
-  file: /materials/worksheets/unit05_reiseplanung.pdf
-  thumbnail: /materials/worksheets/unit05_reiseplanung.png
+  file: /daf/materials/worksheets/unit05_reiseplanung.pdf
+  thumbnail: /daf/materials/worksheets/unit05_reiseplanung.png
 aliases:
 - /kurs_a2/units/unit05_reiseplanung.html
 - /kurs_a2/units/unit05_slides.html

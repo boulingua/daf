@@ -16,11 +16,11 @@ pruefungs_module:
 unit_slug: neuanfang-in-basel
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 presentation:
-  file: /materials/presentations/unit01_neuanfang-in-basel.pptx
-  thumbnail: /materials/presentations/unit01_neuanfang-in-basel.png
+  file: /daf/materials/presentations/unit01_neuanfang-in-basel.pptx
+  thumbnail: /daf/materials/presentations/unit01_neuanfang-in-basel.png
 worksheet:
-  file: /materials/worksheets/unit01_neuanfang-in-basel.pdf
-  thumbnail: /materials/worksheets/unit01_neuanfang-in-basel.png
+  file: /daf/materials/worksheets/unit01_neuanfang-in-basel.pdf
+  thumbnail: /daf/materials/worksheets/unit01_neuanfang-in-basel.png
 aliases:
 - /kurs_b1/units/unit01_neuanfang-in-basel.html
 - /kurs_b1/units/unit01_slides.html

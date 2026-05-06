@@ -13,11 +13,11 @@ pruefungs_module:
 unit_slug: begruessung-und-name
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /materials/presentations/unit01_begruessung-und-name.pptx
-  thumbnail: /materials/presentations/unit01_begruessung-und-name.png
+  file: /daf/materials/presentations/unit01_begruessung-und-name.pptx
+  thumbnail: /daf/materials/presentations/unit01_begruessung-und-name.png
 worksheet:
-  file: /materials/worksheets/unit01_begruessung-und-name.pdf
-  thumbnail: /materials/worksheets/unit01_begruessung-und-name.png
+  file: /daf/materials/worksheets/unit01_begruessung-und-name.pdf
+  thumbnail: /daf/materials/worksheets/unit01_begruessung-und-name.png
 aliases:
 - /kurs_a1/units/unit01_begruessung-und-name.html
 - /kurs_a1/units/unit01_slides.html

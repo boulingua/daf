@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: gegenwartsliteratur
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 presentation:
-  file: /materials/presentations/unit12_gegenwartsliteratur.pptx
-  thumbnail: /materials/presentations/unit12_gegenwartsliteratur.png
+  file: /daf/materials/presentations/unit12_gegenwartsliteratur.pptx
+  thumbnail: /daf/materials/presentations/unit12_gegenwartsliteratur.png
 worksheet:
-  file: /materials/worksheets/unit12_gegenwartsliteratur.pdf
-  thumbnail: /materials/worksheets/unit12_gegenwartsliteratur.png
+  file: /daf/materials/worksheets/unit12_gegenwartsliteratur.pdf
+  thumbnail: /daf/materials/worksheets/unit12_gegenwartsliteratur.png
 aliases:
 - /kurs_c1/units/unit12_gegenwartsliteratur.html
 - /kurs_c1/units/unit12_slides.html

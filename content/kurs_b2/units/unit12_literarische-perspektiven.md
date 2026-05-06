@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: literarische-perspektiven
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 presentation:
-  file: /materials/presentations/unit12_literarische-perspektiven.pptx
-  thumbnail: /materials/presentations/unit12_literarische-perspektiven.png
+  file: /daf/materials/presentations/unit12_literarische-perspektiven.pptx
+  thumbnail: /daf/materials/presentations/unit12_literarische-perspektiven.png
 worksheet:
-  file: /materials/worksheets/unit12_literarische-perspektiven.pdf
-  thumbnail: /materials/worksheets/unit12_literarische-perspektiven.png
+  file: /daf/materials/worksheets/unit12_literarische-perspektiven.pdf
+  thumbnail: /daf/materials/worksheets/unit12_literarische-perspektiven.png
 aliases:
 - /kurs_b2/units/unit12_literarische-perspektiven.html
 - /kurs_b2/units/unit12_slides.html

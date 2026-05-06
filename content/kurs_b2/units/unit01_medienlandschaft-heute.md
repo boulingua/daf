@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: medienlandschaft-heute
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 presentation:
-  file: /materials/presentations/unit01_medienlandschaft-heute.pptx
-  thumbnail: /materials/presentations/unit01_medienlandschaft-heute.png
+  file: /daf/materials/presentations/unit01_medienlandschaft-heute.pptx
+  thumbnail: /daf/materials/presentations/unit01_medienlandschaft-heute.png
 worksheet:
-  file: /materials/worksheets/unit01_medienlandschaft-heute.pdf
-  thumbnail: /materials/worksheets/unit01_medienlandschaft-heute.png
+  file: /daf/materials/worksheets/unit01_medienlandschaft-heute.pdf
+  thumbnail: /daf/materials/worksheets/unit01_medienlandschaft-heute.png
 aliases:
 - /kurs_b2/units/unit01_medienlandschaft-heute.html
 - /kurs_b2/units/unit01_slides.html

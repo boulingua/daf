@@ -225,12 +225,12 @@ def update_unit_frontmatter(md: Path, level: str, unit_nr: int, slug: str) -> bo
 
     base = f"unit{unit_nr:02d}_{slug}"
     fm["presentation"] = {
-        "file": f"/materials/presentations/{base}.pptx",
-        "thumbnail": f"/materials/presentations/{base}.png",
+        "file": f"/daf/materials/presentations/{base}.pptx",
+        "thumbnail": f"/daf/materials/presentations/{base}.png",
     }
     fm["worksheet"] = {
-        "file": f"/materials/worksheets/{base}.pdf",
-        "thumbnail": f"/materials/worksheets/{base}.png",
+        "file": f"/daf/materials/worksheets/{base}.pdf",
+        "thumbnail": f"/daf/materials/worksheets/{base}.png",
     }
 
     new_fm = yaml.safe_dump(fm, allow_unicode=True, sort_keys=False).strip()

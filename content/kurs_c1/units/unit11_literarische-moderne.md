@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: literarische-moderne
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 presentation:
-  file: /materials/presentations/unit11_literarische-moderne.pptx
-  thumbnail: /materials/presentations/unit11_literarische-moderne.png
+  file: /daf/materials/presentations/unit11_literarische-moderne.pptx
+  thumbnail: /daf/materials/presentations/unit11_literarische-moderne.png
 worksheet:
-  file: /materials/worksheets/unit11_literarische-moderne.pdf
-  thumbnail: /materials/worksheets/unit11_literarische-moderne.png
+  file: /daf/materials/worksheets/unit11_literarische-moderne.pdf
+  thumbnail: /daf/materials/worksheets/unit11_literarische-moderne.png
 aliases:
 - /kurs_c1/units/unit11_literarische-moderne.html
 - /kurs_c1/units/unit11_slides.html

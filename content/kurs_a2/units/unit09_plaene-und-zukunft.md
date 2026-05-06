@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: plaene-und-zukunft
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 presentation:
-  file: /materials/presentations/unit09_plaene-und-zukunft.pptx
-  thumbnail: /materials/presentations/unit09_plaene-und-zukunft.png
+  file: /daf/materials/presentations/unit09_plaene-und-zukunft.pptx
+  thumbnail: /daf/materials/presentations/unit09_plaene-und-zukunft.png
 worksheet:
-  file: /materials/worksheets/unit09_plaene-und-zukunft.pdf
-  thumbnail: /materials/worksheets/unit09_plaene-und-zukunft.png
+  file: /daf/materials/worksheets/unit09_plaene-und-zukunft.pdf
+  thumbnail: /daf/materials/worksheets/unit09_plaene-und-zukunft.png
 aliases:
 - /kurs_a2/units/unit09_plaene-und-zukunft.html
 - /kurs_a2/units/unit09_slides.html
