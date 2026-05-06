@@ -35,82 +35,104 @@ enableEmoji = false
   weight = 1
   url = "https://github.com/boulingua/daf"
 
-# ── Top-level menu ─────────────────────────────────────────
+# ── Top-level menu (5 entries; deeper pages live under submenus) ─
+
 [[menu.main]]
   name = "Start"
   weight = 1
   url = "/"
 
-[[menu.main]]
-  name = "Über"
-  weight = 2
-  url = "/ueber/"
-
-[[menu.main]]
-  name = "Prüfungsformate"
-  weight = 3
-  url = "/formate/"
-
-[[menu.main]]
-  name = "Übersicht"
-  weight = 4
-  url = "/uebersicht/"
-
-# ── GER-Stufen submenu ─────────────────────────────────────
+# ── GER-Stufen ────────────────────────────────────────────
 [[menu.main]]
   name = "GER-Stufen"
-  weight = 5
+  weight = 2
   identifier = "ger-stufen"
 
 [[menu.main]]
   parent = "ger-stufen"
-  weight = 51
+  weight = 21
+  name = "Vollständige Übersicht"
+  url = "/uebersicht/"
+
+[[menu.main]]
+  parent = "ger-stufen"
+  weight = 22
   name = "A1 — Anfänger:innen"
   url = "/kurs_a1/"
 
 [[menu.main]]
   parent = "ger-stufen"
-  weight = 52
+  weight = 23
   name = "A2 — Grundlegende Kenntnisse"
   url = "/kurs_a2/"
 
 [[menu.main]]
   parent = "ger-stufen"
-  weight = 53
+  weight = 24
   name = "B1 — Selbstständig (untere Stufe)"
   url = "/kurs_b1/"
 
 [[menu.main]]
   parent = "ger-stufen"
-  weight = 54
+  weight = 25
   name = "B2 — Selbstständig (obere Stufe)"
   url = "/kurs_b2/"
 
 [[menu.main]]
   parent = "ger-stufen"
-  weight = 55
+  weight = 26
   name = "C1 — Kompetent"
   url = "/kurs_c1/"
 
-# ── Materialien submenu (Phase 3) ─────────────────────────
+# ── Materialien ───────────────────────────────────────────
 [[menu.main]]
   name = "Materialien"
-  weight = 6
+  weight = 3
   identifier = "materialien"
 
 [[menu.main]]
   parent = "materialien"
-  weight = 61
+  weight = 31
   name = "Foliensätze"
   url = "/materials/presentations/"
 
 [[menu.main]]
   parent = "materialien"
-  weight = 62
+  weight = 32
   name = "Arbeitsblätter"
   url = "/materials/worksheets/"
 
-# ── Rechtliches submenu ────────────────────────────────────
+# ── Über ──────────────────────────────────────────────────
+[[menu.main]]
+  name = "Über"
+  weight = 4
+  identifier = "ueber"
+
+[[menu.main]]
+  parent = "ueber"
+  weight = 41
+  name = "Über das Projekt"
+  url = "/ueber/"
+
+[[menu.main]]
+  parent = "ueber"
+  weight = 42
+  name = "Prüfungsformate"
+  url = "/formate/"
+
+[[menu.main]]
+  parent = "ueber"
+  weight = 43
+  name = "Literatur"
+  url = "/literatur/"
+
+[[menu.main]]
+  parent = "ueber"
+  weight = 44
+  name = "Danksagung"
+  url = "/danksagung/"
+
+# ── Rechtliches ───────────────────────────────────────────
 [[menu.main]]
   name = "Rechtliches"
   weight = 9
