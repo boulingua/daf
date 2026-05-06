@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: umwelt-und-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
+presentation:
+  file: /materials/presentations/unit11_umwelt-und-alltag.pptx
+  thumbnail: /materials/presentations/unit11_umwelt-und-alltag.png
+worksheet:
+  file: /materials/worksheets/unit11_umwelt-und-alltag.pdf
+  thumbnail: /materials/worksheets/unit11_umwelt-und-alltag.png
 ---
 
 {{< callout type="note" >}}

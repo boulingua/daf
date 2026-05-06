@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: wohnung-mieten
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit02_wohnung-mieten.pptx
+  thumbnail: /materials/presentations/unit02_wohnung-mieten.png
+worksheet:
+  file: /materials/worksheets/unit02_wohnung-mieten.pdf
+  thumbnail: /materials/worksheets/unit02_wohnung-mieten.png
 ---
 
 {{< callout type="note" >}}

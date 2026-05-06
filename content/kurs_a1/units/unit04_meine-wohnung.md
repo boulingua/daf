@@ -13,6 +13,12 @@ pruefungs_module:
 - schreiben
 unit_slug: meine-wohnung
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit04_meine-wohnung.pptx
+  thumbnail: /materials/presentations/unit04_meine-wohnung.png
+worksheet:
+  file: /materials/worksheets/unit04_meine-wohnung.pdf
+  thumbnail: /materials/worksheets/unit04_meine-wohnung.png
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,12 @@ pruefungs_module:
 - schreiben
 unit_slug: ethik-digitaler-technologien
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit10_ethik-digitaler-technologien.pptx
+  thumbnail: /materials/presentations/unit10_ethik-digitaler-technologien.png
+worksheet:
+  file: /materials/worksheets/unit10_ethik-digitaler-technologien.pdf
+  thumbnail: /materials/worksheets/unit10_ethik-digitaler-technologien.png
 ---
 
 {{< callout type="note" >}}

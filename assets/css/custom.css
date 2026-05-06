@@ -327,6 +327,80 @@ details.callout summary {
   aspect-ratio: 16 / 10;
 }
 
+/* ── Materials hub: filter chips ──────────────── */
+.materials-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1rem 0 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 8px;
+}
+
+.materials-filter .filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+.materials-filter .filter-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-right: 0.4rem;
+  min-width: 5rem;
+}
+
+.materials-filter input[type="search"] {
+  flex: 1;
+  min-width: 16rem;
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  font-size: 0.95rem;
+}
+
+.materials-filter input[type="search"]:focus {
+  outline: none;
+  border-color: var(--boulingua-accent);
+}
+
+.chip {
+  display: inline-block;
+  padding: 0.2rem 0.7rem;
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.chip:hover {
+  border-color: var(--boulingua-accent);
+}
+
+.chip.active {
+  background: var(--boulingua-accent);
+  border-color: var(--boulingua-accent);
+  color: #fff;
+}
+
+.chip-clear {
+  margin-left: auto;
+  border-style: dashed;
+}
+
+.materials-count {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-left: auto;
+}
+
 /* ── Speaker / presenter notes (Quarto .notes) ───*/
 .notes {
   font-size: 0.9rem;

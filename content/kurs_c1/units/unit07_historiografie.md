@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: historiografie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit07_historiografie.pptx
+  thumbnail: /materials/presentations/unit07_historiografie.png
+worksheet:
+  file: /materials/worksheets/unit07_historiografie.pdf
+  thumbnail: /materials/worksheets/unit07_historiografie.png
 ---
 
 {{< callout type="note" >}}

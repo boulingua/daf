@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: umwelt-und-mobilitaet
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit06_umwelt-und-mobilitaet.pptx
+  thumbnail: /materials/presentations/unit06_umwelt-und-mobilitaet.png
+worksheet:
+  file: /materials/worksheets/unit06_umwelt-und-mobilitaet.pdf
+  thumbnail: /materials/worksheets/unit06_umwelt-und-mobilitaet.png
 ---
 
 {{< callout type="note" >}}

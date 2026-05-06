@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: einkaufen-und-preise
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit06_einkaufen-und-preise.pptx
+  thumbnail: /materials/presentations/unit06_einkaufen-und-preise.png
+worksheet:
+  file: /materials/worksheets/unit06_einkaufen-und-preise.pdf
+  thumbnail: /materials/worksheets/unit06_einkaufen-und-preise.png
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,12 @@ pruefungs_module:
 - lesen
 unit_slug: arbeitssuche-und-stellenanzeige
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
+presentation:
+  file: /materials/presentations/unit01_arbeitssuche-und-stellenanzeige.pptx
+  thumbnail: /materials/presentations/unit01_arbeitssuche-und-stellenanzeige.png
+worksheet:
+  file: /materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.pdf
+  thumbnail: /materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.png
 ---
 
 {{< callout type="note" >}}

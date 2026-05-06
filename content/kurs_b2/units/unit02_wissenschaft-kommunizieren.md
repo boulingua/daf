@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: wissenschaft-kommunizieren
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
+presentation:
+  file: /materials/presentations/unit02_wissenschaft-kommunizieren.pptx
+  thumbnail: /materials/presentations/unit02_wissenschaft-kommunizieren.png
+worksheet:
+  file: /materials/worksheets/unit02_wissenschaft-kommunizieren.pdf
+  thumbnail: /materials/worksheets/unit02_wissenschaft-kommunizieren.png
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: wissenschaftstheorie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit03_wissenschaftstheorie.pptx
+  thumbnail: /materials/presentations/unit03_wissenschaftstheorie.png
+worksheet:
+  file: /materials/worksheets/unit03_wissenschaftstheorie.pdf
+  thumbnail: /materials/worksheets/unit03_wissenschaftstheorie.png
 ---
 
 {{< callout type="note" >}}

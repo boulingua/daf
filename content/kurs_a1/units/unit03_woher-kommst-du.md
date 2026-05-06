@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: woher-kommst-du
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit03_woher-kommst-du.pptx
+  thumbnail: /materials/presentations/unit03_woher-kommst-du.png
+worksheet:
+  file: /materials/worksheets/unit03_woher-kommst-du.pdf
+  thumbnail: /materials/worksheets/unit03_woher-kommst-du.png
 ---
 
 {{< callout type="note" >}}

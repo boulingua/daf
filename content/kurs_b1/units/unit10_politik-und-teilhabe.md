@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: politik-und-teilhabe
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit10_politik-und-teilhabe.pptx
+  thumbnail: /materials/presentations/unit10_politik-und-teilhabe.png
+worksheet:
+  file: /materials/worksheets/unit10_politik-und-teilhabe.pdf
+  thumbnail: /materials/worksheets/unit10_politik-und-teilhabe.png
 ---
 
 {{< callout type="note" >}}

@@ -14,6 +14,12 @@ pruefungs_module:
 - sprechen
 unit_slug: literarische-moderne
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit11_literarische-moderne.pptx
+  thumbnail: /materials/presentations/unit11_literarische-moderne.png
+worksheet:
+  file: /materials/worksheets/unit11_literarische-moderne.pdf
+  thumbnail: /materials/worksheets/unit11_literarische-moderne.png
 ---
 
 {{< callout type="note" >}}

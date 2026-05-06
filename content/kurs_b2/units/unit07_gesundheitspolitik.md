@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: gesundheitspolitik
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit07_gesundheitspolitik.pptx
+  thumbnail: /materials/presentations/unit07_gesundheitspolitik.png
+worksheet:
+  file: /materials/worksheets/unit07_gesundheitspolitik.pdf
+  thumbnail: /materials/worksheets/unit07_gesundheitspolitik.png
 ---
 
 {{< callout type="note" >}}

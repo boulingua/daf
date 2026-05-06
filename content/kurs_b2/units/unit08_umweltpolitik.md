@@ -13,6 +13,12 @@ pruefungs_module:
 - schreiben
 unit_slug: umweltpolitik
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit08_umweltpolitik.pptx
+  thumbnail: /materials/presentations/unit08_umweltpolitik.png
+worksheet:
+  file: /materials/worksheets/unit08_umweltpolitik.pdf
+  thumbnail: /materials/worksheets/unit08_umweltpolitik.png
 ---
 
 {{< callout type="note" >}}

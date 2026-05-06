@@ -13,6 +13,12 @@ pruefungs_module:
 - schreiben
 unit_slug: uhrzeit-und-wochenplan
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit07_uhrzeit-und-wochenplan.pptx
+  thumbnail: /materials/presentations/unit07_uhrzeit-und-wochenplan.png
+worksheet:
+  file: /materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf
+  thumbnail: /materials/worksheets/unit07_uhrzeit-und-wochenplan.png
 ---
 
 {{< callout type="note" >}}

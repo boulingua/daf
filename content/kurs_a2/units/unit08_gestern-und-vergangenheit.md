@@ -13,6 +13,12 @@ pruefungs_module:
 - schreiben
 unit_slug: gestern-und-vergangenheit
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit08_gestern-und-vergangenheit.pptx
+  thumbnail: /materials/presentations/unit08_gestern-und-vergangenheit.png
+worksheet:
+  file: /materials/worksheets/unit08_gestern-und-vergangenheit.pdf
+  thumbnail: /materials/worksheets/unit08_gestern-und-vergangenheit.png
 ---
 
 {{< callout type="note" >}}

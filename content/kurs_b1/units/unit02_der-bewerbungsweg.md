@@ -14,6 +14,12 @@ pruefungs_module:
 - schreiben
 unit_slug: der-bewerbungsweg
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit02_der-bewerbungsweg.pptx
+  thumbnail: /materials/presentations/unit02_der-bewerbungsweg.png
+worksheet:
+  file: /materials/worksheets/unit02_der-bewerbungsweg.pdf
+  thumbnail: /materials/worksheets/unit02_der-bewerbungsweg.png
 ---
 
 {{< callout type="note" >}}

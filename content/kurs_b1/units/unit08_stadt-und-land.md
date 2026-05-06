@@ -13,6 +13,12 @@ pruefungs_module:
 - lesen
 unit_slug: stadt-und-land
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
+presentation:
+  file: /materials/presentations/unit08_stadt-und-land.pptx
+  thumbnail: /materials/presentations/unit08_stadt-und-land.png
+worksheet:
+  file: /materials/worksheets/unit08_stadt-und-land.pdf
+  thumbnail: /materials/worksheets/unit08_stadt-und-land.png
 ---
 
 {{< callout type="note" >}}

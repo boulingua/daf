@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: meine-freizeit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit11_meine-freizeit.pptx
+  thumbnail: /materials/presentations/unit11_meine-freizeit.png
+worksheet:
+  file: /materials/worksheets/unit11_meine-freizeit.pdf
+  thumbnail: /materials/worksheets/unit11_meine-freizeit.png
 ---
 
 {{< callout type="note" >}}

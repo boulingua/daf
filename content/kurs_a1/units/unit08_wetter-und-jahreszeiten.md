@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: wetter-und-jahreszeiten
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit08_wetter-und-jahreszeiten.pptx
+  thumbnail: /materials/presentations/unit08_wetter-und-jahreszeiten.png
+worksheet:
+  file: /materials/worksheets/unit08_wetter-und-jahreszeiten.pdf
+  thumbnail: /materials/worksheets/unit08_wetter-und-jahreszeiten.png
 ---
 
 {{< callout type="note" >}}

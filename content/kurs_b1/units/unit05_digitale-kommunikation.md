@@ -13,6 +13,12 @@ pruefungs_module:
 - schreiben
 unit_slug: digitale-kommunikation
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
+presentation:
+  file: /materials/presentations/unit05_digitale-kommunikation.pptx
+  thumbnail: /materials/presentations/unit05_digitale-kommunikation.png
+worksheet:
+  file: /materials/worksheets/unit05_digitale-kommunikation.pdf
+  thumbnail: /materials/worksheets/unit05_digitale-kommunikation.png
 ---
 
 {{< callout type="note" >}}

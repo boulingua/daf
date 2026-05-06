@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: plaene-und-zukunft
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit09_plaene-und-zukunft.pptx
+  thumbnail: /materials/presentations/unit09_plaene-und-zukunft.png
+worksheet:
+  file: /materials/worksheets/unit09_plaene-und-zukunft.pdf
+  thumbnail: /materials/worksheets/unit09_plaene-und-zukunft.png
 ---
 
 {{< callout type="note" >}}

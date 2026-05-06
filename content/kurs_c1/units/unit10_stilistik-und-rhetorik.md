@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: stilistik-und-rhetorik
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit10_stilistik-und-rhetorik.pptx
+  thumbnail: /materials/presentations/unit10_stilistik-und-rhetorik.png
+worksheet:
+  file: /materials/worksheets/unit10_stilistik-und-rhetorik.pdf
+  thumbnail: /materials/worksheets/unit10_stilistik-und-rhetorik.png
 ---
 
 {{< callout type="note" >}}

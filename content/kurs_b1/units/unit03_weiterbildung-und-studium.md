@@ -14,6 +14,12 @@ pruefungs_module:
 - lesen
 unit_slug: weiterbildung-und-studium
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
+presentation:
+  file: /materials/presentations/unit03_weiterbildung-und-studium.pptx
+  thumbnail: /materials/presentations/unit03_weiterbildung-und-studium.png
+worksheet:
+  file: /materials/worksheets/unit03_weiterbildung-und-studium.pdf
+  thumbnail: /materials/worksheets/unit03_weiterbildung-und-studium.png
 ---
 
 {{< callout type="note" >}}

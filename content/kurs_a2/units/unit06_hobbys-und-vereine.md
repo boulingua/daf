@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: hobbys-und-vereine
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit06_hobbys-und-vereine.pptx
+  thumbnail: /materials/presentations/unit06_hobbys-und-vereine.png
+worksheet:
+  file: /materials/worksheets/unit06_hobbys-und-vereine.pdf
+  thumbnail: /materials/worksheets/unit06_hobbys-und-vereine.png
 ---
 
 {{< callout type="note" >}}

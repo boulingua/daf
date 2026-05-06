@@ -13,6 +13,12 @@ pruefungs_module:
 - hören
 unit_slug: zukunftsvisionen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
+presentation:
+  file: /materials/presentations/unit12_zukunftsvisionen.pptx
+  thumbnail: /materials/presentations/unit12_zukunftsvisionen.png
+worksheet:
+  file: /materials/worksheets/unit12_zukunftsvisionen.pdf
+  thumbnail: /materials/worksheets/unit12_zukunftsvisionen.png
 ---
 
 {{< callout type="note" >}}

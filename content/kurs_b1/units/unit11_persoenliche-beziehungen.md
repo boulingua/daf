@@ -13,6 +13,12 @@ pruefungs_module:
 - lesen
 unit_slug: persoenliche-beziehungen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
+presentation:
+  file: /materials/presentations/unit11_persoenliche-beziehungen.pptx
+  thumbnail: /materials/presentations/unit11_persoenliche-beziehungen.png
+worksheet:
+  file: /materials/worksheets/unit11_persoenliche-beziehungen.pdf
+  thumbnail: /materials/worksheets/unit11_persoenliche-beziehungen.png
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,12 @@ pruefungs_module:
 - lesen
 unit_slug: feste-und-traditionen
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
+presentation:
+  file: /materials/presentations/unit07_feste-und-traditionen.pptx
+  thumbnail: /materials/presentations/unit07_feste-und-traditionen.png
+worksheet:
+  file: /materials/worksheets/unit07_feste-und-traditionen.pdf
+  thumbnail: /materials/worksheets/unit07_feste-und-traditionen.png
 ---
 
 {{< callout type="note" >}}

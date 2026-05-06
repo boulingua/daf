@@ -13,6 +13,12 @@ pruefungs_module:
 - sprechen
 unit_slug: arbeitswelt-im-wandel
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
+presentation:
+  file: /materials/presentations/unit04_arbeitswelt-im-wandel.pptx
+  thumbnail: /materials/presentations/unit04_arbeitswelt-im-wandel.png
+worksheet:
+  file: /materials/worksheets/unit04_arbeitswelt-im-wandel.pdf
+  thumbnail: /materials/worksheets/unit04_arbeitswelt-im-wandel.png
 ---
 
 {{< callout type="note" >}}
