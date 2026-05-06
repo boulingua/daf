@@ -35,51 +35,46 @@ enableEmoji = false
   weight = 1
   url = "https://github.com/boulingua/daf"
 
-# ── Top-level menu (5 entries; deeper pages live under submenus) ─
+# ── Top-level menu (4 entries; Start lives behind the navbar brand) ─
 
+# ── Stufen ────────────────────────────────────────────────
 [[menu.main]]
-  name = "Start"
-  weight = 1
-  url = "/"
-
-# ── GER-Stufen ────────────────────────────────────────────
-[[menu.main]]
-  name = "GER-Stufen"
+  name = "Stufen"
   weight = 2
-  identifier = "ger-stufen"
+  identifier = "stufen"
 
 [[menu.main]]
-  parent = "ger-stufen"
+  parent = "stufen"
   weight = 21
   name = "Vollständige Übersicht"
   url = "/uebersicht/"
 
 [[menu.main]]
-  parent = "ger-stufen"
+  parent = "stufen"
   weight = 22
   name = "A1 — Anfänger:innen"
   url = "/kurs_a1/"
 
 [[menu.main]]
-  parent = "ger-stufen"
+  parent = "stufen"
   weight = 23
   name = "A2 — Grundlegende Kenntnisse"
   url = "/kurs_a2/"
 
 [[menu.main]]
-  parent = "ger-stufen"
+  parent = "stufen"
   weight = 24
   name = "B1 — Selbstständig (untere Stufe)"
   url = "/kurs_b1/"
 
 [[menu.main]]
-  parent = "ger-stufen"
+  parent = "stufen"
   weight = 25
   name = "B2 — Selbstständig (obere Stufe)"
   url = "/kurs_b2/"
 
 [[menu.main]]
-  parent = "ger-stufen"
+  parent = "stufen"
   weight = 26
   name = "C1 — Kompetent"
   url = "/kurs_c1/"
@@ -102,32 +97,32 @@ enableEmoji = false
   name = "Arbeitsblätter"
   url = "/materials/worksheets/"
 
-# ── Über ──────────────────────────────────────────────────
+# ── About ─────────────────────────────────────────────────
 [[menu.main]]
-  name = "Über"
+  name = "About"
   weight = 4
-  identifier = "ueber"
+  identifier = "about"
 
 [[menu.main]]
-  parent = "ueber"
+  parent = "about"
   weight = 41
   name = "Über das Projekt"
   url = "/ueber/"
 
 [[menu.main]]
-  parent = "ueber"
+  parent = "about"
   weight = 42
   name = "Prüfungsformate"
   url = "/formate/"
 
 [[menu.main]]
-  parent = "ueber"
+  parent = "about"
   weight = 43
   name = "Literatur"
   url = "/literatur/"
 
 [[menu.main]]
-  parent = "ueber"
+  parent = "about"
   weight = 44
   name = "Danksagung"
   url = "/danksagung/"
