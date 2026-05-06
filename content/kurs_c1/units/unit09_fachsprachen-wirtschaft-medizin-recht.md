@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.pdf
   thumbnail: /materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.png
+aliases:
+- /kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht.html
+- /kurs_c1/units/unit09_slides.html
 ---
 
 {{< callout type="note" >}}

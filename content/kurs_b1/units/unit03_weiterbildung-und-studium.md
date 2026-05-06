@@ -20,6 +20,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit03_weiterbildung-und-studium.pdf
   thumbnail: /materials/worksheets/unit03_weiterbildung-und-studium.png
+aliases:
+- /kurs_b1/units/unit03_weiterbildung-und-studium.html
+- /kurs_b1/units/unit03_slides.html
 ---
 
 {{< callout type="note" >}}

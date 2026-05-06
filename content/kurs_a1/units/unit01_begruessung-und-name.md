@@ -18,6 +18,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit01_begruessung-und-name.pdf
   thumbnail: /materials/worksheets/unit01_begruessung-und-name.png
+aliases:
+- /kurs_a1/units/unit01_begruessung-und-name.html
+- /kurs_a1/units/unit01_slides.html
 ---
 
 {{< callout type="note" >}}

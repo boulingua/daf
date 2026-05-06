@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit09_bildungsdebatten.pdf
   thumbnail: /materials/worksheets/unit09_bildungsdebatten.png
+aliases:
+- /kurs_b2/units/unit09_bildungsdebatten.html
+- /kurs_b2/units/unit09_slides.html
 ---
 
 {{< callout type="note" >}}

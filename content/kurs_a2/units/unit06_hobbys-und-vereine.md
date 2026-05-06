@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit06_hobbys-und-vereine.pdf
   thumbnail: /materials/worksheets/unit06_hobbys-und-vereine.png
+aliases:
+- /kurs_a2/units/unit06_hobbys-und-vereine.html
+- /kurs_a2/units/unit06_slides.html
 ---
 
 {{< callout type="note" >}}

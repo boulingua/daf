@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit12_gegenwartsliteratur.pdf
   thumbnail: /materials/worksheets/unit12_gegenwartsliteratur.png
+aliases:
+- /kurs_c1/units/unit12_gegenwartsliteratur.html
+- /kurs_c1/units/unit12_slides.html
 ---
 
 {{< callout type="note" >}}

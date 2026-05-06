@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit03_woher-kommst-du.pdf
   thumbnail: /materials/worksheets/unit03_woher-kommst-du.png
+aliases:
+- /kurs_a1/units/unit03_woher-kommst-du.html
+- /kurs_a1/units/unit03_slides.html
 ---
 
 {{< callout type="note" >}}

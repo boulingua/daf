@@ -1,5 +1,7 @@
 ---
 title: Über
+aliases:
+- /ueber.html
 ---
 
 <div class="hero-kicker">

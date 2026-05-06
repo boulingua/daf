@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit12_literarische-perspektiven.pdf
   thumbnail: /materials/worksheets/unit12_literarische-perspektiven.png
+aliases:
+- /kurs_b2/units/unit12_literarische-perspektiven.html
+- /kurs_b2/units/unit12_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit11_oekonomie-fuer-laien.pdf
   thumbnail: /materials/worksheets/unit11_oekonomie-fuer-laien.png
+aliases:
+- /kurs_b2/units/unit11_oekonomie-fuer-laien.html
+- /kurs_b2/units/unit11_slides.html
 ---
 
 {{< callout type="note" >}}

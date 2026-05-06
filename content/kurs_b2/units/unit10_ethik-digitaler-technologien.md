@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit10_ethik-digitaler-technologien.pdf
   thumbnail: /materials/worksheets/unit10_ethik-digitaler-technologien.png
+aliases:
+- /kurs_b2/units/unit10_ethik-digitaler-technologien.html
+- /kurs_b2/units/unit10_slides.html
 ---
 
 {{< callout type="note" >}}

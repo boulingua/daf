@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit10_mein-beruf.pdf
   thumbnail: /materials/worksheets/unit10_mein-beruf.png
+aliases:
+- /kurs_a1/units/unit10_mein-beruf.html
+- /kurs_a1/units/unit10_slides.html
 ---
 
 {{< callout type="note" >}}

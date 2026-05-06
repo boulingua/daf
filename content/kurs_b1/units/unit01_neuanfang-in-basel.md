@@ -21,6 +21,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit01_neuanfang-in-basel.pdf
   thumbnail: /materials/worksheets/unit01_neuanfang-in-basel.png
+aliases:
+- /kurs_b1/units/unit01_neuanfang-in-basel.html
+- /kurs_b1/units/unit01_slides.html
 ---
 
 {{< callout type="note" >}}

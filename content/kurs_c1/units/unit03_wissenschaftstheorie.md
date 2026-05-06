@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit03_wissenschaftstheorie.pdf
   thumbnail: /materials/worksheets/unit03_wissenschaftstheorie.png
+aliases:
+- /kurs_c1/units/unit03_wissenschaftstheorie.html
+- /kurs_c1/units/unit03_slides.html
 ---
 
 {{< callout type="note" >}}

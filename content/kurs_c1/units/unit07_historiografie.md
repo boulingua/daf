@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit07_historiografie.pdf
   thumbnail: /materials/worksheets/unit07_historiografie.png
+aliases:
+- /kurs_c1/units/unit07_historiografie.html
+- /kurs_c1/units/unit07_slides.html
 ---
 
 {{< callout type="note" >}}

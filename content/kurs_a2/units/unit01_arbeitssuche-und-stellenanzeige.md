@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.pdf
   thumbnail: /materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.png
+aliases:
+- /kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige.html
+- /kurs_a2/units/unit01_slides.html
 ---
 
 {{< callout type="note" >}}

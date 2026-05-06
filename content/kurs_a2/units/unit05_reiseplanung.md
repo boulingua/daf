@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit05_reiseplanung.pdf
   thumbnail: /materials/worksheets/unit05_reiseplanung.png
+aliases:
+- /kurs_a2/units/unit05_reiseplanung.html
+- /kurs_a2/units/unit05_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -1,5 +1,7 @@
 ---
 title: Lernstrategien
+aliases:
+- /anhaenge/lernstrategien.html
 ---
 
 <div class="hero-kicker">

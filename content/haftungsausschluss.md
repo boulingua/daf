@@ -3,6 +3,7 @@ title: Haftungsausschluss
 aliases:
 - /legal/disclaimer/
 - /disclaimer/
+- /haftungsausschluss.html
 ---
 
 ## Haftung für Inhalte

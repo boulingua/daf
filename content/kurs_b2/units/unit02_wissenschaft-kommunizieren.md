@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit02_wissenschaft-kommunizieren.pdf
   thumbnail: /materials/worksheets/unit02_wissenschaft-kommunizieren.png
+aliases:
+- /kurs_b2/units/unit02_wissenschaft-kommunizieren.html
+- /kurs_b2/units/unit02_slides.html
 ---
 
 {{< callout type="note" >}}

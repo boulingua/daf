@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit12_zukunftsvisionen.pdf
   thumbnail: /materials/worksheets/unit12_zukunftsvisionen.png
+aliases:
+- /kurs_b1/units/unit12_zukunftsvisionen.html
+- /kurs_b1/units/unit12_slides.html
 ---
 
 {{< callout type="note" >}}

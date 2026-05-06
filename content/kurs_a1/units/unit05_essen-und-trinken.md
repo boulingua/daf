@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit05_essen-und-trinken.pdf
   thumbnail: /materials/worksheets/unit05_essen-und-trinken.png
+aliases:
+- /kurs_a1/units/unit05_essen-und-trinken.html
+- /kurs_a1/units/unit05_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit08_stadt-und-land.pdf
   thumbnail: /materials/worksheets/unit08_stadt-und-land.png
+aliases:
+- /kurs_b1/units/unit08_stadt-und-land.html
+- /kurs_b1/units/unit08_slides.html
 ---
 
 {{< callout type="note" >}}

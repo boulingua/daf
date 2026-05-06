@@ -1,9 +1,12 @@
-# Quarto build artifacts
+# Hugo build artefacts
+public/
+resources/
+.hugo_build.lock
+
+# Quarto build artefacts (kept during migration; can drop after Phase 4)
 _site/
 _freeze/
 .quarto/
-
-# Generated Pages artifact
 docs/
 
 # Generated placeholder downloads (CI rebuilds on every run)

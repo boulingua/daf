@@ -20,6 +20,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit02_der-bewerbungsweg.pdf
   thumbnail: /materials/worksheets/unit02_der-bewerbungsweg.png
+aliases:
+- /kurs_b1/units/unit02_der-bewerbungsweg.html
+- /kurs_b1/units/unit02_slides.html
 ---
 
 {{< callout type="note" >}}

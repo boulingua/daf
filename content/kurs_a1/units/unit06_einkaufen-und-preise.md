@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit06_einkaufen-und-preise.pdf
   thumbnail: /materials/worksheets/unit06_einkaufen-und-preise.png
+aliases:
+- /kurs_a1/units/unit06_einkaufen-und-preise.html
+- /kurs_a1/units/unit06_slides.html
 ---
 
 {{< callout type="note" >}}

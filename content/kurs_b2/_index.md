@@ -1,5 +1,8 @@
 ---
 title: Kurs B2 — Selbstständig (obere Stufe)
+aliases:
+- /kurs_b2/index.html
+- /kurs_b2/uebersicht.html
 ---
 
 <div class="hero-kicker">

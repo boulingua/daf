@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit12_reisen-und-unterwegs.pdf
   thumbnail: /materials/worksheets/unit12_reisen-und-unterwegs.png
+aliases:
+- /kurs_a1/units/unit12_reisen-und-unterwegs.html
+- /kurs_a1/units/unit12_slides.html
 ---
 
 {{< callout type="note" >}}

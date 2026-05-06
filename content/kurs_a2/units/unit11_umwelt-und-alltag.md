@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit11_umwelt-und-alltag.pdf
   thumbnail: /materials/worksheets/unit11_umwelt-und-alltag.png
+aliases:
+- /kurs_a2/units/unit11_umwelt-und-alltag.html
+- /kurs_a2/units/unit11_slides.html
 ---
 
 {{< callout type="note" >}}

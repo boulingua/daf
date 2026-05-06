@@ -1,5 +1,7 @@
 ---
 title: Literatur
+aliases:
+- /literatur.html
 ---
 
 <div class="hero-kicker">

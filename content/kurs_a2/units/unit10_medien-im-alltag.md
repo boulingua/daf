@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit10_medien-im-alltag.pdf
   thumbnail: /materials/worksheets/unit10_medien-im-alltag.png
+aliases:
+- /kurs_a2/units/unit10_medien-im-alltag.html
+- /kurs_a2/units/unit10_slides.html
 ---
 
 {{< callout type="note" >}}

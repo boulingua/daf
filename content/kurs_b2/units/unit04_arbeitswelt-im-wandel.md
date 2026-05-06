@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit04_arbeitswelt-im-wandel.pdf
   thumbnail: /materials/worksheets/unit04_arbeitswelt-im-wandel.png
+aliases:
+- /kurs_b2/units/unit04_arbeitswelt-im-wandel.html
+- /kurs_b2/units/unit04_slides.html
 ---
 
 {{< callout type="note" >}}

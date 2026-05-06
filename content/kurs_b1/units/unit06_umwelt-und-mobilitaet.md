@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit06_umwelt-und-mobilitaet.pdf
   thumbnail: /materials/worksheets/unit06_umwelt-und-mobilitaet.png
+aliases:
+- /kurs_b1/units/unit06_umwelt-und-mobilitaet.html
+- /kurs_b1/units/unit06_slides.html
 ---
 
 {{< callout type="note" >}}

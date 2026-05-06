@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit09_koerper-und-gesundheit.pdf
   thumbnail: /materials/worksheets/unit09_koerper-und-gesundheit.png
+aliases:
+- /kurs_a1/units/unit09_koerper-und-gesundheit.html
+- /kurs_a1/units/unit09_slides.html
 ---
 
 {{< callout type="note" >}}

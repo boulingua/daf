@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit03_gesellschaftliche-debatten.pdf
   thumbnail: /materials/worksheets/unit03_gesellschaftliche-debatten.png
+aliases:
+- /kurs_b2/units/unit03_gesellschaftliche-debatten.html
+- /kurs_b2/units/unit03_slides.html
 ---
 
 {{< callout type="note" >}}

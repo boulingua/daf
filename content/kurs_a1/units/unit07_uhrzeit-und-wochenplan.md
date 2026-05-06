@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf
   thumbnail: /materials/worksheets/unit07_uhrzeit-und-wochenplan.png
+aliases:
+- /kurs_a1/units/unit07_uhrzeit-und-wochenplan.html
+- /kurs_a1/units/unit07_slides.html
 ---
 
 {{< callout type="note" >}}

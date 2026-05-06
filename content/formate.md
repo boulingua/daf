@@ -1,5 +1,7 @@
 ---
 title: Prüfungsformate A1–C1
+aliases:
+- /formate.html
 ---
 
 <div class="hero-kicker">

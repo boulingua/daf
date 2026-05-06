@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit08_wetter-und-jahreszeiten.pdf
   thumbnail: /materials/worksheets/unit08_wetter-und-jahreszeiten.png
+aliases:
+- /kurs_a1/units/unit08_wetter-und-jahreszeiten.html
+- /kurs_a1/units/unit08_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit02_wohnung-mieten.pdf
   thumbnail: /materials/worksheets/unit02_wohnung-mieten.png
+aliases:
+- /kurs_a2/units/unit02_wohnung-mieten.html
+- /kurs_a2/units/unit02_slides.html
 ---
 
 {{< callout type="note" >}}

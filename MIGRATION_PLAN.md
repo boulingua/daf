@@ -232,6 +232,32 @@ Empty. `grep -r 'vgwort_pixel\|vgwort-pixel' . --include='*.qmd'` → no matches
 
 ## 9. Phase log
 
+### 2026-05-06 — Phase 4 complete (cleanup + parity)
+- Quarto removed: `_quarto.yml`, all 145 `.qmd` files, `_includes/`,
+  `_resources/`, `_scripts/`, `.quarto/`, four Quarto SCSS files at
+  `assets/`, root-level `custom.scss` + `styles.css`,
+  `scripts/check-legal-placeholders.sh`, and the disabled
+  `publish.yml.disabled` workflow.
+- Path inconsistency caught and fixed: the `{{< downloads >}}`
+  shortcode now points the worksheet link at
+  `/materials/worksheets/unit<NN>_<slug>.pdf` (the Phase-3
+  placeholder location); the exam link still points at
+  `/downloads/<level>/unit<NN>_<slug>_exam.pdf` to match the live
+  site URL.
+- 60 exam PDFs pulled from the live site into `static/downloads/`
+  via `_scripts_migration/pull_exam_pdfs.py`. 2.2 MB total.
+- 158 Hugo aliases injected (top-level pages, anhaenge, course
+  landings — `index.html` + `uebersicht.html` per level — and per
+  unit: `unit<NN>_<slug>.html` + `unit<NN>_slides.html`).
+- Parity result: **145 / 147** old sitemap URLs resolve on the new
+  build. The remaining two — `HANDOVER.html` and `LEGAL.html` —
+  are repository internal docs that should never have shipped to
+  the public site; intentional drop, not a regression.
+- Internal link audit: **1,966 / 1,966** clean. Hugo
+  `--printPathWarnings` clean. 0 broken links.
+- Final build: 86 canonical pages, 158 aliases, 307 static files
+  (240 materials + 60 exams + 7 theme), 0 errors.
+
 ### 2026-05-06 — Phase 2 complete (content port)
 - 7 commits across the 19-batch plan: anhaenge (5), top-level (8),
   index (1), uebersicht (1), course landings folded into _index.md

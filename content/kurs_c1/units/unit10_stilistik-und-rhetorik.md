@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit10_stilistik-und-rhetorik.pdf
   thumbnail: /materials/worksheets/unit10_stilistik-und-rhetorik.png
+aliases:
+- /kurs_c1/units/unit10_stilistik-und-rhetorik.html
+- /kurs_c1/units/unit10_slides.html
 ---
 
 {{< callout type="note" >}}

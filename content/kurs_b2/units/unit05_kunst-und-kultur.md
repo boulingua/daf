@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit05_kunst-und-kultur.pdf
   thumbnail: /materials/worksheets/unit05_kunst-und-kultur.png
+aliases:
+- /kurs_b2/units/unit05_kunst-und-kultur.html
+- /kurs_b2/units/unit05_slides.html
 ---
 
 {{< callout type="note" >}}

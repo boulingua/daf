@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit05_digitale-kommunikation.pdf
   thumbnail: /materials/worksheets/unit05_digitale-kommunikation.png
+aliases:
+- /kurs_b1/units/unit05_digitale-kommunikation.html
+- /kurs_b1/units/unit05_slides.html
 ---
 
 {{< callout type="note" >}}

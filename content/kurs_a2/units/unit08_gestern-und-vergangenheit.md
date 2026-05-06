@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit08_gestern-und-vergangenheit.pdf
   thumbnail: /materials/worksheets/unit08_gestern-und-vergangenheit.png
+aliases:
+- /kurs_a2/units/unit08_gestern-und-vergangenheit.html
+- /kurs_a2/units/unit08_slides.html
 ---
 
 {{< callout type="note" >}}

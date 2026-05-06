@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit10_politik-und-teilhabe.pdf
   thumbnail: /materials/worksheets/unit10_politik-und-teilhabe.png
+aliases:
+- /kurs_b1/units/unit10_politik-und-teilhabe.html
+- /kurs_b1/units/unit10_slides.html
 ---
 
 {{< callout type="note" >}}

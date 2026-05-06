@@ -1,5 +1,8 @@
 ---
 title: Kurs A1 — Anfänger:innen
+aliases:
+- /kurs_a1/index.html
+- /kurs_a1/uebersicht.html
 ---
 
 <div class="hero-kicker">

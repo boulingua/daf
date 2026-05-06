@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit03_beim-arzt.pdf
   thumbnail: /materials/worksheets/unit03_beim-arzt.png
+aliases:
+- /kurs_a2/units/unit03_beim-arzt.html
+- /kurs_a2/units/unit03_slides.html
 ---
 
 {{< callout type="note" >}}

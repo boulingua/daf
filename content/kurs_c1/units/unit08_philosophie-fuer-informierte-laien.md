@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf
   thumbnail: /materials/worksheets/unit08_philosophie-fuer-informierte-laien.png
+aliases:
+- /kurs_c1/units/unit08_philosophie-fuer-informierte-laien.html
+- /kurs_c1/units/unit08_slides.html
 ---
 
 {{< callout type="note" >}}

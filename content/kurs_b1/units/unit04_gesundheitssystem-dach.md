@@ -20,6 +20,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit04_gesundheitssystem-dach.pdf
   thumbnail: /materials/worksheets/unit04_gesundheitssystem-dach.png
+aliases:
+- /kurs_b1/units/unit04_gesundheitssystem-dach.html
+- /kurs_b1/units/unit04_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -20,6 +20,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit07_interkulturelle-begegnung.pdf
   thumbnail: /materials/worksheets/unit07_interkulturelle-begegnung.png
+aliases:
+- /kurs_b1/units/unit07_interkulturelle-begegnung.html
+- /kurs_b1/units/unit07_slides.html
 ---
 
 {{< callout type="note" >}}

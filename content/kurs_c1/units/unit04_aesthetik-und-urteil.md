@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit04_aesthetik-und-urteil.pdf
   thumbnail: /materials/worksheets/unit04_aesthetik-und-urteil.png
+aliases:
+- /kurs_c1/units/unit04_aesthetik-und-urteil.html
+- /kurs_c1/units/unit04_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -1,5 +1,7 @@
 ---
 title: Bewertungsraster
+aliases:
+- /anhaenge/bewertungsraster.html
 ---
 
 <div class="hero-kicker">

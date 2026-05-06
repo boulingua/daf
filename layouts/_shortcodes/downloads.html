@@ -17,11 +17,12 @@
 {{- $slug := or $page.Params.unit_slug $page.Params.slug -}}
 {{- if and $level $nr $slug -}}
 {{- $nrPad := printf "%02d" (int $nr) -}}
-{{- $base := printf "/downloads/%s/unit%s_%s" $level $nrPad $slug -}}
+{{- $exam := printf "/downloads/%s/unit%s_%s_exam.pdf" $level $nrPad $slug -}}
+{{- $work := printf "/materials/worksheets/unit%s_%s.pdf" $nrPad $slug -}}
 <div class="downloads">
   <strong>Downloads:</strong>
-  <a href="{{ printf "%s_exam.pdf" $base | relURL }}">Modellprüfung (PDF)</a>
+  <a href="{{ $exam | relURL }}">Modellprüfung (PDF)</a>
   ·
-  <a href="{{ printf "%s_worksheet.pdf" $base | relURL }}">Arbeitsblatt (PDF)</a>
+  <a href="{{ $work | relURL }}">Arbeitsblatt (PDF)</a>
 </div>
 {{- end -}}

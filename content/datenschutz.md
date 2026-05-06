@@ -3,6 +3,7 @@ title: Datenschutzerklärung
 aliases:
 - /legal/privacy/
 - /privacy/
+- /datenschutz.html
 ---
 
 ## 1. Verantwortlicher

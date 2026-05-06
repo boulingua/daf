@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit06_migrationsdiskurs.pdf
   thumbnail: /materials/worksheets/unit06_migrationsdiskurs.png
+aliases:
+- /kurs_b2/units/unit06_migrationsdiskurs.html
+- /kurs_b2/units/unit06_slides.html
 ---
 
 {{< callout type="note" >}}

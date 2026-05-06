@@ -1,5 +1,7 @@
 ---
 title: Start
+aliases:
+- /start.html
 ---
 
 <div class="hero-kicker">

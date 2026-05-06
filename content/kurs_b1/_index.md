@@ -1,5 +1,8 @@
 ---
 title: Kurs B1 — Selbstständig (untere Stufe)
+aliases:
+- /kurs_b1/index.html
+- /kurs_b1/uebersicht.html
 ---
 
 <div class="hero-kicker">

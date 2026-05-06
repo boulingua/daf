@@ -1,5 +1,7 @@
 ---
 title: Danksagung
+aliases:
+- /danksagung.html
 ---
 
 <div class="hero-kicker">

@@ -1,5 +1,7 @@
 ---
 title: Kompetenzbaum
+aliases:
+- /anhaenge/kompetenzbaum.html
 ---
 
 <div class="hero-kicker">

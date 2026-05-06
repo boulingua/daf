@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit06_postkoloniale-perspektiven.pdf
   thumbnail: /materials/worksheets/unit06_postkoloniale-perspektiven.png
+aliases:
+- /kurs_c1/units/unit06_postkoloniale-perspektiven.html
+- /kurs_c1/units/unit06_slides.html
 ---
 
 {{< callout type="note" >}}

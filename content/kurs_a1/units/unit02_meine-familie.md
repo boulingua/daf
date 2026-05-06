@@ -18,6 +18,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit02_meine-familie.pdf
   thumbnail: /materials/worksheets/unit02_meine-familie.png
+aliases:
+- /kurs_a1/units/unit02_meine-familie.html
+- /kurs_a1/units/unit02_slides.html
 ---
 
 {{< callout type="note" >}}

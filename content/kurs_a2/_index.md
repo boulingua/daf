@@ -1,5 +1,8 @@
 ---
 title: Kurs A2 — Grundlegende Kenntnisse
+aliases:
+- /kurs_a2/index.html
+- /kurs_a2/uebersicht.html
 ---
 
 <div class="hero-kicker">

@@ -1,5 +1,8 @@
 ---
 title: Kurs C1 — Kompetent
+aliases:
+- /kurs_c1/index.html
+- /kurs_c1/uebersicht.html
 ---
 
 <div class="hero-kicker">

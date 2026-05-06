@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit01_medienlandschaft-heute.pdf
   thumbnail: /materials/worksheets/unit01_medienlandschaft-heute.png
+aliases:
+- /kurs_b2/units/unit01_medienlandschaft-heute.html
+- /kurs_b2/units/unit01_slides.html
 ---
 
 {{< callout type="note" >}}

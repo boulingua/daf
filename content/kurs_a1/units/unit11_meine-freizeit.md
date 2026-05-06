@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit11_meine-freizeit.pdf
   thumbnail: /materials/worksheets/unit11_meine-freizeit.png
+aliases:
+- /kurs_a1/units/unit11_meine-freizeit.html
+- /kurs_a1/units/unit11_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit12_freundschaft-und-familiengeschichte.pdf
   thumbnail: /materials/worksheets/unit12_freundschaft-und-familiengeschichte.png
+aliases:
+- /kurs_a2/units/unit12_freundschaft-und-familiengeschichte.html
+- /kurs_a2/units/unit12_slides.html
 ---
 
 {{< callout type="note" >}}

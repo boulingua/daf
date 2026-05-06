@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit09_konsum-und-verbraucherschutz.pdf
   thumbnail: /materials/worksheets/unit09_konsum-und-verbraucherschutz.png
+aliases:
+- /kurs_b1/units/unit09_konsum-und-verbraucherschutz.html
+- /kurs_b1/units/unit09_slides.html
 ---
 
 {{< callout type="note" >}}

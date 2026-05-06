@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit01_literarisches-argumentieren.pdf
   thumbnail: /materials/worksheets/unit01_literarisches-argumentieren.png
+aliases:
+- /kurs_c1/units/unit01_literarisches-argumentieren.html
+- /kurs_c1/units/unit01_slides.html
 ---
 
 {{< callout type="note" >}}

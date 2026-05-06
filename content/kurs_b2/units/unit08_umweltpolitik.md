@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit08_umweltpolitik.pdf
   thumbnail: /materials/worksheets/unit08_umweltpolitik.png
+aliases:
+- /kurs_b2/units/unit08_umweltpolitik.html
+- /kurs_b2/units/unit08_slides.html
 ---
 
 {{< callout type="note" >}}

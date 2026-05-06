@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit04_meine-wohnung.pdf
   thumbnail: /materials/worksheets/unit04_meine-wohnung.png
+aliases:
+- /kurs_a1/units/unit04_meine-wohnung.html
+- /kurs_a1/units/unit04_slides.html
 ---
 
 {{< callout type="note" >}}

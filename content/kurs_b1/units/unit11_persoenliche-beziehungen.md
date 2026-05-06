@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit11_persoenliche-beziehungen.pdf
   thumbnail: /materials/worksheets/unit11_persoenliche-beziehungen.png
+aliases:
+- /kurs_b1/units/unit11_persoenliche-beziehungen.html
+- /kurs_b1/units/unit11_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit04_im-amt.pdf
   thumbnail: /materials/worksheets/unit04_im-amt.png
+aliases:
+- /kurs_a2/units/unit04_im-amt.html
+- /kurs_a2/units/unit04_slides.html
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit02_politische-diskursanalyse.pdf
   thumbnail: /materials/worksheets/unit02_politische-diskursanalyse.png
+aliases:
+- /kurs_c1/units/unit02_politische-diskursanalyse.html
+- /kurs_c1/units/unit02_slides.html
 ---
 
 {{< callout type="note" >}}

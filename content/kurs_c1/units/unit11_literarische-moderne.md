@@ -20,6 +20,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit11_literarische-moderne.pdf
   thumbnail: /materials/worksheets/unit11_literarische-moderne.png
+aliases:
+- /kurs_c1/units/unit11_literarische-moderne.html
+- /kurs_c1/units/unit11_slides.html
 ---
 
 {{< callout type="note" >}}

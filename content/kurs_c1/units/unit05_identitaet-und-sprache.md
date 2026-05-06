@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit05_identitaet-und-sprache.pdf
   thumbnail: /materials/worksheets/unit05_identitaet-und-sprache.png
+aliases:
+- /kurs_c1/units/unit05_identitaet-und-sprache.html
+- /kurs_c1/units/unit05_slides.html
 ---
 
 {{< callout type="note" >}}

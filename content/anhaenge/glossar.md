@@ -1,5 +1,7 @@
 ---
 title: Glossar
+aliases:
+- /anhaenge/glossar.html
 ---
 
 <div class="hero-kicker">

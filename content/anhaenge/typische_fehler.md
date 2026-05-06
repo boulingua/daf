@@ -1,5 +1,7 @@
 ---
 title: Typische Fehler
+aliases:
+- /anhaenge/typische_fehler.html
 ---
 
 <div class="hero-kicker">

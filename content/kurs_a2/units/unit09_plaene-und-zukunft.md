@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit09_plaene-und-zukunft.pdf
   thumbnail: /materials/worksheets/unit09_plaene-und-zukunft.png
+aliases:
+- /kurs_a2/units/unit09_plaene-und-zukunft.html
+- /kurs_a2/units/unit09_slides.html
 ---
 
 {{< callout type="note" >}}

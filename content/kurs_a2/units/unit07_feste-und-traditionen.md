@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit07_feste-und-traditionen.pdf
   thumbnail: /materials/worksheets/unit07_feste-und-traditionen.png
+aliases:
+- /kurs_a2/units/unit07_feste-und-traditionen.html
+- /kurs_a2/units/unit07_slides.html
 ---
 
 {{< callout type="note" >}}

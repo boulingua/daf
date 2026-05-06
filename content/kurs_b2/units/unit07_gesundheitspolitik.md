@@ -19,6 +19,9 @@ presentation:
 worksheet:
   file: /materials/worksheets/unit07_gesundheitspolitik.pdf
   thumbnail: /materials/worksheets/unit07_gesundheitspolitik.png
+aliases:
+- /kurs_b2/units/unit07_gesundheitspolitik.html
+- /kurs_b2/units/unit07_slides.html
 ---
 
 {{< callout type="note" >}}
