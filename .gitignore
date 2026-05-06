@@ -9,8 +9,8 @@ _freeze/
 .quarto/
 docs/
 
-# Generated placeholder downloads (CI rebuilds on every run)
-downloads/
+# (Quarto-era 'downloads/' exclusion removed — Hugo serves exam PDFs
+# from static/downloads/<level>/ which must be tracked.)
 
 # RStudio / R legacy (no R in this project; kept as safety net)
 .Rproj.user/
