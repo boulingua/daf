@@ -3,6 +3,7 @@ title = "DaF — S. Le Boulanger"
 languageCode = "de"
 defaultContentLanguage = "de"
 enableEmoji = false
+enableRobotsTXT = true
 
 [pagination]
   pagerSize = 20

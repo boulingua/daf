@@ -115,6 +115,9 @@ jobs:
       - name: Verify author meta on every content page (Phase-6.7 gate)
         run: python _scripts_phase5/verify_author_meta.py
 
+      - name: QA basics — sitemap, RSS, robots.txt, 404 (Phase-7)
+        run: python _scripts_phase5/verify_qa_basics.py
+
       - name: Verify Plausible loads on /materials/
         run: |
           if ! grep -qE 'data-domain=["]?boulingua\.github\.io/daf["]?' public/materials/index.html; then

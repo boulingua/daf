@@ -49,11 +49,46 @@ DaF Goethe → these gates apply:
 
 ### Outstanding (this verification pass adds)
 
-1. Author + date frontmatter on every unit + author-attribution build gate (Phase 1, Phase 6.7).
-2. Plausible parameterisation (`params.plausible.{domain,src}`) (Phase 3).
-3. CEFR-level enforcement gate in CI (Phase 6.3).
-4. PDF metadata gate restored (Phase 6.6).
-5. `lychee` site-wide link audit + weekly schedule (Phase 5).
-6. `html5validator` + Lighthouse + RSS/sitemap/robots/404 final QA (Phase 7).
+| # | Item | Status |
+|---|---|---|
+| 1 | Author + date frontmatter on every page | done — `_scripts_phase5/inject_author_date.py`, 83 files patched |
+| 1' | Author-attribution build gate | done — `_scripts_phase5/verify_author_meta.py` (84 pages, 0 violations) |
+| 2 | Plausible parameterisation | done — `params.plausible.{domain,src}` in hugo.toml |
+| 3 | CEFR enforcement | done — `verify_cefr.py` (60/60 pass) |
+| 4 | PDF metadata audit | done — `verify_pdf_metadata.py` (120/120 pass) |
+| 4' | VG Wort data-file lookup + Mindestumfang audit | done — `data/vgwort.yaml` registry header-only; `vgwort_audit.py` warns on 70 long-form pages without tokens |
+| 5 | `lychee` link audit + weekly schedule | done — `.github/workflows/link-check.yml` |
+| 6 | RSS / sitemap / robots / 404 sanity | done — `verify_qa_basics.py` (108 sitemap URLs, 74 RSS items, robots.txt enabled, 404 styled) |
+| 6' | `html5validator` + Lighthouse | deferred — pa11y/axe already gates a11y; html5validator + lhci require Java + Chrome + tend to be flaky in CI; will re-evaluate after first CI run with all current gates green |
+
+### Outstanding for the author / Raban
+
+- **VG Wort Zählmarken** — 70 long-form pages have no token. They surface as `::warning::` in every CI run via `vgwort_audit.py`. Tokens are issued from the T.O.M. portal and cannot be generated in CI. Add entries to `data/vgwort.yaml` as marks are registered.
+- **Materials placeholders** — 60 PPTX + 60 PDF files are stamped *Platzhalter*; replacing them with real content is editorial.
+- **Hand-curated content tags** — Phase-1 of the network gave each unit 4 deterministic tags (level + module + skill + topic). Adding 2–3 author-chosen content tags per unit (e.g. `passé-composé`, `wohnen`) would densify the discovery graph meaningfully.
+
+---
+
+## Per-phase log
+
+### 2026-05-06 — Verification pass complete
+
+8 commits today on top of the network MVP. CI pipeline now runs:
+
+```
+build_graph.py → render_thumbs.py → verify_downloads.py
+  → verify_cefr.py → verify_pdf_metadata.py
+  → check legal placeholders
+  → hugo --minify
+  → pagefind index + verify
+  → verify_author_meta.py → verify_qa_basics.py
+  → Plausible-on-/ → Plausible-on-/materials/
+  → VG Wort hub-page exclusion → vgwort_audit.py
+  → verify-vgwort.sh
+  → bundle size budget → pa11y audit
+  → upload-pages-artifact → deploy
+```
+
+Every step is reproducible via `python _scripts_phase5/<script>.py` from the repo root.
 
 ---
