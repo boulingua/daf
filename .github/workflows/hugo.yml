@@ -47,11 +47,22 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install LibreOffice (PPTX → PDF for thumbnail rendering)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends libreoffice-impress
+
       - name: Install Python deps
-        run: pip install pyyaml
+        run: pip install pyyaml pymupdf
 
       - name: Build materials network graph + run Phase-1 gates
         run: python _scripts_phase5/build_graph.py
+
+      - name: Render material thumbnails from .pptx and .pdf
+        run: python _scripts_phase5/render_thumbs.py
+
+      - name: Verify every download path resolves on disk
+        run: python _scripts_phase5/verify_downloads.py
 
       - name: Check legal placeholders
         run: |
