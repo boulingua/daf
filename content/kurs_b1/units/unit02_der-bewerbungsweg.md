@@ -40,7 +40,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -273,9 +272,6 @@ Lösungsbeispiele original.
 >
 > Vergessen Sie Anrede, Gruß und Ihren Namen nicht.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

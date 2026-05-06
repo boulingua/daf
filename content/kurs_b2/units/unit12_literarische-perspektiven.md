@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -167,9 +166,6 @@ Struktur:
 4. Pädagogischer Gewinn.
 5. Abschluss / Empfehlung.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

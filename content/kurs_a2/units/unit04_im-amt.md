@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -161,9 +160,6 @@ Wörter):
 - Sagen Sie, warum Sie nicht können.
 - Schlagen Sie einen neuen Termin vor.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

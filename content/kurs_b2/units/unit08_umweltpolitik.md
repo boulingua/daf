@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -161,9 +160,6 @@ halb-formelle Mail (ca. 100 Wörter):
 - Sie bitten um eine konkrete Antwort zu zwei Fragen.
 - Sie schließen höflich.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

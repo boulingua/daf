@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -211,9 +210,6 @@ Situationen nicht; zwei Anzeigen passen zu keiner Situation.**
 
 {{< /details >}}
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

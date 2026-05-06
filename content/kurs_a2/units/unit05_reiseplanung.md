@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -167,9 +166,6 @@ Wien Mitte, 35 €/Nacht, Zentrum“.)*
 
 {{< /details >}}
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

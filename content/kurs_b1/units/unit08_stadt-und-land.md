@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -178,9 +177,6 @@ Ja (Konzerte, Schulen, …) · 6. Nein (keine Aussage dazu) · 7. Ja
 
 {{< /details >}}
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

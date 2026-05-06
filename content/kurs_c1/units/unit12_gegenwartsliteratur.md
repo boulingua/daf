@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -196,9 +195,6 @@ zweimal. Ordnen Sie sechs Aussagen den drei Sprecher:innen zu.
 
 {{< /details >}}
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

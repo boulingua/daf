@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -149,9 +148,6 @@ Sie sich auf alle vier Punkte:
 3. Anreise (Auto / Bahn / Rad)?
 4. Was mitbringen?
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

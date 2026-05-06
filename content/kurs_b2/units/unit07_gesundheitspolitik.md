@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -161,9 +160,6 @@ Redemittel aus B und mindestens drei der acht Wortschatzitems.
 A = pro · B = kontra. Je mindestens zwei Argumente. Einigung
 nicht zwingend nötig.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

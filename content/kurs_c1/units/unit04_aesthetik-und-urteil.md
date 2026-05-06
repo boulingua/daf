@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -165,9 +164,6 @@ einen Film, ein Gemälde, eine Komposition. Halten Sie eine
 
 Verwenden Sie vier Sprachfunktionen + ein konkretes Beispiel.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

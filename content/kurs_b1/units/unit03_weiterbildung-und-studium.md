@@ -40,7 +40,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -244,9 +243,6 @@ Fragen durch Mehrfachauswahl (3-gliedrig).
 
 {{< /details >}}
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

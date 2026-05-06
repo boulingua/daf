@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -171,9 +170,6 @@ und präsentieren Sie strukturiert:
 
 Vertreten Sie je eine Seite (Befürworter / Kritiker) argumentativ.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

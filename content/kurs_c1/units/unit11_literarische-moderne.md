@@ -40,7 +40,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -165,9 +164,6 @@ Halten Sie eine **Lektürepräsentation** mit:
 Vier Sprachfunktionen + ein konkretes Textbeispiel + eigene
 didaktische Position.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

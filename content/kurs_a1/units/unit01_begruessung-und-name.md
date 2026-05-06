@@ -37,7 +37,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -175,9 +174,6 @@ Nennen Sie eine Nummer (Telefon, Postleitzahl, Hausnummer).
 **Erwartung (A1):** 3 Bewertungspunkte (Vorstellung · Buchstabieren
 · Nummer).
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

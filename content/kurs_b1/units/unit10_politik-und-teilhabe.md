@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -165,9 +164,6 @@ ca. 3 Min) zu Thema A **oder** Thema B.
 Anschließend Feedback + 1 Frage von Ihrer Partnerin / Ihrem
 Partner.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

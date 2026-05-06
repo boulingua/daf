@@ -1,7 +1,8 @@
 {{/*
-  Override of Coder's page.html. Injects the material-links partial
-  immediately under the title so unit pages surface their paired
-  Foliensatz / Arbeitsblatt download cards above the fold.
+  Override of Coder's page.html. The paired download block is rendered
+  ONCE, as the last section of the article — never inline above or
+  twice. The shortcode {{< downloads >}} is a no-op for the same reason
+  (any leftover calls in content render nothing).
 */}}
 <section class="container page">
   <article>
@@ -13,8 +14,14 @@
       </h1>
     </header>
 
-    {{ partial "material-links.html" . }}
-
     {{ .Content }}
+
+    {{ $links := partial "material-links.html" . }}
+    {{- with $links }}
+    <section class="downloads-section" id="downloads">
+      <h2>Downloads</h2>
+      {{ . | safeHTML }}
+    </section>
+    {{- end }}
   </article>
 </section>

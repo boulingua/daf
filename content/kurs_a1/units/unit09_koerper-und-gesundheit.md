@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -168,9 +167,6 @@ Die andere Person reagiert.
 
 **Erwartung (A1):** halbe / volle Punktzahl nach Verständlichkeit.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

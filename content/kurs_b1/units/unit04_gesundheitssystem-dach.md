@@ -40,7 +40,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -218,9 +217,6 @@ Länder (Distraktor).
 8. „Alle drei Länder bezahlen den Arztbesuch komplett aus
    Steuergeldern.“ → **Distraktor** (passt zu keinem).
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -160,9 +159,6 @@ die folgenden Satzbausteine in die Lücken (zwei passen nicht).
 präsentiert; hier aus Platzgründen nur die Aufgabenform genannt.
 Prüfer:in kann die Lücken pro Teil selbst markieren.)*
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -203,9 +202,6 @@ passt zu keiner der vier Personen (Distraktor).
 7. „Automatisierung wird alle Arbeitsplätze ersetzen.“ → **Distraktor**
 8. „Wir fahren 2040 einmal pro Woche in die Stadt.“ → Milos
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

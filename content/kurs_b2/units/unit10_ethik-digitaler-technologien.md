@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -168,9 +167,6 @@ Eingangsstatement mit:
 Mit den vier Sprachfunktionen aus dem B2-Prüfungsformat
 (Meinung, Argument, Beispiel, Vor/Nachteile).
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

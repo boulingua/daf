@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -161,9 +160,6 @@ hat Ihnen dabei geholfen. Schreiben Sie ihr eine Nachricht
 - Erzählen Sie kurz von der neuen Stelle.
 - Fragen Sie, ob Sie sich nochmals treffen können.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

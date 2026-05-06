@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -159,9 +158,6 @@ Forum zur These:
 
 Vier Sprachfunktionen. Titel selbst wählen.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

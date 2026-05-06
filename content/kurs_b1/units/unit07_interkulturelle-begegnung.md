@@ -40,7 +40,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -186,9 +185,6 @@ vier Leitpunkte**:
 offiziellen B1-Kriterien (Erfüllung, Kohärenz, Wortschatz,
 Strukturen, Aussprache).
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

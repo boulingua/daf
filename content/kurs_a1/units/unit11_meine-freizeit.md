@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -178,9 +177,6 @@ Karte **eine Frage** an Ihre:n Partner:in. Die Person antwortet.
 **Beispielfrage:** *„Was für Musik hörst du gern?“* / *„Spielst
 du ein Instrument?“*
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

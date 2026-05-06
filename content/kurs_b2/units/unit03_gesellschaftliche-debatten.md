@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -179,9 +178,6 @@ Setzen Sie vier **Sprachfunktionen** um:
 - **anhand von Beispielen** erläutern
 - **Vor- und Nachteile** erwägen
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

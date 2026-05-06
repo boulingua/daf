@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -180,9 +179,6 @@ das Konzert wurde abgesagt. Schreiben Sie an den Veranstalter
 
 Vergessen Sie Anrede, Grußformel und Namen nicht.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

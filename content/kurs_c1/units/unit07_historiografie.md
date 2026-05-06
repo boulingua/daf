@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -166,9 +165,6 @@ oder als Distraktor (–).
 7. „Heute kommen mehr Stimmen aus DDR-Sozialisation dazu.“ → V
 8. „Material und Akten sind beliebig austauschbar.“ → – (Distraktor)
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

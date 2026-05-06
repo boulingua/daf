@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -197,9 +196,6 @@ Sie haben **12 Einheiten** auf A1 bearbeitet und können sich nun:
 
 Das entspricht dem Zielkanon der GER-Stufe A1.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -168,9 +167,6 @@ passen nicht.
 *(Für die ausführliche Aufgabenform vergleiche den Modellsatz C1 modular, Lesen Teil 3, auf dem Textumfang von
 Text A kann die Prüfer:in sechs bis acht Lücken vorbereiten.)*
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

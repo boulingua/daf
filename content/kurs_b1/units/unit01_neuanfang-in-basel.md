@@ -41,7 +41,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -310,9 +309,6 @@ keine Ich-Perspektive; Wiederholung statt Variation im Wortschatz.
 
 {{< /details >}}
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

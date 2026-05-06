@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -158,9 +157,6 @@ Aufgabenblatt mit fünf Stichwörtern:
 
 **Dauer:** 2–3 Min. Der Prüfer stellt eine oder zwei Rückfragen.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

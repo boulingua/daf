@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -209,9 +208,6 @@ Beitrag. Schreiben Sie Ihre Meinung dazu (ca. 80 Wörter):
 - Machen Sie einen Vorschlag, wie Jugendliche Nachrichten
   konsumieren könnten.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

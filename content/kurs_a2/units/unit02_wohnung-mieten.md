@@ -39,7 +39,6 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-{{< downloads >}}
 
 ## Lernziele
 
@@ -185,9 +184,6 @@ Wohnungsbesichtigung. Einigen Sie sich auf:
 
 **Dauer:** ca. 3 Minuten.
 
-## Downloads {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 
