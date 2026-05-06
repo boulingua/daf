@@ -220,10 +220,12 @@ main.content h2:hover,
 .card {
   border: 1px solid var(--boulingua-panel-border);
   border-radius: 8px;
-  padding: 1.25rem 1.5rem;
+  padding: 1.5rem 1.5rem 1.75rem;
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
   background: transparent;
   transition: box-shadow 0.2s ease, transform 0.2s ease,
     border-color 0.2s ease;
@@ -238,23 +240,42 @@ main.content h2:hover,
 .card h3 {
   margin: 0;
   font-size: 1.1rem;
+  order: 2;
+}
+
+.card p {
+  margin: 0;
+  order: 3;
 }
 
 /* ── CEFR badge ─────────────────────────────────── */
 .cefr-badge {
-  display: inline-block;
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  padding: 0.15rem 0.5rem;
-  border-radius: 999px;
-  background: var(--boulingua-cefr-b);
+  --cefr-color: var(--boulingua-cefr-b);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  background: var(--cefr-color);
   color: #fff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+  flex-shrink: 0;
 }
 
-.cefr-badge.a1, .cefr-badge.a2 { background: var(--boulingua-cefr-a); }
-.cefr-badge.b1, .cefr-badge.b2 { background: var(--boulingua-cefr-b); }
-.cefr-badge.c1               { background: var(--boulingua-cefr-c); }
+.card .cefr-badge {
+  order: 1;
+  margin: 0.25rem auto 0.5rem;
+}
+
+.cefr-badge.a1,
+.cefr-badge.a2 { --cefr-color: var(--boulingua-cefr-a); background: var(--cefr-color); }
+.cefr-badge.b1,
+.cefr-badge.b2 { --cefr-color: var(--boulingua-cefr-b); background: var(--cefr-color); }
+.cefr-badge.c1 { --cefr-color: var(--boulingua-cefr-c); background: var(--cefr-color); }
 
 /* ── Callouts (Quarto-equivalent) ───────────────── */
 .callout {
