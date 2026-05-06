@@ -53,7 +53,7 @@ jobs:
           sudo apt-get install -y --no-install-recommends libreoffice-impress
 
       - name: Install Python deps
-        run: pip install pyyaml pymupdf
+        run: pip install pyyaml pymupdf pypdf
 
       - name: Build materials network graph + run Phase-1 gates
         run: python _scripts_phase5/build_graph.py
@@ -63,6 +63,12 @@ jobs:
 
       - name: Verify every download path resolves on disk
         run: python _scripts_phase5/verify_downloads.py
+
+      - name: Verify CEFR levels (Phase-6.3 gate)
+        run: python _scripts_phase5/verify_cefr.py
+
+      - name: Verify PDF metadata attribution (Phase-6.6 gate)
+        run: python _scripts_phase5/verify_pdf_metadata.py
 
       - name: Check legal placeholders
         run: |
@@ -105,6 +111,9 @@ jobs:
             echo "::error::Plausible snippet missing or data-domain mismatch in public/index.html"
             exit 1
           fi
+
+      - name: Verify author meta on every content page (Phase-6.7 gate)
+        run: python _scripts_phase5/verify_author_meta.py
 
       - name: Verify Plausible loads on /materials/
         run: |
