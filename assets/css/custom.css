@@ -79,13 +79,18 @@ a:focus {
   opacity: 0.7;
 }
 
+/* Submenu uses the Phase-5 design tokens (--network-surface and friends),
+   which Coder's body.colorscheme-{light,dark,auto} setup already swaps —
+   so the dropdown follows light / dark / OS-auto without any per-mode
+   override here. */
 .navigation-submenu {
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
-  background: var(--bg-color, #fff);
-  border: 1px solid var(--boulingua-panel-border);
+  background: var(--network-surface, #fff);
+  color: var(--fg-color, inherit);
+  border: 1px solid var(--network-border, var(--boulingua-panel-border));
   border-radius: 4px;
   list-style: none;
   margin: 0;
@@ -93,13 +98,6 @@ a:focus {
   min-width: 14rem;
   z-index: 100;
   box-shadow: var(--boulingua-panel-shadow);
-}
-
-body.colorscheme-dark .navigation-submenu,
-@media (prefers-color-scheme: dark) {
-  body.colorscheme-auto .navigation-submenu {
-    background: #1d1f21;
-  }
 }
 
 .navigation-submenu .navigation-subitem {
@@ -110,6 +108,13 @@ body.colorscheme-dark .navigation-submenu,
   display: block;
   padding: 0.4rem 1rem;
   white-space: nowrap;
+  color: inherit;
+}
+
+.navigation-submenu .navigation-subitem a:hover,
+.navigation-submenu .navigation-subitem a:focus-visible {
+  background: var(--network-rail-bg, rgba(0, 0, 0, 0.04));
+  color: var(--boulingua-accent);
 }
 
 .navigation-list .has-children:hover .navigation-submenu,
