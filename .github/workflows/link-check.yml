@@ -69,7 +69,6 @@ jobs:
             --cache
             --max-cache-age 1d
             --accept 200,206,301,302,308,429
-            --exclude-mail
             --exclude-path public/network
             --base public
             './public/**/*.html'
@@ -96,6 +95,5 @@ jobs:
           PY
           npx -y lychee --no-progress --cache --max-cache-age 1d \
             --accept 200,206,301,302,308,429 \
-            --exclude-mail \
             --base public \
             /tmp/network-urls.txt
