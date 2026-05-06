@@ -123,6 +123,19 @@ Topic labels in `data/topics.yml` are spec'd as `label_fr`, `label_en`, `label_d
 
 ## 6. Per-phase log
 
+### 2026-05-06 — Phase 3 complete (Cytoscape rendering)
+
+- **`assets/js/network/main.js`** — single ESM module (~2.8 KB minified after Hugo `js.Build`). Imports Cytoscape + fcose from `esm.sh` as external URL specifiers; esbuild leaves them as-is so the bundle is just my glue.
+- **Library choice** documented in the file header (Cytoscape > D3-force > sigma > vis-network for this exact use case; rationale persists in the source).
+- **Stylesheet** reads CSS custom properties at render time. Topic colour, surface, highlight, fg colour all come from `--network-*` vars set in Phase 2. `MutationObserver` on `body.class` triggers `cy.style(...).update()` whenever Coder swaps `colorscheme-light/dark`.
+- **Layout** — `fcose` with `nodeSeparation: 65`, `idealEdgeLength: 60`, `nodeRepulsion: 4500`. Animation off (the prompt requires calm motion).
+- **Node interactions** — tap on article navigates; tap on presentation/worksheet triggers download via a synthetic `<a download>`.
+- **API surface** — `window.dafNetwork = { cy, data, applyFilter, reset }`. Phase 4 filter rail will call `applyFilter(predicate)`; nodes that fail get `is-dimmed` (12% opacity, structure intact). Edges with either endpoint dimmed also dim.
+- **Loading model** — `<link rel="modulepreload">` for both Cytoscape + fcose; the bundle uses `<script type="module">` with the Hugo-fingerprinted URL. Cytoscape (~150KB gzipped) streams in parallel with the page.
+- **`/materials/` hub** now renders the network shell from Phase 2 with a placeholder Phase-4 rail copy and the live `#network-mount` div. The `/materials/preview/` static mock stays as the design contract reference.
+- **a11y stub** — visually-hidden `<nav aria-label="All materials">` listing every article URL is rendered alongside the graph. Phase 6 swaps visibility for mobile.
+- **Visual verification** — couldn't drive headless screenshots from this machine (no Chrome). Reviewer should spin up `hugo server` and visit `/materials/`.
+
 ### 2026-05-06 — Phase 2 complete (design system + static mock)
 
 #### Palette (final)
