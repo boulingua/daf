@@ -257,6 +257,12 @@ Empty. `grep -r 'vgwort_pixel\|vgwort-pixel' . --include='*.qmd'` → no matches
   `--printPathWarnings` clean. 0 broken links.
 - Final build: 86 canonical pages, 158 aliases, 307 static files
   (240 materials + 60 exams + 7 theme), 0 errors.
+- Visual smoke check (5 representative pages screenshotted into
+  this doc): **deferred — no local Chrome to drive headless
+  screenshots from this machine.** Reviewer should spot-check
+  via the deploy preview that the test plan in PR #1 enumerates.
+  Parity + the 1,966-link audit cover structural correctness.
+- PR opened: https://github.com/boulingua/daf/pull/1 — not merged.
 
 ### 2026-05-06 — Phase 2 complete (content port)
 - 7 commits across the 19-batch plan: anhaenge (5), top-level (8),
