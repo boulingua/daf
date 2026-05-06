@@ -1,0 +1,185 @@
+---
+title: 'Einheit 3 — Gesellschaftliche Debatten: Generationengerechtigkeit'
+cefr_level: B2
+unit_nr: 3
+slug: gesellschaftliche-debatten
+cefr_can_do:
+- Ich kann einen Forumsbeitrag mit klarer Position schreiben.
+- Ich argumentiere mit Beispielen und Gegenstimmen.
+- Ich erkenne rhetorische Strategien in Debattenbeiträgen.
+skills_focus:
+- schreiben
+- sprechen
+pruefungs_module:
+- schreiben
+description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B2
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- Ich schreibe einen 150-Wörter-Forumsbeitrag mit These,
+  Begründung und Beispiel.
+- Ich integriere ein Gegenargument („Zwar … aber …“).
+- Ich unterscheide konzessive und adversative Konnektoren.
+
+## GER-Ausrichtung
+
+Prüfungsmodul **Schreiben** — Teil 1 (Meinungsäußerung,
+Forumsbeitrag, ca. 150 Wörter).
+
+## Einstiegsgeschichte
+
+**Kjell Baumann**, NGO-Mitarbeiter Köln, arbeitet im Projekt
+*„Generationen im Gespräch“*. Er hat einen Forumsbeitrag zum
+Thema „Rente und junge Leute“ vorgelegt, den wir zerlegen —
+nicht, um zuzustimmen oder zu widersprechen, sondern um die
+**Struktur** zu sehen.
+
+## 1. Einstieg
+
+- Wer trägt Ihrer Meinung nach mehr Last — Jugend oder Rente?
+- Wie zerlegt man einen starken Forumsbeitrag methodisch?
+- Welche B2-Konnektoren stehen für *trotzdem, obwohl*?
+
+## 2. Input
+
+### A. Forumsbeitrag (original, ca. 160 Wörter)
+
+> Die Debatte um Rentenkürzungen wird oft als Kampf der
+> Generationen geführt. Das halte ich für irreführend. Die Frage
+> ist nicht „alt gegen jung“, sondern „wer zahlt wofür“.
+>
+> Zwar ist richtig, dass heute deutlich mehr Menschen das Rentenalter
+> erreichen als vor 30 Jahren. Die Finanzierung wird enger.
+> Gleichzeitig verdient die jüngere Generation in den ersten
+> Berufsjahren real weniger als frühere Jahrgänge.
+>
+> Ein gerechter Ausgleich muss **drei Dinge** leisten: eine
+> verlässliche Grundrente für alle, die lange gearbeitet haben;
+> eine realistische Beitragsstruktur, die junge Einkommen nicht
+> erdrückt; und einen politischen Willen, über den Tellerrand
+> der einzelnen Legislaturperiode zu blicken.
+>
+> Das klingt nach viel, ist aber weniger radikal als das, was das
+> aktuelle System gerade mit der Jugend macht. Wenn wir die
+> Debatte auf „alt gegen jung“ reduzieren, verlieren beide.
+
+— *Kjell Baumann, Forumsbeitrag, Zeitung „Stadtspiegel Köln“*
+
+### B. Struktur-Analyse
+
+| Baustein        | Funktion                           | Beispiel aus A                          |
+|-----------------|------------------------------------|-----------------------------------------|
+| These           | Klare Position                     | *Ich halte das für irreführend.*        |
+| Begründung      | Warum?                             | *Die Frage ist nicht alt gegen jung.*   |
+| Einwand (konz.) | Zugeständnis an die Gegenseite     | *Zwar ist richtig, dass …*              |
+| Lösung          | Konstruktiver Vorschlag            | *Drei Dinge muss der Ausgleich leisten* |
+| Zuspitzung      | Rhetorische Pointe am Ende         | *Verlieren beide.*                      |
+
+### C. Konnektoren (B2)
+
+- **konzessiv**: *zwar … aber*, *obwohl*, *auch wenn*,
+  *trotz + Genitiv*.
+- **adversativ**: *aber*, *hingegen*, *dagegen*.
+- **kausal**: *weil*, *da*, *denn*.
+- **konsekutiv**: *deshalb*, *folglich*, *daher*.
+
+## 3. Üben
+
+**Aufgabe 1 — Struktur erkennen.** Welcher Baustein ist welche
+Funktion (B)? Markieren Sie im Text A die fünf Bausteine.
+
+**Aufgabe 2 — Konnektoren.** Ergänzen Sie:
+
+1. ___ heute mehr Menschen Rente beziehen, ist die Finanzierung
+   enger.
+2. Der Staat muss handeln, ___ die Jugend wird ausgelaugt.
+3. Junge Leute verdienen weniger; ___ zahlen sie dieselben
+   Beiträge.
+
+**Aufgabe 3 — Umformulieren.** *„Zwar … aber …“* in *„Obwohl …,
+…“* oder *„Auch wenn …, …“*:
+
+- *Zwar ist die Rente wichtig, aber die Jugendfinanzen müssen
+  auch stimmen.*
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** Individuelle Markierung; Lösung siehe Tabelle B.
+
+**Aufgabe 2.** 1) Obwohl · 2) denn · 3) hingegen / dagegen.
+
+**Aufgabe 3.** *Obwohl die Rente wichtig ist, müssen die
+Jugendfinanzen auch stimmen.* / *Auch wenn die Rente wichtig ist,
+müssen …*
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Schreibaufgabe (B2, ca. 150 Wörter):** Verfassen Sie einen
+eigenen Forumsbeitrag zur Frage:
+
+> *„Sollten junge Leute einen bezahlten Gesellschaftsdienst
+> (z. B. Pflegehilfe, Ökodienst, Bildungsdienst) leisten
+> dürfen / sollen / müssen?“*
+
+Bauen Sie enthalten:
+
+- These
+- Begründung
+- einen konzessiven Einwand
+- konkreten Vorschlag
+- Zuspitzung am Schluss
+
+## 5. Reflexion
+
+- [ ] Ich erkenne die fünf Bausteine eines Forumsbeitrags.
+- [ ] Ich benutze konzessive Konnektoren korrekt.
+- [ ] Ich schreibe 150 Wörter argumentativ auf B2-Niveau.
+
+## Prüfungsbeispiel — GER B2 Schreiben, Teil 1
+
+**Aufgabenstellung:** Verfassen Sie in einem Online-Forum einen
+**Kommentar** zu folgender These (**ca. 150 Wörter**):
+
+> *„Junge Erwachsene sollten verpflichtend ein soziales Jahr
+> absolvieren, bevor sie ins Berufsleben starten.“*
+
+Setzen Sie vier **Sprachfunktionen** um:
+
+- **Meinung** äußern
+- **Argumente** anführen
+- **anhand von Beispielen** erläutern
+- **Vor- und Nachteile** erwägen
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+**Zeit:** Einstieg 8' · Input 18' · Üben 15' · Anwenden 30' ·
+Prüfungsvorschau 14'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **„zwar“ ohne „aber“** wirkt unfertig. Immer als Tandem denken.
+- **„trotz“ + Genitiv** im geschriebenen Deutsch: *trotz des
+  Problems*; umgangssprachlich auch mit Dativ.
+- **„denn“ steht im Hauptsatz** (Verbzweitstellung) — anders als
+  „weil“.
+
+## Weiterführende Materialien
+
+- **Der Standard Meinungsforum (AT)**.
+- **Zeit Online „Streit“**: <https://www.zeit.de/thema/streit>
