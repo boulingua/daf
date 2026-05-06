@@ -44,12 +44,7 @@ code, pre, kbd, samp {
 
 /* ── Navbar brand ───────────────────────────────── */
 .navigation .navigation-title {
-  text-transform: lowercase;
   letter-spacing: 0.02em;
-}
-
-.navigation .navigation-title::before {
-  content: "#";
 }
 
 /* ── Accent links ───────────────────────────────── */
