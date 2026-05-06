@@ -1,0 +1,173 @@
+---
+title: Einheit 5 — Reiseplanung mit Budget
+cefr_level: A2
+unit_nr: 5
+slug: reiseplanung
+cefr_can_do:
+- Ich kann Reise-Kleinanzeigen und Hoteltexte verstehen.
+- Ich ordne Reiseangebote einer Situation zu.
+- Ich schreibe eine einfache Reiseplanung mit Budget.
+skills_focus:
+- lesen
+- schreiben
+pruefungs_module:
+- lesen
+description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** A2
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- Ich verstehe fünf Reise-Kleinanzeigen.
+- Ich ordne Reisenden Angebote zu.
+- Ich schreibe eine kurze Reiseroute mit Budget.
+
+## GER-Ausrichtung
+
+Prüfungsmodul **Lesen** — Teil 4: Anzeigen verstehen (Zuordnung).
+
+## Einstiegsgeschichte
+
+**Sabina Koller**, 36, IT-Trainerin in Zürich, ist mit ihren
+zwei Kindern für fünf Tage in der Steiermark. Budget: 500 € für
+Unterkunft + Ausflüge. Sie liest Kleinanzeigen im Lokalblatt.
+
+## 1. Einstieg
+
+- Wohin fahren Sie gern im Urlaub?
+- Mit welchem Budget pro Tag?
+- Hotel, Hostel, Ferienwohnung oder Zelt?
+
+## 2. Input
+
+### A. Fünf Kleinanzeigen
+
+> **a) Ferienwohnung „Almblick“, Schladming.** 3 Zi., Balkon.
+> 90 €/Nacht. Selbstversorger.
+
+> **b) Jugendherberge Graz.** Mehrbettzimmer 28 €/Nacht + Frühstück.
+
+> **c) Bio-Bauernhof Riegersburg.** Zimmer 65 €/Nacht, Frühstück
+> und Abendessen mit Hofprodukten.
+
+> **d) Campingplatz Altaussee.** Stellplatz mit Zelt 18 €/Nacht.
+
+> **e) Hotel „Blau am See“ Maria Wörth.** Doppelzimmer 180 €, Pool.
+
+### B. Wortschatz
+
+| Wort                 | Bedeutung                          |
+|----------------------|------------------------------------|
+| die Unterkunft       | accommodation                      |
+| der Selbstversorger  | self-catering                      |
+| die Halbpension      | half board                         |
+| die Vollpension      | full board                         |
+| das Mehrbettzimmer   | shared room                        |
+| der Stellplatz       | camping spot                       |
+| der Aufschlag        | surcharge                          |
+
+### C. Redemittel
+
+- *Wir suchen … für fünf Nächte.*
+- *Unser Budget liegt bei …*
+- *Gibt es einen Familienrabatt?*
+
+## 3. Üben
+
+**Aufgabe 1 — Zuordnen.** Welche Anzeige passt?
+
+1. „Wir wollen möglichst billig übernachten.“ →
+2. „Wir reisen mit Zelt.“ →
+3. „Wir möchten frisches Essen vom Bauernhof.“ →
+4. „Wir wollen Komfort und Pool.“ →
+5. „Wir brauchen eine Wohnung mit Küche zum Selberkochen.“ →
+
+**Aufgabe 2 — Textdetails.** Zur Ferienwohnung a:
+
+1. Wie viele Zimmer hat die Wohnung?
+2. Welchen Service gibt es nicht?
+
+**Aufgabe 3 — Budgetrechnung (A2).** Sabinas Budget: 500 € /
+5 Nächte. Welche Optionen passen? Rechnen Sie pro Nacht:
+
+- Jugendherberge 28 € × 5 = 140 € ✓
+- Bauernhof 65 € × 5 = 325 € ✓
+- Hotel „Blau am See“ 180 € × 5 = 900 € ✗
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** 1 = b (Jugendherberge) · 2 = d · 3 = c · 4 = e ·
+5 = a.
+
+**Aufgabe 2.** 1) 3 · 2) Frühstück / Service (Selbstversorger).
+
+**Aufgabe 3.** Passt zu Sabina: Jugendherberge, Bauernhof,
+Campingplatz, Ferienwohnung (450 € für 5 Nächte). Zu teuer:
+Hotel „Blau am See“.
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Schreibaufgabe.** Schreiben Sie Ihre Reiseplanung für fünf
+Tage an einen selbst gewählten Ort. Angaben:
+
+- Unterkunft + Preis pro Nacht,
+- Essen (Selbstversorger / Pension / Restaurant),
+- geplanter Ausflug (z. B. Wanderung, Museum),
+- Gesamtbudget.
+
+## 5. Reflexion
+
+- [ ] Ich verstehe fünf Unterkunfts-Anzeigen.
+- [ ] Ich rechne ein Reisebudget auf A2-Niveau.
+- [ ] Ich plane fünf Reisetage schriftlich.
+
+## Prüfungsbeispiel — GER A2 Lesen, Teil 4
+
+**Aufgabenstellung:** Ordnen Sie die **fünf Personen** (1–5) den
+**sechs Anzeigen** (a–f) zu. Eine Anzeige passt zu keiner Person.
+
+*(Stimulus wie Abschnitt A, plus eine Extra-Anzeige f: „Hostel
+Wien Mitte, 35 €/Nacht, Zentrum“.)*
+
+1. „Wir brauchen ein Hostel in der Innenstadt.“
+2. „Wir wollen Komfort und Pool am See.“
+3. „Wir lieben frische Bauernprodukte.“
+4. „Wir zelten.“
+5. „Wir suchen eine Ferienwohnung in den Bergen.“
+
+{{< details type="tip" title="Lösungen" >}}
+1 = f · 2 = e · 3 = c · 4 = d · 5 = a. (b passt zu niemandem.)
+
+{{< /details >}}
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+**Zeit:** Einstieg 5' · Input 13' · Üben 15' · Anwenden 15' ·
+Prüfungsvorschau 7'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **Halbpension = Frühstück + eine Hauptmahlzeit.**
+  **Vollpension = drei Mahlzeiten.**
+- **„Aufschlag“** ist Aufpreis, z. B. *Einzelzimmer-Aufschlag*.
+- **„Selbstversorger“** = eigene Küche, ohne Essen inkludiert.
+
+## Weiterführende Materialien
+
+- **Booking.com A2 rezeptiv**.
+- **Oesterreich.info — Tourismus A2**:
+  <https://www.austria.info/>
