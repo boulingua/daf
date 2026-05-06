@@ -1,0 +1,216 @@
+---
+title: 'Einheit 12 — Zukunftsvisionen: Was wird 2040 anders sein?'
+cefr_level: B1
+unit_nr: 12
+slug: zukunftsvisionen
+cefr_can_do:
+- Ich kann einer Podcast-Folge über Zukunftsszenarien in den Hauptaussagen folgen.
+- Ich kann eine Präsentation zu einem Zukunftsthema halten.
+- Ich kann Meinungen zur Zukunft verschiedenen Personen zuordnen.
+skills_focus:
+- hoeren
+- sprechen
+pruefungs_module:
+- hören
+description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B1
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- … **kann ich** in einem Zukunfts-Podcast vier Sprecher:innen
+  unterscheiden.
+- … **kann ich** über meine Zukunftsvorstellung 2–3 Minuten
+  flüssig sprechen.
+- … **kann ich** Futur I und „werden + Infinitiv“-Konstruktionen
+  einsetzen.
+
+## GER-Ausrichtung
+
+- Prüfungsmodul **Hören** — Teil 3 (Gespräche zwischen
+  Muttersprachlern; Wer sagt was?) und Teil 4
+  (Radiosendung / Podcast).
+
+## Einstiegsgeschichte
+
+Der Podcast **„Morgen ist auch noch ein Tag“** läuft im
+Österreichischen Rundfunk ORF und fragt vier Menschen aus dem
+DACH-Raum: *„Was wird 2040 anders sein — beruflich, in der
+Stadt, im Familienleben?“* Heute zu Gast: **Milos, Noa, Dr.
+Lenz, Herr Malik.** Vier Perspektiven aus der Prototyp-
+Figurenbesetzung des B1-Kurses treffen sich zur Abschlussrunde.
+
+## 1. Einstieg
+
+- Was wird 2040 in Ihrer Stadt **anders** sein — was gleich?
+- Welche drei Veränderungen begrüßen Sie, welche drei machen
+  Ihnen Sorge?
+- Mit welchem Zeitverb sprechen Sie über Zukunft — *werden*,
+  *wollen*, Präsens?
+
+## 2. Input
+
+### A. Podcast-Transkript
+
+> **Moderation:** Milos, Sie pendeln nicht mehr. Wie sehen Sie
+> 2040?
+>
+> **Milos:** Ich glaube, das Pendeln bleibt. Aber die Form ändert
+> sich. 2040 fahren wir nicht mehr vier Stunden am Tag — wir
+> haben Hubs an kleinen Orten, dort arbeiten wir drei Tage, in
+> die Stadt fahren wir vielleicht einmal pro Woche.
+>
+> **Moderation:** Noa, Sie sind 22 und überlegen gerade, was nach
+> dem Erasmus kommt.
+>
+> **Noa:** Für meine Generation wird Mobilität normal sein. Wir
+> leben nicht mehr in einem Land, wir leben in mehreren. Was
+> schwieriger wird: stabile Beziehungen aufbauen, wenn alle ständig
+> wechseln.
+>
+> **Moderation:** Frau Dr. Lenz, wie sehen Sie die Gesundheitslage
+> 2040?
+>
+> **Dr. Lenz:** Ich fürchte, wir verlieren noch mehr Hausärztinnen
+> und Hausärzte. 2040 werden Videosprechstunden normal sein, das
+> ist auch gut. Aber es braucht Menschen vor Ort. Das ist die
+> Sorge.
+>
+> **Moderation:** Herr Malik?
+>
+> **Malik:** Ich hoffe, dass wir 2040 ein Mediensystem haben, in
+> dem wir Fakten und Meinungen klarer trennen. Wenn uns das
+> gelingt, sehe ich die Zukunft nicht so düster wie manche
+> Kolleg:innen. Wenn nicht, wird es schwierig.
+
+### B. Redemittel für Zukunft
+
+| Funktion                 | B1-Redemittel                              |
+|--------------------------|--------------------------------------------|
+| Vorhersage (sicher)      | *Ich bin überzeugt, dass …*                |
+| Vorhersage (vorsichtig)  | *Ich vermute, dass …*                      |
+| Hoffnung                 | *Ich hoffe, dass …*                        |
+| Sorge                    | *Ich fürchte, dass …*                      |
+| Konditional              | *Wenn … , dann …*                          |
+
+## 3. Üben
+
+**Aufgabe 1.** Wer sagt das? (M = Milos · N = Noa · L = Dr. Lenz ·
+K = Malik)
+
+1. „Pendeln in der alten Form wird es nicht mehr geben.“
+2. „Hausärzt:innen vor Ort bleiben notwendig.“
+3. „Mobilität wird Normalität.“
+4. „Die Medienlandschaft muss Fakten und Meinungen trennen.“
+5. „Videosprechstunden setzen sich durch.“
+6. „Stabile Beziehungen werden schwieriger.“
+
+**Aufgabe 2.** Wählen Sie pro Person **eine** Aussage und
+formulieren Sie sie in **indirekter Rede** um (B1-Konjunktiv I
+ansatzweise).
+Beispiel: *Milos sagt, das Pendeln bleibe — aber in anderer Form.*
+
+**Aufgabe 3.** Schreiben Sie drei eigene Zukunftsaussagen zu
+Ihrer Stadt im Jahr 2040 — je eine mit Hoffnung, eine mit
+Sorge, eine mit Konditional.
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** 1 = M · 2 = L · 3 = N · 4 = K · 5 = L · 6 = N.
+
+**Aufgabe 2.** Beispiele:
+
+- *Noa sagt, Mobilität werde in ihrer Generation normal sein.*
+- *Dr. Lenz meint, 2040 werde es mehr Videosprechstunden geben.*
+- *Malik hofft, das Mediensystem werde Fakten und Meinungen
+  klarer trennen.*
+
+**Aufgabe 3.** Individuelle Lösung; Muster:
+
+- *Ich hoffe, dass wir 2040 nicht mehr so viele Autos in der
+  Stadt haben.*
+- *Ich fürchte, dass die Mieten noch höher sein werden.*
+- *Wenn wir es schaffen, mehr Radwege zu bauen, wird Bewegung
+  einfacher.*
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Präsentation (B1-Sprechen Teil 2 Vorbereitung, Abschluss-
+Highlight):**
+
+Halten Sie eine 3-Minuten-Präsentation (5 Folien) zu einem der
+drei Themen:
+
+- *„Meine Stadt im Jahr 2040.“*
+- *„Mein Berufsleben im Jahr 2040.“*
+- *„Lernen und Bildung im Jahr 2040.“*
+
+Ein:e Mithörer:in gibt danach Feedback und stellt eine Frage —
+beides auf B1.
+
+## 5. Reflexion
+
+- [ ] Ich kann ein Podcast-Transkript mit vier Sprecher:innen
+      richtig zuordnen.
+- [ ] Ich kann fünf Redemittel für Zukunft benutzen.
+- [ ] Ich kann eine eigene Präsentation zur Zukunft halten.
+
+**Abschluss des B1-Kurses.** Vergleichen Sie noch einmal die
+Lernziele aus Einheit 1 (*sich über Berufserfahrungen austauschen*)
+mit dem, was Sie jetzt können. Halten Sie in Ihrem Lernjournal
+fest, welche zwei Kompetenzen am meisten gewachsen sind.
+
+## Prüfungsbeispiel — GER B1 Hören, Teil 4 (Zuordnung)
+
+**Aufgabenstellung:** Sie hören die vier Gäste noch einmal.
+Ordnen Sie die acht Aussagen den Sprecher:innen zu. Eine Aussage
+passt zu keiner der vier Personen (Distraktor).
+
+1. „Hubs an kleinen Orten machen das Pendeln anders.“ → Milos
+2. „Stabile Beziehungen sind schwerer unter Mobilität.“ → Noa
+3. „Videosprechstunden ersetzen Hausärzt:innen nicht vollständig.“ → Dr. Lenz
+4. „Wenn Medien Fakten und Meinung trennen, ist die Zukunft besser.“ → Malik
+5. „In zehn Jahren sind alle in einem Land geboren, aber in drei
+   aufgewachsen.“ → Noa (lose: Mobilität als Normalität)
+6. „Hausärzt:innen vor Ort bleiben wichtig.“ → Dr. Lenz
+7. „Automatisierung wird alle Arbeitsplätze ersetzen.“ → **Distraktor**
+8. „Wir fahren 2040 einmal pro Woche in die Stadt.“ → Milos
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+
+**Zeit (Abschlusseinheit, ggf. 120-Min-Block):**
+Einstieg 8' · Input 15' · Üben 20' · Anwenden 30' ·
+Reflexion + Kursabschlussgespräch 15' · Prüfungsvorschau 32'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **Futur I im Gesprochenen ist selten.** Meist reicht Präsens
+  mit Temporalangabe (*„2040 fahren wir …“*). Im schriftlichen
+  Vortrag ist Futur I angebracht.
+- **„werden“** zweideutig: Vollverb (*„Er wird müde.“*), Hilfsverb
+  Futur (*„Er wird kommen.“*), Passiv-Hilfsverb (*„Das Haus wird
+  gebaut.“*). Aus Kontext erschließen.
+
+## Weiterführende Materialien
+
+- **ARD-Audiothek — Zukunftspodcasts** (B1+, DE):
+  <https://www.ardaudiothek.de/>
+- **ORF Ö1 — „Vom Leben der Natur“** (oft zukunftsorientiert, AT):
+  <https://oe1.orf.at/>
+- **SRF Kultur — „Kontext“** (CH, B2-B1+):
+  <https://www.srf.ch/audio/kontext>

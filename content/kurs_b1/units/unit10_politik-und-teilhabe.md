@@ -1,0 +1,174 @@
+---
+title: Einheit 10 — Politik und Teilhabe
+cefr_level: B1
+unit_nr: 10
+slug: politik-und-teilhabe
+cefr_can_do:
+- Ich kann einer Wahldiskussion in ihren Hauptaussagen folgen.
+- Ich kann eine einfache politische Position begründen.
+- Ich kann eine Präsentation zu einem Bürgerinitiativ-Projekt halten.
+skills_focus:
+- sprechen
+- hoeren
+pruefungs_module:
+- sprechen
+description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B1
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- … **kann ich** Parteipositionen grob unterscheiden.
+- … **kann ich** einen eigenen Standpunkt in 3 Minuten
+  präsentieren.
+- … **kann ich** politisches Grundvokabular auf B1 verstehen.
+
+## GER-Ausrichtung
+
+- Prüfungsmodul **Sprechen** — Teil 2 (Präsentation anhand von
+  5 Folien) und Teil 3 (Feedback + Rückfrage).
+
+## Einstiegsgeschichte
+
+**Noa** hat während des Erasmus eine Bürgerinitiative in Wien
+kennengelernt: *„Grünere Innenstadt — mehr Bäume auf der
+Mariahilfer Straße“*. Sie überlegt, ob sie das Thema als
+Präsentation für ihr B1-Prüfungsvorbereitungstreffen wählt.
+
+## 1. Einstieg
+
+- Wählen Sie bei jeder Wahl in Ihrem Heimatland?
+- Gibt es in Ihrer Stadt eine Bürgerinitiative, die Sie kennen?
+- Was würde **Sie** motivieren, sich politisch einzumischen?
+
+## 2. Input
+
+### A. Kurz-Transkript Wahldiskussion (Stadtrat Wien)
+
+> **Moderatorin:** Herr Stiegler, Ihr Vorschlag: mehr Bäume auf
+> der Mariahilfer Straße. Wie finanzieren?
+>
+> **Stiegler:** Ein Umweltbudget-Anteil der Stadt, derzeit bei
+> 2 %, wäre mit 4 % realistisch. Die Gegenfinanzierung kommt aus
+> einem Teil der Parkgebühreneinnahmen.
+>
+> **Moderatorin:** Frau Rauscher, Sie halten das für Symbolpolitik.
+>
+> **Rauscher:** Ich halte es für zu wenig. Bäume sind gut, aber
+> wir brauchen mehr Radwege und bessere Luft. Nicht nur ein
+> paar Bäume in einer Straße, sondern ein Gesamtkonzept.
+>
+> **Stiegler:** Das widerspricht sich nicht. Die Bäume sind der
+> Anfang, das Radwegenetz der zweite Schritt.
+
+### B. Wortschatz (Politik, B1-Basis)
+
+| Wort                 | Erklärung                                      |
+|----------------------|------------------------------------------------|
+| Wahl, die (Pl. Wahlen) | Abstimmung, um Vertreter:innen zu bestimmen  |
+| Bürgerinitiative, die | Gruppe von Menschen, die ein lokales Anliegen vertreten |
+| Gegenfinanzierung, die | Frage, woher das Geld kommt                |
+| Symbolpolitik, die    | Maßnahme, die nur scheinbar wirkt             |
+| Gesamtkonzept, das    | umfassender Plan statt Einzelmaßnahmen         |
+
+## 3. Üben
+
+**Aufgabe 1.** Wer sagt was (Stiegler / Rauscher / beide)?
+
+1. „Bäume sind wichtig, aber nicht ausreichend.“
+2. „Bei 4 % Umweltbudget wäre es finanzierbar.“
+3. „Radwege sind der zweite Schritt.“
+4. „Parkgebühren könnten die Gegenfinanzierung sein.“
+
+**Aufgabe 2.** Schreiben Sie zu jedem Wort aus Input B einen
+eigenen Beispielsatz.
+
+**Aufgabe 3.** Planen Sie in Stichworten eine 5-Folien-Präsentation
+zu *„Eine Initiative in meiner Stadt“*. Nutzen Sie die
+Gliederung: Einleitung — Beispiel — eigene Position — Vor/Nachteil
+— Abschluss.
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.** 1 = Rauscher · 2 = Stiegler · 3 = Stiegler · 4 =
+Stiegler.
+
+**Aufgabe 2.** Individuelle Lösung.
+
+**Aufgabe 3.** Individuelle Lösung; Tipp: pro Folie maximal fünf
+Stichpunkte, jede Folie beginnt mit einer Leitfrage.
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Präsentation (B1-Sprechen Teil 2, 3 Minuten):**
+
+Halten Sie eine 3-Minuten-Präsentation zu einem der zwei Themen:
+
+- **Thema A:** „Wählen ab 16 — sinnvoll oder nicht?“
+- **Thema B:** „Bürgerinitiativen in meiner Stadt — nützt es
+  überhaupt?“
+
+**Gliederung (5 Folien):**
+
+1. Einleitung / persönlicher Bezug.
+2. Beispiele.
+3. Situation in meinem Land.
+4. Vor- und Nachteile.
+5. Abschluss / Ausblick.
+
+Ihre Partnerin / Ihr Partner gibt danach **ein Feedback** und
+stellt **eine Frage** (Teil 3).
+
+## 5. Reflexion
+
+- [ ] Ich kann eine politische Diskussion grob verstehen.
+- [ ] Ich kann politisches Grundvokabular (B1) einsetzen.
+- [ ] Ich kann eine 3-Minuten-Präsentation halten und spontan
+      auf eine Frage reagieren.
+
+## Prüfungsbeispiel — GER B1 Sprechen, Teil 2 + 3
+
+**Aufgabenstellung:** Halten Sie eine Präsentation (5 Folien,
+ca. 3 Min) zu Thema A **oder** Thema B.
+
+- **Thema A:** Wählen ab 16 — sinnvoll oder nicht?
+- **Thema B:** Bürgerinitiativen — hilft das wirklich, oder ist
+  es Symbolpolitik?
+
+Anschließend Feedback + 1 Frage von Ihrer Partnerin / Ihrem
+Partner.
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+
+**Zeit:** Einstieg 6' · Input 12' · Üben 18' · Anwenden 20' ·
+Reflexion 3' · Prüfungsvorschau 31'.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **„Politik“** ist Singular (die Politik); Plural *Politiken*
+  ist selten und bedeutet „politische Linien“. Auf B1 Singular
+  halten.
+- **„Bürgerinitiative“ vs. „Volksabstimmung“** — unterschiedliche
+  Mechanismen; nicht gleichsetzen.
+
+## Weiterführende Materialien
+
+- **Bundeszentrale für politische Bildung (DE)**:
+  <https://www.bpb.de/>
+- **Politik.at — offenes Bildungsportal (AT)**: <https://www.politik.at/>
+- **Ch.ch — Schweizer Bürgerinfo**: <https://www.ch.ch/>

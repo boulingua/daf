@@ -1,0 +1,263 @@
+---
+title: Einheit 3 — Weiterbildung und Studium
+cefr_level: B1
+unit_nr: 3
+slug: weiterbildung-und-studium
+cefr_can_do:
+- Ich kann eine längere Studien- oder Kursordnung in ihren Hauptaussagen verstehen.
+- Ich kann konkrete Informationen zu Kosten, Dauer und Zulassung in einem Infotext
+  finden.
+- Ich kann die Vor- und Nachteile eines Bildungswegs vergleichen.
+skills_focus:
+- lesen
+- hoeren
+pruefungs_module:
+- lesen
+description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
+---
+
+{{< callout type="note" >}}
+**Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** B1
+
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Lernziele
+
+- … **kann ich** in einem Text zu Weiterbildung gezielt Detail-
+  informationen finden.
+- … **kann ich** zwei Bildungswege stichwortartig vergleichen.
+- … **kann ich** über meine eigenen Weiterbildungspläne sprechen.
+
+## GER-Ausrichtung
+
+- Kompetenz: **Leseverstehen B1**, selektiv und detailliert.
+- Prüfungsmodul: **Lesen** — Teil 5 (Schriftliche Anweisungen /
+  Studienordnungen) und Teil 3 (Zur Orientierung lesen).
+- Zusätzlich rezeptiv: Hören-Teil 2 als Kontextübung.
+
+## Einstiegsgeschichte
+
+**Noa Rosselli**, 22, aus Rom, ist seit drei Monaten mit
+Erasmus+ an der Universität Wien. Ursprünglich hat sie Deutsch
+nur als Nebenfach belegt — jetzt überlegt sie, ob sie nach dem
+Erasmus ein komplettes Masterstudium auf Deutsch machen soll.
+Drei Wege stehen im Raum:
+
+1. ein regulärer Master in Übersetzungswissenschaft an der
+   Universität Wien,
+2. eine berufsbegleitende Weiterbildung in Mediation und
+   Fachübersetzung an der Donau-Universität Krems,
+3. ein Kurzprogramm „Wissenschaftskommunikation“ am ÖAW-Institut.
+
+Heute liest sie die Studienordnungen und vergleicht.
+
+## 1. Einstieg
+
+- Haben Sie nach der Schule / dem ersten Studium noch eine
+  Weiterbildung gemacht? Oder denken Sie daran?
+- Was ist Ihnen bei einer Weiterbildung wichtiger — **Kosten,
+  Dauer, Renommee, Flexibilität, Ortsnähe**? Ranken Sie die fünf.
+- Wenn Sie jetzt drei Monate freie Zeit für eine Weiterbildung
+  hätten, welches Thema würden Sie wählen?
+
+## 2. Input
+
+### A. Auszug aus einer Studienordnung
+
+> **§ 3 Zugangsvoraussetzungen**
+>
+> (1) Zum Masterstudium Übersetzungswissenschaft wird zugelassen,
+> wer einen einschlägigen Bachelorabschluss oder einen
+> gleichwertigen Abschluss nachweist.
+>
+> (2) Darüber hinaus sind folgende Sprachnachweise zu erbringen:
+> Deutsch mindestens auf dem Niveau C1 des Gemeinsamen
+> europäischen Referenzrahmens, sowie Kenntnisse in mindestens
+> einer weiteren modernen Fremdsprache auf Niveau B2.
+>
+> (3) Bewerbende mit einer anderen Erstsprache als Deutsch
+> weisen ihre Sprachkompetenz durch ein anerkanntes Zertifikat
+> (z. B. GER-Prüfung C1, DSH-2, TestDaF 4×5) nach.
+>
+> **§ 4 Studiendauer**
+>
+> (1) Die Regelstudienzeit beträgt vier Semester.
+>
+> (2) Das Studium kann im Wintersemester oder im Sommersemester
+> aufgenommen werden.
+>
+> (3) Das Teilzeitstudium ist möglich; die Regelstudienzeit
+> verlängert sich entsprechend, maximal um die Hälfte.
+
+### B. Kurzbeschreibung einer Weiterbildung (original)
+
+> **Mediation und Fachübersetzung — Universitätslehrgang an der
+> Donau-Universität Krems.**
+>
+> Sie arbeiten bereits als Übersetzer:in oder in einer
+> sprachmittelnden Tätigkeit und möchten sich auf Fachtexte
+> (Recht, Medizin, Wirtschaft) spezialisieren? Dieser
+> berufsbegleitende Lehrgang bietet Ihnen in fünf Modulen über
+> 18 Monate die methodische und terminologische Vertiefung, die
+> der Berufsalltag verlangt.
+>
+> Zulassung: einschlägiger Bachelorabschluss + mindestens zwei
+> Jahre Berufserfahrung. Umfang: 60 ECTS. Kosten: 8 400 € gesamt.
+
+### C. Wortschatz zum Thema
+
+| Wort                               | Erklärung                                          |
+|------------------------------------|----------------------------------------------------|
+| einschlägig (adj.)                 | zum Thema passend (z. B. einschlägiger Abschluss)  |
+| Regelstudienzeit, die              | vorgesehene Dauer eines Studiengangs               |
+| berufsbegleitend (adj.)            | parallel zum Beruf                                 |
+| Teilzeitstudium, das               | Studium mit reduzierter Stundenzahl                |
+| Sprachnachweis, der                | Dokument, das Sprachkenntnisse belegt              |
+
+## 3. Üben
+
+**Aufgabe 1 — Richtig oder falsch?** Zum Text **A** (Studien-
+ordnung):
+
+1. Man braucht einen Bachelor-Abschluss zum gleichen Thema.
+2. Deutsch auf B2 reicht aus.
+3. Man kann auch im Sommer anfangen.
+4. Ein Teilzeitstudium ist nicht erlaubt.
+
+**Aufgabe 2 — Informationen suchen.** Zum Text **B**
+(Donau-Uni Krems):
+
+- Wie lange dauert der Lehrgang?
+- Was kostet er?
+- Welche Berufserfahrung wird verlangt?
+- In wie viele Module ist er gegliedert?
+
+**Aufgabe 3 — Textsorte erkennen.** Welcher Text ist
+**offiziell-rechtlich** (Studienordnung), welcher ist **werblich**
+(Informationsbroschüre)? Woran erkennen Sie das — an der
+Syntax, am Vokabular, an der Ansprache?
+
+{{< details type="tip" title="Lösungen" >}}
+
+**Aufgabe 1.**
+
+1. Richtig. *„einschlägiger Bachelorabschluss“*.
+2. Falsch. Deutsch **C1** ist verlangt.
+3. Richtig. *„kann im Wintersemester oder im Sommersemester
+   aufgenommen werden“*.
+4. Falsch. *„Das Teilzeitstudium ist möglich“*.
+
+**Aufgabe 2.**
+
+- 18 Monate.
+- 8 400 € (gesamt).
+- mindestens zwei Jahre einschlägige Berufserfahrung.
+- fünf Module.
+
+**Aufgabe 3.**
+
+- **Text A** (Studienordnung) ist offiziell-rechtlich:
+  Paragrafen, Passivkonstruktionen, keine direkte Ansprache,
+  Nominalstil (*Zulassung*, *Nachweis*).
+- **Text B** (Donau-Uni Krems) ist werblich: direkte Ansprache
+  („Sie arbeiten bereits …“), rhetorische Fragen, Adjektive
+  *methodisch* / *terminologisch* mit positiver Konnotation.
+
+{{< /details >}}
+
+## 4. Anwenden
+
+**Sprechimpuls:** Stellen Sie sich vor, Sie sind Noa. Sie haben
+nur noch **zwei Tage**, um sich zu entscheiden. Wählen Sie
+**einen** der drei Wege (Master / Donau-Uni / ÖAW) und begründen
+Sie Ihre Wahl in einem zweiminütigen Monolog. Benutzen Sie die
+Konnektoren:
+
+- *deshalb / deswegen / darum* (begründend),
+- *hingegen / dagegen / im Gegensatz dazu* (vergleichend),
+- *zwar … aber* (einschränkend).
+
+## 5. Reflexion
+
+- [ ] Ich kann die Textsorte „Studienordnung“ erkennen.
+- [ ] Ich kann gezielt nach Zahlen, Namen, Daten im Text suchen.
+- [ ] Ich kann zwei Bildungsangebote in drei Kriterien
+      vergleichen.
+- [ ] Ich kann mit Konnektoren eine Wahl begründen.
+
+## Prüfungsbeispiel — GER B1 Lesen, Teil 5
+
+**Aufgabe:** Sie lesen die folgende Ordnung und beantworten 4
+Fragen durch Mehrfachauswahl (3-gliedrig).
+
+> **§ 2 Ablauf des Zertifikatslehrgangs**
+>
+> (1) Der Lehrgang besteht aus fünf Modulen. Die Module werden
+> in der Reihenfolge 1 → 5 absolviert; Ausnahmen bedürfen der
+> schriftlichen Genehmigung der Lehrgangsleitung.
+>
+> (2) Jedes Modul schließt mit einer Modulprüfung ab. Die
+> Anmeldung zur Modulprüfung erfolgt online bis spätestens
+> **14 Tage vor dem Prüfungstermin**.
+>
+> (3) Abwesenheit bei einer Modulprüfung wird nur bei
+> nachgewiesener Erkrankung (ärztliches Attest) oder in anderen
+> schwerwiegenden Fällen akzeptiert.
+
+1. **Die fünf Module …** a) können in beliebiger Reihenfolge
+   absolviert werden · b) sind in einer festen Reihenfolge zu
+   absolvieren · c) werden nur alle zwei Jahre angeboten.
+2. **Die Anmeldung zur Modulprüfung …** a) ist direkt vor Ort
+   möglich · b) erfolgt per Post · c) erfolgt online bis 14 Tage
+   vor dem Prüfungstermin.
+3. **Wer unentschuldigt fehlt …** a) bekommt einen neuen Termin
+   angeboten · b) bekommt die Prüfung nicht anerkannt · c) wird
+   automatisch vom Lehrgang ausgeschlossen.
+4. **Ein ärztliches Attest …** a) wird nicht akzeptiert · b) ist
+   ausreichend, um eine Abwesenheit zu entschuldigen · c) muss
+   drei Wochen im Voraus vorgelegt werden.
+
+{{< details type="tip" title="Lösungen Prüfungsbeispiel" >}}
+
+1. b · 2. c · 3. b (implizit aus „nur … akzeptiert“) · 4. b.
+
+{{< /details >}}
+
+## Downloads {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+
+**Zeit:** Einstieg 8' · Input A+B+C 15' · Üben 20' · Anwenden 15'
+· Reflexion 4' · Prüfungsvorschau 28'.
+
+**Binnendifferenzierung.** Stärkere: Aufgabe 3 als Mini-Aufsatz
+(100 Wörter) „Warum sind Studienordnungen so schwer zu lesen?“.
+Schwächere: Aufgabe 2 mit Unterstreichen im Text, bevor sie
+schriftlich beantwortet wird.
+
+</div>
+
+## Häufige Stolperfallen
+
+- **„einschlägig“** erkennen B1-Lerner:innen oft nicht. Hinweis:
+  *einschlägige Erfahrung, einschlägiges Studium* = zum Thema
+  passend.
+- **Nominalstil** in Paragrafen („die Zulassung erfolgt“) ist für
+  B1-Lerner:innen schwer. Tipp: innerlich verbalisieren („jemand
+  lässt zu“).
+- **Modalverben in der Passiv-Ersatzform:** „ist zu erbringen“
+  = „muss erbracht werden“. Auf C1 aktiv, auf B1 rezeptiv.
+
+## Weiterführende Materialien
+
+- **DAAD — Studieren in Deutschland** (mehrsprachige Portale):
+  <https://www.daad.de/de/>
+- **OeAD — Studieren in Österreich**:
+  <https://oead.at/>
+- **swissuniversities — Studieren in der Schweiz**:
+  <https://www.swissuniversities.ch/>
