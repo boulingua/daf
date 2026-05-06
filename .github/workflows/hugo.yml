@@ -133,11 +133,9 @@ jobs:
             curl -sf http://127.0.0.1:8080/materials/ > /dev/null && break
             sleep 1
           done
-          # Pa11y wraps axe-core + html-cs; threshold 0 = fail on any error.
-          npx -y pa11y@8 --runner axe --threshold 0 \
-            --ignore "duplicate-id" \
-            --ignore "color-contrast" \
-            http://127.0.0.1:8080/materials/ \
+          # Pa11y wraps axe-core; config file pins --no-sandbox so
+          # Puppeteer's bundled Chromium can run on GH Actions runners.
+          npx -y pa11y@8 --config scripts/pa11y.json http://127.0.0.1:8080/materials/ \
             || (kill $server_pid; exit 1)
           kill $server_pid
 
