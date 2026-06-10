@@ -18,7 +18,7 @@
 | Content language | `de` (single-language site) |
 | Output dir (current) | `docs/` (Quarto convention; will become `public/` under Hugo) |
 | Author | `S. Le Boulanger` |
-| Licence | MIT (code) / CC-BY-SA 4.0 (content) |
+| Licence | MIT (code) / CC-BY 4.0 (content) |
 
 ---
 

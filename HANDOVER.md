@@ -109,7 +109,7 @@ Jede Stufe deckt damit alle vier Prüfungsmodule ausgewogen ab.
 ## 8. Lizenzen
 
 - **MIT** für den Code (`LICENSE`).
-- **CC-BY-SA 4.0** für die Inhalte (`LICENSE-content`).
+- **CC-BY 4.0** für die Inhalte (`LICENSE-content`).
 
 ## 9. Nächste Schritte (für die Autorin)
 
@@ -146,7 +146,7 @@ der Vorgabe des DaF-Prompts in allen prüfenden Punkten:
 - Prüfungsformate an offiziellen Quellen orientiert ✓
 - keine Reproduktion echter Modellsatz-Texte ✓
 - keine Reproduktion kommerzieller Lehrwerke ✓
-- Lizenzsplit MIT + CC-BY-SA 4.0 sichtbar ✓
+- Lizenzsplit MIT + CC-BY 4.0 sichtbar ✓
 - Impressum + Datenschutz inkl. Adresse + GitHub-Hosting ✓
 
 Die Site ist nun **bereit für Phase 7** im Sinne des DACH-
@@ -154,4 +154,4 @@ Prompts: Übergang zu FLE und EFL.
 
 ---
 
-*© S. Le Boulanger · MIT (Code) / CC-BY-SA 4.0 (Inhalt)*
+*© S. Le Boulanger · MIT (Code) / CC-BY 4.0 (Inhalt)*

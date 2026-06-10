@@ -70,11 +70,11 @@ Zweiteiliger Lizenzsplit:
 
 - **MIT** (`LICENSE`) — Website-Code (Quarto-Konfig, Lua-Shortcodes,
   Python-Helfer, SCSS).
-- **CC-BY-SA 4.0** (`LICENSE-content`) — didaktische und
+- **CC-BY 4.0** (`LICENSE-content`) — didaktische und
   kuratorische Inhalte (Einheiten, Prüfungsbeispiele,
   Lernziele).
 
-`© S. Le Boulanger · MIT / CC-BY-SA 4.0` auf jedem Footer und
+`© S. Le Boulanger · MIT / CC-BY 4.0` auf jedem Footer und
 jedem PDF.
 
 ## Build lokal
@@ -111,6 +111,10 @@ BibTeX:
   year         = {2026},
   howpublished = {boulingua},
   url          = {https://boulingua.github.io/daf/},
-  note         = {MIT (Code) / CC-BY-SA 4.0 (Inhalte)}
+  note         = {CC BY 4.0 (Inhalte) / MIT (Code)}
 }
 ```
+
+## Lizenz
+
+Die Inhalte dieses Curriculums stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); der gesamte Code (Skripte, Code-Blöcke, Beispiele) steht unter der [MIT-Lizenz](LICENSE-CODE.md).

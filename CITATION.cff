@@ -15,7 +15,7 @@ repository-code: "https://github.com/boulingua/daf"
 url: "https://boulingua.github.io/daf/"
 license:
   - MIT
-  - CC-BY-SA-4.0
+  - CC-BY-4.0
 keywords:
   - "Deutsch als Fremdsprache"
   - "DaF"
