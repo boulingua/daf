@@ -43,3 +43,7 @@ __pycache__/
 
 /.quarto/
 **/*.quarto_ipynb
+*.tmp
+*.log
+*.bak
+*.orig
