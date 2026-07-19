@@ -106,6 +106,8 @@ jobs:
                   # explicitly stripped from this build, so check live instead.
                   print("https://boulingua.github.io/daf" + u)
           PY
-          npx -y lychee --no-progress --cache --max-cache-age 1d \
+          # lychee is a Rust binary already on PATH from lycheeverse/lychee-action
+          # above (it is not an npm package, so `npx lychee` fails).
+          lychee --no-progress --cache --max-cache-age 1d \
             --accept 200,206,301,302,308,429 \
             /tmp/network-urls.txt
