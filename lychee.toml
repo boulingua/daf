@@ -18,4 +18,4 @@ exclude = [
 # (see link-check.yml). That build emits internal links as /foo/ instead
 # of the production https://boulingua.github.io/daf/foo/, so --base just
 # works without remap rules.
-base = "/tmp/lychee-public"
+base_url = "/tmp/lychee-public"
