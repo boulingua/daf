@@ -57,6 +57,14 @@ jobs:
         # a throwaway just for link-checking.
         run: hugo --minify --baseURL "/"
 
+      # Unit front-matter hard-codes the production deploy path (/daf/materials/...);
+      # those files live at public/materials/ in this flat build. Bridge the prefix
+      # so lychee resolves them (materials holds no HTML, so no glob recursion).
+      - name: Bridge /daf/ deploy-path prefix for link check
+        run: |
+          mkdir -p public/daf
+          ln -sfn ../materials public/daf/materials
+
       - name: Restore lychee cache
         uses: actions/cache@v4
         with:
