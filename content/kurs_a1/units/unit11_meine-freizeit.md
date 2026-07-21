@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: meine-freizeit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit11_meine-freizeit.pptx
+  file: /daf/materials/presentations/unit11_meine-freizeit.odp
   thumbnail: /daf/materials/presentations/unit11_meine-freizeit.png
 worksheet:
   file: /daf/materials/worksheets/unit11_meine-freizeit.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-sprechen
 - skill-hoeren
 - topic-alltag
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,161 +39,209 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich sage: *Ich spiele gern Gitarre. Ich lese Bücher.*
-- Ich frage: *Was machst du in der Freizeit?*
-- Ich verstehe einen einfachen Radiobeitrag über Hobbys.
+- Ich kann 8+ Hobby-Wörter nennen: *Musik, Fußball, Buch, Foto …*
+- Ich kann sagen: *Ich spiele gern Gitarre. Ich mache gern Sport.*
+- Ich kann mit *oft, manchmal, nie* sagen, wie oft ich etwas mache.
+- Ich kann über meine Hobbys sprechen.
+- Ich verstehe einfache Radiobeiträge über Freizeit.
+- Ich frage: *Was machst du gern?*
 
-## GER-Ausrichtung
+## Einstieg
 
-Prüfungsmodul **Sprechen** — Teil 1 (Sich vorstellen, Hobbys
-nennen) und Teil 2 (Fragen stellen und beantworten).
-
-## Einstiegsgeschichte
-
-Nachmittag im Park. Ana, Luka und Herr Keks sitzen auf einer
-Bank.
+Es ist Samstag. Ana, Luka, Frau Berg und Herr Keks sitzen im Café.
 
 > **Ana:** Ich spiele gern Gitarre. Und du, Luka?
 >
-> **Luka:** Ich fotografiere gern. Ich mache viele Bilder in Wien.
+> **Luka:** Ich fotografiere gern. Ich mache oft Fotos in Wien.
 >
-> **Herr Keks:** Und ich backe natürlich gern. Nach der Arbeit
-> backe ich Kuchen für meine Enkel.
-
-## 1. Einstieg
-
-- Was machen Sie am Wochenende?
-- Welches Hobby mögen Sie?
-- Was ist Ihre Lieblingsaktivität?
-
-## 2. Input
-
-### A. Hobby-Wörter
-
-| Aktivität          | Verb              |
-|--------------------|-------------------|
-| Musik (Gitarre)    | spielen           |
-| Buch               | lesen             |
-| Film               | sehen             |
-| Foto               | machen / fotografieren |
-| Sport              | machen            |
-| Fußball            | spielen           |
-| Radfahren          | Rad fahren        |
-| Kochen / Backen    | kochen / backen   |
-| Spazieren gehen    | spazieren gehen   |
-
-### B. Konjugation (Präsens)
-
-| Person       | spielen | lesen  | machen | sehen  |
-|--------------|---------|--------|--------|--------|
-| ich          | spiele  | lese   | mache  | sehe   |
-| du           | spielst | liest  | machst | siehst |
-| er/sie       | spielt  | liest  | macht  | sieht  |
-| wir          | spielen | lesen  | machen | sehen  |
-| ihr          | spielt  | lest   | macht  | seht   |
-| sie/Sie      | spielen | lesen  | machen | sehen  |
-
-### C. Hörtext (Radio-Ausschnitt)
-
-> „Heute im Freizeittelefon: Luka aus Wien. Hallo Luka! Was
-> machst du gern?“
+> **Frau Berg:** Ich lese gern. Am Sonntag lese ich immer ein Buch.
 >
-> „Hallo. Ich fotografiere gern. Ich gehe durch Wien und
-> fotografiere Häuser.“
+> **Herr Keks:** Und ich backe gern! Ich backe manchmal Kuchen.
+> Sport mache ich nie — ich bin ein bisschen faul.
+
+**Sprechen Sie:**
+
+1. Was macht Ana gern?
+2. Wie oft fotografiert Luka?
+3. Und Sie? Was machen Sie gern in der Freizeit?
+
+## Input
+
+### A. Vokabeltabelle
+
+| Wort                | Bedeutung                        |
+|---------------------|----------------------------------|
+| die Freizeit        | free time                        |
+| das Hobby           | hobby                            |
+| Musik machen        | to make music                    |
+| Gitarre spielen     | to play the guitar               |
+| Fußball spielen     | to play football                 |
+| ein Buch lesen      | to read a book                   |
+| Fotos machen        | to take photos                   |
+| Sport machen        | to do sport                      |
+| kochen / backen     | to cook / to bake                |
+| spazieren gehen     | to go for a walk                 |
+| oft                 | often                            |
+| manchmal            | sometimes                        |
+| nie                 | never                            |
+
+### B. Grammatik — *gern* und die Häufigkeit
+
+**1. *gern* kommt direkt nach dem Verb:**
+
+> Ich **spiele gern** Gitarre. · Ich **lese gern** Bücher.
+
+**2. Häufigkeit — wie oft?** Die Wörter *oft, manchmal, nie* stehen meist nach dem Verb:
+
+| Wie oft?  | Beispiel                        |
+|-----------|---------------------------------|
+| oft       | Ich mache **oft** Sport.        |
+| manchmal  | Ich koche **manchmal**.         |
+| nie       | Ich spiele **nie** Fußball.     |
+
+**3. Frage:** *Was machst du gern?* — Antwort: *Ich lese gern.*
+
+### C. Lesetext / Dialog
+
+> **Ana:** Was machst du am Wochenende, Luka?
 >
-> „Und was noch?“
+> **Luka:** Am Samstag fotografiere ich oft. Am Sonntag spiele ich Schach.
 >
-> „Ich spiele Schach. Ich gehe einmal pro Woche in den
-> Schachclub.“
+> **Ana:** Machst du auch Sport?
+>
+> **Luka:** Nein, Sport mache ich nie. Aber ich gehe manchmal spazieren.
+>
+> **Ana:** Ich spiele gern Gitarre. Kommst du am Sonntag? Wir machen Musik!
+>
+> **Luka:** Ja, super! Ich komme gern.
 
-## 3. Üben
+### D. Kultur-Notiz — der Verein
 
-**Aufgabe 1 — Verb ergänzen.** Welches Verb passt?
+In Deutschland sind Vereine (*clubs*) sehr beliebt. Es gibt über
+600.000 eingetragene Vereine — für Sport, Musik, Kultur und vieles mehr.
+Viele Menschen treffen sich dort in ihrer Freizeit. Ein Sportverein
+heißt oft *SV* oder *TSV*. (Paraphrasiert nach: Wikipedia, „Vereinswesen",
+CC BY-SA 4.0 — siehe Quellen.)
 
-1. Ich ___ Gitarre.
-2. Wir ___ einen Film.
-3. Ana ___ ein Buch.
-4. Ihr ___ gern Fotos.
+## Üben
 
-**Aufgabe 2 — Zum Hörtext.** Richtig oder falsch?
+**Aufgabe 1 — Zuordnen.** Was passt zusammen?
 
-1. Luka fotografiert gern.
-2. Er spielt Klavier.
-3. Er geht zweimal pro Woche in den Schachclub.
-4. Er fotografiert Menschen.
+| Verb        | Wort              |
+|-------------|-------------------|
+| 1. spielen  | a) ein Buch       |
+| 2. lesen    | b) Fotos          |
+| 3. machen   | c) Gitarre        |
+| 4. gehen    | d) spazieren      |
 
-**Aufgabe 3 — Fragen stellen.** Wie fragen Sie?
+**Aufgabe 2 — Lücken.** Ergänzen Sie *oft, manchmal* oder *nie*.
 
-1. *Dein Hobby?* →
-2. *Dein Lieblingsbuch?* →
-3. *Am Wochenende?* →
+1. Ich mache jeden Tag Sport. → Ich mache ______ Sport.
+2. Ich spiele fast nie Fußball, nur einmal im Jahr. → Ich spiele ______ Fußball.
+3. Ich koche gar nicht. → Ich koche ______.
 
-{{< details type="tip" title="Lösungen" >}}
+**Aufgabe 3 — Sätze bauen.** Schreiben Sie Sätze mit *gern*.
 
-**Aufgabe 1.** 1) spiele · 2) sehen · 3) liest · 4) macht.
+1. ich / spielen / Gitarre → __________
+2. Ana / lesen / Bücher → __________
+3. wir / machen / Musik → __________
 
-**Aufgabe 2.** 1) R · 2) F (Schach) · 3) F (einmal) · 4) F
-(Häuser).
+**Aufgabe 4 — Mini-Dialog.** Ergänzen Sie.
 
-**Aufgabe 3.**
-- Was ist dein Hobby?
-- Was ist dein Lieblingsbuch?
-- Was machst du am Wochenende?
+> A: Was ______ du gern?
+> B: Ich ______ gern Fotos. Und du?
+> A: Ich ______ gern Gitarre.
+
+{{< details type="tip" title="Niveau-Differenzierung" >}}
+
+**Leichter:** Nutzen Sie die Vokabeltabelle als Hilfe. Sprechen Sie
+nur mit *ich* und einem Hobby.
+
+**Schwerer:** Bauen Sie in jeden Satz auch *oft, manchmal* oder *nie*
+ein und stellen Sie eine Rückfrage: *Und du?*
 
 {{< /details >}}
 
-## 4. Anwenden
+## Lösungen
 
-**Mini-Interview.** Zu zweit. Fragen Sie drei Fragen:
+**Aufgabe 1.** 1–c · 2–a · 3–b · 4–d.
 
-1. Was machst du in der Freizeit?
-2. Wann machst du das?
-3. Mit wem?
+**Aufgabe 2.** 1) oft · 2) manchmal · 3) nie.
 
-Erzählen Sie danach der Gruppe über Ihre Partnerin / Ihren
-Partner: *„Das ist X. X spielt gern Gitarre …“*
+**Aufgabe 3.**
+- Ich spiele gern Gitarre.
+- Ana liest gern Bücher.
+- Wir machen gern Musik.
 
-## 5. Reflexion
+**Aufgabe 4.** machst · mache · spiele.
+
+## Anwenden
+
+**Sprechaufgabe — Mini-Interview (zu zweit).** Fragen Sie Ihre Partnerin
+/ Ihren Partner und antworten Sie. Nutzen Sie *gern* und *oft / manchmal / nie*.
+
+1. Was machst du gern in der Freizeit?
+2. Wie oft machst du das?
+3. Was machst du nie?
+
+Erzählen Sie danach der Gruppe: *„Das ist X. X spielt gern Gitarre. X macht oft Sport …"*
+
+**Bewertungskriterien (einfach):**
+
+- Ich nenne mindestens 2 Hobbys. ✓
+- Ich benutze *gern* richtig (nach dem Verb). ✓
+- Ich benutze ein Häufigkeitswort (*oft / manchmal / nie*). ✓
+
+## Prüfung
+
+**GER-Prüfung A1 — Modul Sprechen, Teil 2 (Fragen und antworten).**
+
+Sie ziehen zwei Themenkarten. Stellen Sie zu jeder Karte **eine Frage**
+an Ihre:n Partner:in. Die Person antwortet in einem Satz.
+
+**Kartenvorschläge:** 🎸 Musik · ⚽ Sport · 📚 Bücher · 📷 Fotos
+
+**Beispiel:** *„Spielst du gern Fußball?"* — *„Ja, ich spiele oft Fußball."*
+
+**Punkte-Rubrik (max. 6 Punkte):**
+
+| Kriterium                              | Punkte |
+|----------------------------------------|--------|
+| Frage korrekt gestellt (2 Karten)      | 0–2    |
+| Antwort passt zur Frage                | 0–2    |
+| *gern* / Häufigkeitswort richtig       | 0–2    |
+
+## Reflexion
 
 - [ ] Ich kann 8+ Hobby-Wörter nennen.
-- [ ] Ich konjugiere *spielen / lesen / machen / sehen*.
-- [ ] Ich stelle Fragen zu Hobbys.
+- [ ] Ich kann sagen, was ich gern mache (*Ich spiele gern …*).
+- [ ] Ich kann *oft, manchmal, nie* benutzen.
+- [ ] Ich kann fragen: *Was machst du gern?*
+- [ ] Ich verstehe einen kurzen Radiobeitrag über Hobbys.
 
-## Prüfungsbeispiel — GER-Prüfung A1 Sprechen, Teil 2
+## Hinweise für Lehrkräfte
 
-**Aufgabe:** Sie ziehen zwei Themenkarten. Stellen Sie zu jeder
-Karte **eine Frage** an Ihre:n Partner:in. Die Person antwortet.
+**Zeit (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' · Anwenden 10' · Prüfung/Reflexion 5'.
 
-**Kartenvorschläge:**
+**Sozialform:** Einstieg im Plenum; Üben in Einzel- und Partnerarbeit;
+Anwenden und Prüfung in Paaren.
 
-- 🎸 Musik
-- ⚽ Sport
-- 📚 Bücher
-- ✈️ Reisen
+**Differenzierung:**
 
-**Beispielfrage:** *„Was für Musik hörst du gern?“* / *„Spielst
-du ein Instrument?“*
+- *Leichter:* Vokabeltabelle sichtbar lassen; Redemittelkarten mit
+  *Ich spiele gern …* austeilen; nur *ich*-Form üben.
+- *Schwerer:* Häufigkeitswörter kombinieren, Rückfragen verlangen,
+  über eine dritte Person berichten (*Er/Sie spielt gern …*).
 
+**Tipp:** Häufige Stolperfalle — *gern* steht **nach** dem Verb
+(*Ich spiele gern*, nicht *Ich gern spiele*). Bei *Rad fahren* /
+*spazieren gehen* kein *spielen* benutzen.
 
-<div class="notes">
+## Quellen
 
-**Zeit:** Einstieg 5' · Input 12' · Üben 13' · Anwenden 12' ·
-Prüfungsvorschau 3'.
-
-</div>
-
-## Häufige Stolperfallen
-
-- **„gern“** kommt **nach dem Verb**: *Ich spiele gern Gitarre*,
-  nicht *Ich gern spiele*.
-- **„Ich mag …“** + Akkusativ: *Ich mag Musik.*
-- **„spielen“** + Sport/Instrument, aber: *Rad fahren*, *Ski
-  fahren*, *Schlittschuh laufen*.
-
-## Weiterführende Materialien
-
-- **DW Nicos Weg — „Freizeit“**: <https://learngerman.dw.com/>
-- **Easy German Short — Hobbys**: <https://www.easygerman.org/>
+- „Vereinswesen" — Wikipedia-Autoren, Wikipedia (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Vereinswesen>, Lizenz CC BY-SA 4.0.
+- Alle Dialoge, Lese- und Übungstexte sind Originaltexte der Autorin
+  (S. Le Boulanger) für diese Einheit.

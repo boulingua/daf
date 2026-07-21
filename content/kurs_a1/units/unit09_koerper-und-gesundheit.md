@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: koerper-und-gesundheit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit09_koerper-und-gesundheit.pptx
+  file: /daf/materials/presentations/unit09_koerper-und-gesundheit.odp
   thumbnail: /daf/materials/presentations/unit09_koerper-und-gesundheit.png
 worksheet:
   file: /daf/materials/worksheets/unit09_koerper-und-gesundheit.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-sprechen
 - skill-lesen
 - topic-alltag
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,151 +39,246 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich nenne 10 Körperteile.
-- Ich sage: *Mein … tut weh. Ich habe …*
-- Ich verstehe Anweisungen: *Atmen Sie ein, atmen Sie aus.*
+- Ich kann 10 Körperteile mit Artikel nennen.
+- Ich kann sagen: *Mein Kopf tut weh.* / *Ich habe Kopfschmerzen.*
+- Ich kann beim Arzt eine Beschwerde nennen und sagen: *seit wann*.
+- Ich kann einfache Anweisungen verstehen: *Atmen Sie ein. Setzen Sie sich.*
+- Ich kann in der Apotheke höflich um ein Medikament bitten.
 
-## GER-Ausrichtung
+**Kann-Beschreibungen (GER A1):**
 
-Prüfungsmodul **Sprechen** — Teil 3: Bitten formulieren und
-darauf reagieren (Arztpraxis-Kontext).
+- Ich kann Körperteile benennen.
+- Ich kann beim Arzt einfache Beschwerden nennen.
+- Ich verstehe einfache Anweisungen der Ärztin.
 
-## Einstiegsgeschichte
+## Einstieg
 
-Ana hat Kopfschmerzen. Sie geht zu Dr. Frey. Ana:
+**Szene: Am Morgen in der Küche.** Nina, Tom und Oma Rosa sitzen am Tisch.
 
-> „Guten Tag, Frau Doktor. Ich habe starke Kopfschmerzen.“
+> **Nina:** „Guten Morgen. Oh, mein Kopf tut weh.“
 >
-> **Dr. Frey:** „Seit wann?“
+> **Oma Rosa:** „Du bist blass, Nina. Hast du Fieber?“
 >
-> **Ana:** „Seit gestern Abend.“
+> **Nina:** „Ich glaube ja. Mein Hals tut auch weh.“
 >
-> **Dr. Frey:** „Setzen Sie sich, bitte. Ich messe Ihren
-> Blutdruck.“
+> **Tom:** „Trink einen Tee. Und geh heute zum Arzt.“
+>
+> **Nina:** „Ja. Ich rufe die Praxis an.“
 
-## 1. Einstieg
+**Aktivierung — sprechen Sie im Kurs:**
 
+- Was tut Nina weh? Nennen Sie zwei Körperteile.
 - Wann waren Sie zuletzt krank?
-- Welche Körperteile kennen Sie auf Deutsch?
-- Was sagt man beim Arzt: *Ich habe …* oder *Mein … tut weh*?
+- Was machen Sie, wenn Sie Kopfschmerzen haben?
 
-## 2. Input
+## Input
 
-### A. Körperteile
+### A. Vokabeltabelle — Körper und Gesundheit
 
-| Kopfteile        | Körper          |
-|------------------|-----------------|
-| der Kopf         | der Arm         |
-| das Auge         | die Hand        |
-| das Ohr          | der Finger      |
-| die Nase         | das Bein        |
-| der Mund         | der Fuß         |
-| der Zahn         | der Bauch       |
-| der Hals         | der Rücken      |
+| Wort | Bedeutung |
+|------|-----------|
+| der Kopf | tête |
+| der Hals | cou / gorge |
+| der Bauch | ventre |
+| der Rücken | dos |
+| der Arm | bras |
+| das Bein | jambe |
+| die Hand | main |
+| der Fuß | pied |
+| das Auge | œil |
+| das Ohr | oreille |
+| die Nase | nez |
+| der Zahn | dent |
+| die Schmerzen (Pl.) | douleurs |
+| das Fieber | fièvre |
+| die Erkältung | rhume |
+| der Husten | toux |
+| die Tablette | comprimé |
+| die Apotheke | pharmacie |
 
-### B. Beschwerden
+### B. Grammatik-Box — Schmerzen ausdrücken
 
-| Beschwerde              | Satz                             |
-|-------------------------|----------------------------------|
-| Kopfschmerzen           | *Ich habe Kopfschmerzen.*        |
-| Halsweh                 | *Mein Hals tut weh.*             |
-| Fieber                  | *Ich habe Fieber, 39 Grad.*      |
-| Husten                  | *Ich huste stark.*               |
-| Erkältung               | *Ich habe eine Erkältung.*       |
+Es gibt zwei einfache Muster. Beide sind auf A1 richtig.
 
-### C. Arzt-Anweisungen (Imperativ Sie)
+| Muster | Beispiel |
+|--------|----------|
+| *Ich habe* + Körperteil + *schmerzen* | Ich habe **Kopf**schmerzen. Ich habe **Bauch**schmerzen. |
+| Körperteil + *tut weh* | Mein **Hals** tut weh. Mein **Fuß** tut weh. |
 
-- *Setzen Sie sich, bitte.*
-- *Machen Sie den Mund auf.*
-- *Atmen Sie ein.*
-- *Atmen Sie aus.*
-- *Nehmen Sie die Tablette dreimal am Tag.*
+**So bilden Sie Schmerz-Wörter:** Körperteil + *-schmerzen*.
+→ der Kopf → die *Kopf*schmerzen · der Bauch → die *Bauch*schmerzen ·
+der Rücken → die *Rücken*schmerzen · der Zahn → die *Zahn*schmerzen.
 
-## 3. Üben
+**Anweisungen vom Arzt (Imperativ mit *Sie*):** Verb + *Sie*.
+→ *Atmen Sie ein.* · *Setzen Sie sich.* · *Machen Sie den Mund auf.* ·
+*Nehmen Sie die Tablette.*
 
-**Aufgabe 1 — Zuordnen.** Welcher Satz passt zu welcher
-Situation?
+### C. Lesetext — Nina beim Arzt
 
-A. Kopfschmerzen · B. Husten · C. Halsweh · D. Bauchschmerzen
+> Nina ist in der Praxis. Die Ärztin heißt Dr. Bauer.
+>
+> **Dr. Bauer:** „Guten Tag, Frau Klein. Was fehlt Ihnen?“
+>
+> **Nina:** „Guten Tag. Ich habe Kopfschmerzen und mein Hals tut weh.“
+>
+> **Dr. Bauer:** „Seit wann?“
+>
+> **Nina:** „Seit gestern.“
+>
+> **Dr. Bauer:** „Machen Sie bitte den Mund auf. — Sie haben eine
+> Erkältung. Trinken Sie viel Tee und nehmen Sie diese Tablette
+> zweimal am Tag.“
+>
+> **Nina:** „Danke, Frau Doktor.“
 
-- „Mein Bauch tut weh, ich habe das Falsche gegessen.“
-- „Ich habe viel gehustet, ich brauche Hustensaft.“
-- „Ich kann nicht schlucken, mein Hals tut weh.“
-- „Der Kopf tut mir furchtbar weh, ich brauche eine Tablette.“
+### D. Kulturnotiz — Apotheke oder Drogerie?
 
-**Aufgabe 2 — Artikel.** *der / die / das*?
+In Deutschland kauft man Medikamente in der **Apotheke**. Nur die
+Apotheke darf verschreibungspflichtige Medikamente verkaufen, und
+dort arbeitet immer eine ausgebildete Apothekerin oder ein
+Apotheker. Eine **Drogerie** (zum Beispiel dm oder Rossmann)
+verkauft Seife, Zahnpasta, Kosmetik und einfache Gesundheitsprodukte,
+aber keine rezeptpflichtigen Medikamente. Für ein Rezept vom Arzt
+gehen Sie also immer in die Apotheke.
+(Paraphrasiert nach Wikipedia, „Apotheke", CC BY-SA 4.0.)
 
-- Auge, Ohr, Nase, Mund, Zahn, Hand, Fuß, Bauch.
+## Üben
 
-**Aufgabe 3 — Dialog ergänzen.**
+**Aufgabe 1 — Zuordnen.** Welcher Satz passt zu welchem Bild-Wort?
+Schreiben Sie den Buchstaben.
+
+Wörter: A. Kopfschmerzen · B. Husten · C. Halsweh · D. Bauchschmerzen
+
+1. „Ich kann nicht schlucken, mein Hals tut weh.“ → ____
+2. „Ich habe das Falsche gegessen, mein Bauch tut weh.“ → ____
+3. „Ich brauche eine Tablette, mein Kopf tut so weh.“ → ____
+4. „Ich huste die ganze Nacht, ich brauche Hustensaft.“ → ____
+
+**Aufgabe 2 — Artikel.** *der, die* oder *das*? Schreiben Sie den Artikel.
+
+____ Auge · ____ Ohr · ____ Nase · ____ Mund · ____ Zahn ·
+____ Hand · ____ Fuß · ____ Bauch
+
+**Aufgabe 3 — Lücken.** Ergänzen Sie: *tut* · *habe* · *Seit* · *Nehmen*.
+
+1. Ich ______ Fieber, 39 Grad.
+2. Mein Rücken ______ weh.
+3. ______ wann haben Sie Husten?
+4. ______ Sie die Tablette zweimal am Tag.
+
+**Aufgabe 4 — Mini-Dialog.** Ergänzen Sie den Dialog.
 
 > **Arzt:** Guten Tag. Was fehlt Ihnen?
 >
-> **Patient:** ______________________________
+> **Patient:** ________________________________________
 >
 > **Arzt:** Seit wann?
 >
-> **Patient:** ______________________________
+> **Patient:** ________________________________________
 >
-> **Arzt:** Setzen Sie sich bitte.
+> **Arzt:** Setzen Sie sich bitte. Ich sehe nach.
 
-{{< details type="tip" title="Lösungen" >}}
+**Niveau-Differenzierung:**
+- *Leichter:* Geben Sie zu Aufgabe 4 zwei Wortkarten vor
+  (*Kopfschmerzen*, *seit gestern*). Lernende bauen nur den Satz.
+- *Schwerer:* Lernende nennen **zwei** Beschwerden und stellen der
+  Ärztin selbst eine Frage (*Was soll ich nehmen?*).
 
-**Aufgabe 1.** D · B · C · A.
+## Lösungen
 
-**Aufgabe 2.** das Auge · das Ohr · die Nase · der Mund · der
-Zahn · die Hand · der Fuß · der Bauch.
+**Aufgabe 1.** 1 → C · 2 → D · 3 → A · 4 → B.
 
-**Aufgabe 3.** Individuell. Muster: *Ich habe Halsweh.* / *Seit
-zwei Tagen.*
+**Aufgabe 2.** das Auge · das Ohr · die Nase · der Mund · der Zahn ·
+die Hand · der Fuß · der Bauch.
 
-{{< /details >}}
+**Aufgabe 3.** 1. habe · 2. tut · 3. Seit · 4. Nehmen.
 
-## 4. Anwenden
+**Aufgabe 4.** Individuell. Muster: *Ich habe Halsschmerzen.* /
+*Seit zwei Tagen.*
 
-**Rollenspiel „Beim Arzt“.** Zu zweit. A ist Arzt/Ärztin, B ist
-Patient:in. B nennt **zwei Beschwerden** mit *„Ich habe …“* oder
-*„Mein … tut weh.“* A gibt **zwei Anweisungen** im Imperativ Sie.
+## Anwenden
 
-## 5. Reflexion
+**Sprechaufgabe — Rollenspiel „Beim Arzt".** Arbeiten Sie zu zweit.
+Person A ist Ärztin/Arzt, Person B ist Patient:in. Danach tauschen.
 
-- [ ] Ich nenne 10 Körperteile mit Artikel.
-- [ ] Ich sage zwei Beschwerden.
+- B nennt **zwei Beschwerden** (*Ich habe … / Mein … tut weh.*).
+- B sagt **seit wann** (*seit gestern / seit zwei Tagen*).
+- A gibt **zwei Anweisungen** im Imperativ mit *Sie*.
+
+**Bewertungskriterien (einfach):**
+
+| Kriterium | erfüllt |
+|-----------|---------|
+| Zwei Beschwerden genannt | ☐ |
+| „seit wann" gesagt | ☐ |
+| Zwei Anweisungen verstanden | ☐ |
+| Verständliche Aussprache | ☐ |
+
+## Prüfung
+
+**GER-Prüfung A1 — Modul Sprechen, Teil 3: Bitten formulieren und
+darauf reagieren.**
+
+Sie ziehen zwei Bildkarten: **Thermometer** und **Tablette**.
+Formulieren Sie zu jeder Karte eine höfliche Bitte an Ihre
+Partnerin / Ihren Partner. Die andere Person reagiert.
+
+- Beispiel Karte 1 (Thermometer): *„Kannst du mir das Thermometer
+  geben, bitte?"* — Reaktion: *„Ja, hier bitte."*
+- Beispiel Karte 2 (Tablette): *„Haben Sie eine Tablette gegen
+  Kopfschmerzen?"* — Reaktion: *„Ja, nehmen Sie diese hier."*
+
+**Punkte-Rubrik (max. 6 Punkte):**
+
+| Punkte | Beschreibung |
+|--------|--------------|
+| 2 | Bitte klar und höflich formuliert |
+| 2 | Passende Reaktion auf die Partner-Bitte |
+| 2 | Verständliche Aussprache, A1-Wortschatz |
+| 0 | keine verständliche Äußerung |
+
+## Reflexion
+
+Kreuzen Sie an, was Sie schon können:
+
+- [ ] Ich kann 10 Körperteile mit Artikel nennen.
+- [ ] Ich kann zwei Beschwerden sagen (*Ich habe … / Mein … tut weh*).
+- [ ] Ich kann sagen, *seit wann* ich krank bin.
 - [ ] Ich verstehe drei Arzt-Anweisungen.
+- [ ] Ich weiß, wo man Medikamente kauft (Apotheke).
 
-## Prüfungsbeispiel — GER-Prüfung A1 Sprechen, Teil 3
+## Hinweise für Lehrkräfte
 
-**Aufgabe:** Sie ziehen zwei Handlungskarten mit Bildern:
-**Thermometer** und **Kopfschmerz-Icon**. Formulieren Sie zwei
-Bitten an Ihre Prüfungspartnerin / Ihren Prüfungspartner:
+**Zeitplan (45 Minuten):**
 
-- Bitte um das Thermometer.
-- Bitte um Hilfe bei den Kopfschmerzen.
+| Phase | Zeit | Sozialform |
+|-------|------|-----------|
+| Einstieg (Szene + Fragen) | 5' | Plenum |
+| Input (Vokabeln, Grammatik, Lesetext, Kultur) | 12' | Plenum / Einzel |
+| Üben (Aufgaben 1–4) | 13' | Einzel → Partner |
+| Anwenden (Rollenspiel) | 12' | Partnerarbeit |
+| Prüfungsvorschau | 3' | Partnerarbeit |
 
-Die andere Person reagiert.
+**Gruppierung:** Rollenspiel und Prüfung in festen Paaren; für die
+Bildkarten Karten mit einfachen Icons vorbereiten (Thermometer,
+Tablette, Kopf, Hals).
 
-**Erwartung (A1):** halbe / volle Punktzahl nach Verständlichkeit.
+**Differenzierung:**
+- *Leichter:* Wortkarten und Satzanfänge vorgeben; Körperteile
+  zuerst nur mündlich nachsprechen lassen.
+- *Schwerer:* Zusätzliche Beschwerde und eine Rückfrage der
+  Patient:in verlangen; Imperativ mit drei Anweisungen bilden.
 
+**Stolperfallen:** *weh tun* + Dativ vermeiden auf A1 — die einfache
+Form *Mein Kopf tut weh* genügt. *Was fehlt Ihnen?* als feste
+Höflichkeitsformel einführen. Bei *Schmerzen* die Wortbildung
+(Körperteil + *-schmerzen*) sichtbar machen.
 
-<div class="notes">
+## Quellen
 
-**Zeit:** Einstieg 5' · Input 12' · Üben 13' · Anwenden 12' ·
-Prüfungsvorschau 3'.
-
-</div>
-
-## Häufige Stolperfallen
-
-- **„weh tun“** + Dativ: *Mir tut der Kopf weh* (formell) oder
-  einfacher *Mein Kopf tut weh*.
-- **„fehlen“** in Arztpraxen: *Was fehlt Ihnen?* — höfliche
-  Frage.
-- **Imperativ Sie**: Verb + *Sie*: *Atmen Sie*, *Setzen Sie*.
-
-## Weiterführende Materialien
-
-- **DW — „Beim Arzt“**: <https://learngerman.dw.com/>
-- **Gesundheitsinformation A1**: <https://www.gesundheitsinformation.de/>
+- „Apotheke" — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Apotheke>, Lizenz: CC BY-SA 4.0.
+- Alle Dialoge, Lese- und Übungstexte sind Originaltexte der
+  Autorin, S. Le Boulanger (2026), erstellt für diese Einheit.

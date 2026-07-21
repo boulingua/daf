@@ -61,7 +61,7 @@
       "id": "pres-kurs_a1-meine-familie",
       "type": "presentation",
       "title": "Einheit 2 — Meine Familie",
-      "url": "/daf/materials/presentations/unit02_meine-familie.pptx",
+      "url": "/daf/materials/presentations/unit02_meine-familie.odp",
       "thumbnail": "/daf/materials/presentations/unit02_meine-familie.png",
       "parent_article": "article-kurs_a1-meine-familie",
       "course": "kurs_a1",
@@ -74,7 +74,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-meine-familie",
@@ -93,7 +93,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-meine-familie",
@@ -121,7 +121,7 @@
       "id": "pres-kurs_a1-woher-kommst-du",
       "type": "presentation",
       "title": "Einheit 3 — Woher kommst du?",
-      "url": "/daf/materials/presentations/unit03_woher-kommst-du.pptx",
+      "url": "/daf/materials/presentations/unit03_woher-kommst-du.odp",
       "thumbnail": "/daf/materials/presentations/unit03_woher-kommst-du.png",
       "parent_article": "article-kurs_a1-woher-kommst-du",
       "course": "kurs_a1",
@@ -134,7 +134,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-woher-kommst-du",
@@ -153,7 +153,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-woher-kommst-du",
@@ -181,7 +181,7 @@
       "id": "pres-kurs_a1-meine-wohnung",
       "type": "presentation",
       "title": "Einheit 4 — Meine Wohnung",
-      "url": "/daf/materials/presentations/unit04_meine-wohnung.pptx",
+      "url": "/daf/materials/presentations/unit04_meine-wohnung.odp",
       "thumbnail": "/daf/materials/presentations/unit04_meine-wohnung.png",
       "parent_article": "article-kurs_a1-meine-wohnung",
       "course": "kurs_a1",
@@ -194,7 +194,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-meine-wohnung",
@@ -213,7 +213,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-meine-wohnung",
@@ -241,7 +241,7 @@
       "id": "pres-kurs_a1-essen-und-trinken",
       "type": "presentation",
       "title": "Einheit 5 — Essen und trinken",
-      "url": "/daf/materials/presentations/unit05_essen-und-trinken.pptx",
+      "url": "/daf/materials/presentations/unit05_essen-und-trinken.odp",
       "thumbnail": "/daf/materials/presentations/unit05_essen-und-trinken.png",
       "parent_article": "article-kurs_a1-essen-und-trinken",
       "course": "kurs_a1",
@@ -254,7 +254,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-essen-und-trinken",
@@ -273,7 +273,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-essen-und-trinken",
@@ -301,7 +301,7 @@
       "id": "pres-kurs_a1-einkaufen-und-preise",
       "type": "presentation",
       "title": "Einheit 6 — Einkaufen und Preise",
-      "url": "/daf/materials/presentations/unit06_einkaufen-und-preise.pptx",
+      "url": "/daf/materials/presentations/unit06_einkaufen-und-preise.odp",
       "thumbnail": "/daf/materials/presentations/unit06_einkaufen-und-preise.png",
       "parent_article": "article-kurs_a1-einkaufen-und-preise",
       "course": "kurs_a1",
@@ -314,7 +314,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-einkaufen-und-preise",
@@ -333,7 +333,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-einkaufen-und-preise",
@@ -361,7 +361,7 @@
       "id": "pres-kurs_a1-uhrzeit-und-wochenplan",
       "type": "presentation",
       "title": "Einheit 7 — Uhrzeit und Wochenplan",
-      "url": "/daf/materials/presentations/unit07_uhrzeit-und-wochenplan.pptx",
+      "url": "/daf/materials/presentations/unit07_uhrzeit-und-wochenplan.odp",
       "thumbnail": "/daf/materials/presentations/unit07_uhrzeit-und-wochenplan.png",
       "parent_article": "article-kurs_a1-uhrzeit-und-wochenplan",
       "course": "kurs_a1",
@@ -374,7 +374,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-uhrzeit-und-wochenplan",
@@ -393,7 +393,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-uhrzeit-und-wochenplan",
@@ -421,7 +421,7 @@
       "id": "pres-kurs_a1-wetter-und-jahreszeiten",
       "type": "presentation",
       "title": "Einheit 8 — Wetter und Jahreszeiten",
-      "url": "/daf/materials/presentations/unit08_wetter-und-jahreszeiten.pptx",
+      "url": "/daf/materials/presentations/unit08_wetter-und-jahreszeiten.odp",
       "thumbnail": "/daf/materials/presentations/unit08_wetter-und-jahreszeiten.png",
       "parent_article": "article-kurs_a1-wetter-und-jahreszeiten",
       "course": "kurs_a1",
@@ -434,7 +434,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-wetter-und-jahreszeiten",
@@ -453,7 +453,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-wetter-und-jahreszeiten",
@@ -481,7 +481,7 @@
       "id": "pres-kurs_a1-koerper-und-gesundheit",
       "type": "presentation",
       "title": "Einheit 9 — Körper und Gesundheit",
-      "url": "/daf/materials/presentations/unit09_koerper-und-gesundheit.pptx",
+      "url": "/daf/materials/presentations/unit09_koerper-und-gesundheit.odp",
       "thumbnail": "/daf/materials/presentations/unit09_koerper-und-gesundheit.png",
       "parent_article": "article-kurs_a1-koerper-und-gesundheit",
       "course": "kurs_a1",
@@ -494,7 +494,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-koerper-und-gesundheit",
@@ -513,7 +513,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-koerper-und-gesundheit",
@@ -541,7 +541,7 @@
       "id": "pres-kurs_a1-mein-beruf",
       "type": "presentation",
       "title": "Einheit 10 — Mein Beruf",
-      "url": "/daf/materials/presentations/unit10_mein-beruf.pptx",
+      "url": "/daf/materials/presentations/unit10_mein-beruf.odp",
       "thumbnail": "/daf/materials/presentations/unit10_mein-beruf.png",
       "parent_article": "article-kurs_a1-mein-beruf",
       "course": "kurs_a1",
@@ -554,7 +554,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-mein-beruf",
@@ -573,7 +573,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-mein-beruf",
@@ -601,7 +601,7 @@
       "id": "pres-kurs_a1-meine-freizeit",
       "type": "presentation",
       "title": "Einheit 11 — Meine Freizeit und Hobbys",
-      "url": "/daf/materials/presentations/unit11_meine-freizeit.pptx",
+      "url": "/daf/materials/presentations/unit11_meine-freizeit.odp",
       "thumbnail": "/daf/materials/presentations/unit11_meine-freizeit.png",
       "parent_article": "article-kurs_a1-meine-freizeit",
       "course": "kurs_a1",
@@ -614,7 +614,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-meine-freizeit",
@@ -633,7 +633,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-meine-freizeit",
@@ -661,7 +661,7 @@
       "id": "pres-kurs_a1-reisen-und-unterwegs",
       "type": "presentation",
       "title": "Einheit 12 — Reisen und unterwegs",
-      "url": "/daf/materials/presentations/unit12_reisen-und-unterwegs.pptx",
+      "url": "/daf/materials/presentations/unit12_reisen-und-unterwegs.odp",
       "thumbnail": "/daf/materials/presentations/unit12_reisen-und-unterwegs.png",
       "parent_article": "article-kurs_a1-reisen-und-unterwegs",
       "course": "kurs_a1",
@@ -674,7 +674,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a1-reisen-und-unterwegs",
@@ -693,7 +693,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a1-reisen-und-unterwegs",

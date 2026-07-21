@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: mein-beruf
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit10_mein-beruf.pptx
+  file: /daf/materials/presentations/unit10_mein-beruf.odp
   thumbnail: /daf/materials/presentations/unit10_mein-beruf.png
 worksheet:
   file: /daf/materials/worksheets/unit10_mein-beruf.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-schreiben
 - skill-sprechen
 - topic-arbeit
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,126 +39,184 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich sage: *Ich bin Lehrer / Ärztin.*
-- Ich schreibe zwei Sätze über meine Arbeit.
-- Ich kenne 10+ Berufsnamen.
+- Ich kann sagen: *Ich bin Lehrer. / Ich bin Ärztin.*
+- Ich kann meinen Arbeitsort nennen: *Ich arbeite in / bei / an …*
+- Ich kann zehn Berufsnamen erkennen und verstehen.
+- Ich kann einen kurzen Text (vier Sätze) über meine Arbeit schreiben.
 
-## GER-Ausrichtung
+**Aus dem Lehrplan (GER A1):**
 
-Prüfungsmodul **Schreiben** — Teil 1 (Formular: Berufsangabe)
-und Teil 2 (kurze persönliche Mitteilung).
+- Ich kann den eigenen Beruf einfach beschreiben.
+- Ich erkenne zehn Berufsnamen im Alltag.
+- Ich schreibe einen kurzen Text über meine Arbeit.
 
-## Einstiegsgeschichte
+## Einstieg
 
-Die Kursgruppe stellt sich vor. Jede:r sagt einen Satz zum Beruf.
+Es ist Montag. Der Deutschkurs beginnt. Frau Kurz fragt die
+Gruppe: „Was sind Sie von Beruf?“ Vier Personen antworten.
 
-> **Frau Kurz:** Ich bin Deutschlehrerin. Ich arbeite an der
-> Volkshochschule.
+> **Frau Kurz:** Guten Morgen! Ich bin Deutschlehrerin. Ich
+> arbeite hier an der Volkshochschule. Und Sie?
 >
-> **Herr Keks:** Ich bin Bäcker. Ich arbeite in meiner Bäckerei
-> in Wien-Ottakring.
+> **Herr Keks:** Ich bin Bäcker. Ich arbeite in einer Bäckerei
+> in Wien.
 >
-> **Ana:** Ich studiere Musik. Ich mache ein Praktikum in einer
-> Musikschule.
+> **Ana:** Ich bin noch Studentin. Ich studiere Musik. Ich mache
+> auch ein Praktikum.
 >
-> **Luka:** Ich bin Programmierer. Ich arbeite bei einer Firma.
+> **Luka:** Ich arbeite als Programmierer. Ich arbeite bei einer
+> Firma in der Stadt.
 
-## 1. Einstieg
+**Fragen zum Einstieg:**
 
-- Was ist Ihr Beruf? Oder: Was studieren Sie?
-- Welche Berufe kennen Sie auf Deutsch?
-- Wo arbeiten Sie?
+- Was ist Frau Kurz von Beruf?
+- Wo arbeitet Herr Keks?
+- Was studiert Ana?
 
-## 2. Input
+## Input
 
-### A. Berufsnamen (m/f)
+### A. Vokabeltabelle
 
-| maskulin          | feminin             |
-|-------------------|---------------------|
-| der Lehrer        | die Lehrerin        |
-| der Arzt          | die Ärztin          |
-| der Bäcker        | die Bäckerin        |
-| der Student       | die Studentin       |
-| der Programmierer | die Programmiererin |
-| der Koch          | die Köchin          |
-| der Verkäufer     | die Verkäuferin     |
-| der Kellner       | die Kellnerin       |
-| der Ingenieur     | die Ingenieurin     |
+| Wort | Bedeutung |
+|------|-----------|
+| der Beruf | job / profession |
+| die Arbeit | work |
+| arbeiten | to work |
+| der Lehrer / die Lehrerin | teacher (m / f) |
+| der Arzt / die Ärztin | doctor (m / f) |
+| der Bäcker / die Bäckerin | baker (m / f) |
+| der Student / die Studentin | student (m / f) |
+| der Programmierer / die Programmiererin | programmer (m / f) |
+| der Koch / die Köchin | cook (m / f) |
+| der Verkäufer / die Verkäuferin | salesperson (m / f) |
+| der Kellner / die Kellnerin | waiter / waitress |
+| die Firma | company |
+| das Büro | office |
+| das Praktikum | internship |
 
-### B. Satzmuster (A1)
+### B. Grammatik — Beruf nennen (A1)
 
-| Funktion              | Muster                                |
-|-----------------------|---------------------------------------|
-| Beruf nennen          | *Ich bin Lehrer. / Ich bin Ärztin.*   |
-| Arbeitsort            | *Ich arbeite in / bei / an …*         |
-| Tätigkeit             | *Ich unterrichte Deutsch. / Ich backe Brot.* |
-| Studium               | *Ich studiere … / Ich mache ein Praktikum.* |
+Auf A1 nennen wir den Beruf **ohne Artikel**:
+
+| Funktion | Muster |
+|----------|--------|
+| Beruf nennen | *Ich bin Lehrer. / Ich bin Ärztin.* |
+| Beruf mit „als“ | *Ich arbeite als Bäcker.* |
+| Arbeitsort | *Ich arbeite in / bei / an …* |
+| Tätigkeit | *Ich unterrichte Deutsch. / Ich backe Brot.* |
+| Studium | *Ich studiere Musik. / Ich mache ein Praktikum.* |
+
+**Merke:** *Ich bin Lehrer.* (richtig) — nicht *Ich bin ein
+Lehrer.* Die weibliche Form endet oft auf **-in**:
+*der Lehrer → die Lehrerin*.
 
 ### C. Kurzer Text (original)
 
-> Ich heiße Frau Kurz. Ich bin Deutschlehrerin. Ich arbeite an
-> der Volkshochschule in Wien. Ich unterrichte auf A1 und A2.
-> Meine Arbeit gefällt mir.
+> Ich heiße Frau Kurz. Ich bin Deutschlehrerin von Beruf. Ich
+> arbeite an der Volkshochschule in Wien. Ich unterrichte Deutsch
+> auf A1 und A2. Meine Arbeit macht mir Freude. Am Wochenende
+> arbeite ich nicht.
 
-## 3. Üben
+### D. Landeskunde — Die duale Ausbildung
 
-**Aufgabe 1 — m / f.** Wie lautet die weibliche Form?
+In Deutschland, Österreich und der Schweiz lernen viele junge
+Menschen einen Beruf in der sogenannten dualen Ausbildung. „Dual“
+heißt: Man lernt an zwei Orten. Man arbeitet in einem Betrieb und
+geht auch in die Berufsschule. Eine Ausbildung dauert meist zwei
+bis dreieinhalb Jahre. So lernt man den Beruf in der Praxis und in
+der Theorie zusammen. (Paraphrasiert nach Wikipedia,
+„Duale Ausbildung“, CC-BY-SA 4.0.)
 
-- der Arzt → _________
-- der Verkäufer → _________
-- der Kellner → _________
-- der Koch → _________
+## Üben
 
-**Aufgabe 2 — Sätze zuordnen.** Welcher Satz passt zu welchem
-Beruf?
+**Aufgabe 1 — Zuordnen (m / f).** Wie lautet die weibliche Form?
 
-1. *Ich unterrichte Schüler:innen.* → …
-2. *Ich backe Brot und Brötchen.* → …
-3. *Ich programmiere Apps.* → …
-4. *Ich bediene Gäste in einem Café.* → …
+- der Arzt → __________
+- der Verkäufer → __________
+- der Kellner → __________
+- der Koch → __________
 
-**Aufgabe 3 — Schreiben.** Schreiben Sie **vier Sätze** über
-Ihren Beruf (oder Ihr Studium). Nutzen Sie Muster aus B.
+**Aufgabe 2 — Sätze zuordnen.** Welcher Beruf passt zu welchem
+Satz?
+
+1. *Ich unterrichte Schülerinnen und Schüler.* → __________
+2. *Ich backe Brot und Brötchen.* → __________
+3. *Ich programmiere Apps.* → __________
+4. *Ich bediene Gäste in einem Café.* → __________
+
+**Aufgabe 3 — Lücken.** Ergänzen Sie: **bin · arbeite · als ·
+studiere**.
+
+- Ich __________ Ärztin. Ich __________ in einem Krankenhaus.
+- Ich arbeite __________ Kellner in einem Restaurant.
+- Ich __________ Musik an der Universität.
+
+**Aufgabe 4 — Mini-Dialog.** Fragen und antworten Sie zu zweit.
+
+> A: Was bist du von Beruf?
+> B: Ich bin __________ . Ich arbeite __________ .
+> A: Und wo arbeitest du?
+> B: Ich arbeite __________ .
+
+**Niveau-Differenzierung:** *leichter* — die Gruppe wählt Berufe
+aus der Vokabeltabelle und liest die fertigen Sätze vor.
+*schwerer* — die Gruppe schreibt drei eigene Sätze mit „als“ und
+einem Arbeitsort ohne Vorlage.
 
 {{< details type="tip" title="Lösungen" >}}
 
 **Aufgabe 1.** die Ärztin · die Verkäuferin · die Kellnerin ·
 die Köchin.
 
-**Aufgabe 2.** 1) Lehrer:in · 2) Bäcker:in · 3) Programmierer:in ·
-4) Kellner:in.
+**Aufgabe 2.** 1) Lehrerin / Lehrer · 2) Bäckerin / Bäcker ·
+3) Programmiererin / Programmierer · 4) Kellnerin / Kellner.
 
-**Aufgabe 3.** Individuell.
+**Aufgabe 3.** Ich **bin** Ärztin. Ich **arbeite** in einem
+Krankenhaus. · Ich arbeite **als** Kellner … · Ich **studiere**
+Musik …
+
+**Aufgabe 4.** Individuelle Lösung (Beispiel: „Ich bin Bäcker.
+Ich arbeite als Bäcker. Ich arbeite in einer Bäckerei.“).
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Kettenübung.** Jede:r sagt einen Satz zu ihrem/seinem Beruf —
-die nächste Person wiederholt plus fügt sich selbst hinzu:
+**Schreibaufgabe.** Schreiben Sie vier Sätze über Ihren Beruf oder
+Ihr Studium. Nutzen Sie die Muster aus dem Input:
 
-> A: „Ich bin Programmiererin. Ich arbeite in Wien.“
->
-> B: „Anna ist Programmiererin und arbeitet in Wien. Ich bin
-> Student und studiere Mathematik.“
+1. Ihr Beruf (*Ich bin … / Ich arbeite als …*)
+2. Ihr Arbeitsort (*Ich arbeite in / bei / an …*)
+3. Eine Tätigkeit (*Ich unterrichte … / Ich backe …*)
+4. Ein persönlicher Satz (*Meine Arbeit macht mir Freude.*)
 
-## 5. Reflexion
+**Bewertungskriterien (einfach):**
 
-- [ ] Ich kenne 10 Berufsnamen in m und f.
-- [ ] Ich sage drei Sätze über meinen Beruf.
-- [ ] Ich schreibe einen Kurztext (4 Sätze) über meine Arbeit.
+- Vier Sätze sind vorhanden. ✔
+- Der Beruf steht ohne Artikel: *Ich bin Lehrer.* ✔
+- Der Arbeitsort ist genannt. ✔
+- Die Sätze sind gut lesbar (Punkt am Ende, großer Satzanfang). ✔
 
-## Prüfungsbeispiel — GER-Prüfung A1 Schreiben, Teil 2
+## Prüfung
 
-**Aufgabe:** Schreiben Sie eine kurze Mitteilung an Ihre
-Freundin Clara (ca. 30 Wörter):
+**GER-Prüfung A1 — Modul Schreiben, Teil 2**
 
-- Sagen Sie Ihren neuen Beruf / Ihr Studium.
-- Erzählen Sie, wo Sie arbeiten / lernen.
+**Aufgabe:** Schreiben Sie eine kurze Mitteilung an Ihre Freundin
+Clara (ca. 30 Wörter). Schreiben Sie zu allen drei Punkten:
+
+- Nennen Sie Ihren neuen Beruf oder Ihr Studium.
+- Sagen Sie, wo Sie arbeiten oder lernen.
 - Laden Sie Clara zu einem Treffen ein.
+
+**Punkte-Rubrik (max. 6 Punkte):**
+
+| Kriterium | Punkte |
+|-----------|--------|
+| Alle drei Punkte bearbeitet | 3 |
+| Anrede und Gruß vorhanden | 1 |
+| Verständliche A1-Sätze | 2 |
 
 {{< details type="tip" title="Musterlösung" >}}
 
@@ -173,26 +231,39 @@ Freundin Clara (ca. 30 Wörter):
 
 {{< /details >}}
 
+## Reflexion
 
-<div class="notes">
+- [ ] Ich kann meinen Beruf sagen: *Ich bin … / Ich arbeite als …*
+- [ ] Ich kenne zehn Berufsnamen in der männlichen und weiblichen
+  Form.
+- [ ] Ich kann meinen Arbeitsort nennen.
+- [ ] Ich kann einen Kurztext (vier Sätze) über meine Arbeit
+  schreiben.
 
-**Zeit:** Einstieg 5' · Input 12' · Üben 13' · Anwenden 12' ·
-Prüfungsvorschau 3'.
+## Hinweise für Lehrkräfte
 
-</div>
+**Zeit (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' ·
+Anwenden 10' · Prüfung/Reflexion 5'.
 
-## Häufige Stolperfallen
+**Gruppierung:** Einstieg im Plenum; Aufgabe 4 und die Kettenübung
+in Paaren; Schreibaufgabe in Einzelarbeit mit Partnerkontrolle.
 
-- **Beruf ohne Artikel** in *Ich bin …*: *Ich bin Lehrer*, nicht
-  *Ich bin ein Lehrer* (auf A1 typisch).
-- **„arbeiten als“ vs. „arbeiten in/bei“:** *Ich arbeite als
-  Bäcker bei einer Firma in Wien.*
-- **„studieren“ vs. „lernen“:** studieren = Universität; lernen
-  = allgemein.
+**Differenzierung:** Schnelle Lernende ergänzen weitere Berufe aus
+ihrem Alltag und bilden die -in-Form selbst. Langsamere Lernende
+arbeiten mit der Vokabeltabelle als Stütze und füllen zuerst nur
+die Lücken in Aufgabe 3.
 
-## Weiterführende Materialien
+**Stolperfallen:**
 
-- **DW Nicos Weg — „Beruf und Arbeit“**:
-  <https://learngerman.dw.com/>
-- **BA — Berufenet (offen, nachschlagen)**:
-  <https://berufenet.arbeitsagentur.de/>
+- *Ich bin Lehrer* (kein Artikel), nicht *Ich bin ein Lehrer*.
+- „arbeiten als“ vs. „arbeiten in/bei/an“: *Ich arbeite als Bäcker
+  bei einer Firma in Wien.*
+- „studieren“ (Universität) vs. „lernen“ (allgemein).
+
+## Quellen
+
+- *Duale Ausbildung* — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Duale_Ausbildung>, Lizenz
+  CC-BY-SA 4.0.
+- Alle Dialoge, Lese- und Übungstexte sind Originaltexte der
+  Autorin (S. Le Boulanger, 2026), erstellt für diese Einheit.

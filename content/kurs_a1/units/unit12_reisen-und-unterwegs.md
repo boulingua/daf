@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: reisen-und-unterwegs
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit12_reisen-und-unterwegs.pptx
+  file: /daf/materials/presentations/unit12_reisen-und-unterwegs.odp
   thumbnail: /daf/materials/presentations/unit12_reisen-und-unterwegs.png
 worksheet:
   file: /daf/materials/worksheets/unit12_reisen-und-unterwegs.pdf
@@ -29,190 +29,196 @@ tags:
 - skill-lesen
 - skill-schreiben
 - topic-alltag
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
 
 {{< callout type="note" >}}
 **Modell:** Einstieg → Input → Üben → Anwenden → Reflexion · **GER-Stufe:** A1
-
 {{< /callout >}}
-
 
 ## Lernziele
 
-- Ich lese einen einfachen Fahrplan.
-- Ich verstehe Schilder an Bahnhöfen.
+- Ich kann sechs Verkehrsmittel nennen.
+- Ich kann einen einfachen Fahrplan lesen.
+- Ich kann ein Ticket am Automaten kaufen.
+- Ich kann höflich nach dem Weg fragen.
+- Ich kann einen Fahrplan in Grundzügen lesen.
+- Ich verstehe einfache Schilder und Hinweise.
 - Ich schreibe eine kurze Postkarte von unterwegs.
 
-## GER-Ausrichtung
+## Einstieg
 
-Prüfungsmodul **Lesen** — Teil 3 (Hinweisschilder / Aushänge,
-Richtig/Falsch).
+Ana reist nach Graz. Ihre Cousine heiratet dort. Am Hauptbahnhof in Wien trifft sie Tarek. Sie fragt eine Frau, Frau Klein.
 
-## Einstiegsgeschichte
-
-Ana fährt nach Graz. Ihre Cousine Beatriz heiratet dort. Am
-Hauptbahnhof Wien schaut Ana auf die Abfahrtstafel. Der Zug
-nach Graz fährt um **08:58** auf Gleis **7**.
-
-## 1. Einstieg
-
-- Wohin sind Sie zuletzt gereist?
-- Mit welchem Verkehrsmittel?
-- Welche deutschen Wörter kennen Sie zum Reisen?
-
-## 2. Input
-
-### A. Verkehrsmittel
-
-| Wort              | Bedeutung |
-|-------------------|-----------|
-| der Zug           | train     |
-| der Bus           | bus       |
-| die U-Bahn        | subway    |
-| die Straßenbahn / das Tram | tram |
-| das Flugzeug      | plane     |
-| das Auto          | car       |
-| das Rad / Fahrrad | bicycle   |
-
-### B. Fahrplan-Ausschnitt
-
-> **Abfahrten Wien Hbf — Fr. 14.06.**
+> **Ana:** Entschuldigung, wo ist Gleis 7?
 >
-> | Zeit  | Zug         | Nach        | Gleis |
-> |-------|-------------|-------------|-------|
-> | 08:30 | RJX 660     | Salzburg    | 4     |
-> | 08:58 | RJX 568     | Graz        | 7     |
-> | 09:15 | ICE 22      | Zürich      | 2     |
-> | 09:42 | RJX 42      | Budapest    | 6     |
+> **Frau Klein:** Gehen Sie geradeaus und dann links.
+>
+> **Ana:** Danke! Wann fährt der Zug nach Graz?
+>
+> **Tarek:** Um 08:58, glaube ich. Der Zug fährt auf Gleis 7.
+>
+> **Ana:** Super. Dann habe ich noch zehn Minuten Zeit.
 
-### C. Schilder und Hinweise
+**Aktivierungsfragen:**
 
-| Schild                     | Bedeutung                          |
-|----------------------------|------------------------------------|
-| Ausgang                    | way out                            |
-| Eingang                    | entrance                           |
-| Gleis                      | platform                           |
-| Information                | information                        |
-| Toiletten                  | toilets                            |
-| Geschlossen / Offen        | closed / open                      |
-| Rauchen verboten           | no smoking                         |
-| Bitte einsteigen           | please board                       |
+- Wohin reist Ana?
+- Wo ist Gleis 7?
+- Wann fährt der Zug nach Graz?
 
-## 3. Üben
+## Input
 
-**Aufgabe 1 — Fahrplan.** Zum Ausschnitt B:
+### A. Vokabeltabelle — Verkehrsmittel und Reisen
+
+| Wort | Bedeutung |
+|------|-----------|
+| der Zug | train |
+| der Bus | bus |
+| die U-Bahn | subway |
+| die Straßenbahn | tram |
+| das Flugzeug | plane |
+| das Fahrrad | bicycle |
+| der Bahnhof | station |
+| das Gleis | platform |
+| das Ticket / die Fahrkarte | ticket |
+| der Fahrplan | timetable |
+| geradeaus | straight ahead |
+| links / rechts | left / right |
+
+### B. Grammatik — mit dem / mit der (Verkehrsmittel)
+
+Für Verkehrsmittel benutzen wir **mit** + Dativ.
+
+| Verkehrsmittel | mit + Dativ |
+|----------------|-------------|
+| der Bus | mit **dem** Bus |
+| der Zug | mit **dem** Zug |
+| das Fahrrad | mit **dem** Fahrrad |
+| die U-Bahn | mit **der** U-Bahn |
+| die Straßenbahn | mit **der** Straßenbahn |
+
+Beispiele: *Ich fahre mit dem Zug nach Graz. Wir fahren mit der U-Bahn ins Zentrum.*
+
+Für die Frage nach dem Weg: *Wo ist …? — Gehen Sie geradeaus / links / rechts. Nehmen Sie die U-Bahn.*
+
+### C. Lesetext — Am Ticket-Automaten
+
+> Ana steht am Automaten. Sie möchte ein Ticket nach Graz. Sie drückt auf den Bildschirm und wählt „Graz". Das Ticket kostet 39 Euro. Ana bezahlt mit Karte. Der Automat gibt das Ticket. Jetzt geht Ana zu Gleis 7. Der Zug fährt um 08:58. Ana ist pünktlich.
+
+**Fragen:** Was möchte Ana? Wie viel kostet das Ticket? Wie bezahlt sie?
+
+### D. Kulturnotiz — Das Deutschland-Ticket
+
+Seit Mai 2023 gibt es in Deutschland das Deutschland-Ticket. Man kauft ein Ticket pro Monat. Damit fährt man in ganz Deutschland mit Bus, Straßenbahn, U-Bahn und Regionalzug. Im schnellen ICE gilt das Ticket aber nicht. (Frei paraphrasiert nach Wikipedia, CC-BY-SA; siehe Quellen.)
+
+## Üben
+
+**Aufgabe 1 — Zuordnen.** Welches Wort passt?
+
+| Bild / Situation | Wort |
+|------------------|------|
+| a) fährt auf Schienen, lang | ______ |
+| b) fährt in der Stadt unter der Erde | ______ |
+| c) fliegt in der Luft | ______ |
+| d) hat zwei Räder, ohne Motor | ______ |
+
+**Aufgabe 2 — Fahrplan lesen.**
+
+> | Zeit  | Zug     | Nach     | Gleis |
+> |-------|---------|----------|-------|
+> | 08:30 | RJX 660 | Salzburg | 4     |
+> | 08:58 | RJX 568 | Graz     | 7     |
+> | 09:15 | ICE 22  | Zürich   | 2     |
 
 1. Wann fährt der Zug nach Graz?
-2. Auf welchem Gleis?
+2. Auf welchem Gleis fährt der Zug nach Salzburg?
 3. Wohin fährt der Zug um 09:15?
-4. Wie heißt der Zug nach Salzburg?
 
-**Aufgabe 2 — Schilder zuordnen.**
+**Aufgabe 3 — Lücken (mit dem / mit der).**
 
-Situation → welches Schild hilft?
+1. Ich fahre ______ Bus zur Schule.
+2. Wir fahren ______ Zug nach Graz.
+3. Sie fährt ______ U-Bahn ins Zentrum.
 
-- Sie suchen die Toiletten am Bahnhof. → _____
-- Der Bahnsteig hat Nummer 7. → _____
-- Sie wollen den Bahnhof verlassen. → _____
-- Sie brauchen eine Auskunft. → _____
+**Aufgabe 4 — Mini-Dialog.** Ergänzen Sie.
 
-**Aufgabe 3 — Postkarte (Vorübung).** Ergänzen Sie:
+> A: Entschuldigung, wo ist ______ (der Ausgang)?
+> B: Gehen Sie ______ (geradeaus / rechts).
+> A: Vielen ______ !
 
-> Liebe(r) ___________,
->
-> ich bin in ___________. Das Wetter ist ___________. Wir
-> fahren morgen zum ___________. Ich grüße dich aus dem Zug!
->
-> ___________ Grüße
-> ___________
+### Niveau-Differenzierung
+
+- **Leichter:** Wortkarten mit Bildern vorgeben; Aufgabe 3 mit vorgegebenen Optionen (dem/der) zum Ankreuzen.
+- **Schwerer:** Lernende schreiben zwei eigene Sätze mit *mit dem / mit der* und einem Ziel.
+
+## Lösungen
+
+**Aufgabe 1.** a) der Zug · b) die U-Bahn · c) das Flugzeug · d) das Fahrrad.
+
+**Aufgabe 2.** 1) um 08:58 · 2) Gleis 4 · 3) nach Zürich.
+
+**Aufgabe 3.** 1) mit dem Bus · 2) mit dem Zug · 3) mit der U-Bahn.
+
+**Aufgabe 4.** (Beispiel) der Ausgang · geradeaus · Dank.
+
+## Anwenden
+
+**Sprechaufgabe (A1):** Spielen Sie zu zweit einen Mini-Dialog am Ticket-Automaten. Person A kauft ein Ticket nach Graz und fragt nach dem Gleis. Person B ist der Automat / die Information.
+
+Beispiel:
+
+> A: Guten Tag. Ich möchte ein Ticket nach Graz.
+> B: Das kostet 39 Euro.
+> A: Auf welchem Gleis fährt der Zug?
+> B: Auf Gleis 7. Gute Reise!
+
+**Bewertungskriterien (einfach):**
+
+- Frage und Antwort passen zusammen.
+- Eine Zahl (Preis oder Gleis) wird genannt.
+- Höfliche Wörter: *bitte, danke, guten Tag*.
+
+## Prüfung
+
+**GER-Prüfung A1 · Modul Lesen, Teil 3 — Schilder: richtig oder falsch?**
+
+Sie sehen fünf Schilder. Sind die Aussagen **richtig** oder **falsch**?
+
+|   | Schild | Aussage |
+|---|--------|---------|
+| 1 | „Rauchen verboten" | Sie dürfen hier rauchen. |
+| 2 | „Eingang" | Hier gehen Sie hinein. |
+| 3 | „Gleis 5 — ICE 22 Zürich" | Der Zug nach Zürich fährt auf Gleis 3. |
+| 4 | „Geschlossen bis 14:00" | Ab 14 Uhr ist offen. |
+| 5 | „Bitte einsteigen" | Sie sollen aussteigen. |
 
 {{< details type="tip" title="Lösungen" >}}
-
-**Aufgabe 1.** 1) 08:58 · 2) Gleis 7 · 3) Zürich · 4) RJX 660.
-
-**Aufgabe 2.** Toiletten · Gleis · Ausgang · Information.
-
-**Aufgabe 3.** Individuell.
-
+1. **F** · 2. **R** · 3. **F** (Gleis 5) · 4. **R** · 5. **F** (einsteigen = hineingehen).
 {{< /details >}}
 
-## 4. Anwenden
+**Punkte-Rubrik:** 5 Aufgaben, je 1 Punkt = 5 Punkte. Bestanden ab 3 Punkten.
 
-**Schreibaufgabe (A1):** Schreiben Sie eine **Postkarte aus Graz
-an Luka** (ca. 30 Wörter):
+## Reflexion
 
-- Wo Sie sind.
-- Was Sie machen.
-- Wann Sie zurückkommen.
-
-**Musterlösung:**
-
-> Lieber Luka,
->
-> ich bin in Graz. Heute ist die Hochzeit meiner Cousine. Das
-> Wetter ist warm und sonnig. Ich komme am Sonntag zurück. Bis
-> bald!
->
-> Liebe Grüße
-> Ana
-
-## 5. Reflexion
-
-- [ ] Ich kenne 7 Verkehrsmittel.
+- [ ] Ich kann sechs Verkehrsmittel nennen.
 - [ ] Ich lese einen einfachen Fahrplan.
-- [ ] Ich verstehe 6 Bahnhofsschilder.
-- [ ] Ich schreibe eine kurze Postkarte.
+- [ ] Ich frage höflich nach dem Weg.
+- [ ] Ich kaufe ein Ticket am Automaten.
+- [ ] Ich schreibe eine kurze Postkarte von unterwegs.
 
-## Prüfungsbeispiel — GER-Prüfung A1 Lesen, Teil 3
+## Hinweise für Lehrkräfte
 
-**Aufgabe:** Sie sehen fünf Schilder. Sind die Aussagen
-**richtig** oder **falsch**?
+**Timing (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' · Anwenden 8' · Prüfung 5' · Reflexion 2'.
 
-|   | Schild                     | Aussage                                           |
-|---|----------------------------|---------------------------------------------------|
-| 1 | „Rauchen verboten“         | Sie dürfen hier rauchen.                          |
-| 2 | „Eingang“                  | Hier ist die Tür, um hineinzugehen.               |
-| 3 | „Gleis 5 — ICE 22 Zürich“  | Der Zug nach Zürich fährt auf Gleis 3.            |
-| 4 | „Geschlossen bis 14:00“    | Ab 14 Uhr ist offen.                              |
-| 5 | „Bitte einsteigen“         | Sie sollen aussteigen.                            |
+**Gruppen:** Einstieg im Plenum; Üben in Einzel- oder Partnerarbeit; Anwenden als Partnerdialog (A/B-Rollen, dann Tausch).
 
-{{< details type="tip" title="Lösungen" >}}
-1. **F** · 2. **R** · 3. **F** (Gleis 5) · 4. **R** · 5. **F**
-(einsteigen = hineingehen).
+**Differenzierung:** Für schwächere Lernende Bildkarten und vorgegebene Satzanfänge bereitstellen; für stärkere Lernende freie Postkarte mit drei Zielen. Neue Verben (*fahren, fliegen, einsteigen*) vorab kurz visualisieren.
 
-{{< /details >}}
+**Stolperfallen:** *das Gleis* (Neutrum), *mit dem / mit der* + Verkehrsmittel, *einsteigen* = hineingehen (nicht aussteigen).
 
-## Kursabschluss A1
+## Quellen
 
-Sie haben **12 Einheiten** auf A1 bearbeitet und können sich nun:
-
-- vorstellen · über Familie sprechen · über Herkunft sprechen
-  · Wohnung beschreiben · im Café bestellen · einkaufen ·
-  Zeit angeben · Wetter beschreiben · beim Arzt helfen ·
-  über Beruf sprechen · Hobbys nennen · Fahrpläne lesen.
-
-Das entspricht dem Zielkanon der GER-Stufe A1.
-
-
-<div class="notes">
-
-**Zeit:** Einstieg 5' · Input 10' · Üben 13' · Anwenden 15' ·
-Reflexion 3' · Prüfungsvorschau 9'.
-
-</div>
-
-## Häufige Stolperfallen
-
-- **Gleis** ist neutrum (*das Gleis*) — *auf Gleis 7*.
-- **zwischen Zeit und Gleis:** *um 08:58 auf Gleis 7*.
-- **„Bitte einsteigen“** = bitte einsteigen in den Zug
-  (hineingehen), nicht aussteigen.
-
-## Weiterführende Materialien
-
-- **ÖBB Scotty — Fahrplanauskunft A1 rezeptiv**:
-  <https://www.oebb.at/>
-- **DW Nicos Weg — „Unterwegs“**: <https://learngerman.dw.com/>
+- Deutschlandticket — Wikipedia-Autoren (Stand Juli 2026), <https://en.wikipedia.org/wiki/Deutschlandticket>, Lizenz CC-BY-SA 4.0.
+- Alle Dialoge, Lese- und Übungstexte sind Originaltexte der Autorin (S. Le Boulanger), keine kommerziellen Materialien.
