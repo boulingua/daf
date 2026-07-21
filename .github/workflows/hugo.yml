@@ -137,16 +137,23 @@ jobs:
             exit 1
           fi
 
-      - name: JS bundle-size budget (≤280 KB gzipped on /materials/)
+      - name: JS bundle-size budget (render-path glue ≤88 KB gz; total ≤280 KB gz)
         run: |
-          # Glue JS we ship from public/js/network/. Cytoscape + Pagefind
-          # come from CDN/runtime and are not measured here; the prompt
-          # caps total page JS at 280 KB gz, of which our share is the
-          # only part we control directly.
+          # Render-path glue we ship eagerly (main/filters/search/list).
+          # Cytoscape is now self-hosted in vendor.*.js but is dynamically
+          # imported only when the graph scrolls into view, so it is NOT on
+          # the render path — it is measured separately against the looser
+          # total-page cap (280 KB gz) rather than the tight glue budget.
+          glue=$(find public/js/network -name '*.js' ! -name 'vendor.*.js' -exec gzip -c {} \; | wc -c)
           total=$(find public/js/network -name '*.js' -exec gzip -c {} \; | wc -c)
-          echo "Network glue JS gzipped: ${total} bytes"
-          if [ "$total" -gt 90112 ]; then
-            echo "::error::Network glue JS exceeds 88 KB gzipped budget (${total} bytes)"
+          echo "Render-path glue JS gzipped: ${glue} bytes"
+          echo "Total network JS gzipped (incl. lazy Cytoscape): ${total} bytes"
+          if [ "$glue" -gt 90112 ]; then
+            echo "::error::Render-path glue JS exceeds 88 KB gzipped budget (${glue} bytes)"
+            exit 1
+          fi
+          if [ "$total" -gt 286720 ]; then
+            echo "::error::Total network JS exceeds 280 KB gzipped budget (${total} bytes)"
             exit 1
           fi
 
