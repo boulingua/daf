@@ -1,0 +1,42 @@
+[
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/dialogue1.ogg",
+  "label": "Dialog 1",
+  "transcript": "Ana: Entschuldigung, wo ist Gleis 7?\nFrau Klein: Gehen Sie geradeaus und dann links.\nAna: Danke! Wann fährt der Zug nach Graz?\nTarek: Um 08:58, glaube ich. Der Zug fährt auf Gleis 7.\nAna: Super. Dann habe ich noch zehn Minuten Zeit."
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab1.ogg",
+  "label": "Wortschatz 1",
+  "transcript": "der Zug · der Bus · die U-Bahn · die Straßenbahn · das Flugzeug · das Fahrrad · der Bahnhof · das Gleis · das Ticket / die Fahrkarte · der Fahrplan · geradeaus · links / rechts"
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab2.ogg",
+  "label": "Wortschatz 2",
+  "transcript": "der Bus · der Zug · das Fahrrad · die U-Bahn · die Straßenbahn"
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "Ana steht am Automaten. Sie möchte ein Ticket nach Graz. Sie drückt auf den Bildschirm und wählt „Graz\". Das Ticket kostet 39 Euro. Ana bezahlt mit Karte. Der Automat gibt das Ticket. Jetzt geht Ana zu Gleis 7. Der Zug fährt um 08:58. Ana ist pünktlich."
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab3.ogg",
+  "label": "Wortschatz 3",
+  "transcript": "a) fährt auf Schienen, lang · b) fährt in der Stadt unter der Erde · c) fliegt in der Luft · d) hat zwei Räder, ohne Motor"
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "| Zeit  | Zug     | Nach     | Gleis |\n|-------|---------|----------|-------|\n| 08:30 | RJX 660 | Salzburg | 4     |\n| 08:58 | RJX 568 | Graz     | 7     |\n| 09:15 | ICE 22  | Zürich   | 2     |"
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte3.ogg",
+  "label": "Text 3",
+  "transcript": "A: Guten Tag. Ich möchte ein Ticket nach Graz.\nB: Das kostet 39 Euro.\nA: Auf welchem Gleis fährt der Zug?\nB: Auf Gleis 7. Gute Reise!"
+ },
+ {
+  "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab4.ogg",
+  "label": "Wortschatz 4",
+  "transcript": "1 · 2 · 3 · 4 · 5"
+ }
+]

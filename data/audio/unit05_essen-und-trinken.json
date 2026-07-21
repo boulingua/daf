@@ -1,0 +1,27 @@
+[
+ {
+  "file": "/daf/materials/audio/unit05_essen-und-trinken/dialogue1.ogg",
+  "label": "Dialog 1",
+  "transcript": "Herr Klein: Guten Tag! Was möchten Sie trinken?\nMia: Ich möchte einen Orangensaft, bitte. Ich mag Saft sehr gern.\nTom: Für mich einen Kaffee, bitte.\nFrau Berg: Und ich nehme einen Tee. Ich mag keinen Kaffee.\nHerr Klein: Gern. Und was möchten Sie essen?\nMia: Ein Käsebrot, bitte. Ich mag Käse.\nHerr Klein: Sehr gern. Kommt sofort!"
+ },
+ {
+  "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab1.ogg",
+  "label": "Wortschatz 1",
+  "transcript": "das Brot · das Brötchen · der Käse · die Wurst · das Ei · der Apfel · die Suppe · der Kaffee · der Tee · der Saft · das Wasser · die Milch · ich mag · ich mag … nicht · gern"
+ },
+ {
+  "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab2.ogg",
+  "label": "Wortschatz 2",
+  "transcript": "ich · du · er/sie/es · wir · ihr · sie/Sie"
+ },
+ {
+  "file": "/daf/materials/audio/unit05_essen-und-trinken/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "— Guten Tag. Was möchten Sie?\n— ________________________________\n— Und zu trinken?\n— ________________________________\n— Das macht 5 Euro, bitte."
+ },
+ {
+  "file": "/daf/materials/audio/unit05_essen-und-trinken/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "Hallo Tom,\nheute Abend koche ich eine Suppe. Ich mag Suppe sehr gern! Du magst keine Suppe, oder? Für dich habe ich ein Käsebrot. Wir trinken Tee. Kommst du um 18 Uhr?\nMia"
+ }
+]

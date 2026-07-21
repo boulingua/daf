@@ -1,0 +1,42 @@
+[
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/dialogue1.ogg",
+  "label": "Dialog 1",
+  "transcript": "Frau Kurz: Guten Morgen! Ich bin Frau Kurz. Und Sie?\nAna: Guten Morgen. Ich heiße Ana.\nFrau Kurz: Schön, Ana. Woher kommen Sie?\nAna: Aus Portugal.\nLuka: Hallo, Ana! Ich bin Luka. Komm, setz dich!"
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab1.ogg",
+  "label": "Wortschatz 1",
+  "transcript": "Hallo · Guten Morgen · Guten Tag · Guten Abend · Tschüss · Auf Wiedersehen"
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab2.ogg",
+  "label": "Wortschatz 2",
+  "transcript": "Ich heiße … · Ich bin … · Ich komme aus … · Ich bin … Jahre alt. · Wie heißt du? · Woher kommst du? · Wie alt bist du?"
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/dialogue2.ogg",
+  "label": "Dialog 2",
+  "transcript": "Ana: Hallo. Ich heiße Ana. Und du?\nLuka: Hallo, Ana. Ich bin Luka.\nAna: Woher kommst du, Luka?\nLuka: Aus der Türkei. Und du?\nAna: Ich komme aus Portugal.\nLuka: Wie alt bist du?\nAna: Ich bin 24 Jahre alt. Und du?\nLuka: Ich bin 27. — So, jetzt kommt Frau Kurz. Tschüss, bis gleich!"
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab3.ogg",
+  "label": "Wortschatz 3",
+  "transcript": "ich · du · er / sie / es · Sie (formell)"
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab4.ogg",
+  "label": "Wortschatz 4",
+  "transcript": "Ich grüße und verabschiede mich. · Ich sage Name, Herkunft und Alter. · Ich stelle drei Fragen. · Man versteht mich gut."
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "Hallo! Ich heiße Ana. Ich komme aus Portugal. Ich bin 24 Jahre\nalt. Ich spreche Portugiesisch und ein bisschen Deutsch. Mein\nName: A – N – A. Meine Postleitzahl ist 1010."
+ },
+ {
+  "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab5.ogg",
+  "label": "Wortschatz 5",
+  "transcript": "Vorstellung (Name, Herkunft, Alter, Sprachen) · Buchstabieren des Vornamens · Zahl korrekt nennen · Aussprache verständlich · Summe"
+ }
+]

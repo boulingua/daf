@@ -50,3 +50,6 @@ __pycache__/
 
 # Node deps for the Materials Network bundle (installed in CI via npm ci)
 node_modules/
+
+# TTS audio hash cache (audio .ogg + manifests are committed; hashes are not)
+static/materials/audio/**/.*.hash
