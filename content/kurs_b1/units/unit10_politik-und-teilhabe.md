@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: politik-und-teilhabe
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit10_politik-und-teilhabe.pptx
+  file: /daf/materials/presentations/unit10_politik-und-teilhabe.odp
   thumbnail: /daf/materials/presentations/unit10_politik-und-teilhabe.png
 worksheet:
   file: /daf/materials/worksheets/unit10_politik-und-teilhabe.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-sprechen
 - skill-hoeren
 - topic-gesellschaft
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,151 +39,211 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- … **kann ich** Parteipositionen grob unterscheiden.
-- … **kann ich** einen eigenen Standpunkt in 3 Minuten
-  präsentieren.
-- … **kann ich** politisches Grundvokabular auf B1 verstehen.
+**Ich kann …**
 
-## GER-Ausrichtung
+- … einer Wahldiskussion in ihren Hauptaussagen folgen.
+- … eine einfache politische Position begründen.
+- … eine Präsentation zu einem Bürgerinitiativ-Projekt halten.
 
-- Prüfungsmodul **Sprechen** — Teil 2 (Präsentation anhand von
-  5 Folien) und Teil 3 (Feedback + Rückfrage).
+Zusätzlich üben Sie:
 
-## Einstiegsgeschichte
+- … politisches Grundvokabular (Wahl, Beteiligung, Initiative) auf B1 zu verstehen und zu verwenden.
+- … eine höfliche oder hypothetische Meinung mit *würde* / *könnte* auszudrücken.
+- … Ihre Meinung mit *weil*, *dass* und *obwohl* zu begründen.
 
-**Noa** hat während des Erasmus eine Bürgerinitiative in Wien
-kennengelernt: *„Grünere Innenstadt — mehr Bäume auf der
-Mariahilfer Straße“*. Sie überlegt, ob sie das Thema als
-Präsentation für ihr B1-Prüfungsvorbereitungstreffen wählt.
+## Einstieg
 
-## 1. Einstieg
+**Noa** hat während ihres Erasmus-Semesters in Wien eine Bürgerinitiative kennengelernt: *„Grünere Innenstadt — mehr Bäume auf der Mariahilfer Straße".* Am Anfang dachte sie: *„Was bringt das schon? Ich bin doch nur eine Person."* Doch als sie zum ersten Treffen ging, saßen dort dreißig Nachbarinnen und Nachbarn. Jeder brachte eine kleine Idee mit. Nach drei Monaten pflanzte die Stadt tatsächlich die ersten Bäume. Heute sagt Noa: *„Ich habe verstanden, dass Teilhabe klein anfängt — mit einer Unterschrift, einem Gespräch, einer Stimme bei der Wahl."*
 
-- Wählen Sie bei jeder Wahl in Ihrem Heimatland?
-- Gibt es in Ihrer Stadt eine Bürgerinitiative, die Sie kennen?
+**Sprechen Sie zu zweit:**
+
+- Wählen Sie bei jeder Wahl in Ihrem Heimatland? Warum (nicht)?
+- Kennen Sie eine Bürgerinitiative in Ihrer Stadt oder Region?
 - Was würde **Sie** motivieren, sich politisch einzumischen?
 
-## 2. Input
+## Input
 
-### A. Kurz-Transkript Wahldiskussion (Stadtrat Wien)
+### A. Wortschatz (Politik und Teilhabe, B1)
 
-> **Moderatorin:** Herr Stiegler, Ihr Vorschlag: mehr Bäume auf
-> der Mariahilfer Straße. Wie finanzieren?
->
-> **Stiegler:** Ein Umweltbudget-Anteil der Stadt, derzeit bei
-> 2 %, wäre mit 4 % realistisch. Die Gegenfinanzierung kommt aus
-> einem Teil der Parkgebühreneinnahmen.
->
-> **Moderatorin:** Frau Rauscher, Sie halten das für Symbolpolitik.
->
-> **Rauscher:** Ich halte es für zu wenig. Bäume sind gut, aber
-> wir brauchen mehr Radwege und bessere Luft. Nicht nur ein
-> paar Bäume in einer Straße, sondern ein Gesamtkonzept.
->
-> **Stiegler:** Das widerspricht sich nicht. Die Bäume sind der
-> Anfang, das Radwegenetz der zweite Schritt.
+| Wort | Erklärung |
+|------|-----------|
+| die Wahl (Pl. die Wahlen) | Abstimmung, bei der man Vertreterinnen und Vertreter bestimmt |
+| die Wahlbeteiligung | Anteil der Menschen, die tatsächlich wählen gehen |
+| wahlberechtigt (Adj.) | Man darf offiziell wählen (z. B. ab 18 Jahren). |
+| die Bürgerinitiative | Gruppe von Menschen, die ein lokales Anliegen vertritt |
+| das Volksbegehren | Verfahren, mit dem Bürger:innen ein Thema ins Parlament bringen |
+| die Teilhabe | aktive Beteiligung an Entscheidungen der Gesellschaft |
+| die Abstimmung | gemeinsame Entscheidung durch Stimmen (Ja / Nein) |
+| der Standpunkt | die eigene Meinung zu einem Thema |
+| etwas begründen | mit einem *weil*-Satz sagen, warum man etwas meint |
 
-### B. Wortschatz (Politik, B1-Basis)
+### B. Grammatik im Blick
 
-| Wort                 | Erklärung                                      |
-|----------------------|------------------------------------------------|
-| Wahl, die (Pl. Wahlen) | Abstimmung, um Vertreter:innen zu bestimmen  |
-| Bürgerinitiative, die | Gruppe von Menschen, die ein lokales Anliegen vertreten |
-| Gegenfinanzierung, die | Frage, woher das Geld kommt                |
-| Symbolpolitik, die    | Maßnahme, die nur scheinbar wirkt             |
-| Gesamtkonzept, das    | umfassender Plan statt Einzelmaßnahmen         |
+{{< callout type="tip" >}}
+**Höflich und hypothetisch: Konjunktiv II mit *würde* / *könnte***
 
-## 3. Üben
+Wenn wir vorsichtig, höflich oder über eine Möglichkeit sprechen, benutzen wir oft *würde* oder *könnte*:
 
-**Aufgabe 1.** Wer sagt was (Stiegler / Rauscher / beide)?
+- *Ich **würde** gern an der Initiative teilnehmen.* (höflicher Wunsch)
+- *Man **könnte** mehr Bäume pflanzen.* (Vorschlag / Möglichkeit)
+- *Wenn mehr Menschen wählen **würden**, **wäre** die Demokratie stärker.* (hypothetisch)
 
-1. „Bäume sind wichtig, aber nicht ausreichend.“
-2. „Bei 4 % Umweltbudget wäre es finanzierbar.“
-3. „Radwege sind der zweite Schritt.“
-4. „Parkgebühren könnten die Gegenfinanzierung sein.“
+**Meinung begründen mit Nebensatz** — das Verb steht am Ende:
 
-**Aufgabe 2.** Schreiben Sie zu jedem Wort aus Input B einen
-eigenen Beispielsatz.
+- *Ich finde Wählen wichtig, **weil** jede Stimme **zählt**.*
+- *Ich glaube, **dass** Teilhabe klein **anfängt**.*
+- ***Obwohl** ich wenig Zeit **habe**, engagiere ich mich.*
+{{< /callout >}}
 
-**Aufgabe 3.** Planen Sie in Stichworten eine 5-Folien-Präsentation
-zu *„Eine Initiative in meiner Stadt“*. Nutzen Sie die
-Gliederung: Einleitung — Beispiel — eigene Position — Vor/Nachteil
-— Abschluss.
+### C. Lesetext 1 — Was ist eine Bürgerinitiative? (original)
+
+Eine Bürgerinitiative ist eine Gruppe von Menschen, die zusammen ein gemeinsames Ziel verfolgen. Meistens geht es um ein Thema direkt vor der Haustür: Vielleicht wünschen sich die Nachbarn einen neuen Spielplatz, mehr Bäume in der Straße oder ein Tempolimit vor der Schule. Die Menschen treffen sich, sammeln Ideen und sprechen mit der Stadtverwaltung. Oft sammeln sie auch Unterschriften, damit die Politik sieht, dass viele Menschen das Anliegen unterstützen.
+
+Wichtig ist: Eine Bürgerinitiative entscheidet nicht selbst. Sie kann aber Druck machen und die Politik davon überzeugen, etwas zu ändern. Manchmal dauert das lange, und nicht jede Idee wird umgesetzt. Trotzdem ist eine Bürgerinitiative ein einfacher Weg, wie normale Menschen mitreden können — auch ohne Parteimitgliedschaft. Wer sich beteiligt, muss kein Profi sein. Es reicht, eine gute Idee zu haben und mit anderen darüber zu sprechen. (ca. 150 Wörter)
+
+### D. Lesetext 2 — Zahlen zur Wahlbeteiligung (mit Quelle)
+
+Wie viele Menschen wählen eigentlich? Bei der Bundestagswahl am 23. Februar 2025 gaben rund 82,5 % der Wahlberechtigten ihre Stimme ab. Das war die höchste Wahlbeteiligung seit 1987. Besonders interessant: Jüngere Menschen beteiligten sich 2025 deutlich stärker als noch 2021. Am niedrigsten war die Beteiligung in der Altersgruppe der 21- bis 24-Jährigen mit 78,3 %.
+
+Auch regional gab es Unterschiede. In Bayern gingen mit 84,5 % besonders viele Menschen wählen, in Sachsen-Anhalt mit 77,7 % vergleichsweise wenige. Diese Zahlen stammen aus der amtlichen Statistik. Sie zeigen: Die meisten Menschen in Deutschland nutzen ihr Wahlrecht — aber nicht alle. Deshalb diskutieren viele, wie man noch mehr Menschen für Politik und Teilhabe gewinnen könnte. (ca. 120 Wörter · Quelle: Statistisches Bundesamt / Die Bundeswahlleiterin, 2025 — siehe *Quellen*)
+
+## Üben
+
+**Aufgabe 1 — Wortschatz (Niveau A / leichter).**
+Ordnen Sie das passende Wort zu: *Wahlbeteiligung · Bürgerinitiative · Standpunkt · wahlberechtigt · Teilhabe*.
+
+1. Man darf offiziell an einer Wahl teilnehmen: __________
+2. Der Anteil der Menschen, die wählen gehen: __________
+3. Eine Gruppe, die ein lokales Anliegen vertritt: __________
+4. Die eigene Meinung zu einem Thema: __________
+5. Aktive Beteiligung an Entscheidungen: __________
+
+**Aufgabe 2 — Grammatik: *weil* / *dass* / *obwohl* (Niveau A/B).**
+Verbinden Sie die Sätze. Achten Sie auf die Verbstellung am Ende.
+
+1. Ich gehe wählen. Jede Stimme zählt. (*weil*)
+2. Ich glaube. Teilhabe fängt klein an. (*dass*)
+3. Ich habe wenig Zeit. Ich engagiere mich in der Initiative. (*obwohl*)
+
+**Aufgabe 3 — Konjunktiv II höflich/hypothetisch (Niveau B).**
+Formulieren Sie höflicher oder hypothetischer mit *würde* / *könnte*.
+
+1. Wir pflanzen mehr Bäume. → Man __________ mehr Bäume __________.
+2. Ich nehme gern an dem Treffen teil. → Ich __________ gern an dem Treffen __________.
+3. Wenn mehr Menschen wählen gehen, ist die Demokratie stärker. → Wenn mehr Menschen wählen __________, __________ die Demokratie stärker.
+
+**Aufgabe 4 — Leseverstehen zu den Texten (Niveau B/C).**
+Richtig oder falsch? Korrigieren Sie die falschen Aussagen.
+
+1. Eine Bürgerinitiative entscheidet selbst über neue Gesetze.
+2. Man braucht eine Parteimitgliedschaft, um in einer Bürgerinitiative mitzumachen.
+3. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung bei etwa 82,5 %.
+4. Die Altersgruppe der 21- bis 24-Jährigen hatte 2025 die höchste Wahlbeteiligung.
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** 1 = Rauscher · 2 = Stiegler · 3 = Stiegler · 4 =
-Stiegler.
+**Aufgabe 1.** 1 = wahlberechtigt · 2 = Wahlbeteiligung · 3 = Bürgerinitiative · 4 = Standpunkt · 5 = Teilhabe.
 
-**Aufgabe 2.** Individuelle Lösung.
+**Aufgabe 2.**
+1. Ich gehe wählen, **weil** jede Stimme **zählt**.
+2. Ich glaube, **dass** Teilhabe klein **anfängt**.
+3. **Obwohl** ich wenig Zeit **habe**, engagiere ich mich in der Initiative.
 
-**Aufgabe 3.** Individuelle Lösung; Tipp: pro Folie maximal fünf
-Stichpunkte, jede Folie beginnt mit einer Leitfrage.
+**Aufgabe 3.**
+1. Man **könnte** mehr Bäume **pflanzen**.
+2. Ich **würde** gern an dem Treffen **teilnehmen**.
+3. Wenn mehr Menschen wählen **würden**, **wäre** die Demokratie stärker.
+
+**Aufgabe 4.**
+1. Falsch — eine Bürgerinitiative entscheidet nicht selbst; sie macht Druck und überzeugt die Politik.
+2. Falsch — man braucht keine Parteimitgliedschaft.
+3. Richtig.
+4. Falsch — diese Altersgruppe hatte mit 78,3 % die **niedrigste** Wahlbeteiligung.
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Präsentation (B1-Sprechen Teil 2, 3 Minuten):**
+**Präsentation vorbereiten (B1-Sprechen, Teil 2 — ca. 3 Minuten).**
 
-Halten Sie eine 3-Minuten-Präsentation zu einem der zwei Themen:
+Bereiten Sie eine kurze Präsentation zu einem Thema vor. Wählen Sie:
 
-- **Thema A:** „Wählen ab 16 — sinnvoll oder nicht?“
-- **Thema B:** „Bürgerinitiativen in meiner Stadt — nützt es
-  überhaupt?“
+- **Thema A:** Wählen ab 16 — sinnvoll oder nicht?
+- **Thema B:** Bürgerinitiativen in meiner Stadt — nützt das wirklich?
 
 **Gliederung (5 Folien):**
 
 1. Einleitung / persönlicher Bezug.
-2. Beispiele.
-3. Situation in meinem Land.
-4. Vor- und Nachteile.
-5. Abschluss / Ausblick.
+2. Ein oder zwei Beispiele.
+3. Situation in meinem Heimatland.
+4. Vor- und Nachteile (mit *weil* / *obwohl* begründen).
+5. Abschluss / mein Standpunkt (*Ich würde …, weil …*).
 
-Ihre Partnerin / Ihr Partner gibt danach **ein Feedback** und
-stellt **eine Frage** (Teil 3).
+**Kriterien für eine gute Präsentation:**
 
-## 5. Reflexion
+- Ich strukturiere klar (Einleitung — Hauptteil — Schluss).
+- Ich begründe meine Meinung mit mindestens zwei Nebensätzen.
+- Ich benutze mindestens eine höfliche/hypothetische Form (*würde* / *könnte*).
+- Ich verwende fünf neue Wörter aus dem Wortschatz.
 
-- [ ] Ich kann eine politische Diskussion grob verstehen.
-- [ ] Ich kann politisches Grundvokabular (B1) einsetzen.
-- [ ] Ich kann eine 3-Minuten-Präsentation halten und spontan
-      auf eine Frage reagieren.
+Anschließend gibt Ihre Partnerin / Ihr Partner **ein Feedback** und stellt **eine Rückfrage** (Teil 3). Antworten Sie spontan in ein bis zwei Sätzen.
 
-## Prüfungsbeispiel — GER B1 Sprechen, Teil 2 + 3
+## Prüfung
 
-**Aufgabenstellung:** Halten Sie eine Präsentation (5 Folien,
-ca. 3 Min) zu Thema A **oder** Thema B.
+**GER B1 · Modul Sprechen · Teil 2 + Teil 3**
+
+**Aufgabenstellung.** Halten Sie eine Präsentation (5 Folien, ca. 3 Minuten) zu **Thema A oder Thema B**. Danach gibt Ihre Partnerin / Ihr Partner ein kurzes Feedback und stellt eine Frage; Sie antworten (Teil 3).
 
 - **Thema A:** Wählen ab 16 — sinnvoll oder nicht?
-- **Thema B:** Bürgerinitiativen — hilft das wirklich, oder ist
-  es Symbolpolitik?
+- **Thema B:** Bürgerinitiativen — hilft das wirklich, oder ist es nur Symbolpolitik?
 
-Anschließend Feedback + 1 Frage von Ihrer Partnerin / Ihrem
-Partner.
+**Bewertungsraster (20 Punkte).**
 
+| Kriterium | Punkte |
+|-----------|--------|
+| Aufbau / Struktur (klare Gliederung, roter Faden) | 0–4 |
+| Inhalt (Beispiele, eigene Position, Bezug zum Heimatland) | 0–4 |
+| Begründen (Nebensätze mit *weil* / *dass* / *obwohl*) | 0–4 |
+| Wortschatz & Grammatik (inkl. *würde* / *könnte*) | 0–4 |
+| Interaktion Teil 3 (Feedback verstehen, Rückfrage beantworten) | 0–4 |
+| **Gesamt** | **/20** |
 
-<div class="notes">
+*Richtwert: ab 12 Punkten bestanden.*
 
+## Reflexion
 
-**Zeit:** Einstieg 6' · Input 12' · Üben 18' · Anwenden 20' ·
-Reflexion 3' · Prüfungsvorschau 31'.
+- [ ] Ich kann einer kurzen Wahldiskussion in den Hauptaussagen folgen.
+- [ ] Ich kann meine Meinung mit *weil*, *dass* oder *obwohl* begründen.
+- [ ] Ich kann höflich/hypothetisch mit *würde* und *könnte* sprechen.
+- [ ] Ich kann eine 3-Minuten-Präsentation halten und auf eine Frage reagieren.
+- [ ] Ich kenne fünf neue Wörter zum Thema Politik und Teilhabe.
 
-</div>
+## Hinweise für Lehrkräfte
 
-## Häufige Stolperfallen
+**Zeitplan (45 Minuten):**
 
-- **„Politik“** ist Singular (die Politik); Plural *Politiken*
-  ist selten und bedeutet „politische Linien“. Auf B1 Singular
-  halten.
-- **„Bürgerinitiative“ vs. „Volksabstimmung“** — unterschiedliche
-  Mechanismen; nicht gleichsetzen.
+- **Einstieg (6')** — Noa-Geschichte laut vorlesen, dann die drei Fragen zu zweit besprechen (Think–Pair–Share).
+- **Input (12')** — Wortschatztabelle gemeinsam klären; Grammatikbox an einem Tafelbeispiel demonstrieren; Lesetext 1 still lesen, Lesetext 2 laut vorlesen lassen (Anbindung an Modul Hören).
+- **Üben (15')** — Aufgaben 1–4 in Einzel- oder Partnerarbeit; Lösungen im Plenum.
+- **Anwenden (10')** — Präsentation stichwortartig planen (Folienskizze); ein Paar probt kurz.
+- **Reflexion (2')** — Checkliste ankreuzen.
 
-## Weiterführende Materialien
+**Gruppierung.** Einstieg und Anwenden in Paaren; Üben zunächst allein, Vergleich zu zweit. Für Teil 3 feste Tandems bilden, damit Feedback und Rückfrage geübt werden.
 
-- **Bundeszentrale für politische Bildung (DE)**:
-  <https://www.bpb.de/>
-- **Politik.at — offenes Bildungsportal (AT)**: <https://www.politik.at/>
-- **Ch.ch — Schweizer Bürgerinfo**: <https://www.ch.ch/>
+**Differenzierung.**
+
+- *Leichter:* Aufgabe 1 und 2 genügen; Präsentation auf 3 Folien reduzieren; Redemittel-Karten austeilen (*Ich finde …, weil … / Man könnte …*).
+- *Schwerer:* Aufgabe 4 mündlich begründen lassen; in der Präsentation ein Gegenargument mit *obwohl* verlangen; freie Themenwahl erlauben.
+
+**Hinweis zur Neutralität.** Das Material bleibt parteipolitisch neutral. Zahlen stammen aus amtlicher Statistik; Definitionen sind allgemein gehalten. Bitte keine Parteien bewerten, sondern Mechanismen der Teilhabe erklären.
+
+## Quellen
+
+- *Bundestagswahl 2025: Endgültiges Ergebnis* — Die Bundeswahlleiterin (2025), <https://www.bundeswahlleiterin.de/info/presse/mitteilungen/bundestagswahl-2025/29_25_endgueltiges-ergebnis.html>, amtliche Statistik (gemeinfreies amtliches Werk, § 5 UrhG).
+- *Bundestagswahl 2025: Ergebnisse der repräsentativen Wahlstatistik* — Statistisches Bundesamt / Destatis (2025), <https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_223_14.html>, amtliche Statistik (gemeinfreies amtliches Werk, § 5 UrhG).
+- *Volksbegehren (Deutschland)* — Wikipedia-Autorinnen und -Autoren (Abruf 2026), <https://de.wikipedia.org/wiki/Volksbegehren_(Deutschland)>, Lizenz CC BY-SA 4.0 (nur paraphrasiert, nicht wörtlich übernommen).
+
+*Hinweis: Alle Lese- und Einstiegstexte sind Originaltexte der Autorin/des Autors dieser Einheit. Es besteht keine Zusammenarbeit mit oder Förderung durch die genannten Institutionen.*
+</worksheet_markdown>

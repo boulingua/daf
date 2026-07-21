@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: wissenschaftstheorie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_wissenschaftstheorie.pptx
+  file: /daf/materials/presentations/unit03_wissenschaftstheorie.odp
   thumbnail: /daf/materials/presentations/unit03_wissenschaftstheorie.png
 worksheet:
   file: /daf/materials/worksheets/unit03_wissenschaftstheorie.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-hoeren
 - skill-sprechen
 - topic-wissenschaft
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,196 +39,356 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich folge einem Universitätsvortrag (B2/C1) zur Erkenntnistheorie.
-- Ich unterscheide *Induktion, Deduktion, Falsifikation,
-  Paradigmenwechsel*.
-- Ich übersetze einen erkenntnistheoretischen Begriff in
-  Alltagssprache.
+Am Ende dieser Einheit gilt:
 
-## GER-Ausrichtung
+- **Ich folge einem Vortrag zur Wissenschaftstheorie** — auch wenn der
+  Dozent zwischen Beispiel, These und Einwand hin- und herspringt.
+- **Ich reformuliere erkenntnistheoretische Fragen für ein
+  Laien-Publikum** — ich übersetze einen Fachbegriff, ohne ihn zu
+  verfälschen.
+- **Ich kenne Begriffe wie *Falsifikation, Induktion, Paradigma*** und
+  setze sie in eigener wissenschaftssprachlicher Prosa ein.
 
-Prüfungsmodul **Hören** — Teil 4 (Vortrag, MC-3gl, 7 Items, 2× hören).
+Sprachlich zielt die Einheit auf **akademisches Hörverstehen**, auf
+präzise **Redewiedergabe** (indirekte Rede, Konjunktiv I) und auf
+**hedging** — das vorsichtige Abstufen von Geltungsansprüchen, das die
+Wissenschaftssprache prägt (*es spricht einiges dafür, dass …*;
+*mutmaßlich*; *unter der Annahme, dass …*).
 
-## Einstiegsgeschichte
+## Einstieg
 
-Vorlesung an der Universität Wien, *„Einführung in die
-Wissenschaftstheorie“*. Dozentin: **Dr. Helena Stark**. Im
-Hörsaal sitzen DaF-Lernende, denen Dr. Stark vorab versprochen
-hat, die wichtigsten Begriffe in Alltagssprache zu erklären.
+Zwei Studierende verlassen denselben Hörsaal mit unvereinbaren
+Notizen. Die eine hat aufgeschrieben: *„Wissenschaft ist das, was sich
+beweisen lässt.“* Der andere: *„Wissenschaft ist das, was sich
+widerlegen lässt.“* Beide sind überzeugt, den Dozenten korrekt zitiert
+zu haben — und beide berufen sich auf denselben Satz.
 
-## 1. Einstieg
+Der Widerspruch ist kein Hörfehler. Er markiert eine der ältesten
+Bruchlinien der Erkenntnistheorie: Speist sich Wissen aus der
+**Erfahrung** oder aus der **Vernunft**? Und lässt sich eine Theorie
+je *bestätigen* — oder immer nur *vorläufig retten*, bis der nächste
+Befund sie kippt?
 
-- Wann ist eine Aussage „wissenschaftlich“?
-- Welcher Wissenschaftsphilosoph fällt Ihnen sofort ein?
-- Wo unterscheiden sich Naturwissenschaften und
-  Geisteswissenschaften in ihrer Methode?
+**Leitfragen zum Einstieg:**
 
-## 2. Input
+1. Woran erkennen *Sie* im Alltag, dass eine Behauptung
+   „wissenschaftlich“ und nicht bloß „plausibel“ ist?
+2. Kann man einen Satz für wahr halten, ohne ihn je überprüft zu
+   haben? Wo verläuft die Grenze zwischen *Wissen* und *Glauben*?
+3. Was wäre nötig, um Sie von einer Überzeugung *abzubringen*, die Sie
+   für gesichert halten? Wenn Ihnen dazu nichts einfällt — ist die
+   Überzeugung dann noch wissenschaftlich?
 
-### A. Vortragsausschnitt (Transkript, ca. 6 Min)
+## Input
 
-> **Dr. Stark:** *„Was ist Erkenntnis?“* — diese Frage ist nicht
-> rhetorisch. Sie ist die Geburtsfrage der Wissenschaftstheorie.
-> Drei Antworten haben das 20. Jahrhundert geprägt.
->
-> **Erstens, der induktive Empirismus:** Wir sammeln Daten;
-> wenn wir genug haben, leiten wir Gesetze ab. Plausibel,
-> aber tückisch — wie viele weiße Schwäne braucht es, um zu
-> behaupten *„alle Schwäne sind weiß“*? Genau einen einzigen
-> schwarzen, um die Aussage zu zerstören.
->
-> **Zweitens, Karl Popper und die Falsifikation:** Eine
-> wissenschaftliche Aussage ist nicht durch Bestätigung gültig,
-> sondern durch ihre **Widerlegbarkeit**. *„Alle Schwäne sind
-> weiß“* ist wissenschaftlich, weil ein einziger schwarzer
-> Schwan sie kippt. Popper rettet die Wissenschaftlichkeit der
-> Theorie — auf Kosten der Sicherheit.
->
-> **Drittens, Thomas Kuhn und die Paradigmen:** Wissenschaft
-> verläuft nicht linear, sondern in **Phasen**. Lange Zeit
-> arbeitet eine Disziplin in einem Paradigma. Wenn die Anomalien
-> sich häufen, kommt es zu einer Krise — und schließlich zum
-> *Paradigmenwechsel.* Kuhn relativiert damit die Idee
-> stetigen Fortschritts.
+### A. Wortschatz — wissenschaftssprachlicher Grundstock
 
-### B. Begriffliches Werkzeug
+| Begriff | Knapp erklärt |
+|---|---|
+| die Erkenntnistheorie | Lehre von Ursprung und Grenzen des Wissens |
+| der Empirismus | Position: alles Wissen stammt aus **Erfahrung** |
+| der Rationalismus | Position: die **Vernunft** ist die primäre Erkenntnisquelle |
+| die Induktion | Schluss vom Einzelfall aufs Allgemeine |
+| die Deduktion | Schluss vom Allgemeinen auf den Einzelfall |
+| die Falsifikation | der methodische **Widerlegungsversuch** |
+| die Verifikation | die (endgültige) **Bestätigung** einer Aussage |
+| das Paradigma | etablierter Theorie- und Deutungsrahmen |
+| die Anomalie | Befund, der nicht in den Rahmen passt |
+| die Demarkation | Abgrenzung von Wissenschaft und Nicht-Wissenschaft |
+| der Geltungsanspruch | der Anspruch einer Aussage, wahr/gültig zu sein |
+| vorläufig | (adj.) nur bis auf Weiteres gültig, revidierbar |
 
-| Begriff           | Knapp erklärt                                  |
-|-------------------|------------------------------------------------|
-| Induktion         | vom Einzelnen zum Allgemeinen schließen        |
-| Deduktion         | vom Allgemeinen zum Einzelnen schließen        |
-| Empirismus        | Erkenntnis aus Erfahrung                       |
-| Falsifikation     | Widerlegungsversuch als Methode                |
-| Paradigma         | etablierter Theorierahmen                      |
-| Anomalie          | Befund, der nicht ins Paradigma passt          |
-| Inkommensurabilität | Unvergleichbarkeit zweier Paradigmen         |
+### B. Grammatik im Fokus — Redewiedergabe & Hedging
 
-### C. Laien-Übersetzungs-Werkzeugkasten
+{{< callout type="tip" >}}
+**Indirekte Rede (Konjunktiv I) — die Sprache der Referierens.**
+In wissenschaftlichen Vorträgen distanziert man sich von fremden
+Positionen, indem man sie *im Konjunktiv I* referiert:
 
-- *Falsifikation* → „eine Aussage muss prinzipiell widerlegbar sein.“
-- *Paradigma* → „der Rahmen, in dem alle gerade arbeiten.“
-- *Anomalie* → „der Fall, der einfach nicht passt.“
+- Direkt: *„Jede Beobachtung bestätigt die Regel.“*
+- Indirekt: *Der Empirist behauptet, jede Beobachtung **bestätige**
+  die Regel.*
 
-## 3. Üben
+Fällt der Konjunktiv I mit dem Indikativ zusammen (Plural: *sie
+sammeln*), weicht man auf **Konjunktiv II** aus: *… sie **sammelten**
+Daten.*
 
-**Aufgabe 1 — MC (C1-Hören Teil 4).**
+**Hedging** stuft den Geltungsanspruch ab — ein C1-Kernmittel:
 
-1. Welche drei Positionen prägten laut Dr. Stark das 20. Jhd.?
-   a) Logik, Hermeneutik, Empirie · b) Empirismus, Falsifikation,
-   Paradigmen · c) Realismus, Idealismus, Pragmatismus.
+- **Modalpartikeln/Adverbien:** *mutmaßlich, vermeintlich, offenbar,
+  tendenziell.*
+- **Modalverben der Vermutung:** *Das dürfte zutreffen. Das mag
+  gelten.*
+- **satzwertige Formeln:** *Es spricht einiges dafür, dass …*;
+  *Unter der Annahme, dass …*; *Vorbehaltlich weiterer Prüfung …*
+{{< /callout >}}
 
-2. Was reicht laut Popper, um eine Theorie zu kippen?
-   a) eine widerlegende Beobachtung · b) hundert · c) ein
-   Mehrheitsbeschluss.
+### C. Kontext (mit Quellenbezug)
 
-3. Wann kommt es laut Kuhn zur Krise?
-   a) wenn Anomalien sich häufen · b) wenn ein neuer Forscher
-   etwas anderes entdeckt · c) wenn das Geld ausgeht.
+Die begriffliche Landkarte dieser Einheit lässt sich frei nach den
+enzyklopädischen Überblicksdarstellungen umreißen: Der **Empirismus**
+macht — so die zusammenfassende Darstellung der deutschsprachigen
+Wikipedia — die sinnliche Erfahrung zur einzigen gültigen Quelle allen
+Wissens, während der **Rationalismus** die Vernunft als vorrangige
+Erkenntnisquelle ansetzt; **Kant** verstand seine
+Transzendentalphilosophie erklärtermaßen als *Vermittlung* beider
+Lager (paraphrasiert nach de.wikipedia.org, CC BY-SA 4.0). Für die
+Frage, was eine Aussage überhaupt *wissenschaftlich* macht, lieferte
+**Karl Popper** in *Logik der Forschung* (1934) das Kriterium der
+**Falsifizierbarkeit**: Eine Theorie gelte, sinngemäß referiert, nicht
+schon dann als wissenschaftlich, wenn Beobachtungen sie stützten,
+sondern erst dann, wenn sich überhaupt angeben lasse, welche
+Beobachtung sie *widerlegen* würde (paraphrasiert nach der Stanford
+Encyclopedia of Philosophy und en.wikipedia.org). Popper starb 1994;
+seine Formulierungen sind **urheberrechtlich geschützt** — hier wird
+daher ausschließlich *paraphrasiert*, nicht zitiert.
 
-4. *Inkommensurabilität* meint, dass …
-   a) zwei Paradigmen unvergleichbar sind · b) zwei Forscher
-   sich nicht einig werden · c) zwei Daten unverträglich sind.
+Öffentlich zitierfähig ist dagegen **Kant** (gest. 1804). Sein
+berühmter Merksatz zur Verschränkung von Erfahrung und Begriff bündelt
+die Debatte:
 
-**Aufgabe 2 — Laien-Reformulierung.** Erklären Sie für eine
-Person ohne Vorkenntnisse:
+> „Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind
+> blind.“
+> — Immanuel Kant, *Kritik der reinen Vernunft* (1781), A51/B75
+> (gemeinfrei)
+
+### D. Hörtext (zum Vorlesen) — Vortragsausschnitt, ca. 6 Min
+
+> *Die Lehrkraft liest den folgenden Text zweimal ruhig vor; die
+> Lernenden hören zunächst ohne Mitschrift, dann mit.*
+
+**Dr. Helena Stark, „Einführung in die Wissenschaftstheorie“:**
+
+„Meine Damen und Herren, ich beginne mit einer Zumutung: Der Satz,
+den Sie für den sichersten halten, ist womöglich der unwissen­schaft­-
+lichste. Doch der Reihe nach.
+
+Die erste große Antwort auf die Frage *Woher stammt unser Wissen?*
+lautet: aus der **Erfahrung**. Der Empirismus sammelt Beobachtungen
+und schließt vom Einzelnen aufs Allgemeine — das nennt man
+**Induktion**. Plausibel, alltagsnah, und dennoch tückisch. Denken
+Sie an den klassischen Fall: Sie sehen tausend weiße Schwäne und
+folgern, *alle* Schwäne seien weiß. Doch keine noch so große Zahl
+bestätigender Fälle beweist den Allsatz — ein **einziger** schwarzer
+Schwan hingegen widerlegt ihn endgültig.
+
+Genau hier setzt die zweite Position an. Karl Popper — ich referiere
+ihn sinngemäß, denn seine Texte sind geschützt — verschiebt den
+Maßstab. Nicht die Bestätigung adele eine Theorie, sondern ihre
+**Widerlegbarkeit**. Eine Aussage sei, so seine Pointe, nur dann
+wissenschaftlich, wenn man überhaupt angeben könne, welche Beobachtung
+sie zu Fall brächte. Das klingt paradox: Die Stärke einer Theorie läge
+in ihrer *Verwundbarkeit*. Und tatsächlich — Aussagen, die mit *jeder
+denkbaren* Beobachtung vereinbar sind, erklären am Ende gar nichts.
+
+Die dritte Stimme, Thomas Kuhn, verkompliziert das Bild noch einmal.
+Wissenschaft, so seine These, schreite nicht stetig voran, sondern in
+**Phasen**. Lange arbeite eine Disziplin ruhig innerhalb eines
+**Paradigmas** — bis sich die **Anomalien** häuften, bis die Ausnahmen
+so zahlreich würden, dass der Rahmen selbst ins Wanken gerate. Dann,
+und nur dann, komme es zum Bruch, zum *Paradigmenwechsel*.
+
+Sie sehen: Zwischen *beweisen*, *widerlegen* und *umdeuten* liegen
+Welten. Und die Frage, welche der beiden Studentinnen mich vorhin
+richtig zitiert hat, lässt sich nun beantworten — es waren, auf ihre
+je eigene Weise, beide."
+
+## Üben
+
+> **Niveau-Differenzierung:** Aufgaben mit ⬤ sind der Kern (C1);
+> Aufgaben mit ◐ sind Erleichterungen (C1−, mit Hilfsgerüst);
+> Aufgaben mit ◆ sind Erweiterungen (C1+).
+
+**Aufgabe 1 ⬤ — Globalverstehen (nach dem ersten Hören).**
+Ordnen Sie jeder Position ihr Kernstichwort zu.
+
+1. Empirismus — a) Widerlegbarkeit · b) Erfahrung/Induktion · c) Paradigmenphasen
+2. Popper — a) Widerlegbarkeit · b) Erfahrung/Induktion · c) Paradigmenphasen
+3. Kuhn — a) Widerlegbarkeit · b) Erfahrung/Induktion · c) Paradigmenphasen
+
+**Aufgabe 2 ⬤ — Detailverstehen, MC-3gl (C1-Hören, Teil 4).**
+
+1. Das Schwan-Beispiel illustriert vor allem …
+   a) die Deduktion · b) die Grenze der Induktion · c) den Paradigmenwechsel.
+2. „Die Stärke einer Theorie liegt in ihrer Verwundbarkeit“ meint …
+   a) Theorien seien zerbrechlich · b) Wissenschaftlichkeit setze
+   Widerlegbarkeit voraus · c) man solle Theorien nicht kritisieren.
+3. Warum referiert Dr. Stark Popper nur „sinngemäß“?
+   a) sie hat ihn vergessen · b) seine Texte sind urheberrechtlich
+   geschützt · c) er hat nichts Wörtliches geschrieben.
+4. Ein Paradigmenwechsel tritt laut Kuhn ein, wenn …
+   a) ein Forscher es beschließt · b) die Anomalien sich häufen ·
+   c) neue Geldmittel fließen.
+
+**Aufgabe 3 ◐ — Laien-Reformulierung (mit Gerüst).**
+Übersetzen Sie für eine Person ohne Vorkenntnisse. Nutzen Sie das
+angebotene Satzgerüst.
 
 1. *„Wissenschaftlichkeit setzt Falsifizierbarkeit voraus.“*
-2. *„Die Anomalien akkumulieren sich, das Paradigma gerät unter
-   Druck.“*
+   → Gerüst: *Etwas ist nur dann wissenschaftlich, wenn man sich
+   vorstellen kann, dass …*
+2. *„Kein noch so großer Datensatz verifiziert einen Allsatz.“*
+   → Gerüst: *Auch wenn man ganz viele Beispiele findet, …*
 
-**Aufgabe 3 — Eigenes Beispiel.** Geben Sie ein eigenes
-Beispiel für:
+**Aufgabe 4 ◆ — Hedging & Redewiedergabe (Umformung).**
+Formen Sie um: (a) in indirekte Rede (Konjunktiv I), (b) mit einem
+Hedging-Ausdruck Ihrer Wahl.
 
-- ein Paradigma in Ihrer Heimatdisziplin oder Ihrem Beruf,
-- eine Anomalie darin.
+1. *Popper: „Eine Theorie ist nur durch Widerlegung prüfbar.“*
+2. *Kuhn: „Der Fortschritt verläuft in Brüchen, nicht linear.“*
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** 1) b · 2) a · 3) a · 4) a.
+**Aufgabe 1.** 1) b · 2) a · 3) c.
 
-**Aufgabe 2.**
-1. *Eine wissenschaftliche Theorie ist nur dann gültig, wenn man
-   sich vorstellen kann, was sie widerlegen würde.*
-2. *Es gibt immer mehr Befunde, die in die alte Theorie nicht
-   passen — sie wirkt zunehmend unhaltbar.*
+**Aufgabe 2.** 1) b · 2) b · 3) b · 4) b.
 
-**Aufgabe 3.** Individuell.
+**Aufgabe 3.** (Musterlösungen)
+1. *Etwas ist nur dann wissenschaftlich, wenn man sich vorstellen
+   kann, welche Beobachtung es widerlegen würde.*
+2. *Auch wenn man ganz viele Beispiele findet, die zu einer Regel
+   passen, ist die Regel damit noch nicht endgültig bewiesen — ein
+   einziger Gegenfall genügt, um sie umzustoßen.*
+
+**Aufgabe 4.** (Musterlösungen)
+1. (a) *Popper zufolge sei eine Theorie nur durch Widerlegung
+   prüfbar.* (b) *Popper zufolge dürfte eine Theorie letztlich nur
+   durch Widerlegung prüfbar sein.*
+2. (a) *Kuhn hält fest, der Fortschritt verlaufe in Brüchen, nicht
+   linear.* (b) *Nach Kuhn spricht einiges dafür, dass der Fortschritt
+   eher in Brüchen als linear verläuft.*
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Mini-Vortrag (C1, ca. 4 Min):** Sprechen Sie über ein Paradigma
-in einem Bereich, den Sie kennen — und über eine reale oder
-historische Anomalie, die es ins Wanken gebracht hat. Beispiele:
-Plattentektonik vs. Kontinentaldrift, klassische Mechanik vs.
-Relativitätstheorie, Erziehungswissenschaft vor und nach
-Bildungsoffenheit.
+**Produktionsaufgabe — Mini-Vortrag (C1, ca. 4 Min, mündlich).**
+Halten Sie einen kurzen, strukturierten Vortrag: Wählen Sie ein
+**Paradigma** aus einem Feld, das Sie kennen (Ihr Fach, Ihr Beruf,
+eine Alltagstheorie), und schildern Sie eine **Anomalie**, die es ins
+Wanken gebracht hat oder bringen könnte. Referieren Sie dabei
+mindestens eine fremde Position in **indirekter Rede** und setzen Sie
+zwei **Hedging-Ausdrücke** bewusst ein.
 
-## 5. Reflexion
+*Anregungen:* Kontinentaldrift vs. Plattentektonik · klassische
+Mechanik vs. Relativitätstheorie · das Bild „gesunder Ernährung“ im
+Wandel · ein didaktisches Leitbild vor und nach einer Reform.
 
-- [ ] Ich folge einem 6-Min-Vortrag zur Wissenschaftstheorie.
-- [ ] Ich erkläre Falsifikation und Paradigma in Alltagssprache.
-- [ ] Ich gebe ein eigenes Paradigmen-Beispiel.
+**Bewertungskriterien:**
 
-## Prüfungsbeispiel — GER C1 Hören, Teil 4
+- **Fachlichkeit:** Begriffe *Paradigma/Anomalie* korrekt und
+  trennscharf verwendet.
+- **Struktur:** erkennbarer Aufbau (These → Beispiel → Einwand →
+  Fazit), Redemittel der Gliederung.
+- **Register:** akademischer Ton, indirekte Rede, mind. zwei
+  Hedging-Ausdrücke.
+- **Interaktion:** freies Sprechen, nicht abgelesen; Reaktion auf eine
+  Rückfrage.
 
-**Aufgabenstellung:** Sie hören den Vortrag von Dr. Stark
-zweimal. Wählen Sie pro Frage a, b oder c.
+## Prüfung — GER C1 Hören, Teil 4
 
-1. Drei prägende Positionen sind …
-   a) Logik / Empirie / Hermeneutik · b) Empirismus /
-   Falsifikation / Paradigmen · c) Realismus / Idealismus /
-   Pragmatismus.
+**Aufgabenstellung:** Sie hören den Vortrag von Dr. Stark **zweimal**.
+Wählen Sie pro Aussage a, b oder c. (7 Items · je 1 Punkt · 7 Punkte.)
 
-2. Das Schwan-Beispiel illustriert vor allem …
-   a) Induktion · b) Deduktion · c) Hermeneutik.
+1. Die erste große Antwort auf die Frage nach dem Ursprung des Wissens
+   lautet …
+   a) die Vernunft · b) die Erfahrung · c) die Autorität.
+2. Der Schluss vom Einzelnen aufs Allgemeine heißt …
+   a) Deduktion · b) Falsifikation · c) Induktion.
+3. Was widerlegt den Satz „alle Schwäne sind weiß“ endgültig?
+   a) tausend weiße Schwäne · b) ein einziger schwarzer Schwan ·
+   c) ein Mehrheitsbeschluss.
+4. Poppers Maßstab für Wissenschaftlichkeit ist …
+   a) die Bestätigung · b) die Widerlegbarkeit · c) die Nützlichkeit.
+5. Aussagen, die mit *jeder* Beobachtung vereinbar sind, …
+   a) sind besonders stark · b) erklären am Ende nichts · c) sind
+   endgültig bewiesen.
+6. Laut Kuhn verläuft Wissenschaft …
+   a) stetig-linear · b) in Phasen mit Brüchen · c) rein zufällig.
+7. Zum Paradigmenwechsel kommt es, wenn …
+   a) die Anomalien sich häufen · b) ein Lehrbuch erscheint · c) die
+   Finanzierung endet.
 
-3. Falsifizierbarkeit ist für Popper …
-   a) ein didaktisches Spiel · b) das Kriterium der
-   Wissenschaftlichkeit · c) eine soziologische Frage.
+{{< details type="tip" title="Lösungen & Punkte-Rubrik" >}}
 
-4. Kuhn betont …
-   a) lineare Ansammlung · b) Phasen mit Brüchen · c) Wirtschaft
-   als Treiber.
+**Lösungen:** 1) b · 2) c · 3) b · 4) b · 5) b · 6) b · 7) a.
 
-5. Eine Anomalie ist …
-   a) ein methodischer Fehler · b) ein nicht passender Befund ·
-   c) ein politischer Konflikt.
+**Punkte-Rubrik (7 Punkte):**
 
-6. *Inkommensurabilität* bedeutet …
-   a) Unvergleichbarkeit zweier Paradigmen · b) Unverträglichkeit
-   zweier Personen · c) Unmessbarkeit großer Daten.
-
-7. Kuhn relativiert …
-   a) die Idee stetigen Fortschritts · b) den Begriff der
-   Empirie · c) die Geltungsdauer von Anomalien.
-
-{{< details type="tip" title="Lösungen" >}}
-1. b · 2. a · 3. b · 4. b · 5. b · 6. a · 7. a.
+| Punkte | GER-Einstufung |
+|---|---|
+| 7–6 | sicher auf C1 — auch implizite Bezüge erfasst |
+| 5–4 | C1 erreicht — Detailverstehen tragfähig |
+| 3–2 | Übergang B2/C1 — Globalverstehen ok, Details lückenhaft |
+| 1–0 | noch nicht ausreichend — erneutes Hören mit Transkript |
 
 {{< /details >}}
 
+## Reflexion
 
-<div class="notes">
+- [ ] Ich folge einem ca. 6-minütigen Vortrag zur Wissenschaftstheorie
+      und trenne These, Beispiel und Einwand.
+- [ ] Ich erkläre *Falsifikation*, *Induktion* und *Paradigma* in
+      Alltagssprache, ohne sie zu verfälschen.
+- [ ] Ich referiere eine fremde Position in indirekter Rede
+      (Konjunktiv I).
+- [ ] Ich stufe eigene Geltungsansprüche mit Hedging-Mitteln ab.
+- [ ] Ich unterscheide *paraphrasieren* (erlaubt) von *wörtlich
+      zitieren* (nur bei gemeinfreien Texten).
 
-**Zeit:** Einstieg 8' · Input 22' · Üben 18' · Anwenden 25' ·
-Prüfungsvorschau 17'.
+## Hinweise für Lehrkräfte
 
-</div>
+**Zeitraster (45 Min):**
 
-## Häufige Stolperfallen
+- **Einstieg (6′):** Notiz-Widerspruch vorlesen; Leitfragen im Plenum
+  sammeln, nicht auflösen — die Spannung trägt die Stunde.
+- **Input (12′):** Wortschatz A + Grammatikbox B knapp durchgehen;
+  Hörtext D **einmal** ohne Mitschrift vorlesen.
+- **Üben (15′):** Hörtext ein **zweites** Mal vorlesen; Aufgaben 1–2
+  in Einzelarbeit, 3–4 in Partnerarbeit; Abgleich über die
+  Lösungsklappe.
+- **Anwenden (9′):** Mini-Vortrag anmoderieren; 2–3 Kurzvorträge live,
+  Rest als Hausaufgabe.
+- **Reflexion (3′):** Checkliste ankreuzen; ein Item laut benennen
+  lassen.
 
-- **„Falsifikation“ ≠ „Fälschung“:** Falsifikation = methodischer
-  Widerlegungsversuch; Fälschung = Betrug.
-- **„Paradigma“ ist neutrum** (*das Paradigma*).
-- **„Anomalie“ + Genitiv** in Fachprosa: *die Anomalie der Daten*.
+**Gruppierung:** Aufgaben 1–2 einzeln (Hörleistung individuell
+sichtbar); 3–4 in Tandems, damit Gerüst und Umformung ausgehandelt
+werden; Anwenden in Dreiergruppen mit fester Rollen­verteilung
+(Vortrag / Rückfrage / Kriterien-Feedback).
 
-## Weiterführende Materialien
+**Differenzierung:** Schwächeren Lernenden das Transkript D beim
+zweiten Hören mitlesen lassen (◐); Stärkeren Aufgabe 4 (◆) plus die
+Zusatzfrage stellen, ob Kuhns *Inkommensurabilität* Poppers
+Falsifikationsmodell untergräbt. Für heterogene Gruppen: die
+MC-Distraktoren in Aufgabe 2 gemeinsam „entlarven“ lassen — warum ist
+c falsch? — das schult das genaue Hören zusätzlich.
 
-- **Karl Popper, *Logik der Forschung***.
-- **Thomas Kuhn, *Die Struktur wissenschaftlicher Revolutionen***.
-- **Ö1 „Radiokolleg“** zu Wissenschaftstheorie.
+**Fallstricke im Deutschen:** *Falsifikation* ≠ *Fälschung*
+(Widerlegungsversuch vs. Betrug); *das* Paradigma (Neutrum);
+*verifizieren/falsifizieren* sind fachsprachlich, nicht mit
+umgangssprachlichem *beweisen/widerlegen* gleichzusetzen.
+
+## Quellen
+
+- *Empirismus* — Wikipedia-Autoren (Abruf 2026),
+  https://de.wikipedia.org/wiki/Empirismus — Lizenz: CC BY-SA 4.0
+  (paraphrasiert, nicht zitiert).
+- *Rationalismus* — Wikipedia-Autoren (Abruf 2026),
+  https://de.wikipedia.org/wiki/Rationalismus — Lizenz: CC BY-SA 4.0
+  (paraphrasiert, nicht zitiert).
+- *Karl Popper* — Wikipedia contributors (Abruf 2026),
+  https://en.wikipedia.org/wiki/Karl_Popper — Lizenz: CC BY-SA 4.0
+  (paraphrasiert; Poppers eigene Texte urheberrechtlich geschützt,
+  daher nicht zitiert).
+- *Karl Popper* — Stanford Encyclopedia of Philosophy, Thornton, S.
+  (Abruf 2026), https://plato.stanford.edu/entries/popper/ —
+  wissenschaftlicher Sekundärtext (paraphrasiert; Fair-Use-Kontext,
+  kein Zitat).
+- *Kritik der reinen Vernunft* — Immanuel Kant (1781), A51/B75 —
+  gemeinfrei (Autor gest. 1804); wörtlich zitiert.
+- Alle Vortrags- und Beispieltexte (Dr. Helena Stark, Schwan-Beispiel,
+  Einstiegsszene): **Originaltexte** der Autorin/des Autors dieser
+  Einheit, eigens für den Unterricht verfasst.

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: zukunftsvisionen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit12_zukunftsvisionen.pptx
+  file: /daf/materials/presentations/unit12_zukunftsvisionen.odp
   thumbnail: /daf/materials/presentations/unit12_zukunftsvisionen.png
 worksheet:
   file: /daf/materials/worksheets/unit12_zukunftsvisionen.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-hoeren
 - skill-sprechen
 - topic-gesellschaft
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -42,190 +42,363 @@ date: '2026-05-04T19:53:22+02:00'
 
 ## Lernziele
 
-- … **kann ich** in einem Zukunfts-Podcast vier Sprecher:innen
-  unterscheiden.
-- … **kann ich** über meine Zukunftsvorstellung 2–3 Minuten
-  flüssig sprechen.
-- … **kann ich** Futur I und „werden + Infinitiv“-Konstruktionen
-  einsetzen.
+- … **kann ich** einer Podcast-Folge über Zukunftsszenarien in den
+  Hauptaussagen folgen.
+- … **kann ich** eine Präsentation zu einem Zukunftsthema halten.
+- … **kann ich** Meinungen zur Zukunft verschiedenen Personen
+  zuordnen.
+- … **kann ich** mit **Konjunktiv II** (*würde*, *könnte*, *wäre*,
+  *hätte*) höflich und über **Nicht-Reales** sprechen: *Wenn wir
+  weniger Autos hätten, wäre die Luft besser.*
 
-## GER-Ausrichtung
+## Einstieg
 
-- Prüfungsmodul **Hören** — Teil 3 (Gespräche zwischen
-  Muttersprachlern; Wer sagt was?) und Teil 4
-  (Radiosendung / Podcast).
+Stellen Sie sich vor: Es ist ein Morgen im Jahr **2040**. Sie
+wachen auf und schauen aus dem Fenster Ihrer Stadt. Was ist
+anders? Vielleicht fahren keine lauten Autos mehr durch die
+Straße. Vielleicht arbeiten die meisten Menschen von zu Hause.
+Oder vielleicht ist doch fast alles wie heute — nur die Menschen
+sind im Durchschnitt älter.
 
-## Einstiegsgeschichte
+Niemand weiß genau, wie 2040 aussehen wird. Aber wir können
+darüber **nachdenken** und **Vermutungen** anstellen. Genau dafür
+brauchen wir den **Konjunktiv II**: die Form für Träume, Wünsche
+und Möglichkeiten.
 
-Der Podcast **„Morgen ist auch noch ein Tag“** läuft im
-Österreichischen Rundfunk ORF und fragt vier Menschen aus dem
-DACH-Raum: *„Was wird 2040 anders sein — beruflich, in der
-Stadt, im Familienleben?“* Heute zu Gast: **Milos, Noa, Dr.
-Lenz, Herr Malik.** Vier Perspektiven aus der Prototyp-
-Figurenbesetzung des B1-Kurses treffen sich zur Abschlussrunde.
+**Sprechen Sie zu zweit:**
 
-## 1. Einstieg
+- Wenn Sie eine Sache in Ihrer Stadt bis 2040 ändern **könnten** —
+  welche wäre das?
+- Was **würden** Sie tun, wenn Sie Bürgermeisterin oder
+  Bürgermeister wären?
+- Welche Veränderung **würde** Ihnen Sorgen machen? Warum?
 
-- Was wird 2040 in Ihrer Stadt **anders** sein — was gleich?
-- Welche drei Veränderungen begrüßen Sie, welche drei machen
-  Ihnen Sorge?
-- Mit welchem Zeitverb sprechen Sie über Zukunft — *werden*,
-  *wollen*, Präsens?
+## Input
 
-## 2. Input
+### A. Wortschatz: Über die Zukunft sprechen
 
-### A. Podcast-Transkript
+| Deutsch                       | Wortart / Beispiel                                  |
+|-------------------------------|-----------------------------------------------------|
+| die Vision, -en               | *Sie hat eine klare Vision von 2040.*               |
+| die Vorhersage, -n            | *Diese Vorhersage ist nicht sicher.*                |
+| sich etwas vorstellen         | *Ich stelle mir eine grüne Stadt vor.*              |
+| die Veränderung, -en          | *Große Veränderungen machen manchen Angst.*         |
+| nachhaltig                    | *Wir bräuchten eine nachhaltige Wirtschaft.*        |
+| der Fortschritt (nur Sg.)     | *Technischer Fortschritt hat zwei Seiten.*          |
+| die Herausforderung, -en      | *Die Alterung ist eine große Herausforderung.*      |
+| vermutlich                    | *Vermutlich werden wir länger arbeiten.*            |
+| es wäre schön, wenn …         | *Es wäre schön, wenn alle Radwege hätten.*          |
+| an deiner Stelle würde ich …  | *An deiner Stelle würde ich optimistisch bleiben.*  |
 
-> **Moderation:** Milos, Sie pendeln nicht mehr. Wie sehen Sie
-> 2040?
+### B. Grammatik im Blick: Konjunktiv II (würde / könnte)
+
+{{< callout type="info" >}}
+**Konjunktiv II** benutzen wir für **Nicht-Reales**, **Höfliches**
+und **Hypothetisches** — also für Dinge, die (noch) nicht wahr
+sind.
+
+**Zwei häufige Formen:**
+
+- **würde + Infinitiv** (für die meisten Verben):
+  *Ich **würde** gern in einer ruhigen Stadt **leben**.*
+- **Modalverben & sein/haben** — eigene Form:
+  *könnte, müsste, sollte, wäre, hätte*
+  *2040 **könnte** das Auto seltener **werden**.*
+  *Wenn die Mieten niedriger **wären**, **hätte** ich mehr Platz.*
+
+**Wenn-Satz (irreal):**
+*Wenn wir mehr Bäume **pflanzen würden**, **wäre** die Stadt
+kühler.*
+→ In beiden Satzteilen steht Konjunktiv II.
+
+**Höflich bitten / vorschlagen:**
+*Könnten* Sie das wiederholen? · *Ich würde* vorschlagen, dass …
+{{< /callout >}}
+
+### C. Hörtext (zum Vorlesen)
+
+> *Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten
+> Mal hören die Lernenden nur zu, beim zweiten Mal machen sie
+> Notizen.*
 >
-> **Milos:** Ich glaube, das Pendeln bleibt. Aber die Form ändert
-> sich. 2040 fahren wir nicht mehr vier Stunden am Tag — wir
-> haben Hubs an kleinen Orten, dort arbeiten wir drei Tage, in
-> die Stadt fahren wir vielleicht einmal pro Woche.
+> **Podcast „Morgen könnte anders sein" — Folge: Vier Blicke auf
+> 2040**
 >
-> **Moderation:** Noa, Sie sind 22 und überlegen gerade, was nach
-> dem Erasmus kommt.
+> **Moderatorin:** Willkommen! Heute fragen wir vier Gäste: Wenn
+> Sie einen Wunsch für das Jahr 2040 frei hätten — was würden Sie
+> sich wünschen? Milos, fangen wir bei Ihnen an.
 >
-> **Noa:** Für meine Generation wird Mobilität normal sein. Wir
-> leben nicht mehr in einem Land, wir leben in mehreren. Was
-> schwieriger wird: stabile Beziehungen aufbauen, wenn alle ständig
-> wechseln.
+> **Milos:** Also, ich würde mir wünschen, dass niemand mehr vier
+> Stunden am Tag pendeln müsste. Wenn wir kleine Arbeitsorte in
+> jedem Dorf hätten, könnten die Menschen mehr Zeit mit der
+> Familie verbringen. Das wäre für mich der größte Fortschritt.
 >
-> **Moderation:** Frau Dr. Lenz, wie sehen Sie die Gesundheitslage
-> 2040?
+> **Moderatorin:** Noa, Sie sind 22. Wie sähe Ihre ideale Zukunft
+> aus?
 >
-> **Dr. Lenz:** Ich fürchte, wir verlieren noch mehr Hausärztinnen
-> und Hausärzte. 2040 werden Videosprechstunden normal sein, das
-> ist auch gut. Aber es braucht Menschen vor Ort. Das ist die
-> Sorge.
+> **Noa:** Für mich wäre Bewegungsfreiheit das Wichtigste. Ich
+> würde gern in mehreren Ländern leben, ohne dass es kompliziert
+> wäre. Aber ehrlich gesagt hätte ich auch gern einen festen Ort,
+> an den ich zurückkehren könnte. Beides zusammen wäre ideal.
 >
-> **Moderation:** Herr Malik?
+> **Moderatorin:** Frau Dr. Lenz, Sie arbeiten als Ärztin.
 >
-> **Malik:** Ich hoffe, dass wir 2040 ein Mediensystem haben, in
-> dem wir Fakten und Meinungen klarer trennen. Wenn uns das
-> gelingt, sehe ich die Zukunft nicht so düster wie manche
-> Kolleg:innen. Wenn nicht, wird es schwierig.
+> **Dr. Lenz:** Ich würde mir wünschen, dass wir 2040 genug
+> Ärztinnen und Ärzte auf dem Land hätten. Videosprechstunden
+> könnten vieles einfacher machen, aber sie könnten den Menschen
+> vor Ort nicht ersetzen. Wenn wir jetzt nichts ändern würden,
+> hätten viele Dörfer bald keine Praxis mehr.
+>
+> **Moderatorin:** Und Sie, Herr Malik?
+>
+> **Malik:** Mein Wunsch wäre ein ruhigeres Mediensystem. Wenn wir
+> Fakten und Meinungen klarer trennen würden, könnten wir
+> einander wieder besser zuhören. Ich bin nicht pessimistisch —
+> ich glaube, das wäre machbar, wenn wir es wirklich wollten.
 
-### B. Redemittel für Zukunft
+### D. Kontext: Was sagen die Daten? (zitiert)
 
-| Funktion                 | B1-Redemittel                              |
-|--------------------------|--------------------------------------------|
-| Vorhersage (sicher)      | *Ich bin überzeugt, dass …*                |
-| Vorhersage (vorsichtig)  | *Ich vermute, dass …*                      |
-| Hoffnung                 | *Ich hoffe, dass …*                        |
-| Sorge                    | *Ich fürchte, dass …*                      |
-| Konditional              | *Wenn … , dann …*                          |
+Nicht alles an 2040 ist reine Vorstellung — für manche
+Entwicklungen gibt es Prognosen. Nach der 16. koordinierten
+Bevölkerungsvorausberechnung des Statistischen Bundesamtes, die am
+11. Dezember 2025 vorgestellt wurde, wird in Deutschland bis Mitte
+der 2030er-Jahre etwa **jede vierte Person 67 Jahre oder älter**
+sein; 2024 war es erst etwa jede fünfte (Statistisches Bundesamt,
+2025). Auch bei der Mobilität rechnen Fachleute mit langsamem
+Wandel: Schätzungen zufolge könnten 2040 höchstens rund **18
+Millionen Elektroautos** auf deutschen Straßen fahren — das wäre
+etwas mehr als ein Drittel aller Autos (ecomento.de, 2026).
 
-## 3. Üben
+Solche Zahlen sind **keine Sicherheit**, sondern begründete
+Vermutungen. Genau deshalb passt der Konjunktiv II so gut: *Wenn
+mehr ältere Menschen bei uns lebten, bräuchten wir mehr Pflege
+und barrierefreie Wohnungen.*
 
-**Aufgabe 1.** Wer sagt das? (M = Milos · N = Noa · L = Dr. Lenz ·
-K = Malik)
+## Üben
 
-1. „Pendeln in der alten Form wird es nicht mehr geben.“
-2. „Hausärzt:innen vor Ort bleiben notwendig.“
-3. „Mobilität wird Normalität.“
-4. „Die Medienlandschaft muss Fakten und Meinungen trennen.“
-5. „Videosprechstunden setzen sich durch.“
-6. „Stabile Beziehungen werden schwieriger.“
+**Aufgabe 1 — Hörverstehen: Wer wünscht sich was?**
+Ordnen Sie nach dem Hörtext zu.
+(M = Milos · N = Noa · L = Dr. Lenz · K = Malik)
 
-**Aufgabe 2.** Wählen Sie pro Person **eine** Aussage und
-formulieren Sie sie in **indirekter Rede** um (B1-Konjunktiv I
-ansatzweise).
-Beispiel: *Milos sagt, das Pendeln bleibe — aber in anderer Form.*
+1. „Ich hätte gern einen festen Ort zum Zurückkehren."
+2. „Kleine Arbeitsorte im Dorf würden Zeit sparen."
+3. „Wir bräuchten mehr Ärztinnen und Ärzte auf dem Land."
+4. „Fakten und Meinungen sollten klarer getrennt werden."
+5. „Niemand müsste mehr stundenlang pendeln."
+6. „Videosprechstunden könnten Menschen vor Ort nicht ersetzen."
 
-**Aufgabe 3.** Schreiben Sie drei eigene Zukunftsaussagen zu
-Ihrer Stadt im Jahr 2040 — je eine mit Hoffnung, eine mit
-Sorge, eine mit Konditional.
+**Aufgabe 2 — Form: würde + Infinitiv.**
+Schreiben Sie die Sätze im Konjunktiv II mit *würde*.
+Beispiel: *Ich (gern in einer grünen Stadt leben)* →
+*Ich würde gern in einer grünen Stadt leben.*
+
+1. Wir (mehr Fahrrad fahren).
+2. Die Stadt (leiser werden).
+3. Ich (weniger Auto benutzen).
+4. Ihr (mehr Bäume pflanzen).
+
+**Aufgabe 3 — Irreale wenn-Sätze.**
+Verbinden Sie zu einem irrealen Bedingungssatz mit Konjunktiv II.
+Beispiel: *(mehr Radwege haben / öfter Rad fahren)* →
+*Wenn wir mehr Radwege hätten, würden wir öfter Rad fahren.*
+
+1. (weniger Autos geben / die Luft sauberer sein)
+2. (mehr Ärzte auf dem Land arbeiten / die Dörfer nicht so viele
+   Praxen verlieren)
+3. (die Mieten niedriger sein / mehr junge Leute in der Stadt
+   bleiben)
+4. (wir Fakten und Meinungen trennen / wir einander besser
+   zuhören)
+
+**Aufgabe 4 — Meinung mit Begründung (frei).**
+Schreiben Sie drei eigene Sätze über 2040: je einen mit
+**Hoffnung**, einen mit **Sorge**, einen mit **irrealem
+wenn-Satz**. Benutzen Sie *weil*, *dass* oder *obwohl* zur
+Begründung.
+Beispiel: *Ich fürchte, dass die Mieten steigen würden, weil
+immer mehr Menschen in die Städte ziehen.*
+
+{{< callout type="tip" >}}
+**Niveau-Differenzierung**
+
+- **Leichter (A2+/B1):** In Aufgabe 2 und 3 nur *würde + Infinitiv*
+  benutzen; die Satzteile sind schon vorgegeben.
+- **Standard (B1):** Aufgaben wie oben.
+- **Anspruchsvoller (B1+):** In Aufgabe 3 die eigenen Formen
+  *wäre, hätte, könnte, bräuchte, müsste* statt *würde* benutzen,
+  wo es besser klingt (*Wenn es weniger Autos gäbe, wäre die Luft
+  sauberer.*).
+{{< /callout >}}
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** 1 = M · 2 = L · 3 = N · 4 = K · 5 = L · 6 = N.
+**Aufgabe 1.** 1 = N · 2 = M · 3 = L · 4 = K · 5 = M · 6 = L.
 
-**Aufgabe 2.** Beispiele:
+**Aufgabe 2.**
 
-- *Noa sagt, Mobilität werde in ihrer Generation normal sein.*
-- *Dr. Lenz meint, 2040 werde es mehr Videosprechstunden geben.*
-- *Malik hofft, das Mediensystem werde Fakten und Meinungen
-  klarer trennen.*
+1. Wir würden mehr Fahrrad fahren.
+2. Die Stadt würde leiser werden.
+3. Ich würde weniger Auto benutzen.
+4. Ihr würdet mehr Bäume pflanzen.
 
-**Aufgabe 3.** Individuelle Lösung; Muster:
+**Aufgabe 3.** (Musterlösungen; *würde*- oder eigene Form möglich)
 
-- *Ich hoffe, dass wir 2040 nicht mehr so viele Autos in der
-  Stadt haben.*
-- *Ich fürchte, dass die Mieten noch höher sein werden.*
-- *Wenn wir es schaffen, mehr Radwege zu bauen, wird Bewegung
-  einfacher.*
+1. Wenn es weniger Autos gäbe, wäre die Luft sauberer.
+2. Wenn mehr Ärzte auf dem Land arbeiten würden, würden die
+   Dörfer nicht so viele Praxen verlieren.
+3. Wenn die Mieten niedriger wären, würden mehr junge Leute in
+   der Stadt bleiben.
+4. Wenn wir Fakten und Meinungen trennen würden, würden wir
+   einander besser zuhören.
+
+**Aufgabe 4.** Individuelle Lösung; Muster:
+
+- *Ich hoffe, dass wir 2040 sauberere Luft hätten, weil viele
+  Menschen jetzt auf Elektroautos umsteigen.*
+- *Ich fürchte, dass es weniger Hausärzte gäbe, obwohl die
+  Bevölkerung immer älter wird.*
+- *Wenn wir mehr Grünflächen hätten, wäre das Leben in der Stadt
+  angenehmer.*
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Präsentation (B1-Sprechen Teil 2 Vorbereitung, Abschluss-
-Highlight):**
+**Präsentation: „Meine Vision für 2040" (B1-Sprechen, Vorbereitung
+auf Teil 2)**
 
-Halten Sie eine 3-Minuten-Präsentation (5 Folien) zu einem der
-drei Themen:
+Halten Sie eine kurze Präsentation (ca. 3 Minuten, 4–5 Folien) zu
+**einem** Thema:
 
-- *„Meine Stadt im Jahr 2040.“*
-- *„Mein Berufsleben im Jahr 2040.“*
-- *„Lernen und Bildung im Jahr 2040.“*
+- *„Meine Stadt, wie sie 2040 sein könnte."*
+- *„Wenn ich über mein Berufsleben 2040 entscheiden könnte …"*
+- *„Bildung und Lernen 2040 — was ich mir wünschen würde."*
 
-Ein:e Mithörer:in gibt danach Feedback und stellt eine Frage —
-beides auf B1.
+**So bauen Sie die Präsentation auf:**
 
-## 5. Reflexion
+1. **Einleitung:** Thema nennen (*Ich möchte über … sprechen.*)
+2. **Heute:** Wie ist die Lage jetzt? (Präsens / Perfekt)
+3. **Vision:** Wie könnte es 2040 sein? (**Konjunktiv II!**)
+4. **Begründung:** Warum wäre das gut/wichtig? (*weil*, *dass*)
+5. **Schluss:** Ihr persönlicher Wunsch (*Ich würde mir wünschen,
+   dass …*)
 
-- [ ] Ich kann ein Podcast-Transkript mit vier Sprecher:innen
-      richtig zuordnen.
-- [ ] Ich kann fünf Redemittel für Zukunft benutzen.
-- [ ] Ich kann eine eigene Präsentation zur Zukunft halten.
+**Bewertungskriterien (Selbst- und Partnercheck):**
 
-**Abschluss des B1-Kurses.** Vergleichen Sie noch einmal die
-Lernziele aus Einheit 1 (*sich über Berufserfahrungen austauschen*)
-mit dem, was Sie jetzt können. Halten Sie in Ihrem Lernjournal
-fest, welche zwei Kompetenzen am meisten gewachsen sind.
+| Kriterium                                   | erfüllt? |
+|---------------------------------------------|----------|
+| Ich habe mindestens 4 Konjunktiv-II-Formen benutzt. | ☐ |
+| Ich habe meine Meinung **begründet** (weil/dass).   | ☐ |
+| Ich habe frei (nicht nur abgelesen) gesprochen.     | ☐ |
+| Ich habe ca. 3 Minuten gesprochen.                  | ☐ |
 
-## Prüfungsbeispiel — GER B1 Hören, Teil 4 (Zuordnung)
+Eine mithörende Person gibt danach **ein Lob** und stellt **eine
+Rückfrage** auf B1 (*Warum würdest du …? Wie könnte man …?*).
 
-**Aufgabenstellung:** Sie hören die vier Gäste noch einmal.
-Ordnen Sie die acht Aussagen den Sprecher:innen zu. Eine Aussage
-passt zu keiner der vier Personen (Distraktor).
+## Prüfung
 
-1. „Hubs an kleinen Orten machen das Pendeln anders.“ → Milos
-2. „Stabile Beziehungen sind schwerer unter Mobilität.“ → Noa
-3. „Videosprechstunden ersetzen Hausärzt:innen nicht vollständig.“ → Dr. Lenz
-4. „Wenn Medien Fakten und Meinung trennen, ist die Zukunft besser.“ → Malik
-5. „In zehn Jahren sind alle in einem Land geboren, aber in drei
-   aufgewachsen.“ → Noa (lose: Mobilität als Normalität)
-6. „Hausärzt:innen vor Ort bleiben wichtig.“ → Dr. Lenz
-7. „Automatisierung wird alle Arbeitsplätze ersetzen.“ → **Distraktor**
-8. „Wir fahren 2040 einmal pro Woche in die Stadt.“ → Milos
+**GER B1 Hören, Teil 4 — Zuordnung (Meinungen von Personen)**
 
+**Aufgabenstellung:** Sie hören den Podcast „Morgen könnte anders
+sein" (Abschnitt C) **einmal**. Ordnen Sie die acht Aussagen den
+vier Personen zu. **Eine** Aussage passt zu **keiner** Person
+(Distraktor). Schreiben Sie M, N, L, K oder „—".
 
-<div class="notes">
+1. „Kleine Arbeitsorte im Dorf würden Pendelzeit sparen." → ____
+2. „Ich hätte gern einen festen Ort zum Zurückkehren." → ____
+3. „Auf dem Land fehlen bald Ärztinnen und Ärzte." → ____
+4. „Fakten und Meinungen sollte man klarer trennen." → ____
+5. „Bewegungsfreiheit zwischen Ländern wäre mir wichtig." → ____
+6. „Videosprechstunden könnten den Arzt vor Ort nicht ersetzen." → ____
+7. „Roboter würden 2040 alle Berufe übernehmen." → ____
+8. „Mehr Zeit für die Familie wäre der größte Fortschritt." → ____
 
+{{< details type="tip" title="Lösung & Punkte-Rubrik" >}}
 
-**Zeit (Abschlusseinheit, ggf. 120-Min-Block):**
-Einstieg 8' · Input 15' · Üben 20' · Anwenden 30' ·
-Reflexion + Kursabschlussgespräch 15' · Prüfungsvorschau 32'.
+**Lösung:** 1 = M · 2 = N · 3 = L · 4 = K · 5 = N · 6 = L ·
+7 = — (Distraktor) · 8 = M.
 
-</div>
+**Punkte-Rubrik (max. 7 Punkte):**
 
-## Häufige Stolperfallen
+| Punkte | Leistung                                            |
+|--------|-----------------------------------------------------|
+| 7      | Alle 7 Zuordnungen richtig (Distraktor erkannt).    |
+| 5–6    | Kleine Unsicherheiten, Hauptaussagen erkannt.       |
+| 3–4    | Etwa die Hälfte richtig; Personen teils verwechselt. |
+| 0–2    | Hauptaussagen überwiegend nicht erfasst.            |
 
-- **Futur I im Gesprochenen ist selten.** Meist reicht Präsens
-  mit Temporalangabe (*„2040 fahren wir …“*). Im schriftlichen
-  Vortrag ist Futur I angebracht.
-- **„werden“** zweideutig: Vollverb (*„Er wird müde.“*), Hilfsverb
-  Futur (*„Er wird kommen.“*), Passiv-Hilfsverb (*„Das Haus wird
-  gebaut.“*). Aus Kontext erschließen.
+*Hinweis:* Der Distraktor (Nr. 7) kommt im Hörtext **nicht** vor —
+wer ihn einer Person zuordnet, verliert dort den Punkt.
 
-## Weiterführende Materialien
+{{< /details >}}
 
-- **ARD-Audiothek — Zukunftspodcasts** (B1+, DE):
-  <https://www.ardaudiothek.de/>
-- **ORF Ö1 — „Vom Leben der Natur“** (oft zukunftsorientiert, AT):
-  <https://oe1.orf.at/>
-- **SRF Kultur — „Kontext“** (CH, B2-B1+):
-  <https://www.srf.ch/audio/kontext>
+## Reflexion
+
+- [ ] Ich kann einem Podcast über die Zukunft in den Hauptaussagen
+      folgen.
+- [ ] Ich kann Meinungen von vier Personen richtig zuordnen.
+- [ ] Ich kann mit **würde**, **könnte**, **wäre**, **hätte** über
+      Nicht-Reales sprechen.
+- [ ] Ich kann einen **irrealen wenn-Satz** bilden.
+- [ ] Ich kann meine Zukunftsvision in einer kurzen Präsentation
+      vorstellen und **begründen**.
+
+**Abschluss des B1-Kurses.** Blättern Sie zu den Lernzielen aus
+Einheit 1 zurück. Notieren Sie in Ihrem Lernjournal: *Welche zwei
+Kompetenzen sind seit Einheit 1 am meisten gewachsen? Und wenn Sie
+den Kurs noch einmal beginnen könnten — was würden Sie anders
+machen?*
+
+## Hinweise für Lehrkräfte
+
+**Zeitplan (45 Minuten):**
+
+| Phase        | Zeit  | Aktivität                                            |
+|--------------|-------|------------------------------------------------------|
+| Einstieg     | 6'    | Partnergespräch zu den drei Fragen; kurze Sammlung.  |
+| Input        | 12'   | Wortschatz + Grammatikbox; Hörtext 2× vorlesen.      |
+| Üben         | 15'   | Aufgaben 1–4; Lösungen im Plenum vergleichen.        |
+| Anwenden     | 9'    | Präsentation vorbereiten (Skizze) + 1–2 Vorträge.    |
+| Reflexion    | 3'    | Checkliste + Kursabschlussfrage im Lernjournal.      |
+
+**Gruppierung:**
+
+- Einstieg und Anwenden in **Partnerarbeit** (A–B), damit alle
+  sprechen.
+- Aufgabe 1 (Hören) in **Einzelarbeit**, Vergleich zu zweit.
+- Für die Präsentation: **3er-Gruppen** — eine Person spricht, zwei
+  geben Feedback nach den Kriterien.
+
+**Differenzierung:**
+
+- Schwächere Lernende bearbeiten in Üben nur Aufgabe 1–2 und
+  nutzen die vorgegebenen *würde*-Formen; die Grammatikbox bleibt
+  offen sichtbar.
+- Stärkere Lernende ersetzen in Aufgabe 3 *würde* durch *wäre,
+  hätte, gäbe, bräuchte* und begründen in Aufgabe 4 mit *obwohl*.
+- **Hören:** Beim ersten Vorlesen nur zuhören lassen, beim zweiten
+  Mal Notizen; bei Bedarf ein drittes Mal nur für die
+  Distraktor-Kontrolle in der Prüfungsaufgabe.
+
+**Sprachlicher Hinweis:** *bräuchte* und *gäbe* gelten als korrekt
+und häufig; *würde brauchen* / *würde geben* sind ebenfalls
+akzeptabel. Wichtig ist auf B1 die **Funktion** (Nicht-Reales,
+höflich), nicht die perfekte Formenwahl.
+
+## Quellen
+
+- **16. koordinierte Bevölkerungsvorausberechnung / Pressemitteilung
+  „In Deutschland wird 2035 jede vierte Person 67 Jahre oder älter
+  sein"** — Statistisches Bundesamt (Destatis) (11.12.2025),
+  <https://www.destatis.de/EN/Press/2025/12/PE25_446_12.html>,
+  Lizenz: Datenlizenz Deutschland – Namensnennung 2.0
+  (<https://www.govdata.de/dl-de/by-2-0>). Fakten paraphrasiert.
+- **„2030 nur knapp 6 Millionen Elektroautos auf deutschen Straßen:
+  Prognose"** — ecomento.de (04.05.2026),
+  <https://ecomento.de/2026/05/04/2030-nur-knapp-6-millionen-elektroautos-auf-deutschen-strassen-prognose/>.
+  Nur Zahlenangabe (2040 ≈ 18 Mio. E-Autos) paraphrasiert und
+  attribuiert; kein Textzitat.
+
+*Alle Lesetexte, Dialoge und Aufgaben in dieser Einheit sind
+Originaltexte der Autorin/des Autors. Fremde Quellen wurden nur für
+Sachzahlen genutzt, paraphrasiert und mit Nachweis versehen.*

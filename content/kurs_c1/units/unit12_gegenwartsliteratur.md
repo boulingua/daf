@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: gegenwartsliteratur
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit12_gegenwartsliteratur.pptx
+  file: /daf/materials/presentations/unit12_gegenwartsliteratur.odp
   thumbnail: /daf/materials/presentations/unit12_gegenwartsliteratur.png
 worksheet:
   file: /daf/materials/worksheets/unit12_gegenwartsliteratur.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-hoeren
 - skill-schreiben
 - topic-kultur
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,182 +39,321 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich folge einer Literaturpodcast-Folge mit drei Stimmen.
-- Ich verfasse eine 230-Wörter-Analytikrezension.
-- Ich kenne **drei Tendenzen** der deutschsprachigen
-  Gegenwartsliteratur seit 2014.
+Am Ende dieser Einheit gilt:
 
-## GER-Ausrichtung
+- **Ich folge einem Literatur-Podcast in seinen Hauptaussagen** — ich
+  unterscheide zwischen These, Beleg und Einwand, auch wenn sie
+  implizit oder ironisch markiert sind.
+- **Ich schreibe eine analytische Kurzrezension** — ich verbinde
+  Beschreibung, Deutung und ein begründetes Urteil in einem kohärenten,
+  hedgingfähigen Text.
+- **Ich verorte zeitgenössische deutschsprachige Stimmen** — ich ordne
+  Werke Tendenzen zu, ohne sie auf Etiketten zu reduzieren.
 
-Prüfungsmodul **Hören** — Teil 1 (Podcast / Rezension,
-Zuordnung von Aussagen zu Textabschnitten).
+Sprachlich im Fokus: **textgebundene Analyse**, literarisches Register,
+konzessive und modalisierende Mittel der Abschwächung (*hedging*).
 
-## Einstiegsgeschichte
+## Einstieg
 
-Letzte Einheit des Kurses, letzte Einheit der gesamten DaF-Site.
-Eine fiktive Folge des Podcasts *„Bücher und Stimmen“* mit drei
-Stimmen: einer Kritikerin, einem Buchhändler, einer
-Literaturwissenschaftlerin. Thema: drei Tendenzen
-deutschsprachiger Gegenwartsliteratur seit 2014.
+Stellen Sie sich vor, eine Freundin drückt Ihnen ein Buch in die Hand
+und sagt nur einen Satz dazu: „Das musst du lesen — aber sag mir
+hinterher, ob das *wahr* ist.“ Genau an dieser Fuge zwischen Erlebtem
+und Erfundenem verläuft eine der lebhaftesten Debatten der
+deutschsprachigen Gegenwartsliteratur.
 
-## 1. Einstieg
+**Diskutieren Sie im Plenum:**
 
-- Welche deutschsprachige Autorin oder welcher Autor der
-  letzten 10 Jahre hat Sie überrascht?
-- Welche Themen dominieren Ihrer Wahrnehmung nach in der
-  Gegenwartsliteratur?
-- Was ist das letzte Buch, das Sie weitergeschenkt haben?
+1. Welche deutschsprachige Autorin oder welcher Autor der letzten zehn
+   Jahre hat Ihre Erwartung an einen Roman unterlaufen — und wodurch?
+2. Wann darf ein Erzähler „ich“ sagen, ohne dass wir das Buch für eine
+   Autobiografie halten? Wo verläuft für Sie die Grenze?
+3. Ist die Frage „Ist das wirklich passiert?“ eine legitime Frage an
+   Literatur — oder eine, die man sich bei Kunst gerade nicht stellen
+   sollte? Begründen Sie mit einem Beispiel.
 
-## 2. Input
+## Input
 
-### A. Podcast-Transkript (gekürzt)
+### A. Wortschatz
 
-> **Moderatorin:** Drei Tendenzen sehen Sie alle? Lassen Sie uns
-> jede einzeln benennen.
+| Begriff | Erklärung (C1) |
+|---|---|
+| die Autofiktion | literarische Form, die einen autobiografischen und einen fiktionalen „Pakt“ mit der Leserin bewusst überlagert |
+| die Autosoziobiografie | Schreiben, das den eigenen Klassenwechsel soziologisch reflektiert |
+| der autobiografische Pakt | implizite Übereinkunft, das erzählte „Ich“ mit der realen Autorin gleichzusetzen |
+| das Stilfragment | bewusst kurzer, montierter, oft typografisch markierter Text |
+| die Verortung | das begründete Einordnen eines Werks in Tendenzen und Kontexte |
+| die Hedging-Formel | sprachliches Mittel der vorsichtigen Abschwächung (*es ließe sich argumentieren …*) |
+| die Textur | das Zusammenspiel von Ton, Rhythmus und Wortwahl eines Textes |
+| die Instanz (Erzählinstanz) | die vermittelnde Stimme, nicht mit der Autorin identisch |
+
+### B. Grammatik im Fokus — Hedging und Konzession
+
+{{< callout type="info" >}}
+**Analytisches Abschwächen (C1).** Textgebundene Analyse behauptet
+selten kategorisch. Sie modalisiert:
+
+- **Konjunktiv II der Vorsicht:** *Man könnte den Roman als … lesen.* /
+  *Es ließe sich einwenden, dass …*
+- **Modaladverbien:** *vermutlich, offenbar, tendenziell, in gewisser
+  Hinsicht.*
+- **Konzessive Konnektoren:** *zwar … doch; wenngleich; gleichwohl;
+  ungeachtet dessen.*
+- **Nominalisierte Distanz:** *die Behauptung, der Anspruch, der
+  Eindruck, das Bemühen, …* statt eines direkten Urteils.
+
+Faustregel: Je stärker die These, desto sichtbarer die Absicherung.
+{{< /callout >}}
+
+### C. Hörtext (zum Vorlesen) — Podcast „Bücher & Stimmen“, Folge 47
+
+*Die Lehrkraft (oder zwei Lernende) liest den Text zweimal vor. Alle
+Namen und Werke sind erfunden; die beschriebenen Tendenzen sind
+paraphrasiert und in den Quellen belegt.*
+
+> **Moderatorin:** Willkommen zur letzten Folge der Staffel. Drei
+> Tendenzen der deutschsprachigen Literatur des vergangenen Jahrzehnts
+> — benennen wir sie, jede für sich.
 >
-> **Kritikerin:** Erstens: das Wiedereintreten des Politischen
-> in den Roman. Nicht als Pamphlet, sondern als
-> Hintergrundrauschen, das zur Zentralfigur werden kann.
+> **Kritikerin:** Die erste würde ich das *Wiedereintreten des
+> Politischen* nennen. Nicht als Parole, sondern als Hintergrundrauschen
+> — Herkunft, Klasse, Migration liegen unter der Handlung, bis sie
+> plötzlich die Handlung *sind*. Man könnte sagen: Der soziale Raum wird
+> selbst zur Figur.
 >
-> **Buchhändler:** Zweitens: der Aufstieg der Auto-Fiktion. Sasha
-> Marianna Salzmann, Annie Ernaux übersetzt, jüngere Stimmen wie
-> Jana Volkmann — sie schreiben „Ich“ so, dass es ein „Wir“
-> wird.
+> **Buchhändler:** Meine Kundinnen greifen zu etwas anderem: zur
+> *Autofiktion*. Ein Erzähl-Ich, das so nah an der Autorin sitzt, dass
+> man ständig fragt, ob das wirklich passiert ist — und genau diese
+> Frage ist der Motor. Verkauft sich, ehrlich gesagt, hervorragend.
 >
-> **Literaturwissenschaftlerin:** Drittens: die Wiederentdeckung
-> des Stilfragments. Kürzeres, Kondensierteres, oft mit
-> typografischen Mitteln. Ein Trend, der aus der Online-Lektüre
-> kommt und zurück in den Buchdruck wirkt.
+> **Literaturwissenschaftlerin:** Und drittens beobachte ich die
+> Rückkehr des *Stilfragments* — kürzere, montierte Formen, oft mit
+> typografischen Brüchen. Das kommt, tendenziell, aus der
+> Bildschirmlektüre und wirkt in den Buchdruck zurück.
 >
-> **Moderatorin:** Welche dieser Tendenzen bleibt?
+> **Moderatorin:** Welche dieser Tendenzen überdauert das Jahrzehnt?
 >
-> **Buchhändler:** Auto-Fiktion bleibt — sie passt zur
-> Selbstdokumentations-Generation.
+> **Buchhändler:** Die Autofiktion bleibt — sie passt zu einer
+> Generation, die sich ohnehin ständig selbst dokumentiert.
 >
-> **Kritikerin:** Politik bleibt — solange sie politisch genug
-> bleibt.
+> **Kritikerin:** Das Politische bleibt, gleichwohl nur, solange es sich
+> nicht mit der bloßen Geste zufriedengibt.
 >
-> **Literaturwissenschaftlerin:** Fragment kommt und geht —
-> seine Ironie macht es zugleich verletzlich.
+> **Literaturwissenschaftlerin:** Das Fragment kommt und geht.
+> Ausgerechnet seine Ironie macht es angreifbar — sie schützt und
+> entwaffnet es zugleich.
 
-### B. Begriffe
+### D. Kontext (paraphrasiert und belegt)
 
-| Begriff               | Erklärung                                       |
-|-----------------------|-------------------------------------------------|
-| Auto-Fiktion          | literarische Form zwischen Roman und Memoir     |
-| Politische Romanstruktur | Politik als atmosphärischer Hintergrund     |
-| Stilfragment          | bewusst kurze, montierte Texte                  |
-| Literaturmarkt        | wirtschaftliche Bedingungen des Buchwesens      |
-| Long-Form / Short-Form| Format-Unterscheidung (analog: Online-Schreiben) |
+Der **Deutsche Buchpreis** wird seit 2005 jährlich zur Frankfurter
+Buchmesse für den „Roman des Jahres“ vergeben; eine unabhängige Jury
+reduziert eine Longlist von 20 Titeln auf eine Shortlist von sechs, aus
+der die Preisträgerin hervorgeht. Sein erklärtes Ziel ist es,
+Aufmerksamkeit auf die deutschsprachige Gegenwartsliteratur zu lenken
+(Deutscher Buchpreis / Wikipedia, s. **Quellen**).
 
-### C. Zwei Strukturen einer Kurzrezension
+Der Begriff **Autofiktion** bezeichnet Texte, die einen
+autobiografischen und einen fiktionalen Pakt mit der Leserin
+kombinieren; die Zuordnung eines Werks beruht dabei häufig auf
+Vorwissen über die reale Autorperson (paraphrasiert nach
+germanistischer Fachliteratur, s. **Quellen**). Eng verwandt ist die
+**Autosoziobiografie**: Annie Ernaux beschrieb ihr Schreiben 2011 als
+„weniger autobiografisch als auto-sozio-biografisch“; im
+deutschsprachigen Raum trug Didier Eribons *Rückkehr nach Reims* (dt.
+2016) zur Etablierung der Form bei (paraphrasiert nach *Autosoziobiografie*
+/ Wikipedia, s. **Quellen**).
 
-1. **Werk → Stil → Kontext → Urteil**
-2. **Frage → Werk → Antwort → offene Folgefrage**
+## Üben
 
-## 3. Üben
+Vier Aufgaben mit steigendem Anspruch. Lösungen am Ende der Einheit.
 
-**Aufgabe 1 — Tendenz und Stimme zuordnen.** Wer nennt …
+**Aufgabe 1 — Hörverstehen: Tendenz und Stimme zuordnen.**
+Wer benennt welche Tendenz? Ordnen Sie zu (K = Kritikerin, B =
+Buchhändler, L = Literaturwissenschaftlerin).
 
-1. … das Wiedereintreten des Politischen?
-2. … den Aufstieg der Auto-Fiktion?
-3. … die Wiederentdeckung des Stilfragments?
+1. das Wiedereintreten des Politischen → ___
+2. den Aufstieg der Autofiktion → ___
+3. die Rückkehr des Stilfragments → ___
 
-**Aufgabe 2 — Begriff einsetzen.**
+**Aufgabe 2 — Wortschatz aktivieren.** Setzen Sie den passenden
+Fachbegriff ein.
 
-1. *„Ich“ wird so geschrieben, dass es ein „Wir“ wird.* → ___
-2. *Politik als atmosphärischer Hintergrund.* → ___
-3. *Bewusst kurze, montierte Texte mit typografischen Mitteln.*
-   → ___
+1. Ein Erzähl-Ich sitzt so nah an der Autorin, dass die Frage nach der
+   Wahrheit zum Motor wird. → die ___
+2. Herkunft und Klasse liegen unter der Handlung, bis sie zur Handlung
+   werden. → das Wiedereintreten des ___
+3. Kurze, montierte Texte mit typografischen Brüchen. → das ___
 
-**Aufgabe 3 — Welche Tendenz bleibt?** Notieren Sie pro Stimme
-ihre Prognose.
+**Aufgabe 3 — Hedging umformulieren.** Schwächen Sie die folgenden
+kategorischen Urteile mithilfe der Mittel aus Grammatikbox B ab
+(mindestens zwei verschiedene Verfahren pro Satz).
 
-{{< details type="tip" title="Lösungen" >}}
+1. Autofiktion ist die wichtigste Form des Jahrzehnts.
+2. Das Stilfragment scheitert an seiner eigenen Ironie.
+3. Politische Romane sind immer besser als unpolitische.
 
-**Aufgabe 1.** 1) Kritikerin · 2) Buchhändler · 3) Literatur-
-wissenschaftlerin.
+**Aufgabe 4 — Textgebundene Mikroanalyse.** Lesen Sie den erfundenen
+Rezensionsausschnitt und beantworten Sie die Fragen.
 
-**Aufgabe 2.** 1) Auto-Fiktion · 2) Politische Romanstruktur ·
-3) Stilfragment.
+> „Kein Satz in *Randlage* traut sich weiter vor, als er zurücknehmen
+> kann. Die Erzählerin dokumentiert ihren Aufstieg aus einer
+> Werkssiedlung und misstraut ihm im selben Atemzug — jedes ‚ich habe es
+> geschafft‘ trägt ein kleingedrucktes ‚auf wessen Kosten‘.“
 
-**Aufgabe 3.** Auto-Fiktion: bleibt · Politik: bleibt, wenn sie
-politisch genug bleibt · Fragment: kommt und geht.
+1. Welcher der drei Tendenzen ist der beschriebene Roman am ehesten
+   zuzuordnen? Begründen Sie mit einer Textstelle.
+2. Mit welchem sprachlichen Mittel erzeugt der Rezensent Distanz zum
+   Erfolg der Figur?
+3. Formulieren Sie in einem Satz die *These* dieser Rezension.
 
-{{< /details >}}
+{{< callout type="tip" >}}
+**Niveau-Differenzierung.**
+**C1 basis:** Aufgaben 1–2 sowie Aufgabe 3 mit vorgegebenen
+Hedging-Bausteinen. **C1 plus:** Aufgabe 3 frei, Aufgabe 4 vollständig
+mit schriftlicher Begründung in je zwei bis drei Sätzen.
+{{< /callout >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Schreibaufgabe (C1, ca. 230 Wörter):** Verfassen Sie eine
-analytische Kurzrezension eines fiktiven oder realen
-deutschsprachigen Buches der letzten zehn Jahre. Verwenden Sie
-**eine** der zwei Strukturen aus C.
+### Produktionsaufgabe A — Analytische Kurzrezension (ca. 300 Wörter)
 
-## 5. Reflexion
+Verfassen Sie eine Kurzrezension eines fiktiven oder realen
+deutschsprachigen Buches der letzten zehn Jahre. Wählen Sie **eine**
+Struktur:
 
-- [ ] Ich folge einem dreistimmigen Literaturpodcast.
-- [ ] Ich kenne *Auto-Fiktion, Stilfragment, politische
-      Struktur*.
-- [ ] Ich schreibe eine 230-Wörter-Analytikrezension.
+1. **Werk → Textur → Kontext → begründetes Urteil**
+2. **Leitfrage → Werk → Antwort → offene Folgefrage**
 
-## Kursabschluss C1
+**Bewertungskriterien:**
 
-Mit zwölf Einheiten haben Sie das C1-Niveau strukturell
-erschlossen — von **literarischem Argumentieren** über
-**Wissenschaftstheorie** und **Postkolonialismus** bis zu
-**Stilistik**, **literarischer Moderne** und **Gegenwartsliteratur**.
-Sie können nun ein anspruchsvolles Spektrum deutschsprachiger
-Texte rezipieren, klar strukturierte Texte verfassen und
-spontan-fließend an Diskussionen über komplexe Themen
-teilnehmen — die Vollerwartung des GER-Prüfung C1.
+- **Analyse (statt Nacherzählung):** mindestens zwei belegte
+  Beobachtungen zu Form oder Sprache.
+- **Verortung:** eine begründete Zuordnung zu einer der drei Tendenzen.
+- **Hedging:** mindestens drei verschiedene Mittel aus Box B.
+- **Kohärenz & Register:** literarisch-akademischer Ton, keine
+  Umgangssprache.
 
-## Site-Abschluss
+### Produktionsaufgabe B — Kurze Erörterung (ca. 300–350 Wörter)
 
-Mit dieser letzten Einheit ist die DaF-Site auf
-<https://boulingua.github.io/daf/> in ihrer ersten Vollfassung
-fertig. Fünf Kurse · sechzig Einheiten · 240 Sprachfunktions-
-Übungen · sechzig GER-Modellprüfungs-PDFs.
+**Leitfrage:** *Verlangt Autofiktion vom Leser mehr Vertrauen oder mehr
+Misstrauen?*
 
-## Prüfungsbeispiel — GER C1 Hören, Teil 1
+Schreiben Sie eine strukturierte Erörterung:
 
-**Aufgabenstellung:** Sie hören die Podcast-Folge (Input A)
-zweimal. Ordnen Sie sechs Aussagen den drei Sprecher:innen zu.
+- **Einleitung:** Begriffsklärung und zugespitzte Leitfrage.
+- **These (Pro):** ein Argument mit Beispiel, warum Autofiktion
+  *Vertrauen* voraussetzt.
+- **Antithese (Kontra):** ein Argument mit Beispiel, warum sie
+  *Misstrauen* schult.
+- **Synthese:** eine abwägende, hedgende Position — *es spricht
+  einiges dafür, dass …*
+- **Schluss:** eine offene Folgefrage.
 
-1. „Die Politik wird als Hintergrundrauschen zur Zentralfigur.“ → K
-2. „Junge Stimmen schreiben ‚Ich' so, dass es ein ‚Wir' wird.“ → B
-3. „Stilfragmente kommen aus der Online-Lektüre.“ → L
-4. „Auto-Fiktion bleibt.“ → B
-5. „Politik bleibt, wenn sie politisch genug bleibt.“ → K
-6. „Das Fragment ist verletzlich durch seine Ironie.“ → L
+## Prüfung
 
-{{< details type="tip" title="Lösungen" >}}
-1 = K · 2 = B · 3 = L · 4 = B · 5 = K · 6 = L.
+### GER C1 Hören, Teil 1 — Aussagen zuordnen
 
-{{< /details >}}
+**Aufgabenstellung:** Sie hören die Podcast-Folge (Hörtext C) zweimal.
+Ordnen Sie die sechs Aussagen den drei Sprecher:innen zu
+(K / B / L). Notieren Sie zusätzlich, ob es sich um eine **These (T)**
+oder eine **Prognose (P)** handelt.
 
+| Nr. | Aussage | Stimme | T/P |
+|---|---|---|---|
+| 1 | Der soziale Raum wird selbst zur Figur. | ___ | ___ |
+| 2 | Das Erzähl-Ich sitzt so nah an der Autorin, dass die Wahrheitsfrage zum Motor wird. | ___ | ___ |
+| 3 | Kürzere, montierte Formen kommen aus der Bildschirmlektüre. | ___ | ___ |
+| 4 | Die Autofiktion bleibt, weil sich die Generation ohnehin selbst dokumentiert. | ___ | ___ |
+| 5 | Das Politische bleibt nur, solange es nicht bloße Geste ist. | ___ | ___ |
+| 6 | Gerade die Ironie macht das Fragment angreifbar. | ___ | ___ |
 
-<div class="notes">
+**Punkte-Rubrik (12 Punkte):**
 
-**Zeit (Abschluss):** Einstieg 8' · Input 22' · Üben 18' ·
-Anwenden 30' · Reflexion + Kursabschluss 15' · Prüfungsvorschau 17'.
+- Je korrekte Stimmenzuordnung: **1 P** (max. 6 P).
+- Je korrekte T/P-Einordnung: **1 P** (max. 6 P).
+- **11–12:** sehr gut · **9–10:** gut · **7–8:** befriedigend ·
+  **6:** ausreichend · **< 6:** nicht bestanden.
 
-</div>
+## Reflexion
 
-## Häufige Stolperfallen
+- [ ] Ich folge einem dreistimmigen Literatur-Podcast in seinen
+      Hauptaussagen und erkenne Ironie als Bedeutungsebene.
+- [ ] Ich unterscheide *Autofiktion*, *Autosoziobiografie* und
+      *Stilfragment* und kann sie in eigenen Worten erklären.
+- [ ] Ich schwäche Urteile mit mindestens drei Hedging-Verfahren ab.
+- [ ] Ich schreibe eine analytische Kurzrezension mit Verortung.
+- [ ] Ich verorte mindestens eine reale deutschsprachige Stimme des
+      letzten Jahrzehnts, ohne sie auf ein Etikett zu reduzieren.
 
-- **„Auto-Fiktion“** ist nicht dasselbe wie *Autobiografie* —
-  Auto-Fiktion arbeitet bewusst mit dem Status zwischen Wahrheit
-  und Form.
-- **„Stilfragment“** auf C1 ist Fachbegriff, nicht Wertung.
-- **„Gegenwartsliteratur“** als Periodenbegriff ist offen — der
-  Beginn wird je nach Standpunkt um 2000 oder 2014 angesetzt.
+## Hinweise für Lehrkräfte
 
-## Weiterführende Materialien
+**Ablauf (45 Minuten).**
 
-- **Deutscher Buchpreis Shortlists**:
-  <https://www.deutscher-buchpreis.de/>
-- **Ö1 Ex libris**: <https://oe1.orf.at/exlibris>
-- **SRF Literaturclub**: <https://www.srf.ch/sendungen/literaturclub>
+- **Einstieg (6′):** Frage 1–2 im Plenum, Blitzlicht. Frage 3 als
+  Aufwärmung für das spätere Hedging.
+- **Input (12′):** Wortschatz (B) still lesen lassen; Grammatikbox
+  gemeinsam an einem Tafelbeispiel; Hörtext (C) **einmal** vorlesen —
+  bei geschlossenen Büchern.
+- **Üben (15′):** Aufgabe 1 direkt nach dem **zweiten** Vorlesen;
+  Aufgaben 2–4 in Partnerarbeit. Aufgabe 4 nur mit *C1 plus*.
+- **Anwenden (8′):** Aufgabe wählen lassen, Kriterien besprechen,
+  Schreiben als Hausaufgabe beginnen.
+- **Reflexion (4′):** Checkliste, ein Satz „Das nehme ich mit“.
+
+**Gruppierung.** Hörteil im Plenum; Üben in Paaren (leistungsheterogen
+mischen, damit Hedging-Formulierungen ausgehandelt werden); Anwenden
+individuell.
+
+**Differenzierung.** Für *basis* die Hedging-Bausteine als Kärtchen
+bereitstellen; für *plus* Aufgabe 4 um eine schriftliche Begründung und
+die Erörterung (Aufgabe B) erweitern. Schnelle Gruppen: eine reale
+Shortlist des Deutschen Buchpreises recherchieren und **einen** Titel
+mündlich verorten.
+
+**Copyright-Hinweis.** Alle Romantitel, Namen und Zitate im Hörtext und
+in den Aufgaben sind erfunden. Reale Autorinnen und Autoren werden nur
+paraphrasierend genannt und verlinkt — kein urheberrechtlich
+geschützter Text wird zitiert.
+
+## Lösungen
+
+**Aufgabe 1.** 1) K · 2) B · 3) L.
+
+**Aufgabe 2.** 1) Autofiktion · 2) Politischen · 3) Stilfragment.
+
+**Aufgabe 3** (Musterlösungen; andere gültige Kombinationen möglich).
+1) „Autofiktion *ließe sich* als eine der prägenden Formen des
+Jahrzehnts *lesen* — wenngleich ihre Dominanz *vermutlich* auch
+markt­bedingt ist.“
+2) „Man *könnte* argumentieren, dass das Stilfragment *tendenziell* an
+seiner eigenen Ironie *zu scheitern droht*.“
+3) „*In gewisser Hinsicht* wirken politische Romane dringlicher, *doch*
+Dringlichkeit ist *nicht zwangsläufig* ein Qualitätsmerkmal.“
+
+**Aufgabe 4.**
+1) Autosoziobiografie / „Wiedereintreten des Politischen“ — belegt durch
+„Aufstieg aus einer Werkssiedlung“ und „auf wessen Kosten“ (Klasse als
+Thema).
+2) Durch die Gegenüberstellung „‚ich habe es geschafft‘ / kleingedrucktes
+‚auf wessen Kosten‘“ — ein konzessiver, selbst­relativierender
+Kontrast.
+3) Musterthese: „*Randlage* erzählt den sozialen Aufstieg nur, um ihn
+zugleich zu misstrauen.“
+
+## Quellen
+
+- *Deutscher Buchpreis* — Wikipedia (Abruf 2026), Fakten zu Vergabe,
+  Longlist/Shortlist und Ziel paraphrasiert. Lizenz: CC BY-SA 4.0.
+  <https://de.wikipedia.org/wiki/Deutscher_Buchpreis>
+- *Autosoziobiografie* — Wikipedia (Abruf 2026), Begriff, Ernaux-Zitat
+  („auto-sozio-biografisch“, 2011) und Eribon-Rezeption paraphrasiert.
+  Lizenz: CC BY-SA 4.0. <https://de.wikipedia.org/wiki/Autosoziobiografie>
+- Fachliteratur zur Autofiktion (germanistische Übersichts­darstellungen,
+  Abruf 2026), Definition „autobiografischer + fiktionaler Pakt“
+  paraphrasiert. Wissenschaftliche Sekundärliteratur, nur sinngemäß
+  wiedergegeben.
+- **Weiterführend (nicht affiliiert, Links):** Deutscher Buchpreis
+  <https://www.deutscher-buchpreis.de/> · Ö1 *Ex libris*
+  <https://oe1.orf.at/exlibris> · SRF *Literaturclub*
+  <https://www.srf.ch/sendungen/literaturclub>

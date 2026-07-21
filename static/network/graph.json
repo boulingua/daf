@@ -1501,7 +1501,7 @@
       "id": "pres-kurs_b1-der-bewerbungsweg",
       "type": "presentation",
       "title": "Einheit 2 — Der Bewerbungsweg",
-      "url": "/daf/materials/presentations/unit02_der-bewerbungsweg.pptx",
+      "url": "/daf/materials/presentations/unit02_der-bewerbungsweg.odp",
       "thumbnail": "/daf/materials/presentations/unit02_der-bewerbungsweg.png",
       "parent_article": "article-kurs_b1-der-bewerbungsweg",
       "course": "kurs_b1",
@@ -1514,7 +1514,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-der-bewerbungsweg",
@@ -1533,7 +1533,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-der-bewerbungsweg",
@@ -1621,7 +1621,7 @@
       "id": "pres-kurs_b1-gesundheitssystem-dach",
       "type": "presentation",
       "title": "Einheit 4 — Gesundheitssystem im DACH-Raum",
-      "url": "/daf/materials/presentations/unit04_gesundheitssystem-dach.pptx",
+      "url": "/daf/materials/presentations/unit04_gesundheitssystem-dach.odp",
       "thumbnail": "/daf/materials/presentations/unit04_gesundheitssystem-dach.png",
       "parent_article": "article-kurs_b1-gesundheitssystem-dach",
       "course": "kurs_b1",
@@ -1634,7 +1634,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-gesundheitssystem-dach",
@@ -1653,7 +1653,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-gesundheitssystem-dach",
@@ -1681,7 +1681,7 @@
       "id": "pres-kurs_b1-digitale-kommunikation",
       "type": "presentation",
       "title": "Einheit 5 — Digitale Kommunikation: Chat, E-Mail, Forum",
-      "url": "/daf/materials/presentations/unit05_digitale-kommunikation.pptx",
+      "url": "/daf/materials/presentations/unit05_digitale-kommunikation.odp",
       "thumbnail": "/daf/materials/presentations/unit05_digitale-kommunikation.png",
       "parent_article": "article-kurs_b1-digitale-kommunikation",
       "course": "kurs_b1",
@@ -1694,7 +1694,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-digitale-kommunikation",
@@ -1713,7 +1713,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-digitale-kommunikation",
@@ -1741,7 +1741,7 @@
       "id": "pres-kurs_b1-umwelt-und-mobilitaet",
       "type": "presentation",
       "title": "Einheit 6 — Umwelt und Mobilität",
-      "url": "/daf/materials/presentations/unit06_umwelt-und-mobilitaet.pptx",
+      "url": "/daf/materials/presentations/unit06_umwelt-und-mobilitaet.odp",
       "thumbnail": "/daf/materials/presentations/unit06_umwelt-und-mobilitaet.png",
       "parent_article": "article-kurs_b1-umwelt-und-mobilitaet",
       "course": "kurs_b1",
@@ -1754,7 +1754,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-umwelt-und-mobilitaet",
@@ -1773,7 +1773,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-umwelt-und-mobilitaet",
@@ -1801,7 +1801,7 @@
       "id": "pres-kurs_b1-interkulturelle-begegnung",
       "type": "presentation",
       "title": "Einheit 7 — Interkulturelle Begegnung: Missverständnisse und Lösungen",
-      "url": "/daf/materials/presentations/unit07_interkulturelle-begegnung.pptx",
+      "url": "/daf/materials/presentations/unit07_interkulturelle-begegnung.odp",
       "thumbnail": "/daf/materials/presentations/unit07_interkulturelle-begegnung.png",
       "parent_article": "article-kurs_b1-interkulturelle-begegnung",
       "course": "kurs_b1",
@@ -1814,7 +1814,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-interkulturelle-begegnung",
@@ -1833,7 +1833,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-interkulturelle-begegnung",
@@ -1861,7 +1861,7 @@
       "id": "pres-kurs_b1-stadt-und-land",
       "type": "presentation",
       "title": "Einheit 8 — Stadt und Land",
-      "url": "/daf/materials/presentations/unit08_stadt-und-land.pptx",
+      "url": "/daf/materials/presentations/unit08_stadt-und-land.odp",
       "thumbnail": "/daf/materials/presentations/unit08_stadt-und-land.png",
       "parent_article": "article-kurs_b1-stadt-und-land",
       "course": "kurs_b1",
@@ -1874,7 +1874,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-stadt-und-land",
@@ -1893,7 +1893,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-stadt-und-land",
@@ -1921,7 +1921,7 @@
       "id": "pres-kurs_b1-konsum-und-verbraucherschutz",
       "type": "presentation",
       "title": "Einheit 9 — Konsum und Verbraucherschutz",
-      "url": "/daf/materials/presentations/unit09_konsum-und-verbraucherschutz.pptx",
+      "url": "/daf/materials/presentations/unit09_konsum-und-verbraucherschutz.odp",
       "thumbnail": "/daf/materials/presentations/unit09_konsum-und-verbraucherschutz.png",
       "parent_article": "article-kurs_b1-konsum-und-verbraucherschutz",
       "course": "kurs_b1",
@@ -1934,7 +1934,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-konsum-und-verbraucherschutz",
@@ -1953,7 +1953,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-konsum-und-verbraucherschutz",
@@ -1981,7 +1981,7 @@
       "id": "pres-kurs_b1-politik-und-teilhabe",
       "type": "presentation",
       "title": "Einheit 10 — Politik und Teilhabe",
-      "url": "/daf/materials/presentations/unit10_politik-und-teilhabe.pptx",
+      "url": "/daf/materials/presentations/unit10_politik-und-teilhabe.odp",
       "thumbnail": "/daf/materials/presentations/unit10_politik-und-teilhabe.png",
       "parent_article": "article-kurs_b1-politik-und-teilhabe",
       "course": "kurs_b1",
@@ -1994,7 +1994,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-politik-und-teilhabe",
@@ -2013,7 +2013,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-politik-und-teilhabe",
@@ -2041,7 +2041,7 @@
       "id": "pres-kurs_b1-persoenliche-beziehungen",
       "type": "presentation",
       "title": "Einheit 11 — Persönliche Beziehungen und Konflikte",
-      "url": "/daf/materials/presentations/unit11_persoenliche-beziehungen.pptx",
+      "url": "/daf/materials/presentations/unit11_persoenliche-beziehungen.odp",
       "thumbnail": "/daf/materials/presentations/unit11_persoenliche-beziehungen.png",
       "parent_article": "article-kurs_b1-persoenliche-beziehungen",
       "course": "kurs_b1",
@@ -2054,7 +2054,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-persoenliche-beziehungen",
@@ -2073,7 +2073,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-persoenliche-beziehungen",
@@ -2101,7 +2101,7 @@
       "id": "pres-kurs_b1-zukunftsvisionen",
       "type": "presentation",
       "title": "Einheit 12 — Zukunftsvisionen: Was wird 2040 anders sein?",
-      "url": "/daf/materials/presentations/unit12_zukunftsvisionen.pptx",
+      "url": "/daf/materials/presentations/unit12_zukunftsvisionen.odp",
       "thumbnail": "/daf/materials/presentations/unit12_zukunftsvisionen.png",
       "parent_article": "article-kurs_b1-zukunftsvisionen",
       "course": "kurs_b1",
@@ -2114,7 +2114,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-zukunftsvisionen",
@@ -2133,7 +2133,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-zukunftsvisionen",
@@ -2161,7 +2161,7 @@
       "id": "pres-kurs_b2-medienlandschaft-heute",
       "type": "presentation",
       "title": "Einheit 1 — Medienlandschaft heute",
-      "url": "/daf/materials/presentations/unit01_medienlandschaft-heute.pptx",
+      "url": "/daf/materials/presentations/unit01_medienlandschaft-heute.odp",
       "thumbnail": "/daf/materials/presentations/unit01_medienlandschaft-heute.png",
       "parent_article": "article-kurs_b2-medienlandschaft-heute",
       "course": "kurs_b2",
@@ -2174,7 +2174,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-medienlandschaft-heute",
@@ -2193,7 +2193,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-medienlandschaft-heute",
@@ -2221,7 +2221,7 @@
       "id": "pres-kurs_b2-wissenschaft-kommunizieren",
       "type": "presentation",
       "title": "Einheit 2 — Wissenschaft kommunizieren",
-      "url": "/daf/materials/presentations/unit02_wissenschaft-kommunizieren.pptx",
+      "url": "/daf/materials/presentations/unit02_wissenschaft-kommunizieren.odp",
       "thumbnail": "/daf/materials/presentations/unit02_wissenschaft-kommunizieren.png",
       "parent_article": "article-kurs_b2-wissenschaft-kommunizieren",
       "course": "kurs_b2",
@@ -2234,7 +2234,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-wissenschaft-kommunizieren",
@@ -2253,7 +2253,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-wissenschaft-kommunizieren",
@@ -2281,7 +2281,7 @@
       "id": "pres-kurs_b2-gesellschaftliche-debatten",
       "type": "presentation",
       "title": "Einheit 3 — Gesellschaftliche Debatten: Generationengerechtigkeit",
-      "url": "/daf/materials/presentations/unit03_gesellschaftliche-debatten.pptx",
+      "url": "/daf/materials/presentations/unit03_gesellschaftliche-debatten.odp",
       "thumbnail": "/daf/materials/presentations/unit03_gesellschaftliche-debatten.png",
       "parent_article": "article-kurs_b2-gesellschaftliche-debatten",
       "course": "kurs_b2",
@@ -2294,7 +2294,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-gesellschaftliche-debatten",
@@ -2313,7 +2313,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-gesellschaftliche-debatten",
@@ -2341,7 +2341,7 @@
       "id": "pres-kurs_b2-arbeitswelt-im-wandel",
       "type": "presentation",
       "title": "Einheit 4 — Arbeitswelt im Wandel: KI und Beruf",
-      "url": "/daf/materials/presentations/unit04_arbeitswelt-im-wandel.pptx",
+      "url": "/daf/materials/presentations/unit04_arbeitswelt-im-wandel.odp",
       "thumbnail": "/daf/materials/presentations/unit04_arbeitswelt-im-wandel.png",
       "parent_article": "article-kurs_b2-arbeitswelt-im-wandel",
       "course": "kurs_b2",
@@ -2354,7 +2354,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-arbeitswelt-im-wandel",
@@ -2373,7 +2373,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-arbeitswelt-im-wandel",
@@ -2401,7 +2401,7 @@
       "id": "pres-kurs_b2-kunst-und-kultur",
       "type": "presentation",
       "title": "Einheit 5 — Kunst und Kultur: Ausstellung besprechen",
-      "url": "/daf/materials/presentations/unit05_kunst-und-kultur.pptx",
+      "url": "/daf/materials/presentations/unit05_kunst-und-kultur.odp",
       "thumbnail": "/daf/materials/presentations/unit05_kunst-und-kultur.png",
       "parent_article": "article-kurs_b2-kunst-und-kultur",
       "course": "kurs_b2",
@@ -2414,7 +2414,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-kunst-und-kultur",
@@ -2433,7 +2433,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-kunst-und-kultur",
@@ -2461,7 +2461,7 @@
       "id": "pres-kurs_b2-migrationsdiskurs",
       "type": "presentation",
       "title": "Einheit 6 — Migrationsdiskurs und Zugehörigkeit",
-      "url": "/daf/materials/presentations/unit06_migrationsdiskurs.pptx",
+      "url": "/daf/materials/presentations/unit06_migrationsdiskurs.odp",
       "thumbnail": "/daf/materials/presentations/unit06_migrationsdiskurs.png",
       "parent_article": "article-kurs_b2-migrationsdiskurs",
       "course": "kurs_b2",
@@ -2474,7 +2474,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-migrationsdiskurs",
@@ -2493,7 +2493,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-migrationsdiskurs",
@@ -2521,7 +2521,7 @@
       "id": "pres-kurs_b2-gesundheitspolitik",
       "type": "presentation",
       "title": "Einheit 7 — Gesundheitspolitik: Pflegenotstand und Solidarität",
-      "url": "/daf/materials/presentations/unit07_gesundheitspolitik.pptx",
+      "url": "/daf/materials/presentations/unit07_gesundheitspolitik.odp",
       "thumbnail": "/daf/materials/presentations/unit07_gesundheitspolitik.png",
       "parent_article": "article-kurs_b2-gesundheitspolitik",
       "course": "kurs_b2",
@@ -2534,7 +2534,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-gesundheitspolitik",
@@ -2553,7 +2553,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-gesundheitspolitik",
@@ -2641,7 +2641,7 @@
       "id": "pres-kurs_b2-bildungsdebatten",
       "type": "presentation",
       "title": "Einheit 9 — Bildungsdebatten: Leistungsdruck und Chancengleichheit",
-      "url": "/daf/materials/presentations/unit09_bildungsdebatten.pptx",
+      "url": "/daf/materials/presentations/unit09_bildungsdebatten.odp",
       "thumbnail": "/daf/materials/presentations/unit09_bildungsdebatten.png",
       "parent_article": "article-kurs_b2-bildungsdebatten",
       "course": "kurs_b2",
@@ -2654,7 +2654,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-bildungsdebatten",
@@ -2673,7 +2673,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-bildungsdebatten",
@@ -2701,7 +2701,7 @@
       "id": "pres-kurs_b2-ethik-digitaler-technologien",
       "type": "presentation",
       "title": "Einheit 10 — Ethik digitaler Technologien",
-      "url": "/daf/materials/presentations/unit10_ethik-digitaler-technologien.pptx",
+      "url": "/daf/materials/presentations/unit10_ethik-digitaler-technologien.odp",
       "thumbnail": "/daf/materials/presentations/unit10_ethik-digitaler-technologien.png",
       "parent_article": "article-kurs_b2-ethik-digitaler-technologien",
       "course": "kurs_b2",
@@ -2714,7 +2714,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-ethik-digitaler-technologien",
@@ -2733,7 +2733,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-ethik-digitaler-technologien",
@@ -2761,7 +2761,7 @@
       "id": "pres-kurs_b2-oekonomie-fuer-laien",
       "type": "presentation",
       "title": "Einheit 11 — Ökonomie für Laien: Inflation und Geldwert",
-      "url": "/daf/materials/presentations/unit11_oekonomie-fuer-laien.pptx",
+      "url": "/daf/materials/presentations/unit11_oekonomie-fuer-laien.odp",
       "thumbnail": "/daf/materials/presentations/unit11_oekonomie-fuer-laien.png",
       "parent_article": "article-kurs_b2-oekonomie-fuer-laien",
       "course": "kurs_b2",
@@ -2774,7 +2774,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-oekonomie-fuer-laien",
@@ -2793,7 +2793,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-oekonomie-fuer-laien",
@@ -2821,7 +2821,7 @@
       "id": "pres-kurs_b2-literarische-perspektiven",
       "type": "presentation",
       "title": "Einheit 12 — Literarische Perspektiven: Erzählstimmen der Gegenwart",
-      "url": "/daf/materials/presentations/unit12_literarische-perspektiven.pptx",
+      "url": "/daf/materials/presentations/unit12_literarische-perspektiven.odp",
       "thumbnail": "/daf/materials/presentations/unit12_literarische-perspektiven.png",
       "parent_article": "article-kurs_b2-literarische-perspektiven",
       "course": "kurs_b2",
@@ -2834,7 +2834,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-literarische-perspektiven",
@@ -2853,7 +2853,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-literarische-perspektiven",
@@ -2941,7 +2941,7 @@
       "id": "pres-kurs_c1-politische-diskursanalyse",
       "type": "presentation",
       "title": "Einheit 2 — Politische Diskursanalyse",
-      "url": "/daf/materials/presentations/unit02_politische-diskursanalyse.pptx",
+      "url": "/daf/materials/presentations/unit02_politische-diskursanalyse.odp",
       "thumbnail": "/daf/materials/presentations/unit02_politische-diskursanalyse.png",
       "parent_article": "article-kurs_c1-politische-diskursanalyse",
       "course": "kurs_c1",
@@ -2954,7 +2954,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-politische-diskursanalyse",
@@ -2973,7 +2973,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-politische-diskursanalyse",
@@ -3001,7 +3001,7 @@
       "id": "pres-kurs_c1-wissenschaftstheorie",
       "type": "presentation",
       "title": "Einheit 3 — Wissenschaftstheorie: Was ist Erkenntnis?",
-      "url": "/daf/materials/presentations/unit03_wissenschaftstheorie.pptx",
+      "url": "/daf/materials/presentations/unit03_wissenschaftstheorie.odp",
       "thumbnail": "/daf/materials/presentations/unit03_wissenschaftstheorie.png",
       "parent_article": "article-kurs_c1-wissenschaftstheorie",
       "course": "kurs_c1",
@@ -3014,7 +3014,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-wissenschaftstheorie",
@@ -3033,7 +3033,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-wissenschaftstheorie",
@@ -3061,7 +3061,7 @@
       "id": "pres-kurs_c1-aesthetik-und-urteil",
       "type": "presentation",
       "title": "Einheit 4 — Ästhetik und Urteil",
-      "url": "/daf/materials/presentations/unit04_aesthetik-und-urteil.pptx",
+      "url": "/daf/materials/presentations/unit04_aesthetik-und-urteil.odp",
       "thumbnail": "/daf/materials/presentations/unit04_aesthetik-und-urteil.png",
       "parent_article": "article-kurs_c1-aesthetik-und-urteil",
       "course": "kurs_c1",
@@ -3074,7 +3074,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-aesthetik-und-urteil",
@@ -3093,7 +3093,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-aesthetik-und-urteil",
@@ -3121,7 +3121,7 @@
       "id": "pres-kurs_c1-identitaet-und-sprache",
       "type": "presentation",
       "title": "Einheit 5 — Identität und Sprache: Mehrsprachigkeit als Ressource",
-      "url": "/daf/materials/presentations/unit05_identitaet-und-sprache.pptx",
+      "url": "/daf/materials/presentations/unit05_identitaet-und-sprache.odp",
       "thumbnail": "/daf/materials/presentations/unit05_identitaet-und-sprache.png",
       "parent_article": "article-kurs_c1-identitaet-und-sprache",
       "course": "kurs_c1",
@@ -3134,7 +3134,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-identitaet-und-sprache",
@@ -3153,7 +3153,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-identitaet-und-sprache",
@@ -3181,7 +3181,7 @@
       "id": "pres-kurs_c1-postkoloniale-perspektiven",
       "type": "presentation",
       "title": "Einheit 6 — Postkoloniale Perspektiven im deutschsprachigen Raum",
-      "url": "/daf/materials/presentations/unit06_postkoloniale-perspektiven.pptx",
+      "url": "/daf/materials/presentations/unit06_postkoloniale-perspektiven.odp",
       "thumbnail": "/daf/materials/presentations/unit06_postkoloniale-perspektiven.png",
       "parent_article": "article-kurs_c1-postkoloniale-perspektiven",
       "course": "kurs_c1",
@@ -3194,7 +3194,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-postkoloniale-perspektiven",
@@ -3213,7 +3213,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-postkoloniale-perspektiven",
@@ -3241,7 +3241,7 @@
       "id": "pres-kurs_c1-historiografie",
       "type": "presentation",
       "title": "Einheit 7 — Historiografie: Wem gehört das Narrativ?",
-      "url": "/daf/materials/presentations/unit07_historiografie.pptx",
+      "url": "/daf/materials/presentations/unit07_historiografie.odp",
       "thumbnail": "/daf/materials/presentations/unit07_historiografie.png",
       "parent_article": "article-kurs_c1-historiografie",
       "course": "kurs_c1",
@@ -3254,7 +3254,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-historiografie",
@@ -3273,7 +3273,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-historiografie",
@@ -3301,7 +3301,7 @@
       "id": "pres-kurs_c1-philosophie-fuer-informierte-laien",
       "type": "presentation",
       "title": "Einheit 8 — Philosophie für informierte Laien",
-      "url": "/daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.pptx",
+      "url": "/daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.odp",
       "thumbnail": "/daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.png",
       "parent_article": "article-kurs_c1-philosophie-fuer-informierte-laien",
       "course": "kurs_c1",
@@ -3314,7 +3314,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-philosophie-fuer-informierte-laien",
@@ -3333,7 +3333,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-philosophie-fuer-informierte-laien",
@@ -3361,7 +3361,7 @@
       "id": "pres-kurs_c1-fachsprachen-wirtschaft-medizin-recht",
       "type": "presentation",
       "title": "Einheit 9 — Fachsprachen: Wirtschaft, Medizin, Recht im Vergleich",
-      "url": "/daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.pptx",
+      "url": "/daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.odp",
       "thumbnail": "/daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.png",
       "parent_article": "article-kurs_c1-fachsprachen-wirtschaft-medizin-recht",
       "course": "kurs_c1",
@@ -3374,7 +3374,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-fachsprachen-wirtschaft-medizin-recht",
@@ -3393,7 +3393,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-fachsprachen-wirtschaft-medizin-recht",
@@ -3421,7 +3421,7 @@
       "id": "pres-kurs_c1-stilistik-und-rhetorik",
       "type": "presentation",
       "title": "Einheit 10 — Stilistik und Rhetorik",
-      "url": "/daf/materials/presentations/unit10_stilistik-und-rhetorik.pptx",
+      "url": "/daf/materials/presentations/unit10_stilistik-und-rhetorik.odp",
       "thumbnail": "/daf/materials/presentations/unit10_stilistik-und-rhetorik.png",
       "parent_article": "article-kurs_c1-stilistik-und-rhetorik",
       "course": "kurs_c1",
@@ -3434,7 +3434,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-stilistik-und-rhetorik",
@@ -3453,7 +3453,7 @@
         "topic-wissenschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-stilistik-und-rhetorik",
@@ -3481,7 +3481,7 @@
       "id": "pres-kurs_c1-literarische-moderne",
       "type": "presentation",
       "title": "Einheit 11 — Literarische Moderne: Kafka, Mann, Musil — und warum sie heute lesen?",
-      "url": "/daf/materials/presentations/unit11_literarische-moderne.pptx",
+      "url": "/daf/materials/presentations/unit11_literarische-moderne.odp",
       "thumbnail": "/daf/materials/presentations/unit11_literarische-moderne.png",
       "parent_article": "article-kurs_c1-literarische-moderne",
       "course": "kurs_c1",
@@ -3494,7 +3494,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-literarische-moderne",
@@ -3513,7 +3513,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-literarische-moderne",
@@ -3541,7 +3541,7 @@
       "id": "pres-kurs_c1-gegenwartsliteratur",
       "type": "presentation",
       "title": "Einheit 12 — Gegenwartsliteratur: Stimmen der letzten zehn Jahre",
-      "url": "/daf/materials/presentations/unit12_gegenwartsliteratur.pptx",
+      "url": "/daf/materials/presentations/unit12_gegenwartsliteratur.odp",
       "thumbnail": "/daf/materials/presentations/unit12_gegenwartsliteratur.png",
       "parent_article": "article-kurs_c1-gegenwartsliteratur",
       "course": "kurs_c1",
@@ -3554,7 +3554,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_c1-gegenwartsliteratur",
@@ -3573,7 +3573,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_c1-gegenwartsliteratur",

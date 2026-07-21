@@ -15,7 +15,7 @@ pruefungs_module:
 unit_slug: gesundheitssystem-dach
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit04_gesundheitssystem-dach.pptx
+  file: /daf/materials/presentations/unit04_gesundheitssystem-dach.odp
   thumbnail: /daf/materials/presentations/unit04_gesundheitssystem-dach.png
 worksheet:
   file: /daf/materials/worksheets/unit04_gesundheitssystem-dach.pdf
@@ -30,7 +30,7 @@ tags:
 - skill-hoeren
 - skill-sprachmittlung
 - topic-gesellschaft
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -43,207 +43,342 @@ date: '2026-05-04T19:53:22+02:00'
 
 ## Lernziele
 
-- … **kann ich** aus einem Interview konkrete Informationen
-  (Zahlen, Beträge, Wartezeiten) verstehen.
-- … **kann ich** Fachbegriffe aus dem Gesundheitsbereich für
-  Laien umformulieren.
-- … **kann ich** drei Systeme (Deutschland / Österreich / Schweiz)
-  vergleichen.
+Am Ende dieser Einheit gilt für Sie:
 
-## GER-Ausrichtung
+- … **kann ich** Informationen in einem Interview zu Gesundheitsthemen
+  im Detail verstehen — zum Beispiel Zahlen, Beträge und Wartezeiten.
+- … **kann ich** Fachbegriffe aus dem Gesundheitsbereich in
+  Alltagssprache umformulieren.
+- … **kann ich** Unterschiede zwischen den Gesundheitssystemen in
+  Deutschland, Österreich und der Schweiz erläutern.
 
-- Prüfungsmodul: **Hören** — Teil 3 (Gespräche zwischen
-  Muttersprachlern) und Teil 4 (Radiosendungen,
-  Zuordnungs-aufgabe).
-- Zusätzlich: Sprachmittlung (B1-rezeptiv).
+Zusätzliches Sprachziel: Ich kann meine Meinung zu einem
+gesellschaftlichen Thema äußern und mit *weil*, *dass* oder *obwohl*
+begründen.
 
-## Einstiegsgeschichte
 
-**Frau Dr. Susanne Lenz** arbeitet als Hausärztin in einer
-Gemeinschaftspraxis in Leipzig-Plagwitz. Sie behandelt Menschen
-aus dem Stadtteil — oft mit Migrationshintergrund, oft mit
-knappem Deutsch. Heute ist sie zu Gast im **Radio-Sachsen-Podcast
-„Sprechstunde“**, der vor allem Laien erklärt, wie Gesundheits-
-systeme funktionieren. Thema der Folge: Krankenversicherung in
-Deutschland, Österreich und der Schweiz im Vergleich.
+## Einstieg
 
-## 1. Einstieg
+Stellen Sie sich vor, Sie ziehen für die Arbeit von einem
+DACH-Land in ein anderes um. Am ersten Tag werden Sie krank. Sie
+gehen zur Ärztin — und plötzlich merken Sie: Vieles funktioniert
+anders, als Sie es kennen. In Deutschland zahlt oft die
+Krankenkasse fast alles direkt. In der Schweiz bekommen Sie
+zuerst eine Rechnung nach Hause. In Österreich brauchen Sie Ihre
+e-card. Drei Nachbarländer, eine gemeinsame Sprache — und drei
+ziemlich verschiedene Systeme.
+
+**Sprechen Sie zu zweit über diese Fragen:**
 
 - Wie ist das Gesundheitssystem in Ihrem Heimatland organisiert:
-  staatlich, privat, Mischsystem?
-- Haben Sie schon einmal in einem anderen Land einen Arztbesuch
-  gehabt? Was war überraschend?
+  eher staatlich, eher privat oder ein Mischsystem?
+- Haben Sie schon einmal in einem anderen Land eine Ärztin oder
+  einen Arzt besucht? Was war für Sie überraschend?
 - Nennen Sie drei Wörter, die Ihnen zum Thema
-  „Krankenversicherung“ einfallen.
+  „Krankenversicherung“ einfallen, und erklären Sie eines davon.
 
-## 2. Input
 
-### A. Hörtext — Podcast-Interview (Transkript)
+## Input
 
-> **Moderator:** Willkommen zur „Sprechstunde“. Frau Dr. Lenz,
-> Sie sehen in Ihrer Praxis viele Patient:innen, die aus
-> Österreich oder der Schweiz zugezogen sind. Wo liegen die
-> wichtigsten Unterschiede zwischen den drei Systemen?
->
-> **Dr. Lenz:** Die drei Länder sehen auf den ersten Blick
-> ähnlich aus: Alle haben eine Krankenversicherungspflicht. Aber
-> die Umsetzung ist verschieden. In **Deutschland** gibt es die
-> gesetzliche und die private Krankenversicherung — rund 90
-> Prozent der Menschen sind gesetzlich versichert. Die Beiträge
-> werden über den Lohn abgezogen, grob gesagt die Hälfte vom
-> Arbeitnehmer, die Hälfte vom Arbeitgeber.
->
-> **Moderator:** Und in Österreich?
->
-> **Dr. Lenz:** In **Österreich** ist die Sozialversicherung stark
-> mit dem Arbeitgeber verbunden. Wer angestellt ist, ist
-> automatisch in einer Kasse — früher je nach Beruf, heute seit
-> der Reform zusammengeführt in der ÖGK, der Österreichischen
-> Gesundheitskasse.
->
-> **Moderator:** Die Schweiz gilt ja als das teuerste der drei
-> Systeme.
->
-> **Dr. Lenz:** Ja, in der **Schweiz** zahlen alle eine
-> monatliche Prämie direkt an eine private Versicherung — die
-> Grundversicherung ist zwar gesetzlich festgelegt, aber man
-> wählt die Kasse selbst. Eine Durchschnittsprämie für eine:n
-> Erwachsene:n liegt bei rund 400 Franken im Monat, plus eine
-> Eigenfranchise, die man jährlich selber zahlt, bevor die
-> Versicherung übernimmt. Das schockiert viele, die aus
-> Deutschland kommen.
->
-> **Moderator:** Stichwort Wartezeiten?
->
-> **Dr. Lenz:** In Deutschland gilt die 4-Wochen-Regel für
-> Facharzttermine — die ist in der Theorie gut, in der Praxis oft
-> knapp. In der Schweiz sind Termine meist schneller, kosten aber
-> aus eigener Tasche bis zur Franchise. Österreich liegt
-> dazwischen.
+### A. Wortschatz
 
-### B. Wortschatz
+| Wort                            | Erklärung                                                        |
+|---------------------------------|-----------------------------------------------------------------|
+| die Krankenversicherungspflicht | die gesetzliche Pflicht, versichert zu sein                     |
+| die gesetzliche Krankenkasse    | ein vom Staat reguliertes Versicherungssystem (typisch für DE)  |
+| der Beitrag, ¨-e                | das Geld, das man regelmäßig an die Versicherung zahlt (DE/AT)  |
+| die Prämie, -n                  | der monatliche Betrag an die Kasse (so sagt man in der Schweiz) |
+| die Franchise, -n               | der Betrag, den man pro Jahr zuerst selbst zahlt, bevor die Kasse übernimmt (CH) |
+| der Selbstbehalt, -e            | ein Teil der Kosten, den man auch nach der Franchise selbst trägt |
+| der Facharzttermin, -e          | ein Termin bei einer Ärztin mit einem Spezialgebiet (z. B. Augen) |
+| solidarisch finanziert          | alle zahlen gemeinsam; Gesunde helfen Kranken                   |
 
-| Wort                         | Erklärung                                                  |
-|------------------------------|------------------------------------------------------------|
-| Krankenversicherungspflicht  | gesetzliche Pflicht, versichert zu sein                   |
-| gesetzliche Krankenkasse     | staatlich reguliertes Versicherungssystem (DE)            |
-| Prämie, die                  | monatlicher Beitrag an die Versicherung (CH-Sprachgebrauch) |
-| Franchise, die               | Eigenanteil, den man vor der Kostenübernahme selbst zahlt (CH) |
-| 4-Wochen-Regel               | maximale Wartezeit auf Facharzttermin in Deutschland       |
+### B. Grammatik im Fokus — Vergleichen und begründen
 
-## 3. Üben
+**1. Über die Vergangenheit sprechen: Perfekt und Präteritum.**
+Im Gespräch benutzen wir meist das **Perfekt**, in Texten und bei
+Reformen oft das **Präteritum**.
 
-**Aufgabe 1 — Zuordnung (Hören Teil 4-Logik).** Wer sagt was?
-Ordnen Sie die Aussagen dem Land zu (DE / AT / CH):
+- *Die Kassen **wurden** 2019 zusammengeführt.* (Präteritum)
+- *Ich **habe** in der Schweiz eine Rechnung **bekommen**.* (Perfekt)
 
-1. Die Krankenkasse ist seit einer Reform zentralisiert (ÖGK).
-2. Der Lohn wird je zur Hälfte von Arbeitgeber und Arbeitnehmer
-   belastet.
-3. Man wählt die Krankenkasse selbst und zahlt eine monatliche
-   Prämie plus Franchise.
-4. Rund 90 Prozent der Bevölkerung sind gesetzlich versichert.
+**2. Höflich und hypothetisch: Konjunktiv II (würde / könnte).**
 
-**Aufgabe 2 — Sprachmittlung (Fachbegriff → Alltagssprache).**
-Erklären Sie die folgenden Begriffe einer Person, die kein
-Gesundheitssystem-Vokabular hat (je 1 Satz):
+- *Ich **würde** gern die Kasse wechseln.*
+- *Man **könnte** eine höhere Franchise wählen, dann wäre die
+  Prämie niedriger.*
 
-- Eigenfranchise
-- Facharzttermin
-- gesetzliche Krankenversicherung
+**3. Nebensätze zum Begründen und Verbinden.** Das Verb steht am
+Ende.
 
-**Aufgabe 3 — Zahlen heraushören.** Wie heißt die genannte Zahl?
+- *Viele wählen eine hohe Franchise, **weil** die Prämie dann
+  niedriger ist.*
+- *Ich finde gut, **dass** alle versichert sein müssen.*
+- ***Obwohl** die Schweiz teuer ist, sind die Wartezeiten oft
+  kürzer.*
+- *Ein Facharzttermin, **der** in vier Wochen möglich sein soll,
+  ist in der Praxis oft schwer zu bekommen.* (Relativsatz)
 
-1. Durchschnittsprämie in der Schweiz (pro Monat, Erwachsene).
-2. Zeitfenster der deutschen Facharzt-Regel.
-3. Anteil der gesetzlich Versicherten in Deutschland.
+### C. Hörtext (zum Vorlesen) — Podcast „Sprechstunde“
+
+> *Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten
+> Mal hören die Lernenden nur zu, beim zweiten Mal machen sie
+> Notizen.*
+
+**Moderator:** Willkommen zur „Sprechstunde“. Heute geht es um die
+Krankenversicherung in Deutschland, Österreich und der Schweiz.
+Frau Dr. Lenz, wo liegen die größten Unterschiede?
+
+**Dr. Lenz:** Auf den ersten Blick sehen die drei Länder ähnlich
+aus, denn überall gibt es eine Versicherungspflicht. Aber die
+Umsetzung ist verschieden. In **Deutschland** sind rund neunzig
+Prozent der Menschen gesetzlich versichert. Die Beiträge hängen
+vom Einkommen ab, und Arbeitgeber und Arbeitnehmer zahlen sie
+ungefähr je zur Hälfte.
+
+**Moderator:** Und in Österreich?
+
+**Dr. Lenz:** In **Österreich** ist der Beitrag ebenfalls vom
+Einkommen abhängig — aktuell etwa 7,65 Prozent, wieder etwa
+halbe-halbe zwischen Betrieb und beschäftigter Person. Früher gab
+es viele Kassen je nach Beruf. Seit 2019 wurden sie in der ÖGK
+zusammengeführt, also in der Österreichischen Gesundheitskasse.
+
+**Moderator:** Die Schweiz gilt als das teuerste System.
+
+**Dr. Lenz:** Ja. In der **Schweiz** zahlt man keine Beiträge nach
+Einkommen, sondern eine feste Prämie pro Kopf. Je nach Region
+liegt sie ungefähr zwischen 230 und 430 Franken im Monat. Dazu
+kommt die Franchise: Erwachsene zahlen die ersten 300 Franken pro
+Jahr selbst, und man kann freiwillig eine höhere Franchise bis
+2500 Franken wählen. Wer das tut, zahlt eine niedrigere Prämie,
+trägt aber mehr Risiko.
+
+**Moderator:** Und danach ist alles bezahlt?
+
+**Dr. Lenz:** Nicht ganz. Nach der Franchise kommt noch ein
+Selbstbehalt von zehn Prozent, maximal 700 Franken im Jahr. Das
+überrascht viele, die aus Deutschland zuziehen.
+
+### D. Kontext (recherchiert und mit Quelle)
+
+Deutschland und Österreich finanzieren ihre
+Krankenversicherung solidarisch und **einkommensabhängig**: Wer
+mehr verdient, zahlt einen höheren Beitrag. Die Schweiz dagegen
+arbeitet mit **Kopfprämien**, die nicht vom Einkommen abhängen;
+Menschen mit niedrigem Einkommen bekommen dafür staatliche
+Zuschüsse (nach Deutscher Bundestag, Wissenschaftliche Dienste
+2024; Bundesamt für Gesundheit BAG). In der Schweiz gilt seit dem
+Krankenversicherungsgesetz von 1996 für alle Einwohner:innen eine
+Pflicht zur Grundversicherung, und jede zugelassene Kasse muss
+alle Personen aufnehmen — unabhängig von Alter oder Gesundheit
+(nach Bundesamt für Gesundheit BAG).
+
+
+## Üben
+
+**Aufgabe 1 — Zuordnung (Logik von Hören, Teil 4).** Ordnen Sie
+jede Aussage einem Land zu: **DE**, **AT** oder **CH**.
+
+1. Die Kassen wurden 2019 in einer zentralen Kasse (ÖGK)
+   zusammengeführt.
+2. Rund neunzig Prozent der Bevölkerung sind gesetzlich versichert.
+3. Man zahlt eine feste Prämie pro Kopf plus eine jährliche
+   Franchise.
+4. Der Beitrag beträgt aktuell etwa 7,65 Prozent des Einkommens.
+
+**Aufgabe 2 — Zahlen heraushören.** Notieren Sie die Zahl aus dem
+Hörtext.
+
+1. Standard-Franchise für Erwachsene in der Schweiz (pro Jahr).
+2. Maximaler Selbstbehalt in der Schweiz (pro Jahr).
+3. Ungefährer Anteil der gesetzlich Versicherten in Deutschland.
+
+**Aufgabe 3 — Sprachmittlung (Fachbegriff → Alltagssprache).**
+Erklären Sie die Begriffe einer Person ohne Fachwissen in je
+einem Satz. Benutzen Sie einen Relativsatz mit *der/die/das*.
+
+- die Franchise
+- der Facharzttermin
+- die gesetzliche Krankenversicherung
+
+**Aufgabe 4 — Meinung mit Begründung.** Ergänzen Sie die Sätze
+frei und benutzen Sie *weil*, *dass* oder *obwohl*.
+
+1. Ich finde das deutsche System gut/schlecht, weil …
+2. Ich glaube, dass eine hohe Franchise …
+3. Obwohl die Schweiz teuer ist, …
+
+**Niveau-Differenzierung.**
+- **Leichter (A2+/B1):** Aufgabe 3 mit einem Hauptsatz statt eines
+  Relativsatzes; den Hörtext beim zweiten Mal mitlesen.
+- **Schwerer (B1+):** In Aufgabe 4 jeden Satz mit einem zweiten
+  Argument (*außerdem …*) erweitern.
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** 1 = AT · 2 = DE · 3 = CH · 4 = DE.
+**Aufgabe 1.** 1 = AT · 2 = DE · 3 = CH · 4 = AT.
 
-**Aufgabe 2.** Beispielformulierungen:
+**Aufgabe 2.** 1) 300 Franken · 2) 700 Franken · 3) rund 90 Prozent.
 
-- *Eigenfranchise* — „der Betrag, den man pro Jahr selbst
-  bezahlt, bevor die Versicherung etwas übernimmt“.
-- *Facharzttermin* — „ein Termin bei einem Arzt oder einer Ärztin
-  mit einem besonderen Fachgebiet, zum Beispiel Hautarzt oder
-  Augenärztin“.
-- *gesetzliche Krankenversicherung* — „eine Versicherung, deren
-  Regeln vom Staat festgelegt sind und zu der fast alle
-  Arbeitnehmer:innen automatisch gehören“.
+**Aufgabe 3.** Beispielformulierungen:
+- *die Franchise* — „der Betrag, **den** man pro Jahr zuerst selbst
+  zahlt, bevor die Kasse die Kosten übernimmt.“
+- *der Facharzttermin* — „ein Termin bei einer Ärztin, **die** ein
+  Spezialgebiet hat, zum Beispiel Augen oder Haut.“
+- *die gesetzliche Krankenversicherung* — „eine Versicherung,
+  **deren** Regeln der Staat festlegt und zu **der** fast alle
+  Arbeitnehmer:innen automatisch gehören.“
 
-**Aufgabe 3.** 1) rund 400 Franken · 2) 4 Wochen · 3) rund 90
-Prozent.
+**Aufgabe 4.** Individuelle Lösungen. Bewertungskriterien: Der
+Nebensatz ist korrekt gebildet (Verb am Ende), die Begründung
+passt inhaltlich zur Meinung.
 
 {{< /details >}}
 
-## 4. Anwenden
 
-**Paar-Aufgabe.** Partner:in A ist Patient:in und fragt nach dem
-System in einem der drei Länder. Partner:in B antwortet in drei
-Minuten. Wechseln Sie, wenn fertig.
+## Anwenden
+
+**Rollenspiel zu zweit — „Beratungsgespräch“.**
+
+Partner:in A ist gerade aus einem der drei Länder in ein anderes
+umgezogen und stellt Fragen (Was kostet das? Wer zahlt? Wie
+schnell bekomme ich einen Termin?). Partner:in B erklärt das
+System des neuen Landes in etwa drei Minuten. Danach tauschen Sie
+die Rollen und ein anderes Land.
 
 **Redemittel.**
 
 - *Bei uns in … funktioniert das so, dass …*
 - *Der größte Unterschied liegt darin, dass …*
-- *Zahlen muss man …*
-- *Im Vergleich dazu ist in Deutschland …*
+- *Selbst zahlen muss man …, weil …*
+- *Im Vergleich dazu ist es in Deutschland …*
+- *Ich würde dir raten, …*
 
-## 5. Reflexion
+**Bewertungskriterien.**
+- Inhalt: mindestens drei korrekte Fakten zum System (Beitrag/
+  Prämie, Träger, Wartezeit).
+- Sprache: mindestens zwei Nebensätze (*weil/dass/obwohl*) und eine
+  Konjunktiv-II-Form (*würde/könnte*).
+- Sprachmittlung: mindestens ein Fachbegriff in Alltagssprache
+  erklärt.
 
-- [ ] Ich kann dem Interview-Teil zur Schweiz folgen.
+
+## Prüfung — GER B1 Hören, Teil 4 (Zuordnung)
+
+**Aufgabenstellung:** Die Lehrkraft liest den Hörtext (Abschnitt
+C) noch einmal vor. Ordnen Sie die acht Aussagen den drei Ländern
+zu: **DE**, **AT** oder **CH**. Eine Aussage passt zu **keinem**
+Land (Distraktor). Pro Aussage kreuzen Sie genau ein Feld an.
+
+| Nr. | Aussage                                                              | DE | AT | CH |
+|-----|---------------------------------------------------------------------|----|----|----|
+| 1   | Die Versicherten wählen ihre Kasse selbst und zahlen eine Prämie.   | ☐  | ☐  | ☐  |
+| 2   | Rund neunzig Prozent sind gesetzlich versichert.                    | ☐  | ☐  | ☐  |
+| 3   | Der Beitrag liegt aktuell bei etwa 7,65 Prozent des Einkommens.     | ☐  | ☐  | ☐  |
+| 4   | Es gibt eine Franchise, die man pro Jahr zuerst selbst zahlt.       | ☐  | ☐  | ☐  |
+| 5   | Die Kassen wurden 2019 zur ÖGK zusammengeführt.                     | ☐  | ☐  | ☐  |
+| 6   | Beiträge werden ungefähr je zur Hälfte auf Arbeitgeber und Arbeitnehmer verteilt. | ☐ | ☐ | ☐ |
+| 7   | Nach der Franchise zahlt man noch zehn Prozent Selbstbehalt.        | ☐  | ☐  | ☐  |
+| 8   | Alle drei Länder bezahlen jeden Arztbesuch komplett aus Steuergeldern. | ☐ | ☐ | ☐ |
+
+**Punkte-Rubrik (max. 8 Punkte).**
+
+| Kriterium                                        | Punkte |
+|--------------------------------------------------|--------|
+| Aussagen 1–7 richtig zugeordnet (je 1 Punkt)     | 0–7    |
+| Distraktor (Nr. 8) korrekt als „kein Land“ erkannt | 0–1   |
+
+**Bestehen:** ab 5 von 8 Punkten.
+
+{{< details type="tip" title="Lösung Prüfung" >}}
+
+1 = CH · 2 = DE · 3 = AT · 4 = CH · 5 = AT · 6 = DE/AT (beide
+akzeptiert, da im Hörtext für DE genannt und für AT „wieder
+halbe-halbe“) · 7 = CH · 8 = Distraktor (kein Land — die drei
+Systeme finanzieren sich über Beiträge bzw. Prämien, nicht rein
+aus Steuern).
+
+{{< /details >}}
+
+
+## Reflexion
+
+- [ ] Ich kann dem Interview-Teil zur Schweiz im Detail folgen.
 - [ ] Ich kann drei Fachbegriffe in eigenen Worten erklären.
-- [ ] Ich kann die drei Systeme in jeweils zwei Sätzen
-      zusammenfassen.
-
-## Prüfungsbeispiel — GER B1 Hören, Teil 4 (Zuordnung)
-
-**Aufgabenstellung:** Sie hören noch einmal den Interview-
-Ausschnitt (Transkript siehe Input A). Ordnen Sie acht Aussagen
-den drei Ländern zu. Eine Aussage passt zu keinem der drei
-Länder (Distraktor).
-
-**Stimulus-Aussagen:**
-
-1. „Die Versicherten wählen ihre Kasse selbst.“ → CH
-2. „Rund 90 Prozent sind gesetzlich versichert.“ → DE
-3. „Ein Facharzttermin soll in vier Wochen möglich sein.“ → DE
-4. „Es gibt eine Eigenfranchise, die pro Jahr zu zahlen ist.“ → CH
-5. „Die Kassen wurden 2019 zur ÖGK zusammengeführt.“ → AT
-6. „Beiträge werden hälftig auf Arbeitgeber und Arbeitnehmer
-   aufgeteilt.“ → DE
-7. „Die Wartezeiten liegen im Mittelfeld der drei Länder.“ → AT
-8. „Alle drei Länder bezahlen den Arztbesuch komplett aus
-   Steuergeldern.“ → **Distraktor** (passt zu keinem).
+- [ ] Ich kann die drei Systeme in jeweils zwei Sätzen vergleichen.
+- [ ] Ich kann meine Meinung mit *weil*, *dass* oder *obwohl*
+      begründen.
+- [ ] Ich kann eine höfliche/hypothetische Aussage mit
+      *würde/könnte* bilden.
 
 
-<div class="notes">
+## Hinweise für Lehrkräfte
+
+**Zeitplan (45 Minuten).**
+
+| Phase       | Zeit  | Sozialform            |
+|-------------|-------|-----------------------|
+| Einstieg    | 6'    | Partnerarbeit         |
+| Input A–D   | 12'   | Plenum + Vorlesen     |
+| Üben 1–4    | 15'   | Einzel- → Partnerarbeit |
+| Anwenden    | 9'    | Rollenspiel (Paare)   |
+| Reflexion   | 3'    | Einzelarbeit          |
+
+**Vorlesen des Hörtexts.** Zweimal langsam vorlesen. Beim ersten
+Durchgang schließen die Lernenden die Hefte und hören nur zu; beim
+zweiten Durchgang notieren sie Zahlen und Länder. Für die
+Prüfungsaufgabe (Teil 4) ein drittes Mal in kurzen Abschnitten
+lesen.
+
+**Gruppierung.** Für das Rollenspiel gemischte Paare bilden
+(stärker + schwächer). Wer schnell fertig ist, übernimmt ein
+zweites Land.
+
+**Differenzierung.**
+- *Unterstützung:* Transkript (Abschnitt C) als Mitlesehilfe
+  austeilen; Wortschatztabelle sichtbar lassen.
+- *Herausforderung:* Zusätzlich den Begriff *solidarisch
+  finanziert* selbst definieren lassen und eine vierte Aussage für
+  die Zuordnungsaufgabe erfinden.
+
+**Häufige Stolperfallen.**
+- *Franchise* (CH) bedeutet hier „Selbstzahler-Betrag“, nicht
+  „Geschäftslizenz“ oder franz. *franchise* = Offenheit.
+- *Prämie* (CH) ≠ *Beitrag* (DE/AT); beide meinen das regelmäßige
+  Geld an die Kasse, aber der Berechnungsweg ist verschieden
+  (Kopfprämie vs. einkommensabhängig).
+- *ÖGK* (AT) wird leicht mit *AOK* (DE) verwechselt.
+
+**Landeskundlicher Hinweis.** Die genauen Zahlen (Prämienhöhen,
+Beitragssätze) ändern sich jährlich. Die hier genannten Werte
+stammen aus den Quellen und dienen dem Verständnis der Struktur,
+nicht als tagesaktuelle Beratung.
 
 
-**Zeit:** Einstieg 8' · Input 15' · Üben 20' · Anwenden 15' ·
-Reflexion 3' · Prüfungsvorschau 24'.
+## Quellen
 
-**Binnendifferenzierung.** Stärkere: Aufgabe 2 mit zwei statt
-einem Satz; zusätzlich ein viertes Fachwort („solidarisch
-finanziert“) selbst definieren. Schwächere: Transkript während
-Hören in Augen behalten.
+- **Gesundheitssysteme im Vergleich — Finanzierung der
+  Krankenversicherung** — Deutscher Bundestag, Wissenschaftliche
+  Dienste (2024).
+  <https://www.bundestag.de/resource/blob/1055852/e36ca984acf8ee6f76cc9dd1c68b0c26/WD-8-092-24-pdf.pdf>
+  · Lizenz: © Deutscher Bundestag, Nutzung für nicht-kommerzielle,
+  wissenschaftliche/lehrende Zwecke mit Quellenangabe (amtliches
+  Werk, § 5 UrhG — gemeinfrei); Fakten paraphrasiert.
+- **Prämien und Kosten der obligatorischen Krankenpflegeversicherung
+  (OKP): häufige Fragen** — Bundesamt für Gesundheit BAG, Schweiz
+  (o. J., abgerufen 2026).
+  <https://www.bag.admin.ch/de/praemien-und-kosten-antworten-auf-haeufige-fragen>
+  · Lizenz: amtliche Information des Bundes, gemeinfrei; Fakten
+  paraphrasiert.
+- **Krankenkassen-Systeme im Ländervergleich** — SWI swissinfo.ch
+  (öffentlich-rechtlich).
+  <https://www.swissinfo.ch/ger/krankenkassen-systeme-im-laendervergleich/5738618>
+  · Lizenz: urheberrechtlich geschützt; nur als Hintergrund
+  konsultiert, ausschließlich Fakten paraphrasiert, kein Text
+  übernommen.
 
-</div>
-
-## Häufige Stolperfallen
-
-- **„Franchise“** hat im CH-Deutschen eine andere Bedeutung als
-  in anderen Sprachen (z. B. französisch *franchise* = Offenheit).
-- **Prämie vs. Beitrag:** *Prämie* ist CH-Sprachgebrauch,
-  *Beitrag* eher DE.
-- **ÖGK** wird oft mit **AOK** verwechselt (andere Länder).
-
-## Weiterführende Materialien
-
-- **DW — „Das sagt man so“ zum Thema Gesundheit**:
-  <https://learngerman.dw.com/>
-- **Gesundheitsinformation.de** (Stiftung für Qualität in der
-  Medizin): <https://www.gesundheitsinformation.de/>
-- **SRF — „Puls“** (Schweizer Gesundheitsmagazin, B1+):
-  <https://www.srf.ch/play/tv/puls>
+*Alle Texte dieser Einheit (Hörtext, Aufgaben, Redemittel) sind
+Originalformulierungen der Autorin. Aus den oben genannten Quellen
+wurden nur Sachinformationen paraphrasiert; es wurde kein
+geschützter Text kopiert.*

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: arbeitswelt-im-wandel
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.pptx
+  file: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.odp
   thumbnail: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.png
 worksheet:
   file: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-lesen
 - skill-sprechen
 - topic-arbeit
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -42,150 +42,345 @@ date: '2026-05-04T19:53:22+02:00'
 
 ## Lernziele
 
-- Ich unterscheide vier Positionen zu KI im Beruf.
-- Ich halte einen 4-Minuten-Vortrag mit Pro/Kontra.
-- Ich führe eine 5-Minuten-Diskussion.
+*Kann-Beschreibungen (GER B2):*
 
-## GER-Ausrichtung
+- **Ich erkenne Standpunkte in Meinungsäußerungen.**
+- **Ich vertrete eine eigene Haltung argumentativ.**
+- **Ich diskutiere pro/kontra KI im Berufsleben.**
 
-Prüfungsmodul **Sprechen** — Teil 1 (Vortrag halten) und Teil 2
-(Diskussion).
+*Konkretisierte I-can-Ziele für diese Einheit:*
 
-## Einstiegsgeschichte
+- Ich unterscheide zustimmende, ablehnende und abwägende Positionen
+  in einem Meinungstext und begründe meine Einordnung.
+- Ich formuliere eine These, stütze sie mit einem Beleg und schwäche
+  sie durch eine Einschränkung ab (*einerseits/andererseits, dennoch,
+  folglich*).
+- Ich halte einen strukturierten Vortrag (ca. 4 Min.) und führe
+  anschließend eine argumentative Diskussion (ca. 5 Min.).
+- Ich verwende Passiv, Konjunktiv I (indirekte Rede) und
+  Nominalisierungen, um sachlich und distanziert zu argumentieren.
 
-**Nihad Kovač**, Kulturmanager, moderiert ein Panel in Berlin:
-*„Wird der Kulturberuf durch KI ersetzt?“* Vier Gäste — aus
-Journalismus, Übersetzung, Programmierung und Theater — werden
-vier sehr verschiedene Antworten geben.
+## Einstieg
 
-## 1. Einstieg
+**Nihad Kovač**, Kulturmanager, moderiert in Berlin ein Panel mit
+dem provokanten Titel: *„Wird der kreative Beruf durch KI ersetzt?“*
+Vier Gäste — aus Journalismus, Übersetzung, Softwareentwicklung und
+Theater — sind eingeladen. Noch bevor die erste Frage gestellt wird,
+raunt es im Publikum: Die einen erwarten eine Abrechnung mit der
+Technik, die anderen erhoffen sich einen Aufbruch. Kovač lächelt und
+sagt nur: *„Vermutlich werden Sie heute vier sehr verschiedene
+Wahrheiten hören — und keine davon ist ganz falsch.“*
 
-- Welche Berufe werden laut Medien „von KI bedroht“?
-- Welchen Teil Ihres Berufs könnten Sie *nicht* automatisieren
-  lassen?
-- Wo ist KI hilfreich, wo lästig?
+**Einstiegsfragen (Partnerarbeit):**
 
-## 2. Input
+- Welche Berufe gelten in den Medien als „von KI bedroht“ — und
+  welche als „von KI aufgewertet“?
+- Welchen Teil Ihrer eigenen Tätigkeit könnten Sie *nicht*
+  automatisieren lassen? Warum nicht?
+- Wo empfinden Sie KI als hilfreich, wo als lästig oder riskant?
 
-### A. Vier Meinungsäußerungen (original)
+## Input
 
-> **Journalismus — Jana:** „Die Recherche beschleunigt sich, das
-> ist ein Segen. Aber wenn KI den Kommentar schreibt, verliert
-> die Zeitung ihre Stimme. Die Grenze ist klar: Fakten sammeln
+### A. Vokabeltabelle (B2)
+
+| Wort / Wendung                     | Erläuterung / Kollokation                         |
+|------------------------------------|---------------------------------------------------|
+| die Automatisierung                | Ersetzung menschlicher Arbeit durch Maschinen     |
+| das Automatisierungspotenzial      | Anteil der Tätigkeit, der automatisierbar ist     |
+| die Verdrängung (von Arbeitsplätzen)| das Wegfallen von Stellen                         |
+| die Umschulung / die Weiterbildung | neue Qualifikation erwerben                       |
+| die Schlüsselkompetenz             | zentrale, gefragte Fähigkeit                      |
+| die Nuance abwägen                 | feine Unterschiede beurteilen                     |
+| ein Segen / ein Fluch sein         | großer Vorteil / großer Nachteil                  |
+| etwas in Frage stellen             | anzweifeln, kritisch prüfen                       |
+| die Produktivität steigern         | mehr Ertrag pro Zeiteinheit erzielen              |
+| unverzichtbar bleiben              | weiterhin unbedingt notwendig sein                |
+
+### B. Grammatik im Fokus
+
+{{< callout type="info" >}}
+**Sachlich argumentieren auf B2 — drei Werkzeuge**
+
+**1. Passiv (Vorgang ohne Handelnden):**
+*Routineaufgaben werden zunehmend automatisiert.* /
+*In der Studie wurde festgestellt, dass …*
+
+**2. Konjunktiv I (indirekte Rede, Distanz zur Quelle):**
+*Die OECD schreibt, kognitive Berufe **seien** besonders stark
+betroffen.* / *Man sagt, KI **werde** mehr Jobs schaffen als
+zerstören.*
+
+**3. Nominalisierung (Verdichtung, akademischer Ton):**
+*Weil sich die Arbeit verändert* → *Aufgrund der **Veränderung**
+der Arbeit …* / *Dass Menschen zusammenarbeiten, bleibt wichtig* →
+*Die **Zusammenarbeit** von Menschen bleibt wichtig.*
+
+**Konnektoren zum Abwägen:** *einerseits … andererseits · im
+Gegensatz dazu · dennoch · folglich · zwar … aber · demzufolge.*
+{{< /callout >}}
+
+### C. Vier Meinungsäußerungen (original)
+
+> **Journalismus — Jana:** „Die Recherche beschleunigt sich, das ist
+> ein Segen. Aber wenn KI den Kommentar schreibt, verliert die
+> Zeitung ihre Stimme. Die Grenze ist für mich klar: Fakten sammeln
 > ja, Meinung formulieren nein.“
 
-> **Übersetzung — Pavel:** „Für technische Texte nutze ich KI
-> jeden Tag. Literaturübersetzung hingegen bleibt anstrengend
-> persönlich — die Nuance ist nicht berechenbar.“
+> **Übersetzung — Pavel:** „Für technische Texte nutze ich KI jeden
+> Tag; die Zeitersparnis ist enorm. Literaturübersetzung hingegen
+> bleibt anstrengend persönlich — die Nuance ist nicht berechenbar,
+> und genau darin liegt mein Wert.“
 
-> **Programmierung — Amira:** „Ich war skeptisch. Heute
-> benutze ich KI als Partnerin beim Debuggen. Ich bin schneller.
-> Was ich vermisse: die Kolleg:innen, mit denen ich früher über
-> Code diskutiert habe.“
+> **Softwareentwicklung — Amira:** „Ich war skeptisch. Heute benutze
+> ich KI als Partnerin beim Debuggen und bin deutlich schneller.
+> Was ich vermisse, sind die Kolleg:innen, mit denen ich früher über
+> jede Zeile Code diskutiert habe.“
 
-> **Theater — Leo:** „Ein Schauspiel funktioniert, weil etwas
-> Unberechenbares zwischen Menschen passiert. Kein Modell der
-> Welt kann das nachstellen — zumindest nicht jetzt.“
+> **Theater — Leo:** „Ein Schauspiel funktioniert, weil zwischen
+> Menschen etwas Unberechenbares geschieht. Kein Modell kann das
+> nachstellen — dennoch könnte KI die Textarbeit vor der Probe
+> erleichtern. Ersetzen wird sie den Abend nicht.“
 
-### B. Argumentations-Werkzeuge (B2)
+### D. Lesetext (original, B2, ~300 Wörter)
 
-| Funktion           | Redemittel                                    |
-|--------------------|-----------------------------------------------|
-| These              | *Ich vertrete die Position, dass …*           |
-| Beleg              | *Das zeigt sich daran, dass …*                |
-| Einschränkung      | *Man muss allerdings bedenken, dass …*        |
-| Gegenposition      | *Dagegen lässt sich einwenden, dass …*        |
-| Schluss            | *Zusammenfassend halte ich fest: …*           |
+**Zwischen Verdrängung und Aufwertung**
 
-## 3. Üben
+Kaum ein Thema wird derzeit so hitzig diskutiert wie die Frage, ob
+künstliche Intelligenz Arbeitsplätze vernichtet oder schafft.
+Einerseits werden Routineaufgaben, die früher ganze Abteilungen
+beschäftigten, heute in Sekunden erledigt; folglich fürchten viele
+Beschäftigte um ihre Stelle. Andererseits zeigt ein genauerer Blick,
+dass die Wirklichkeit vielschichtiger ist, als es die
+Schlagzeilen vermuten lassen.
 
-**Aufgabe 1 — Position erkennen.** Wer ist *pro*, wer *teils/teils*?
+Auffällig ist zunächst, *welche* Tätigkeiten überhaupt betroffen
+sind. Anders als bei früheren Automatisierungswellen, die vor allem
+körperliche Arbeit ersetzten, gelten diesmal gerade kognitive,
+nicht-routinierte Berufe — etwa Programmieren, Übersetzen oder
+Dolmetschen — als besonders stark exponiert. Genau in diesen
+Bereichen kann generative KI einen erheblichen Teil der Aufgaben
+übernehmen. Dennoch bedeutet hohe Exposition nicht automatisch
+Verdrängung: Wird ein Teil der Arbeit schneller erledigt, verschiebt
+sich der Schwerpunkt oft auf jene Anteile, die eine Maschine gerade
+*nicht* leisten kann.
+
+Im Gegensatz zu einer rein pessimistischen Lesart deuten mehrere
+Analysen darauf hin, dass die Nachfrage nach bestimmten Fähigkeiten
+sogar steigt. Gefragt seien, so heißt es in einer OECD-Untersuchung,
+vor allem Management, soziale Kompetenzen und Originalität — also
+genau jene menschlichen Stärken, die sich schwer formalisieren
+lassen. Die Zusammenarbeit mit Kolleg:innen und die Fähigkeit, Neues
+zu schaffen, würden demzufolge wichtiger, nicht unwichtiger.
+
+Was folgt daraus für die einzelne Person? Wer die Entwicklung
+mitgestalten will, kommt an kontinuierlicher Weiterbildung kaum
+vorbei. Zwar lässt sich die Zukunft nicht sicher vorhersagen, dennoch
+zeichnet sich ein Muster ab: Nicht die Technik allein entscheidet
+über Gewinner und Verlierer, sondern die Frage, wie Aufgaben,
+Qualifikationen und Verantwortung neu verteilt werden. Die
+Arbeitswelt wird also nicht einfach ersetzt — sie wird umgebaut.
+
+### E. Kontext mit Quelle (paraphrasiert und zitiert)
+
+Nach Angaben der OECD-Studie *Skills in the AI age* (2026) sind
+kognitive, nicht-routinierte Tätigkeiten — darunter Programmieren,
+Übersetzen und Dolmetschen — am stärksten von generativer KI
+betroffen; zugleich steige die Nachfrage nach Management-, Sozial-
+und Originalitätskompetenzen (CC BY 4.0). Ein Bericht der Weltbank,
+*Future Jobs* (2025), weist für Ostasien und den Pazifik sogar darauf
+hin, dass der Einsatz von Robotern die Beschäftigung in der Industrie
+*erhöht* habe, weil höhere Produktivität die Produktion insgesamt
+ausweitete (CC BY 3.0 IGO). Beide Befunde stützen die Deutung, dass
+Automatisierung nicht zwangsläufig zu Arbeitsplatzabbau führt.
+
+## Üben
+
+**Aufgabe 1 — Position erkennen (Niveau A, leichter).**
+Ordnen Sie jede Person einer Position zu: *eher pro · teils/teils ·
+eher kontra.*
 
 - Jana →
 - Pavel →
 - Amira →
 - Leo →
 
-**Aufgabe 2 — Redemittel zuordnen.** Welche der vier Aussagen
-aus A nutzt:
+**Aufgabe 2 — Redemittel zuordnen (Niveau A/B).**
+Welche der vier Aussagen aus Abschnitt C nutzt …
 
-1. eine Einschränkung?
-2. einen Fachvergleich (technisch / literarisch)?
+1. eine klare Grenzziehung (ja/nein)?
+2. einen Fachvergleich (technisch vs. literarisch)?
 3. einen emotional-kulturellen Beleg?
+4. eine Einschränkung mit *dennoch*?
 
-**Aufgabe 3 — Satz schreiben.** Formulieren Sie in zwei Sätzen
-Ihre eigene Position zur KI in Ihrem Beruf.
+**Aufgabe 3 — Passiv und Nominalisierung (Niveau B, anspruchsvoller).**
+Formen Sie die Sätze um.
+
+a) *Unternehmen automatisieren viele Routineaufgaben.*
+   → Passiv: …
+b) *Die Nachfrage nach sozialen Kompetenzen steigt.*
+   → Nominalisierung mit „Anstieg“: …
+c) *Die OECD schreibt: „Kognitive Berufe sind stark betroffen.“*
+   → indirekte Rede (Konjunktiv I): Die OECD schreibt, …
+
+**Aufgabe 4 — Argumentkette bauen (Niveau B).**
+Verbinden Sie zu *einem* zusammenhängenden Abschnitt (These → Beleg →
+Einschränkung → Schluss) mit passenden Konnektoren:
+
+- These: KI verändert kreative Berufe grundlegend.
+- Beleg: Routineanteile werden schneller erledigt.
+- Einschränkung: die eigentliche kreative Entscheidung bleibt beim
+  Menschen.
+- Schluss: Weiterbildung entscheidet über Chancen.
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** Jana = teils/teils · Pavel = teils/teils · Amira
-= eher pro · Leo = eher kontra.
+**Aufgabe 1.** Jana = teils/teils · Pavel = teils/teils · Amira =
+eher pro · Leo = teils/teils (nutzt *dennoch*, sieht Nutzen und
+Grenze).
 
-**Aufgabe 2.** 1) Jana und Pavel · 2) Pavel · 3) Leo.
+**Aufgabe 2.** 1) Jana · 2) Pavel · 3) Leo · 4) Leo.
 
-**Aufgabe 3.** Individuell.
+**Aufgabe 3.**
+a) *Viele Routineaufgaben werden (von Unternehmen) automatisiert.*
+b) *Der Anstieg der Nachfrage nach sozialen Kompetenzen …* (z. B.
+   *Der Anstieg der Nachfrage nach sozialen Kompetenzen ist
+   deutlich.*)
+c) *Die OECD schreibt, kognitive Berufe **seien** stark betroffen.*
+
+**Aufgabe 4 (Modelllösung).** *Einerseits verändert KI kreative
+Berufe grundlegend, denn Routineanteile werden zunehmend schneller
+erledigt. Andererseits bleibt die eigentliche kreative Entscheidung
+beim Menschen. Folglich entscheidet nicht die Technik allein, sondern
+vor allem die Bereitschaft zur Weiterbildung über die künftigen
+Chancen.*
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Vortrag (B2-Sprechen Teil 1, ca. 4 Min):** Bereiten Sie einen
-strukturierten Vortrag vor:
+**Vortrag (Vorbereitung auf B2-Sprechen, Teil 1, ca. 4 Min.):**
+Bereiten Sie einen strukturierten Vortrag zu folgender Frage vor:
 
-> *„KI wird meinen Beruf verändern — in welche Richtung?“*
+> *„KI wird meinen Beruf (oder meinen Wunschberuf) verändern — in
+> welche Richtung?“*
 
-Gliederung:
+**Gliederung:**
 
 1. Einleitung + persönlicher Bezug.
 2. Beispiele aus dem Arbeitsalltag.
-3. Stärken der KI in Ihrem Beruf.
-4. Grenzen / Probleme.
-5. Abschluss / Fazit.
+3. Stärken der KI in diesem Beruf (mit Beleg).
+4. Grenzen und Risiken (mit Einschränkung).
+5. Fazit und eigene Haltung.
 
-Anschließend **Diskussion** zu zweit (B2-Sprechen Teil 2, ca. 5 Min):
+**Bewertungskriterien (Selbst-/Partnercheck):**
 
-> *„KI-Systeme sollten in kulturell-kreativen Berufen eine
-> untergeordnete Rolle spielen.“*
+- [ ] klare Gliederung mit erkennbarer Einleitung und Schluss
+- [ ] mindestens drei Konnektoren zum Abwägen
+- [ ] je ein Passiv-Satz, ein Konjunktiv-I-Satz, eine Nominalisierung
+- [ ] eine belegte These und eine echte Einschränkung
+- [ ] freies, adressatengerechtes Sprechen (nicht abgelesen)
 
-## 5. Reflexion
+Anschließend **Diskussion zu zweit** (ca. 5 Min.):
 
-- [ ] Ich unterscheide vier Positionen zu KI im Beruf.
-- [ ] Ich strukturiere einen 4-Minuten-Vortrag.
-- [ ] Ich führe eine 5-Minuten-Diskussion mit Argumenten.
+> *„KI-Systeme sollten in kulturell-kreativen Berufen nur eine
+> unterstützende, keine gestaltende Rolle spielen.“*
 
-## Prüfungsbeispiel — GER B2 Sprechen, Teil 1 + 2
+Verteilen Sie die Rollen (Befürworter:in / Kritiker:in), reagieren
+Sie aufeinander und einigen Sie sich am Ende auf einen gemeinsamen
+Vorschlag.
 
-**Aufgabenstellung:**
+## Prüfung
 
-**Teil 1 (Vortrag, ca. 4 Min pro Person):** Wählen Sie ein Thema
-und präsentieren Sie strukturiert:
+**GER B2 — Modul Sprechen (Teil 1 + Teil 2)**
 
-- A: *„Sollten Universitäten das Nutzen von KI-Tools in
-  Hausarbeiten regulieren?“*
-- B: *„Sollte KI in Bewerbungsverfahren zur Vorauswahl dienen?“*
+**Teil 1 — Vortrag (ca. 4 Min. pro Person).** Wählen Sie *ein* Thema
+und präsentieren Sie strukturiert Ihre Position:
 
-**Teil 2 (Diskussion, ca. 5 Min):** Debattieren Sie die These
+- A: *„Sollten Universitäten das Nutzen von KI-Tools in Hausarbeiten
+  regulieren?“*
+- B: *„Sollte KI in Bewerbungsverfahren zur Vorauswahl von
+  Kandidat:innen eingesetzt werden?“*
 
-> *„KI wird die Jobs der Zukunft mehr schaffen als zerstören.“*
+**Teil 2 — Diskussion (ca. 5 Min.).** Debattieren Sie die These:
 
-Vertreten Sie je eine Seite (Befürworter / Kritiker) argumentativ.
+> *„KI wird mehr Arbeitsplätze schaffen als vernichten.“*
 
+Vertreten Sie je eine Seite (Befürworter:in / Kritiker:in),
+argumentieren Sie mit Belegen und reagieren Sie auf die
+Gegenargumente.
 
-<div class="notes">
+**Punkte-Rubrik (max. 20 Punkte):**
 
-**Zeit:** Einstieg 8' · Input 15' · Üben 15' · Anwenden 25' ·
-Prüfungsvorschau 17'.
+| Kriterium                                   | Punkte |
+|---------------------------------------------|:------:|
+| Aufgabenerfüllung / Inhalt (These, Belege)  |   5    |
+| Struktur & Kohärenz (Konnektoren, roter Faden)| 4    |
+| Interaktion (auf Partner:in eingehen, Teil 2)|  4    |
+| Wortschatz (Themenvokabular, Redemittel)    |   4    |
+| Grammatik & Aussprache                       |   3    |
+| **Gesamt**                                  | **20** |
 
-</div>
+*Bestehensgrenze: 12 / 20 Punkte.*
 
-## Häufige Stolperfallen
+## Reflexion
 
-- **„KI“** ist Feminin (*die KI*).
-- **Anglizismen** wie *„promptsen“* vermeiden — B2 benutzt
-  *„(An-)Prompts formulieren“*.
-- **„Lebensmittel“** nicht mit **„Lebenslagen“** verwechseln.
+- [ ] Ich unterscheide zustimmende, ablehnende und abwägende
+      Positionen und kann meine Einordnung begründen.
+- [ ] Ich formuliere These, Beleg und Einschränkung mit den
+      passenden Konnektoren.
+- [ ] Ich verwende sicher Passiv, Konjunktiv I und mindestens eine
+      Nominalisierung.
+- [ ] Ich halte einen strukturierten 4-Minuten-Vortrag.
+- [ ] Ich führe eine 5-Minuten-Diskussion und gehe auf mein
+      Gegenüber ein.
 
-## Weiterführende Materialien
+## Hinweise für Lehrkräfte
 
-- **DW „Made in Germany — Arbeit 4.0“**.
-- **Ö1 „Digital.Leben“**: <https://oe1.orf.at/digital-leben>
+**Zeitplan (45 Min.):**
+
+- **Einstieg (7'):** Panel-Szene vorlesen lassen, Einstiegsfragen in
+  Paaren, kurzes Blitzlicht im Plenum.
+- **Input (12'):** Vokabeltabelle + Grammatikbox klären; Lesetext D
+  still lesen, danach Kontext E mit Quellenbezug einordnen.
+- **Üben (14'):** Aufgaben 1–2 im Plenum/Paar (schneller), Aufgaben
+  3–4 einzeln oder in Kleingruppen (langsamer); Lösungen vergleichen.
+- **Anwenden (10'):** Vortrag stichwortartig planen (Mindmap),
+  Diskussion nur anmoderieren — die volle Durchführung folgt in der
+  nächsten Sitzung bzw. als Prüfungssimulation.
+- **Reflexion (2'):** Checkliste ankreuzen, ein Ziel für zu Hause
+  notieren.
+
+**Gruppierung:** Einstieg und Diskussion in wechselnden Paaren;
+für Teil 2 heterogene Paare (stärkere/schwächere Sprecher:innen)
+bilden, damit Interaktion trägt.
+
+**Differenzierung:**
+
+- *Unterstützung:* Redemittel aus B als Kärtchen austeilen; Aufgabe 3
+  mit vorgegebenen Satzanfängen anbieten.
+- *Erweiterung:* schnelle Lernende formulieren zu Aufgabe 4 einen
+  Gegenabsatz (Perspektivwechsel) oder ergänzen ein Zitat aus
+  Kontext E in indirekter Rede.
+
+**Fehlerprävention:** *die KI* ist feminin; Anglizismen wie
+*„promptsen“* vermeiden (besser: *einen Prompt formulieren*);
+Konjunktiv I nur für indirekte Rede, nicht für eigene Meinung.
+
+## Quellen
+
+- *Skills in the AI age* (OECD Artificial Intelligence Papers No. 60)
+  — OECD (2026),
+  <https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/07/skills-in-the-ai-age_e8d8c1e6/972bd15e-en.pdf>,
+  Lizenz: CC BY 4.0.
+- *Future Jobs: Robots, Artificial Intelligence, and Digital
+  Platforms in East Asia and Pacific* — Weltbank / World Bank (2025),
+  <https://openknowledge.worldbank.org/entities/publication/a7c5ad47-3aa6-479e-9c13-d212b9954131>,
+  Lizenz: CC BY 3.0 IGO.
+- *„Es geht nicht darum, was KI uns wegnehmen könnte, sondern welche
+  Chancen entstehen“* — IAB-Forum (2025),
+  <https://iab-forum.de/es-geht-nicht-darum-was-ki-uns-wegnehmen-koennte-sondern-welche-chancen-entstehen/>,
+  Lizenz: CC BY-SA 4.0.
+
+*Alle Lese- und Meinungstexte in dieser Einheit sind Originaltexte
+der Autorin. Fremde Befunde sind paraphrasiert und mit Quelle und
+Lizenz gekennzeichnet.*

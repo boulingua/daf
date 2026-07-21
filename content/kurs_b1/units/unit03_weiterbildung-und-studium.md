@@ -15,7 +15,7 @@ pruefungs_module:
 unit_slug: weiterbildung-und-studium
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit03_weiterbildung-und-studium.pptx
+  file: /daf/materials/presentations/unit03_weiterbildung-und-studium.odp
   thumbnail: /daf/materials/presentations/unit03_weiterbildung-und-studium.png
 worksheet:
   file: /daf/materials/worksheets/unit03_weiterbildung-und-studium.pdf
@@ -30,7 +30,7 @@ tags:
 - skill-lesen
 - skill-hoeren
 - topic-arbeit
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -43,236 +43,349 @@ date: '2026-05-04T19:53:22+02:00'
 
 ## Lernziele
 
-- … **kann ich** in einem Text zu Weiterbildung gezielt Detail-
-  informationen finden.
-- … **kann ich** zwei Bildungswege stichwortartig vergleichen.
-- … **kann ich** über meine eigenen Weiterbildungspläne sprechen.
+**Ich kann …**
 
-## GER-Ausrichtung
+- … in einem Text zu Weiterbildung gezielt Detailinformationen zu
+  **Kosten, Dauer und Zulassung** finden.
+- … zwei Bildungswege — **Studium** und **duale Ausbildung** — in
+  ihren Vor- und Nachteilen vergleichen.
+- … meine eigene Meinung zu einem Bildungsweg äußern und mit
+  *weil*, *dass* oder *obwohl* begründen.
 
-- Kompetenz: **Leseverstehen B1**, selektiv und detailliert.
-- Prüfungsmodul: **Lesen** — Teil 5 (Schriftliche Anweisungen /
-  Studienordnungen) und Teil 3 (Zur Orientierung lesen).
-- Zusätzlich rezeptiv: Hören-Teil 2 als Kontextübung.
+**GER-Kann-Beschreibungen (offiziell):**
 
-## Einstiegsgeschichte
+- Ich kann eine längere Studien- oder Kursordnung in ihren
+  Hauptaussagen verstehen.
+- Ich kann konkrete Informationen zu Kosten, Dauer und Zulassung
+  in einem Infotext finden.
+- Ich kann die Vor- und Nachteile eines Bildungswegs vergleichen.
 
-**Noa Rosselli**, 22, aus Rom, ist seit drei Monaten mit
-Erasmus+ an der Universität Wien. Ursprünglich hat sie Deutsch
-nur als Nebenfach belegt — jetzt überlegt sie, ob sie nach dem
-Erasmus ein komplettes Masterstudium auf Deutsch machen soll.
-Drei Wege stehen im Raum:
 
-1. ein regulärer Master in Übersetzungswissenschaft an der
-   Universität Wien,
-2. eine berufsbegleitende Weiterbildung in Mediation und
-   Fachübersetzung an der Donau-Universität Krems,
-3. ein Kurzprogramm „Wissenschaftskommunikation“ am ÖAW-Institut.
+## Einstieg
 
-Heute liest sie die Studienordnungen und vergleicht.
+**Zwei Wege, ein Ziel.** Jonas (18) hat gerade das Abitur
+gemacht. Seine Cousine Malia (18) hat die Realschule beendet.
+Beide wollen später gutes Geld verdienen und eine sichere
+Arbeit haben — aber sie wählen unterschiedliche Wege.
 
-## 1. Einstieg
-
-- Haben Sie nach der Schule / dem ersten Studium noch eine
-  Weiterbildung gemacht? Oder denken Sie daran?
-- Was ist Ihnen bei einer Weiterbildung wichtiger — **Kosten,
-  Dauer, Renommee, Flexibilität, Ortsnähe**? Ranken Sie die fünf.
-- Wenn Sie jetzt drei Monate freie Zeit für eine Weiterbildung
-  hätten, welches Thema würden Sie wählen?
-
-## 2. Input
-
-### A. Auszug aus einer Studienordnung
-
-> **§ 3 Zugangsvoraussetzungen**
+> „Ich fange im September eine **duale Ausbildung** als
+> Mechatroniker an", sagt Jonas. „Drei Tage bin ich im Betrieb,
+> zwei Tage in der Berufsschule. Ich verdiene sofort etwas und
+> lerne den Beruf direkt in der Praxis."
 >
-> (1) Zum Masterstudium Übersetzungswissenschaft wird zugelassen,
-> wer einen einschlägigen Bachelorabschluss oder einen
-> gleichwertigen Abschluss nachweist.
+> „Und ich beginne ein **Studium** der Umwelttechnik", sagt
+> Malia. „Zwar bekomme ich am Anfang kein Gehalt, aber ich habe
+> später vielleicht mehr Möglichkeiten. Trotzdem bin ich noch
+> unsicher, ob das der richtige Weg für mich ist."
+
+**Sprechen Sie im Kurs:**
+
+- Welchen Weg finden Sie interessanter — die duale Ausbildung
+  oder das Studium? Warum?
+- Was ist Ihnen bei einer Ausbildung wichtiger: **schnell Geld
+  verdienen** oder **viele Möglichkeiten später**?
+- Gibt es in Ihrem Heimatland auch ein System wie die duale
+  Ausbildung? Erzählen Sie.
+
+
+## Input
+
+### A. Wortschatz zum Thema
+
+| Wort                          | Erklärung                                              |
+|-------------------------------|--------------------------------------------------------|
+| die duale Ausbildung          | Ausbildung an zwei Orten: Betrieb + Berufsschule       |
+| der Betrieb, -e               | die Firma, in der man arbeitet und lernt               |
+| die Berufsschule, -n          | Schule, in der man die Theorie zum Beruf lernt         |
+| der/die Auszubildende (Azubi) | Person, die eine Ausbildung macht                      |
+| die Ausbildungsvergütung      | das Geld, das ein Azubi während der Ausbildung bekommt |
+| der Abschluss, ¨-e            | das Ergebnis (Zeugnis), wenn man fertig ist            |
+| die Zulassung, -en            | die Erlaubnis, ein Studium zu beginnen                 |
+| einschlägig (Adj.)            | zum Thema passend (z. B. einschlägige Erfahrung)       |
+| berufsbegleitend (Adj.)       | parallel zum Beruf (neben der Arbeit)                  |
+
+### B. Grammatik im Fokus — Meinungen begründen
+
+{{< callout type="tip" >}}
+**Nebensätze zum Begründen und Einschränken**
+
+Auf B1 begründen und vergleichen Sie mit Nebensätzen. Das Verb
+steht am **Ende**.
+
+- **weil** (Grund): *Ich mache eine Ausbildung, **weil** ich sofort
+  Geld **verdiene**.*
+- **dass** (Aussage): *Ich glaube, **dass** ein Studium mehr Türen
+  **öffnet**.*
+- **obwohl** (Gegensatz): *Sie studiert, **obwohl** sie am Anfang
+  nichts **verdient**.*
+- **wenn** (Bedingung): *Ich würde studieren, **wenn** ich mehr
+  Zeit **hätte**.*
+
+**Höflich / hypothetisch mit Konjunktiv II:**
+*Ich **würde** eine duale Ausbildung **wählen**.* · *Ich **könnte**
+mir auch ein Studium **vorstellen**.*
+{{< /callout >}}
+
+### C. Kontext (mit Quelle)
+
+Die **duale Ausbildung** ist ein Kernstück der Berufsbildung im
+deutschsprachigen Raum. Nach Angaben der freien Enzyklopädie
+Wikipedia findet sie an **zwei Lernorten** statt: im **Betrieb**
+und in der **Berufsschule**. In der Regel arbeiten die
+Auszubildenden an drei bis vier Tagen pro Woche im Betrieb und
+besuchen an einem bis zwei Tagen die Berufsschule. Rechtlich
+wurde dieses System 1969 bundesweit im **Berufsbildungsgesetz**
+verankert. Heute kann man in mehr als 300 anerkannten
+Ausbildungsberufen einen Abschluss machen. *(paraphrasiert nach
+Wikipedia, „Duale Ausbildung", CC BY-SA 4.0 — siehe Quellen)*
+
+### D. Lesetext 1 — Zwei Wege nach der Schule (original)
+
+> **Studium oder Ausbildung? Zwei Erfahrungen**
 >
-> (2) Darüber hinaus sind folgende Sprachnachweise zu erbringen:
-> Deutsch mindestens auf dem Niveau C1 des Gemeinsamen
-> europäischen Referenzrahmens, sowie Kenntnisse in mindestens
-> einer weiteren modernen Fremdsprache auf Niveau B2.
+> Malia hat sich für ein Studium entschieden. „Am Anfang war es
+> hart, weil ich kein eigenes Geld verdient habe", erzählt sie.
+> „Aber ich mag die Theorie, und ich möchte später vielleicht
+> forschen. Ein Studium dauert bei mir mindestens drei Jahre bis
+> zum Bachelor. Manchmal denke ich, dass ich mehr Freiheit habe
+> als meine Freunde in der Ausbildung — obwohl ich auch mehr
+> Prüfungen schreiben muss."
 >
-> (3) Bewerbende mit einer anderen Erstsprache als Deutsch
-> weisen ihre Sprachkompetenz durch ein anerkanntes Zertifikat
-> (z. B. GER-Prüfung C1, DSH-2, TestDaF 4×5) nach.
+> Jonas hat einen anderen Weg gewählt. „Ich wollte nicht mehr
+> nur in der Schule sitzen", sagt er. „In der dualen Ausbildung
+> bin ich meistens im Betrieb und lerne den Beruf direkt an der
+> Maschine. Ich bekomme jeden Monat eine Ausbildungsvergütung,
+> und nach drei Jahren habe ich einen anerkannten Abschluss.
+> Wenn ich später möchte, kann ich immer noch studieren — die
+> Ausbildung schließt das nicht aus."
 >
-> **§ 4 Studiendauer**
+> Beide sind zufrieden. Es gibt eben nicht **einen** richtigen
+> Weg, sondern viele.
+
+### E. Lesetext 2 — Infotext: Weiterbildung „Technische Redaktion" (original)
+
+> **Berufsbegleitende Weiterbildung: Technische Redaktion**
 >
-> (1) Die Regelstudienzeit beträgt vier Semester.
+> Sie arbeiten bereits in einem technischen Beruf und möchten
+> lernen, Anleitungen und Handbücher klar zu schreiben? Diese
+> berufsbegleitende Weiterbildung bereitet Sie in **12 Monaten**
+> auf diese Aufgabe vor. Der Unterricht findet **online am
+> Freitagabend und Samstag** statt, damit Sie weiter arbeiten
+> können.
 >
-> (2) Das Studium kann im Wintersemester oder im Sommersemester
-> aufgenommen werden.
->
-> (3) Das Teilzeitstudium ist möglich; die Regelstudienzeit
-> verlängert sich entsprechend, maximal um die Hälfte.
+> **Zulassung:** abgeschlossene Berufsausbildung oder Studium +
+> mindestens **ein Jahr** Berufserfahrung.
+> **Umfang:** 20 Kurstage. **Kosten:** 2 400 € (Ratenzahlung
+> möglich). **Abschluss:** Zertifikat der Bildungsakademie.
 
-### B. Kurzbeschreibung einer Weiterbildung (original)
 
-> **Mediation und Fachübersetzung — Universitätslehrgang an der
-> Donau-Universität Krems.**
->
-> Sie arbeiten bereits als Übersetzer:in oder in einer
-> sprachmittelnden Tätigkeit und möchten sich auf Fachtexte
-> (Recht, Medizin, Wirtschaft) spezialisieren? Dieser
-> berufsbegleitende Lehrgang bietet Ihnen in fünf Modulen über
-> 18 Monate die methodische und terminologische Vertiefung, die
-> der Berufsalltag verlangt.
->
-> Zulassung: einschlägiger Bachelorabschluss + mindestens zwei
-> Jahre Berufserfahrung. Umfang: 60 ECTS. Kosten: 8 400 € gesamt.
+## Üben
 
-### C. Wortschatz zum Thema
+**Aufgabe 1 — Richtig oder falsch?** (Lesetext 1, Niveau A)
 
-| Wort                               | Erklärung                                          |
-|------------------------------------|----------------------------------------------------|
-| einschlägig (adj.)                 | zum Thema passend (z. B. einschlägiger Abschluss)  |
-| Regelstudienzeit, die              | vorgesehene Dauer eines Studiengangs               |
-| berufsbegleitend (adj.)            | parallel zum Beruf                                 |
-| Teilzeitstudium, das               | Studium mit reduzierter Stundenzahl                |
-| Sprachnachweis, der                | Dokument, das Sprachkenntnisse belegt              |
+1. Malia verdient während des Studiums am Anfang kein eigenes
+   Geld.
+2. Jonas ist meistens in der Berufsschule.
+3. Nach der Ausbildung kann Jonas nicht mehr studieren.
+4. Malia macht mehr Prüfungen als ihre Freunde in der Ausbildung.
 
-## 3. Üben
+**Aufgabe 2 — Informationen suchen.** (Lesetext 2, Niveau A)
 
-**Aufgabe 1 — Richtig oder falsch?** Zum Text **A** (Studien-
-ordnung):
+- Wie lange dauert die Weiterbildung?
+- Wann findet der Unterricht statt?
+- Was kostet die Weiterbildung?
+- Welche Berufserfahrung braucht man?
 
-1. Man braucht einen Bachelor-Abschluss zum gleichen Thema.
-2. Deutsch auf B2 reicht aus.
-3. Man kann auch im Sommer anfangen.
-4. Ein Teilzeitstudium ist nicht erlaubt.
+**Aufgabe 3 — Nebensätze bilden.** (Niveau B) Verbinden Sie die
+Sätze mit dem Wort in Klammern. Achten Sie auf die Verbstellung.
 
-**Aufgabe 2 — Informationen suchen.** Zum Text **B**
-(Donau-Uni Krems):
+1. Jonas macht eine Ausbildung. Er möchte sofort Geld verdienen.
+   *(weil)*
+2. Malia glaubt etwas. Ein Studium öffnet mehr Türen. *(dass)*
+3. Malia studiert. Sie verdient am Anfang kein Geld. *(obwohl)*
+4. Ich würde die Weiterbildung machen. Ich hätte mehr Zeit.
+   *(wenn)*
 
-- Wie lange dauert der Lehrgang?
-- Was kostet er?
-- Welche Berufserfahrung wird verlangt?
-- In wie viele Module ist er gegliedert?
+**Aufgabe 4 — Meinung mit Begründung.** (Niveau C) Schreiben Sie
+zu jeder Frage **einen** vollständigen Satz mit *weil* oder
+*obwohl*. Geben Sie Ihre eigene Meinung.
 
-**Aufgabe 3 — Textsorte erkennen.** Welcher Text ist
-**offiziell-rechtlich** (Studienordnung), welcher ist **werblich**
-(Informationsbroschüre)? Woran erkennen Sie das — an der
-Syntax, am Vokabular, an der Ansprache?
+1. Ist eine duale Ausbildung besser als ein Studium?
+2. Sollte man immer sofort nach der Schule mit dem Lernen
+   weitermachen?
 
 {{< details type="tip" title="Lösungen" >}}
 
 **Aufgabe 1.**
 
-1. Richtig. *„einschlägiger Bachelorabschluss“*.
-2. Falsch. Deutsch **C1** ist verlangt.
-3. Richtig. *„kann im Wintersemester oder im Sommersemester
-   aufgenommen werden“*.
-4. Falsch. *„Das Teilzeitstudium ist möglich“*.
+1. Richtig. *„weil ich kein eigenes Geld verdient habe"*.
+2. Falsch. Er ist **meistens im Betrieb**.
+3. Falsch. *„kann ich immer noch studieren"*.
+4. Richtig. *„obwohl ich auch mehr Prüfungen schreiben muss"*.
 
 **Aufgabe 2.**
 
-- 18 Monate.
-- 8 400 € (gesamt).
-- mindestens zwei Jahre einschlägige Berufserfahrung.
-- fünf Module.
+- 12 Monate.
+- Online, am Freitagabend und Samstag.
+- 2 400 € (Ratenzahlung möglich).
+- Mindestens ein Jahr Berufserfahrung.
 
-**Aufgabe 3.**
+**Aufgabe 3.** (Musterlösung — Verb am Ende)
 
-- **Text A** (Studienordnung) ist offiziell-rechtlich:
-  Paragrafen, Passivkonstruktionen, keine direkte Ansprache,
-  Nominalstil (*Zulassung*, *Nachweis*).
-- **Text B** (Donau-Uni Krems) ist werblich: direkte Ansprache
-  („Sie arbeiten bereits …“), rhetorische Fragen, Adjektive
-  *methodisch* / *terminologisch* mit positiver Konnotation.
+1. Jonas macht eine Ausbildung, **weil** er sofort Geld
+   **verdienen möchte**.
+2. Malia glaubt, **dass** ein Studium mehr Türen **öffnet**.
+3. Malia studiert, **obwohl** sie am Anfang kein Geld
+   **verdient**.
+4. Ich würde die Weiterbildung machen, **wenn** ich mehr Zeit
+   **hätte**.
 
-{{< /details >}}
+**Aufgabe 4.** (Beispiele — andere Meinungen sind richtig, wenn
+der Nebensatz korrekt ist)
 
-## 4. Anwenden
-
-**Sprechimpuls:** Stellen Sie sich vor, Sie sind Noa. Sie haben
-nur noch **zwei Tage**, um sich zu entscheiden. Wählen Sie
-**einen** der drei Wege (Master / Donau-Uni / ÖAW) und begründen
-Sie Ihre Wahl in einem zweiminütigen Monolog. Benutzen Sie die
-Konnektoren:
-
-- *deshalb / deswegen / darum* (begründend),
-- *hingegen / dagegen / im Gegensatz dazu* (vergleichend),
-- *zwar … aber* (einschränkend).
-
-## 5. Reflexion
-
-- [ ] Ich kann die Textsorte „Studienordnung“ erkennen.
-- [ ] Ich kann gezielt nach Zahlen, Namen, Daten im Text suchen.
-- [ ] Ich kann zwei Bildungsangebote in drei Kriterien
-      vergleichen.
-- [ ] Ich kann mit Konnektoren eine Wahl begründen.
-
-## Prüfungsbeispiel — GER B1 Lesen, Teil 5
-
-**Aufgabe:** Sie lesen die folgende Ordnung und beantworten 4
-Fragen durch Mehrfachauswahl (3-gliedrig).
-
-> **§ 2 Ablauf des Zertifikatslehrgangs**
->
-> (1) Der Lehrgang besteht aus fünf Modulen. Die Module werden
-> in der Reihenfolge 1 → 5 absolviert; Ausnahmen bedürfen der
-> schriftlichen Genehmigung der Lehrgangsleitung.
->
-> (2) Jedes Modul schließt mit einer Modulprüfung ab. Die
-> Anmeldung zur Modulprüfung erfolgt online bis spätestens
-> **14 Tage vor dem Prüfungstermin**.
->
-> (3) Abwesenheit bei einer Modulprüfung wird nur bei
-> nachgewiesener Erkrankung (ärztliches Attest) oder in anderen
-> schwerwiegenden Fällen akzeptiert.
-
-1. **Die fünf Module …** a) können in beliebiger Reihenfolge
-   absolviert werden · b) sind in einer festen Reihenfolge zu
-   absolvieren · c) werden nur alle zwei Jahre angeboten.
-2. **Die Anmeldung zur Modulprüfung …** a) ist direkt vor Ort
-   möglich · b) erfolgt per Post · c) erfolgt online bis 14 Tage
-   vor dem Prüfungstermin.
-3. **Wer unentschuldigt fehlt …** a) bekommt einen neuen Termin
-   angeboten · b) bekommt die Prüfung nicht anerkannt · c) wird
-   automatisch vom Lehrgang ausgeschlossen.
-4. **Ein ärztliches Attest …** a) wird nicht akzeptiert · b) ist
-   ausreichend, um eine Abwesenheit zu entschuldigen · c) muss
-   drei Wochen im Voraus vorgelegt werden.
-
-{{< details type="tip" title="Lösungen Prüfungsbeispiel" >}}
-
-1. b · 2. c · 3. b (implizit aus „nur … akzeptiert“) · 4. b.
+1. *Ich finde eine duale Ausbildung besser, **weil** man sofort
+   praktische Erfahrung sammelt.*
+2. *Man muss nicht sofort weitermachen, **obwohl** viele Eltern
+   das erwarten.*
 
 {{< /details >}}
 
 
-<div class="notes">
+## Anwenden
+
+**Schreib- und Sprechaufgabe: „Mein Weg".**
+
+Stellen Sie sich vor, eine Freundin oder ein Freund fragt Sie um
+Rat: *„Soll ich ein Studium anfangen oder eine duale Ausbildung
+machen?"* Schreiben Sie eine kurze Antwort (**ca. 80 Wörter**)
+und tragen Sie sie danach im Kurs vor.
+
+**Bewertungskriterien:**
+
+- Sie nennen **mindestens zwei Vorteile** eines Weges.
+- Sie **begründen** Ihre Empfehlung mit *weil* oder *dass*.
+- Sie verwenden **mindestens einen** Satz mit *obwohl* oder
+  Konjunktiv II (*würde / könnte*).
+- Ihre Antwort ist höflich und persönlich (Anrede, Gruß).
 
 
-**Zeit:** Einstieg 8' · Input A+B+C 15' · Üben 20' · Anwenden 15'
-· Reflexion 4' · Prüfungsvorschau 28'.
+## Prüfung
 
-**Binnendifferenzierung.** Stärkere: Aufgabe 3 als Mini-Aufsatz
-(100 Wörter) „Warum sind Studienordnungen so schwer zu lesen?“.
-Schwächere: Aufgabe 2 mit Unterstreichen im Text, bevor sie
-schriftlich beantwortet wird.
+**GER B1 — Modul Lesen, Teil 5 (Anweisungen / Ordnungen
+verstehen).**
 
-</div>
+Sie lesen die Ordnung eines Weiterbildungskurses und beantworten
+4 Fragen. Wählen Sie jeweils **a, b oder c**.
 
-## Häufige Stolperfallen
+> **§ 2 Teilnahme und Prüfung**
+>
+> (1) Der Zertifikatskurs „Technische Redaktion" umfasst 20
+> Kurstage. Die Teilnahme an mindestens **80 %** der Kurstage ist
+> Voraussetzung für die Zulassung zur Abschlussprüfung.
+>
+> (2) Die Anmeldung zur Abschlussprüfung erfolgt **online** bis
+> spätestens **zehn Tage** vor dem Prüfungstermin.
+>
+> (3) Wer aus gesundheitlichen Gründen fehlt, legt ein
+> **ärztliches Attest** vor. Nur dann kann die Prüfung zu einem
+> späteren Termin nachgeholt werden.
 
-- **„einschlägig“** erkennen B1-Lerner:innen oft nicht. Hinweis:
-  *einschlägige Erfahrung, einschlägiges Studium* = zum Thema
-  passend.
-- **Nominalstil** in Paragrafen („die Zulassung erfolgt“) ist für
-  B1-Lerner:innen schwer. Tipp: innerlich verbalisieren („jemand
-  lässt zu“).
-- **Modalverben in der Passiv-Ersatzform:** „ist zu erbringen“
-  = „muss erbracht werden“. Auf C1 aktiv, auf B1 rezeptiv.
+1. **Zur Abschlussprüfung wird zugelassen, wer …** a) an allen
+   Kurstagen teilgenommen hat · b) an mindestens 80 % der
+   Kurstage teilgenommen hat · c) mindestens die Hälfte der
+   Kurstage besucht hat.
+2. **Die Anmeldung zur Prüfung …** a) erfolgt online bis zehn
+   Tage vorher · b) ist nur am Prüfungstag möglich · c) erfolgt
+   per Post.
+3. **Wer krank ist, …** a) verliert den Kursplatz · b) kann die
+   Prüfung mit Attest später nachholen · c) muss den ganzen Kurs
+   wiederholen.
+4. **Ein ärztliches Attest …** a) ist nicht nötig · b) ist die
+   Bedingung, um die Prüfung nachzuholen · c) muss vor Kursbeginn
+   abgegeben werden.
 
-## Weiterführende Materialien
+{{< details type="tip" title="Lösungen Prüfung" >}}
 
-- **DAAD — Studieren in Deutschland** (mehrsprachige Portale):
-  <https://www.daad.de/de/>
-- **OeAD — Studieren in Österreich**:
-  <https://oead.at/>
-- **swissuniversities — Studieren in der Schweiz**:
-  <https://www.swissuniversities.ch/>
+1. b · 2. a · 3. b · 4. b
+
+{{< /details >}}
+
+**Punkte-Rubrik (4 Punkte gesamt):**
+
+| Punkte | Beschreibung                                      |
+|--------|---------------------------------------------------|
+| 4      | alle 4 Fragen richtig — Detailinfos sicher gefunden |
+| 3      | 3 richtig — Hauptaussagen verstanden              |
+| 2      | 2 richtig — Kernaussage teilweise erfasst         |
+| 0–1    | 0–1 richtig — Text noch einmal gemeinsam lesen     |
+
+
+## Reflexion
+
+- [ ] Ich kann in einem Infotext Kosten, Dauer und Zulassung
+      schnell finden.
+- [ ] Ich kann eine kurze Kursordnung in den Hauptaussagen
+      verstehen.
+- [ ] Ich kann Studium und duale Ausbildung mit je zwei
+      Argumenten vergleichen.
+- [ ] Ich kann meine Meinung mit *weil*, *dass* oder *obwohl*
+      begründen.
+
+
+## Hinweise für Lehrkräfte
+
+**Zeitplan (45 Minuten):**
+
+- Einstieg (Jonas & Malia, Kursgespräch): **7'**
+- Input A–C (Wortschatz, Grammatik, Kontext): **10'**
+- Input D–E lesen (Lesetexte 1 & 2): **6'**
+- Üben (Aufgaben 1–4): **12'**
+- Anwenden ODER Prüfung (je nach Fokus): **8'**
+- Reflexion (Checkliste): **2'**
+
+**Sozialformen.** Einstieg im Plenum; Aufgabe 1–2 in Einzelarbeit,
+dann Partnerkontrolle; Aufgabe 3–4 in Partnerarbeit; Anwenden
+zuerst allein schreiben, dann in Kleingruppen (3–4 Personen)
+vortragen.
+
+**Differenzierung.**
+
+- *Schwächere Lernende:* Aufgaben 1–2 mit Unterstreichen der
+  Textstellen vor dem Antworten. Grammatikbox als Stütze offen
+  lassen. Bei Aufgabe 4 einen Satzanfang vorgeben (*„Ich finde …,
+  weil …"*).
+- *Stärkere Lernende:* Aufgabe 4 auf 3–4 Sätze erweitern; als
+  Zusatz die Frage „Welchen Weg hätten Ihre Eltern gewählt und
+  warum?" im Konjunktiv II beantworten.
+
+**Sprachlicher Hinweis.** Der Nominalstil in Ordnungen (*„die
+Zulassung erfolgt", „die Teilnahme ist Voraussetzung"*) ist für
+B1 rezeptiv. Tipp: innerlich verbalisieren („jemand lässt zu",
+„man muss teilnehmen"). Die Passiv-Ersatzform *„ist zu erbringen"*
+= *„muss erbracht werden"* nur bei Bedarf erwähnen.
+
+**Hören als Erweiterung.** Lesetext 1 kann als „Hörtext zum
+Vorlesen" genutzt werden: Lehrkraft liest, Lernende hören mit
+geschlossenem Buch und beantworten danach Aufgabe 1.
+
+
+## Quellen
+
+- **Duale Ausbildung** — Autor:innen der Wikipedia (Stand
+  Juli 2026),
+  <https://de.wikipedia.org/wiki/Duale_Ausbildung>,
+  Lizenz: CC BY-SA 4.0. *(Fakten paraphrasiert: zwei Lernorte,
+  3–4 Tage Betrieb / 1–2 Tage Berufsschule, Verankerung im
+  Berufsbildungsgesetz 1969, über 300 anerkannte Ausbildungsberufe.)*
+- **BIBB — Apprenticeship System (Bundesinstitut für
+  Berufsbildung)** (2024),
+  <https://www.bibb.de/en/147679.php>,
+  öffentlich zugängliche Behördeninformation *(zur Bestätigung der
+  Zahl anerkannter Ausbildungsberufe).*
+- **Weiterführend, nicht zitiert:** DAAD — Studieren in
+  Deutschland, <https://www.daad.de/de/> · OeAD — Studieren in
+  Österreich, <https://oead.at/>.
+
+*Hinweis: Alle Lese- und Beispieltexte in dieser Einheit sind
+Originaltexte des Kurses. Es besteht keine Verbindung zu den oben
+genannten Institutionen.*
