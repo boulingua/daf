@@ -47,6 +47,14 @@ jobs:
       - name: Build graph (so /network/graph.json exists)
         run: python scripts/build_graph.py
 
+      - name: Set up Node (for the Materials Network bundle)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install npm deps for the Materials Network bundle
+        run: npm ci --no-audit --no-fund
+
       - name: Build site (flat baseURL so href paths map 1:1 to public/)
         env:
           HUGO_ENVIRONMENT: production

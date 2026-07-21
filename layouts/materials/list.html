@@ -17,12 +17,14 @@
 
       {{/* Phase 3 — Cytoscape graph. Phase 4 — facet rail + URL state.
            List view (Phase 5) and Pagefind search (Phase 5) still TODO. */}}
-      {{ $graph := resources.Get "js/network/main.js" | js.Build (dict "format" "esm" "minify" true "externals" (slice "https://esm.sh/cytoscape@3.30.2" "https://esm.sh/cytoscape-fcose@2.2.0")) | fingerprint }}
+      {{/* Cytoscape + fcose are bundled from node_modules into a single
+           self-hosted, fingerprinted ES module (no runtime CDN). main.js
+           dynamic-imports it lazily via #network-mount[data-cyto-url]. */}}
+      {{ $vendor := resources.Get "js/network/vendor.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $graph := resources.Get "js/network/main.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
       {{ $filters := resources.Get "js/network/filters.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
       {{ $search := resources.Get "js/network/search.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
       {{ $list := resources.Get "js/network/list.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
-      <link rel="modulepreload" href="https://esm.sh/cytoscape@3.30.2">
-      <link rel="modulepreload" href="https://esm.sh/cytoscape-fcose@2.2.0">
 
       {{/* Compute facet sources from unit pages (server-side so first
            paint matches URL state without flash). */}}
@@ -99,8 +101,14 @@
         <div id="network-mount"
              class="network-graph"
              data-graph-url="{{ "/network/graph.json" | relURL }}"
+             data-cyto-url="{{ $vendor.RelPermalink }}"
              role="img"
-             aria-label="Force-directed graph der 180 Materialien — alphabetische Liste unten als Alternative"></div>
+             aria-label="Force-directed graph der 180 Materialien — alphabetische Liste unten als Alternative">
+          <div class="graph-skeleton" aria-hidden="true">
+            <span class="graph-skeleton-spinner"></span>
+            <span class="graph-skeleton-label">Netzwerk wird geladen …</span>
+          </div>
+        </div>
 
         <div class="network-status">
           <span data-count-total><strong>180</strong> Einträge sichtbar</span>

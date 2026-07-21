@@ -1,0 +1,11 @@
+{
+  "name": "boulingua-daf",
+  "private": true,
+  "description": "Frontend dependencies for the Materials Discovery Network. Bundled at build time by Hugo's js.Build (esbuild); no CDN dependency at runtime.",
+  "dependencies": {
+    "cytoscape": "3.30.2",
+    "cytoscape-fcose": "2.2.0",
+    "cose-base": "2.2.0",
+    "layout-base": "2.0.1"
+  }
+}

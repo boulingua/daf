@@ -47,3 +47,6 @@ __pycache__/
 *.log
 *.bak
 *.orig
+
+# Node deps for the Materials Network bundle (installed in CI via npm ci)
+node_modules/

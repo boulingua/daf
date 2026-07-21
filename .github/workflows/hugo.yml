@@ -79,10 +79,13 @@ jobs:
             fi
           fi
 
-      - name: Set up Node (for Pagefind)
+      - name: Set up Node (for Pagefind + Materials Network bundle)
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Install npm deps for the Materials Network bundle
+        run: npm ci --no-audit --no-fund
 
       - name: Build with Hugo
         env:

@@ -82,7 +82,7 @@ function buildStylesheet() {
 
 const FCOSE_OPTS = {
   name: 'fcose',
-  quality: 'default',
+  quality: 'draft', // fewer refinement passes → far cheaper on the main thread
   randomize: true,
   animate: false,
   fit: true,
@@ -94,11 +94,11 @@ const FCOSE_OPTS = {
 };
 
 async function attachCytoscape(mountEl, data) {
-  const [{ default: cytoscape }, { default: fcose }] = await Promise.all([
-    import('https://esm.sh/cytoscape@3.30.2'),
-    import('https://esm.sh/cytoscape-fcose@2.2.0'),
-  ]);
-  cytoscape.use(fcose);
+  // Self-hosted, same-origin Cytoscape bundle (fcose already registered
+  // in vendor.js). Loaded lazily via dynamic import so the ~400 KB library
+  // never touches the render path or a third-party CDN.
+  const cytoUrl = mountEl.dataset.cytoUrl;
+  const { default: cytoscape } = await import(cytoUrl);
 
   const cy = cytoscape({
     container: mountEl,
@@ -135,6 +135,10 @@ async function attachCytoscape(mountEl, data) {
     attributeFilter: ['class'],
   });
 
+  // Graph is live — drop the loading skeleton.
+  const skel = mountEl.querySelector('.graph-skeleton');
+  if (skel) skel.remove();
+
   return cy;
 }
 
@@ -154,18 +158,6 @@ export async function init(mountEl) {
 
   const isDesktop = window.matchMedia('(min-width: 768px)').matches;
   let cy = null;
-  if (isDesktop) {
-    try {
-      cy = await attachCytoscape(mountEl, data);
-    } catch (err) {
-      console.warn('[network] Cytoscape failed to load — continuing without graph.', err);
-      mountEl.style.display = 'none';
-    }
-  } else {
-    // Mobile: graph never paints, never imports Cytoscape. The list view
-    // alone is the network on small screens.
-    mountEl.style.display = 'none';
-  }
 
   // ── Composed-predicate store (always runs, with or without Cytoscape) ──
   const pred = { filter: () => true, search: () => true };
@@ -215,6 +207,32 @@ export async function init(mountEl) {
   };
   window.dafNetwork = api;
   recompute();
+
+  // ── Lazy-boot Cytoscape (desktop only) ──
+  // The list, filters and search are useful immediately, so they render
+  // first. The heavy graph canvas is instantiated — and the ~400 KB
+  // same-origin Cytoscape bundle fetched — only once the mount scrolls
+  // near the viewport. On mobile the graph never paints at all.
+  if (isDesktop) {
+    const boot = () =>
+      attachCytoscape(mountEl, data)
+        .then((c) => { cy = c; api.cy = c; recompute(); })
+        .catch((err) => {
+          console.warn('[network] Cytoscape failed to load — continuing without graph.', err);
+          mountEl.style.display = 'none';
+        });
+    if ('IntersectionObserver' in window) {
+      const io = new IntersectionObserver((entries, obs) => {
+        if (entries.some((e) => e.isIntersecting)) { obs.disconnect(); boot(); }
+      }, { rootMargin: '300px' });
+      io.observe(mountEl);
+    } else {
+      boot();
+    }
+  } else {
+    mountEl.style.display = 'none';
+  }
+
   return api;
 }
 
