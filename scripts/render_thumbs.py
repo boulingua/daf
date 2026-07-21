@@ -123,17 +123,19 @@ def main() -> int:
     if soffice:
         with tempfile.TemporaryDirectory(prefix="render-thumbs-") as td:
             tmp = Path(td)
-            for pptx in sorted(PRES.glob("*.pptx")):
+            # Presentation decks may be .pptx or .odp — both route through
+            # LibreOffice (soffice --convert-to pdf → PNG) identically.
+            for pptx in sorted(PRES.glob("*.pptx")) + sorted(PRES.glob("*.odp")):
                 png = pptx.with_suffix(".png")
                 try:
                     render_pptx(pptx, png, soffice, tmp)
-                    print(f"  pptx -> {png.relative_to(REPO)}")
+                    print(f"  deck -> {png.relative_to(REPO)}")
                     n_pptx += 1
                 except Exception as e:
                     print(f"  FAIL {pptx.relative_to(REPO)}: {e}", file=sys.stderr)
                     return 1
     else:
-        n_skip = sum(1 for _ in PRES.glob("*.pptx"))
+        n_skip = sum(1 for _ in PRES.glob("*.pptx")) + sum(1 for _ in PRES.glob("*.odp"))
 
     print(
         f"\nrendered: {n_pdf} pdf · {n_pptx} pptx"
