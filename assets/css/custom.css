@@ -2,8 +2,8 @@
    colour scheme so all four sister sites feel like one product. */
 
 :root {
-  --boulingua-accent: #1a73e8;
-  --boulingua-accent-hover: #0b57d0;
+  --boulingua-accent: #1D87A7;
+  --boulingua-accent-hover: #176780;
   --boulingua-panel-border: rgba(0, 0, 0, 0.12);
   --boulingua-panel-border-hover: var(--boulingua-accent);
   --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
@@ -15,8 +15,8 @@
 
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto {
-    --boulingua-accent: #79b8ff;
-    --boulingua-accent-hover: #b8d4fd;
+    --boulingua-accent: #7ECEE7;
+    --boulingua-accent-hover: #A9DEEF;
     --boulingua-panel-border: rgba(255, 255, 255, 0.16);
     --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
     --boulingua-rule: rgba(255, 255, 255, 0.16);
@@ -24,8 +24,8 @@
 }
 
 body.colorscheme-dark {
-  --boulingua-accent: #79b8ff;
-  --boulingua-accent-hover: #b8d4fd;
+  --boulingua-accent: #7ECEE7;
+  --boulingua-accent-hover: #A9DEEF;
   --boulingua-panel-border: rgba(255, 255, 255, 0.16);
   --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
   --boulingua-rule: rgba(255, 255, 255, 0.16);
@@ -271,7 +271,7 @@ main.content h2:hover,
 .callout > p:first-child { margin-top: 0; }
 .callout > p:last-child { margin-bottom: 0; }
 
-.callout-note    { border-left-color: #1a73e8; background: rgba(26,115,232,0.06); }
+.callout-note    { border-left-color: var(--boulingua-accent); background: color-mix(in srgb, var(--boulingua-accent) 7%, transparent); }
 .callout-tip     { border-left-color: #2e7d32; background: rgba(46,125,50,0.06); }
 .callout-warning { border-left-color: #ef6c00; background: rgba(239,108,0,0.08); }
 .callout-important { border-left-color: #c62828; background: rgba(198,40,40,0.06); }

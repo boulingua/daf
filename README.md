@@ -1,5 +1,7 @@
 # DaF — Deutsch als Fremdsprache (A1–C1)
 
+<img src="brand/icon.png" alt="German icon" width="64" align="right">
+
 Ein Kurscurriculum für **Deutsch als Fremdsprache** entlang des
 Gemeinsamen Europäischen Referenzrahmens (GER / CEFR), mit
 GER-Modellprüfungen pro Einheit. Fünf GER-Stufen **A1, A2, B1,
@@ -122,3 +124,7 @@ Die Inhalte dieses Curriculums stehen unter [CC BY 4.0](https://creativecommons.
 ## Einsatz von LLM-Werkzeugen
 
 Teile dieses Projekts wurden mit Unterstützung von Large-Language-Model-Werkzeugen für eng umrissene, nicht-autorschaftliche Aufgaben erstellt: Lektorat, sprachliche Glättung, Markdown-/LaTeX-Formatierung, Gerüstbau von Boilerplate-Dateien (CI-Konfigurationen, Build-Skripte), Code-Refactoring. Verwendet wurden Chat AI, der LLM-Dienst von KISSKI (GWDG), sowie ein selbst gehostetes Mistral Small (24B, Apache-2.0), lokal betrieben über Ollama und das R-Paket ollamar — ausschließlich lokale Inferenz, ohne Übermittlung von Daten an Dritte beim selbst gehosteten Modell.
+
+## Signature colour & icon
+
+This project's signature accent is **`#1D87A7`** (light theme) / **`#7ECEE7`** (dark theme), paired with the **hexagon** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the German flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).
