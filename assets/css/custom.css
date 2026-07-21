@@ -1015,3 +1015,36 @@ body.colorscheme-dark {
   padding: 0.4rem 1rem;
   margin: 1.5rem 0;
 }
+
+/* ── Colour-scheme toggle (navbar) ──────────────────
+   Single toggle element bound by the theme's coder.js (#dark-mode-toggle).
+   The moon shows in light mode (click → dark); the sun shows in dark mode
+   (click → light); under colorscheme-auto the icon follows the OS setting. */
+.colorscheme-toggle {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: inherit;
+  padding: 0 0.5rem;
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+.colorscheme-toggle:hover,
+.colorscheme-toggle:focus-visible {
+  color: var(--boulingua-accent);
+}
+.colorscheme-toggle .cs-icon {
+  display: inline-block;
+  vertical-align: middle;
+}
+/* Light (default): show moon, hide sun. */
+.colorscheme-toggle .cs-icon--sun { display: none; }
+/* Explicit dark: show sun, hide moon. */
+body.colorscheme-dark .colorscheme-toggle .cs-icon--moon { display: none; }
+body.colorscheme-dark .colorscheme-toggle .cs-icon--sun { display: inline-block; }
+/* Auto + OS dark: mirror the dark icon state. */
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto .colorscheme-toggle .cs-icon--moon { display: none; }
+  body.colorscheme-auto .colorscheme-toggle .cs-icon--sun { display: inline-block; }
+}

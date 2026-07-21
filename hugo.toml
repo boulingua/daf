@@ -28,6 +28,11 @@ enableRobotsTXT = true
   hideCredits = false
   since = 2025
   colorScheme = "auto"
+  # The colour-scheme toggle is rendered as a labelled control in the
+  # navbar (layouts/_partials/header.html) and bound by the theme's
+  # coder.js via #dark-mode-toggle; disable the theme's floating
+  # duplicate so there is exactly one toggle element on the page.
+  hideColorSchemeToggle = true
   customCSS = ["css/custom.css"]
 
   # IMPORTANT — sub-tables under [params] must come AFTER all bare
