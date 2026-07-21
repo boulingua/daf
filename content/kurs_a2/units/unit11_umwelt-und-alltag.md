@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: umwelt-und-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit11_umwelt-und-alltag.pptx
+  file: /daf/materials/presentations/unit11_umwelt-und-alltag.odp
   thumbnail: /daf/materials/presentations/unit11_umwelt-und-alltag.png
 worksheet:
   file: /daf/materials/worksheets/unit11_umwelt-und-alltag.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-hoeren
 - skill-sprechen
 - topic-umwelt
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,160 +39,257 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich kenne vier Mülltonnen und was hineinkommt.
-- Ich verstehe einen Umwelt-Radiobeitrag.
-- Ich gebe 5 Umwelt-Tipps in kurzen Sätzen weiter.
+- Ich kann vier Mülltonnen benennen und sagen, was hineinkommt.
+- Ich kann einen kurzen Radiobeitrag über die Umwelt verstehen.
+- Ich kann fünf einfache Umwelt-Tipps in kurzen Sätzen geben.
+- Ich kann mit *weil* einen Grund für einen Tipp nennen.
+- **Ich verstehe Umwelttipps im Radio.**
+- **Ich kenne die deutsche Mülltrennung.**
+- **Ich gebe einfache Umwelt-Tipps auf Deutsch weiter.**
 
-## GER-Ausrichtung
+## Einstieg
 
-Prüfungsmodul **Hören** — Teil 2 (zusammenhängendes Gespräch,
-Zuordnung Bild/Text).
+**Eine kleine Szene aus dem Alltag.** Lena und Omar stehen in der
+Küche vor drei Mülleimern.
 
-## Einstiegsgeschichte
-
-**Herr Ebner** (aus Graz) erklärt **Omar**, wie die österreichische
-Mülltrennung geht. *„Das ist kompliziert, aber logisch — wenn
-du es einmal verstanden hast.“*
-
-## 1. Einstieg
-
-- Wie trennen Sie Müll in Ihrer Heimat?
-- Welche Farbe hat die Biotonne bei Ihnen?
-- Was machen Sie mit einer Batterie?
-
-## 2. Input
-
-### A. Radio-Dialog (Transkript)
-
-> **Moderatorin:** Im Gespräch heute: Stadtgärtner Herr Ebner aus
-> Graz. Herr Ebner, wie geht Mülltrennung in Österreich?
+> **Lena:** Omar, warte! Die leere Flasche kommt nicht in den
+> Restmüll.
 >
-> **Herr Ebner:** Kurz gesagt: vier Tonnen. Papier in die blaue
-> Tonne. Glas zur Glassammelstelle, nach Farbe getrennt. Biomüll
-> in die braune Tonne. Restmüll in die graue.
+> **Omar:** Oh, wirklich? Wohin denn dann?
 >
-> **Moderatorin:** Und Plastik?
+> **Lena:** Glas bringen wir zum Container an der Ecke. Und den
+> Joghurtbecher werfe ich in den Gelben Sack.
 >
-> **Herr Ebner:** In Österreich: gelber Sack oder gelbe Tonne,
-> je nach Gemeinde. Wichtig: sauber! Ein schmutziger Joghurtbecher
-> gehört in den Restmüll.
+> **Omar:** Das ist am Anfang kompliziert. Aber ich glaube, ich
+> verstehe es langsam.
+
+**Aktivierungsfragen:**
+
+- Wie trennen Sie Müll zu Hause?
+- Welche Farbe hat die Papiertonne bei Ihnen?
+- Was machen Sie mit einer alten Batterie?
+
+## Input
+
+### A. Vokabeltabelle
+
+| Deutsch                    | Erklärung / Beispiel                     |
+|----------------------------|------------------------------------------|
+| der Müll                   | alte Sachen, die man wegwirft            |
+| die Mülltonne, -n          | großer Behälter für Müll                 |
+| trennen                    | den Müll sortieren                       |
+| das Papier                 | Zeitung, Karton, Hefte                   |
+| der Biomüll                | Obstreste, Kaffeesatz, Gartenabfälle     |
+| die Verpackung, -en        | Plastik, Dosen, Tetrapak                 |
+| der Restmüll               | alles, was sonst nirgends passt          |
+| das Altglas                | leere Flaschen und Gläser                |
+| die Batterie, -n           | Strom für Lampe, Uhr, Handy              |
+| der Tipp, -s               | ein guter Rat                            |
+| sparen                     | weniger verbrauchen (Wasser, Strom)      |
+| die Umwelt                 | Natur, Luft, Wasser um uns herum         |
+
+### B. Grammatik — Der Grund mit *weil*
+
+Mit **weil** nennen wir einen Grund. Nach *weil* steht das Verb
+**am Ende**.
+
+> Ich trenne den Müll, **weil** es der Umwelt **hilft**.
 >
-> **Moderatorin:** Batterien?
+> Ich fahre mit dem Rad, **weil** ich Benzin **spare**.
 >
-> **Herr Ebner:** Niemals in den Hausmüll. Bringen Sie sie zum
-> Supermarkt oder ins Altstoffzentrum.
+> Glas kommt in den Container, **weil** man es recyceln **kann**.
 
-### B. Mülltonnen-Wortschatz
+**Muster:** Hauptsatz + *, weil* + Subjekt + … + **Verb (Ende)**.
 
-| Tonne              | Was gehört hinein?                      |
-|--------------------|-----------------------------------------|
-| blau (Papier)      | Zeitung, Karton, Hefte                  |
-| braun (Bio)        | Obstreste, Kaffeesatz, Gartenabfälle    |
-| gelb (Verpackung)  | saubere Plastik, Dosen, Tetrapack       |
-| grau (Rest)        | alles, was nicht woanders passt         |
-| Altglas-Iglu       | Glasflaschen (Weiß / Grün / Braun)      |
+### C. Hörtext (zum Vorlesen)
 
-### C. Umwelt-Tipps
+*Die Lehrkraft liest den Text ein- bis zweimal ruhig vor. Ein
+kurzer Radiobeitrag im Format „Umwelt-Tipp der Woche“.*
 
-- *Trenne deinen Müll.*
-- *Benutze eine Einkaufstasche.*
-- *Dusche kürzer.*
-- *Kauf Produkte aus der Region.*
-- *Fahre mit dem Rad.*
+> **Moderatorin:** Willkommen zum Umwelt-Tipp der Woche! Heute im
+> Studio: Frau Berg von der Stadtreinigung. Frau Berg, wie trennt
+> man in Deutschland richtig?
+>
+> **Frau Berg:** Guten Tag! Ganz einfach mit vier Behältern.
+> Papier kommt in die blaue Tonne — also Zeitungen und Kartons.
+> Obstreste und Kaffeesatz gehören in die braune Biotonne.
+>
+> **Moderatorin:** Und die Verpackungen?
+>
+> **Frau Berg:** Plastik, Dosen und Tetrapak kommen in den Gelben
+> Sack. Aber bitte sauber! Ein schmutziger Becher gehört in den
+> Restmüll, also in die graue Tonne.
+>
+> **Moderatorin:** Haben Sie noch einen Spar-Tipp für uns?
+>
+> **Frau Berg:** Ja, gern. Duschen Sie kürzer, weil das viel
+> Wasser spart. Und kaufen Sie Obst aus der Region, weil das gut
+> für die Umwelt ist. Batterien bringen Sie bitte zum Supermarkt
+> — niemals in den Hausmüll!
+>
+> **Moderatorin:** Vielen Dank, Frau Berg. Bis nächste Woche!
 
-## 3. Üben
+### D. Kulturnotiz — Der „Gelbe Sack“
 
-**Aufgabe 1 — Zuordnen.** Welche Tonne für welches Material?
+In Deutschland gibt es seit den frühen 1990er-Jahren ein
+besonderes System für Verpackungen. Verkäufer müssen ihre
+Verpackungen zurücknehmen und recyceln. Darum sammeln viele
+Haushalte Plastik, Metall und Getränkekartons getrennt — im
+„Gelben Sack“ oder in der Gelben Tonne. Interessant: Von dem
+gesammelten Material sind ungefähr sieben von zehn Teilen wirklich
+Verpackung; der Rest ist falsch eingeworfener Müll. Sauber trennen
+hilft also beim Recycling. *(Paraphrasiert nach de.wikipedia.org,
+„Mülltrennung“ / „Duales System (Abfallwirtschaft)“, CC-BY-SA 4.0.)*
 
-- Zeitung → _____
-- Apfelkern → _____
-- Plastikflasche (sauber) → _____
-- Zigarettenasche → _____
+## Üben
 
-**Aufgabe 2 — Richtig oder falsch?** Zum Dialog A:
+**Aufgabe 1 — Zuordnen (leicht).** Welche Tonne / welcher Ort?
+Schreiben Sie: *blau, braun, gelb, grau* oder *Container*.
 
-1. In Österreich trennt man drei Tonnen.
-2. Glas wird nach Farbe getrennt.
-3. Schmutzige Verpackungen kommen in den Gelben Sack.
-4. Batterien gehören in den Hausmüll.
+- Zeitung → __________
+- Apfelrest → __________
+- saubere Plastikflasche → __________
+- schmutziger Becher → __________
+- leere Weinflasche (Glas) → __________
 
-**Aufgabe 3 — Imperativ-Tipps.** Schreiben Sie drei Tipps:
+**Aufgabe 2 — Richtig oder falsch? (zum Hörtext C).**
 
-- *Nimm …*
-- *Fahr …*
-- *Kauf …*
+1. Papier kommt in die blaue Tonne.
+2. Obstreste gehören in den Gelben Sack.
+3. Ein schmutziger Becher kommt in den Restmüll.
+4. Batterien darf man in den Hausmüll werfen.
 
-{{< details type="tip" title="Lösungen" >}}
+**Aufgabe 3 — Sätze mit *weil* (mittel).** Verbinden Sie.
 
-**Aufgabe 1.** Papier (blau) · Bio (braun) · Verpackung (gelb) ·
-Rest (grau).
+1. Ich dusche kürzer, weil … (viel Wasser / sparen)
+2. Ich kaufe Obst aus der Region, weil … (gut / für die Umwelt / sein)
+3. Ich trenne den Müll, weil … (man / es / recyceln / können)
 
-**Aufgabe 2.** 1) F (vier) · 2) R · 3) F (Restmüll) · 4) F
-(Supermarkt / Altstoffzentrum).
+**Aufgabe 4 — Eigene Tipps (schwer).** Schreiben Sie zwei eigene
+Umwelt-Tipps mit *weil*.
 
-**Aufgabe 3.** Individuell. Muster: *Nimm eine Stofftasche. Fahr
-mit dem Rad. Kauf Obst aus der Region.*
+- Beispiel: *Ich nehme eine Stofftasche, weil ich Plastik spare.*
+
+**Niveau-Differenzierung:**
+
+- **A2.1 (leichter):** Nur Aufgabe 1 und 2; Sätze mit *weil* als
+  Lückentext mit vorgegebenem Verb.
+- **A2.2 (stärker):** Aufgabe 3 und 4 frei; zusätzlich einen
+  dritten eigenen Tipp mit *weil* und *und* verbinden.
+
+## Lösungen
+
+**Aufgabe 1.** Zeitung → blau · Apfelrest → braun · saubere
+Plastikflasche → gelb · schmutziger Becher → grau · leere
+Weinflasche → Container.
+
+**Aufgabe 2.** 1) Richtig · 2) Falsch (Biotonne) · 3) Richtig ·
+4) Falsch (zum Supermarkt).
+
+**Aufgabe 3.** 1) …, weil das viel Wasser spart. · 2) …, weil das
+gut für die Umwelt ist. · 3) …, weil man es recyceln kann.
+
+**Aufgabe 4.** Individuell. Muster: *Ich fahre mit dem Rad, weil
+ich Benzin spare. Ich mache das Licht aus, weil das Strom spart.*
+
+## Anwenden
+
+**Sprechen — Umwelt-Tipp weitergeben.** Arbeiten Sie zu zweit.
+Partner A zieht eine Karte mit einem Gegenstand (z. B. leere
+Milchpackung, Zeitung, Batterie, Apfelrest). Partner A sagt, in
+welche Tonne der Gegenstand kommt **und warum** (mit *weil*).
+Partner B hört zu und gibt danach einen eigenen Spar-Tipp.
+
+> Beispiel: *„Die Milchpackung kommt in den Gelben Sack, weil das
+> eine Verpackung ist.“*
+
+**Bewertungskriterien:**
+
+- **Inhalt:** richtige Tonne genannt (0–2 Punkte).
+- **Grammatik:** *weil*-Satz mit Verb am Ende (0–2 Punkte).
+- **Aussprache / Flüssigkeit:** verständlich gesprochen (0–1 Punkt).
+
+## Prüfung
+
+**GER A2 · Modul Hören.** *Hinweis: Eine Audio-Aufnahme kann später
+ergänzt werden. Zurzeit liest die Lehrkraft den Hörtext aus
+Abschnitt C zweimal ruhig vor.*
+
+**Aufgabenstellung:** Sie hören einen kurzen Radiobeitrag über
+Mülltrennung. Lösen Sie danach die Aufgaben 1 und 2.
+
+**Aufgabe 1 — Richtig oder falsch? (5 Punkte, je 1 Punkt).**
+
+| Nr. | Aussage                                             | richtig | falsch |
+|-----|-----------------------------------------------------|:-------:|:------:|
+| 1   | Man trennt Müll in Deutschland mit vier Behältern.  |         |        |
+| 2   | Zeitungen kommen in die braune Tonne.               |         |        |
+| 3   | Kurz duschen spart Wasser.                          |         |        |
+| 4   | Ein schmutziger Becher kommt in den Gelben Sack.    |         |        |
+| 5   | Batterien bringt man zum Supermarkt.                |         |        |
+
+**Aufgabe 2 — Zuordnung (5 Punkte, je 1 Punkt).** Ordnen Sie die
+Gegenstände (1–5) den Tonnen / Orten (a–e) zu.
+
+Gegenstände: 1. Zeitung · 2. Apfelrest · 3. saubere Plastikdose ·
+4. leere Glasflasche · 5. alte Batterie
+
+Tonnen / Orte: a) blaue Tonne (Papier) · b) braune Tonne (Bio) ·
+c) Gelber Sack (Verpackung) · d) Altglas-Container ·
+e) Supermarkt / Sammelstelle
+
+**Punkte-Rubrik (10 Punkte gesamt):**
+
+| Punkte | Bewertung           |
+|--------|---------------------|
+| 9–10   | sehr gut            |
+| 7–8    | gut                 |
+| 5–6    | ausreichend         |
+| 0–4    | noch nicht bestanden |
+
+{{< details type="tip" title="Lösungen (Prüfung)" >}}
+
+**Aufgabe 1.** 1) richtig · 2) falsch (blaue Tonne) · 3) richtig ·
+4) falsch (Restmüll) · 5) richtig.
+
+**Aufgabe 2.** 1 = a · 2 = b · 3 = c · 4 = d · 5 = e.
 
 {{< /details >}}
 
-## 4. Anwenden
+## Reflexion
 
-**Partnerübung.** A beschreibt einen Müllgegenstand (z. B. leere
-Milchpackung, Zeitung, Batterie). B sagt, in welche Tonne er
-gehört und warum.
+- [ ] Ich kann vier Mülltonnen benennen.
+- [ ] Ich verstehe einen kurzen Radiobeitrag zur Umwelt.
+- [ ] Ich kann einen Grund mit *weil* nennen (Verb am Ende).
+- [ ] Ich kann fünf Umwelt-Tipps in kurzen Sätzen geben.
 
-## 5. Reflexion
+## Hinweise für Lehrkräfte
 
-- [ ] Ich kenne vier deutsche/österreichische Mülltonnen.
-- [ ] Ich verstehe einen Radio-Dialog zur Umwelt.
-- [ ] Ich formuliere drei Umwelt-Tipps im Imperativ (du).
+**Zeitplan (45 Minuten):**
 
-## Prüfungsbeispiel — GER A2 Hören, Teil 2
+- Einstieg — 5 Min (Szene lesen, Aktivierungsfragen im Plenum).
+- Input — 13 Min (Wortschatz, *weil*-Box, Hörtext einmal vorlesen).
+- Üben — 15 Min (Aufgaben 1–4, Lösungen gemeinsam).
+- Anwenden — 8 Min (Partnerübung Sprechen).
+- Prüfung / Reflexion — 4 Min (Prüfungsformat vorstellen, Selbstcheck).
 
-**Aufgabenstellung:** Sie hören ein zusammenhängendes Gespräch
-über Mülltrennung (Transkript A). Ordnen Sie die fünf
-Müllgegenstände (1–5) den richtigen Tonnen (a–e) zu.
+**Gruppen:** Einstieg im Plenum, Üben in Einzelarbeit, Anwenden in
+Paaren (A/B), Prüfung als Simulation im Plenum.
 
-**Gegenstände:**
+**Differenzierung:** Für schwächere Lernende den Hörtext dreimal
+vorlesen und Schlüsselwörter (blau, braun, gelb, grau) vorher an
+die Tafel schreiben. Stärkere Lernende formulieren zusätzliche
+*weil*-Sätze frei und erklären einen eigenen Spar-Tipp.
 
-1. Zeitung
-2. Apfelkern
-3. Saubere Plastikdose
-4. Altglas
-5. Batterie
+## Quellen
 
-**Tonnen / Orte:**
-
-a) Blaue Tonne — Papier
-b) Braune Tonne — Bio
-c) Gelber Sack — Verpackung
-d) Altglas-Iglu
-e) Altstoffzentrum / Supermarkt
-
-{{< details type="tip" title="Lösungen" >}}
-1 = a · 2 = b · 3 = c · 4 = d · 5 = e.
-
-{{< /details >}}
-
-
-<div class="notes">
-
-**Zeit:** Einstieg 5' · Input 13' · Üben 15' · Anwenden 12' ·
-Prüfungsvorschau 5'.
-
-</div>
-
-## Häufige Stolperfallen
-
-- **„Gelber Sack“ in DE, „Gelbe Tonne“ in AT.** Unterschied nach
-  Gemeinde.
-- **„Restmüll“** kommt am Ende: nur was nirgendwo sonst passt.
-- **Batterien / Elektrogeräte:** *niemals* in den Hausmüll.
-
-## Weiterführende Materialien
-
-- **ARA Altstoffrecycling Austria**: <https://www.ara.at/>
-- **Umweltbundesamt DE**: <https://www.umweltbundesamt.de/>
+- „Mülltrennung“ — Wikipedia-Autoren (abgerufen Juli 2026),
+  <https://de.wikipedia.org/wiki/M%C3%BClltrennung>, Lizenz CC-BY-SA 4.0.
+- „Duales System (Abfallwirtschaft)“ — Wikipedia-Autoren (abgerufen
+  Juli 2026),
+  <https://de.wikipedia.org/wiki/Duales_System_(Abfallwirtschaft)>,
+  Lizenz CC-BY-SA 4.0.
+- „Gelber Sack“ — Wikipedia-Autoren (abgerufen Juli 2026),
+  <https://de.wikipedia.org/wiki/Gelber_Sack>, Lizenz CC-BY-SA 4.0.

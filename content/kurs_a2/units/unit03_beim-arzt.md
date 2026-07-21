@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: beim-arzt
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_beim-arzt.pptx
+  file: /daf/materials/presentations/unit03_beim-arzt.odp
   thumbnail: /daf/materials/presentations/unit03_beim-arzt.png
 worksheet:
   file: /daf/materials/worksheets/unit03_beim-arzt.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-hoeren
 - skill-sprechen
 - topic-alltag
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -42,169 +42,320 @@ date: '2026-05-04T19:53:22+02:00'
 
 ## Lernziele
 
-- Ich beschreibe Beschwerden mit mehr Detail als auf A1.
-- Ich verstehe Anweisungen in der Praxis.
-- Ich verstehe Dosierungen („dreimal täglich nach dem Essen“).
+- Ich kann meine Beschwerden mit einer Zeitangabe beschreiben („seit zwei Tagen“).
+- Ich kann ein Arzt-Patienten-Gespräch (Hörtext) verstehen.
+- Ich kann die Ratschläge und Anweisungen der Ärztin verstehen.
+- Ich kann in der Apotheke nach einem Medikament und dem Preis fragen.
 
-## GER-Ausrichtung
+Aus dem GER-Kompetenzprofil dieser Einheit:
 
-Prüfungsmodul **Hören** — Teil 3: Einzelgespräche verstehen
-(Mehrfachwahl Bild/Text).
+- Ich verstehe Anweisungen in Arztpraxis und Apotheke.
+- Ich kann Beschwerden genauer beschreiben.
+- Ich verstehe Dosierungs-Anweisungen.
 
-## Einstiegsgeschichte
+## Einstieg
 
-**Maja** hat seit zwei Tagen Halsschmerzen und Husten. Sie geht
-zu **Dr. Bartl** in Graz. In der Praxis klingelt ihr Handy —
-**Omar** fragt: „Wie lange dauert das?“
+**Eine kurze Szene am Morgen**
 
-## 1. Einstieg
-
-- Wann waren Sie zuletzt beim Arzt?
-- Welche Beschwerden kennen Sie auf A1?
-- Wie sagt man in Ihrem Heimatland „Rezept“?
-
-## 2. Input
-
-### A. Dialog Praxis
-
-> **Maja:** Guten Tag, Frau Doktor. Ich habe seit zwei Tagen
-> starke Halsschmerzen und huste.
+> **Nadia:** Guten Morgen, Tom. Du siehst müde aus. Geht es dir nicht gut?
 >
-> **Dr. Bartl:** Fieber?
+> **Tom:** Nein, ich fühle mich schlecht. Ich habe seit gestern
+> Kopfschmerzen und mein Hals tut weh.
 >
-> **Maja:** Ja, gestern 38,5.
+> **Nadia:** Oh je. Hast du auch Fieber?
 >
-> **Dr. Bartl:** Machen Sie bitte den Mund auf … Ihre Mandeln
-> sind entzündet. Ich verschreibe Ihnen ein Antibiotikum. Nehmen
-> Sie dreimal täglich eine Tablette, nach dem Essen. Bleiben Sie
-> drei Tage zu Hause.
-
-### B. Dialog Apotheke
-
-> **Apothekerin:** Guten Tag. Was kann ich für Sie tun?
+> **Tom:** Ein bisschen. Ich glaube, ich gehe heute zum Arzt.
 >
-> **Maja:** Ich habe hier ein Rezept — Amoxicillin 500.
+> **Nadia:** Ja, das ist eine gute Idee. Gute Besserung!
+
+**Fragen zum Einstieg**
+
+- Was tut Tom weh? Nennen Sie zwei Beschwerden.
+- Wann waren Sie zuletzt beim Arzt oder in der Apotheke?
+- Wie sagt man in Ihrer Sprache „Gute Besserung“?
+
+## Input
+
+### A. Wortschatz
+
+| Wort                     | Bedeutung                         |
+|--------------------------|-----------------------------------|
+| die Beschwerde, -n       | complaint / symptom               |
+| die Halsschmerzen (Pl.)  | sore throat                       |
+| der Husten               | cough                             |
+| das Fieber               | fever                             |
+| sich fühlen              | to feel                           |
+| die Erkältung, -en       | cold (illness)                    |
+| untersuchen              | to examine                        |
+| verschreiben             | to prescribe                      |
+| das Rezept, -e           | prescription                      |
+| das Medikament, -e       | medicine / drug                   |
+| die Tablette, -n         | tablet / pill                     |
+| die Packung, -en         | box / packet (medication)         |
+| dreimal täglich          | three times a day                 |
+| krankschreiben           | to issue a sick note              |
+| Gute Besserung!          | Get well soon!                    |
+
+### B. Grammatik — Ratschläge verstehen: Imperativ (formell) und *sollen*
+
+Die Ärztin gibt Anweisungen und Ratschläge. Dafür benutzt sie oft
+den **Imperativ mit „Sie“** oder das Modalverb **„sollen“**.
+
+**Imperativ (formell, mit „Sie“):** Verb + Sie.
+
+| Infinitiv   | Imperativ (Sie-Form)          |
+|-------------|-------------------------------|
+| nehmen      | **Nehmen Sie** eine Tablette. |
+| bleiben     | **Bleiben Sie** zu Hause.     |
+| trinken     | **Trinken Sie** viel Wasser.  |
+| machen      | **Machen Sie** den Mund auf.  |
+
+**Ratschlag mit „sollen“:** *Sie **sollen** drei Tage zu Hause
+bleiben.* / Höflicher: *Sie **sollten** viel Wasser trinken.*
+
+**Grund mit „weil“:** *Sie bekommen ein Antibiotikum, **weil** Ihre
+Mandeln entzündet **sind**.* (Verb am Satzende!)
+
+> **Merke:** Nach einer Zeitangabe steht „seit“ + Dativ:
+> *seit zwei Tagen*, nicht *seit zwei Tage*.
+
+### C. Hörtext (zum Vorlesen) — Beim Arzt und in der Apotheke
+
+*Die Lehrkraft liest den Text langsam und deutlich vor. Eine
+Audio-Aufnahme kann später ergänzt werden.*
+
+> **In der Praxis von Dr. Weber**
 >
-> **Apothekerin:** Moment. Hier ist Ihre Packung. Dreimal täglich
-> eine Tablette, nach dem Essen. Trinken Sie dazu viel Wasser.
-> Das macht 5,40 €.
+> **Dr. Weber:** Guten Tag, Frau Sari. Was fehlt Ihnen denn?
+>
+> **Frau Sari:** Guten Tag. Ich habe seit drei Tagen starke
+> Halsschmerzen und ich huste viel. Nachts kann ich nicht gut
+> schlafen.
+>
+> **Dr. Weber:** Haben Sie auch Fieber?
+>
+> **Frau Sari:** Ja, gestern Abend hatte ich 38,7 Grad.
+>
+> **Dr. Weber:** Gut, ich untersuche Sie kurz. Machen Sie bitte den
+> Mund auf … Ihre Mandeln sind entzündet. Sie bekommen ein
+> Antibiotikum, weil das eine bakterielle Infektion ist. Nehmen Sie
+> dreimal täglich eine Tablette, immer nach dem Essen. Und bleiben
+> Sie drei Tage zu Hause.
+>
+> **Frau Sari:** Muss ich noch etwas beachten?
+>
+> **Dr. Weber:** Trinken Sie viel Wasser und Tee. Hier ist das
+> Rezept und die Krankschreibung. Gute Besserung!
+>
+> **In der Apotheke**
+>
+> **Apotheker:** Guten Tag. Was kann ich für Sie tun?
+>
+> **Frau Sari:** Ich habe ein Rezept — Amoxicillin 500.
+>
+> **Apotheker:** Einen Moment, bitte … So, hier ist Ihre Packung.
+> Nehmen Sie dreimal täglich eine Tablette nach dem Essen. Das
+> macht 5,40 Euro.
+>
+> **Frau Sari:** Vielen Dank. Auf Wiedersehen.
 
-### C. Wortschatz
+### D. Landeskunde — Die Gesundheitskarte
 
-| Wort                   | Bedeutung                          |
-|------------------------|------------------------------------|
-| die Beschwerde         | complaint / symptom                |
-| die Erkältung          | cold (illness)                     |
-| die Mandeln (Pl.)      | tonsils                            |
-| entzündet              | inflamed                           |
-| verschreiben           | to prescribe                       |
-| das Rezept             | prescription                       |
-| die Packung            | box (medication)                   |
-| dreimal täglich        | three times a day                  |
-| krankschreiben         | to issue a sick note               |
+In Deutschland zeigen gesetzlich Versicherte in der Arztpraxis
+ihre **elektronische Gesundheitskarte (eGK)**. Diese Chipkarte hat
+oft ein Foto und ersetzt die alte Krankenversichertenkarte von 1995.
+Seit dem 1. Januar 2015 ist nur noch die elektronische
+Gesundheitskarte gültig. So weiß die Praxis schnell, bei welcher
+Krankenkasse eine Person versichert ist.
 
-## 3. Üben
+*(Paraphrasiert nach „Elektronische Gesundheitskarte“, Wikipedia,
+CC BY-SA 4.0 — siehe Quellen.)*
 
-**Aufgabe 1 — Zum Dialog A.** Was passt?
+## Üben
 
-1. Maja hat … a) Zahnschmerzen · b) Halsschmerzen · c) Bauchweh.
-2. Sie hatte Fieber … a) 37 · b) 38,5 · c) 39,5.
-3. Das Antibiotikum nimmt sie … a) einmal · b) zweimal ·
-   c) dreimal täglich.
+**Aufgabe 1 — Globalverstehen (leicht).** Richtig oder falsch?
+Kreuzen Sie an.
 
-**Aufgabe 2 — Dosierung.** Übersetzen Sie:
+1. Frau Sari hat seit drei Tagen Halsschmerzen. ( R / F )
+2. Sie hat kein Fieber. ( R / F )
+3. Der Arzt verschreibt ein Antibiotikum. ( R / F )
+4. Frau Sari soll zwei Tage zu Hause bleiben. ( R / F )
 
-- „1-0-1“ →
-- „nach dem Essen“ →
-- „auf nüchternen Magen“ →
+**Aufgabe 2 — Detailverstehen (mittel).** Was ist richtig? a, b oder c?
 
-**Aufgabe 3 — Wortschatz.** Welches Wort fehlt?
+1. Frau Sari hustet und hat …
+   a) Bauchschmerzen · b) Halsschmerzen · c) Rückenschmerzen.
+2. Sie nimmt die Tablette …
+   a) einmal · b) zweimal · c) dreimal täglich.
+3. Die Packung kostet …
+   a) 4,50 € · b) 5,14 € · c) 5,40 €.
 
-1. Ein ___ vom Arzt ist nötig.
-2. Die Tabletten sind in einer ___.
-3. Drei Tage zu Hause: der Arzt schreibt mich ___.
+**Aufgabe 3 — Wortschatz (mittel).** Welches Wort passt? Ergänzen Sie.
 
-{{< details type="tip" title="Lösungen" >}}
+*Rezept · Packung · Fieber · krank · verschreibt*
 
-**Aufgabe 1.** 1) b · 2) b · 3) c.
+1. Der Arzt ___ ein Antibiotikum.
+2. Ein ___ vom Arzt braucht man in der Apotheke.
+3. Die Tabletten sind in einer ___.
+4. Gestern hatte sie 38,7 Grad ___.
+5. Der Arzt schreibt Frau Sari drei Tage ___.
 
-**Aufgabe 2.** „1-0-1“ = morgens und abends je 1 Tablette, mittags
-nichts. „nach dem Essen“ = after meal. „auf nüchternen Magen“ =
-on empty stomach.
+**Aufgabe 4 — Grammatik (Ratschläge).** Schreiben Sie den Imperativ
+(Sie-Form).
 
-**Aufgabe 3.** 1) Rezept · 2) Packung · 3) krank.
+1. (viel Wasser trinken) → ___
+2. (zu Hause bleiben) → ___
+3. (den Mund aufmachen) → ___
+4. (die Tablette nach dem Essen nehmen) → ___
+
+{{< callout type="tip" >}}
+**Niveau-Differenzierung**
+
+- **A2.1 (leichter):** Lernende bearbeiten nur Aufgabe 1 und 3 und
+  dürfen dabei den Hörtext mitlesen.
+- **A2.2 (schwerer):** Lernende hören ohne Text und bilden zu
+  Aufgabe 4 einen eigenen Satz mit „weil“ (z. B. *„Bleiben Sie zu
+  Hause, weil Sie krank sind.“*).
+
+{{< /callout >}}
+
+## Lösungen
+
+**Aufgabe 1.** 1) R · 2) F (sie hat 38,7 Grad) · 3) R · 4) F (drei Tage).
+
+**Aufgabe 2.** 1) b · 2) c · 3) c.
+
+**Aufgabe 3.** 1) verschreibt · 2) Rezept · 3) Packung · 4) Fieber ·
+5) krank.
+
+**Aufgabe 4.** 1) Trinken Sie viel Wasser. · 2) Bleiben Sie zu Hause. ·
+3) Machen Sie den Mund auf. · 4) Nehmen Sie die Tablette nach dem
+Essen.
+
+## Anwenden
+
+**Rollenspiel (Sprechen) — In der Apotheke.** Arbeiten Sie zu zweit.
+A = Patient:in, B = Apotheker:in. Spielen Sie ein kurzes Gespräch
+(6–8 Sätze).
+
+- A begrüßt und gibt ein (erfundenes) Rezept ab.
+- B nennt das Medikament und erklärt die Dosierung
+  (z. B. *„dreimal täglich nach dem Essen“*).
+- A fragt einen Ratschlag („Was soll ich noch machen?“).
+- B gibt einen Tipp und nennt den Preis.
+- A bedankt sich und verabschiedet sich.
+
+**Bewertungskriterien**
+
+| Kriterium                                   | Punkte |
+|---------------------------------------------|:------:|
+| Beschwerde / Medikament genannt             |   2    |
+| Dosierung korrekt erklärt                   |   2    |
+| Mindestens ein Ratschlag (Imperativ/„sollen“)|   2    |
+| Begrüßung und Verabschiedung                |   2    |
+| Verständlichkeit und Aussprache             |   2    |
+| **Gesamt**                                  | **10** |
+
+## Prüfung
+
+**GER A2 · Modul Hören · Teil 3 — Einzelgespräche verstehen**
+
+**Aufgabenstellung:** Sie hören drei kurze Gespräche. Die Lehrkraft
+liest jeden Text **zweimal** vor. Wählen Sie die richtige Lösung:
+a, b oder c.
+
+*Hinweis: Eine Audio-Aufnahme kann später ergänzt werden. Bis dahin
+liest die Lehrkraft die Texte als Hörtext vor.*
+
+**Gespräch 1 — In der Praxis**
+
+> — „Guten Tag. Mein Kopf tut seit gestern weh und ich bin sehr müde.“
+>
+> — „Haben Sie Fieber?“
+>
+> — „Nein, kein Fieber. Nur Kopfschmerzen.“
+>
+> — „Trinken Sie viel Wasser und schlafen Sie heute lange.“
+
+1. Welches Problem hat die Person?
+   a) Bauchschmerzen · b) Kopfschmerzen · c) Zahnschmerzen.
+
+**Gespräch 2 — In der Apotheke**
+
+> — „Hier ist Ihr Medikament. Nehmen Sie zweimal täglich eine
+> Tablette, morgens und abends. Das macht 8,20 Euro.“
+
+2. Wie oft nimmt die Person das Medikament?
+   a) einmal täglich · b) zweimal täglich · c) dreimal täglich.
+
+**Gespräch 3 — Am Telefon**
+
+> — „Kommst du morgen ins Büro?“
+>
+> — „Nein, der Arzt hat mich bis Donnerstag krankgeschrieben.“
+
+3. Bis wann ist die Person krankgeschrieben?
+   a) Dienstag · b) Mittwoch · c) Donnerstag.
+
+**Punkte-Rubrik**
+
+| Aufgabe            | Punkte |
+|--------------------|:------:|
+| Item 1             |   2    |
+| Item 2             |   2    |
+| Item 3             |   2    |
+| **Gesamt**         | **6**  |
+
+*Bestanden ab 4 von 6 Punkten (ca. 60 %).*
+
+{{< details type="tip" title="Lösungen Prüfung" >}}
+1. b · 2. b · 3. c.
 
 {{< /details >}}
 
-## 4. Anwenden
+## Reflexion
 
-**Rollenspiel.** A = Patient:in, B = Apotheker:in.
+- [ ] Ich kann meine Beschwerden mit „seit“ + Zeitangabe beschreiben.
+- [ ] Ich verstehe die Anweisungen der Ärztin (Imperativ, „sollen“).
+- [ ] Ich verstehe Dosierungsangaben („dreimal täglich nach dem Essen“).
+- [ ] Ich kann in der Apotheke nach Medikament und Preis fragen.
+- [ ] Ich kenne die wichtigsten Wörter: Rezept, Packung, Fieber, Mandeln.
 
-- A gibt ein erfundenes Rezept ab.
-- B erklärt Dosierung (dreimal / zweimal täglich).
-- A fragt nach Preis.
-- B sagt Preis.
+## Hinweise für Lehrkräfte
 
-## 5. Reflexion
+**Zeitplan (45 Minuten)**
 
-- [ ] Ich verstehe Mandeln / Fieber / Antibiotikum.
-- [ ] Ich sage Beschwerden mit Zeitangabe („seit zwei Tagen“).
-- [ ] Ich verstehe Dosierungsangaben.
+| Phase       | Zeit   | Sozialform            |
+|-------------|--------|-----------------------|
+| Einstieg    | 6 Min  | Plenum                |
+| Input       | 12 Min | Plenum / Partnerarbeit|
+| Üben        | 12 Min | Einzel- + Partnerarbeit|
+| Anwenden    | 10 Min | Partnerarbeit         |
+| Prüfung/Reflexion | 5 Min | Einzelarbeit     |
 
-## Prüfungsbeispiel — GER A2 Hören, Teil 3
+**Gruppierung**
 
-**Aufgabenstellung:** Sie hören drei kurze Gespräche. Sie hören
-jeden Text einmal. Wählen Sie die richtige Lösung a/b/c.
+- Einstieg und Input im Plenum; die Lehrkraft liest den Hörtext
+  langsam vor und wiederholt schwierige Wörter.
+- Üben zuerst allein, dann Vergleich mit dem Partner / der Partnerin.
+- Anwenden als Partner-Rollenspiel; Rollen danach tauschen.
 
-**Gespräch 1:** Arztpraxis
+**Differenzierung**
 
-> — „Mein Hals tut weh seit zwei Tagen.“
->
-> — „Fieber?“
->
-> — „Ja, 38,5.“
->
-> — „Ich verschreibe ein Antibiotikum. Dreimal täglich.“
+- **Schwächere Lernende:** Hörtext beim ersten Mal mitlesen lassen;
+  Wortschatzkarten mit Bildern anbieten; Aufgabe 4 mündlich lösen.
+- **Stärkere Lernende:** Hörtext nur hören (nicht mitlesen); eigenen
+  Mini-Dialog schreiben (Arzt/Patient) und mit „weil“ begründen.
+- **Aussprache:** Zahlen und Uhrzeiten (Dosierung, Preis) extra üben,
+  weil sie in der Prüfung Hören oft schwerfallen.
 
-1. Wie oft nimmt die Person das Medikament? a) einmal · b)
-   zweimal · c) dreimal.
+## Quellen
 
-**Gespräch 2:** Apotheke
-
-> — „Ihre Packung, bitte. Nach dem Essen nehmen. Das macht 5,40.“
-
-2. Wie hoch ist der Preis? a) 5,04 € · b) 5,40 € · c) 4,50 €.
-
-**Gespräch 3:** Arbeitsplatz
-
-> — „Du bleibst drei Tage zu Hause, oder?“
->
-> — „Ja, der Arzt hat mich bis Freitag krankgeschrieben.“
-
-3. Bis wann ist die Person krankgeschrieben? a) Mittwoch · b)
-   Donnerstag · c) Freitag.
-
-{{< details type="tip" title="Lösungen" >}}
-1. c · 2. b · 3. c.
-
-{{< /details >}}
-
-
-<div class="notes">
-
-**Zeit:** Einstieg 6' · Input 13' · Üben 12' · Anwenden 12' ·
-Prüfungsvorschau 7'.
-
-</div>
-
-## Häufige Stolperfallen
-
-- **„seit“ + Dativ:** *seit zwei Tagen*, nicht *seit zwei Tage*.
-- **„krankgeschrieben“** = offiziell krank (mit Attest).
-- **„nüchtern“ ≠ „sober“** im medizinischen Kontext:
-  nüchtern = leerer Magen.
-
-## Weiterführende Materialien
-
-- **Pharmazie.de A2 Einträge**: <https://www.pharmazie.de/>
-- **DW „Beim Arzt“**: <https://learngerman.dw.com/>
+- *Elektronische Gesundheitskarte* — Wikipedia-Autoren (abgerufen
+  2026-07-21), <https://de.wikipedia.org/wiki/Elektronische_Gesundheitskarte>,
+  Lizenz: CC BY-SA 4.0.
+- *Krankenversichertenkarte* — Wikipedia-Autoren (abgerufen
+  2026-07-21), <https://de.wikipedia.org/wiki/Krankenversichertenkarte>,
+  Lizenz: CC BY-SA 4.0.
+- Alle Dialoge und Übungstexte sind Originaltexte der Autorin/des
+  Autors dieser Einheit (S. Le Boulanger), erstellt für den A2-Kurs.

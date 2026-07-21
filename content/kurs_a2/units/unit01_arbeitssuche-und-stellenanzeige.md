@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: arbeitssuche-und-stellenanzeige
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.pptx
+  file: /daf/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.odp
   thumbnail: /daf/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.png
 worksheet:
   file: /daf/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-lesen
 - skill-schreiben
 - topic-arbeit
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,198 +39,292 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich verstehe vier Stellenanzeigen.
-- Ich ordne Anforderungen und Angebote.
-- Ich schreibe eine kurze Bewerbungs-E-Mail.
+- Ich kann die wichtigsten Informationen in einer Stellenanzeige finden (Beruf, Arbeitszeit, Gehalt, Beginn).
+- Ich kann Anforderungen und Angebote einer Anzeige verstehen und ordnen.
+- Ich kann Berufsnamen und Wörter zu Arbeitsbedingungen auf A2 benutzen.
+- Ich kann eine kurze Bewerbungs-E-Mail schreiben.
+- Ich kann eine einfache Stellenanzeige in ihren Hauptpunkten verstehen.
+- Ich kann eine kurze Bewerbungs-E-Mail schreiben.
+- Ich kenne Berufsnamen und Arbeitsbedingungen auf A2.
 
-## GER-Ausrichtung
+## Einstieg
 
-Prüfungsmodul **Lesen** — Teil 4: Anzeigen verstehen (Zuordnung).
+**Eine Szene am Küchentisch.** Maja ist 31 und arbeitet seit zwei
+Jahren in Graz als Pflegekraft. Heute Morgen sitzt sie mit einer
+Tasse Tee am Tisch. Ihre Freundin Lena kommt dazu.
 
-## Einstiegsgeschichte
+> **Lena:** Was liest du denn da so genau?
+>
+> **Maja:** Eine Stellenanzeige. Ich möchte die Stelle wechseln,
+> weil das Krankenhaus wenig zahlt und die Wege weit sind.
+>
+> **Lena:** Und was suchst du? Vollzeit oder Teilzeit?
+>
+> **Maja:** Vollzeit. Aber ich habe keinen Schichtdienst mehr
+> gern. Ich möchte am Abend zu Hause sein.
+>
+> **Lena:** Dann musst du gut lesen: Arbeitszeit, Gehalt und
+> Beginn stehen immer in der Anzeige.
 
-**Maja Nowak** ist 31, kommt aus Kraków und arbeitet seit zwei
-Jahren in Graz als Pflegekraft. Sie sucht eine neue Stelle: das
-Krankenhaus zahlt wenig, die Wege sind weit. Heute Morgen setzt
-sie sich mit Tee an den Tisch, schaut sich vier Stellenanzeigen
-an und fragt sich: *Welche passt zu mir?*
-
-## 1. Einstieg
+**Aktivierungsfragen**
 
 - Wie haben Sie Ihre letzte Stelle gefunden?
-- Welche Berufe werden in Österreich gerade stark gesucht?
-- Welche drei Kriterien sind Ihnen bei einer Stelle wichtig?
+- Welche drei Dinge sind Ihnen bei einer Stelle wichtig?
+- Was möchten Sie *nicht*: Schichtdienst, Wochenendarbeit oder
+  lange Wege?
 
-## 2. Input
+## Input
 
-### A. Vier Stellenanzeigen
+### A. Wortschatz
 
-> **a) Pflegefachkraft gesucht — Landeskrankenhaus Graz**
->
-> - Vollzeit, 40 Std.
-> - Gehalt nach KV, 2 900 € brutto monatlich
-> - Dienstwohnung möglich
-> - Beginn: 1. September
+| Wort                          | Bedeutung                          |
+|-------------------------------|------------------------------------|
+| die Stellenanzeige, -n        | job ad                             |
+| die Bewerbung, -en            | application                        |
+| Vollzeit / Teilzeit           | full-time / part-time              |
+| das Gehalt (brutto / netto)   | salary (gross / net)               |
+| der Schichtdienst             | shift work                         |
+| die Anforderung, -en          | requirement                        |
+| die Erfahrung, -en            | experience                         |
+| die Weiterbildung, -en        | further training                   |
+| der Beginn / der Starttermin  | start / starting date              |
+| die Unterlagen (Pl.)          | documents                          |
 
-> **b) Kellnerin / Kellner gesucht — Café Leopold, Graz**
->
-> - Teilzeit, 20 Std.
-> - 12 € pro Stunde
-> - Samstags + Sonntags
-> - Englischkenntnisse erwünscht
+### B. Grammatik — Nebensatz mit *weil* und *dass*
 
-> **c) Kindergartenhelferin gesucht — Kindergarten Puntigam**
->
-> - 30 Std., Mo–Fr 8–14 Uhr
-> - 2 100 € brutto
-> - Deutsch B1 Pflicht
-> - Tag der Einschulung ins Team: 12. Juli
+Im Nebensatz steht das Verb **am Ende**. So können Sie einen
+Grund (*weil*) oder eine Information (*dass*) geben.
 
-> **d) Pflegekraft gesucht — Pflegeheim St. Ulrich**
->
-> - Vollzeit, 38 Std.
-> - 3 100 € brutto
-> - Schichtdienst
-> - Weiterbildungsbudget inklusive
+| Hauptsatz            | Nebensatz (Verb am Ende)                 |
+|----------------------|------------------------------------------|
+| Ich suche eine Stelle, | **weil** ich mehr Gehalt **brauche**.   |
+| Ich lese die Anzeige, | **weil** ich den Beruf **mag**.         |
+| Ich weiß,             | **dass** die Stelle Vollzeit **ist**.   |
+| Ich schreibe, | **dass** ich ab September **anfangen kann**.   |
 
-### B. Wortschatz
+> **Merke:** Bei Modalverben steht das Modalverb ganz am Ende:
+> *…, weil ich nicht in Schichten arbeiten **möchte**.*
 
-| Wort                 | Bedeutung                            |
-|----------------------|--------------------------------------|
-| die Stellenanzeige   | job ad                               |
-| Vollzeit / Teilzeit  | full-time / part-time                |
-| das Gehalt, brutto   | gross salary                         |
-| der Schichtdienst    | shift work                           |
-| der Kollektivvertrag (KV) | collective wage agreement (AT/CH)|
-| die Weiterbildung    | further training                     |
-| der Kindergarten     | kindergarten                         |
+### C. Kurztext — Vier Stellenanzeigen (Original A2)
 
-### C. Redemittel „Bewerbung“
+> **a) Pflegefachkraft — Landeskrankenhaus Graz**
+> Vollzeit, 40 Stunden. Gehalt nach Kollektivvertrag, 2 900 €
+> brutto. Eine Dienstwohnung ist möglich. Beginn: 1. September.
 
-- *Ich interessiere mich für Ihre Stellenanzeige …*
+> **b) Kellner/in — Café Leopold, Graz**
+> Teilzeit, 20 Stunden. 12 € pro Stunde. Nur Samstag und Sonntag.
+> Wir freuen uns über ein bisschen Englisch. Beginn: sofort.
+
+> **c) Kindergartenhelfer/in — Kindergarten Puntigam**
+> 30 Stunden, Montag bis Freitag von 8 bis 14 Uhr. 2 100 € brutto.
+> Deutsch B1 ist Pflicht. Beginn: 12. Juli.
+
+> **d) Pflegekraft — Pflegeheim St. Ulrich**
+> Vollzeit, 38 Stunden. 3 100 € brutto. Schichtdienst. Ein
+> Budget für Weiterbildung ist inklusive. Beginn: nach Absprache.
+
+### D. Redemittel „Bewerbung“
+
+- *Ich interessiere mich für Ihre Stellenanzeige als …*
 - *Ich habe Erfahrung als …*
 - *Ich kann ab … anfangen.*
 - *Meine Unterlagen finden Sie im Anhang.*
 
-## 3. Üben
+### E. Kulturnotiz — Was steht in einer Stellenanzeige?
 
-**Aufgabe 1 — Zuordnung (A2-Lesen Teil 4).** Welche Anzeige
-(a–d) passt am besten zur Situation?
+Eine gute Stellenanzeige zeigt meistens drei Dinge: die Firma
+(Ort und Größe), die Aufgaben und das Anforderungsprofil — also,
+welche Ausbildung und welche Fähigkeiten man braucht. Früher
+standen Anzeigen vor allem in der Zeitung. Seit den 1990er-Jahren
+findet man sie auch auf Job-Portalen im Internet. Wenn Sie eine
+Anzeige lesen, suchen Sie also zuerst diese drei Teile: *Wer sucht?
+Was soll ich tun? Was muss ich können?*
+(paraphrasiert nach „Stellenausschreibung“, Wikipedia, CC BY-SA 4.0)
 
-1. „Ich möchte nicht mehr in Schichten arbeiten und suche einen
-   geregelten Arbeitstag.“
-2. „Ich brauche einen Nebenjob am Wochenende.“
-3. „Ich suche mehr Gehalt — bereit für Schicht.“
-4. „Ich möchte pflegen und gleichzeitig wohnen nah am Arbeitsplatz.“
+## Üben
 
-**Aufgabe 2 — Brutto / Teilzeit etc.** Richtig oder falsch?
+**Aufgabe 1 — Zuordnung (A2-Lesen, Anzeigen a–d).**
+Welche Anzeige passt am besten? Schreiben Sie a, b, c oder d.
 
-1. „Brutto“ ist das Geld, das auf dem Konto ankommt.
-2. Vollzeit sind meistens 38–40 Std.
-3. Schichtdienst bedeutet feste 9-bis-17-Uhr-Zeiten.
-4. Kollektivvertrag = Mindestgehalt pro Branche (AT/CH).
+1. „Ich möchte keinen Schichtdienst mehr und suche einen
+   geregelten Arbeitstag am Vormittag.“ → ____
+2. „Ich brauche nur einen Nebenjob am Wochenende.“ → ____
+3. „Ich suche mehr Gehalt und Schichtdienst ist für mich okay.“ → ____
+4. „Ich möchte in der Pflege arbeiten und nah am Arbeitsplatz
+   wohnen.“ → ____
 
-**Aufgabe 3 — Bewerbungsmail.** Ordnen Sie die Sätze (A–F) zu
-einem Text:
+**Aufgabe 2 — Richtig oder falsch?**
+Kreuzen Sie an (R / F).
 
-A. Mit freundlichen Grüßen
-B. Sehr geehrte Damen und Herren,
-C. Ich kann ab 15. August anfangen.
-D. Ich arbeite seit zwei Jahren als Pflegekraft.
-E. Ich interessiere mich sehr für Ihre Stellenanzeige.
-F. Maja Nowak
+1. „Brutto“ ist das Geld, das am Ende auf dem Konto ankommt.
+2. Vollzeit sind meistens 38 bis 40 Stunden pro Woche.
+3. Schichtdienst bedeutet immer feste Zeiten von 9 bis 17 Uhr.
+4. Für Anzeige (c) braucht man Deutsch auf dem Niveau B1.
 
-{{< details type="tip" title="Lösungen" >}}
+**Aufgabe 3 — Nebensatz mit *weil*.**
+Verbinden Sie die Sätze. Das Verb kommt ans Ende.
+
+1. Maja wechselt die Stelle. (Das Krankenhaus zahlt wenig.)
+   → Maja wechselt die Stelle, weil …
+2. Ich lese Anzeige (a) genau. (Ich möchte dort arbeiten.)
+   → Ich lese Anzeige (a) genau, weil …
+3. Er nimmt Anzeige (b). (Er hat nur am Wochenende Zeit.)
+   → Er nimmt Anzeige (b), weil …
+
+**Aufgabe 4 — Bewerbungsmail ordnen.**
+Bringen Sie die Sätze (A–F) in die richtige Reihenfolge.
+
+- A. Mit freundlichen Grüßen
+- B. Sehr geehrte Damen und Herren,
+- C. Ich kann ab dem 15. August anfangen.
+- D. Ich arbeite seit zwei Jahren als Pflegekraft.
+- E. Ich interessiere mich sehr für Ihre Stellenanzeige.
+- F. Maja Nowak
+
+{{< callout type="note" >}}
+**Niveau-Differenzierung**
+
+- **Leichter (A2.1):** Bei Aufgabe 1 dürfen die Lernenden die
+  Schlüsselwörter (z. B. *Wochenende*, *Schicht*) in der Anzeige
+  farbig markieren.
+- **Schwerer (A2.2):** Bei Aufgabe 3 bilden die Lernenden zwei
+  weitere *weil*-Sätze frei zu einer Anzeige ihrer Wahl.
+
+{{< /callout >}}
+
+## Lösungen
+
+{{< details type="tip" title="Lösungen anzeigen" >}}
 
 **Aufgabe 1.** 1) c · 2) b · 3) d · 4) a.
 
-**Aufgabe 2.** 1) F (brutto = vor Abzug) · 2) R · 3) F
-(Schicht = wechselnd) · 4) R.
+**Aufgabe 2.** 1) F (brutto = vor Abzug, netto kommt aufs Konto) ·
+2) R · 3) F (Schicht = wechselnde Zeiten) · 4) R.
 
-**Aufgabe 3.** B – E – D – C – A – F.
+**Aufgabe 3.** (Beispiellösungen)
+1) …, weil das Krankenhaus wenig zahlt.
+2) …, weil ich dort arbeiten möchte.
+3) …, weil er nur am Wochenende Zeit hat.
+
+**Aufgabe 4.** B – E – D – C – A – F.
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Schreibaufgabe (A2, ca. 50 Wörter):**
+**Schreibaufgabe (A2, ca. 50 Wörter).**
+Sie haben sich für Anzeige **(a)** entschieden. Schreiben Sie eine
+kurze Bewerbungs-E-Mail an das Landeskrankenhaus Graz. Nennen Sie:
 
-Sie haben sich für Anzeige (a) entschieden. Schreiben Sie eine
-kurze Bewerbungs-E-Mail an das Landeskrankenhaus Graz:
-
-- Bezug auf die Anzeige,
+- den Bezug auf die Anzeige,
 - Ihre Erfahrung (1 Satz),
-- Starttermin.
+- Ihren Starttermin.
 
-**Musterlösung:**
+**Musterlösung**
 
 > Sehr geehrte Damen und Herren,
 >
 > ich interessiere mich sehr für Ihre Stellenanzeige als
 > Pflegefachkraft. Ich arbeite seit zwei Jahren in Graz und habe
 > Erfahrung in der Inneren Medizin. Ich kann ab dem 1. September
-> anfangen.
+> anfangen. Meine Unterlagen finden Sie im Anhang.
 >
 > Mit freundlichen Grüßen
 > Maja Nowak
 
-## 5. Reflexion
+**Bewertungskriterien**
 
-- [ ] Ich unterscheide Vollzeit / Teilzeit / Schichtdienst.
-- [ ] Ich ordne eine Stellenanzeige meiner Wunschsituation zu.
-- [ ] Ich schreibe eine 50-Wörter-Bewerbungs-E-Mail.
+| Kriterium                                   | Punkte |
+|---------------------------------------------|:------:|
+| Alle drei Inhaltspunkte genannt             |   3    |
+| Passende Anrede und Gruß                    |   2    |
+| Verständliche Sätze (A2, kleine Fehler ok)  |   3    |
+| **Gesamt**                                  | **8**  |
 
-## Prüfungsbeispiel — GER A2 Lesen, Teil 4
+## Prüfung
 
-**Aufgabenstellung:** Ordnen Sie die fünf Situationen (1–5) den
-fünf Anzeigen (a–e) zu. **Eine Anzeige passt zu zwei
-Situationen nicht; zwei Anzeigen passen zu keiner Situation.**
+**GER A2 · Modul Lesen · Teil 4 — Anzeigen zuordnen**
+
+**Aufgabenstellung:** Lesen Sie die fünf Situationen (1–5) und die
+fünf Anzeigen (a–e). Welche Anzeige passt zu welcher Situation?
+Schreiben Sie den Buchstaben. **Achtung: Zwei Anzeigen passen zu
+keiner Situation.**
 
 ### Anzeigen (a–e)
 
-**a)** Pflegefachkraft, Vollzeit, Graz, Dienstwohnung. 2 900 €.
-**b)** Kellner/in, Teilzeit, Samstag+Sonntag. 12 €/Std.
-**c)** Kindergartenhelfer/in, Mo–Fr 8–14 Uhr, Deutsch B1.
-**d)** Pflegekraft, Pflegeheim, Schichtdienst, 3 100 €.
-**e)** IT-Junior, Homeoffice, flexible Zeiten.
+- **a)** Pflegefachkraft, Vollzeit, Graz. Dienstwohnung möglich.
+  2 900 € brutto.
+- **b)** Kellner/in, Teilzeit, nur Samstag und Sonntag. 12 €/Std.
+- **c)** Kindergartenhelfer/in, Montag bis Freitag 8–14 Uhr,
+  Deutsch B1.
+- **d)** Pflegekraft, Pflegeheim, Schichtdienst, 3 100 € brutto.
+- **e)** IT-Junior, Homeoffice, flexible Zeiten.
 
-### Situationen
+### Situationen (1–5)
 
-1. „Ich möchte einen Job mit Kinderbetreuung — nicht Pflege.“
-2. „Ich will am Wochenende arbeiten.“
-3. „Ich brauche höheres Gehalt, Schicht ist okay.“
-4. „Ich kann nur von zu Hause arbeiten.“
+1. „Ich möchte mit Kindern arbeiten, nicht in der Pflege.“ → ____
+2. „Ich suche einen Job nur am Wochenende.“ → ____
+3. „Ich brauche mehr Gehalt, Schichtdienst ist okay.“ → ____
+4. „Ich kann nur von zu Hause aus arbeiten.“ → ____
 5. „Ich pflege gern und brauche eine Wohnung beim Arbeitsplatz.“
+   → ____
 
-{{< details type="tip" title="Lösungen" >}}
+{{< details type="tip" title="Lösungen (für Lehrkräfte)" >}}
 1 = c · 2 = b · 3 = d · 4 = e · 5 = a.
-
+(Keine Anzeige passt hier doppelt; alle fünf werden genau einmal
+gebraucht — die zwei „Ablenker“ entstehen bei Varianten mit mehr
+Anzeigen.)
 {{< /details >}}
 
+**Punkte-Rubrik (Prüfung)**
 
-<div class="notes">
+| Leistung                    | Punkte |
+|-----------------------------|:------:|
+| Pro richtige Zuordnung      |   1    |
+| **Maximal (5 Situationen)** | **5**  |
 
-**Zeit:** Einstieg 8' · Input 15' · Üben 15' · Anwenden 18' ·
-Prüfungsvorschau 14'.
+*Hinweis: Eine Audio-Version ist für dieses Modul nicht nötig
+(Modul Lesen).*
 
-</div>
+## Reflexion
 
-## Häufige Stolperfallen
+- [ ] Ich unterscheide Vollzeit, Teilzeit und Schichtdienst.
+- [ ] Ich finde in einer Anzeige Beruf, Arbeitszeit, Gehalt und
+      Beginn.
+- [ ] Ich ordne eine Anzeige meiner Wunschsituation zu.
+- [ ] Ich bilde einen Satz mit *weil* (Verb am Ende).
+- [ ] Ich schreibe eine kurze Bewerbungs-E-Mail (ca. 50 Wörter).
 
-- **brutto / netto:** brutto = vor Abzug; netto = nach Steuer.
-- **Kollektivvertrag (AT/CH)** ≈ Tarifvertrag (DE) ≈ Mindestlohn
-  plus Branchenvereinbarung.
-- **„Beginn“ vs. „Start“:** beides ok in Anzeigen, Beginn etwas
-  formeller.
+## Hinweise für Lehrkräfte
 
-## Weiterführende Materialien
+**Zeitplan (45 Minuten)**
 
-- **AMS Österreich — Jobsuche**:
-  <https://www.ams.at/>
-- **BA Deutschland — Jobbörse**:
-  <https://www.arbeitsagentur.de/jobsuche/>
-- **RAV Schweiz — Regionale Arbeitsvermittlungszentren**:
-  <https://www.arbeit.swiss/>
+| Phase      | Zeit  | Sozialform                          |
+|------------|:-----:|-------------------------------------|
+| Einstieg   |  8'   | Plenum, Dialog vorlesen             |
+| Input      | 12'   | Plenum + Partnerarbeit (Wortschatz) |
+| Üben       | 13'   | Einzel- / Partnerarbeit             |
+| Anwenden   |  8'   | Einzelarbeit, dann Austausch        |
+| Prüfung    |  4'   | Einzelarbeit (Vorschau)             |
+
+**Gruppierung.** Aufgabe 1 und 2 in Partnerarbeit (Lesen und
+Vergleichen), Aufgabe 3 und die Schreibaufgabe in Einzelarbeit.
+
+**Differenzierung.** Schnelle Lernende schreiben eine zweite
+Bewerbungsmail zu Anzeige (d). Langsamere Lernende bekommen die
+Redemittel aus Input D als Satzanfänge auf einem Streifen.
+
+**Tipp.** Lassen Sie die Schlüsselwörter in den Anzeigen markieren
+(*Vollzeit, Wochenende, Schicht, brutto*), bevor die Zuordnung
+beginnt. Das trainiert das selektive Lesen für Teil 4.
+
+## Quellen
+
+- „Stellenausschreibung“ — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Stellenausschreibung>, CC BY-SA 4.0.
+- „Bewerbung“ — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Bewerbung>, CC BY-SA 4.0.
+- Alle Stellenanzeigen, Dialoge und Texte in dieser Einheit sind
+  eigene Originaltexte des Autors (A2), keine kommerziellen Vorlagen.

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: medien-im-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit10_medien-im-alltag.pptx
+  file: /daf/materials/presentations/unit10_medien-im-alltag.odp
   thumbnail: /daf/materials/presentations/unit10_medien-im-alltag.png
 worksheet:
   file: /daf/materials/worksheets/unit10_medien-im-alltag.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-hoeren
 - skill-lesen
 - topic-kommunikation
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -42,158 +42,243 @@ date: '2026-05-04T19:53:22+02:00'
 
 ## Lernziele
 
-- Ich verstehe fünf Radio-Durchsagen.
-- Ich erkenne Überschrift + Leitfrage in einer Zeitungsmeldung.
-- Ich nenne drei öffentlich-rechtliche Medien aus DACH.
+- Ich kann in einem kurzen Interview verstehen, welche Medien eine Person nutzt.
+- Ich kann Zahlen und Zeitangaben zur Bildschirmzeit (Screen Time) heraushören.
+- Ich kann mit *weil* und *dass* sagen, warum ich ein Medium nutze.
+- Ich kann über meine eigenen Mediengewohnheiten sprechen und drei deutschsprachige Medien nennen.
 
-## GER-Ausrichtung
+**Aus dem GER-Kompetenzprofil dieser Einheit:**
 
-Prüfungsmodul **Hören** — Teil 1 (Radio-Durchsagen, MC-3gl,
-einmaliges Hören).
+- Ich verstehe kurze Radionachrichten.
+- Ich lese einfache Zeitungsmeldungen.
+- Ich nenne drei deutschsprachige Medien.
 
-## Einstiegsgeschichte
+## Einstieg
 
-**Maja** hört im Auto das Radio auf dem Weg zur Arbeit. Radio
-Ö1 — Nachrichten um 8 Uhr:
+**Eine Szene am Frühstückstisch.** Omar und seine Schwester Lena
+sitzen morgens in der Küche.
 
-> „Guten Morgen. Das ist Ö1. Die Nachrichten.
-> In Wien öffnet heute das neue Kulturmuseum. Der Eintritt ist
-> drei Monate frei.
-> In Basel wird die Fasnacht vorbereitet, das Wetter wird kalt.
-> Der Verkehr auf der A1 bei Linz läuft gut.
-> Die Wirtschaftsnachrichten …“
-
-## 1. Einstieg
-
-- Welche deutschsprachigen Sender kennen Sie?
-- Radio, Podcast, Zeitung oder Social Media — was nutzen Sie am
-  meisten?
-- Welche Nachrichten-Quelle ist seriös?
-
-## 2. Input
-
-### A. Fünf kurze Radio-Durchsagen
-
-> **a)** „In Wien eröffnet heute das Kulturmuseum. Eintritt drei
-> Monate frei.“
-
-> **b)** „In Graz fährt heute ab 10 Uhr die neue Tramlinie 6.“
-
-> **c)** „Wetter Zürich: Regen ab Mittag, 14 Grad.“
-
-> **d)** „Staumeldung: A1 bei Linz 3 km Stau wegen Unfall.“
-
-> **e)** „Die Schweizer Nationalbank senkt den Leitzins um 0,25
-> Prozentpunkte.“
-
-### B. Kurze Zeitungsmeldung (original)
-
-> **Neue Tramlinie 6 in Graz startet**
+> **Omar:** Du bist schon wieder am Handy! Was liest du denn?
 >
-> Die Grazer Verkehrsbetriebe haben heute die Tramlinie 6
-> eröffnet. Sie verbindet den Hauptbahnhof mit dem Stadtteil Lend.
-> Die Fahrzeit beträgt zwölf Minuten.
+> **Lena:** Die Nachrichten. Ich schaue jeden Morgen kurz auf die
+> App, weil ich wissen will, wie das Wetter wird.
+>
+> **Omar:** Ich höre lieber einen Podcast im Bus. Fernsehen finde
+> ich langweilig.
+>
+> **Lena:** Aber du bist auch drei Stunden am Tag am Handy!
 
-### C. Medien-Wortschatz
+**Aktivierungsfragen:**
 
-| Wort               | Bedeutung                          |
-|--------------------|------------------------------------|
-| die Nachrichten    | the news                           |
-| die Meldung        | report                             |
-| der Sender         | broadcaster                        |
-| die Überschrift    | headline                           |
-| die Quelle         | source                             |
-| seriös / boulevard | serious / tabloid                  |
+- Welches Medium nutzen Sie am Morgen zuerst?
+- Wie viele Stunden pro Tag sind Sie am Handy?
+- Podcast, Radio, Zeitung oder Social Media — was mögen Sie am liebsten?
 
-## 3. Üben
+## Input
 
-**Aufgabe 1 — Zuordnung.** Welche Durchsage (a–e) gehört in
-welche Rubrik?
+### A. Wortschatz „Medien und Bildschirmzeit"
 
-- Kultur — _________
-- Verkehr — _________
-- Wetter — _________
-- Stau — _________
-- Wirtschaft — _________
+| Wort                     | Bedeutung                         |
+|--------------------------|-----------------------------------|
+| die Medien (Pl.)         | media                             |
+| die Bildschirmzeit       | screen time                       |
+| die Nachrichten (Pl.)    | the news                          |
+| der Podcast, -s          | podcast                           |
+| die App, -s              | app                               |
+| der Bildschirm, -e       | screen                            |
+| nutzen                   | to use                            |
+| weglegen                 | to put away / put down            |
+| ungefähr                 | approximately, about              |
+| pro Tag                  | per day                           |
 
-**Aufgabe 2 — Zur Zeitungsmeldung B.** Ergänzen Sie:
+### B. Grammatik-Box: Nebensatz mit *weil* und *dass*
 
-1. Was ist neu? Die Tramlinie ___.
-2. Wer hat sie eröffnet? ___.
-3. Wie lange ist die Fahrzeit? ___.
+Im Nebensatz mit **weil** (Grund) und **dass** (Inhalt) steht das
+**Verb am Ende**.
 
-**Aufgabe 3 — Wortschatz.** Welche Wörter gehören zu „Medien“?
+| Hauptsatz              | Nebensatz                                   |
+|------------------------|---------------------------------------------|
+| Ich lese die App,      | **weil** ich die Nachrichten wissen **will**. |
+| Ich schaue kein TV,    | **weil** ich keine Zeit **habe**.           |
+| Ich glaube,            | **dass** ich zu viel am Handy **bin**.      |
+
+> **Merke:** Nach *weil* / *dass* → Subjekt … Rest … **Verb ganz
+> hinten**. Bei Modalverben steht das Modalverb am Ende:
+> *… weil ich wissen **will**.*
+
+### C. Hörtext (zum Vorlesen) — „Interview über Bildschirmzeit"
+
+*Die Lehrkraft liest den Text zweimal langsam vor. Eine
+Audio-Aufnahme kann später ergänzt werden.*
+
+> **Interviewerin:** Nadia, wie viel Zeit verbringst du pro Tag am Handy?
+>
+> **Nadia:** Ungefähr drei Stunden. Am Morgen lese ich zuerst die
+> Nachrichten, weil ich wissen will, was in der Welt passiert.
+>
+> **Interviewerin:** Und welche Medien nutzt du noch?
+>
+> **Nadia:** Im Bus höre ich fast jeden Tag einen Podcast. Fernsehen
+> schaue ich fast nie, weil ich keine Zeit habe.
+>
+> **Interviewerin:** Glaubst du, dass du zu viel Zeit am Bildschirm bist?
+>
+> **Nadia:** Ja, das stimmt. Gestern habe ich vier Stunden auf das
+> Handy geschaut. Deshalb möchte ich am Abend das Handy weglegen
+> und ein Buch lesen.
+
+### D. Landeskunde (paraphrasiert)
+
+Die *ARD/ZDF-Onlinestudie* untersucht seit 1997 die Mediennutzung
+in Deutschland. Nach dieser Studie nutzen etwa 96 % der Menschen ab
+14 Jahren das Internet. Im Durchschnitt sind die Menschen ungefähr
+zweieinhalb Stunden pro Tag online. Am beliebtesten sind Online-Videos
+und Audio-Angebote wie Podcasts. *(Quelle unten, CC BY-SA 4.0.)*
+
+## Üben
+
+**Aufgabe 1 — Richtig oder falsch?** (zum Hörtext C)
+
+| Aussage                                             | R | F |
+|-----------------------------------------------------|---|---|
+| 1. Nadia ist ungefähr drei Stunden am Handy.        |   |   |
+| 2. Am Morgen liest sie zuerst die Nachrichten.      |   |   |
+| 3. Nadia schaut jeden Tag viel Fernsehen.           |   |   |
+| 4. Am Abend möchte sie ein Buch lesen.              |   |   |
+
+**Aufgabe 2 — Details heraushören.** Ergänzen Sie die Zahlen und Wörter.
+
+1. Nadia ist ungefähr ______ Stunden pro Tag am Handy.
+2. Im Bus hört sie einen ______.
+3. Gestern hat sie ______ Stunden auf das Handy geschaut.
+
+**Aufgabe 3 — Sätze mit *weil* bilden.** Verbinden Sie.
+
+1. Ich lese die App, weil …  (a) ich keine Zeit / haben
+2. Ich schaue kein TV, weil … (b) ich die Nachrichten / wissen wollen
+3. Ich lege das Handy weg, weil … (c) ich ein Buch / lesen möchten
+
+**Aufgabe 4 — Wortschatz.** Welche Wörter gehören zu „Medien"?
 Kreuzen Sie an.
 
-- Zeitung ✓ · Regen · Sender ✓ · Teller · Überschrift ✓ · Kopf
+- Podcast · Teller · Nachrichten · Fenster · App · Bildschirm · Löffel
+
+**Niveau-Differenzierung:**
+
+- **A2.1 (leichter):** Aufgabe 1 und 4. Die Lehrkraft liest den
+  Hörtext dreimal.
+- **A2.2 (schwerer):** Aufgabe 2 und 3. Zusätzlich: Schreiben Sie
+  einen eigenen *weil*-Satz über Ihr Lieblingsmedium.
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** Kultur = a · Verkehr = b · Wetter = c · Stau = d ·
-Wirtschaft = e.
+**Aufgabe 1.** 1) R · 2) R · 3) F (fast nie) · 4) R.
 
-**Aufgabe 2.** 1) (Linie) 6 · 2) die Grazer Verkehrsbetriebe ·
-3) 12 Minuten.
+**Aufgabe 2.** 1) drei · 2) Podcast · 3) vier.
 
-**Aufgabe 3.** Zeitung, Sender, Überschrift.
+**Aufgabe 3.** 1–b (… weil ich die Nachrichten wissen **will**) ·
+2–a (… weil ich keine Zeit **habe**) ·
+3–c (… weil ich ein Buch lesen **möchte**).
 
-{{< /details >}}
-
-## 4. Anwenden
-
-**Mini-Kurzmeldung schreiben (A2):** Schreiben Sie **eine**
-Radio-Durchsage in 2 Sätzen zu Ihrer Stadt oder Region (Kultur,
-Verkehr, Wetter oder Sport).
-
-## 5. Reflexion
-
-- [ ] Ich ordne 5 Durchsagen den Rubriken zu.
-- [ ] Ich verstehe Details in einer Zeitungsmeldung.
-- [ ] Ich schreibe eine 2-Satz-Durchsage.
-
-## Prüfungsbeispiel — GER A2 Hören, Teil 1
-
-**Aufgabenstellung:** Sie hören fünf Radio-Durchsagen (einmal).
-Wählen Sie bei jeder die richtige Lösung a/b/c.
-
-1. In Wien eröffnet heute …
-   a) eine Schule · b) ein Kulturmuseum · c) ein Krankenhaus.
-
-2. Die Tram 6 in Graz fährt ab …
-   a) 8 Uhr · b) 10 Uhr · c) 12 Uhr.
-
-3. Das Wetter in Zürich heute …
-   a) sonnig · b) regnerisch ab Mittag · c) schneit.
-
-4. Auf der A1 bei Linz …
-   a) ist frei · b) 3 km Stau · c) Umleitung.
-
-5. Die Schweizer Nationalbank …
-   a) erhöht den Zins · b) senkt um 0,25 Pp. · c) lässt gleich.
-
-{{< details type="tip" title="Lösungen" >}}
-1. b · 2. b · 3. b · 4. b · 5. b.
+**Aufgabe 4.** Podcast, Nachrichten, App, Bildschirm.
 
 {{< /details >}}
 
+## Anwenden
 
-<div class="notes">
+**Partner-Interview (Sprechen, A2).** Fragen Sie Ihre Partnerin /
+Ihren Partner nach den Mediengewohnheiten. Nutzen Sie mindestens
+**einen *weil*-Satz**.
 
-**Zeit:** Einstieg 5' · Input 12' · Üben 13' · Anwenden 12' ·
-Prüfungsvorschau 8'.
+Mögliche Fragen:
 
-</div>
+- Wie viele Stunden bist du pro Tag am Handy?
+- Welche Medien nutzt du (Radio, Podcast, App, Social Media)?
+- Warum nutzt du dieses Medium?
 
-## Häufige Stolperfallen
+Notieren Sie danach **drei Sätze** über Ihre Partnerin / Ihren Partner,
+z. B.: *„Sara hört jeden Tag Podcasts, weil sie gern Sprachen lernt."*
 
-- **„die Nachrichten“** nur Plural, kein Singular „*die Nachricht*“
-  in diesem Sinn (eine Nachricht = *a message*).
-- **„Eintritt frei“** = Eintritt = 0 €.
-- **„öffnen / eröffnen“:** *eröffnen* für erste Öffnung / Eröffnung
-  eines Ortes; *öffnen* generell.
+**Bewertungskriterien:**
 
-## Weiterführende Materialien
+| Kriterium                                   | Punkte |
+|---------------------------------------------|--------|
+| Zwei sinnvolle Fragen gestellt              | 2      |
+| Mindestens ein korrekter *weil*-Satz        | 2      |
+| Drei Sätze über die Partnerin / den Partner | 2      |
+| Verständliche Aussprache                    | 2      |
+| **Gesamt**                                  | **8**  |
 
-- **Ö1 Journal**: <https://oe1.orf.at/journale>
-- **DW Nachrichten — leichtes Deutsch**:
-  <https://learngerman.dw.com/>
+## Prüfung
+
+**GER A2 — Modul Hören**
+
+**Aufgabenstellung:** Sie hören ein kurzes Interview über
+Bildschirmzeit. Die Lehrkraft liest den Text (Hörtext C) **zweimal**
+langsam vor. Kreuzen Sie bei jeder Aufgabe die richtige Lösung an
+(a / b / c).
+
+1. Nadia ist pro Tag ungefähr …
+   a) eine Stunde · b) drei Stunden · c) fünf Stunden am Handy.
+
+2. Am Morgen liest Nadia zuerst …
+   a) ein Buch · b) die Nachrichten · c) eine E-Mail.
+
+3. Im Bus …
+   a) hört sie einen Podcast · b) schaut sie fern · c) schläft sie.
+
+4. Fernsehen schaut Nadia …
+   a) jeden Tag · b) fast nie · c) am Abend.
+
+5. Am Abend möchte Nadia …
+   a) einen Film schauen · b) das Handy weglegen · c) telefonieren.
+
+**Punkte-Rubrik:**
+
+| Aufgabe | 1 | 2 | 3 | 4 | 5 | Gesamt |
+|---------|---|---|---|---|---|--------|
+| Punkte  | 1 | 1 | 1 | 1 | 1 | **5**  |
+
+*Bestanden ab 3 von 5 Punkten. Hinweis: Eine Audio-Aufnahme kann
+später ergänzt werden; bis dahin liest die Lehrkraft den Text vor.*
+
+{{< details type="tip" title="Lösungen Prüfung" >}}
+1. b · 2. b · 3. a · 4. b · 5. b.
+
+{{< /details >}}
+
+## Reflexion
+
+- [ ] Ich verstehe in einem kurzen Interview, welche Medien eine Person nutzt.
+- [ ] Ich höre Zahlen und Zeitangaben (Stunden pro Tag) richtig heraus.
+- [ ] Ich bilde einen Satz mit *weil* über mein Lieblingsmedium.
+- [ ] Ich nenne drei deutschsprachige Medien.
+
+## Hinweise für Lehrkräfte
+
+**Zeitplan (45 Minuten):**
+
+- Einstieg (Szene + Fragen): 5'
+- Input (Wortschatz, Grammatik, Hörtext, Landeskunde): 13'
+- Üben (Aufgaben 1–4): 12'
+- Anwenden (Partner-Interview): 10'
+- Prüfungsvorschau + Reflexion: 5'
+
+**Gruppen:** Einstieg im Plenum; Aufgaben 1–2 in Einzelarbeit
+(einmaliges bzw. mehrmaliges Vorlesen); Aufgabe 3–4 in Partnerarbeit;
+Anwenden in festen Paaren.
+
+**Differenzierung:** Für A2.1 den Hörtext dreimal vorlesen und die
+Zahlen an die Tafel schreiben. Für A2.2 den Hörtext nur einmal
+vorlesen und zusätzlich einen freien *weil*-Satz verlangen.
+
+**Stolperfallen:** „die Nachrichten" ist Plural (eine Nachricht =
+*a message*). Im *weil*-Satz steht das Verb am Ende — bei Modalverben
+das Modalverb (*… weil ich wissen will*).
+
+## Quellen
+
+- **ARD/ZDF-Onlinestudie** — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/ARD/ZDF-Onlinestudie>, Lizenz: CC BY-SA 4.0.
+- Alle Dialoge, der Hörtext und die Übungstexte sind Originaltexte der
+  Autorin (S. Le Boulanger), erstellt für diese Einheit.

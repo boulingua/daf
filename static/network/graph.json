@@ -721,7 +721,7 @@
       "id": "pres-kurs_a2-arbeitssuche-und-stellenanzeige",
       "type": "presentation",
       "title": "Einheit 1 — Arbeitssuche und Stellenanzeige",
-      "url": "/daf/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.pptx",
+      "url": "/daf/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.odp",
       "thumbnail": "/daf/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.png",
       "parent_article": "article-kurs_a2-arbeitssuche-und-stellenanzeige",
       "course": "kurs_a2",
@@ -734,7 +734,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-arbeitssuche-und-stellenanzeige",
@@ -753,7 +753,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-arbeitssuche-und-stellenanzeige",
@@ -781,7 +781,7 @@
       "id": "pres-kurs_a2-wohnung-mieten",
       "type": "presentation",
       "title": "Einheit 2 — Wohnung mieten",
-      "url": "/daf/materials/presentations/unit02_wohnung-mieten.pptx",
+      "url": "/daf/materials/presentations/unit02_wohnung-mieten.odp",
       "thumbnail": "/daf/materials/presentations/unit02_wohnung-mieten.png",
       "parent_article": "article-kurs_a2-wohnung-mieten",
       "course": "kurs_a2",
@@ -794,7 +794,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-wohnung-mieten",
@@ -813,7 +813,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-wohnung-mieten",
@@ -841,7 +841,7 @@
       "id": "pres-kurs_a2-beim-arzt",
       "type": "presentation",
       "title": "Einheit 3 — Beim Arzt und in der Apotheke",
-      "url": "/daf/materials/presentations/unit03_beim-arzt.pptx",
+      "url": "/daf/materials/presentations/unit03_beim-arzt.odp",
       "thumbnail": "/daf/materials/presentations/unit03_beim-arzt.png",
       "parent_article": "article-kurs_a2-beim-arzt",
       "course": "kurs_a2",
@@ -854,7 +854,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-beim-arzt",
@@ -873,7 +873,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-beim-arzt",
@@ -901,7 +901,7 @@
       "id": "pres-kurs_a2-im-amt",
       "type": "presentation",
       "title": "Einheit 4 — Im Amt: Formulare und Termine",
-      "url": "/daf/materials/presentations/unit04_im-amt.pptx",
+      "url": "/daf/materials/presentations/unit04_im-amt.odp",
       "thumbnail": "/daf/materials/presentations/unit04_im-amt.png",
       "parent_article": "article-kurs_a2-im-amt",
       "course": "kurs_a2",
@@ -914,7 +914,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-im-amt",
@@ -933,7 +933,7 @@
         "topic-gesellschaft"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-im-amt",
@@ -961,7 +961,7 @@
       "id": "pres-kurs_a2-reiseplanung",
       "type": "presentation",
       "title": "Einheit 5 — Reiseplanung mit Budget",
-      "url": "/daf/materials/presentations/unit05_reiseplanung.pptx",
+      "url": "/daf/materials/presentations/unit05_reiseplanung.odp",
       "thumbnail": "/daf/materials/presentations/unit05_reiseplanung.png",
       "parent_article": "article-kurs_a2-reiseplanung",
       "course": "kurs_a2",
@@ -974,7 +974,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-reiseplanung",
@@ -993,7 +993,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-reiseplanung",
@@ -1021,7 +1021,7 @@
       "id": "pres-kurs_a2-hobbys-und-vereine",
       "type": "presentation",
       "title": "Einheit 6 — Hobbys und Vereine",
-      "url": "/daf/materials/presentations/unit06_hobbys-und-vereine.pptx",
+      "url": "/daf/materials/presentations/unit06_hobbys-und-vereine.odp",
       "thumbnail": "/daf/materials/presentations/unit06_hobbys-und-vereine.png",
       "parent_article": "article-kurs_a2-hobbys-und-vereine",
       "course": "kurs_a2",
@@ -1034,7 +1034,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-hobbys-und-vereine",
@@ -1053,7 +1053,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-hobbys-und-vereine",
@@ -1081,7 +1081,7 @@
       "id": "pres-kurs_a2-feste-und-traditionen",
       "type": "presentation",
       "title": "Einheit 7 — Feste und Traditionen im DACH-Raum",
-      "url": "/daf/materials/presentations/unit07_feste-und-traditionen.pptx",
+      "url": "/daf/materials/presentations/unit07_feste-und-traditionen.odp",
       "thumbnail": "/daf/materials/presentations/unit07_feste-und-traditionen.png",
       "parent_article": "article-kurs_a2-feste-und-traditionen",
       "course": "kurs_a2",
@@ -1094,7 +1094,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-feste-und-traditionen",
@@ -1113,7 +1113,7 @@
         "topic-kultur"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-feste-und-traditionen",
@@ -1141,7 +1141,7 @@
       "id": "pres-kurs_a2-gestern-und-vergangenheit",
       "type": "presentation",
       "title": "Einheit 8 — Gestern — Ereignisse erzählen",
-      "url": "/daf/materials/presentations/unit08_gestern-und-vergangenheit.pptx",
+      "url": "/daf/materials/presentations/unit08_gestern-und-vergangenheit.odp",
       "thumbnail": "/daf/materials/presentations/unit08_gestern-und-vergangenheit.png",
       "parent_article": "article-kurs_a2-gestern-und-vergangenheit",
       "course": "kurs_a2",
@@ -1154,7 +1154,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-gestern-und-vergangenheit",
@@ -1173,7 +1173,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-gestern-und-vergangenheit",
@@ -1201,7 +1201,7 @@
       "id": "pres-kurs_a2-plaene-und-zukunft",
       "type": "presentation",
       "title": "Einheit 9 — Pläne und Zukunft",
-      "url": "/daf/materials/presentations/unit09_plaene-und-zukunft.pptx",
+      "url": "/daf/materials/presentations/unit09_plaene-und-zukunft.odp",
       "thumbnail": "/daf/materials/presentations/unit09_plaene-und-zukunft.png",
       "parent_article": "article-kurs_a2-plaene-und-zukunft",
       "course": "kurs_a2",
@@ -1214,7 +1214,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-plaene-und-zukunft",
@@ -1233,7 +1233,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-plaene-und-zukunft",
@@ -1261,7 +1261,7 @@
       "id": "pres-kurs_a2-medien-im-alltag",
       "type": "presentation",
       "title": "Einheit 10 — Medien im Alltag",
-      "url": "/daf/materials/presentations/unit10_medien-im-alltag.pptx",
+      "url": "/daf/materials/presentations/unit10_medien-im-alltag.odp",
       "thumbnail": "/daf/materials/presentations/unit10_medien-im-alltag.png",
       "parent_article": "article-kurs_a2-medien-im-alltag",
       "course": "kurs_a2",
@@ -1274,7 +1274,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-medien-im-alltag",
@@ -1293,7 +1293,7 @@
         "topic-kommunikation"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-medien-im-alltag",
@@ -1321,7 +1321,7 @@
       "id": "pres-kurs_a2-umwelt-und-alltag",
       "type": "presentation",
       "title": "Einheit 11 — Umwelt im Alltag: Müll trennen, sparen",
-      "url": "/daf/materials/presentations/unit11_umwelt-und-alltag.pptx",
+      "url": "/daf/materials/presentations/unit11_umwelt-und-alltag.odp",
       "thumbnail": "/daf/materials/presentations/unit11_umwelt-und-alltag.png",
       "parent_article": "article-kurs_a2-umwelt-und-alltag",
       "course": "kurs_a2",
@@ -1334,7 +1334,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-umwelt-und-alltag",
@@ -1353,7 +1353,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-umwelt-und-alltag",
@@ -1381,7 +1381,7 @@
       "id": "pres-kurs_a2-freundschaft-und-familiengeschichte",
       "type": "presentation",
       "title": "Einheit 12 — Freundschaft und Familiengeschichte",
-      "url": "/daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.pptx",
+      "url": "/daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.odp",
       "thumbnail": "/daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.png",
       "parent_article": "article-kurs_a2-freundschaft-und-familiengeschichte",
       "course": "kurs_a2",
@@ -1394,7 +1394,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_a2-freundschaft-und-familiengeschichte",
@@ -1413,7 +1413,7 @@
         "topic-alltag"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_a2-freundschaft-und-familiengeschichte",
@@ -1561,7 +1561,7 @@
       "id": "pres-kurs_b1-weiterbildung-und-studium",
       "type": "presentation",
       "title": "Einheit 3 — Weiterbildung und Studium",
-      "url": "/daf/materials/presentations/unit03_weiterbildung-und-studium.pptx",
+      "url": "/daf/materials/presentations/unit03_weiterbildung-und-studium.odp",
       "thumbnail": "/daf/materials/presentations/unit03_weiterbildung-und-studium.png",
       "parent_article": "article-kurs_b1-weiterbildung-und-studium",
       "course": "kurs_b1",
@@ -1574,7 +1574,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b1-weiterbildung-und-studium",
@@ -1593,7 +1593,7 @@
         "topic-arbeit"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b1-weiterbildung-und-studium",
@@ -2581,7 +2581,7 @@
       "id": "pres-kurs_b2-umweltpolitik",
       "type": "presentation",
       "title": "Einheit 8 — Umweltpolitik: CO₂-Preis und Verteilungsfragen",
-      "url": "/daf/materials/presentations/unit08_umweltpolitik.pptx",
+      "url": "/daf/materials/presentations/unit08_umweltpolitik.odp",
       "thumbnail": "/daf/materials/presentations/unit08_umweltpolitik.png",
       "parent_article": "article-kurs_b2-umweltpolitik",
       "course": "kurs_b2",
@@ -2594,7 +2594,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "ws-kurs_b2-umweltpolitik",
@@ -2613,7 +2613,7 @@
         "topic-umwelt"
       ],
       "date": "2026-05-04T19:53:22+02:00",
-      "materials_status": "placeholder"
+      "materials_status": "ready"
     },
     {
       "id": "article-kurs_b2-umweltpolitik",

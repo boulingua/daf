@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: hobbys-und-vereine
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit06_hobbys-und-vereine.pptx
+  file: /daf/materials/presentations/unit06_hobbys-und-vereine.odp
   thumbnail: /daf/materials/presentations/unit06_hobbys-und-vereine.png
 worksheet:
   file: /daf/materials/worksheets/unit06_hobbys-und-vereine.pdf
@@ -29,7 +29,7 @@ tags:
 - skill-sprechen
 - skill-hoeren
 - topic-kultur
-materials_status: placeholder
+materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
 ---
@@ -39,140 +39,267 @@ date: '2026-05-04T19:53:22+02:00'
 
 {{< /callout >}}
 
-
 ## Lernziele
 
-- Ich spreche 90 Sekunden über ein eigenes Hobby.
-- Ich verstehe einen Radio-Ausschnitt über einen Verein.
-- Ich frage nach Mitgliedschaft und Kosten.
+- Ich kann 90 Sekunden lang über ein eigenes Hobby sprechen.
+- Ich kann sagen, seit wann und wie oft ich etwas mache.
+- Ich kann Fragen zur Mitgliedschaft und zu den Kosten stellen.
+- Ich kann kurz erklären, warum mir ein Hobby gefällt (mit *weil*).
+- Ich beschreibe meine Hobbys mit mehr Detail.
+- Ich verstehe einen Radiobeitrag über einen Verein.
+- Ich stelle Fragen zur Mitgliedschaft.
 
-## GER-Ausrichtung
+## Einstieg
 
-Prüfungsmodul **Sprechen** — Teil 2: Produktion, ausführliche
-Informationen zum eigenen Leben geben.
+**Eine kleine Szene: nach dem Deutschkurs**
 
-## Einstiegsgeschichte
-
-**Omar** hat sich einem Fotoclub in Graz angeschlossen. Jeden
-Mittwochabend: vier Fotograf:innen treffen sich im Café „Zum
-Keks“ (wie Herr Keks aus A1 — Kamea ist sein Neffe, der den
-Grazer Ableger betreibt).
-
-## 1. Einstieg
-
-- Sind Sie in einem Verein oder Club?
-- Welche Hobbys haben Sie — und wie oft?
-- Wie viel kostet Vereinsmitgliedschaft bei Ihnen?
-
-## 2. Input
-
-### A. Radio-Ausschnitt
-
-> „Heute im Bezirksradio Graz: der Fotoclub Graz-Mitte. Gast:
-> Omar Hafez. Omar, wie hast du den Club gefunden?“
+> **Lea:** Was machst du eigentlich am Wochenende?
 >
-> „Ein Freund hat mir erzählt. Wir treffen uns jeden Mittwoch
-> um 19 Uhr, machen Fotos, besprechen sie. Ich bin seit drei
-> Monaten Mitglied.“
+> **Omar:** Am Samstag gehe ich immer zum Fotoclub. Wir treffen
+> uns jede Woche und machen zusammen Fotos.
 >
-> „Wie viel kostet die Mitgliedschaft?“
+> **Lea:** Oh, interessant! Seit wann bist du im Club?
 >
-> „Dreißig Euro pro Jahr. Für Studierende fünfzehn.“
+> **Omar:** Seit drei Monaten. Ich finde es toll, weil ich viele
+> nette Leute kennenlerne.
 >
-> „Was war dein Lieblingsprojekt bisher?“
+> **Lea:** Und was kostet das?
 >
-> „Ein Spaziergang durch Graz-Lend — Fotos von alten Türen.“
+> **Omar:** Nur dreißig Euro pro Jahr. Komm doch mal mit!
 
-### B. Redemittel
+**Aktivierungsfragen:**
 
-| Funktion              | Beispiel                                        |
-|-----------------------|-------------------------------------------------|
-| Häufigkeit            | *jeden Mittwoch, einmal pro Woche, monatlich*  |
-| Mitgliedschaft        | *Seit X bin ich Mitglied.*                     |
-| Bewertung             | *Besonders gefällt mir …*                      |
-| Fragen                | *Wie werde ich Mitglied? / Was kostet das?*    |
+1. Sind Sie in einem Verein oder Club? In welchem?
+2. Welche Hobbys haben Sie — und wie oft machen Sie das?
+3. Was kostet eine Mitgliedschaft bei Ihnen ungefähr?
 
-## 3. Üben
+## Input
 
-**Aufgabe 1 — Zum Hörtext.** Richtig oder falsch?
+### A. Vokabeltabelle
+
+| Deutsch                     | Wortart / Hinweis            | Beispielsatz                                  |
+|-----------------------------|------------------------------|-----------------------------------------------|
+| der Verein, -e              | Nomen (m)                    | Ich bin in einem Sportverein.                 |
+| die Mitgliedschaft, -en     | Nomen (f)                    | Die Mitgliedschaft kostet 30 Euro pro Jahr.   |
+| das Mitglied, -er           | Nomen (n)                    | Ich bin seit einem Jahr Mitglied.             |
+| der Beitrag, "-e            | Nomen (m) — die Kosten       | Der Beitrag ist nicht teuer.                  |
+| das Hobby, -s               | Nomen (n)                    | Mein Hobby ist Fotografieren.                 |
+| die Freizeit (nur Singular) | Nomen (f)                    | In meiner Freizeit lese ich gern.             |
+| trainieren                  | Verb                         | Wir trainieren jeden Dienstag.                |
+| beitreten (+ Dativ)         | Verb (trennbar)              | Ich möchte dem Club beitreten.                |
+| sich treffen                | Verb (reflexiv)              | Wir treffen uns jede Woche.                   |
+| gefallen (+ Dativ)          | Verb                         | Der Sport gefällt mir sehr.                   |
+| jeden Mittwoch              | Häufigkeit (Akkusativ)       | Jeden Mittwoch spiele ich Fußball.            |
+| einmal pro Woche            | Häufigkeit                   | Ich singe einmal pro Woche im Chor.           |
+
+### B. Grammatik-Box: *seit* + Dativ und *weil*-Sätze
+
+{{< callout type="info" >}}
+
+**1. Dauer mit *seit* + Dativ**
+
+*seit* zeigt, wie lange etwas schon dauert. Danach steht der **Dativ**.
+
+- *Ich bin **seit drei Monaten** Mitglied.* (nicht: ~~drei Monate~~)
+- *Wir wohnen **seit einem Jahr** in Graz.*
+- *Seit letztem Sommer* spiele ich Tennis.
+
+**2. Grund angeben mit *weil* (Nebensatz)**
+
+Nach *weil* steht das Verb am **Satzende**.
+
+- *Ich mache das gern, **weil** ich nette Leute **kennenlerne**.*
+- *Der Club **gefällt** mir, **weil** wir zusammen **fotografieren**.*
+
+**3. Häufigkeit**
+
+*jeden Tag · jede Woche · jeden Samstag* (Akkusativ, ohne Präposition) ·
+*einmal / zweimal pro Woche · monatlich*
+
+{{< /callout >}}
+
+### C. Hörtext (zum Vorlesen) — Radio-Ausschnitt
+
+> Die Lehrkraft liest den Text zweimal langsam vor.
+
+> **Moderatorin:** Heute im Bezirksradio Graz: der Fotoclub
+> Graz-Mitte. Unser Gast ist Omar Hafez. Omar, wie hast du den
+> Club gefunden?
+>
+> **Omar:** Ein Freund hat mir davon erzählt. Wir treffen uns
+> jeden Mittwoch um 19 Uhr. Wir machen Fotos und besprechen sie
+> zusammen. Ich bin seit drei Monaten Mitglied.
+>
+> **Moderatorin:** Und wie viel kostet die Mitgliedschaft?
+>
+> **Omar:** Dreißig Euro pro Jahr. Für Studierende sind es nur
+> fünfzehn Euro. Das ist nicht teuer.
+>
+> **Moderatorin:** Was war bisher dein Lieblingsprojekt?
+>
+> **Omar:** Ein Spaziergang durch Graz-Lend. Ich habe alte Türen
+> fotografiert. Das hat mir sehr gefallen, weil die Türen so
+> schön alt sind.
+>
+> **Moderatorin:** Vielen Dank, Omar, und weiterhin viel Spaß!
+
+### D. Kulturnotiz: Vereine in Deutschland
+
+In Deutschland ist das Vereinsleben sehr wichtig. Nach Angaben der
+deutschsprachigen Wikipedia gab es 2022 rund 600.000 Vereine — seit
+den 1970er-Jahren ist die Zahl also stark gewachsen. Besonders viele
+Menschen sind in Sportvereinen: etwa 86.400 Sportvereine hatten 2023
+zusammen rund 24 Millionen Mitglieder. Ein Verein mit mindestens
+sieben Mitgliedern kann sich beim Amtsgericht eintragen lassen und
+heißt dann *eingetragener Verein* (e. V.). Viele Menschen treffen
+dort Freunde und machen ihr Hobby gemeinsam.
+
+## Üben
+
+**Aufgabe 1 — Zum Hörtext. Richtig oder falsch?**
 
 1. Omar ist seit drei Monaten im Fotoclub.
 2. Der Club trifft sich jeden Donnerstag.
 3. Die Mitgliedschaft kostet 30 € pro Jahr.
 4. Für Studierende kostet es 15 € pro Monat.
+5. Omar hat alte Türen fotografiert.
 
-**Aufgabe 2 — Fragen bilden.** Fragen Sie:
+**Aufgabe 2 — Fragen bilden.** Schreiben Sie passende Fragen.
 
-1. Häufigkeit? → *___________________________________*
-2. Preis? → *___________________________________*
-3. Dauer der Mitgliedschaft? → *___________________________________*
+1. Häufigkeit? → *__________________________________________*
+2. Preis? → *__________________________________________*
+3. Dauer der Mitgliedschaft? → *_______________________________*
 
-**Aufgabe 3 — Satzanfänge.** Vervollständigen Sie in ganzen
-Sätzen:
+**Aufgabe 3 — *seit* + Dativ.** Ergänzen Sie die richtige Form.
 
-- *Seit zwei Jahren …*
-- *Jeden Samstag …*
-- *Besonders gefällt mir …*
+1. Ich spiele seit __________ (ein Jahr) Gitarre.
+2. Wir wohnen seit __________ (zwei Monate) in Wien.
+3. Sie ist seit __________ (letzter Sommer) im Chor.
+
+**Aufgabe 4 — *weil*-Sätze. Verbinden Sie die Sätze.**
+
+1. Ich gehe zum Fotoclub. Ich mache gern Fotos.
+   → Ich gehe zum Fotoclub, weil __________________________.
+2. Der Sport gefällt mir. Ich treffe nette Leute.
+   → Der Sport gefällt mir, weil __________________________.
+3. Omar ist glücklich. Der Beitrag ist billig.
+   → Omar ist glücklich, weil __________________________.
+
+{{< callout type="tip" >}}
+**Niveau-Differenzierung**
+
+- **A2 leichter:** Aufgabe 3 und 4 mündlich mit Partner:in; Satzanfänge
+  an der Tafel vorgeben.
+- **A2 stärker:** In Aufgabe 4 einen zweiten Grund mit *und* oder
+  *außerdem* hinzufügen; freie *weil*-Sätze über das eigene Hobby.
+{{< /callout >}}
 
 {{< details type="tip" title="Lösungen" >}}
 
-**Aufgabe 1.** 1) R · 2) F (Mittwoch) · 3) R · 4) F (pro Jahr).
+**Aufgabe 1.** 1) R · 2) F (Mittwoch) · 3) R · 4) F (pro Jahr) · 5) R.
 
-**Aufgabe 2.**
+**Aufgabe 2** (Beispiele).
 - Wie oft trifft sich der Club?
 - Wie viel kostet die Mitgliedschaft?
 - Seit wann bist du Mitglied?
 
-**Aufgabe 3.** Individuell.
+**Aufgabe 3.** 1) einem Jahr · 2) zwei Monaten · 3) letztem Sommer.
+
+**Aufgabe 4** (Beispiele).
+1. … weil ich gern Fotos mache.
+2. … weil ich nette Leute treffe.
+3. … weil der Beitrag billig ist.
 
 {{< /details >}}
 
-## 4. Anwenden
+## Anwenden
 
-**Mini-Vortrag (A2, ca. 90 Sekunden):** Sprechen Sie über ein
-Hobby oder einen Verein. Gliederung:
+**Mini-Vortrag (Sprechen, ca. 90 Sekunden):** Sprechen Sie über ein
+Hobby oder einen Verein. Nutzen Sie diese Gliederung:
 
-1. Was ist das Hobby? *Ich …*
-2. Seit wann? *Seit …*
-3. Wie oft / wo? *Jede Woche …*
-4. Was gefällt Ihnen? *Besonders gefällt mir …*
+1. **Was** ist das Hobby? — *Mein Hobby ist … / Ich bin in …*
+2. **Seit wann?** — *Ich mache das seit …*
+3. **Wie oft / wo?** — *Jede Woche … / Wir treffen uns …*
+4. **Warum gefällt es Ihnen?** — *Ich mache das gern, weil …*
 
-## 5. Reflexion
+**Bewertungskriterien**
 
-- [ ] Ich spreche 90 Sek. über mein Hobby.
-- [ ] Ich nenne Häufigkeit und Dauer.
-- [ ] Ich stelle drei Fragen zu einem Verein.
+| Kriterium                          | Beschreibung                              |
+|------------------------------------|-------------------------------------------|
+| Inhalt                             | Alle vier Punkte kommen vor.              |
+| *seit* + Dativ                     | mindestens einmal richtig verwendet       |
+| *weil*-Satz                        | mindestens ein Grund mit *weil*           |
+| Aussprache / Flüssigkeit           | verständlich, ohne lange Pausen           |
 
-## Prüfungsbeispiel — GER A2 Sprechen, Teil 2
+## Prüfung
 
-**Aufgabe:** Erzählen Sie Ihrer Prüfungspartnerin / Ihrem Prüfer
-etwas zum Thema „**Mein Hobby / Mein Verein**“. Sie bekommen ein
-Aufgabenblatt mit fünf Stichwörtern:
+**GER A2 Sprechen — Teil 2: Ein Thema präsentieren**
 
-- Name / Art
-- Wann / wie oft
-- Seit wann
-- Was gefällt
-- Kosten / Zugang
+**Aufgabe:** Erzählen Sie Ihrer Prüfungspartnerin / Ihrem Prüfer etwas
+zum Thema „**Mein Hobby / Mein Verein**“. Sie bekommen ein Aufgabenblatt
+mit fünf Stichwörtern. Sprechen Sie zu jedem Stichwort ein oder zwei
+Sätze (ca. 2–3 Minuten):
 
-**Dauer:** 2–3 Min. Der Prüfer stellt eine oder zwei Rückfragen.
+- **Name / Art** des Hobbys oder Vereins
+- **Wann / wie oft**
+- **Seit wann**
+- **Was gefällt** Ihnen (mit *weil*)
+- **Kosten / Zugang** (Beitrag, Mitgliedschaft)
 
+Danach stellt der Prüfer / die Prüferin **eine oder zwei Rückfragen**,
+z. B. *„Kann man einfach Mitglied werden?“* oder *„Wie viel kostet das
+im Jahr?“*
 
-<div class="notes">
+**Punkte-Rubrik (max. 10 Punkte)**
 
-**Zeit:** Einstieg 5' · Input 12' · Üben 13' · Anwenden 15' ·
-Prüfungsvorschau 10'.
+| Kriterium                                   | Punkte |
+|---------------------------------------------|:------:|
+| Alle fünf Stichwörter behandelt             |   3    |
+| *seit* + Dativ korrekt (Dauer)              |   2    |
+| Grund mit *weil* korrekt                    |   2    |
+| Rückfragen sinnvoll beantwortet             |   2    |
+| Aussprache / Verständlichkeit               |   1    |
+| **Gesamt**                                  | **10** |
 
-</div>
+## Reflexion
 
-## Häufige Stolperfallen
+Selbst-Check — kreuzen Sie an:
 
-- **„seit“ + Dativ:** *seit drei Monaten*, nicht *Monate*.
-- **„Mitgliedschaft“ (f)** ≠ **„Mitglied“ (n)**: *Ich bin Mitglied
-  / habe eine Mitgliedschaft.*
-- **„jeden Mittwoch“** ohne Präposition (Akkusativ der Zeit).
+- [ ] Ich kann 90 Sekunden über mein Hobby sprechen.
+- [ ] Ich kann *seit* + Dativ richtig verwenden (*seit drei Monaten*).
+- [ ] Ich kann einen Grund mit *weil* nennen.
+- [ ] Ich kann drei Fragen zu einem Verein stellen.
+- [ ] Ich verstehe die Hauptinformationen im Radio-Ausschnitt.
 
-## Weiterführende Materialien
+## Hinweise für Lehrkräfte
 
-- **ORF Bezirksradio**: <https://oe1.orf.at/>
-- **DW „Deutsche Vereine“** (A2-taugliche Erklärformate).
+**Zeitplan (45 Min.)**
+
+| Phase       | Zeit  | Sozialform / Hinweis                         |
+|-------------|:-----:|----------------------------------------------|
+| Einstieg    | 5'    | Plenum; Szene vorlesen, Fragen sammeln       |
+| Input       | 12'   | Plenum; Hörtext 2× vorlesen, Vokabelklärung  |
+| Üben        | 13'   | Partnerarbeit; Aufgabe 3/4 differenzieren    |
+| Anwenden    | 10'   | Einzelvorbereitung + Mini-Vortrag in Paaren  |
+| Prüfung/Reflexion | 5' | Prüfungsformat vorstellen; Selbst-Check     |
+
+**Gruppierung:** Für den Mini-Vortrag Paare bilden; eine Person spricht,
+die andere hört zu und stellt am Ende eine Rückfrage. Danach Rollen
+tauschen.
+
+**Differenzierung:** Schwächeren Lernenden Redemittel-Karten mit
+Satzanfängen geben (*Ich mache das seit … / Ich gehe gern …, weil …*).
+Stärkere Lernende bereiten zwei *weil*-Gründe vor und beantworten eine
+zusätzliche Rückfrage.
+
+**Hörtext:** Das Audio kann später ergänzt werden; bis dahin liest die
+Lehrkraft den Text unter Input C langsam und deutlich vor.
+
+## Quellen
+
+- *Verein* — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Verein>, Lizenz CC BY-SA 4.0.
+- *Sportverein* — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Sportverein>, Lizenz CC BY-SA 4.0.
+- *Vereinsrecht (Deutschland)* — Wikipedia-Autoren (abgerufen 2026-07-21),
+  <https://de.wikipedia.org/wiki/Vereinsrecht_(Deutschland)>, Lizenz CC BY-SA 4.0.
