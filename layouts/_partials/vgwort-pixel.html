@@ -39,7 +39,13 @@
       {{- else if findRE "^vg[a-z0-9]+\\.met\\.vgwort\\.de/" $t -}}{{- $url = printf "https://%s" $t -}}
       {{- else -}}{{- $url = printf "https://vg08.met.vgwort.de/na/%s" $t -}}
       {{- end -}}
-      <div style="display:inline"><img src="{{ $url }}" width="1" height="1" alt="" loading="lazy" referrerpolicy="no-referrer" /></div>
+      {{- /* VG Wort counting pixel: MUST load on page view, so force eager
+             loading + high fetch priority (never lazy — a lazy pixel below the
+             fold would not fire and would undercount reads). Hidden via
+             off-screen + visibility, which still loads (unlike display:none). */ -}}
+      <div style="display:inline"><img src="{{ $url }}" width="1" height="1" alt=""
+        loading="eager" fetchpriority="high" decoding="async" referrerpolicy="no-referrer"
+        style="position:absolute;left:-9999px;visibility:hidden" /></div>
     {{- end -}}
   {{- end -}}
 {{- end -}}
