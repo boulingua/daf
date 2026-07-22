@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: hobbys-und-vereine
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit06_hobbys-und-vereine.odp
+  file: /daf/materials/presentations/unit06_hobbys-und-vereine.pdf
   thumbnail: /daf/materials/presentations/unit06_hobbys-und-vereine.png
 worksheet:
   file: /daf/materials/worksheets/unit06_hobbys-und-vereine.pdf

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: migrationsdiskurs
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit06_migrationsdiskurs.odp
+  file: /daf/materials/presentations/unit06_migrationsdiskurs.pdf
   thumbnail: /daf/materials/presentations/unit06_migrationsdiskurs.png
 worksheet:
   file: /daf/materials/worksheets/unit06_migrationsdiskurs.pdf

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: medien-im-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit10_medien-im-alltag.odp
+  file: /daf/materials/presentations/unit10_medien-im-alltag.pdf
   thumbnail: /daf/materials/presentations/unit10_medien-im-alltag.png
 worksheet:
   file: /daf/materials/worksheets/unit10_medien-im-alltag.pdf

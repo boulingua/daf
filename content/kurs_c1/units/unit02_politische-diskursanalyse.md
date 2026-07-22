@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: politische-diskursanalyse
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit02_politische-diskursanalyse.odp
+  file: /daf/materials/presentations/unit02_politische-diskursanalyse.pdf
   thumbnail: /daf/materials/presentations/unit02_politische-diskursanalyse.png
 worksheet:
   file: /daf/materials/worksheets/unit02_politische-diskursanalyse.pdf

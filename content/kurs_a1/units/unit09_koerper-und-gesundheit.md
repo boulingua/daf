@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: koerper-und-gesundheit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit09_koerper-und-gesundheit.odp
+  file: /daf/materials/presentations/unit09_koerper-und-gesundheit.pdf
   thumbnail: /daf/materials/presentations/unit09_koerper-und-gesundheit.png
 worksheet:
   file: /daf/materials/worksheets/unit09_koerper-und-gesundheit.pdf

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: im-amt
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit04_im-amt.odp
+  file: /daf/materials/presentations/unit04_im-amt.pdf
   thumbnail: /daf/materials/presentations/unit04_im-amt.png
 worksheet:
   file: /daf/materials/worksheets/unit04_im-amt.pdf

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: arbeitswelt-im-wandel
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.odp
+  file: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.pdf
   thumbnail: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.png
 worksheet:
   file: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel.pdf

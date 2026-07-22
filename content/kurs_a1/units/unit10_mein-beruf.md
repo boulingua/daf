@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: mein-beruf
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit10_mein-beruf.odp
+  file: /daf/materials/presentations/unit10_mein-beruf.pdf
   thumbnail: /daf/materials/presentations/unit10_mein-beruf.png
 worksheet:
   file: /daf/materials/worksheets/unit10_mein-beruf.pdf

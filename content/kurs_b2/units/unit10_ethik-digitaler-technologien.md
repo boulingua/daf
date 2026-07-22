@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: ethik-digitaler-technologien
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit10_ethik-digitaler-technologien.odp
+  file: /daf/materials/presentations/unit10_ethik-digitaler-technologien.pdf
   thumbnail: /daf/materials/presentations/unit10_ethik-digitaler-technologien.png
 worksheet:
   file: /daf/materials/worksheets/unit10_ethik-digitaler-technologien.pdf

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: meine-wohnung
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit04_meine-wohnung.odp
+  file: /daf/materials/presentations/unit04_meine-wohnung.pdf
   thumbnail: /daf/materials/presentations/unit04_meine-wohnung.png
 worksheet:
   file: /daf/materials/worksheets/unit04_meine-wohnung.pdf

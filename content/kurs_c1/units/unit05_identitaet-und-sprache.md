@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: identitaet-und-sprache
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit05_identitaet-und-sprache.odp
+  file: /daf/materials/presentations/unit05_identitaet-und-sprache.pdf
   thumbnail: /daf/materials/presentations/unit05_identitaet-und-sprache.png
 worksheet:
   file: /daf/materials/worksheets/unit05_identitaet-und-sprache.pdf

@@ -13,7 +13,7 @@ pruefungs_module:
 unit_slug: meine-familie
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit02_meine-familie.odp
+  file: /daf/materials/presentations/unit02_meine-familie.pdf
   thumbnail: /daf/materials/presentations/unit02_meine-familie.png
 worksheet:
   file: /daf/materials/worksheets/unit02_meine-familie.pdf

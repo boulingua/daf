@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: stilistik-und-rhetorik
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit10_stilistik-und-rhetorik.odp
+  file: /daf/materials/presentations/unit10_stilistik-und-rhetorik.pdf
   thumbnail: /daf/materials/presentations/unit10_stilistik-und-rhetorik.png
 worksheet:
   file: /daf/materials/worksheets/unit10_stilistik-und-rhetorik.pdf

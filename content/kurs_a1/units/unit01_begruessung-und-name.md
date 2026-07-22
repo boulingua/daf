@@ -13,7 +13,7 @@ pruefungs_module:
 unit_slug: begruessung-und-name
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit01_begruessung-und-name.odp
+  file: /daf/materials/presentations/unit01_begruessung-und-name.pdf
   thumbnail: /daf/materials/presentations/unit01_begruessung-und-name.png
 worksheet:
   file: /daf/materials/worksheets/unit01_begruessung-und-name.pdf

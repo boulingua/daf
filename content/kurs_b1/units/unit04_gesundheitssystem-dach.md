@@ -15,7 +15,7 @@ pruefungs_module:
 unit_slug: gesundheitssystem-dach
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit04_gesundheitssystem-dach.odp
+  file: /daf/materials/presentations/unit04_gesundheitssystem-dach.pdf
   thumbnail: /daf/materials/presentations/unit04_gesundheitssystem-dach.png
 worksheet:
   file: /daf/materials/worksheets/unit04_gesundheitssystem-dach.pdf

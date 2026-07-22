@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: beim-arzt
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_beim-arzt.odp
+  file: /daf/materials/presentations/unit03_beim-arzt.pdf
   thumbnail: /daf/materials/presentations/unit03_beim-arzt.png
 worksheet:
   file: /daf/materials/worksheets/unit03_beim-arzt.pdf

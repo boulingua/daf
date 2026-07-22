@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: freundschaft-und-familiengeschichte
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.odp
+  file: /daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.pdf
   thumbnail: /daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.png
 worksheet:
   file: /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte.pdf

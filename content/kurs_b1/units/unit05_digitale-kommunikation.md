@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: digitale-kommunikation
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit05_digitale-kommunikation.odp
+  file: /daf/materials/presentations/unit05_digitale-kommunikation.pdf
   thumbnail: /daf/materials/presentations/unit05_digitale-kommunikation.png
 worksheet:
   file: /daf/materials/worksheets/unit05_digitale-kommunikation.pdf

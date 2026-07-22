@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: meine-freizeit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit11_meine-freizeit.odp
+  file: /daf/materials/presentations/unit11_meine-freizeit.pdf
   thumbnail: /daf/materials/presentations/unit11_meine-freizeit.png
 worksheet:
   file: /daf/materials/worksheets/unit11_meine-freizeit.pdf

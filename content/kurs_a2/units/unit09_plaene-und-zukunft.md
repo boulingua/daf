@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: plaene-und-zukunft
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit09_plaene-und-zukunft.odp
+  file: /daf/materials/presentations/unit09_plaene-und-zukunft.pdf
   thumbnail: /daf/materials/presentations/unit09_plaene-und-zukunft.png
 worksheet:
   file: /daf/materials/worksheets/unit09_plaene-und-zukunft.pdf

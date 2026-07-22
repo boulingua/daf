@@ -58,8 +58,17 @@ jobs:
       - name: Build materials network graph + run Phase-1 gates
         run: python scripts/build_graph.py
 
-      - name: Render material thumbnails from .pptx and .pdf
-        run: python scripts/render_thumbs.py
+      - name: Materials — committed branded PDFs + thumbnails (slidegen/sheetgen)
+        # Per-unit decks + worksheets are branded PDFs generated from each unit's
+        # own content by scripts/build_materials_latex.py (XeLaTeX, boulingua
+        # design: German accent + pentagon mark + watermark) and committed with
+        # their thumbnails under static/materials/. The old .odp + thumbnail-
+        # render pipeline is retired. To regenerate locally:
+        #   python scripts/build_materials_latex.py
+        run: |
+          echo "Using committed branded materials under static/materials/"
+          ls static/materials/presentations/*.pdf | wc -l
+          ls static/materials/worksheets/*.pdf | wc -l
 
       - name: Verify every download path resolves on disk
         run: python scripts/verify_downloads.py

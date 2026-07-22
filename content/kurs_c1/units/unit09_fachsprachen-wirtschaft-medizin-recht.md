@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: fachsprachen-wirtschaft-medizin-recht
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.odp
+  file: /daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.pdf
   thumbnail: /daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.png
 worksheet:
   file: /daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.pdf

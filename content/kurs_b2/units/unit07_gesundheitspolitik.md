@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: gesundheitspolitik
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit07_gesundheitspolitik.odp
+  file: /daf/materials/presentations/unit07_gesundheitspolitik.pdf
   thumbnail: /daf/materials/presentations/unit07_gesundheitspolitik.png
 worksheet:
   file: /daf/materials/worksheets/unit07_gesundheitspolitik.pdf

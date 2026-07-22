@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: literarisches-argumentieren
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit01_literarisches-argumentieren.odp
+  file: /daf/materials/presentations/unit01_literarisches-argumentieren.pdf
   thumbnail: /daf/materials/presentations/unit01_literarisches-argumentieren.png
 worksheet:
   file: /daf/materials/worksheets/unit01_literarisches-argumentieren.pdf

@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: aesthetik-und-urteil
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit04_aesthetik-und-urteil.odp
+  file: /daf/materials/presentations/unit04_aesthetik-und-urteil.pdf
   thumbnail: /daf/materials/presentations/unit04_aesthetik-und-urteil.png
 worksheet:
   file: /daf/materials/worksheets/unit04_aesthetik-und-urteil.pdf

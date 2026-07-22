@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: uhrzeit-und-wochenplan
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit07_uhrzeit-und-wochenplan.odp
+  file: /daf/materials/presentations/unit07_uhrzeit-und-wochenplan.pdf
   thumbnail: /daf/materials/presentations/unit07_uhrzeit-und-wochenplan.png
 worksheet:
   file: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf

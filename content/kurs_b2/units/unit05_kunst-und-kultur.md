@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: kunst-und-kultur
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit05_kunst-und-kultur.odp
+  file: /daf/materials/presentations/unit05_kunst-und-kultur.pdf
   thumbnail: /daf/materials/presentations/unit05_kunst-und-kultur.png
 worksheet:
   file: /daf/materials/worksheets/unit05_kunst-und-kultur.pdf

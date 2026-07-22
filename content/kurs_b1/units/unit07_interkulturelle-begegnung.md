@@ -15,7 +15,7 @@ pruefungs_module:
 unit_slug: interkulturelle-begegnung
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit07_interkulturelle-begegnung.odp
+  file: /daf/materials/presentations/unit07_interkulturelle-begegnung.pdf
   thumbnail: /daf/materials/presentations/unit07_interkulturelle-begegnung.png
 worksheet:
   file: /daf/materials/worksheets/unit07_interkulturelle-begegnung.pdf

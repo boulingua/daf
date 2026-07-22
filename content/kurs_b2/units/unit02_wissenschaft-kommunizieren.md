@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: wissenschaft-kommunizieren
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit02_wissenschaft-kommunizieren.odp
+  file: /daf/materials/presentations/unit02_wissenschaft-kommunizieren.pdf
   thumbnail: /daf/materials/presentations/unit02_wissenschaft-kommunizieren.png
 worksheet:
   file: /daf/materials/worksheets/unit02_wissenschaft-kommunizieren.pdf

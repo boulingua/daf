@@ -53,3 +53,12 @@ node_modules/
 
 # TTS audio hash cache (audio .ogg + manifests are committed; hashes are not)
 static/materials/audio/**/.*.hash
+
+# LaTeX materials build artifacts
+_materials/build/
+_materials/*.aux
+_materials/*.log
+_materials/*.nav
+_materials/*.snm
+_materials/*.toc
+_materials/*.out

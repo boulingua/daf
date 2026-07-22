@@ -14,7 +14,7 @@ pruefungs_module:
 unit_slug: wissenschaftstheorie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_wissenschaftstheorie.odp
+  file: /daf/materials/presentations/unit03_wissenschaftstheorie.pdf
   thumbnail: /daf/materials/presentations/unit03_wissenschaftstheorie.png
 worksheet:
   file: /daf/materials/worksheets/unit03_wissenschaftstheorie.pdf
