@@ -58,9 +58,17 @@ while IFS=, read -r qmd_path article_slug pixel_url _rest; do
     continue
   fi
 
+  # A registered page carries the token twice: once as the <head>
+  # rel=preload hint and once as the body <img>. Both resolve to a single
+  # network request (the img reuses the preloaded resource), so the invariant
+  # is "present on its page, and on exactly one page site-wide".
   hits=$(grep -c "$pixel_url" "$page" || true)
-  if [ "$hits" -ne 1 ]; then
-    echo "FAIL  $qmd_path  (expected 1 pixel hit, got $hits) in $page"
+  pages=$(grep -rl --include="*.html" -- "$pixel_url" "$PUBLIC" 2>/dev/null | wc -l)
+  if [ "$hits" -lt 1 ]; then
+    echo "FAIL  $qmd_path  (pixel absent) in $page"
+    failed=$((failed + 1))
+  elif [ "$pages" -ne 1 ]; then
+    echo "FAIL  $qmd_path  (pixel appears on $pages pages, want 1): $pixel_url"
     failed=$((failed + 1))
   else
     echo "ok    $qmd_path"
