@@ -4,6 +4,10 @@ aliases:
 - /anhaenge/lernstrategien.html
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+# vgwort_pixel: ""        # VG Wort Zählmarke — paste the 32-hex public code drawn
+#                         # from T.O.M. once this page passes 1800 rendered chars.
+#                         # Never a private code. Never on legal pages, the home
+#                         # page, the materials hub or paginated continuations.
 ---
 
 <div class="hero-kicker">
