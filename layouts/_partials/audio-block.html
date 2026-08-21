@@ -3,7 +3,7 @@
        accessible "Hören" section: one player per segment with its transcript.
        Degrades to nothing when no audio exists for the unit yet. */ -}}
 {{- $key := .File.ContentBaseName -}}
-{{- with (index site.Data.audio $key) -}}
+{{- with (index hugo.Data.audio $key) -}}
 <section class="audio-section" id="audio">
   <h2>Hören</h2>
   <p class="audio-intro">Wortschatz, Dialoge und Texte dieser Einheit als Audio,

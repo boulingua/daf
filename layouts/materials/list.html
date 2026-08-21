@@ -40,7 +40,7 @@
       {{- $courses = $courses | uniq | sort -}}
       {{- $topics = $topics | uniq -}}
       {{- $tags = $tags | uniq | sort -}}
-      {{- $topicData := index site.Data "topics" -}}
+      {{- $topicData := index hugo.Data "topics" -}}
 
       <section class="network-page network-hub" aria-label="Materials network">
 
