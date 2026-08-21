@@ -29,9 +29,10 @@ denen sich die Arbeit orientiert.
   Begleitband* (2020).
   <https://www.europaeischer-referenzrahmen.de/>
 
-Die GER-Kann-Beschreibungen werden in jeder Einheit zitiert. Die
-Deskriptoren unter `cefr_can_do:` im Front Matter einer Einheit
-stammen verbatim aus dem GER-Begleitband 2020.
+Die Formulierungen unter `cefr_can_do:` im Front Matter einer
+Einheit sind eigene, am GER-Begleitband 2020 orientierte
+Umsetzungen; die Zuordnung zu den offiziellen Deskriptoren
+erfolgt über `curriculum.implements`.
 
 ## Goethe-Institut — Prüfungsziele und Testbeschreibungen
 
@@ -51,9 +52,9 @@ stammen verbatim aus dem GER-Begleitband 2020.
 
 Die strukturellen Parameter dieser fünf Dokumente (Teile,
 Aufgabentypen, Itemzahl, Zeitvorgaben, Punkteverteilung,
-Bewertungskriterien) sind im Ordner `_resources/format_*.yml`
-verbatim archiviert. Die YAML-Dateien sind autoritativ für die
-Site; diese Literaturliste ist die Primärquelle.
+Bewertungskriterien) sind in den Prüfungsseiten der jeweiligen
+Niveaus nacherzählt, nicht im Wortlaut übernommen. Diese
+Literaturliste ist die Primärquelle.
 
 ## DaF-Didaktik
 
