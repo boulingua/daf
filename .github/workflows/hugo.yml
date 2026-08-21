@@ -54,11 +54,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install LibreOffice (PPTX → PDF for thumbnail rendering)
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y --no-install-recommends libreoffice-impress
-
       - name: Install Python deps
         run: pip install pyyaml pymupdf pypdf
 
