@@ -38,8 +38,8 @@ descriptor-ID traceability** — the two things this handover exists to close.
    `curriculum:` block and a `page_type` discriminator.
 3. **Curriculum conformance = 0** — DaF references **no** curriculum descriptor
    IDs anywhere. `cefr_can_do` are free-text German "Ich kann…" strings. No
-   `conformance.yml`, no scope/coverage manifest, does not participate in
-   `id-audit.sh`. This is the single largest curriculum gap.
+   `conformance.yml`, no scope/coverage manifest, nothing for the shared
+   course-build gate to resolve. This is the single largest curriculum gap.
 4. **Design-system / landing shortcodes** — section `_index.md` pages use **raw
    HTML** (`<div class="hero-kicker">`, `<div class="card-grid">`). Template
    requires the shortcode set (`hero`, `kicker`, `lead`, `card`, `card-grid`),
@@ -92,8 +92,8 @@ curriculum descriptor ID. Concretely:
 - Units carry free-text `cefr_can_do:` German strings (e.g. *"Ich kann über
   eigene Berufserfahrungen … erzählen"*) with **no** `implements:` / `implements_id:`.
 - No `conformance.yml`, no scope manifest, no coverage table.
-- DaF does not run `curriculum/scripts/id-audit.sh` and publishes nothing that
-  script (or `docs/verification.md`) could check.
+- DaF publishes nothing the shared conformance gate could resolve: with no
+  manifest, there is no input for it to read.
 
 **The worked example that applies directly:** `curriculum/examples/de-a1/`
 (`conformance.yml` + `README.md`) is *the* template for what DaF must produce —
@@ -125,13 +125,18 @@ Declare gaps; do not lower the claim to hide them (per `docs/conformance.md`).
    entries keyed to IDs (or a parallel `implements:` list), so each unit page is
    itself traceable.
 
-**Does it pass `id-audit.sh`?** N/A today — that script audits
-`curriculum/levels/*.md`, not consumer repos. DaF's obligation is the **inverse**:
-every `implements_id` it declares MUST *resolve to* an existing statement in
-`curriculum/levels/`. The verification hook is `docs/verification.md`'s
-"German A1 example passes conformance" item. DaF should ship a small validator
-(or reuse the curriculum one) that loads `conformance.yml`, extracts every
-`implements_id`, and asserts each exists in the curriculum level files.
+**Gate.** The reusable workflow
+`boulingua/.github/.github/workflows/course-build.yml@v1` runs
+`python .curriculum/scripts/conformance_audit.py resolve --manifest conformance.yml --content content`.
+The framework's own level-file audit script audits `curriculum/levels/*.md`, not
+consumer repos: it takes no manifest argument and globs the level files under its
+own repo root, so pointed at `daf/` it would report the framework's 1170
+statements and exit 0 without reading a line of DaF. Do not wire it here. DaF's
+obligation is the **inverse** of the framework's — every `implements_id` it
+declares MUST *resolve to* an existing statement in `curriculum/levels/` — and
+the gate above is what proves it. `docs/verification.md`'s "German A1 example
+passes conformance" item is **not** that proof; it is unchecked until the
+consumer resolver ships (F9) and must not be cited as evidence for DaF.
 
 **Mapping task (the core intellectual work):** for each of 60 units, take its
 3–5 `cefr_can_do` strings (≈ 200–300 total) and bind each to the correct
