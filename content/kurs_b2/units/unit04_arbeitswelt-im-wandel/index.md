@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: arbeitswelt-im-wandel
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.pdf
-  thumbnail: /daf/materials/presentations/unit04_arbeitswelt-im-wandel.png
+  file: "/daf/materials/presentations/unit04_arbeitswelt-im-wandel.pdf"
+  thumbnail: "/daf/materials/presentations/unit04_arbeitswelt-im-wandel.png"
 worksheet:
-  file: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel.pdf
-  thumbnail: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel.png
+  file: "/daf/materials/worksheets/unit04_arbeitswelt-im-wandel.pdf"
+  thumbnail: "/daf/materials/worksheets/unit04_arbeitswelt-im-wandel.png"
 aliases:
 - /kurs_b2/units/unit04_arbeitswelt-im-wandel.html
 - /kurs_b2/units/unit04_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: stilistik-und-rhetorik
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit10_stilistik-und-rhetorik.pdf
-  thumbnail: /daf/materials/presentations/unit10_stilistik-und-rhetorik.png
+  file: "/daf/materials/presentations/unit10_stilistik-und-rhetorik.pdf"
+  thumbnail: "/daf/materials/presentations/unit10_stilistik-und-rhetorik.png"
 worksheet:
-  file: /daf/materials/worksheets/unit10_stilistik-und-rhetorik.pdf
-  thumbnail: /daf/materials/worksheets/unit10_stilistik-und-rhetorik.png
+  file: "/daf/materials/worksheets/unit10_stilistik-und-rhetorik.pdf"
+  thumbnail: "/daf/materials/worksheets/unit10_stilistik-und-rhetorik.png"
 aliases:
 - /kurs_c1/units/unit10_stilistik-und-rhetorik.html
 - /kurs_c1/units/unit10_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

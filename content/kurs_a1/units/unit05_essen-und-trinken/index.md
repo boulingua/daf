@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: essen-und-trinken
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit05_essen-und-trinken.pdf
-  thumbnail: /daf/materials/presentations/unit05_essen-und-trinken.png
+  file: "/daf/materials/presentations/unit05_essen-und-trinken.pdf"
+  thumbnail: "/daf/materials/presentations/unit05_essen-und-trinken.png"
 worksheet:
-  file: /daf/materials/worksheets/unit05_essen-und-trinken.pdf
-  thumbnail: /daf/materials/worksheets/unit05_essen-und-trinken.png
+  file: "/daf/materials/worksheets/unit05_essen-und-trinken.pdf"
+  thumbnail: "/daf/materials/worksheets/unit05_essen-und-trinken.png"
 aliases:
 - /kurs_a1/units/unit05_essen-und-trinken.html
 - /kurs_a1/units/unit05_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: wissenschaft-kommunizieren
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit02_wissenschaft-kommunizieren.pdf
-  thumbnail: /daf/materials/presentations/unit02_wissenschaft-kommunizieren.png
+  file: "/daf/materials/presentations/unit02_wissenschaft-kommunizieren.pdf"
+  thumbnail: "/daf/materials/presentations/unit02_wissenschaft-kommunizieren.png"
 worksheet:
-  file: /daf/materials/worksheets/unit02_wissenschaft-kommunizieren.pdf
-  thumbnail: /daf/materials/worksheets/unit02_wissenschaft-kommunizieren.png
+  file: "/daf/materials/worksheets/unit02_wissenschaft-kommunizieren.pdf"
+  thumbnail: "/daf/materials/worksheets/unit02_wissenschaft-kommunizieren.png"
 aliases:
 - /kurs_b2/units/unit02_wissenschaft-kommunizieren.html
 - /kurs_b2/units/unit02_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

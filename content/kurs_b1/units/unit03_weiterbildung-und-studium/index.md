@@ -16,11 +16,11 @@ pruefungs_module:
 unit_slug: weiterbildung-und-studium
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit03_weiterbildung-und-studium.pdf
-  thumbnail: /daf/materials/presentations/unit03_weiterbildung-und-studium.png
+  file: "/daf/materials/presentations/unit03_weiterbildung-und-studium.pdf"
+  thumbnail: "/daf/materials/presentations/unit03_weiterbildung-und-studium.png"
 worksheet:
-  file: /daf/materials/worksheets/unit03_weiterbildung-und-studium.pdf
-  thumbnail: /daf/materials/worksheets/unit03_weiterbildung-und-studium.png
+  file: "/daf/materials/worksheets/unit03_weiterbildung-und-studium.pdf"
+  thumbnail: "/daf/materials/worksheets/unit03_weiterbildung-und-studium.png"
 aliases:
 - /kurs_b1/units/unit03_weiterbildung-und-studium.html
 - /kurs_b1/units/unit03_slides.html
@@ -38,7 +38,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

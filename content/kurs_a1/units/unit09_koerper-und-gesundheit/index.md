@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: koerper-und-gesundheit
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit09_koerper-und-gesundheit.pdf
-  thumbnail: /daf/materials/presentations/unit09_koerper-und-gesundheit.png
+  file: "/daf/materials/presentations/unit09_koerper-und-gesundheit.pdf"
+  thumbnail: "/daf/materials/presentations/unit09_koerper-und-gesundheit.png"
 worksheet:
-  file: /daf/materials/worksheets/unit09_koerper-und-gesundheit.pdf
-  thumbnail: /daf/materials/worksheets/unit09_koerper-und-gesundheit.png
+  file: "/daf/materials/worksheets/unit09_koerper-und-gesundheit.pdf"
+  thumbnail: "/daf/materials/worksheets/unit09_koerper-und-gesundheit.png"
 aliases:
 - /kurs_a1/units/unit09_koerper-und-gesundheit.html
 - /kurs_a1/units/unit09_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

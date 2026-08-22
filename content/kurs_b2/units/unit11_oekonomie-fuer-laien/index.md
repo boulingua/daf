@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: oekonomie-fuer-laien
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit11_oekonomie-fuer-laien.pdf
-  thumbnail: /daf/materials/presentations/unit11_oekonomie-fuer-laien.png
+  file: "/daf/materials/presentations/unit11_oekonomie-fuer-laien.pdf"
+  thumbnail: "/daf/materials/presentations/unit11_oekonomie-fuer-laien.png"
 worksheet:
-  file: /daf/materials/worksheets/unit11_oekonomie-fuer-laien.pdf
-  thumbnail: /daf/materials/worksheets/unit11_oekonomie-fuer-laien.png
+  file: "/daf/materials/worksheets/unit11_oekonomie-fuer-laien.pdf"
+  thumbnail: "/daf/materials/worksheets/unit11_oekonomie-fuer-laien.png"
 aliases:
 - /kurs_b2/units/unit11_oekonomie-fuer-laien.html
 - /kurs_b2/units/unit11_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

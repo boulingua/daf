@@ -16,11 +16,11 @@ pruefungs_module:
 unit_slug: gesundheitssystem-dach
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit04_gesundheitssystem-dach.pdf
-  thumbnail: /daf/materials/presentations/unit04_gesundheitssystem-dach.png
+  file: "/daf/materials/presentations/unit04_gesundheitssystem-dach.pdf"
+  thumbnail: "/daf/materials/presentations/unit04_gesundheitssystem-dach.png"
 worksheet:
-  file: /daf/materials/worksheets/unit04_gesundheitssystem-dach.pdf
-  thumbnail: /daf/materials/worksheets/unit04_gesundheitssystem-dach.png
+  file: "/daf/materials/worksheets/unit04_gesundheitssystem-dach.pdf"
+  thumbnail: "/daf/materials/worksheets/unit04_gesundheitssystem-dach.png"
 aliases:
 - /kurs_b1/units/unit04_gesundheitssystem-dach.html
 - /kurs_b1/units/unit04_slides.html
@@ -38,7 +38,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

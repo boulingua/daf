@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: aesthetik-und-urteil
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit04_aesthetik-und-urteil.pdf
-  thumbnail: /daf/materials/presentations/unit04_aesthetik-und-urteil.png
+  file: "/daf/materials/presentations/unit04_aesthetik-und-urteil.pdf"
+  thumbnail: "/daf/materials/presentations/unit04_aesthetik-und-urteil.png"
 worksheet:
-  file: /daf/materials/worksheets/unit04_aesthetik-und-urteil.pdf
-  thumbnail: /daf/materials/worksheets/unit04_aesthetik-und-urteil.png
+  file: "/daf/materials/worksheets/unit04_aesthetik-und-urteil.pdf"
+  thumbnail: "/daf/materials/worksheets/unit04_aesthetik-und-urteil.png"
 aliases:
 - /kurs_c1/units/unit04_aesthetik-und-urteil.html
 - /kurs_c1/units/unit04_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

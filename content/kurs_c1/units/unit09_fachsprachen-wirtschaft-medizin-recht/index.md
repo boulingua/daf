@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: fachsprachen-wirtschaft-medizin-recht
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.pdf
-  thumbnail: /daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.png
+  file: "/daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.pdf"
+  thumbnail: "/daf/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.png"
 worksheet:
-  file: /daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.pdf
-  thumbnail: /daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.png
+  file: "/daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.pdf"
+  thumbnail: "/daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.png"
 aliases:
 - /kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht.html
 - /kurs_c1/units/unit09_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

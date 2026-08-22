@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: einkaufen-und-preise
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit06_einkaufen-und-preise.pdf
-  thumbnail: /daf/materials/presentations/unit06_einkaufen-und-preise.png
+  file: "/daf/materials/presentations/unit06_einkaufen-und-preise.pdf"
+  thumbnail: "/daf/materials/presentations/unit06_einkaufen-und-preise.png"
 worksheet:
-  file: /daf/materials/worksheets/unit06_einkaufen-und-preise.pdf
-  thumbnail: /daf/materials/worksheets/unit06_einkaufen-und-preise.png
+  file: "/daf/materials/worksheets/unit06_einkaufen-und-preise.pdf"
+  thumbnail: "/daf/materials/worksheets/unit06_einkaufen-und-preise.png"
 aliases:
 - /kurs_a1/units/unit06_einkaufen-und-preise.html
 - /kurs_a1/units/unit06_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

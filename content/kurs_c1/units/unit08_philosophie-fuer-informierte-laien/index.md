@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: philosophie-fuer-informierte-laien
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.pdf
-  thumbnail: /daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.png
+  file: "/daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.pdf"
+  thumbnail: "/daf/materials/presentations/unit08_philosophie-fuer-informierte-laien.png"
 worksheet:
-  file: /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf
-  thumbnail: /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien.png
+  file: "/daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf"
+  thumbnail: "/daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien.png"
 aliases:
 - /kurs_c1/units/unit08_philosophie-fuer-informierte-laien.html
 - /kurs_c1/units/unit08_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

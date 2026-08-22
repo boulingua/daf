@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: persoenliche-beziehungen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit11_persoenliche-beziehungen.pdf
-  thumbnail: /daf/materials/presentations/unit11_persoenliche-beziehungen.png
+  file: "/daf/materials/presentations/unit11_persoenliche-beziehungen.pdf"
+  thumbnail: "/daf/materials/presentations/unit11_persoenliche-beziehungen.png"
 worksheet:
-  file: /daf/materials/worksheets/unit11_persoenliche-beziehungen.pdf
-  thumbnail: /daf/materials/worksheets/unit11_persoenliche-beziehungen.png
+  file: "/daf/materials/worksheets/unit11_persoenliche-beziehungen.pdf"
+  thumbnail: "/daf/materials/worksheets/unit11_persoenliche-beziehungen.png"
 aliases:
 - /kurs_b1/units/unit11_persoenliche-beziehungen.html
 - /kurs_b1/units/unit11_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

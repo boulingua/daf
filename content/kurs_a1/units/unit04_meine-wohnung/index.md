@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: meine-wohnung
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit04_meine-wohnung.pdf
-  thumbnail: /daf/materials/presentations/unit04_meine-wohnung.png
+  file: "/daf/materials/presentations/unit04_meine-wohnung.pdf"
+  thumbnail: "/daf/materials/presentations/unit04_meine-wohnung.png"
 worksheet:
-  file: /daf/materials/worksheets/unit04_meine-wohnung.pdf
-  thumbnail: /daf/materials/worksheets/unit04_meine-wohnung.png
+  file: "/daf/materials/worksheets/unit04_meine-wohnung.pdf"
+  thumbnail: "/daf/materials/worksheets/unit04_meine-wohnung.png"
 aliases:
 - /kurs_a1/units/unit04_meine-wohnung.html
 - /kurs_a1/units/unit04_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

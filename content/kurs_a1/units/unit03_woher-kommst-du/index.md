@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: woher-kommst-du
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_woher-kommst-du.pdf
-  thumbnail: /daf/materials/presentations/unit03_woher-kommst-du.png
+  file: "/daf/materials/presentations/unit03_woher-kommst-du.pdf"
+  thumbnail: "/daf/materials/presentations/unit03_woher-kommst-du.png"
 worksheet:
-  file: /daf/materials/worksheets/unit03_woher-kommst-du.pdf
-  thumbnail: /daf/materials/worksheets/unit03_woher-kommst-du.png
+  file: "/daf/materials/worksheets/unit03_woher-kommst-du.pdf"
+  thumbnail: "/daf/materials/worksheets/unit03_woher-kommst-du.png"
 aliases:
 - /kurs_a1/units/unit03_woher-kommst-du.html
 - /kurs_a1/units/unit03_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

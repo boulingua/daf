@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: identitaet-und-sprache
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit05_identitaet-und-sprache.pdf
-  thumbnail: /daf/materials/presentations/unit05_identitaet-und-sprache.png
+  file: "/daf/materials/presentations/unit05_identitaet-und-sprache.pdf"
+  thumbnail: "/daf/materials/presentations/unit05_identitaet-und-sprache.png"
 worksheet:
-  file: /daf/materials/worksheets/unit05_identitaet-und-sprache.pdf
-  thumbnail: /daf/materials/worksheets/unit05_identitaet-und-sprache.png
+  file: "/daf/materials/worksheets/unit05_identitaet-und-sprache.pdf"
+  thumbnail: "/daf/materials/worksheets/unit05_identitaet-und-sprache.png"
 aliases:
 - /kurs_c1/units/unit05_identitaet-und-sprache.html
 - /kurs_c1/units/unit05_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

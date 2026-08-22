@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: freundschaft-und-familiengeschichte
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.pdf
-  thumbnail: /daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.png
+  file: "/daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.pdf"
+  thumbnail: "/daf/materials/presentations/unit12_freundschaft-und-familiengeschichte.png"
 worksheet:
-  file: /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte.pdf
-  thumbnail: /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte.png
+  file: "/daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte.pdf"
+  thumbnail: "/daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte.png"
 aliases:
 - /kurs_a2/units/unit12_freundschaft-und-familiengeschichte.html
 - /kurs_a2/units/unit12_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: reisen-und-unterwegs
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit12_reisen-und-unterwegs.pdf
-  thumbnail: /daf/materials/presentations/unit12_reisen-und-unterwegs.png
+  file: "/daf/materials/presentations/unit12_reisen-und-unterwegs.pdf"
+  thumbnail: "/daf/materials/presentations/unit12_reisen-und-unterwegs.png"
 worksheet:
-  file: /daf/materials/worksheets/unit12_reisen-und-unterwegs.pdf
-  thumbnail: /daf/materials/worksheets/unit12_reisen-und-unterwegs.png
+  file: "/daf/materials/worksheets/unit12_reisen-und-unterwegs.pdf"
+  thumbnail: "/daf/materials/worksheets/unit12_reisen-und-unterwegs.png"
 aliases:
 - /kurs_a1/units/unit12_reisen-und-unterwegs.html
 - /kurs_a1/units/unit12_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

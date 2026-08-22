@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: zukunftsvisionen
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit12_zukunftsvisionen.pdf
-  thumbnail: /daf/materials/presentations/unit12_zukunftsvisionen.png
+  file: "/daf/materials/presentations/unit12_zukunftsvisionen.pdf"
+  thumbnail: "/daf/materials/presentations/unit12_zukunftsvisionen.png"
 worksheet:
-  file: /daf/materials/worksheets/unit12_zukunftsvisionen.pdf
-  thumbnail: /daf/materials/worksheets/unit12_zukunftsvisionen.png
+  file: "/daf/materials/worksheets/unit12_zukunftsvisionen.pdf"
+  thumbnail: "/daf/materials/worksheets/unit12_zukunftsvisionen.png"
 aliases:
 - /kurs_b1/units/unit12_zukunftsvisionen.html
 - /kurs_b1/units/unit12_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

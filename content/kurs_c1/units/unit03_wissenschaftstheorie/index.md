@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: wissenschaftstheorie
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_wissenschaftstheorie.pdf
-  thumbnail: /daf/materials/presentations/unit03_wissenschaftstheorie.png
+  file: "/daf/materials/presentations/unit03_wissenschaftstheorie.pdf"
+  thumbnail: "/daf/materials/presentations/unit03_wissenschaftstheorie.png"
 worksheet:
-  file: /daf/materials/worksheets/unit03_wissenschaftstheorie.pdf
-  thumbnail: /daf/materials/worksheets/unit03_wissenschaftstheorie.png
+  file: "/daf/materials/worksheets/unit03_wissenschaftstheorie.pdf"
+  thumbnail: "/daf/materials/worksheets/unit03_wissenschaftstheorie.png"
 aliases:
 - /kurs_c1/units/unit03_wissenschaftstheorie.html
 - /kurs_c1/units/unit03_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

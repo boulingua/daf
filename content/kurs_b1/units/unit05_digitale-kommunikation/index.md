@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: digitale-kommunikation
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit05_digitale-kommunikation.pdf
-  thumbnail: /daf/materials/presentations/unit05_digitale-kommunikation.png
+  file: "/daf/materials/presentations/unit05_digitale-kommunikation.pdf"
+  thumbnail: "/daf/materials/presentations/unit05_digitale-kommunikation.png"
 worksheet:
-  file: /daf/materials/worksheets/unit05_digitale-kommunikation.pdf
-  thumbnail: /daf/materials/worksheets/unit05_digitale-kommunikation.png
+  file: "/daf/materials/worksheets/unit05_digitale-kommunikation.pdf"
+  thumbnail: "/daf/materials/worksheets/unit05_digitale-kommunikation.png"
 aliases:
 - /kurs_b1/units/unit05_digitale-kommunikation.html
 - /kurs_b1/units/unit05_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

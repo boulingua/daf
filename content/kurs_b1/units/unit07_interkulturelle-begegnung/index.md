@@ -16,11 +16,11 @@ pruefungs_module:
 unit_slug: interkulturelle-begegnung
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit07_interkulturelle-begegnung.pdf
-  thumbnail: /daf/materials/presentations/unit07_interkulturelle-begegnung.png
+  file: "/daf/materials/presentations/unit07_interkulturelle-begegnung.pdf"
+  thumbnail: "/daf/materials/presentations/unit07_interkulturelle-begegnung.png"
 worksheet:
-  file: /daf/materials/worksheets/unit07_interkulturelle-begegnung.pdf
-  thumbnail: /daf/materials/worksheets/unit07_interkulturelle-begegnung.png
+  file: "/daf/materials/worksheets/unit07_interkulturelle-begegnung.pdf"
+  thumbnail: "/daf/materials/worksheets/unit07_interkulturelle-begegnung.png"
 aliases:
 - /kurs_b1/units/unit07_interkulturelle-begegnung.html
 - /kurs_b1/units/unit07_slides.html
@@ -38,7 +38,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

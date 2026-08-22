@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: literarisches-argumentieren
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit01_literarisches-argumentieren.pdf
-  thumbnail: /daf/materials/presentations/unit01_literarisches-argumentieren.png
+  file: "/daf/materials/presentations/unit01_literarisches-argumentieren.pdf"
+  thumbnail: "/daf/materials/presentations/unit01_literarisches-argumentieren.png"
 worksheet:
-  file: /daf/materials/worksheets/unit01_literarisches-argumentieren.pdf
-  thumbnail: /daf/materials/worksheets/unit01_literarisches-argumentieren.png
+  file: "/daf/materials/worksheets/unit01_literarisches-argumentieren.pdf"
+  thumbnail: "/daf/materials/worksheets/unit01_literarisches-argumentieren.png"
 aliases:
 - /kurs_c1/units/unit01_literarisches-argumentieren.html
 - /kurs_c1/units/unit01_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

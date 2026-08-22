@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: beim-arzt
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit03_beim-arzt.pdf
-  thumbnail: /daf/materials/presentations/unit03_beim-arzt.png
+  file: "/daf/materials/presentations/unit03_beim-arzt.pdf"
+  thumbnail: "/daf/materials/presentations/unit03_beim-arzt.png"
 worksheet:
-  file: /daf/materials/worksheets/unit03_beim-arzt.pdf
-  thumbnail: /daf/materials/worksheets/unit03_beim-arzt.png
+  file: "/daf/materials/worksheets/unit03_beim-arzt.pdf"
+  thumbnail: "/daf/materials/worksheets/unit03_beim-arzt.png"
 aliases:
 - /kurs_a2/units/unit03_beim-arzt.html
 - /kurs_a2/units/unit03_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: gegenwartsliteratur
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit12_gegenwartsliteratur.pdf
-  thumbnail: /daf/materials/presentations/unit12_gegenwartsliteratur.png
+  file: "/daf/materials/presentations/unit12_gegenwartsliteratur.pdf"
+  thumbnail: "/daf/materials/presentations/unit12_gegenwartsliteratur.png"
 worksheet:
-  file: /daf/materials/worksheets/unit12_gegenwartsliteratur.pdf
-  thumbnail: /daf/materials/worksheets/unit12_gegenwartsliteratur.png
+  file: "/daf/materials/worksheets/unit12_gegenwartsliteratur.pdf"
+  thumbnail: "/daf/materials/worksheets/unit12_gegenwartsliteratur.png"
 aliases:
 - /kurs_c1/units/unit12_gegenwartsliteratur.html
 - /kurs_c1/units/unit12_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

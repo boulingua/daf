@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: wetter-und-jahreszeiten
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit08_wetter-und-jahreszeiten.pdf
-  thumbnail: /daf/materials/presentations/unit08_wetter-und-jahreszeiten.png
+  file: "/daf/materials/presentations/unit08_wetter-und-jahreszeiten.pdf"
+  thumbnail: "/daf/materials/presentations/unit08_wetter-und-jahreszeiten.png"
 worksheet:
-  file: /daf/materials/worksheets/unit08_wetter-und-jahreszeiten.pdf
-  thumbnail: /daf/materials/worksheets/unit08_wetter-und-jahreszeiten.png
+  file: "/daf/materials/worksheets/unit08_wetter-und-jahreszeiten.pdf"
+  thumbnail: "/daf/materials/worksheets/unit08_wetter-und-jahreszeiten.png"
 aliases:
 - /kurs_a1/units/unit08_wetter-und-jahreszeiten.html
 - /kurs_a1/units/unit08_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

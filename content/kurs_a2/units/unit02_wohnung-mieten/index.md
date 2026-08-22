@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: wohnung-mieten
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit02_wohnung-mieten.pdf
-  thumbnail: /daf/materials/presentations/unit02_wohnung-mieten.png
+  file: "/daf/materials/presentations/unit02_wohnung-mieten.pdf"
+  thumbnail: "/daf/materials/presentations/unit02_wohnung-mieten.png"
 worksheet:
-  file: /daf/materials/worksheets/unit02_wohnung-mieten.pdf
-  thumbnail: /daf/materials/worksheets/unit02_wohnung-mieten.png
+  file: "/daf/materials/worksheets/unit02_wohnung-mieten.pdf"
+  thumbnail: "/daf/materials/worksheets/unit02_wohnung-mieten.png"
 aliases:
 - /kurs_a2/units/unit02_wohnung-mieten.html
 - /kurs_a2/units/unit02_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

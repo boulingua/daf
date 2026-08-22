@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: gesundheitspolitik
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit07_gesundheitspolitik.pdf
-  thumbnail: /daf/materials/presentations/unit07_gesundheitspolitik.png
+  file: "/daf/materials/presentations/unit07_gesundheitspolitik.pdf"
+  thumbnail: "/daf/materials/presentations/unit07_gesundheitspolitik.png"
 worksheet:
-  file: /daf/materials/worksheets/unit07_gesundheitspolitik.pdf
-  thumbnail: /daf/materials/worksheets/unit07_gesundheitspolitik.png
+  file: "/daf/materials/worksheets/unit07_gesundheitspolitik.pdf"
+  thumbnail: "/daf/materials/worksheets/unit07_gesundheitspolitik.png"
 aliases:
 - /kurs_b2/units/unit07_gesundheitspolitik.html
 - /kurs_b2/units/unit07_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: politik-und-teilhabe
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit10_politik-und-teilhabe.pdf
-  thumbnail: /daf/materials/presentations/unit10_politik-und-teilhabe.png
+  file: "/daf/materials/presentations/unit10_politik-und-teilhabe.pdf"
+  thumbnail: "/daf/materials/presentations/unit10_politik-und-teilhabe.png"
 worksheet:
-  file: /daf/materials/worksheets/unit10_politik-und-teilhabe.pdf
-  thumbnail: /daf/materials/worksheets/unit10_politik-und-teilhabe.png
+  file: "/daf/materials/worksheets/unit10_politik-und-teilhabe.pdf"
+  thumbnail: "/daf/materials/worksheets/unit10_politik-und-teilhabe.png"
 aliases:
 - /kurs_b1/units/unit10_politik-und-teilhabe.html
 - /kurs_b1/units/unit10_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

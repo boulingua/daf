@@ -17,11 +17,11 @@ pruefungs_module:
 unit_slug: neuanfang-in-basel
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit01_neuanfang-in-basel.pdf
-  thumbnail: /daf/materials/presentations/unit01_neuanfang-in-basel.png
+  file: "/daf/materials/presentations/unit01_neuanfang-in-basel.pdf"
+  thumbnail: "/daf/materials/presentations/unit01_neuanfang-in-basel.png"
 worksheet:
-  file: /daf/materials/worksheets/unit01_neuanfang-in-basel.pdf
-  thumbnail: /daf/materials/worksheets/unit01_neuanfang-in-basel.png
+  file: "/daf/materials/worksheets/unit01_neuanfang-in-basel.pdf"
+  thumbnail: "/daf/materials/worksheets/unit01_neuanfang-in-basel.png"
 aliases:
 - /kurs_b1/units/unit01_neuanfang-in-basel.html
 - /kurs_b1/units/unit01_slides.html
@@ -39,7 +39,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

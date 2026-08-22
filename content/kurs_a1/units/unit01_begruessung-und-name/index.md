@@ -14,11 +14,11 @@ pruefungs_module:
 unit_slug: begruessung-und-name
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit01_begruessung-und-name.pdf
-  thumbnail: /daf/materials/presentations/unit01_begruessung-und-name.png
+  file: "/daf/materials/presentations/unit01_begruessung-und-name.pdf"
+  thumbnail: "/daf/materials/presentations/unit01_begruessung-und-name.png"
 worksheet:
-  file: /daf/materials/worksheets/unit01_begruessung-und-name.pdf
-  thumbnail: /daf/materials/worksheets/unit01_begruessung-und-name.png
+  file: "/daf/materials/worksheets/unit01_begruessung-und-name.pdf"
+  thumbnail: "/daf/materials/worksheets/unit01_begruessung-und-name.png"
 aliases:
 - /kurs_a1/units/unit01_begruessung-und-name.html
 - /kurs_a1/units/unit01_slides.html
@@ -35,7 +35,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: umwelt-und-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit11_umwelt-und-alltag.pdf
-  thumbnail: /daf/materials/presentations/unit11_umwelt-und-alltag.png
+  file: "/daf/materials/presentations/unit11_umwelt-und-alltag.pdf"
+  thumbnail: "/daf/materials/presentations/unit11_umwelt-und-alltag.png"
 worksheet:
-  file: /daf/materials/worksheets/unit11_umwelt-und-alltag.pdf
-  thumbnail: /daf/materials/worksheets/unit11_umwelt-und-alltag.png
+  file: "/daf/materials/worksheets/unit11_umwelt-und-alltag.pdf"
+  thumbnail: "/daf/materials/worksheets/unit11_umwelt-und-alltag.png"
 aliases:
 - /kurs_a2/units/unit11_umwelt-und-alltag.html
 - /kurs_a2/units/unit11_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

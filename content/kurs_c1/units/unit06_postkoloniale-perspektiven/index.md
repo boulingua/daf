@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: postkoloniale-perspektiven
 description: GER-Stufe C1 · GER-Prüfung C1 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit06_postkoloniale-perspektiven.pdf
-  thumbnail: /daf/materials/presentations/unit06_postkoloniale-perspektiven.png
+  file: "/daf/materials/presentations/unit06_postkoloniale-perspektiven.pdf"
+  thumbnail: "/daf/materials/presentations/unit06_postkoloniale-perspektiven.png"
 worksheet:
-  file: /daf/materials/worksheets/unit06_postkoloniale-perspektiven.pdf
-  thumbnail: /daf/materials/worksheets/unit06_postkoloniale-perspektiven.png
+  file: "/daf/materials/worksheets/unit06_postkoloniale-perspektiven.pdf"
+  thumbnail: "/daf/materials/worksheets/unit06_postkoloniale-perspektiven.png"
 aliases:
 - /kurs_c1/units/unit06_postkoloniale-perspektiven.html
 - /kurs_c1/units/unit06_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: uhrzeit-und-wochenplan
 description: GER-Stufe A1 · GER-Prüfung A1 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit07_uhrzeit-und-wochenplan.pdf
-  thumbnail: /daf/materials/presentations/unit07_uhrzeit-und-wochenplan.png
+  file: "/daf/materials/presentations/unit07_uhrzeit-und-wochenplan.pdf"
+  thumbnail: "/daf/materials/presentations/unit07_uhrzeit-und-wochenplan.png"
 worksheet:
-  file: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf
-  thumbnail: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan.png
+  file: "/daf/materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf"
+  thumbnail: "/daf/materials/worksheets/unit07_uhrzeit-und-wochenplan.png"
 aliases:
 - /kurs_a1/units/unit07_uhrzeit-und-wochenplan.html
 - /kurs_a1/units/unit07_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

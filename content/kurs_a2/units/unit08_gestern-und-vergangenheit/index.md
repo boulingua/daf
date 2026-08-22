@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: gestern-und-vergangenheit
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Schreiben
 presentation:
-  file: /daf/materials/presentations/unit08_gestern-und-vergangenheit.pdf
-  thumbnail: /daf/materials/presentations/unit08_gestern-und-vergangenheit.png
+  file: "/daf/materials/presentations/unit08_gestern-und-vergangenheit.pdf"
+  thumbnail: "/daf/materials/presentations/unit08_gestern-und-vergangenheit.png"
 worksheet:
-  file: /daf/materials/worksheets/unit08_gestern-und-vergangenheit.pdf
-  thumbnail: /daf/materials/worksheets/unit08_gestern-und-vergangenheit.png
+  file: "/daf/materials/worksheets/unit08_gestern-und-vergangenheit.pdf"
+  thumbnail: "/daf/materials/worksheets/unit08_gestern-und-vergangenheit.png"
 aliases:
 - /kurs_a2/units/unit08_gestern-und-vergangenheit.html
 - /kurs_a2/units/unit08_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: hobbys-und-vereine
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Sprechen
 presentation:
-  file: /daf/materials/presentations/unit06_hobbys-und-vereine.pdf
-  thumbnail: /daf/materials/presentations/unit06_hobbys-und-vereine.png
+  file: "/daf/materials/presentations/unit06_hobbys-und-vereine.pdf"
+  thumbnail: "/daf/materials/presentations/unit06_hobbys-und-vereine.png"
 worksheet:
-  file: /daf/materials/worksheets/unit06_hobbys-und-vereine.pdf
-  thumbnail: /daf/materials/worksheets/unit06_hobbys-und-vereine.png
+  file: "/daf/materials/worksheets/unit06_hobbys-und-vereine.pdf"
+  thumbnail: "/daf/materials/worksheets/unit06_hobbys-und-vereine.png"
 aliases:
 - /kurs_a2/units/unit06_hobbys-und-vereine.html
 - /kurs_a2/units/unit06_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

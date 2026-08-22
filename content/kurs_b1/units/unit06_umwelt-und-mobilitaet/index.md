@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: umwelt-und-mobilitaet
 description: GER-Stufe B1 · GER-Prüfung B1 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit06_umwelt-und-mobilitaet.pdf
-  thumbnail: /daf/materials/presentations/unit06_umwelt-und-mobilitaet.png
+  file: "/daf/materials/presentations/unit06_umwelt-und-mobilitaet.pdf"
+  thumbnail: "/daf/materials/presentations/unit06_umwelt-und-mobilitaet.png"
 worksheet:
-  file: /daf/materials/worksheets/unit06_umwelt-und-mobilitaet.pdf
-  thumbnail: /daf/materials/worksheets/unit06_umwelt-und-mobilitaet.png
+  file: "/daf/materials/worksheets/unit06_umwelt-und-mobilitaet.pdf"
+  thumbnail: "/daf/materials/worksheets/unit06_umwelt-und-mobilitaet.png"
 aliases:
 - /kurs_b1/units/unit06_umwelt-und-mobilitaet.html
 - /kurs_b1/units/unit06_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

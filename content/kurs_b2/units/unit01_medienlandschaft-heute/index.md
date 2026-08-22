@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: medienlandschaft-heute
 description: GER-Stufe B2 · GER-Prüfung B2 · Modul Lesen
 presentation:
-  file: /daf/materials/presentations/unit01_medienlandschaft-heute.pdf
-  thumbnail: /daf/materials/presentations/unit01_medienlandschaft-heute.png
+  file: "/daf/materials/presentations/unit01_medienlandschaft-heute.pdf"
+  thumbnail: "/daf/materials/presentations/unit01_medienlandschaft-heute.png"
 worksheet:
-  file: /daf/materials/worksheets/unit01_medienlandschaft-heute.pdf
-  thumbnail: /daf/materials/worksheets/unit01_medienlandschaft-heute.png
+  file: "/daf/materials/worksheets/unit01_medienlandschaft-heute.pdf"
+  thumbnail: "/daf/materials/worksheets/unit01_medienlandschaft-heute.png"
 aliases:
 - /kurs_b2/units/unit01_medienlandschaft-heute.html
 - /kurs_b2/units/unit01_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}

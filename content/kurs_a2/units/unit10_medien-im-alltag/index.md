@@ -15,11 +15,11 @@ pruefungs_module:
 unit_slug: medien-im-alltag
 description: GER-Stufe A2 · GER-Prüfung A2 · Modul Hören
 presentation:
-  file: /daf/materials/presentations/unit10_medien-im-alltag.pdf
-  thumbnail: /daf/materials/presentations/unit10_medien-im-alltag.png
+  file: "/daf/materials/presentations/unit10_medien-im-alltag.pdf"
+  thumbnail: "/daf/materials/presentations/unit10_medien-im-alltag.png"
 worksheet:
-  file: /daf/materials/worksheets/unit10_medien-im-alltag.pdf
-  thumbnail: /daf/materials/worksheets/unit10_medien-im-alltag.png
+  file: "/daf/materials/worksheets/unit10_medien-im-alltag.pdf"
+  thumbnail: "/daf/materials/worksheets/unit10_medien-im-alltag.png"
 aliases:
 - /kurs_a2/units/unit10_medien-im-alltag.html
 - /kurs_a2/units/unit10_slides.html
@@ -37,7 +37,6 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
-
 ---
 
 {{< callout type="note" >}}
