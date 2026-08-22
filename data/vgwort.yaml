@@ -22,409 +22,409 @@
 # entries: []
 
 # --- registered 2026-07-22 (units + appendices + prose) ---
-- path: content/anhaenge/bewertungsraster.md
+- url: /anhaenge/bewertungsraster/
   public_id: 1cb4506d9bbc45a8889a4f891fbe07ca
   pixel_url: https://vg09.met.vgwort.de/na/1cb4506d9bbc45a8889a4f891fbe07ca
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/anhaenge/glossar.md
+- url: /anhaenge/glossar/
   public_id: 1cc118cdc64845afa8a103500139d8ba
   pixel_url: https://vg09.met.vgwort.de/na/1cc118cdc64845afa8a103500139d8ba
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/danksagung.md
+- url: /danksagung/
   public_id: 1ccd3d666b414eebbb8433e030630aee
   pixel_url: https://vg09.met.vgwort.de/na/1ccd3d666b414eebbb8433e030630aee
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/formate.md
+- url: /formate/
   public_id: 1cfdb0847dea4dc4b8da675a28c273a0
   pixel_url: https://vg09.met.vgwort.de/na/1cfdb0847dea4dc4b8da675a28c273a0
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit01_begruessung-und-name.md
+- url: /kurs_a1/units/unit01_begruessung-und-name/
   public_id: 1d1ead6d894843f585706b4bc186f116
   pixel_url: https://vg09.met.vgwort.de/na/1d1ead6d894843f585706b4bc186f116
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit02_meine-familie.md
+- url: /kurs_a1/units/unit02_meine-familie/
   public_id: 1d3b5aa3584e441b9393cd8c2b13d7ba
   pixel_url: https://vg09.met.vgwort.de/na/1d3b5aa3584e441b9393cd8c2b13d7ba
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit03_woher-kommst-du.md
+- url: /kurs_a1/units/unit03_woher-kommst-du/
   public_id: 1d5874765aae412f8b108ddd82fc8d0b
   pixel_url: https://vg09.met.vgwort.de/na/1d5874765aae412f8b108ddd82fc8d0b
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit04_meine-wohnung.md
+- url: /kurs_a1/units/unit04_meine-wohnung/
   public_id: 1d83ca5177cd4674a07f3bc337bbe687
   pixel_url: https://vg09.met.vgwort.de/na/1d83ca5177cd4674a07f3bc337bbe687
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit05_essen-und-trinken.md
+- url: /kurs_a1/units/unit05_essen-und-trinken/
   public_id: 1dba9cad3ee842d88c6587900ab5048c
   pixel_url: https://vg09.met.vgwort.de/na/1dba9cad3ee842d88c6587900ab5048c
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit06_einkaufen-und-preise.md
+- url: /kurs_a1/units/unit06_einkaufen-und-preise/
   public_id: 1de088afd199407d8a92a9fd30f8145f
   pixel_url: https://vg09.met.vgwort.de/na/1de088afd199407d8a92a9fd30f8145f
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit07_uhrzeit-und-wochenplan.md
+- url: /kurs_a1/units/unit07_uhrzeit-und-wochenplan/
   public_id: 1e05dd05fa38401eb89231c4e8a6483e
   pixel_url: https://vg09.met.vgwort.de/na/1e05dd05fa38401eb89231c4e8a6483e
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit08_wetter-und-jahreszeiten.md
+- url: /kurs_a1/units/unit08_wetter-und-jahreszeiten/
   public_id: 1e186de0fcd446079ef76f22784a5225
   pixel_url: https://vg09.met.vgwort.de/na/1e186de0fcd446079ef76f22784a5225
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit09_koerper-und-gesundheit.md
+- url: /kurs_a1/units/unit09_koerper-und-gesundheit/
   public_id: 1e25604350d14490ad65fe0bcdfdeb77
   pixel_url: https://vg09.met.vgwort.de/na/1e25604350d14490ad65fe0bcdfdeb77
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit10_mein-beruf.md
+- url: /kurs_a1/units/unit10_mein-beruf/
   public_id: 1e3ed59c1fa5436e8fc38297076be664
   pixel_url: https://vg09.met.vgwort.de/na/1e3ed59c1fa5436e8fc38297076be664
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit11_meine-freizeit.md
+- url: /kurs_a1/units/unit11_meine-freizeit/
   public_id: 1e46e4f3619b4190b233ed9031f30924
   pixel_url: https://vg09.met.vgwort.de/na/1e46e4f3619b4190b233ed9031f30924
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a1/units/unit12_reisen-und-unterwegs.md
+- url: /kurs_a1/units/unit12_reisen-und-unterwegs/
   public_id: 1e67049309ac4205983deda08fa54703
   pixel_url: https://vg09.met.vgwort.de/na/1e67049309ac4205983deda08fa54703
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige.md
+- url: /kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/
   public_id: 1e99fb0d867e45099e834ecc58dc95b1
   pixel_url: https://vg09.met.vgwort.de/na/1e99fb0d867e45099e834ecc58dc95b1
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit02_wohnung-mieten.md
+- url: /kurs_a2/units/unit02_wohnung-mieten/
   public_id: 1eec790184d248ed928c4c0214ebc2f2
   pixel_url: https://vg09.met.vgwort.de/na/1eec790184d248ed928c4c0214ebc2f2
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit03_beim-arzt.md
+- url: /kurs_a2/units/unit03_beim-arzt/
   public_id: 1eeff766cb804d618fc133ccf89b66f1
   pixel_url: https://vg09.met.vgwort.de/na/1eeff766cb804d618fc133ccf89b66f1
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit04_im-amt.md
+- url: /kurs_a2/units/unit04_im-amt/
   public_id: 1f74bff769eb48edaac5a2608077b733
   pixel_url: https://vg09.met.vgwort.de/na/1f74bff769eb48edaac5a2608077b733
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit05_reiseplanung.md
+- url: /kurs_a2/units/unit05_reiseplanung/
   public_id: 1f8bd2d1f2fa4acba1254f56f46a3fee
   pixel_url: https://vg09.met.vgwort.de/na/1f8bd2d1f2fa4acba1254f56f46a3fee
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit06_hobbys-und-vereine.md
+- url: /kurs_a2/units/unit06_hobbys-und-vereine/
   public_id: 1fab8702f35f4be38d05fd0dfa0d58b0
   pixel_url: https://vg09.met.vgwort.de/na/1fab8702f35f4be38d05fd0dfa0d58b0
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit07_feste-und-traditionen.md
+- url: /kurs_a2/units/unit07_feste-und-traditionen/
   public_id: 1fcccbd4d3f949348343c68a55d977b9
   pixel_url: https://vg09.met.vgwort.de/na/1fcccbd4d3f949348343c68a55d977b9
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit08_gestern-und-vergangenheit.md
+- url: /kurs_a2/units/unit08_gestern-und-vergangenheit/
   public_id: 1fd7b1a33b4a4daa91109a09f9664894
   pixel_url: https://vg09.met.vgwort.de/na/1fd7b1a33b4a4daa91109a09f9664894
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit09_plaene-und-zukunft.md
+- url: /kurs_a2/units/unit09_plaene-und-zukunft/
   public_id: 1ff6dc978d964efd8d6604916254631f
   pixel_url: https://vg09.met.vgwort.de/na/1ff6dc978d964efd8d6604916254631f
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit10_medien-im-alltag.md
+- url: /kurs_a2/units/unit10_medien-im-alltag/
   public_id: 2004cf49b5fa46d685923e9921a7ab85
   pixel_url: https://vg09.met.vgwort.de/na/2004cf49b5fa46d685923e9921a7ab85
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit11_umwelt-und-alltag.md
+- url: /kurs_a2/units/unit11_umwelt-und-alltag/
   public_id: 200e454ea54e469c968a065ecc5d8db2
   pixel_url: https://vg09.met.vgwort.de/na/200e454ea54e469c968a065ecc5d8db2
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte.md
+- url: /kurs_a2/units/unit12_freundschaft-und-familiengeschichte/
   public_id: 20155d3c459f447da01a8dbde7758d27
   pixel_url: https://vg09.met.vgwort.de/na/20155d3c459f447da01a8dbde7758d27
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit01_neuanfang-in-basel.md
+- url: /kurs_b1/units/unit01_neuanfang-in-basel/
   public_id: 2040889ae3d94373a19c794a034915f5
   pixel_url: https://vg09.met.vgwort.de/na/2040889ae3d94373a19c794a034915f5
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit02_der-bewerbungsweg.md
+- url: /kurs_b1/units/unit02_der-bewerbungsweg/
   public_id: 20685937cdb64fabaec27e776ec69517
   pixel_url: https://vg09.met.vgwort.de/na/20685937cdb64fabaec27e776ec69517
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit03_weiterbildung-und-studium.md
+- url: /kurs_b1/units/unit03_weiterbildung-und-studium/
   public_id: 207997e78e654d03a37331fc42f329fe
   pixel_url: https://vg09.met.vgwort.de/na/207997e78e654d03a37331fc42f329fe
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit04_gesundheitssystem-dach.md
+- url: /kurs_b1/units/unit04_gesundheitssystem-dach/
   public_id: 20a7821b23ef4bc3a295b492aa0bba42
   pixel_url: https://vg09.met.vgwort.de/na/20a7821b23ef4bc3a295b492aa0bba42
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit05_digitale-kommunikation.md
+- url: /kurs_b1/units/unit05_digitale-kommunikation/
   public_id: 20af803620b54e318828bf08ecd82ecd
   pixel_url: https://vg09.met.vgwort.de/na/20af803620b54e318828bf08ecd82ecd
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit06_umwelt-und-mobilitaet.md
+- url: /kurs_b1/units/unit06_umwelt-und-mobilitaet/
   public_id: 20f9b372eb91445ea7d64382a3024423
   pixel_url: https://vg09.met.vgwort.de/na/20f9b372eb91445ea7d64382a3024423
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit07_interkulturelle-begegnung.md
+- url: /kurs_b1/units/unit07_interkulturelle-begegnung/
   public_id: 2102ac188167493cb00ea8d370cffafd
   pixel_url: https://vg09.met.vgwort.de/na/2102ac188167493cb00ea8d370cffafd
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit08_stadt-und-land.md
+- url: /kurs_b1/units/unit08_stadt-und-land/
   public_id: 21457d3f683e41148a9febf44279bb56
   pixel_url: https://vg09.met.vgwort.de/na/21457d3f683e41148a9febf44279bb56
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit09_konsum-und-verbraucherschutz.md
+- url: /kurs_b1/units/unit09_konsum-und-verbraucherschutz/
   public_id: 21ba496458f743c0aee8f4624d0d4058
   pixel_url: https://vg09.met.vgwort.de/na/21ba496458f743c0aee8f4624d0d4058
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit10_politik-und-teilhabe.md
+- url: /kurs_b1/units/unit10_politik-und-teilhabe/
   public_id: 21ddcd87f5e64c5abc181ae66a0b7ca5
   pixel_url: https://vg09.met.vgwort.de/na/21ddcd87f5e64c5abc181ae66a0b7ca5
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit11_persoenliche-beziehungen.md
+- url: /kurs_b1/units/unit11_persoenliche-beziehungen/
   public_id: 21ef7eedf006456ebd12e84948076c3b
   pixel_url: https://vg09.met.vgwort.de/na/21ef7eedf006456ebd12e84948076c3b
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b1/units/unit12_zukunftsvisionen.md
+- url: /kurs_b1/units/unit12_zukunftsvisionen/
   public_id: 2213da75f58c4586b2aee16c99b9cf09
   pixel_url: https://vg09.met.vgwort.de/na/2213da75f58c4586b2aee16c99b9cf09
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit01_medienlandschaft-heute.md
+- url: /kurs_b2/units/unit01_medienlandschaft-heute/
   public_id: 2246fd545eb8435685f0499fb5af40fc
   pixel_url: https://vg09.met.vgwort.de/na/2246fd545eb8435685f0499fb5af40fc
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit02_wissenschaft-kommunizieren.md
+- url: /kurs_b2/units/unit02_wissenschaft-kommunizieren/
   public_id: 225729bca1c64b31912958558d93e1d8
   pixel_url: https://vg09.met.vgwort.de/na/225729bca1c64b31912958558d93e1d8
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit03_gesellschaftliche-debatten.md
+- url: /kurs_b2/units/unit03_gesellschaftliche-debatten/
   public_id: 2268eff3808840d1b3fe2cd9426a4558
   pixel_url: https://vg09.met.vgwort.de/na/2268eff3808840d1b3fe2cd9426a4558
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit04_arbeitswelt-im-wandel.md
+- url: /kurs_b2/units/unit04_arbeitswelt-im-wandel/
   public_id: 2298d2f5edcd46038dfcc873ffe406b9
   pixel_url: https://vg09.met.vgwort.de/na/2298d2f5edcd46038dfcc873ffe406b9
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit05_kunst-und-kultur.md
+- url: /kurs_b2/units/unit05_kunst-und-kultur/
   public_id: 22ad37f7774a40408132361c82af77a1
   pixel_url: https://vg09.met.vgwort.de/na/22ad37f7774a40408132361c82af77a1
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit06_migrationsdiskurs.md
+- url: /kurs_b2/units/unit06_migrationsdiskurs/
   public_id: 22b4bdf54a084956962491a1109ad33f
   pixel_url: https://vg09.met.vgwort.de/na/22b4bdf54a084956962491a1109ad33f
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit07_gesundheitspolitik.md
+- url: /kurs_b2/units/unit07_gesundheitspolitik/
   public_id: 22dce76b69354c98bc3dbeb0567aec88
   pixel_url: https://vg09.met.vgwort.de/na/22dce76b69354c98bc3dbeb0567aec88
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit08_umweltpolitik.md
+- url: /kurs_b2/units/unit08_umweltpolitik/
   public_id: 22eaea54ea0349c0a01b5c64d1d68cc2
   pixel_url: https://vg09.met.vgwort.de/na/22eaea54ea0349c0a01b5c64d1d68cc2
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit09_bildungsdebatten.md
+- url: /kurs_b2/units/unit09_bildungsdebatten/
   public_id: 2316bc373211416385bfb4935e4d3dcd
   pixel_url: https://vg09.met.vgwort.de/na/2316bc373211416385bfb4935e4d3dcd
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit10_ethik-digitaler-technologien.md
+- url: /kurs_b2/units/unit10_ethik-digitaler-technologien/
   public_id: 23388de3dfce4559b4fb96b2107b1675
   pixel_url: https://vg09.met.vgwort.de/na/23388de3dfce4559b4fb96b2107b1675
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit11_oekonomie-fuer-laien.md
+- url: /kurs_b2/units/unit11_oekonomie-fuer-laien/
   public_id: 23510dcb2dc7440cb9517b428ecdf576
   pixel_url: https://vg09.met.vgwort.de/na/23510dcb2dc7440cb9517b428ecdf576
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_b2/units/unit12_literarische-perspektiven.md
+- url: /kurs_b2/units/unit12_literarische-perspektiven/
   public_id: 2353e3811f254fcb96f8dcf3f10e4da8
   pixel_url: https://vg09.met.vgwort.de/na/2353e3811f254fcb96f8dcf3f10e4da8
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit01_literarisches-argumentieren.md
+- url: /kurs_c1/units/unit01_literarisches-argumentieren/
   public_id: 2395ea61453c4d38adc510839bb4e172
   pixel_url: https://vg09.met.vgwort.de/na/2395ea61453c4d38adc510839bb4e172
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit02_politische-diskursanalyse.md
+- url: /kurs_c1/units/unit02_politische-diskursanalyse/
   public_id: 23ab9139c9ef48d48d6d1fa7757f69fe
   pixel_url: https://vg09.met.vgwort.de/na/23ab9139c9ef48d48d6d1fa7757f69fe
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit03_wissenschaftstheorie.md
+- url: /kurs_c1/units/unit03_wissenschaftstheorie/
   public_id: 23adab1dcb5d43509c90a1b1c2d8777a
   pixel_url: https://vg09.met.vgwort.de/na/23adab1dcb5d43509c90a1b1c2d8777a
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit04_aesthetik-und-urteil.md
+- url: /kurs_c1/units/unit04_aesthetik-und-urteil/
   public_id: 23bee363cf904a74a19c1ff4b9a6f726
   pixel_url: https://vg09.met.vgwort.de/na/23bee363cf904a74a19c1ff4b9a6f726
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit05_identitaet-und-sprache.md
+- url: /kurs_c1/units/unit05_identitaet-und-sprache/
   public_id: 23e1497a07f140228aba8d7acb87e848
   pixel_url: https://vg09.met.vgwort.de/na/23e1497a07f140228aba8d7acb87e848
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit06_postkoloniale-perspektiven.md
+- url: /kurs_c1/units/unit06_postkoloniale-perspektiven/
   public_id: 23fdeea5178b4b92b5cc4367af497355
   pixel_url: https://vg09.met.vgwort.de/na/23fdeea5178b4b92b5cc4367af497355
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit07_historiografie.md
+- url: /kurs_c1/units/unit07_historiografie/
   public_id: 2439973042114c5db4ace64b8c7295aa
   pixel_url: https://vg09.met.vgwort.de/na/2439973042114c5db4ace64b8c7295aa
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien.md
+- url: /kurs_c1/units/unit08_philosophie-fuer-informierte-laien/
   public_id: 245ce750c2084bb0aa688b60d97f154f
   pixel_url: https://vg09.met.vgwort.de/na/245ce750c2084bb0aa688b60d97f154f
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht.md
+- url: /kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/
   public_id: 2478220ae6c74565b038bae98b489925
   pixel_url: https://vg09.met.vgwort.de/na/2478220ae6c74565b038bae98b489925
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit10_stilistik-und-rhetorik.md
+- url: /kurs_c1/units/unit10_stilistik-und-rhetorik/
   public_id: 249bb9665e8c4139a9a431d9543f48cf
   pixel_url: https://vg09.met.vgwort.de/na/249bb9665e8c4139a9a431d9543f48cf
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit11_literarische-moderne.md
+- url: /kurs_c1/units/unit11_literarische-moderne/
   public_id: 249ffa7b99a7473082db480acfcdc721
   pixel_url: https://vg09.met.vgwort.de/na/249ffa7b99a7473082db480acfcdc721
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/kurs_c1/units/unit12_gegenwartsliteratur.md
+- url: /kurs_c1/units/unit12_gegenwartsliteratur/
   public_id: 24c9c4f92ec5422daac1d645a674043f
   pixel_url: https://vg09.met.vgwort.de/na/24c9c4f92ec5422daac1d645a674043f
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/literatur.md
+- url: /literatur/
   public_id: 251b3ec77a794cf794058eb06b0e3c58
   pixel_url: https://vg09.met.vgwort.de/na/251b3ec77a794cf794058eb06b0e3c58
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/start.md
+- url: /start/
   public_id: 254c47061c6944e18e597a885fac1ce9
   pixel_url: https://vg09.met.vgwort.de/na/254c47061c6944e18e597a885fac1ce9
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/ueber.md
+- url: /ueber/
   public_id: 257f396599f54a09b54a4446e5992b72
   pixel_url: https://vg09.met.vgwort.de/na/257f396599f54a09b54a4446e5992b72
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
-- path: content/uebersicht.md
+- url: /uebersicht/
   public_id: 25b56b4eb63040e2acf876aa71cb4a9c
   pixel_url: https://vg09.met.vgwort.de/na/25b56b4eb63040e2acf876aa71cb4a9c
   min_chars: 1800

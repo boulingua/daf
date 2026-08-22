@@ -38,7 +38,23 @@ def load_registry() -> dict[str, dict]:
     raw = yaml.safe_load(DATA.read_text(encoding="utf-8"))
     if not raw or not isinstance(raw, list):
         return {}
-    return {e["path"]: e for e in raw if "path" in e}
+    # Accept both key forms. The registry moved from path: to url: because a
+    # path: key names the exact source file and stops matching the moment that
+    # file moves — including the URL-neutral move to a leaf bundle. This script
+    # walks source files, so it derives the URL the way Hugo does: a page and
+    # its bundle form both resolve to the containing directory.
+    #
+    # Deriving is acceptable HERE and nowhere else in the VG Wort path. This is
+    # an advisory warning about pages that look long enough to register; being
+    # wrong costs a spurious line of output. The registry itself is keyed by
+    # measurement, because being wrong there costs the mark.
+    out: dict[str, dict] = {}
+    for e in raw:
+        if "path" in e:
+            out[e["path"]] = e
+        if "url" in e:
+            out[str(e["url"]).strip("/")] = e
+    return out
 
 
 def body_chars(md_text: str) -> int:
@@ -68,6 +84,13 @@ def main() -> int:
         if (fm or {}).get("vgwort_pixel") or (fm or {}).get("vgwort"):
             continue
         if rel in registry:
+            continue
+        parts = rel.split("/")[1:]          # drop the leading content/
+        if parts and parts[-1] in ("index.md", "_index.md"):
+            parts = parts[:-1]
+        elif parts:
+            parts[-1] = parts[-1][:-3] if parts[-1].endswith(".md") else parts[-1]
+        if "/".join(parts) in registry:
             continue
         chars = body_chars(text)
         if chars >= MIN_CHARS:
