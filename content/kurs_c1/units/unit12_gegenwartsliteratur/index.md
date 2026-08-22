@@ -322,7 +322,7 @@ in den Aufgaben sind erfunden. Reale Autorinnen und Autoren werden nur
 paraphrasierend genannt und verlinkt — kein urheberrechtlich
 geschützter Text wird zitiert.
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** 1) K · 2) B · 3) L.
 
@@ -347,6 +347,7 @@ Kontrast.
 3) Musterthese: „*Randlage* erzählt den sozialen Aufstieg nur, um ihn
 zugleich zu misstrauen.“
 
+{{< /details >}}
 ## Quellen
 
 - *Deutscher Buchpreis* — Wikipedia (Abruf 2026), Fakten zu Vergabe,

@@ -250,7 +250,7 @@ Schreiben Sie einen dritten Satz, der beide Seiten abwägt und mit
 *„Alles in allem …“* eine eigene Position andeutet.
 {{< /details >}}
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** 1) T · 2) W · 3) T · 4) W · 5) T.
 
@@ -271,6 +271,7 @@ dazu · 3) einerseits … andererseits · 4) folglich.
   die Entscheidung darüber, was als „geprüft“ gilt, verlagert Macht
   auf die Plattformen selbst.*
 
+{{< /details >}}
 ## Anwenden
 
 **Produktionsaufgabe — Schriftliche Stellungnahme (B2, ca. 180–220

@@ -185,7 +185,7 @@ Umwelt-Tipps mit *weil*.
 - **A2.2 (stärker):** Aufgabe 3 und 4 frei; zusätzlich einen
   dritten eigenen Tipp mit *weil* und *und* verbinden.
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** Zeitung → blau · Apfelrest → braun · saubere
 Plastikflasche → gelb · schmutziger Becher → grau · leere
@@ -200,6 +200,7 @@ gut für die Umwelt ist. · 3) …, weil man es recyceln kann.
 **Aufgabe 4.** Individuell. Muster: *Ich fahre mit dem Rad, weil
 ich Benzin spare. Ich mache das Licht aus, weil das Strom spart.*
 
+{{< /details >}}
 ## Anwenden
 
 **Sprechen — Umwelt-Tipp weitergeben.** Arbeiten Sie zu zweit.

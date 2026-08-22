@@ -198,7 +198,7 @@ den Wörtern aus dem Kasten und lesen Sie sie laut.
   (*Ich nehme den Samstag, weil …*).
 {{< /callout >}}
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** 1-b · 2-a · 3-c · 4-e · 5-d.
 
@@ -215,6 +215,7 @@ den Wörtern aus dem Kasten und lesen Sie sie laut.
 
 **Aufgabe 4.** 1. wie hoch · 2. wo · 3. wann · 4. ob · 5. wie groß.
 
+{{< /details >}}
 ## Anwenden
 
 **Produktionsaufgabe (Sprechen, Partnerarbeit).** Spielen Sie ein

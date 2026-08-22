@@ -170,7 +170,7 @@ ein und stellen Sie eine Rückfrage: *Und du?*
 
 {{< /details >}}
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** 1–c · 2–a · 3–b · 4–d.
 
@@ -183,6 +183,7 @@ ein und stellen Sie eine Rückfrage: *Und du?*
 
 **Aufgabe 4.** machst · mache · spiele.
 
+{{< /details >}}
 ## Anwenden
 
 **Sprechaufgabe — Mini-Interview (zu zweit).** Fragen Sie Ihre Partnerin

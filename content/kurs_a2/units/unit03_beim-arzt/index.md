@@ -225,7 +225,7 @@ Kreuzen Sie an.
 
 {{< /callout >}}
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** 1) R · 2) F (sie hat 38,7 Grad) · 3) R · 4) F (drei Tage).
 
@@ -238,6 +238,7 @@ Kreuzen Sie an.
 3) Machen Sie den Mund auf. · 4) Nehmen Sie die Tablette nach dem
 Essen.
 
+{{< /details >}}
 ## Anwenden
 
 **Rollenspiel (Sprechen) — In der Apotheke.** Arbeiten Sie zu zweit.

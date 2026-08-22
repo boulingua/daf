@@ -159,7 +159,7 @@ Seit Mai 2023 gibt es in Deutschland das Deutschland-Ticket. Man kauft ein Ticke
 - **Leichter:** Wortkarten mit Bildern vorgeben; Aufgabe 3 mit vorgegebenen Optionen (dem/der) zum Ankreuzen.
 - **Schwerer:** Lernende schreiben zwei eigene Sätze mit *mit dem / mit der* und einem Ziel.
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** a) der Zug · b) die U-Bahn · c) das Flugzeug · d) das Fahrrad.
 
@@ -169,6 +169,7 @@ Seit Mai 2023 gibt es in Deutschland das Deutschland-Ticket. Man kauft ein Ticke
 
 **Aufgabe 4.** (Beispiel) der Ausgang · geradeaus · Dank.
 
+{{< /details >}}
 ## Anwenden
 
 **Sprechaufgabe (A1):** Spielen Sie zu zweit einen Mini-Dialog am Ticket-Automaten. Person A kauft ein Ticket nach Graz und fragt nach dem Gleis. Person B ist der Automat / die Information.

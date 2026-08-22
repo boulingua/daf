@@ -192,7 +192,7 @@ ____ Hand · ____ Fuß · ____ Bauch
 - *Schwerer:* Lernende nennen **zwei** Beschwerden und stellen der
   Ärztin selbst eine Frage (*Was soll ich nehmen?*).
 
-## Lösungen
+{{< details title="Lösungen" >}}
 
 **Aufgabe 1.** 1 → C · 2 → D · 3 → A · 4 → B.
 
@@ -204,6 +204,7 @@ die Hand · der Fuß · der Bauch.
 **Aufgabe 4.** Individuell. Muster: *Ich habe Halsschmerzen.* /
 *Seit zwei Tagen.*
 
+{{< /details >}}
 ## Anwenden
 
 **Sprechaufgabe — Rollenspiel „Beim Arzt".** Arbeiten Sie zu zweit.
