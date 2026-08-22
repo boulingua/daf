@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 9 — Fachsprachen: Wirtschaft, Medizin, Recht im Vergleich'
 cefr_level: C1
 unit_nr: 9
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich vermittle Fachaussagen für Nicht-Fachpublikum.
 - Ich kenne typische Strukturen Recht / Medizin / Wirtschaft.
 skills_focus:
-- lesen
-- sprachmittlung
+- mediation
+- reading
 pruefungs_module:
 - lesen
 unit_slug: fachsprachen-wirtschaft-medizin-recht
@@ -26,12 +27,17 @@ topic: wissenschaft
 tags:
 - level-c1
 - modul-lesen
-- skill-lesen
-- skill-sprachmittlung
+- skill-mediation
+- skill-reading
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

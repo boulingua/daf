@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: Glossar
 aliases:
 - /anhaenge/glossar.html

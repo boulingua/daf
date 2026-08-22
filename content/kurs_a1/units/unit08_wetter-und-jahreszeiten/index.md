@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 8 — Wetter und Jahreszeiten
 cefr_level: A1
 unit_nr: 8
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich kann Wetter in einfachen Sätzen beschreiben.
 - Ich nenne die vier Jahreszeiten.
 skills_focus:
-- hoeren
+- listening
 - sprechen
 pruefungs_module:
 - hören
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a1
 - modul-hören
-- skill-hoeren
+- skill-listening
 - skill-sprechen
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: Bewertungsraster
 aliases:
 - /anhaenge/bewertungsraster.html

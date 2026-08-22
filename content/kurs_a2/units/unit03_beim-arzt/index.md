@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 3 — Beim Arzt und in der Apotheke
 cefr_level: A2
 unit_nr: 3
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich kann Beschwerden genauer beschreiben.
 - Ich verstehe Dosierungs-Anweisungen.
 skills_focus:
-- hoeren
+- listening
 - sprechen
 pruefungs_module:
 - hören
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a2
 - modul-hören
-- skill-hoeren
+- skill-listening
 - skill-sprechen
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

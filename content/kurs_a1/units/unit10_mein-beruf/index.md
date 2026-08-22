@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 10 — Mein Beruf
 cefr_level: A1
 unit_nr: 10
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich erkenne zehn Berufsnamen im Alltag.
 - Ich schreibe einen kurzen Text über meine Arbeit.
 skills_focus:
-- schreiben
 - sprechen
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: mein-beruf
@@ -26,12 +27,17 @@ topic: arbeit
 tags:
 - level-a1
 - modul-schreiben
-- skill-schreiben
 - skill-sprechen
+- skill-writing
 - topic-arbeit
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

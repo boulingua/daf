@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 5 — Identität und Sprache: Mehrsprachigkeit als Ressource'
 cefr_level: C1
 unit_nr: 5
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich verfasse einen essayistischen Forumsbeitrag (230 Wörter).
 - Ich kenne Begriffe wie *Translanguaging, Code-Switching, Heritage Speaker*.
 skills_focus:
-- lesen
-- schreiben
+- reading
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: identitaet-und-sprache
@@ -26,12 +27,17 @@ topic: wissenschaft
 tags:
 - level-c1
 - modul-schreiben
-- skill-lesen
-- skill-schreiben
+- skill-reading
+- skill-writing
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

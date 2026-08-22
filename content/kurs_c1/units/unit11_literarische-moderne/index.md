@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 11 — Literarische Moderne: Kafka, Mann, Musil — und warum sie heute
   lesen?'
 cefr_level: C1
@@ -8,7 +9,7 @@ cefr_can_do:
 - Ich präsentiere einen Lektüreeindruck öffentlich.
 - Ich erkenne Kafka-, Mann-, Musil-Stiltypen.
 skills_focus:
-- lesen
+- reading
 - sprechen
 pruefungs_module:
 - sprechen
@@ -27,12 +28,17 @@ topic: kultur
 tags:
 - level-c1
 - modul-sprechen
-- skill-lesen
+- skill-reading
 - skill-sprechen
 - topic-kultur
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

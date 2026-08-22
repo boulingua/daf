@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 10 — Ethik digitaler Technologien
 cefr_level: B2
 unit_nr: 10
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich moderiere einen Forumsbeitrag.
 - Ich kenne Begriffe wie *Datenschutz, Algorithmus, Bias, Transparenz*.
 skills_focus:
-- schreiben
 - sprechen
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: ethik-digitaler-technologien
@@ -26,12 +27,17 @@ topic: wissenschaft
 tags:
 - level-b2
 - modul-schreiben
-- skill-schreiben
 - skill-sprechen
+- skill-writing
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

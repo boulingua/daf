@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 11 — Ökonomie für Laien: Inflation und Geldwert'
 cefr_level: B2
 unit_nr: 11
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich formuliere Fachbegriffe für Nicht-Fachpublikum um.
 - Ich kenne Begriffe wie *Inflation, Kaufkraft, Zinsen*.
 skills_focus:
-- hoeren
-- sprachmittlung
+- listening
+- mediation
 pruefungs_module:
 - hören
 unit_slug: oekonomie-fuer-laien
@@ -26,12 +27,17 @@ topic: gesellschaft
 tags:
 - level-b2
 - modul-hören
-- skill-hoeren
-- skill-sprachmittlung
+- skill-listening
+- skill-mediation
 - topic-gesellschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

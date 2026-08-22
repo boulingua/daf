@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 5 — Kunst und Kultur: Ausstellung besprechen'
 cefr_level: B2
 unit_nr: 5
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich schreibe eine Kurzrezension mit Begründung.
 - Ich kenne Wortschatz zu Museums- / Kunstbesprechung.
 skills_focus:
-- hoeren
-- schreiben
+- listening
+- writing
 pruefungs_module:
 - hören
 unit_slug: kunst-und-kultur
@@ -26,12 +27,17 @@ topic: kultur
 tags:
 - level-b2
 - modul-hören
-- skill-hoeren
-- skill-schreiben
+- skill-listening
+- skill-writing
 - topic-kultur
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 1 — Neuanfang in Basel
 cefr_level: B1
 unit_nr: 1
@@ -9,7 +10,7 @@ cefr_can_do:
   erzählen.
 - Ich kann eine kurze Präsentation zu meinem Berufsweg halten und auf Rückfragen reagieren.
 skills_focus:
-- lesen
+- reading
 - sprechen
 pruefungs_module:
 - sprechen
@@ -28,12 +29,17 @@ topic: alltag
 tags:
 - level-b1
 - modul-sprechen
-- skill-lesen
+- skill-reading
 - skill-sprechen
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

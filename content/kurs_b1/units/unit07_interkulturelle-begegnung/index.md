@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 7 — Interkulturelle Begegnung: Missverständnisse und Lösungen'
 cefr_level: B1
 unit_nr: 7
@@ -8,8 +9,8 @@ cefr_can_do:
 - Ich kann eine Position höflich relativieren, wenn ich merke, dass ich anders gedacht
   habe.
 skills_focus:
+- language_awareness
 - sprechen
-- sprachreflexion
 pruefungs_module:
 - sprechen
 unit_slug: interkulturelle-begegnung
@@ -27,12 +28,17 @@ topic: kommunikation
 tags:
 - level-b1
 - modul-sprechen
+- skill-language-awareness
 - skill-sprechen
-- skill-sprachreflexion
 - topic-kommunikation
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

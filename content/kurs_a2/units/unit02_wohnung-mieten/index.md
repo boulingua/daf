@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 2 — Wohnung mieten
 cefr_level: A2
 unit_nr: 2
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich kann einen Besichtigungstermin aushandeln.
 - Ich frage nach Miete, Größe und Lage.
 skills_focus:
-- lesen
+- reading
 - sprechen
 pruefungs_module:
 - sprechen
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a2
 - modul-sprechen
-- skill-lesen
+- skill-reading
 - skill-sprechen
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

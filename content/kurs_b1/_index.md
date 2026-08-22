@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Kurs B1 — Selbstständig (untere Stufe)
 aliases:
 - /kurs_b1/index.html

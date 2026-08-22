@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 2 — Wissenschaft kommunizieren
 cefr_level: B2
 unit_nr: 2
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich formuliere einen komplexen wissenschaftsjournalistischen Text.
 - Ich erkenne Einschränkungen und Hypothesen in wissenschaftlicher Sprache.
 skills_focus:
-- hoeren
-- schreiben
+- listening
+- writing
 pruefungs_module:
 - hören
 unit_slug: wissenschaft-kommunizieren
@@ -26,12 +27,17 @@ topic: wissenschaft
 tags:
 - level-b2
 - modul-hören
-- skill-hoeren
-- skill-schreiben
+- skill-listening
+- skill-writing
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Arbeitsblätter
 description: Alle 60 DaF-Arbeitsblätter (Platzhalter), filterbar nach GER-Stufe und
   Modul.

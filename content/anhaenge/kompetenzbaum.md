@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: Kompetenzbaum
 aliases:
 - /anhaenge/kompetenzbaum.html

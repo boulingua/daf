@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 10 — Medien im Alltag
 cefr_level: A2
 unit_nr: 10
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich lese einfache Zeitungsmeldungen.
 - Ich nenne drei deutschsprachige Medien.
 skills_focus:
-- hoeren
-- lesen
+- listening
+- reading
 pruefungs_module:
 - hören
 unit_slug: medien-im-alltag
@@ -26,12 +27,17 @@ topic: kommunikation
 tags:
 - level-a2
 - modul-hören
-- skill-hoeren
-- skill-lesen
+- skill-listening
+- skill-reading
 - topic-kommunikation
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

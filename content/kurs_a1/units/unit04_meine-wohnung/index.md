@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 4 — Meine Wohnung
 cefr_level: A1
 unit_nr: 4
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann einfache Wohnungsanzeigen verstehen.
 - Ich kann kurze Angaben in einem Wohn-Formular eintragen.
 skills_focus:
-- schreiben
-- lesen
+- reading
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: meine-wohnung
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a1
 - modul-schreiben
-- skill-schreiben
-- skill-lesen
+- skill-reading
+- skill-writing
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

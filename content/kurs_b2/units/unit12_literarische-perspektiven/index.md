@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 12 — Literarische Perspektiven: Erzählstimmen der Gegenwart'
 cefr_level: B2
 unit_nr: 12
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich präsentiere einen eigenen Leseeindruck strukturiert.
 - Ich diskutiere Textstimmen und Erzählperspektiven.
 skills_focus:
-- lesen
+- reading
 - sprechen
 pruefungs_module:
 - sprechen
@@ -26,12 +27,17 @@ topic: kultur
 tags:
 - level-b2
 - modul-sprechen
-- skill-lesen
+- skill-reading
 - skill-sprechen
 - topic-kultur
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

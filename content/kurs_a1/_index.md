@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Kurs A1 — Anfänger:innen
 aliases:
 - /kurs_a1/index.html

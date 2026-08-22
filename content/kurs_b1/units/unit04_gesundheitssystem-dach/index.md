@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 4 — Gesundheitssystem im DACH-Raum
 cefr_level: B1
 unit_nr: 4
@@ -8,8 +9,8 @@ cefr_can_do:
 - Ich kann Unterschiede zwischen den Gesundheitssystemen in Deutschland, Österreich
   und der Schweiz erläutern.
 skills_focus:
-- hoeren
-- sprachmittlung
+- listening
+- mediation
 pruefungs_module:
 - hören
 unit_slug: gesundheitssystem-dach
@@ -27,12 +28,17 @@ topic: gesellschaft
 tags:
 - level-b1
 - modul-hören
-- skill-hoeren
-- skill-sprachmittlung
+- skill-listening
+- skill-mediation
 - topic-gesellschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

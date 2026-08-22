@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 1 — Arbeitssuche und Stellenanzeige
 cefr_level: A2
 unit_nr: 1
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann eine kurze Bewerbungs-E-Mail schreiben.
 - Ich kenne Berufsnamen und Arbeitsbedingungen auf A2.
 skills_focus:
-- lesen
-- schreiben
+- reading
+- writing
 pruefungs_module:
 - lesen
 unit_slug: arbeitssuche-und-stellenanzeige
@@ -26,12 +27,17 @@ topic: arbeit
 tags:
 - level-a2
 - modul-lesen
-- skill-lesen
-- skill-schreiben
+- skill-reading
+- skill-writing
 - topic-arbeit
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

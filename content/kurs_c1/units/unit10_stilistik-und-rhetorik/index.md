@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 10 — Stilistik und Rhetorik
 cefr_level: C1
 unit_nr: 10
@@ -8,7 +9,7 @@ cefr_can_do:
 - Ich kenne Begriffe wie *Anapher, Klimax, Chiasmus*.
 skills_focus:
 - sprechen
-- schreiben
+- writing
 pruefungs_module:
 - sprechen
 unit_slug: stilistik-und-rhetorik
@@ -27,11 +28,16 @@ tags:
 - level-c1
 - modul-sprechen
 - skill-sprechen
-- skill-schreiben
+- skill-writing
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

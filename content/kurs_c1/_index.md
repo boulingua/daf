@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Kurs C1 — Kompetent
 aliases:
 - /kurs_c1/index.html

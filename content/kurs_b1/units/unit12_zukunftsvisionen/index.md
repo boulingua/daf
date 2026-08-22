@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 12 — Zukunftsvisionen: Was wird 2040 anders sein?'
 cefr_level: B1
 unit_nr: 12
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich kann eine Präsentation zu einem Zukunftsthema halten.
 - Ich kann Meinungen zur Zukunft verschiedenen Personen zuordnen.
 skills_focus:
-- hoeren
+- listening
 - sprechen
 pruefungs_module:
 - hören
@@ -26,12 +27,17 @@ topic: gesellschaft
 tags:
 - level-b1
 - modul-hören
-- skill-hoeren
+- skill-listening
 - skill-sprechen
 - topic-gesellschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

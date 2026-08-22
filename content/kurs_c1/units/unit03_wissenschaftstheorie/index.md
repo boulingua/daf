@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 3 — Wissenschaftstheorie: Was ist Erkenntnis?'
 cefr_level: C1
 unit_nr: 3
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich reformuliere erkenntnistheoretische Fragen für ein Laien-Publikum.
 - Ich kenne Begriffe wie *Falsifikation, Induktion, Paradigma*.
 skills_focus:
-- hoeren
+- listening
 - sprechen
 pruefungs_module:
 - hören
@@ -26,12 +27,17 @@ topic: wissenschaft
 tags:
 - level-c1
 - modul-hören
-- skill-hoeren
+- skill-listening
 - skill-sprechen
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 8 — Philosophie für informierte Laien
 cefr_level: C1
 unit_nr: 8
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich verfasse eine präzise Kurzreplik (120 Wörter).
 - Ich kenne Begriffe wie *Dialektik, Antinomie, Lebenswelt*.
 skills_focus:
-- lesen
-- schreiben
+- reading
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: philosophie-fuer-informierte-laien
@@ -26,12 +27,17 @@ topic: wissenschaft
 tags:
 - level-c1
 - modul-schreiben
-- skill-lesen
-- skill-schreiben
+- skill-reading
+- skill-writing
 - topic-wissenschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

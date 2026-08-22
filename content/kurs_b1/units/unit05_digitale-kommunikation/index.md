@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 5 — Digitale Kommunikation: Chat, E-Mail, Forum'
 cefr_level: B1
 unit_nr: 5
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann halb-formelle E-Mails je nach Register anpassen.
 - Ich erkenne, wo Chat- und Mail-Konventionen auseinanderlaufen.
 skills_focus:
-- schreiben
-- lesen
+- reading
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: digitale-kommunikation
@@ -26,12 +27,17 @@ topic: kommunikation
 tags:
 - level-b1
 - modul-schreiben
-- skill-schreiben
-- skill-lesen
+- skill-reading
+- skill-writing
 - topic-kommunikation
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

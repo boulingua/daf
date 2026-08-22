@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: Übersicht
 aliases:
 - /uebersicht.html

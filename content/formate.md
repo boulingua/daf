@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: Prüfungsformate A1–C1
 aliases:
 - /formate.html

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 5 — Reiseplanung mit Budget
 cefr_level: A2
 unit_nr: 5
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich ordne Reiseangebote einer Situation zu.
 - Ich schreibe eine einfache Reiseplanung mit Budget.
 skills_focus:
-- lesen
-- schreiben
+- reading
+- writing
 pruefungs_module:
 - lesen
 unit_slug: reiseplanung
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a2
 - modul-lesen
-- skill-lesen
-- skill-schreiben
+- skill-reading
+- skill-writing
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

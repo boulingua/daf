@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Materialien
 description: Foliensätze und Arbeitsblätter zu allen 60 DaF-Einheiten.
 author: S. Le Boulanger

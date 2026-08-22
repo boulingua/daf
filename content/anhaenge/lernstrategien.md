@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: Lernstrategien
 aliases:
 - /anhaenge/lernstrategien.html

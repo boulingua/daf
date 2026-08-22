@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 7 — Historiografie: Wem gehört das Narrativ?'
 cefr_level: C1
 unit_nr: 7
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich problematisiere Geschichtserzählungen argumentativ.
 - Ich kenne Begriffe wie *Quelle, Narrativ, Meta-Narrativ, Schweige-Archiv*.
 skills_focus:
-- hoeren
+- listening
 - sprechen
 pruefungs_module:
 - hören
@@ -26,12 +27,17 @@ topic: kultur
 tags:
 - level-c1
 - modul-hören
-- skill-hoeren
+- skill-listening
 - skill-sprechen
 - topic-kultur
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

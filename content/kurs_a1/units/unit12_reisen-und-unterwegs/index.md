@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 12 — Reisen und unterwegs
 cefr_level: A1
 unit_nr: 12
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich verstehe einfache Schilder und Hinweise.
 - Ich schreibe eine kurze Postkarte von unterwegs.
 skills_focus:
-- lesen
-- schreiben
+- reading
+- writing
 pruefungs_module:
 - lesen
 unit_slug: reisen-und-unterwegs
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a1
 - modul-lesen
-- skill-lesen
-- skill-schreiben
+- skill-reading
+- skill-writing
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

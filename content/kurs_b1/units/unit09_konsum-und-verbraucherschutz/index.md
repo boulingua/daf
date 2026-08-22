@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 9 — Konsum und Verbraucherschutz
 cefr_level: B1
 unit_nr: 9
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann eine sachliche Reklamationsmail verfassen.
 - Ich kenne meine zentralen Verbraucherrechte im DACH-Raum.
 skills_focus:
-- schreiben
-- lesen
+- reading
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: konsum-und-verbraucherschutz
@@ -26,12 +27,17 @@ topic: umwelt
 tags:
 - level-b1
 - modul-schreiben
-- skill-schreiben
-- skill-lesen
+- skill-reading
+- skill-writing
 - topic-umwelt
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

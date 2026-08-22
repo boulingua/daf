@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 8 — Stadt und Land
 cefr_level: B1
 unit_nr: 8
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann die Hauptargumente einer Meinung in einem Satz zusammenfassen.
 - Ich kann eine eigene schriftliche Positionierung zu Stadt/Land begründen.
 skills_focus:
-- lesen
-- schreiben
+- reading
+- writing
 pruefungs_module:
 - lesen
 unit_slug: stadt-und-land
@@ -26,12 +27,17 @@ topic: gesellschaft
 tags:
 - level-b1
 - modul-lesen
-- skill-lesen
-- skill-schreiben
+- skill-reading
+- skill-writing
 - topic-gesellschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

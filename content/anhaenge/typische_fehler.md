@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: Typische Fehler
 aliases:
 - /anhaenge/typische_fehler.html

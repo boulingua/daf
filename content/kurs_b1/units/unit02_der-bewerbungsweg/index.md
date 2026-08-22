@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 2 — Der Bewerbungsweg
 cefr_level: B1
 unit_nr: 2
@@ -8,8 +9,8 @@ cefr_can_do:
 - Ich kann ein kurzes Vorstellungsgespräch selbst moderieren — Fragen stellen und
   auf Fragen reagieren.
 skills_focus:
-- schreiben
 - sprechen
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: der-bewerbungsweg
@@ -27,12 +28,17 @@ topic: arbeit
 tags:
 - level-b1
 - modul-schreiben
-- skill-schreiben
 - skill-sprechen
+- skill-writing
 - topic-arbeit
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

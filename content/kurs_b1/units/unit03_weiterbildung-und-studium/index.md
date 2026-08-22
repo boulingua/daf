@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 3 — Weiterbildung und Studium
 cefr_level: B1
 unit_nr: 3
@@ -8,8 +9,8 @@ cefr_can_do:
   finden.
 - Ich kann die Vor- und Nachteile eines Bildungswegs vergleichen.
 skills_focus:
-- lesen
-- hoeren
+- listening
+- reading
 pruefungs_module:
 - lesen
 unit_slug: weiterbildung-und-studium
@@ -27,12 +28,17 @@ topic: arbeit
 tags:
 - level-b1
 - modul-lesen
-- skill-lesen
-- skill-hoeren
+- skill-listening
+- skill-reading
 - topic-arbeit
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

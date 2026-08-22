@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: 'Einheit 12 — Gegenwartsliteratur: Stimmen der letzten zehn Jahre'
 cefr_level: C1
 unit_nr: 12
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich schreibe eine analytische Kurzrezension.
 - Ich verorte zeitgenössische deutschsprachige Stimmen.
 skills_focus:
-- hoeren
-- schreiben
+- listening
+- writing
 pruefungs_module:
 - hören
 unit_slug: gegenwartsliteratur
@@ -26,12 +27,17 @@ topic: kultur
 tags:
 - level-c1
 - modul-hören
-- skill-hoeren
-- skill-schreiben
+- skill-listening
+- skill-writing
 - topic-kultur
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

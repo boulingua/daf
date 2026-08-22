@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 11 — Meine Freizeit und Hobbys
 cefr_level: A1
 unit_nr: 11
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich verstehe einfache Radiobeiträge über Freizeit.
 - 'Ich frage: *Was machst du gern?*'
 skills_focus:
+- listening
 - sprechen
-- hoeren
 pruefungs_module:
 - sprechen
 unit_slug: meine-freizeit
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a1
 - modul-sprechen
+- skill-listening
 - skill-sprechen
-- skill-hoeren
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

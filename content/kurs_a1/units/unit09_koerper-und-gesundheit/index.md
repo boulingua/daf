@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 9 — Körper und Gesundheit
 cefr_level: A1
 unit_nr: 9
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann beim Arzt einfache Beschwerden nennen.
 - Ich verstehe einfache Anweisungen der Ärztin.
 skills_focus:
+- reading
 - sprechen
-- lesen
 pruefungs_module:
 - sprechen
 unit_slug: koerper-und-gesundheit
@@ -26,12 +27,17 @@ topic: alltag
 tags:
 - level-a1
 - modul-sprechen
+- skill-reading
 - skill-sprechen
-- skill-lesen
 - topic-alltag
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

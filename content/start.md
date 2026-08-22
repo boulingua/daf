@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: Start
 aliases:
 - /start.html

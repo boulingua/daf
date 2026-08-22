@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Kurs A2 — Grundlegende Kenntnisse
 aliases:
 - /kurs_a2/index.html

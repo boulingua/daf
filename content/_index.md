@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: Deutsch als Fremdsprache — von A1 bis C1
 page-layout: full
 aliases:

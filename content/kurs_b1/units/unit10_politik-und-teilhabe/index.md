@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 10 — Politik und Teilhabe
 cefr_level: B1
 unit_nr: 10
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich kann eine einfache politische Position begründen.
 - Ich kann eine Präsentation zu einem Bürgerinitiativ-Projekt halten.
 skills_focus:
+- listening
 - sprechen
-- hoeren
 pruefungs_module:
 - sprechen
 unit_slug: politik-und-teilhabe
@@ -26,12 +27,17 @@ topic: gesellschaft
 tags:
 - level-b1
 - modul-sprechen
+- skill-listening
 - skill-sprechen
-- skill-hoeren
 - topic-gesellschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

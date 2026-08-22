@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: Literatur
 aliases:
 - /literatur.html

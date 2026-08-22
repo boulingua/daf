@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 2 — Politische Diskursanalyse
 cefr_level: C1
 unit_nr: 2
@@ -7,8 +8,8 @@ cefr_can_do:
 - Ich verfasse einen analytischen Forumsbeitrag (ca. 230 Wörter).
 - Ich kenne Begriffe wie *Framing, Metapher, Präsupposition*.
 skills_focus:
-- schreiben
-- lesen
+- reading
+- writing
 pruefungs_module:
 - schreiben
 unit_slug: politische-diskursanalyse
@@ -26,12 +27,17 @@ topic: gesellschaft
 tags:
 - level-c1
 - modul-schreiben
-- skill-schreiben
-- skill-lesen
+- skill-reading
+- skill-writing
 - topic-gesellschaft
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}

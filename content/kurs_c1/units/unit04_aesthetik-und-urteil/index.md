@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: Einheit 4 — Ästhetik und Urteil
 cefr_level: C1
 unit_nr: 4
@@ -7,7 +8,7 @@ cefr_can_do:
 - Ich halte einen Vortrag mit Stilanalyse.
 - Ich kenne Begriffe wie *Geschmack, Kanon, Subjektivität, Anschauung*.
 skills_focus:
-- lesen
+- reading
 - sprechen
 pruefungs_module:
 - sprechen
@@ -26,12 +27,17 @@ topic: kultur
 tags:
 - level-c1
 - modul-sprechen
-- skill-lesen
+- skill-reading
 - skill-sprechen
 - topic-kultur
 materials_status: ready
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+curriculum:
+  framework: boulingua-curriculum
+  level: C1
+  # implements: chosen by hand — see `conformance_audit.py suggest --page`
+
 ---
 
 {{< callout type="note" >}}
