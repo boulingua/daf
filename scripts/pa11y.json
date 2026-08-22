@@ -1,9 +1,0 @@
-{
-  "chromeLaunchConfig": {
-    "args": ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
-  },
-  "ignore": ["duplicate-id", "color-contrast"],
-  "runners": ["axe"],
-  "threshold": 0,
-  "timeout": 60000
-}

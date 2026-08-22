@@ -1,0 +1,21 @@
+# Files this course keeps its own version of, where the kit ships one too.
+#
+# A declared override is still a fork. Declaring it buys time, not forgiveness,
+# so every entry carries a reason and a destination, gate A1 warns on each one
+# on every build, and an entry whose file no longer exists fails — the override
+# cannot outlive the fork it covers.
+
+overrides:
+  - path: layouts/materials/list.html
+    reason: >-
+      A faceted materials browser — filter chips and checkboxes over Kurs,
+      Niveau and format — against the kit's plain list. It is genuinely better
+      and it is genuinely not general: the facets are keyed to this course's
+      kurs_* section naming, which efl (track-e/kl09) and fle (track_gm_kl06)
+      do not share. Deleting it would take working functionality away from
+      learners to satisfy a rule; copying it into the kit unchanged would put
+      daf's section naming into eighteen courses.
+    destination: >-
+      S6, with the materials and EQS work — generalise the facets over
+      boulingua.yml's declared url_shape rather than over hardcoded section
+      names, then promote and delete this file.

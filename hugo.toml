@@ -19,6 +19,12 @@ enableRobotsTXT = true
   endLevel = 4
 
 [params]
+  # The registry key. boulingua.yml says `code: daf` and asserts it "must match
+  # [params].code" — and [params].code did not exist, so the kit's accent
+  # injection resolved to the neutral template grey. The claim was true and
+  # unenforced; gate A11 checks it now.
+  code = "daf"
+  license = "CC BY-SA 4.0"
   navTitle = "DaF"
   author = "S. Le Boulanger"
   description = "Ein DaF-Kursangebot entlang des Gemeinsamen Europäischen Referenzrahmens, A1 bis C1, mit GER-Modellprüfung pro Einheit."
@@ -41,6 +47,13 @@ enableRobotsTXT = true
   # opening [params.plausible] before description/colorScheme/customCSS
   # silently moved every key after it under params.plausible, leaving
   # the site unstyled in production.)
+  # Two self-hosted faces, preloaded. They are declared here rather than in a
+  # copy of the kit's head partial, which is what this repo used to carry.
+  font_preload = [
+    "fonts/source-sans-3-v19-latin_latin-ext-regular.woff2",
+    "fonts/jetbrains-mono-v24-latin_latin-ext-regular.woff2",
+  ]
+
   [params.plausible]
     # Per-site values; sister repos (efl/fle/ressources) override their own.
     # script.file-downloads.outbound-links.js preserved from the Quarto era
@@ -171,5 +184,72 @@ enableRobotsTXT = true
   url = "/haftungsausschluss/"
 
 [module]
+  # Import order is load-bearing, and it is the opposite of what reads
+  # naturally. Hugo resolves module files FIRST-MATCH-WINS in the order they
+  # are listed, so the kit must come BEFORE hugo-coder to override it. Listed
+  # after, the theme's own empty body/extensions.html and head/extensions.html
+  # stubs win and the kit's are never reached — which silently removed every
+  # VG Wort pixel, the accent injection and the font preloads from this site
+  # while the build stayed green.
+  [[module.imports]]
+    path = "github.com/boulingua/kit"
   [[module.imports]]
     path = "github.com/luizdepra/hugo-coder"
+
+# Footer links, moved out of a forked copy of the kit's footer partial.
+# The fork existed only to carry these ten hrefs; a menu carries them
+# without a layout, and the sister-site strip beside them is generated
+# from the accent registry so language nineteen is one row, not eighteen
+# footer edits.
+[[menu.footer]]
+  name = "Start"
+  url = "/"
+  weight = 1
+[[menu.footer]]
+  name = "Übersicht"
+  url = "/uebersicht/"
+  weight = 2
+[[menu.footer]]
+  name = "Prüfungsformate"
+  url = "/formate/"
+  weight = 3
+[[menu.footer]]
+  name = "Lernstrategien"
+  url = "/anhaenge/lernstrategien/"
+  weight = 4
+[[menu.footer]]
+  name = "Kompetenzbaum"
+  url = "/anhaenge/kompetenzbaum/"
+  weight = 5
+[[menu.footer]]
+  name = "Glossar"
+  url = "/anhaenge/glossar/"
+  weight = 6
+[[menu.footer]]
+  name = "Typische Fehler"
+  url = "/anhaenge/typische_fehler/"
+  weight = 7
+[[menu.footer]]
+  name = "Bewertungsraster"
+  url = "/anhaenge/bewertungsraster/"
+  weight = 8
+[[menu.footer]]
+  name = "Literatur"
+  url = "/literatur/"
+  weight = 9
+[[menu.footer]]
+  name = "Danksagung"
+  url = "/danksagung/"
+  weight = 10
+[[menu.legal]]
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 1
+[[menu.legal]]
+  name = "Datenschutz"
+  url = "/datenschutz/"
+  weight = 2
+[[menu.legal]]
+  name = "Haftungsausschluss"
+  url = "/haftungsausschluss/"
+  weight = 3

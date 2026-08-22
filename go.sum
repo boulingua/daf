@@ -1,2 +1,14 @@
+github.com/boulingua/kit v1.3.0 h1:YSqVpwKw10QlHg4TuhpzY2FmrskZaUps7Mhc0/HgkII=
+github.com/boulingua/kit v1.3.0/go.mod h1:TPuFC8U8YxmCZeuCCusKG8ReGsdathn/Of0XjjDSr+w=
+github.com/boulingua/kit v1.3.1 h1:+dcZ8cRm6Hclcwp+4eAvWcGZJlEj4enyDOqca4RxElA=
+github.com/boulingua/kit v1.3.1/go.mod h1:TPuFC8U8YxmCZeuCCusKG8ReGsdathn/Of0XjjDSr+w=
+github.com/boulingua/kit v1.4.0 h1:ZwMIVtBLrsqB02bzuGSQp34fa0h9ninNehaRCplpQok=
+github.com/boulingua/kit v1.4.0/go.mod h1:TPuFC8U8YxmCZeuCCusKG8ReGsdathn/Of0XjjDSr+w=
+github.com/boulingua/kit v1.4.1 h1:8BDEd6dVM/g4JQHgbpwpSPGy5yDQbb3NBvVVBbyGonQ=
+github.com/boulingua/kit v1.4.1/go.mod h1:TPuFC8U8YxmCZeuCCusKG8ReGsdathn/Of0XjjDSr+w=
+github.com/boulingua/kit v1.4.2 h1:54qUwnfs8RlpnDvHCbTxTERsqxdfP3gr1LdEeAi0Zrg=
+github.com/boulingua/kit v1.4.2/go.mod h1:TPuFC8U8YxmCZeuCCusKG8ReGsdathn/Of0XjjDSr+w=
+github.com/boulingua/kit v1.4.3 h1:/gaC5uLEUA44pcw7bwi4cHP32yf5hlgG59wJymkuYSA=
+github.com/boulingua/kit v1.4.3/go.mod h1:TPuFC8U8YxmCZeuCCusKG8ReGsdathn/Of0XjjDSr+w=
 github.com/luizdepra/hugo-coder v0.0.0-20260305123245-3d3bbd75d7bb h1:6xwlLvtPm7I6ngACdvWM477gfGyLylG/nU9+VVSMWrQ=
 github.com/luizdepra/hugo-coder v0.0.0-20260305123245-3d3bbd75d7bb/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
