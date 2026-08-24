@@ -57,8 +57,8 @@
             <h4>Typ</h4>
             <div class="facet-chips">
               <button class="facet-chip" type="button" data-facet="type" data-value="article" aria-pressed="false"><span class="glyph" aria-hidden="true">●</span>Artikel <span class="count">0</span></button>
-              <button class="facet-chip" type="button" data-facet="type" data-value="presentation" aria-pressed="false"><span class="glyph" aria-hidden="true">■</span>Foliensatz <span class="count">0</span></button>
-              <button class="facet-chip" type="button" data-facet="type" data-value="worksheet" aria-pressed="false"><span class="glyph" aria-hidden="true">◆</span>Arbeitsblatt <span class="count">0</span></button>
+              <button class="facet-chip" type="button" data-facet="type" data-value="presentation" aria-pressed="false"><span class="glyph" aria-hidden="true">■</span>{{ i18n "presentation" }} <span class="count">0</span></button>
+              <button class="facet-chip" type="button" data-facet="type" data-value="worksheet" aria-pressed="false"><span class="glyph" aria-hidden="true">◆</span>{{ i18n "worksheet" }} <span class="count">0</span></button>
             </div>
           </div>
 
@@ -192,7 +192,7 @@
                 <span class="cefr-badge {{ lower $level }}">{{ $level }}</span>
                 {{ range $modules }} · {{ . }}{{ end }}
               </span>
-              <span class="download">↓ {{ cond $isPresentation "Foliensatz (PPTX)" "Arbeitsblatt (PDF)" }}</span>
+              <span class="download">↓ {{ cond $isPresentation (printf "%s (PPTX)" (i18n "presentation")) (printf "%s (PDF)" (i18n "worksheet")) }}</span>
             </div>
           </a>
         {{ end }}
