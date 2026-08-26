@@ -1,42 +1,42 @@
 [
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Nina: Guten Morgen! Wie ist das Wetter heute?\nFrau Kraus: Sieh mal aus dem Fenster. Die Sonne scheint!\nTom: Super! Es ist warm. Wir gehen in den Park.\nRadio: „Heute in München: am Morgen sonnig, 20 Grad. Am\nNachmittag kommen Wolken. Am Abend regnet es.\nNina: Am Abend regnet es? Dann nehme ich eine Jacke mit.\nFrau Kraus: Gute Idee. Am Abend ist es kühl."
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Sonne · der Regen · der Schnee · die Wolke · der Wind · warm / kalt · heiß / kühl · der Grad · der Frühling · der Sommer · der Herbst · der Winter"
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "es + Verb · es ist + Adjektiv · es sind + Zahl · die Sonne + Verb"
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "der Frühling · der Sommer · der Herbst · der Winter"
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Ich heiße Sofia. Ich wohne in Hamburg. Mein Lieblingswetter ist\nSonne. Im Sommer ist es warm, oft 25 Grad. Ich gehe dann schwimmen.\nIm Winter ist es kalt. Manchmal schneit es. Dann trinke ich Tee zu\nHause. Mein Lieblingsmonat ist Mai. Im Mai ist es nicht zu warm und\nnicht zu kalt."
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "A: Wie ist das Wetter heute?\nB: _______________________________\nA: Und welche Jahreszeit ist jetzt?\nB: _______________________________"
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "4–5 Sätze gesprochen · ein Wetterwort benutzt · ein Adjektiv benutzt · Gradzahl genannt · Jahreszeit genannt"
- },
- {
-  "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab5.ogg",
-  "label": "Wortschatz 5",
-  "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Nina: Guten Morgen! Wie ist das Wetter heute?\nFrau Kraus: Sieh mal aus dem Fenster. Die Sonne scheint!\nTom: Super! Es ist warm. Wir gehen in den Park.\nRadio: „Heute in München: am Morgen sonnig, 20 Grad. Am\nNachmittag kommen Wolken. Am Abend regnet es.\nNina: Am Abend regnet es? Dann nehme ich eine Jacke mit.\nFrau Kraus: Gute Idee. Am Abend ist es kühl.",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Sonne · der Regen · der Schnee · die Wolke · der Wind · warm / kalt · heiß / kühl · der Grad · der Frühling · der Sommer · der Herbst · der Winter",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "es + Verb · es ist + Adjektiv · es sind + Zahl · die Sonne + Verb",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "der Frühling · der Sommer · der Herbst · der Winter",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab3.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Ich heiße Sofia. Ich wohne in Hamburg. Mein Lieblingswetter ist\nSonne. Im Sommer ist es warm, oft 25 Grad. Ich gehe dann schwimmen.\nIm Winter ist es kalt. Manchmal schneit es. Dann trinke ich Tee zu\nHause. Mein Lieblingsmonat ist Mai. Im Mai ist es nicht zu warm und\nnicht zu kalt.",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/texte1.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "A: Wie ist das Wetter heute?\nB: _______________________________\nA: Und welche Jahreszeit ist jetzt?\nB: _______________________________",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue2.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "4–5 Sätze gesprochen · ein Wetterwort benutzt · ein Adjektiv benutzt · Gradzahl genannt · Jahreszeit genannt",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab4.ogg"
+  },
+  {
+    "label": "Wortschatz 5",
+    "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung",
+    "file_withheld": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab5.ogg"
+  }
 ]

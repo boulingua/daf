@@ -1,42 +1,42 @@
 [
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Nora: Du, ich habe die Anzeigen gelesen. Eine Ferienwohnung\nkostet 90 Euro pro Nacht. Das ist zu teuer für uns.\nBen: Wirklich? Und die Jugendherberge?\nNora: Die kostet nur 28 Euro mit Frühstück. Ich glaube,\ndas passt besser, weil wir nur 400 Euro haben.\nBen: Gut. Und wann fährt der Zug? Ich möchte nicht zu früh\naufstehen.\nNora: Der Zug um 9 Uhr 12 ist billig. Dass wir sparen,\nist wichtig. Wir haben ja auch noch Ausflüge geplant."
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Unterkunft · der Selbstversorger · die Halbpension · die Vollpension · das Mehrbettzimmer · der Stellplatz · der Aufschlag · das Angebot · der Fahrplan · günstig / preiswert · das Budget · die Ermäßigung"
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "Merke: weil = Grund (warum?). dass = Inhalt (was?).\nVor weil und dass steht immer ein Komma."
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Familie Berger möchte fünf Tage nach Kärnten fahren. Das Budget\nist klein: nur 400 Euro für Unterkunft und Ausflüge. Herr Berger\nhat gestern viele Anzeigen gelesen und die Preise verglichen.\nEin Hotel am See kostet 180 Euro pro Nacht — das war viel zu\nteuer. Deshalb hat die Familie ein Mehrbettzimmer in der\nJugendherberge gebucht. Es kostet 28 Euro pro Person und Nacht,\nmit Frühstück. Frau Berger hat auch den Fahrplan gelesen, weil\ndie Familie mit dem Zug fahren möchte. Der Zug um 9 Uhr 12 ist\npreiswert, weil man früh eine Ermäßigung bekommt. Am Nachmittag\nwollen sie eine Wanderung machen. Sie glauben, dass der Urlaub\nschön und günstig wird."
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "a) Ferienwohnung „Almblick, 3 Zimmer, Balkon. 90 €/Nacht.\nSelbstversorger.\nb) Jugendherberge Graz. Mehrbettzimmer 28 €/Nacht + Frühstück.\nc) Bio-Bauernhof Riegersburg. Zimmer 65 €/Nacht, Halbpension.\nd) Campingplatz Altaussee. Stellplatz mit Zelt 18 €/Nacht.\ne) Hotel „Blau am See. Doppelzimmer 180 €/Nacht, Pool."
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Alle Angaben vorhanden (Unterkunft, Essen …) · Budget ist korrekt gerechnet · Mindestens ein richtiger weil-Satz · Wortschatz zum Thema Reise · Verständlichkeit (A2)"
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "a) Ferienwohnung „Almblick, Berge, 3 Zimmer, Küche.\n90 €/Nacht. Selbstversorger.\nb) Jugendherberge Graz. Mehrbettzimmer 28 €/Nacht + Frühstück.\nc) Bio-Bauernhof Riegersburg. Zimmer 65 €/Nacht, Halbpension,\nProdukte vom Hof.\nd) Campingplatz Altaussee. Stellplatz mit Zelt 18 €/Nacht.\ne) Hotel „Blau am See. Doppelzimmer 180 €/Nacht, Pool.\nf) Hostel „Wien Mitte, Zentrum, 35 €/Nacht."
- },
- {
-  "file": "/daf/materials/audio/unit05_reiseplanung/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Jede richtige Zuordnung · 5 richtig · 4 richtig · 3 richtig · unter 3 richtig"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Nora: Du, ich habe die Anzeigen gelesen. Eine Ferienwohnung\nkostet 90 Euro pro Nacht. Das ist zu teuer für uns.\nBen: Wirklich? Und die Jugendherberge?\nNora: Die kostet nur 28 Euro mit Frühstück. Ich glaube,\ndas passt besser, weil wir nur 400 Euro haben.\nBen: Gut. Und wann fährt der Zug? Ich möchte nicht zu früh\naufstehen.\nNora: Der Zug um 9 Uhr 12 ist billig. Dass wir sparen,\nist wichtig. Wir haben ja auch noch Ausflüge geplant.",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Unterkunft · der Selbstversorger · die Halbpension · die Vollpension · das Mehrbettzimmer · der Stellplatz · der Aufschlag · das Angebot · der Fahrplan · günstig / preiswert · das Budget · die Ermäßigung",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/vocab1.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "Merke: weil = Grund (warum?). dass = Inhalt (was?).\nVor weil und dass steht immer ein Komma.",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/dialogue2.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Familie Berger möchte fünf Tage nach Kärnten fahren. Das Budget\nist klein: nur 400 Euro für Unterkunft und Ausflüge. Herr Berger\nhat gestern viele Anzeigen gelesen und die Preise verglichen.\nEin Hotel am See kostet 180 Euro pro Nacht — das war viel zu\nteuer. Deshalb hat die Familie ein Mehrbettzimmer in der\nJugendherberge gebucht. Es kostet 28 Euro pro Person und Nacht,\nmit Frühstück. Frau Berger hat auch den Fahrplan gelesen, weil\ndie Familie mit dem Zug fahren möchte. Der Zug um 9 Uhr 12 ist\npreiswert, weil man früh eine Ermäßigung bekommt. Am Nachmittag\nwollen sie eine Wanderung machen. Sie glauben, dass der Urlaub\nschön und günstig wird.",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "a) Ferienwohnung „Almblick, 3 Zimmer, Balkon. 90 €/Nacht.\nSelbstversorger.\nb) Jugendherberge Graz. Mehrbettzimmer 28 €/Nacht + Frühstück.\nc) Bio-Bauernhof Riegersburg. Zimmer 65 €/Nacht, Halbpension.\nd) Campingplatz Altaussee. Stellplatz mit Zelt 18 €/Nacht.\ne) Hotel „Blau am See. Doppelzimmer 180 €/Nacht, Pool.",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/texte2.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Alle Angaben vorhanden (Unterkunft, Essen …) · Budget ist korrekt gerechnet · Mindestens ein richtiger weil-Satz · Wortschatz zum Thema Reise · Verständlichkeit (A2)",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/vocab2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "a) Ferienwohnung „Almblick, Berge, 3 Zimmer, Küche.\n90 €/Nacht. Selbstversorger.\nb) Jugendherberge Graz. Mehrbettzimmer 28 €/Nacht + Frühstück.\nc) Bio-Bauernhof Riegersburg. Zimmer 65 €/Nacht, Halbpension,\nProdukte vom Hof.\nd) Campingplatz Altaussee. Stellplatz mit Zelt 18 €/Nacht.\ne) Hotel „Blau am See. Doppelzimmer 180 €/Nacht, Pool.\nf) Hostel „Wien Mitte, Zentrum, 35 €/Nacht.",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/texte3.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Jede richtige Zuordnung · 5 richtig · 4 richtig · 3 richtig · unter 3 richtig",
+    "file_withheld": "/daf/materials/audio/unit05_reiseplanung/vocab3.ogg"
+  }
 ]

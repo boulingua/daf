@@ -1,17 +1,17 @@
 [
- {
-  "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Automatisierung · das Automatisierungspotenzial · die Verdrängung (von Arbeitsplätzen) · die Umschulung / die Weiterbildung · die Schlüsselkompetenz · die Nuance abwägen · ein Segen / ein Fluch sein · etwas in Frage stellen · die Produktivität steigern · unverzichtbar bleiben"
- },
- {
-  "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Journalismus — Jana: „Die Recherche beschleunigt sich, das ist\nein Segen. Aber wenn KI den Kommentar schreibt, verliert die\nZeitung ihre Stimme. Die Grenze ist für mich klar: Fakten sammeln\nja, Meinung formulieren nein.\nÜbersetzung — Pavel: „Für technische Texte nutze ich KI jeden\nTag; die Zeitersparnis ist enorm. Literaturübersetzung hingegen\nbleibt anstrengend persönlich — die Nuance ist nicht berechenbar,\nund genau darin liegt mein Wert.\nSoftwareentwicklung — Amira: „Ich war skeptisch. Heute benutze\nich KI als Partnerin beim Debuggen und bin deutlich schneller.\nWas ich vermisse, sind die Kolleg:innen, mit denen ich früher über\njede Zeile Code diskutiert habe.\nTheater — Leo: „Ein Schauspiel funktioniert, weil zwischen\nMenschen etwas Unberechenbares geschieht. Kein Modell kann das\nnachstellen — dennoch könnte KI die Textarbeit vor der Probe\nerleichtern. Ersetzen wird sie den Abend nicht."
- },
- {
-  "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Aufgabenerfüllung / Inhalt (These, Belege) · Struktur & Kohärenz (Konnektoren, roter Faden) · Interaktion (auf Partner:in eingehen, Teil 2) · Wortschatz (Themenvokabular, Redemittel) · Grammatik & Aussprache · Gesamt"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Automatisierung · das Automatisierungspotenzial · die Verdrängung (von Arbeitsplätzen) · die Umschulung / die Weiterbildung · die Schlüsselkompetenz · die Nuance abwägen · ein Segen / ein Fluch sein · etwas in Frage stellen · die Produktivität steigern · unverzichtbar bleiben",
+    "file_withheld": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab1.ogg"
+  },
+  {
+    "label": "Dialog 1",
+    "transcript": "Journalismus — Jana: „Die Recherche beschleunigt sich, das ist\nein Segen. Aber wenn KI den Kommentar schreibt, verliert die\nZeitung ihre Stimme. Die Grenze ist für mich klar: Fakten sammeln\nja, Meinung formulieren nein.\nÜbersetzung — Pavel: „Für technische Texte nutze ich KI jeden\nTag; die Zeitersparnis ist enorm. Literaturübersetzung hingegen\nbleibt anstrengend persönlich — die Nuance ist nicht berechenbar,\nund genau darin liegt mein Wert.\nSoftwareentwicklung — Amira: „Ich war skeptisch. Heute benutze\nich KI als Partnerin beim Debuggen und bin deutlich schneller.\nWas ich vermisse, sind die Kolleg:innen, mit denen ich früher über\njede Zeile Code diskutiert habe.\nTheater — Leo: „Ein Schauspiel funktioniert, weil zwischen\nMenschen etwas Unberechenbares geschieht. Kein Modell kann das\nnachstellen — dennoch könnte KI die Textarbeit vor der Probe\nerleichtern. Ersetzen wird sie den Abend nicht.",
+    "file_withheld": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Aufgabenerfüllung / Inhalt (These, Belege) · Struktur & Kohärenz (Konnektoren, roter Faden) · Interaktion (auf Partner:in eingehen, Teil 2) · Wortschatz (Themenvokabular, Redemittel) · Grammatik & Aussprache · Gesamt",
+    "file_withheld": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab2.ogg"
+  }
 ]

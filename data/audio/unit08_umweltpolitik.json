@@ -1,37 +1,37 @@
 [
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die CO₂-Bepreisung · der Emissionshandel · die Klimadividende / das Klimageld · die Verteilungswirkung · das Einkommensdezil · regressiv wirken · die soziale Flankierung · die Lenkungswirkung · überproportional belasten · etw. an jdn. weitergeben · unverzichtbar / unzumutbar · die Akzeptanz einbüßen"
- },
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "CO₂-Preis: Ein Preissignal und seine Kehrseite\nSeit 2021 wird in Deutschland auf fossile Brennstoffe wie Benzin, Heizöl und Erdgas ein CO₂-Preis erhoben. Zum Jahreswechsel 2023/2024 wurde er von 30 auf 45 Euro pro Tonne CO₂ angehoben; ab 2027 soll die Bepreisung in das europäische System ETS 2 überführt werden, in dem sich der Preis am Markt bildet. Das Grundprinzip ist einfach: Wer viel emittiert, soll mehr zahlen. Folglich entsteht ein Anreiz, Energie zu sparen und in klimafreundliche Technik zu investieren.\nSo überzeugend die Lenkungslogik klingt, so umstritten ist ihre Verteilungswirkung. Zahlreiche Untersuchungen zeigen, dass die absolute Belastung mit dem Einkommen steigt — wohlhabende Haushalte verbrauchen mehr Energie und zahlen daher in Euro mehr. Gemessen am Anteil des Einkommens jedoch trifft der Preis untere Einkommensgruppen härter, weil diese einen größeren Teil ihres Geldes für Wärme und Mobilität aufwenden müssen. In diesem relativen Sinne kann eine CO₂-Bepreisung regressiv wirken.\nGenau hier setzt die Idee eines Klimageldes an: Die Einnahmen sollen als gleiche Pro-Kopf-Summe an alle zurückgezahlt werden. Da niedrige Einkommen wenig emittieren, bekämen sie mehr zurück, als sie einzahlen — die Maßnahme würde folglich sozial ausgleichend. Kritiker der Regierung bemängeln jedoch, dass ein solches Klimageld bislang nicht ausgezahlt werde; die Regierung wiederum verweist darauf, der Haushalt sei zu angespannt, um eine flächendeckende Rückzahlung zu starten.\nEinerseits gilt der CO₂-Preis vielen Fachleuten als unverzichtbares Instrument, andererseits warnen sie, dass er ohne soziale Flankierung an Akzeptanz einbüße. Im Gegensatz zu einem reinen Verbot lässt ein Preis den Menschen die Wahl — vorausgesetzt, es gibt bezahlbare Alternativen. Ob die Bepreisung als gerecht empfunden wird, hängt somit weniger vom Preis selbst ab als von der Frage, was mit den Einnahmen geschieht."
- },
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "Grundstufe (B2.1): Verbinden Sie nur je zwei Bausteine mit einem Konnektor.\nAufbaustufe (B2.2): Schreiben Sie einen zusammenhängenden Absatz von ca. 80 Wörtern."
- },
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Inhalt & Struktur · Argumentation · Sprache (B2) · Kohärenz · Wortschatz"
- },
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Erfüllung aller vier Inhaltspunkte · Textaufbau & Kohärenz (Konnektoren, Absätze) · Grammatische Korrektheit (Passiv, Konjunktiv, Satzbau) · Wortschatz & Ausdruck (Themenlexik, Register) · Kommunikative Angemessenheit (Forum, adressatengerecht) · Gesamt"
- },
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/dialogue3.ogg",
-  "label": "Dialog 3",
-  "transcript": "Bestehensgrenze: 15 / 25 Punkte (60 %)."
- },
- {
-  "file": "/daf/materials/audio/unit08_umweltpolitik/dialogue4.ogg",
-  "label": "Dialog 4",
-  "transcript": "Hinweis zur Nutzung: Alle Fließtexte dieser Einheit sind Originaltexte der Kursleitung. Zahlen und Sachverhalte wurden aus den genannten Quellen paraphrasiert, nicht wörtlich übernommen. Es besteht keine Verbindung zu den genannten Institutionen; die Nennung dient ausschließlich dem Quellennachweis."
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die CO₂-Bepreisung · der Emissionshandel · die Klimadividende / das Klimageld · die Verteilungswirkung · das Einkommensdezil · regressiv wirken · die soziale Flankierung · die Lenkungswirkung · überproportional belasten · etw. an jdn. weitergeben · unverzichtbar / unzumutbar · die Akzeptanz einbüßen",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/vocab1.ogg"
+  },
+  {
+    "label": "Dialog 1",
+    "transcript": "CO₂-Preis: Ein Preissignal und seine Kehrseite\nSeit 2021 wird in Deutschland auf fossile Brennstoffe wie Benzin, Heizöl und Erdgas ein CO₂-Preis erhoben. Zum Jahreswechsel 2023/2024 wurde er von 30 auf 45 Euro pro Tonne CO₂ angehoben; ab 2027 soll die Bepreisung in das europäische System ETS 2 überführt werden, in dem sich der Preis am Markt bildet. Das Grundprinzip ist einfach: Wer viel emittiert, soll mehr zahlen. Folglich entsteht ein Anreiz, Energie zu sparen und in klimafreundliche Technik zu investieren.\nSo überzeugend die Lenkungslogik klingt, so umstritten ist ihre Verteilungswirkung. Zahlreiche Untersuchungen zeigen, dass die absolute Belastung mit dem Einkommen steigt — wohlhabende Haushalte verbrauchen mehr Energie und zahlen daher in Euro mehr. Gemessen am Anteil des Einkommens jedoch trifft der Preis untere Einkommensgruppen härter, weil diese einen größeren Teil ihres Geldes für Wärme und Mobilität aufwenden müssen. In diesem relativen Sinne kann eine CO₂-Bepreisung regressiv wirken.\nGenau hier setzt die Idee eines Klimageldes an: Die Einnahmen sollen als gleiche Pro-Kopf-Summe an alle zurückgezahlt werden. Da niedrige Einkommen wenig emittieren, bekämen sie mehr zurück, als sie einzahlen — die Maßnahme würde folglich sozial ausgleichend. Kritiker der Regierung bemängeln jedoch, dass ein solches Klimageld bislang nicht ausgezahlt werde; die Regierung wiederum verweist darauf, der Haushalt sei zu angespannt, um eine flächendeckende Rückzahlung zu starten.\nEinerseits gilt der CO₂-Preis vielen Fachleuten als unverzichtbares Instrument, andererseits warnen sie, dass er ohne soziale Flankierung an Akzeptanz einbüße. Im Gegensatz zu einem reinen Verbot lässt ein Preis den Menschen die Wahl — vorausgesetzt, es gibt bezahlbare Alternativen. Ob die Bepreisung als gerecht empfunden wird, hängt somit weniger vom Preis selbst ab als von der Frage, was mit den Einnahmen geschieht.",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/dialogue1.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "Grundstufe (B2.1): Verbinden Sie nur je zwei Bausteine mit einem Konnektor.\nAufbaustufe (B2.2): Schreiben Sie einen zusammenhängenden Absatz von ca. 80 Wörtern.",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/dialogue2.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Inhalt & Struktur · Argumentation · Sprache (B2) · Kohärenz · Wortschatz",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Erfüllung aller vier Inhaltspunkte · Textaufbau & Kohärenz (Konnektoren, Absätze) · Grammatische Korrektheit (Passiv, Konjunktiv, Satzbau) · Wortschatz & Ausdruck (Themenlexik, Register) · Kommunikative Angemessenheit (Forum, adressatengerecht) · Gesamt",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/vocab3.ogg"
+  },
+  {
+    "label": "Dialog 3",
+    "transcript": "Bestehensgrenze: 15 / 25 Punkte (60 %).",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/dialogue3.ogg"
+  },
+  {
+    "label": "Dialog 4",
+    "transcript": "Hinweis zur Nutzung: Alle Fließtexte dieser Einheit sind Originaltexte der Kursleitung. Zahlen und Sachverhalte wurden aus den genannten Quellen paraphrasiert, nicht wörtlich übernommen. Es besteht keine Verbindung zu den genannten Institutionen; die Nennung dient ausschließlich dem Quellennachweis.",
+    "file_withheld": "/daf/materials/audio/unit08_umweltpolitik/dialogue4.ogg"
+  }
 ]

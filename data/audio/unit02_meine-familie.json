@@ -1,37 +1,37 @@
 [
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Ben: Oh, ein Foto! Wer ist das?\nNina: Das ist meine Familie. Hier, das ist mein Vater. Er heißt Klaus.\nBen: Und die Frau? Ist das deine Mutter?\nNina: Ja, das ist meine Mutter. Sie heißt Petra. Und das Kind hier ist mein Bruder Tim.\nBen: Schön! Und wer ist die Frau links?\nNina: Das ist meine Oma. Sie ist schon 80 Jahre alt."
- },
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Mutter · der Vater · die Eltern (Plural) · der Bruder · die Schwester · das Kind · die Oma · der Opa"
- },
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Hallo, ich bin Nina. Ich wohne in Bremen.\nMeine Familie ist klein. Mein Vater heißt Klaus, meine Mutter heißt Petra.\nMein Bruder Tim ist neun Jahre alt. Er geht in die Schule.\nMeine Oma wohnt auch in Bremen. Wir besuchen sie oft am Sonntag."
- },
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "1. die Mutter · 2. der Vater · 3. die Schwester · 4. der Opa"
- },
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "A: Ist das ___ Mutter?\nB: Ja, das ist ___ Mutter. Sie heißt Petra.\nA: Und wer ist das? Ist das ___ Bruder?\nB: Ja, das ist ___ Bruder Tim."
- },
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "4–5 Sätze gesprochen · mein / meine richtig benutzt · 3 Familienwörter korrekt genannt · verständlich gesprochen"
- },
- {
-  "file": "/daf/materials/audio/unit02_meine-familie/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "Liebe Oma,\nmein Bruder Tim ist jetzt neun Jahre alt. Die Schule gefällt ihm gut. Mama arbeitet wieder. Papa kocht heute Abend. Ich lerne jetzt Deutsch!\nLiebe Grüße\nNina"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Ben: Oh, ein Foto! Wer ist das?\nNina: Das ist meine Familie. Hier, das ist mein Vater. Er heißt Klaus.\nBen: Und die Frau? Ist das deine Mutter?\nNina: Ja, das ist meine Mutter. Sie heißt Petra. Und das Kind hier ist mein Bruder Tim.\nBen: Schön! Und wer ist die Frau links?\nNina: Das ist meine Oma. Sie ist schon 80 Jahre alt.",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Mutter · der Vater · die Eltern (Plural) · der Bruder · die Schwester · das Kind · die Oma · der Opa",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Hallo, ich bin Nina. Ich wohne in Bremen.\nMeine Familie ist klein. Mein Vater heißt Klaus, meine Mutter heißt Petra.\nMein Bruder Tim ist neun Jahre alt. Er geht in die Schule.\nMeine Oma wohnt auch in Bremen. Wir besuchen sie oft am Sonntag.",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/texte1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "1. die Mutter · 2. der Vater · 3. die Schwester · 4. der Opa",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/vocab2.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "A: Ist das ___ Mutter?\nB: Ja, das ist ___ Mutter. Sie heißt Petra.\nA: Und wer ist das? Ist das ___ Bruder?\nB: Ja, das ist ___ Bruder Tim.",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/texte2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "4–5 Sätze gesprochen · mein / meine richtig benutzt · 3 Familienwörter korrekt genannt · verständlich gesprochen",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/vocab3.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "Liebe Oma,\nmein Bruder Tim ist jetzt neun Jahre alt. Die Schule gefällt ihm gut. Mama arbeitet wieder. Papa kocht heute Abend. Ich lerne jetzt Deutsch!\nLiebe Grüße\nNina",
+    "file_withheld": "/daf/materials/audio/unit02_meine-familie/texte3.ogg"
+  }
 ]

@@ -1,32 +1,32 @@
 [
- {
-  "file": "/daf/materials/audio/unit11_umwelt-und-alltag/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Lena: Omar, warte! Die leere Flasche kommt nicht in den\nRestmüll.\nOmar: Oh, wirklich? Wohin denn dann?\nLena: Glas bringen wir zum Container an der Ecke. Und den\nJoghurtbecher werfe ich in den Gelben Sack.\nOmar: Das ist am Anfang kompliziert. Aber ich glaube, ich\nverstehe es langsam."
- },
- {
-  "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "der Müll · die Mülltonne, -n · trennen · das Papier · der Biomüll · die Verpackung, -en · der Restmüll · das Altglas · die Batterie, -n · der Tipp, -s · sparen · die Umwelt"
- },
- {
-  "file": "/daf/materials/audio/unit11_umwelt-und-alltag/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Ich trenne den Müll, weil es der Umwelt hilft.\nIch fahre mit dem Rad, weil ich Benzin spare.\nGlas kommt in den Container, weil man es recyceln kann."
- },
- {
-  "file": "/daf/materials/audio/unit11_umwelt-und-alltag/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "Moderatorin: Willkommen zum Umwelt-Tipp der Woche! Heute im\nStudio: Frau Berg von der Stadtreinigung. Frau Berg, wie trennt\nman in Deutschland richtig?\nFrau Berg: Guten Tag! Ganz einfach mit vier Behältern.\nPapier kommt in die blaue Tonne — also Zeitungen und Kartons.\nObstreste und Kaffeesatz gehören in die braune Biotonne.\nModeratorin: Und die Verpackungen?\nFrau Berg: Plastik, Dosen und Tetrapak kommen in den Gelben\nSack. Aber bitte sauber! Ein schmutziger Becher gehört in den\nRestmüll, also in die graue Tonne.\nModeratorin: Haben Sie noch einen Spar-Tipp für uns?\nFrau Berg: Ja, gern. Duschen Sie kürzer, weil das viel\nWasser spart. Und kaufen Sie Obst aus der Region, weil das gut\nfür die Umwelt ist. Batterien bringen Sie bitte zum Supermarkt\n— niemals in den Hausmüll!\nModeratorin: Vielen Dank, Frau Berg. Bis nächste Woche!"
- },
- {
-  "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "1 · 2 · 3 · 4 · 5"
- },
- {
-  "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "9–10 · 7–8 · 5–6 · 0–4"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Lena: Omar, warte! Die leere Flasche kommt nicht in den\nRestmüll.\nOmar: Oh, wirklich? Wohin denn dann?\nLena: Glas bringen wir zum Container an der Ecke. Und den\nJoghurtbecher werfe ich in den Gelben Sack.\nOmar: Das ist am Anfang kompliziert. Aber ich glaube, ich\nverstehe es langsam.",
+    "file_withheld": "/daf/materials/audio/unit11_umwelt-und-alltag/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "der Müll · die Mülltonne, -n · trennen · das Papier · der Biomüll · die Verpackung, -en · der Restmüll · das Altglas · die Batterie, -n · der Tipp, -s · sparen · die Umwelt",
+    "file_withheld": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Ich trenne den Müll, weil es der Umwelt hilft.\nIch fahre mit dem Rad, weil ich Benzin spare.\nGlas kommt in den Container, weil man es recyceln kann.",
+    "file_withheld": "/daf/materials/audio/unit11_umwelt-und-alltag/texte1.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "Moderatorin: Willkommen zum Umwelt-Tipp der Woche! Heute im\nStudio: Frau Berg von der Stadtreinigung. Frau Berg, wie trennt\nman in Deutschland richtig?\nFrau Berg: Guten Tag! Ganz einfach mit vier Behältern.\nPapier kommt in die blaue Tonne — also Zeitungen und Kartons.\nObstreste und Kaffeesatz gehören in die braune Biotonne.\nModeratorin: Und die Verpackungen?\nFrau Berg: Plastik, Dosen und Tetrapak kommen in den Gelben\nSack. Aber bitte sauber! Ein schmutziger Becher gehört in den\nRestmüll, also in die graue Tonne.\nModeratorin: Haben Sie noch einen Spar-Tipp für uns?\nFrau Berg: Ja, gern. Duschen Sie kürzer, weil das viel\nWasser spart. Und kaufen Sie Obst aus der Region, weil das gut\nfür die Umwelt ist. Batterien bringen Sie bitte zum Supermarkt\n— niemals in den Hausmüll!\nModeratorin: Vielen Dank, Frau Berg. Bis nächste Woche!",
+    "file_withheld": "/daf/materials/audio/unit11_umwelt-und-alltag/dialogue2.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "1 · 2 · 3 · 4 · 5",
+    "file_withheld": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "9–10 · 7–8 · 5–6 · 0–4",
+    "file_withheld": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab3.ogg"
+  }
 ]

@@ -1,42 +1,42 @@
 [
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Bewerbung, -en · das Anschreiben, - · der Lebenslauf, -¨e · die Stellenanzeige, -n · das Vorstellungsgespräch, -e · die Qualifikation, -en · sich bewerben (um + Akk.) · einstellen · die Anforderung, -en · die Erfahrung, -en · befristet / unbefristet · die Anrede, -n · die Grußformel, -n"
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Rufen Sie mich an. · Ich will einen anderen Termin. · Ich habe am Montag Zeit. · Ich freue mich über ein Gespräch."
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Kantonsspital Villach\nWir suchen zum nächstmöglichen Zeitpunkt eine\nPflegefachfrau / einen Pflegefachmann (m/w/d) für unsere Abteilung\nInnere Medizin.\nIhre Aufgaben: Grundpflege, Vorbereitung von Medikamenten, Dokumentation\nam Computer sowie enge Zusammenarbeit mit dem ärztlichen Team.\nUnser Angebot: unbefristete Stelle, 80 %- oder 100 %-Anstellung möglich,\nstrukturierte Einarbeitung, jährliches Weiterbildungsbudget.\nIhr Profil: abgeschlossene Ausbildung als Pflegefachfrau /\nPflegefachmann; Deutschkenntnisse mindestens auf B1-Niveau; Teamfähigkeit,\nZuverlässigkeit und Belastbarkeit.\nIhre Bewerbung: Bitte senden Sie Anschreiben, Lebenslauf und\nZeugniskopien per E-Mail an Frau Elke Rauter, Personalabteilung."
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Sehr geehrte Frau Rauter,\nmit großem Interesse habe ich Ihre Stellenanzeige für eine Pflegefachfrau in\nder Abteilung Innere Medizin gelesen. Hiermit möchte ich mich um diese Stelle\nbewerben.\nMein Name ist Lejla Hodžić, ich bin 24 Jahre alt. 2023 habe ich meine\nAusbildung zur Pflegefachfrau in Ljubljana abgeschlossen. Seitdem arbeite ich\nin einem regionalen Krankenhaus in Brežice, ebenfalls in der Inneren Medizin.\nBesonders gern arbeite ich mit älteren Patientinnen und Patienten, und die\nDokumentation am Computer läuft für mich inzwischen routiniert.\nIch möchte mich beruflich weiterentwickeln, weil mir die Zusammenarbeit in\neinem größeren, interdisziplinären Team wichtig ist. Obwohl ich noch nicht in\nÖsterreich gearbeitet habe, kenne ich deutschsprachige Arbeitsumgebungen gut.\nMein Deutsch habe ich in einem Sprachkurs gelernt und 2024 das B1-Zertifikat\nabgelegt.\nÜber die Möglichkeit eines persönlichen Gesprächs würde ich mich sehr freuen.\nMeinen Lebenslauf und meine Zeugnisse finden Sie im Anhang.\nMit freundlichen Grüßen\nLejla Hodžić"
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Einstieg · Bewerbungssatz · Qualifikation · Motivation (mit weil) · Einräumen (mit obwohl) · Schlussformel"
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "Frau Rauter vom Kantonsspital Villach lädt Sie zu einem Vorstellungsgespräch\nein. Leider haben Sie an diesem Tag Schichtdienst. Schreiben Sie an Frau\nRauter (ca. 40 Wörter):\n- Bedanken Sie sich für die Einladung.\n- Bitten Sie höflich um einen anderen Termin.\n- Schlagen Sie zwei konkrete Tage vor, an denen Sie Zeit hätten.\nVergessen Sie Anrede, Gruß und Ihren Namen nicht."
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "Sehr geehrte Frau Rauter,\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch. Leider habe ich am\nvorgeschlagenen Termin Schichtdienst. Könnten wir das Gespräch verschieben?\nIch hätte am Mittwoch, den 15.05., oder am Freitag, den 17.05., Zeit.\nMit freundlichen Grüßen\nLejla Hodžić"
- },
- {
-  "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede, Grußformel und Name vorhanden · Formelles Register (Sie-Form, Höflichkeit) · Konjunktiv II für die höfliche Bitte · Grammatik und Rechtschreibung (Wortlänge ok) · Gesamt"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Bewerbung, -en · das Anschreiben, - · der Lebenslauf, -¨e · die Stellenanzeige, -n · das Vorstellungsgespräch, -e · die Qualifikation, -en · sich bewerben (um + Akk.) · einstellen · die Anforderung, -en · die Erfahrung, -en · befristet / unbefristet · die Anrede, -n · die Grußformel, -n",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Rufen Sie mich an. · Ich will einen anderen Termin. · Ich habe am Montag Zeit. · Ich freue mich über ein Gespräch.",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab2.ogg"
+  },
+  {
+    "label": "Dialog 1",
+    "transcript": "Kantonsspital Villach\nWir suchen zum nächstmöglichen Zeitpunkt eine\nPflegefachfrau / einen Pflegefachmann (m/w/d) für unsere Abteilung\nInnere Medizin.\nIhre Aufgaben: Grundpflege, Vorbereitung von Medikamenten, Dokumentation\nam Computer sowie enge Zusammenarbeit mit dem ärztlichen Team.\nUnser Angebot: unbefristete Stelle, 80 %- oder 100 %-Anstellung möglich,\nstrukturierte Einarbeitung, jährliches Weiterbildungsbudget.\nIhr Profil: abgeschlossene Ausbildung als Pflegefachfrau /\nPflegefachmann; Deutschkenntnisse mindestens auf B1-Niveau; Teamfähigkeit,\nZuverlässigkeit und Belastbarkeit.\nIhre Bewerbung: Bitte senden Sie Anschreiben, Lebenslauf und\nZeugniskopien per E-Mail an Frau Elke Rauter, Personalabteilung.",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/dialogue1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Sehr geehrte Frau Rauter,\nmit großem Interesse habe ich Ihre Stellenanzeige für eine Pflegefachfrau in\nder Abteilung Innere Medizin gelesen. Hiermit möchte ich mich um diese Stelle\nbewerben.\nMein Name ist Lejla Hodžić, ich bin 24 Jahre alt. 2023 habe ich meine\nAusbildung zur Pflegefachfrau in Ljubljana abgeschlossen. Seitdem arbeite ich\nin einem regionalen Krankenhaus in Brežice, ebenfalls in der Inneren Medizin.\nBesonders gern arbeite ich mit älteren Patientinnen und Patienten, und die\nDokumentation am Computer läuft für mich inzwischen routiniert.\nIch möchte mich beruflich weiterentwickeln, weil mir die Zusammenarbeit in\neinem größeren, interdisziplinären Team wichtig ist. Obwohl ich noch nicht in\nÖsterreich gearbeitet habe, kenne ich deutschsprachige Arbeitsumgebungen gut.\nMein Deutsch habe ich in einem Sprachkurs gelernt und 2024 das B1-Zertifikat\nabgelegt.\nÜber die Möglichkeit eines persönlichen Gesprächs würde ich mich sehr freuen.\nMeinen Lebenslauf und meine Zeugnisse finden Sie im Anhang.\nMit freundlichen Grüßen\nLejla Hodžić",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/texte1.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Einstieg · Bewerbungssatz · Qualifikation · Motivation (mit weil) · Einräumen (mit obwohl) · Schlussformel",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab3.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "Frau Rauter vom Kantonsspital Villach lädt Sie zu einem Vorstellungsgespräch\nein. Leider haben Sie an diesem Tag Schichtdienst. Schreiben Sie an Frau\nRauter (ca. 40 Wörter):\n- Bedanken Sie sich für die Einladung.\n- Bitten Sie höflich um einen anderen Termin.\n- Schlagen Sie zwei konkrete Tage vor, an denen Sie Zeit hätten.\nVergessen Sie Anrede, Gruß und Ihren Namen nicht.",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/texte2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "Sehr geehrte Frau Rauter,\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch. Leider habe ich am\nvorgeschlagenen Termin Schichtdienst. Könnten wir das Gespräch verschieben?\nIch hätte am Mittwoch, den 15.05., oder am Freitag, den 17.05., Zeit.\nMit freundlichen Grüßen\nLejla Hodžić",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/texte3.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede, Grußformel und Name vorhanden · Formelles Register (Sie-Form, Höflichkeit) · Konjunktiv II für die höfliche Bitte · Grammatik und Rechtschreibung (Wortlänge ok) · Gesamt",
+    "file_withheld": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab4.ogg"
+  }
 ]

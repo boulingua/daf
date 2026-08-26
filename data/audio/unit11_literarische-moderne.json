@@ -1,27 +1,27 @@
 [
- {
-  "file": "/daf/materials/audio/unit11_literarische-moderne/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Hypotaxe · die Parataxe · die Erzählinstanz · die Fokalisierung · der Möglichkeitssinn · die Ironie / die Distanz · das Verstörungspotenzial · gemeinfrei · die Textgrundlage · die Kontingenz"
- },
- {
-  "file": "/daf/materials/audio/unit11_literarische-moderne/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "„Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich\nin seinem Bett zu einem ungeheuren Ungeziefer verwandelt.\n— Franz Kafka: Die Verwandlung. Erstdruck in: Die weißen Blätter (1915);\nBuchausgabe Kurt Wolff Verlag, Leipzig 1915. Gemeinfrei."
- },
- {
-  "file": "/daf/materials/audio/unit11_literarische-moderne/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "a) Kafka-nah — *„Als er aufwachte, fand er sich nicht in seinem Zimmer. Es\nwar nicht das andere Zimmer. Es war dasselbe Zimmer, aber von außen — er sah\nes zum ersten Mal als Raum, der ihn ausgeschlossen hatte, indem er ihn\naufnahm.*\nb) Thomas-Mann-nah — *„Es ist mit der Liebe in der Familie nicht so, dass\nsie wachse oder schwinde; sie wechselt nur ihre Verkleidung — heute Geduld,\nmorgen Strenge, übermorgen jene leise, immer auf den Falten der Stimme\nreitende Form, die wir Sorge nennen.*\nc) Musil-nah — *„Er war einer von jenen Männern, deren Eigenschaften nicht\nihnen, sondern den Anlässen gehören, denen sie begegnen. Eine andere Stadt,\nein anderer Tisch — und er wäre jemand anderer geworden, ohne sich dessen je\nbewusst zu sein.*"
- },
- {
-  "file": "/daf/materials/audio/unit11_literarische-moderne/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "*„Lohnt es sich, im fortgeschrittenen DaF-Unterricht (B2/C1) literarische\nModerne zu lesen — oder ist sie zu voraussetzungsreich?*"
- },
- {
-  "file": "/daf/materials/audio/unit11_literarische-moderne/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Aufgabenerfüllung / vier Sprachfunktionen realisiert · inhaltliche Substanz: Argument + Gegeneinwand + Beleg · Register & Wortschatz (literaturwiss., Hedging) · Grammatische Korrektheit & syntaktische Bandbreite · Aussprache, Flüssigkeit, freies Sprechen · korrekter Umgang mit Zitat vs. Paraphrase (Urheberrecht) · Summe"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Hypotaxe · die Parataxe · die Erzählinstanz · die Fokalisierung · der Möglichkeitssinn · die Ironie / die Distanz · das Verstörungspotenzial · gemeinfrei · die Textgrundlage · die Kontingenz",
+    "file_withheld": "/daf/materials/audio/unit11_literarische-moderne/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "„Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich\nin seinem Bett zu einem ungeheuren Ungeziefer verwandelt.\n— Franz Kafka: Die Verwandlung. Erstdruck in: Die weißen Blätter (1915);\nBuchausgabe Kurt Wolff Verlag, Leipzig 1915. Gemeinfrei.",
+    "file_withheld": "/daf/materials/audio/unit11_literarische-moderne/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "a) Kafka-nah — *„Als er aufwachte, fand er sich nicht in seinem Zimmer. Es\nwar nicht das andere Zimmer. Es war dasselbe Zimmer, aber von außen — er sah\nes zum ersten Mal als Raum, der ihn ausgeschlossen hatte, indem er ihn\naufnahm.*\nb) Thomas-Mann-nah — *„Es ist mit der Liebe in der Familie nicht so, dass\nsie wachse oder schwinde; sie wechselt nur ihre Verkleidung — heute Geduld,\nmorgen Strenge, übermorgen jene leise, immer auf den Falten der Stimme\nreitende Form, die wir Sorge nennen.*\nc) Musil-nah — *„Er war einer von jenen Männern, deren Eigenschaften nicht\nihnen, sondern den Anlässen gehören, denen sie begegnen. Eine andere Stadt,\nein anderer Tisch — und er wäre jemand anderer geworden, ohne sich dessen je\nbewusst zu sein.*",
+    "file_withheld": "/daf/materials/audio/unit11_literarische-moderne/texte2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "*„Lohnt es sich, im fortgeschrittenen DaF-Unterricht (B2/C1) literarische\nModerne zu lesen — oder ist sie zu voraussetzungsreich?*",
+    "file_withheld": "/daf/materials/audio/unit11_literarische-moderne/texte3.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Aufgabenerfüllung / vier Sprachfunktionen realisiert · inhaltliche Substanz: Argument + Gegeneinwand + Beleg · Register & Wortschatz (literaturwiss., Hedging) · Grammatische Korrektheit & syntaktische Bandbreite · Aussprache, Flüssigkeit, freies Sprechen · korrekter Umgang mit Zitat vs. Paraphrase (Urheberrecht) · Summe",
+    "file_withheld": "/daf/materials/audio/unit11_literarische-moderne/vocab2.ogg"
+  }
 ]

@@ -1,32 +1,32 @@
 [
- {
-  "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "„Ich fange im September eine duale Ausbildung als\nMechatroniker an\", sagt Jonas. „Drei Tage bin ich im Betrieb,\nzwei Tage in der Berufsschule. Ich verdiene sofort etwas und\nlerne den Beruf direkt in der Praxis.\"\n„Und ich beginne ein Studium der Umwelttechnik\", sagt\nMalia. „Zwar bekomme ich am Anfang kein Gehalt, aber ich habe\nspäter vielleicht mehr Möglichkeiten. Trotzdem bin ich noch\nunsicher, ob das der richtige Weg für mich ist.\""
- },
- {
-  "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die duale Ausbildung · der Betrieb, -e · die Berufsschule, -n · der/die Auszubildende (Azubi) · die Ausbildungsvergütung · der Abschluss, ¨-e · die Zulassung, -en · einschlägig (Adj.) · berufsbegleitend (Adj.)"
- },
- {
-  "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "Studium oder Ausbildung? Zwei Erfahrungen\nMalia hat sich für ein Studium entschieden. „Am Anfang war es\nhart, weil ich kein eigenes Geld verdient habe\", erzählt sie.\n„Aber ich mag die Theorie, und ich möchte später vielleicht\nforschen. Ein Studium dauert bei mir mindestens drei Jahre bis\nzum Bachelor. Manchmal denke ich, dass ich mehr Freiheit habe\nals meine Freunde in der Ausbildung — obwohl ich auch mehr\nPrüfungen schreiben muss.\"\nJonas hat einen anderen Weg gewählt. „Ich wollte nicht mehr\nnur in der Schule sitzen\", sagt er. „In der dualen Ausbildung\nbin ich meistens im Betrieb und lerne den Beruf direkt an der\nMaschine. Ich bekomme jeden Monat eine Ausbildungsvergütung,\nund nach drei Jahren habe ich einen anerkannten Abschluss.\nWenn ich später möchte, kann ich immer noch studieren — die\nAusbildung schließt das nicht aus.\"\nBeide sind zufrieden. Es gibt eben nicht einen richtigen\nWeg, sondern viele."
- },
- {
-  "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Berufsbegleitende Weiterbildung: Technische Redaktion\nSie arbeiten bereits in einem technischen Beruf und möchten\nlernen, Anleitungen und Handbücher klar zu schreiben? Diese\nberufsbegleitende Weiterbildung bereitet Sie in 12 Monaten\nauf diese Aufgabe vor. Der Unterricht findet **online am\nFreitagabend und Samstag** statt, damit Sie weiter arbeiten\nkönnen.\nZulassung: abgeschlossene Berufsausbildung oder Studium +\nmindestens ein Jahr Berufserfahrung.\nUmfang: 20 Kurstage. Kosten: 2 400 € (Ratenzahlung\nmöglich). Abschluss: Zertifikat der Bildungsakademie."
- },
- {
-  "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "§ 2 Teilnahme und Prüfung\n(1) Der Zertifikatskurs „Technische Redaktion\" umfasst 20\nKurstage. Die Teilnahme an mindestens 80 % der Kurstage ist\nVoraussetzung für die Zulassung zur Abschlussprüfung.\n(2) Die Anmeldung zur Abschlussprüfung erfolgt online bis\nspätestens zehn Tage vor dem Prüfungstermin.\n(3) Wer aus gesundheitlichen Gründen fehlt, legt ein\närztliches Attest vor. Nur dann kann die Prüfung zu einem\nspäteren Termin nachgeholt werden."
- },
- {
-  "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "4 · 3 · 2 · 0–1"
- }
+  {
+    "label": "Text 1",
+    "transcript": "„Ich fange im September eine duale Ausbildung als\nMechatroniker an\", sagt Jonas. „Drei Tage bin ich im Betrieb,\nzwei Tage in der Berufsschule. Ich verdiene sofort etwas und\nlerne den Beruf direkt in der Praxis.\"\n„Und ich beginne ein Studium der Umwelttechnik\", sagt\nMalia. „Zwar bekomme ich am Anfang kein Gehalt, aber ich habe\nspäter vielleicht mehr Möglichkeiten. Trotzdem bin ich noch\nunsicher, ob das der richtige Weg für mich ist.\"",
+    "file_withheld": "/daf/materials/audio/unit03_weiterbildung-und-studium/texte1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die duale Ausbildung · der Betrieb, -e · die Berufsschule, -n · der/die Auszubildende (Azubi) · die Ausbildungsvergütung · der Abschluss, ¨-e · die Zulassung, -en · einschlägig (Adj.) · berufsbegleitend (Adj.)",
+    "file_withheld": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "Studium oder Ausbildung? Zwei Erfahrungen\nMalia hat sich für ein Studium entschieden. „Am Anfang war es\nhart, weil ich kein eigenes Geld verdient habe\", erzählt sie.\n„Aber ich mag die Theorie, und ich möchte später vielleicht\nforschen. Ein Studium dauert bei mir mindestens drei Jahre bis\nzum Bachelor. Manchmal denke ich, dass ich mehr Freiheit habe\nals meine Freunde in der Ausbildung — obwohl ich auch mehr\nPrüfungen schreiben muss.\"\nJonas hat einen anderen Weg gewählt. „Ich wollte nicht mehr\nnur in der Schule sitzen\", sagt er. „In der dualen Ausbildung\nbin ich meistens im Betrieb und lerne den Beruf direkt an der\nMaschine. Ich bekomme jeden Monat eine Ausbildungsvergütung,\nund nach drei Jahren habe ich einen anerkannten Abschluss.\nWenn ich später möchte, kann ich immer noch studieren — die\nAusbildung schließt das nicht aus.\"\nBeide sind zufrieden. Es gibt eben nicht einen richtigen\nWeg, sondern viele.",
+    "file_withheld": "/daf/materials/audio/unit03_weiterbildung-und-studium/texte2.ogg"
+  },
+  {
+    "label": "Dialog 1",
+    "transcript": "Berufsbegleitende Weiterbildung: Technische Redaktion\nSie arbeiten bereits in einem technischen Beruf und möchten\nlernen, Anleitungen und Handbücher klar zu schreiben? Diese\nberufsbegleitende Weiterbildung bereitet Sie in 12 Monaten\nauf diese Aufgabe vor. Der Unterricht findet **online am\nFreitagabend und Samstag** statt, damit Sie weiter arbeiten\nkönnen.\nZulassung: abgeschlossene Berufsausbildung oder Studium +\nmindestens ein Jahr Berufserfahrung.\nUmfang: 20 Kurstage. Kosten: 2 400 € (Ratenzahlung\nmöglich). Abschluss: Zertifikat der Bildungsakademie.",
+    "file_withheld": "/daf/materials/audio/unit03_weiterbildung-und-studium/dialogue1.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "§ 2 Teilnahme und Prüfung\n(1) Der Zertifikatskurs „Technische Redaktion\" umfasst 20\nKurstage. Die Teilnahme an mindestens 80 % der Kurstage ist\nVoraussetzung für die Zulassung zur Abschlussprüfung.\n(2) Die Anmeldung zur Abschlussprüfung erfolgt online bis\nspätestens zehn Tage vor dem Prüfungstermin.\n(3) Wer aus gesundheitlichen Gründen fehlt, legt ein\närztliches Attest vor. Nur dann kann die Prüfung zu einem\nspäteren Termin nachgeholt werden.",
+    "file_withheld": "/daf/materials/audio/unit03_weiterbildung-und-studium/texte3.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "4 · 3 · 2 · 0–1",
+    "file_withheld": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab2.ogg"
+  }
 ]

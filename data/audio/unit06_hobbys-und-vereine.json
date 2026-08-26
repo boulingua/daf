@@ -1,32 +1,32 @@
 [
- {
-  "file": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Lea: Was machst du eigentlich am Wochenende?\nOmar: Am Samstag gehe ich immer zum Fotoclub. Wir treffen\nuns jede Woche und machen zusammen Fotos.\nLea: Oh, interessant! Seit wann bist du im Club?\nOmar: Seit drei Monaten. Ich finde es toll, weil ich viele\nnette Leute kennenlerne.\nLea: Und was kostet das?\nOmar: Nur dreißig Euro pro Jahr. Komm doch mal mit!"
- },
- {
-  "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "der Verein, -e · die Mitgliedschaft, -en · das Mitglied, -er · der Beitrag, \"-e · das Hobby, -s · die Freizeit (nur Singular) · trainieren · beitreten (+ Dativ) · sich treffen · gefallen (+ Dativ) · jeden Mittwoch · einmal pro Woche"
- },
- {
-  "file": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "Die Lehrkraft liest den Text zweimal langsam vor.\nModeratorin: Heute im Bezirksradio Graz: der Fotoclub\nGraz-Mitte. Unser Gast ist Omar Hafez. Omar, wie hast du den\nClub gefunden?\nOmar: Ein Freund hat mir davon erzählt. Wir treffen uns\njeden Mittwoch um 19 Uhr. Wir machen Fotos und besprechen sie\nzusammen. Ich bin seit drei Monaten Mitglied.\nModeratorin: Und wie viel kostet die Mitgliedschaft?\nOmar: Dreißig Euro pro Jahr. Für Studierende sind es nur\nfünfzehn Euro. Das ist nicht teuer.\nModeratorin: Was war bisher dein Lieblingsprojekt?\nOmar: Ein Spaziergang durch Graz-Lend. Ich habe alte Türen\nfotografiert. Das hat mir sehr gefallen, weil die Türen so\nschön alt sind.\nModeratorin: Vielen Dank, Omar, und weiterhin viel Spaß!"
- },
- {
-  "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Inhalt · seit + Dativ · weil-Satz · Aussprache / Flüssigkeit"
- },
- {
-  "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Alle fünf Stichwörter behandelt · seit + Dativ korrekt (Dauer) · Grund mit weil korrekt · Rückfragen sinnvoll beantwortet · Aussprache / Verständlichkeit · Gesamt"
- },
- {
-  "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung/Reflexion"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Lea: Was machst du eigentlich am Wochenende?\nOmar: Am Samstag gehe ich immer zum Fotoclub. Wir treffen\nuns jede Woche und machen zusammen Fotos.\nLea: Oh, interessant! Seit wann bist du im Club?\nOmar: Seit drei Monaten. Ich finde es toll, weil ich viele\nnette Leute kennenlerne.\nLea: Und was kostet das?\nOmar: Nur dreißig Euro pro Jahr. Komm doch mal mit!",
+    "file_withheld": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "der Verein, -e · die Mitgliedschaft, -en · das Mitglied, -er · der Beitrag, \"-e · das Hobby, -s · die Freizeit (nur Singular) · trainieren · beitreten (+ Dativ) · sich treffen · gefallen (+ Dativ) · jeden Mittwoch · einmal pro Woche",
+    "file_withheld": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab1.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "Die Lehrkraft liest den Text zweimal langsam vor.\nModeratorin: Heute im Bezirksradio Graz: der Fotoclub\nGraz-Mitte. Unser Gast ist Omar Hafez. Omar, wie hast du den\nClub gefunden?\nOmar: Ein Freund hat mir davon erzählt. Wir treffen uns\njeden Mittwoch um 19 Uhr. Wir machen Fotos und besprechen sie\nzusammen. Ich bin seit drei Monaten Mitglied.\nModeratorin: Und wie viel kostet die Mitgliedschaft?\nOmar: Dreißig Euro pro Jahr. Für Studierende sind es nur\nfünfzehn Euro. Das ist nicht teuer.\nModeratorin: Was war bisher dein Lieblingsprojekt?\nOmar: Ein Spaziergang durch Graz-Lend. Ich habe alte Türen\nfotografiert. Das hat mir sehr gefallen, weil die Türen so\nschön alt sind.\nModeratorin: Vielen Dank, Omar, und weiterhin viel Spaß!",
+    "file_withheld": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue2.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Inhalt · seit + Dativ · weil-Satz · Aussprache / Flüssigkeit",
+    "file_withheld": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Alle fünf Stichwörter behandelt · seit + Dativ korrekt (Dauer) · Grund mit weil korrekt · Rückfragen sinnvoll beantwortet · Aussprache / Verständlichkeit · Gesamt",
+    "file_withheld": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab3.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung/Reflexion",
+    "file_withheld": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab4.ogg"
+  }
 ]

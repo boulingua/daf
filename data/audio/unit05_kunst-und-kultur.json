@@ -1,32 +1,32 @@
 [
- {
-  "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Kuratorin / der Kurator · die Hängung · das Exponat · die Konzeption · der Bildaufbau / die Komposition · der Vordergrund / Hintergrund · die Farbgebung · ausdrucksstark · die Wandtexte (Pl.) · ebenbürtig · in den Kanon aufnehmen · kritisch anmerken"
- },
- {
-  "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Im Vordergrund wird eine Frau dargestellt.\nDie Ausstellung wurde von zwei Kuratorinnen konzipiert.\nDie Werke sind dicht gehängt worden. (Perfekt Passiv)"
- },
- {
-  "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "Die folgende Radio-Diskussion liest die Lehrkraft einmal in\nnormalem Tempo vor. Die Lernenden hören zunächst ohne\nmitzulesen."
- },
- {
-  "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Inhalt & Argumentation · Struktur & Konnektoren · Grammatik B2 · Wortschatz · Sprachliche Korrektheit"
- },
- {
-  "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "6 · 4–5 · 2–3 · 0–1"
- },
- {
-  "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Reflexion"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Kuratorin / der Kurator · die Hängung · das Exponat · die Konzeption · der Bildaufbau / die Komposition · der Vordergrund / Hintergrund · die Farbgebung · ausdrucksstark · die Wandtexte (Pl.) · ebenbürtig · in den Kanon aufnehmen · kritisch anmerken",
+    "file_withheld": "/daf/materials/audio/unit05_kunst-und-kultur/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Im Vordergrund wird eine Frau dargestellt.\nDie Ausstellung wurde von zwei Kuratorinnen konzipiert.\nDie Werke sind dicht gehängt worden. (Perfekt Passiv)",
+    "file_withheld": "/daf/materials/audio/unit05_kunst-und-kultur/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "Die folgende Radio-Diskussion liest die Lehrkraft einmal in\nnormalem Tempo vor. Die Lernenden hören zunächst ohne\nmitzulesen.",
+    "file_withheld": "/daf/materials/audio/unit05_kunst-und-kultur/texte2.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Inhalt & Argumentation · Struktur & Konnektoren · Grammatik B2 · Wortschatz · Sprachliche Korrektheit",
+    "file_withheld": "/daf/materials/audio/unit05_kunst-und-kultur/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "6 · 4–5 · 2–3 · 0–1",
+    "file_withheld": "/daf/materials/audio/unit05_kunst-und-kultur/vocab3.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Reflexion",
+    "file_withheld": "/daf/materials/audio/unit05_kunst-und-kultur/vocab4.ogg"
+  }
 ]

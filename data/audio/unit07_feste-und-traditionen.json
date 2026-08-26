@@ -1,37 +1,37 @@
 [
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Maja: Mama, hier ist ein Brief. Was ist das?\nSabina: Das ist eine Einladung. Am Samstag ist ein Stadtfest.\nOmar: Ein Fest? Gibt es dort Musik?\nSabina: Ja, hier steht: Musik, eine Kinderecke und Essen.\nMaja: Super! Ich möchte hingehen, weil ich gern tanze.\nOmar: Und ich gehe mit, weil es dort Würstchen gibt."
- },
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "der Feiertag, -e · das Fest, -e · die Einladung, -en · das Programm, -e · der Weihnachtsmarkt, -¨e · die Fasnacht / der Karneval · die Tradition, -en · der Brauch, -¨e · feiern · der Eintritt frei"
- },
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "In Deutschland, Österreich und der Schweiz feiern die Menschen viele\nFeste. Im Dezember gibt es überall Weihnachtsmärkte. Dort trinkt man\nPunsch und kauft kleine Geschenke. Viele Familien gehen am Abend hin,\nweil die Lichter dann besonders schön sind.\nIm Sommer feiern viele Städte ein Stadtfest. Es gibt Musik, Essen und\noft eine Kinderecke. Der Eintritt ist meistens frei, und man kann den\nganzen Tag bleiben.\nIm Februar oder März kommt die Fasnacht. In Basel beginnt sie sehr\nfrüh am Morgen. Die Leute tragen Kostüme und Laternen und spielen\nMusik. Kinder finden das oft lustig, aber der Morgen ist auch sehr\nlaut. Man sagt, dass die Fasnacht ein sehr altes Fest ist."
- },
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Inhalt: alle vier Punkte genannt · Ein Nebensatz mit weil oder dass · Wortschatz zum Thema Fest · Verständlichkeit (trotz Fehler klar)"
- },
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "Stadtfest Graz — Samstag, 28. Juni\nLiebe Nachbarinnen und Nachbarn,\nwir feiern am Samstag unser Stadtfest auf dem Hauptplatz, von 11 bis\n23 Uhr. Es gibt eine Musikbühne, eine Kinderecke (nur 14–17 Uhr),\nWürstchen und Wein aus der Steiermark. Am Abend gibt es Punsch. Der\nEintritt ist frei. Bitte kommen Sie mit dem Rad oder mit dem Bus, denn\nes gibt keine Parkplätze.\nWir freuen uns auf Sie!\nHerr Ebner"
- },
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "5 · 4 · 3 · 0–2"
- },
- {
-  "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung · Reflexion"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Maja: Mama, hier ist ein Brief. Was ist das?\nSabina: Das ist eine Einladung. Am Samstag ist ein Stadtfest.\nOmar: Ein Fest? Gibt es dort Musik?\nSabina: Ja, hier steht: Musik, eine Kinderecke und Essen.\nMaja: Super! Ich möchte hingehen, weil ich gern tanze.\nOmar: Und ich gehe mit, weil es dort Würstchen gibt.",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "der Feiertag, -e · das Fest, -e · die Einladung, -en · das Programm, -e · der Weihnachtsmarkt, -¨e · die Fasnacht / der Karneval · die Tradition, -en · der Brauch, -¨e · feiern · der Eintritt frei",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "In Deutschland, Österreich und der Schweiz feiern die Menschen viele\nFeste. Im Dezember gibt es überall Weihnachtsmärkte. Dort trinkt man\nPunsch und kauft kleine Geschenke. Viele Familien gehen am Abend hin,\nweil die Lichter dann besonders schön sind.\nIm Sommer feiern viele Städte ein Stadtfest. Es gibt Musik, Essen und\noft eine Kinderecke. Der Eintritt ist meistens frei, und man kann den\nganzen Tag bleiben.\nIm Februar oder März kommt die Fasnacht. In Basel beginnt sie sehr\nfrüh am Morgen. Die Leute tragen Kostüme und Laternen und spielen\nMusik. Kinder finden das oft lustig, aber der Morgen ist auch sehr\nlaut. Man sagt, dass die Fasnacht ein sehr altes Fest ist.",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/texte1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Inhalt: alle vier Punkte genannt · Ein Nebensatz mit weil oder dass · Wortschatz zum Thema Fest · Verständlichkeit (trotz Fehler klar)",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/vocab2.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "Stadtfest Graz — Samstag, 28. Juni\nLiebe Nachbarinnen und Nachbarn,\nwir feiern am Samstag unser Stadtfest auf dem Hauptplatz, von 11 bis\n23 Uhr. Es gibt eine Musikbühne, eine Kinderecke (nur 14–17 Uhr),\nWürstchen und Wein aus der Steiermark. Am Abend gibt es Punsch. Der\nEintritt ist frei. Bitte kommen Sie mit dem Rad oder mit dem Bus, denn\nes gibt keine Parkplätze.\nWir freuen uns auf Sie!\nHerr Ebner",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/texte2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "5 · 4 · 3 · 0–2",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/vocab3.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung · Reflexion",
+    "file_withheld": "/daf/materials/audio/unit07_feste-und-traditionen/vocab4.ogg"
+  }
 ]

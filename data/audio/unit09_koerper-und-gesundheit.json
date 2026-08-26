@@ -1,37 +1,37 @@
 [
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Nina: „Guten Morgen. Oh, mein Kopf tut weh.\nOma Rosa: „Du bist blass, Nina. Hast du Fieber?\nNina: „Ich glaube ja. Mein Hals tut auch weh.\nTom: „Trink einen Tee. Und geh heute zum Arzt.\nNina: „Ja. Ich rufe die Praxis an."
- },
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "der Kopf · der Hals · der Bauch · der Rücken · der Arm · das Bein · die Hand · der Fuß · das Auge · das Ohr · die Nase · der Zahn · die Schmerzen (Pl.) · das Fieber · die Erkältung · der Husten · die Tablette · die Apotheke"
- },
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "Nina ist in der Praxis. Die Ärztin heißt Dr. Bauer.\nDr. Bauer: „Guten Tag, Frau Klein. Was fehlt Ihnen?\nNina: „Guten Tag. Ich habe Kopfschmerzen und mein Hals tut weh.\nDr. Bauer: „Seit wann?\nNina: „Seit gestern.\nDr. Bauer: „Machen Sie bitte den Mund auf. — Sie haben eine\nErkältung. Trinken Sie viel Tee und nehmen Sie diese Tablette\nzweimal am Tag.\nNina: „Danke, Frau Doktor."
- },
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue3.ogg",
-  "label": "Dialog 3",
-  "transcript": "Arzt: Guten Tag. Was fehlt Ihnen?\nPatient: ________________________________________\nArzt: Seit wann?\nPatient: ________________________________________\nArzt: Setzen Sie sich bitte. Ich sehe nach."
- },
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Zwei Beschwerden genannt · „seit wann\" gesagt · Zwei Anweisungen verstanden · Verständliche Aussprache"
- },
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "2 · 2 · 2 · 0"
- },
- {
-  "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "Einstieg (Szene + Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Rollenspiel) · Prüfungsvorschau"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Nina: „Guten Morgen. Oh, mein Kopf tut weh.\nOma Rosa: „Du bist blass, Nina. Hast du Fieber?\nNina: „Ich glaube ja. Mein Hals tut auch weh.\nTom: „Trink einen Tee. Und geh heute zum Arzt.\nNina: „Ja. Ich rufe die Praxis an.",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "der Kopf · der Hals · der Bauch · der Rücken · der Arm · das Bein · die Hand · der Fuß · das Auge · das Ohr · die Nase · der Zahn · die Schmerzen (Pl.) · das Fieber · die Erkältung · der Husten · die Tablette · die Apotheke",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab1.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "Nina ist in der Praxis. Die Ärztin heißt Dr. Bauer.\nDr. Bauer: „Guten Tag, Frau Klein. Was fehlt Ihnen?\nNina: „Guten Tag. Ich habe Kopfschmerzen und mein Hals tut weh.\nDr. Bauer: „Seit wann?\nNina: „Seit gestern.\nDr. Bauer: „Machen Sie bitte den Mund auf. — Sie haben eine\nErkältung. Trinken Sie viel Tee und nehmen Sie diese Tablette\nzweimal am Tag.\nNina: „Danke, Frau Doktor.",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue2.ogg"
+  },
+  {
+    "label": "Dialog 3",
+    "transcript": "Arzt: Guten Tag. Was fehlt Ihnen?\nPatient: ________________________________________\nArzt: Seit wann?\nPatient: ________________________________________\nArzt: Setzen Sie sich bitte. Ich sehe nach.",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue3.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Zwei Beschwerden genannt · „seit wann\" gesagt · Zwei Anweisungen verstanden · Verständliche Aussprache",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "2 · 2 · 2 · 0",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab3.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "Einstieg (Szene + Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Rollenspiel) · Prüfungsvorschau",
+    "file_withheld": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab4.ogg"
+  }
 ]

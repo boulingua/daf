@@ -1,12 +1,12 @@
 [
- {
-  "file": "/daf/materials/audio/unit12_literarische-perspektiven/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Erzählstimme, -n · der/die Ich-Erzähler:in · auktorial · personal · die erlebte Rede · der innere Monolog · die Unzuverlässigkeit · nuanciert (Adj.) · die Mehrdeutigkeit · berührend / verstörend"
- },
- {
-  "file": "/daf/materials/audio/unit12_literarische-perspektiven/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Erfüllung der Aufgabe · Struktur & Kohärenz · Wortschatz · Grammatik · Aussprache & Flüssigkeit"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Erzählstimme, -n · der/die Ich-Erzähler:in · auktorial · personal · die erlebte Rede · der innere Monolog · die Unzuverlässigkeit · nuanciert (Adj.) · die Mehrdeutigkeit · berührend / verstörend",
+    "file_withheld": "/daf/materials/audio/unit12_literarische-perspektiven/vocab1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Erfüllung der Aufgabe · Struktur & Kohärenz · Wortschatz · Grammatik · Aussprache & Flüssigkeit",
+    "file_withheld": "/daf/materials/audio/unit12_literarische-perspektiven/vocab2.ogg"
+  }
 ]

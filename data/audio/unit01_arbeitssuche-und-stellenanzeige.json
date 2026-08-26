@@ -1,42 +1,42 @@
 [
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/dialogue1.ogg",
-  "label": "Dialog 1",
-  "transcript": "Lena: Was liest du denn da so genau?\nMaja: Eine Stellenanzeige. Ich möchte die Stelle wechseln,\nweil das Krankenhaus wenig zahlt und die Wege weit sind.\nLena: Und was suchst du? Vollzeit oder Teilzeit?\nMaja: Vollzeit. Aber ich habe keinen Schichtdienst mehr\ngern. Ich möchte am Abend zu Hause sein.\nLena: Dann musst du gut lesen: Arbeitszeit, Gehalt und\nBeginn stehen immer in der Anzeige."
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "die Stellenanzeige, -n · die Bewerbung, -en · Vollzeit / Teilzeit · das Gehalt (brutto / netto) · der Schichtdienst · die Anforderung, -en · die Erfahrung, -en · die Weiterbildung, -en · der Beginn / der Starttermin · die Unterlagen (Pl.)"
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Ich suche eine Stelle, · Ich lese die Anzeige, · Ich weiß, · Ich schreibe,"
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/dialogue2.ogg",
-  "label": "Dialog 2",
-  "transcript": "Merke: Bei Modalverben steht das Modalverb ganz am Ende:\n…, weil ich nicht in Schichten arbeiten möchte."
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/dialogue3.ogg",
-  "label": "Dialog 3",
-  "transcript": "a) Pflegefachkraft — Landeskrankenhaus Graz\nVollzeit, 40 Stunden. Gehalt nach Kollektivvertrag, 2 900 €\nbrutto. Eine Dienstwohnung ist möglich. Beginn: 1. September.\nb) Kellner/in — Café Leopold, Graz\nTeilzeit, 20 Stunden. 12 € pro Stunde. Nur Samstag und Sonntag.\nWir freuen uns über ein bisschen Englisch. Beginn: sofort.\nc) Kindergartenhelfer/in — Kindergarten Puntigam\n30 Stunden, Montag bis Freitag von 8 bis 14 Uhr. 2 100 € brutto.\nDeutsch B1 ist Pflicht. Beginn: 12. Juli.\nd) Pflegekraft — Pflegeheim St. Ulrich\nVollzeit, 38 Stunden. 3 100 € brutto. Schichtdienst. Ein\nBudget für Weiterbildung ist inklusive. Beginn: nach Absprache."
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Sehr geehrte Damen und Herren,\nich interessiere mich sehr für Ihre Stellenanzeige als\nPflegefachkraft. Ich arbeite seit zwei Jahren in Graz und habe\nErfahrung in der Inneren Medizin. Ich kann ab dem 1. September\nanfangen. Meine Unterlagen finden Sie im Anhang.\nMit freundlichen Grüßen\nMaja Nowak"
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Alle drei Inhaltspunkte genannt · Passende Anrede und Gruß · Verständliche Sätze (A2, kleine Fehler ok) · Gesamt"
- },
- {
-  "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab4.ogg",
-  "label": "Wortschatz 4",
-  "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung"
- }
+  {
+    "label": "Dialog 1",
+    "transcript": "Lena: Was liest du denn da so genau?\nMaja: Eine Stellenanzeige. Ich möchte die Stelle wechseln,\nweil das Krankenhaus wenig zahlt und die Wege weit sind.\nLena: Und was suchst du? Vollzeit oder Teilzeit?\nMaja: Vollzeit. Aber ich habe keinen Schichtdienst mehr\ngern. Ich möchte am Abend zu Hause sein.\nLena: Dann musst du gut lesen: Arbeitszeit, Gehalt und\nBeginn stehen immer in der Anzeige.",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/dialogue1.ogg"
+  },
+  {
+    "label": "Wortschatz 1",
+    "transcript": "die Stellenanzeige, -n · die Bewerbung, -en · Vollzeit / Teilzeit · das Gehalt (brutto / netto) · der Schichtdienst · die Anforderung, -en · die Erfahrung, -en · die Weiterbildung, -en · der Beginn / der Starttermin · die Unterlagen (Pl.)",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Ich suche eine Stelle, · Ich lese die Anzeige, · Ich weiß, · Ich schreibe,",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab2.ogg"
+  },
+  {
+    "label": "Dialog 2",
+    "transcript": "Merke: Bei Modalverben steht das Modalverb ganz am Ende:\n…, weil ich nicht in Schichten arbeiten möchte.",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/dialogue2.ogg"
+  },
+  {
+    "label": "Dialog 3",
+    "transcript": "a) Pflegefachkraft — Landeskrankenhaus Graz\nVollzeit, 40 Stunden. Gehalt nach Kollektivvertrag, 2 900 €\nbrutto. Eine Dienstwohnung ist möglich. Beginn: 1. September.\nb) Kellner/in — Café Leopold, Graz\nTeilzeit, 20 Stunden. 12 € pro Stunde. Nur Samstag und Sonntag.\nWir freuen uns über ein bisschen Englisch. Beginn: sofort.\nc) Kindergartenhelfer/in — Kindergarten Puntigam\n30 Stunden, Montag bis Freitag von 8 bis 14 Uhr. 2 100 € brutto.\nDeutsch B1 ist Pflicht. Beginn: 12. Juli.\nd) Pflegekraft — Pflegeheim St. Ulrich\nVollzeit, 38 Stunden. 3 100 € brutto. Schichtdienst. Ein\nBudget für Weiterbildung ist inklusive. Beginn: nach Absprache.",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/dialogue3.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Sehr geehrte Damen und Herren,\nich interessiere mich sehr für Ihre Stellenanzeige als\nPflegefachkraft. Ich arbeite seit zwei Jahren in Graz und habe\nErfahrung in der Inneren Medizin. Ich kann ab dem 1. September\nanfangen. Meine Unterlagen finden Sie im Anhang.\nMit freundlichen Grüßen\nMaja Nowak",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/texte1.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Alle drei Inhaltspunkte genannt · Passende Anrede und Gruß · Verständliche Sätze (A2, kleine Fehler ok) · Gesamt",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab3.ogg"
+  },
+  {
+    "label": "Wortschatz 4",
+    "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung",
+    "file_withheld": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab4.ogg"
+  }
 ]

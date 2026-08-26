@@ -1,37 +1,37 @@
 [
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "das Framing · die Präsupposition · die Metapher · der Präsuppositionsauslöser · die Wir-Konstruktion · die Gegnerkonstruktion · der Euphemismus · die Nominalisierung · die Hedging-Formel"
- },
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Die Metapher dürfte darauf abzielen, Widerspruch als Störung\nerscheinen zu lassen.\nVermutlich / offenbar / augenscheinlich wird hier eine Dringlichkeit\nsuggeriert, die der Sachverhalt nicht hergibt."
- },
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "*„Wir werden die Grenzen unseres Landes nicht nur verteidigen — wir\nwerden sie heilen. Unser Land ist krank, und ein krankes Land braucht\nvor allem Ruhe. Wer das begriffen hat, steht längst bei uns. Und wer\nes noch nicht begriffen hat, der wird es lernen.*"
- },
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Krankheits-Metaphorik (Land = kranker Körper) · Präsupposition (faktiver Auslöser „begreifen) · Wir-/Gegnerkonstruktion · Drohung im Lehrgestus"
- },
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "*Auffällig ist zunächst die somatische Metaphorik: Indem das Land als\n„krank bezeichnet wird, verschiebt der Redner die Auseinandersetzung\nvon der politischen auf die therapeutische Ebene. Ein Kranker braucht\nnicht Debatte, sondern Ruhe — folglich erscheint Widerspruch nicht als\nlegitimes Recht, sondern als schädliche Unruhe. Verstärkt wird dieser\nEffekt durch das faktive Verb „begreifen, das eine einzige richtige\nEinsicht präsupponiert. Wer nicht zustimmt, dem wird nicht ein anderes\nUrteil, sondern schlicht mangelnde Einsicht zugeschrieben. Man könnte\ndaher argumentieren, dass die Passage weniger überzeugen als\nZustimmung moralisch erzwingen will.*"
- },
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte4.ogg",
-  "label": "Text 4",
-  "transcript": "*„Politische Rhetorik sollte im Unterricht als Analyseobjekt behandelt\nwerden — gerade auch jene Rhetorik, die uns stört.*"
- },
- {
-  "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Aufgabenerfüllung · Kohärenz & Textaufbau · Wortschatz · Strukturen · Korrektheit · Summe"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "das Framing · die Präsupposition · die Metapher · der Präsuppositionsauslöser · die Wir-Konstruktion · die Gegnerkonstruktion · der Euphemismus · die Nominalisierung · die Hedging-Formel",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Die Metapher dürfte darauf abzielen, Widerspruch als Störung\nerscheinen zu lassen.\nVermutlich / offenbar / augenscheinlich wird hier eine Dringlichkeit\nsuggeriert, die der Sachverhalt nicht hergibt.",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "*„Wir werden die Grenzen unseres Landes nicht nur verteidigen — wir\nwerden sie heilen. Unser Land ist krank, und ein krankes Land braucht\nvor allem Ruhe. Wer das begriffen hat, steht längst bei uns. Und wer\nes noch nicht begriffen hat, der wird es lernen.*",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/texte2.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Krankheits-Metaphorik (Land = kranker Körper) · Präsupposition (faktiver Auslöser „begreifen) · Wir-/Gegnerkonstruktion · Drohung im Lehrgestus",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "*Auffällig ist zunächst die somatische Metaphorik: Indem das Land als\n„krank bezeichnet wird, verschiebt der Redner die Auseinandersetzung\nvon der politischen auf die therapeutische Ebene. Ein Kranker braucht\nnicht Debatte, sondern Ruhe — folglich erscheint Widerspruch nicht als\nlegitimes Recht, sondern als schädliche Unruhe. Verstärkt wird dieser\nEffekt durch das faktive Verb „begreifen, das eine einzige richtige\nEinsicht präsupponiert. Wer nicht zustimmt, dem wird nicht ein anderes\nUrteil, sondern schlicht mangelnde Einsicht zugeschrieben. Man könnte\ndaher argumentieren, dass die Passage weniger überzeugen als\nZustimmung moralisch erzwingen will.*",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/texte3.ogg"
+  },
+  {
+    "label": "Text 4",
+    "transcript": "*„Politische Rhetorik sollte im Unterricht als Analyseobjekt behandelt\nwerden — gerade auch jene Rhetorik, die uns stört.*",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/texte4.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Aufgabenerfüllung · Kohärenz & Textaufbau · Wortschatz · Strukturen · Korrektheit · Summe",
+    "file_withheld": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab3.ogg"
+  }
 ]

@@ -1,22 +1,22 @@
 [
- {
-  "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab1.ogg",
-  "label": "Wortschatz 1",
-  "transcript": "enttäuscht (Adj.) · der Vorwurf, ¨-e · die Aussprache, -n · sich beruhigen (refl.) · die Einsicht, -en · die Versöhnung, -en · das Bedürfnis, -se · die Ich-Botschaft, -en"
- },
- {
-  "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee,\neinfach reden. Ich hatte mich darauf gefreut. Als ich in die\nWohnung kam, saß Stefan vor seinem Laptop und spielte. „Einen\nMoment, sagte er. Der Moment dauerte eine halbe Stunde. Wir\nhaben danach noch geredet, aber ich war schon so enttäuscht,\ndass ich nicht mehr richtig zuhören konnte.\nIch weiß, dass Stefan eine stressige Woche hatte. Vielleicht\nhat er den Termin einfach vergessen. Oder er hat ihn bewusst\nklein gehalten, weil er sich ausruhen musste. Trotzdem hat es\nmich verletzt, weil ich mich nicht gesehen gefühlt habe.\nIch möchte ihm keinen Vorwurf machen, den ich später bereue.\nDeshalb schreibe ich nichts, bevor ich mich beruhigt habe.\nMorgen schicke ich ihm eine kurze Nachricht und frage, wann\nwir uns noch einmal treffen könnten — diesmal ohne Laptop. Ich\nglaube, eine ruhige Aussprache wäre besser als ein wütender\nText um Mitternacht."
- },
- {
-  "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab2.ogg",
-  "label": "Wortschatz 2",
-  "transcript": "Einsicht / Entschuldigung erkennbar · Erklärung sachlich und ehrlich · konkreter Vorschlag (Zeit/Ort) · Konjunktiv II / Ich-Botschaft benutzt · Gesamt"
- },
- {
-  "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab3.ogg",
-  "label": "Wortschatz 3",
-  "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion"
- }
+  {
+    "label": "Wortschatz 1",
+    "transcript": "enttäuscht (Adj.) · der Vorwurf, ¨-e · die Aussprache, -n · sich beruhigen (refl.) · die Einsicht, -en · die Versöhnung, -en · das Bedürfnis, -se · die Ich-Botschaft, -en",
+    "file_withheld": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee,\neinfach reden. Ich hatte mich darauf gefreut. Als ich in die\nWohnung kam, saß Stefan vor seinem Laptop und spielte. „Einen\nMoment, sagte er. Der Moment dauerte eine halbe Stunde. Wir\nhaben danach noch geredet, aber ich war schon so enttäuscht,\ndass ich nicht mehr richtig zuhören konnte.\nIch weiß, dass Stefan eine stressige Woche hatte. Vielleicht\nhat er den Termin einfach vergessen. Oder er hat ihn bewusst\nklein gehalten, weil er sich ausruhen musste. Trotzdem hat es\nmich verletzt, weil ich mich nicht gesehen gefühlt habe.\nIch möchte ihm keinen Vorwurf machen, den ich später bereue.\nDeshalb schreibe ich nichts, bevor ich mich beruhigt habe.\nMorgen schicke ich ihm eine kurze Nachricht und frage, wann\nwir uns noch einmal treffen könnten — diesmal ohne Laptop. Ich\nglaube, eine ruhige Aussprache wäre besser als ein wütender\nText um Mitternacht.",
+    "file_withheld": "/daf/materials/audio/unit11_persoenliche-beziehungen/texte1.ogg"
+  },
+  {
+    "label": "Wortschatz 2",
+    "transcript": "Einsicht / Entschuldigung erkennbar · Erklärung sachlich und ehrlich · konkreter Vorschlag (Zeit/Ort) · Konjunktiv II / Ich-Botschaft benutzt · Gesamt",
+    "file_withheld": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab2.ogg"
+  },
+  {
+    "label": "Wortschatz 3",
+    "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
+    "file_withheld": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab3.ogg"
+  }
 ]
