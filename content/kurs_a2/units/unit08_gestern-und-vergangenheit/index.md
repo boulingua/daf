@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: A2
+  implements:
+    - A2.INT.goal-oriented-online-transactions-and-collaboration.03
+    - A2.PROD.compensating.01
+    - A2.INT.asking-for-clarification.01
+    - A2.PROD.creative-writing.01
+    - A2.MED.relaying-specific-information.04
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

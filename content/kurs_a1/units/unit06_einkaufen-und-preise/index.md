@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: A1
+  implements:
+    - A1.INT.asking-for-clarification.01
+    - A1.PROD.compensating.01
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.INT.conversation.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

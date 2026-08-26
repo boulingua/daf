@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B1
+  implements:
+    - B1.PROD.monitoring-and-repair.01
+    - B1.REC.reading-correspondence.04
+    - B1.PROD.sustained-monologue-giving-information.01
+    - B1.REC.identifying-cues-and-inferring.01
+    - B1.INT.online-conversation-and-discussion.01
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

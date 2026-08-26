@@ -1,0 +1,649 @@
+# Conformance manifest — boulingua/daf.
+#
+# Two fields, because they are two facts. `declared_conformance` is the TARGET;
+# `conformance_status` is whether it has been reached. Collapsing them makes
+# "aiming at core and not there yet" indistinguishable from a lesser target,
+# and a course does not aim at partial.
+#
+# This course is IN-PROGRESS and will stay so while any page carries
+# implements_basis: proposed. The structure of those claims is verified — every
+# id resolves at the page's own level, no two share a scale, and the breadth
+# rule holds — but the judgement behind them is a machine ranking, not a
+# reading of the unit. Confirming a tranche means changing that field, and the
+# count below is what tells you how much is left.
+
+framework: boulingua-curriculum
+framework_version: 1.1.0
+language: de
+declared_conformance: full
+conformance_status: in-progress
+
+levels_claimed: [A1, A2, B1, B2, C1]
+
+# Pages by level, measured from the content rather than declared here.
+pages:
+  A1: 12
+  A2: 12
+  B1: 12
+  B2: 12
+  C1: 12
+
+implements:
+  distinct_descriptors: 141
+  proposed: 60
+  asserted: 0
+
+realizations:
+# Generated from the content, never hand-kept — gate A16 checks the two
+# against each other, and a list maintained by hand is the thing that
+# drifts. `page` is a content path and deliberately not a URL: a
+# conformance layer referencing URLs would become a second reason to
+# re-slug, and a re-slug orphans registered VG Wort marks.
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: kurs_a1/units/unit01_begruessung-und-name
+  - implements_id: A1.PROD.creative-writing.01
+    page: kurs_a1/units/unit01_begruessung-und-name
+  - implements_id: A1.PROD.sustained-monologue-giving-information.01
+    page: kurs_a1/units/unit01_begruessung-und-name
+  - implements_id: A1.INT.conversation.01
+    page: kurs_a1/units/unit01_begruessung-und-name
+  - implements_id: A1.LING.general-linguistic-range.02
+    page: kurs_a1/units/unit01_begruessung-und-name
+  - implements_id: A1.INT.correspondence.03
+    page: kurs_a1/units/unit02_meine-familie
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit02_meine-familie
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: kurs_a1/units/unit02_meine-familie
+  - implements_id: A1.INT.online-conversation-and-discussion.02
+    page: kurs_a1/units/unit02_meine-familie
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: kurs_a1/units/unit02_meine-familie
+  - implements_id: A1.INT.information-exchange.01
+    page: kurs_a1/units/unit03_woher-kommst-du
+  - implements_id: A1.PROD.creative-writing.01
+    page: kurs_a1/units/unit03_woher-kommst-du
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: kurs_a1/units/unit03_woher-kommst-du
+  - implements_id: A1.PROD.sustained-monologue-describing-experience.01
+    page: kurs_a1/units/unit03_woher-kommst-du
+  - implements_id: A1.LING.phonological-control.02
+    page: kurs_a1/units/unit03_woher-kommst-du
+  - implements_id: A1.PROD.creative-writing.02
+    page: kurs_a1/units/unit04_meine-wohnung
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: kurs_a1/units/unit04_meine-wohnung
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit04_meine-wohnung
+  - implements_id: A1.REC.overall-oral-comprehension.01
+    page: kurs_a1/units/unit04_meine-wohnung
+  - implements_id: A1.INT.correspondence.03
+    page: kurs_a1/units/unit04_meine-wohnung
+  - implements_id: A1.INT.correspondence.03
+    page: kurs_a1/units/unit05_essen-und-trinken
+  - implements_id: A1.PROD.creative-writing.02
+    page: kurs_a1/units/unit05_essen-und-trinken
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: kurs_a1/units/unit05_essen-und-trinken
+  - implements_id: A1.INT.goal-oriented-online-transactions-and-collaboration.01
+    page: kurs_a1/units/unit05_essen-und-trinken
+  - implements_id: A1.LING.orthographic-control.01
+    page: kurs_a1/units/unit05_essen-und-trinken
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: kurs_a1/units/unit06_einkaufen-und-preise
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit06_einkaufen-und-preise
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: kurs_a1/units/unit06_einkaufen-und-preise
+  - implements_id: A1.INT.conversation.01
+    page: kurs_a1/units/unit06_einkaufen-und-preise
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: kurs_a1/units/unit06_einkaufen-und-preise
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit07_uhrzeit-und-wochenplan
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: kurs_a1/units/unit07_uhrzeit-und-wochenplan
+  - implements_id: A1.REC.reading-correspondence.03
+    page: kurs_a1/units/unit07_uhrzeit-und-wochenplan
+  - implements_id: A1.PROD.creative-writing.01
+    page: kurs_a1/units/unit07_uhrzeit-und-wochenplan
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: kurs_a1/units/unit07_uhrzeit-und-wochenplan
+  - implements_id: A1.INT.correspondence.03
+    page: kurs_a1/units/unit08_wetter-und-jahreszeiten
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit08_wetter-und-jahreszeiten
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: kurs_a1/units/unit08_wetter-und-jahreszeiten
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: kurs_a1/units/unit08_wetter-und-jahreszeiten
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: kurs_a1/units/unit08_wetter-und-jahreszeiten
+  - implements_id: A1.INT.conversation.01
+    page: kurs_a1/units/unit09_koerper-und-gesundheit
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit09_koerper-und-gesundheit
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: kurs_a1/units/unit09_koerper-und-gesundheit
+  - implements_id: A1.INT.goal-oriented-co-operation.03
+    page: kurs_a1/units/unit09_koerper-und-gesundheit
+  - implements_id: A1.PLUR.building-on-plurilingual-repertoire.01
+    page: kurs_a1/units/unit09_koerper-und-gesundheit
+  - implements_id: A1.INT.correspondence.03
+    page: kurs_a1/units/unit10_mein-beruf
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit10_mein-beruf
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: kurs_a1/units/unit10_mein-beruf
+  - implements_id: A1.PROD.creative-writing.01
+    page: kurs_a1/units/unit10_mein-beruf
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: kurs_a1/units/unit10_mein-beruf
+  - implements_id: A1.INT.information-exchange.02
+    page: kurs_a1/units/unit11_meine-freizeit
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit11_meine-freizeit
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: kurs_a1/units/unit11_meine-freizeit
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: kurs_a1/units/unit11_meine-freizeit
+  - implements_id: A1.LING.general-linguistic-range.02
+    page: kurs_a1/units/unit11_meine-freizeit
+  - implements_id: A1.PROD.overall-written-production.01
+    page: kurs_a1/units/unit12_reisen-und-unterwegs
+  - implements_id: A1.REC.reading-for-orientation.03
+    page: kurs_a1/units/unit12_reisen-und-unterwegs
+  - implements_id: A1.REC.understanding-announcements-and-instructions.02
+    page: kurs_a1/units/unit12_reisen-und-unterwegs
+  - implements_id: A1.PROD.compensating.01
+    page: kurs_a1/units/unit12_reisen-und-unterwegs
+  - implements_id: A1.INT.correspondence.03
+    page: kurs_a1/units/unit12_reisen-und-unterwegs
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige
+  - implements_id: A2.REC.identifying-cues-and-inferring.02
+    page: kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige
+  - implements_id: A2.PROD.sustained-monologue-describing-experience.02
+    page: kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige
+  - implements_id: A2.REC.overall-oral-comprehension.02
+    page: kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige
+  - implements_id: A2.INT.overall-oral-interaction.02
+    page: kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige
+  - implements_id: A2.INT.notes-messages-and-forms.02
+    page: kurs_a2/units/unit02_wohnung-mieten
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit02_wohnung-mieten
+  - implements_id: A2.REC.overall-oral-comprehension.02
+    page: kurs_a2/units/unit02_wohnung-mieten
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit02_wohnung-mieten
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: kurs_a2/units/unit02_wohnung-mieten
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit03_beim-arzt
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit03_beim-arzt
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: kurs_a2/units/unit03_beim-arzt
+  - implements_id: A2.INT.conversation.04
+    page: kurs_a2/units/unit03_beim-arzt
+  - implements_id: A2.MED.collaborating-to-construct-meaning.01
+    page: kurs_a2/units/unit03_beim-arzt
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit04_im-amt
+  - implements_id: A2.REC.reading-instructions.02
+    page: kurs_a2/units/unit04_im-amt
+  - implements_id: A2.PROD.sustained-monologue-describing-experience.03
+    page: kurs_a2/units/unit04_im-amt
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: kurs_a2/units/unit04_im-amt
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit04_im-amt
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit05_reiseplanung
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: kurs_a2/units/unit05_reiseplanung
+  - implements_id: A2.PROD.sustained-monologue-describing-experience.09
+    page: kurs_a2/units/unit05_reiseplanung
+  - implements_id: A2.REC.reading-as-a-leisure-activity.03
+    page: kurs_a2/units/unit05_reiseplanung
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit05_reiseplanung
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit06_hobbys-und-vereine
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit06_hobbys-und-vereine
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: kurs_a2/units/unit06_hobbys-und-vereine
+  - implements_id: A2.INT.goal-oriented-online-transactions-and-collaboration.03
+    page: kurs_a2/units/unit06_hobbys-und-vereine
+  - implements_id: A2.MED.overall-mediation.01
+    page: kurs_a2/units/unit06_hobbys-und-vereine
+  - implements_id: A2.INT.overall-oral-interaction.02
+    page: kurs_a2/units/unit07_feste-und-traditionen
+  - implements_id: A2.PROD.creative-writing.03
+    page: kurs_a2/units/unit07_feste-und-traditionen
+  - implements_id: A2.REC.reading-instructions.02
+    page: kurs_a2/units/unit07_feste-und-traditionen
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit07_feste-und-traditionen
+  - implements_id: A2.MED.expressing-a-personal-response-to-creative-texts.03
+    page: kurs_a2/units/unit07_feste-und-traditionen
+  - implements_id: A2.INT.goal-oriented-online-transactions-and-collaboration.03
+    page: kurs_a2/units/unit08_gestern-und-vergangenheit
+  - implements_id: A2.PROD.compensating.01
+    page: kurs_a2/units/unit08_gestern-und-vergangenheit
+  - implements_id: A2.INT.asking-for-clarification.01
+    page: kurs_a2/units/unit08_gestern-und-vergangenheit
+  - implements_id: A2.PROD.creative-writing.01
+    page: kurs_a2/units/unit08_gestern-und-vergangenheit
+  - implements_id: A2.MED.relaying-specific-information.04
+    page: kurs_a2/units/unit08_gestern-und-vergangenheit
+  - implements_id: A2.INT.conversation.08
+    page: kurs_a2/units/unit09_plaene-und-zukunft
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit09_plaene-und-zukunft
+  - implements_id: A2.INT.information-exchange.04
+    page: kurs_a2/units/unit09_plaene-und-zukunft
+  - implements_id: A2.PROD.compensating.01
+    page: kurs_a2/units/unit09_plaene-und-zukunft
+  - implements_id: A2.MED.overall-mediation.01
+    page: kurs_a2/units/unit09_plaene-und-zukunft
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: kurs_a2/units/unit10_medien-im-alltag
+  - implements_id: A2.REC.understanding-audio-media-and-recordings.02
+    page: kurs_a2/units/unit10_medien-im-alltag
+  - implements_id: A2.INT.online-conversation-and-discussion.01
+    page: kurs_a2/units/unit10_medien-im-alltag
+  - implements_id: A2.INT.conversation.06
+    page: kurs_a2/units/unit10_medien-im-alltag
+  - implements_id: A2.MED.processing-text.01
+    page: kurs_a2/units/unit10_medien-im-alltag
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit11_umwelt-und-alltag
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit11_umwelt-und-alltag
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: kurs_a2/units/unit11_umwelt-und-alltag
+  - implements_id: A2.REC.reading-for-information-and-argument.01
+    page: kurs_a2/units/unit11_umwelt-und-alltag
+  - implements_id: A2.MED.overall-mediation.01
+    page: kurs_a2/units/unit11_umwelt-und-alltag
+  - implements_id: A2.INT.conversation.06
+    page: kurs_a2/units/unit12_freundschaft-und-familiengeschichte
+  - implements_id: A2.PROD.creative-writing.07
+    page: kurs_a2/units/unit12_freundschaft-und-familiengeschichte
+  - implements_id: A2.INT.correspondence.01
+    page: kurs_a2/units/unit12_freundschaft-und-familiengeschichte
+  - implements_id: A2.PROD.compensating.01
+    page: kurs_a2/units/unit12_freundschaft-und-familiengeschichte
+  - implements_id: A2.MED.collaborating-to-construct-meaning.01
+    page: kurs_a2/units/unit12_freundschaft-und-familiengeschichte
+  - implements_id: B1.INT.goal-oriented-online-transactions-and-collaboration.04
+    page: kurs_b1/units/unit01_neuanfang-in-basel
+  - implements_id: B1.PROD.planning.02
+    page: kurs_b1/units/unit01_neuanfang-in-basel
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit01_neuanfang-in-basel
+  - implements_id: B1.INT.conversation.04
+    page: kurs_b1/units/unit01_neuanfang-in-basel
+  - implements_id: B1.PLUR.plurilingual-comprehension.03
+    page: kurs_b1/units/unit01_neuanfang-in-basel
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: kurs_b1/units/unit02_der-bewerbungsweg
+  - implements_id: B1.PROD.compensating.01
+    page: kurs_b1/units/unit02_der-bewerbungsweg
+  - implements_id: B1.PROD.monitoring-and-repair.02
+    page: kurs_b1/units/unit02_der-bewerbungsweg
+  - implements_id: B1.INT.asking-for-clarification.01
+    page: kurs_b1/units/unit02_der-bewerbungsweg
+  - implements_id: B1.MED.processing-text.11
+    page: kurs_b1/units/unit02_der-bewerbungsweg
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit03_weiterbildung-und-studium
+  - implements_id: B1.REC.reading-correspondence.04
+    page: kurs_b1/units/unit03_weiterbildung-und-studium
+  - implements_id: B1.INT.online-conversation-and-discussion.01
+    page: kurs_b1/units/unit03_weiterbildung-und-studium
+  - implements_id: B1.MED.processing-text.11
+    page: kurs_b1/units/unit03_weiterbildung-und-studium
+  - implements_id: B1.PLUR.plurilingual-comprehension.03
+    page: kurs_b1/units/unit03_weiterbildung-und-studium
+  - implements_id: B1.MED.adapting-language.01
+    page: kurs_b1/units/unit04_gesundheitssystem-dach
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit04_gesundheitssystem-dach
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: kurs_b1/units/unit04_gesundheitssystem-dach
+  - implements_id: B1.REC.reading-correspondence.03
+    page: kurs_b1/units/unit04_gesundheitssystem-dach
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: kurs_b1/units/unit04_gesundheitssystem-dach
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit05_digitale-kommunikation
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit05_digitale-kommunikation
+  - implements_id: B1.REC.reading-for-information-and-argument.03
+    page: kurs_b1/units/unit05_digitale-kommunikation
+  - implements_id: B1.PROD.planning.01
+    page: kurs_b1/units/unit05_digitale-kommunikation
+  - implements_id: B1.INT.online-conversation-and-discussion.02
+    page: kurs_b1/units/unit05_digitale-kommunikation
+  - implements_id: B1.INT.formal-discussion.01
+    page: kurs_b1/units/unit06_umwelt-und-mobilitaet
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit06_umwelt-und-mobilitaet
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit06_umwelt-und-mobilitaet
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: kurs_b1/units/unit06_umwelt-und-mobilitaet
+  - implements_id: B1.LING.orthographic-control.01
+    page: kurs_b1/units/unit06_umwelt-und-mobilitaet
+  - implements_id: B1.INT.conversation.02
+    page: kurs_b1/units/unit07_interkulturelle-begegnung
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: kurs_b1/units/unit07_interkulturelle-begegnung
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit07_interkulturelle-begegnung
+  - implements_id: B1.INT.goal-oriented-co-operation.02
+    page: kurs_b1/units/unit07_interkulturelle-begegnung
+  - implements_id: B1.MED.collaborating-to-construct-meaning.01
+    page: kurs_b1/units/unit07_interkulturelle-begegnung
+  - implements_id: B1.PROD.monitoring-and-repair.02
+    page: kurs_b1/units/unit08_stadt-und-land
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit08_stadt-und-land
+  - implements_id: B1.PROD.compensating.01
+    page: kurs_b1/units/unit08_stadt-und-land
+  - implements_id: B1.REC.overall-oral-comprehension.01
+    page: kurs_b1/units/unit08_stadt-und-land
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: kurs_b1/units/unit08_stadt-und-land
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit09_konsum-und-verbraucherschutz
+  - implements_id: B1.REC.reading-correspondence.04
+    page: kurs_b1/units/unit09_konsum-und-verbraucherschutz
+  - implements_id: B1.PROD.sustained-monologue-giving-information.01
+    page: kurs_b1/units/unit09_konsum-und-verbraucherschutz
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit09_konsum-und-verbraucherschutz
+  - implements_id: B1.INT.online-conversation-and-discussion.01
+    page: kurs_b1/units/unit09_konsum-und-verbraucherschutz
+  - implements_id: B1.INT.conversation.02
+    page: kurs_b1/units/unit10_politik-und-teilhabe
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit10_politik-und-teilhabe
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit10_politik-und-teilhabe
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: kurs_b1/units/unit10_politik-und-teilhabe
+  - implements_id: B1.MED.adapting-language.02
+    page: kurs_b1/units/unit10_politik-und-teilhabe
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit11_persoenliche-beziehungen
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit11_persoenliche-beziehungen
+  - implements_id: B1.PROD.planning.01
+    page: kurs_b1/units/unit11_persoenliche-beziehungen
+  - implements_id: B1.REC.reading-for-information-and-argument.03
+    page: kurs_b1/units/unit11_persoenliche-beziehungen
+  - implements_id: B1.INT.conversation.02
+    page: kurs_b1/units/unit11_persoenliche-beziehungen
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: kurs_b1/units/unit12_zukunftsvisionen
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: kurs_b1/units/unit12_zukunftsvisionen
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: kurs_b1/units/unit12_zukunftsvisionen
+  - implements_id: B1.INT.conversation.02
+    page: kurs_b1/units/unit12_zukunftsvisionen
+  - implements_id: B1.LING.orthographic-control.01
+    page: kurs_b1/units/unit12_zukunftsvisionen
+  - implements_id: B2.INT.correspondence.05
+    page: kurs_b2/units/unit01_medienlandschaft-heute
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: kurs_b2/units/unit01_medienlandschaft-heute
+  - implements_id: B2.REC.overall-oral-comprehension.03
+    page: kurs_b2/units/unit01_medienlandschaft-heute
+  - implements_id: B2.INT.formal-discussion.01
+    page: kurs_b2/units/unit01_medienlandschaft-heute
+  - implements_id: B2.MED.processing-text.04
+    page: kurs_b2/units/unit01_medienlandschaft-heute
+  - implements_id: B2.PROD.reports-and-essays.03
+    page: kurs_b2/units/unit02_wissenschaft-kommunizieren
+  - implements_id: B2.REC.reading-for-information-and-argument.05
+    page: kurs_b2/units/unit02_wissenschaft-kommunizieren
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: kurs_b2/units/unit02_wissenschaft-kommunizieren
+  - implements_id: B2.PROD.compensating.01
+    page: kurs_b2/units/unit02_wissenschaft-kommunizieren
+  - implements_id: B2.MED.processing-text.05
+    page: kurs_b2/units/unit02_wissenschaft-kommunizieren
+  - implements_id: B2.INT.formal-discussion.01
+    page: kurs_b2/units/unit03_gesellschaftliche-debatten
+  - implements_id: B2.PROD.compensating.02
+    page: kurs_b2/units/unit03_gesellschaftliche-debatten
+  - implements_id: B2.INT.goal-oriented-online-transactions-and-collaboration.02
+    page: kurs_b2/units/unit03_gesellschaftliche-debatten
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: kurs_b2/units/unit03_gesellschaftliche-debatten
+  - implements_id: B2.MED.managing-interaction.03
+    page: kurs_b2/units/unit03_gesellschaftliche-debatten
+  - implements_id: B2.INT.obtaining-goods-and-services.02
+    page: kurs_b2/units/unit04_arbeitswelt-im-wandel
+  - implements_id: B2.PROD.compensating.01
+    page: kurs_b2/units/unit04_arbeitswelt-im-wandel
+  - implements_id: B2.REC.reading-for-information-and-argument.05
+    page: kurs_b2/units/unit04_arbeitswelt-im-wandel
+  - implements_id: B2.INT.asking-for-clarification.01
+    page: kurs_b2/units/unit04_arbeitswelt-im-wandel
+  - implements_id: B2.MED.managing-interaction.03
+    page: kurs_b2/units/unit04_arbeitswelt-im-wandel
+  - implements_id: B2.PROD.creative-writing.03
+    page: kurs_b2/units/unit05_kunst-und-kultur
+  - implements_id: B2.REC.reading-for-information-and-argument.01
+    page: kurs_b2/units/unit05_kunst-und-kultur
+  - implements_id: B2.PROD.overall-written-production.01
+    page: kurs_b2/units/unit05_kunst-und-kultur
+  - implements_id: B2.REC.reading-for-orientation.02
+    page: kurs_b2/units/unit05_kunst-und-kultur
+  - implements_id: B2.INT.correspondence.09
+    page: kurs_b2/units/unit05_kunst-und-kultur
+  - implements_id: B2.INT.formal-discussion.01
+    page: kurs_b2/units/unit06_migrationsdiskurs
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: kurs_b2/units/unit06_migrationsdiskurs
+  - implements_id: B2.REC.overall-oral-comprehension.03
+    page: kurs_b2/units/unit06_migrationsdiskurs
+  - implements_id: B2.INT.informal-discussion.03
+    page: kurs_b2/units/unit06_migrationsdiskurs
+  - implements_id: B2.MED.adapting-language.03
+    page: kurs_b2/units/unit06_migrationsdiskurs
+  - implements_id: B2.INT.correspondence.01
+    page: kurs_b2/units/unit07_gesundheitspolitik
+  - implements_id: B2.PROD.reports-and-essays.03
+    page: kurs_b2/units/unit07_gesundheitspolitik
+  - implements_id: B2.REC.reading-for-information-and-argument.04
+    page: kurs_b2/units/unit07_gesundheitspolitik
+  - implements_id: B2.INT.goal-oriented-co-operation.03
+    page: kurs_b2/units/unit07_gesundheitspolitik
+  - implements_id: B2.LING.orthographic-control.01
+    page: kurs_b2/units/unit07_gesundheitspolitik
+  - implements_id: B2.PROD.compensating.01
+    page: kurs_b2/units/unit08_umweltpolitik
+  - implements_id: B2.REC.identifying-cues-and-inferring.01
+    page: kurs_b2/units/unit08_umweltpolitik
+  - implements_id: B2.PROD.creative-writing.01
+    page: kurs_b2/units/unit08_umweltpolitik
+  - implements_id: B2.REC.overall-oral-comprehension.01
+    page: kurs_b2/units/unit08_umweltpolitik
+  - implements_id: B2.MED.managing-interaction.03
+    page: kurs_b2/units/unit08_umweltpolitik
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.04
+    page: kurs_b2/units/unit09_bildungsdebatten
+  - implements_id: B2.REC.reading-for-information-and-argument.04
+    page: kurs_b2/units/unit09_bildungsdebatten
+  - implements_id: B2.PROD.compensating.01
+    page: kurs_b2/units/unit09_bildungsdebatten
+  - implements_id: B2.REC.identifying-cues-and-inferring.01
+    page: kurs_b2/units/unit09_bildungsdebatten
+  - implements_id: B2.INT.informal-discussion.03
+    page: kurs_b2/units/unit09_bildungsdebatten
+  - implements_id: B2.INT.goal-oriented-co-operation.03
+    page: kurs_b2/units/unit10_ethik-digitaler-technologien
+  - implements_id: B2.PROD.creative-writing.01
+    page: kurs_b2/units/unit10_ethik-digitaler-technologien
+  - implements_id: B2.INT.informal-discussion.03
+    page: kurs_b2/units/unit10_ethik-digitaler-technologien
+  - implements_id: B2.PROD.reports-and-essays.03
+    page: kurs_b2/units/unit10_ethik-digitaler-technologien
+  - implements_id: B2.MED.collaborating-to-construct-meaning.01
+    page: kurs_b2/units/unit10_ethik-digitaler-technologien
+  - implements_id: B2.MED.breaking-down-complicated-information.01
+    page: kurs_b2/units/unit11_oekonomie-fuer-laien
+  - implements_id: B2.REC.overall-oral-comprehension.03
+    page: kurs_b2/units/unit11_oekonomie-fuer-laien
+  - implements_id: B2.MED.collaborating-to-construct-meaning.01
+    page: kurs_b2/units/unit11_oekonomie-fuer-laien
+  - implements_id: B2.REC.reading-for-information-and-argument.05
+    page: kurs_b2/units/unit11_oekonomie-fuer-laien
+  - implements_id: B2.INT.formal-discussion.01
+    page: kurs_b2/units/unit11_oekonomie-fuer-laien
+  - implements_id: B2.INT.conversation.01
+    page: kurs_b2/units/unit12_literarische-perspektiven
+  - implements_id: B2.PROD.compensating.01
+    page: kurs_b2/units/unit12_literarische-perspektiven
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: kurs_b2/units/unit12_literarische-perspektiven
+  - implements_id: B2.INT.correspondence.01
+    page: kurs_b2/units/unit12_literarische-perspektiven
+  - implements_id: B2.MED.managing-interaction.03
+    page: kurs_b2/units/unit12_literarische-perspektiven
+  - implements_id: C1.INT.formal-discussion.01
+    page: kurs_c1/units/unit01_literarisches-argumentieren
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit01_literarisches-argumentieren
+  - implements_id: C1.REC.understanding-announcements-and-instructions.01
+    page: kurs_c1/units/unit01_literarisches-argumentieren
+  - implements_id: C1.INT.informal-discussion.03
+    page: kurs_c1/units/unit01_literarisches-argumentieren
+  - implements_id: C1.MED.processing-text.08
+    page: kurs_c1/units/unit01_literarisches-argumentieren
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit02_politische-diskursanalyse
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit02_politische-diskursanalyse
+  - implements_id: C1.PROD.planning.01
+    page: kurs_c1/units/unit02_politische-diskursanalyse
+  - implements_id: C1.REC.overall-oral-comprehension.01
+    page: kurs_c1/units/unit02_politische-diskursanalyse
+  - implements_id: C1.MED.processing-text.08
+    page: kurs_c1/units/unit02_politische-diskursanalyse
+  - implements_id: C1.INT.formal-discussion.01
+    page: kurs_c1/units/unit03_wissenschaftstheorie
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit03_wissenschaftstheorie
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit03_wissenschaftstheorie
+  - implements_id: C1.PROD.planning.01
+    page: kurs_c1/units/unit03_wissenschaftstheorie
+  - implements_id: C1.MED.adapting-language.03
+    page: kurs_c1/units/unit03_wissenschaftstheorie
+  - implements_id: C1.INT.conversation.01
+    page: kurs_c1/units/unit04_aesthetik-und-urteil
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit04_aesthetik-und-urteil
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit04_aesthetik-und-urteil
+  - implements_id: C1.INT.formal-discussion.01
+    page: kurs_c1/units/unit04_aesthetik-und-urteil
+  - implements_id: C1.MED.note-taking.01
+    page: kurs_c1/units/unit04_aesthetik-und-urteil
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit05_identitaet-und-sprache
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit05_identitaet-und-sprache
+  - implements_id: C1.REC.overall-oral-comprehension.02
+    page: kurs_c1/units/unit05_identitaet-und-sprache
+  - implements_id: C1.PROD.compensating.01
+    page: kurs_c1/units/unit05_identitaet-und-sprache
+  - implements_id: C1.MED.note-taking.01
+    page: kurs_c1/units/unit05_identitaet-und-sprache
+  - implements_id: C1.INT.formal-discussion.01
+    page: kurs_c1/units/unit06_postkoloniale-perspektiven
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit06_postkoloniale-perspektiven
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit06_postkoloniale-perspektiven
+  - implements_id: C1.PROD.planning.01
+    page: kurs_c1/units/unit06_postkoloniale-perspektiven
+  - implements_id: C1.MED.adapting-language.03
+    page: kurs_c1/units/unit06_postkoloniale-perspektiven
+  - implements_id: C1.INT.formal-discussion.01
+    page: kurs_c1/units/unit07_historiografie
+  - implements_id: C1.PROD.compensating.01
+    page: kurs_c1/units/unit07_historiografie
+  - implements_id: C1.REC.overall-reading-comprehension.02
+    page: kurs_c1/units/unit07_historiografie
+  - implements_id: C1.REC.understanding-announcements-and-instructions.02
+    page: kurs_c1/units/unit07_historiografie
+  - implements_id: C1.MED.facilitating-communication-in-delicate-situations-and-disagreements.03
+    page: kurs_c1/units/unit07_historiografie
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit08_philosophie-fuer-informierte-laien
+  - implements_id: C1.REC.watching-tv-film-and-video.02
+    page: kurs_c1/units/unit08_philosophie-fuer-informierte-laien
+  - implements_id: C1.PROD.sustained-monologue-putting-a-case.02
+    page: kurs_c1/units/unit08_philosophie-fuer-informierte-laien
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit08_philosophie-fuer-informierte-laien
+  - implements_id: C1.MED.processing-text.08
+    page: kurs_c1/units/unit08_philosophie-fuer-informierte-laien
+  - implements_id: C1.MED.amplifying-a-dense-text.02
+    page: kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht
+  - implements_id: C1.MED.processing-text.08
+    page: kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht
+  - implements_id: C1.REC.overall-oral-comprehension.01
+    page: kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht
+  - implements_id: C1.INT.online-conversation-and-discussion.03
+    page: kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht
+  - implements_id: C1.INT.asking-for-clarification.02
+    page: kurs_c1/units/unit10_stilistik-und-rhetorik
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit10_stilistik-und-rhetorik
+  - implements_id: C1.INT.conversation.01
+    page: kurs_c1/units/unit10_stilistik-und-rhetorik
+  - implements_id: C1.PROD.planning.01
+    page: kurs_c1/units/unit10_stilistik-und-rhetorik
+  - implements_id: C1.MED.note-taking.01
+    page: kurs_c1/units/unit10_stilistik-und-rhetorik
+  - implements_id: C1.INT.online-conversation-and-discussion.03
+    page: kurs_c1/units/unit11_literarische-moderne
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit11_literarische-moderne
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit11_literarische-moderne
+  - implements_id: C1.PROD.planning.01
+    page: kurs_c1/units/unit11_literarische-moderne
+  - implements_id: C1.MED.amplifying-a-dense-text.02
+    page: kurs_c1/units/unit11_literarische-moderne
+  - implements_id: C1.PROD.overall-written-production.02
+    page: kurs_c1/units/unit12_gegenwartsliteratur
+  - implements_id: C1.REC.identifying-cues-and-inferring.01
+    page: kurs_c1/units/unit12_gegenwartsliteratur
+  - implements_id: C1.PROD.planning.01
+    page: kurs_c1/units/unit12_gegenwartsliteratur
+  - implements_id: C1.REC.overall-oral-comprehension.01
+    page: kurs_c1/units/unit12_gegenwartsliteratur
+  - implements_id: C1.MED.amplifying-a-dense-text.02
+    page: kurs_c1/units/unit12_gegenwartsliteratur
+
+gaps: []
+# Not yet computed. A gap is an in-scope catalogue cell this course does not
+# cover, and declaring gaps honestly requires the implements claims to be
+# asserted first — a gap list derived from proposals would describe the
+# proposer, not the course.
+
+out_of_scope: []

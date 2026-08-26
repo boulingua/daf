@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B2
+  implements:
+    - B2.INT.correspondence.01
+    - B2.PROD.reports-and-essays.03
+    - B2.REC.reading-for-information-and-argument.04
+    - B2.INT.goal-oriented-co-operation.03
+    - B2.LING.orthographic-control.01
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

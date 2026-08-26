@@ -38,6 +38,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B1
+  implements:
+    - B1.INT.goal-oriented-online-transactions-and-collaboration.04
+    - B1.PROD.planning.02
+    - B1.REC.identifying-cues-and-inferring.01
+    - B1.INT.conversation.04
+    - B1.PLUR.plurilingual-comprehension.03
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

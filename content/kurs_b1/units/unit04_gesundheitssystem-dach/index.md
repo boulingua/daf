@@ -37,6 +37,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B1
+  implements:
+    - B1.MED.adapting-language.01
+    - B1.REC.identifying-cues-and-inferring.01
+    - B1.MED.breaking-down-complicated-information.01
+    - B1.REC.reading-correspondence.03
+    - B1.INT.interviewing-and-being-interviewed.02
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

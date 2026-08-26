@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B2
+  implements:
+    - B2.INT.conversation.01
+    - B2.PROD.compensating.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.INT.correspondence.01
+    - B2.MED.managing-interaction.03
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

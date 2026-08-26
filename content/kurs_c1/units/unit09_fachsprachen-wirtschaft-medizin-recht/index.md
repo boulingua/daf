@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: C1
+  implements:
+    - C1.MED.amplifying-a-dense-text.02
+    - C1.REC.identifying-cues-and-inferring.01
+    - C1.MED.processing-text.08
+    - C1.REC.overall-oral-comprehension.01
+    - C1.INT.online-conversation-and-discussion.03
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

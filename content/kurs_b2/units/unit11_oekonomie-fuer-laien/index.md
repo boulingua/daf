@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B2
+  implements:
+    - B2.MED.breaking-down-complicated-information.01
+    - B2.REC.overall-oral-comprehension.03
+    - B2.MED.collaborating-to-construct-meaning.01
+    - B2.REC.reading-for-information-and-argument.05
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

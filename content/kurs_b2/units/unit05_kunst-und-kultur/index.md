@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: B2
+  implements:
+    - B2.PROD.creative-writing.03
+    - B2.REC.reading-for-information-and-argument.01
+    - B2.PROD.overall-written-production.01
+    - B2.REC.reading-for-orientation.02
+    - B2.INT.correspondence.09
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: A2
+  implements:
+    - A2.PROD.creative-writing.07
+    - A2.REC.identifying-cues-and-inferring.02
+    - A2.PROD.sustained-monologue-describing-experience.02
+    - A2.REC.overall-oral-comprehension.02
+    - A2.INT.overall-oral-interaction.02
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

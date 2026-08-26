@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.PROD.compensating.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.reading-for-information-and-argument.02
+    - A1.LING.general-linguistic-range.02
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

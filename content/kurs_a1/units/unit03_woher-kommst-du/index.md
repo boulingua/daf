@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: A1
+  implements:
+    - A1.INT.information-exchange.01
+    - A1.PROD.creative-writing.01
+    - A1.REC.reading-for-information-and-argument.02
+    - A1.PROD.sustained-monologue-describing-experience.01
+    - A1.LING.phonological-control.02
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 

@@ -36,6 +36,13 @@ date: '2026-05-04T19:53:22+02:00'
 curriculum:
   framework: boulingua-curriculum
   level: C1
+  implements:
+    - C1.PROD.overall-written-production.02
+    - C1.REC.identifying-cues-and-inferring.01
+    - C1.REC.overall-oral-comprehension.02
+    - C1.PROD.compensating.01
+    - C1.MED.note-taking.01
+  implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
 ---
 
