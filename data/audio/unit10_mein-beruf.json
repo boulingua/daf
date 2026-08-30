@@ -2,31 +2,31 @@
   {
     "label": "Dialog 1",
     "transcript": "Frau Kurz: Guten Morgen! Ich bin Deutschlehrerin. Ich\narbeite hier an der Volkshochschule. Und Sie?\nHerr Keks: Ich bin Bäcker. Ich arbeite in einer Bäckerei\nin Wien.\nAna: Ich bin noch Studentin. Ich studiere Musik. Ich mache\nauch ein Praktikum.\nLuka: Ich arbeite als Programmierer. Ich arbeite bei einer\nFirma in der Stadt.",
-    "file_withheld": "/daf/materials/audio/unit10_mein-beruf/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit10_mein-beruf/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 1",
     "transcript": "der Beruf · die Arbeit · arbeiten · der Lehrer / die Lehrerin · der Arzt / die Ärztin · der Bäcker / die Bäckerin · der Student / die Studentin · der Programmierer / die Programmiererin · der Koch / die Köchin · der Verkäufer / die Verkäuferin · der Kellner / die Kellnerin · die Firma · das Büro · das Praktikum",
-    "file_withheld": "/daf/materials/audio/unit10_mein-beruf/vocab1.ogg"
+    "file": "/daf/materials/audio/unit10_mein-beruf/vocab1.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Beruf nennen · Beruf mit „als · Arbeitsort · Tätigkeit · Studium",
-    "file_withheld": "/daf/materials/audio/unit10_mein-beruf/vocab2.ogg"
+    "file": "/daf/materials/audio/unit10_mein-beruf/vocab2.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "Ich heiße Frau Kurz. Ich bin Deutschlehrerin von Beruf. Ich\narbeite an der Volkshochschule in Wien. Ich unterrichte Deutsch\nauf A1 und A2. Meine Arbeit macht mir Freude. Am Wochenende\narbeite ich nicht.",
-    "file_withheld": "/daf/materials/audio/unit10_mein-beruf/texte1.ogg"
+    "file": "/daf/materials/audio/unit10_mein-beruf/texte1.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "A: Was bist du von Beruf?\nB: Ich bin __________ . Ich arbeite __________ .\nA: Und wo arbeitest du?\nB: Ich arbeite __________ .",
-    "file_withheld": "/daf/materials/audio/unit10_mein-beruf/texte2.ogg"
+    "file": "/daf/materials/audio/unit10_mein-beruf/texte2.ogg"
   },
   {
     "label": "Text 3",
     "transcript": "Hallo Clara,\nich habe eine neue Stelle! Ich arbeite jetzt als Programmiererin\nin Wien. Mein Büro ist in der Stadtmitte. Wollen wir uns am\nSamstag treffen?\nViele Grüße\nLuka",
-    "file_withheld": "/daf/materials/audio/unit10_mein-beruf/texte3.ogg"
+    "file": "/daf/materials/audio/unit10_mein-beruf/texte3.ogg"
   }
 ]

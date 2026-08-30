@@ -2,31 +2,31 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Datenschutz · die Datensicherheit · der Algorithmus, -men · die Transparenz · die Verzerrung / der Bias · die Einwilligung · die Verhältnismäßigkeit · die Rechenschaft(spflicht) · die Überwachung · personenbezogene Daten · nachvollziehbar (Adj.) · stigmatisieren (V.)",
-    "file_withheld": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab1.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab1.ogg"
   },
   {
     "label": "Dialog 1",
     "transcript": "Immer häufiger werden Entscheidungen, die früher Menschen trafen, an\nSoftware delegiert: Wer einen Kredit erhält, welche Bewerbung\naussortiert wird, wo die Polizei patrouilliert — all das kann heute\nvon einem Algorithmus vorbereitet werden. Befürworter betonen, solche\nSysteme arbeiteten schneller, günstiger und angeblich objektiver als\nder Mensch. Einerseits ist dieser Effizienzgewinn real. Andererseits\nist ein Algorithmus nur so unvoreingenommen wie die Daten, aus denen\ner lernt.\nGenau hier liegt das ethische Problem. Werden einem System historische\nDaten vorgelegt, in denen bestimmte Gruppen benachteiligt wurden, so\nlernt es diese Benachteiligung mit — und gibt sie als scheinbar\nneutrale Rechnung zurück. Fachleute sprechen von Verzerrung oder\nBias. Im Gegensatz zu einem menschlichen Sachbearbeiter, den man\nbefragen kann, bleibt die Entscheidung einer Software oft\nundurchsichtig. Dennoch wird ihr häufig mehr Objektivität\nzugeschrieben, als sie verdient.\nWas folgt daraus? Zunächst die Forderung nach Transparenz: Die\nFunktionsweise eines Systems müsse nachvollziehbar sein, verlangen\nKritiker. Zweitens die Rechenschaft: Wer eine automatisierte\nEntscheidung einsetzt, solle sie auch begründen können. Und drittens\ndie Verhältnismäßigkeit — nicht alles, was technisch machbar ist,\nist auch angemessen. Folglich geht es bei der Ethik digitaler\nTechnologien weniger um die Frage, ob eine Maschine rechnen darf,\nals vielmehr darum, wer für das Ergebnis geradesteht. Die\nVerantwortung, so lässt sich festhalten, lässt sich nicht an eine\nSoftware delegieren.",
-    "file_withheld": "/daf/materials/audio/unit10_ethik-digitaler-technologien/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "beide Positionen fair und klar dargestellt · mindestens 3 Konnektoren korrekt eingesetzt · Passiv und/oder Konjunktiv verwendet · moderierender, respektvoller Ton · Fachbegriffe korrekt (min. 3) · Umfang eingehalten (220–260 Wörter)",
-    "file_withheld": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab2.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab2.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "*„Staatliche Stellen sollten KI-gestützte Auswertungen öffentlicher\nDaten nur nach ausdrücklicher Zustimmung der Betroffenen einsetzen\ndürfen.*",
-    "file_withheld": "/daf/materials/audio/unit10_ethik-digitaler-technologien/texte1.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/texte1.ogg"
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Inhalt: alle vier Sprachfunktionen abgedeckt · Aufbau & Kohärenz (Konnektoren, roter Faden) · Wortschatz: Fachbegriffe treffend eingesetzt · Grammatik: Passiv, Konjunktiv, Nominalisierung · Register & Angemessenheit (sachlich, adressiert) · Gesamt",
-    "file_withheld": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab3.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab3.ogg"
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file_withheld": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab4.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab4.ogg"
   }
 ]

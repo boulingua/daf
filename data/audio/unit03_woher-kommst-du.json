@@ -2,36 +2,36 @@
   {
     "label": "Dialog 1",
     "transcript": "Frau Sommer: Guten Morgen! Ich heiße Frau Sommer. Und Sie?\nNadia: Hallo. Ich heiße Nadia. Ich komme aus Marokko.\nFrau Sommer: Schön. Und was sprechen Sie, Nadia?\nNadia: Ich spreche Arabisch und Französisch. Jetzt lerne ich Deutsch.\nFrau Sommer: Sehr gut! Und Sie?\nPavel: Ich bin Pavel. Ich komme aus Tschechien, aus Prag.\nIch spreche Tschechisch und ein bisschen Deutsch.",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 1",
     "transcript": "das Land · die Stadt · die Sprache · Woher …? · Ich komme aus … · Ich wohne in … · Ich spreche … · ein bisschen · die Muttersprache · Deutsch lernen",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/vocab1.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab1.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Deutschland · Österreich · die Schweiz · Frankreich · Italien · Spanien · Polen · die Türkei · Marokko · Tschechien",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/vocab2.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab2.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "Das ist Nadia. Sie kommt aus Marokko, aus der Stadt Rabat.\nIhre Muttersprache ist Arabisch. Nadia spricht auch Französisch.\nJetzt wohnt sie in Berlin und lernt Deutsch. Ihr Freund Pavel\nkommt aus Tschechien. Er spricht Tschechisch und ein bisschen\nDeutsch. Nadia und Pavel lernen zusammen. Sie sprechen im Kurs\nnur Deutsch.",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/texte1.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/texte1.ogg"
   },
   {
     "label": "Wortschatz 3",
     "transcript": "1. Prag · 2. Rabat · 3. Zürich · 4. Wien",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/vocab3.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab3.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "— Hallo! Woher ___ du?\n— Ich ___ aus Spanien. Und du?\n— Ich komme aus Polen. Was ___ du?\n— Ich spreche Spanisch und Englisch.",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/texte2.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/texte2.ogg"
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg (Dialog lesen, Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Partnerinterview) · Prüfung + Reflexion",
-    "file_withheld": "/daf/materials/audio/unit03_woher-kommst-du/vocab4.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab4.ogg"
   }
 ]

@@ -2,26 +2,26 @@
   {
     "label": "Dialog 1",
     "transcript": "Ana: Schau, Tarek! Äpfel, ein Kilo nur 1 Euro 99.\nTarek: Super, das ist billig. Ich nehme zwei Kilo.\nAna: Und Käse? Ich mag Käse.\nFrau Berger: Der Käse dort kostet 3 Euro 50. Das ist okay.\nTarek: Gut. Zwei Kilo Äpfel und ein Stück Käse. Was macht das\nzusammen?\nAna: Warte, wir fragen an der Kasse.",
-    "file_withheld": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 1",
     "transcript": "der Preis · das Geld · der Euro / der Cent · das Kilo(gramm) · das Gramm · der Liter · das Stück · billig · teuer · das Angebot · die Kasse · bezahlen / zahlen",
-    "file_withheld": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab1.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab1.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "20 · 50 · 99 · 100 · 250 · 1000",
-    "file_withheld": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab2.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab2.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "„Liebe Kundinnen und Kunden! Heute im Angebot: Äpfel aus\nÖsterreich, ein Kilo nur 1 Euro 99. Milch aus Tirol, ein Liter\nfür 1 Euro 29. Käse, 500 Gramm, Sonderpreis 3 Euro 50.\nKasse 2 ist jetzt offen. Vielen Dank für Ihren Einkauf!\"",
-    "file_withheld": "/daf/materials/audio/unit06_einkaufen-und-preise/texte1.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/texte1.ogg"
   },
   {
     "label": "Dialog 2",
     "transcript": "Kunde: Guten Tag. ______ kostet das Brot?\nVerkäufer: Das Brot ______ 2 Euro 20.\nKunde: Gut. Ein Brot, ______.\nVerkäufer: Gern. Das ______ 2 Euro 20.",
-    "file_withheld": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue2.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue2.ogg"
   }
 ]

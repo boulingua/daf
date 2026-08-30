@@ -2,46 +2,46 @@
   {
     "label": "Dialog 1",
     "transcript": "Lena: Hallo Ana! Komm rein. Das ist unser Wohnzimmer.\nAna: Oh, schön! Es gibt ein Sofa und einen Fernseher.\nTom: Ja. Und hier ist die Küche. Wir kochen zusammen.\nAna: Und wo ist das freie Zimmer?\nLena: Hier, neben dem Bad. Es gibt ein Bett, einen Schrank\nund einen Schreibtisch.\nAna: Das Zimmer ist toll. Das Bett steht am Fenster.",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 1",
     "transcript": "das Zimmer · das Schlafzimmer · das Wohnzimmer · die Küche · das Bad · der Balkon · das Bett · der Tisch · der Stuhl · der Schrank · der Schreibtisch · das Sofa · die Lampe · das Fenster",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab1.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "in / im · auf · unter · neben · vor · hinter",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab2.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "Zimmer in WG — Wien-Mariahilf\n- 15 m², 450 € (warm)\n- Ein Zimmer, gemeinsame Küche + Bad\n- Möbliert: Bett, Schrank, Schreibtisch\n- U-Bahn U3 in 5 Minuten\n- Ab 1. September frei",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/texte1.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/texte1.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "Ana hat jetzt ein Zimmer in der WG. Das Zimmer ist klein, aber\nschön. Es gibt ein Bett, einen Schrank und einen Schreibtisch.\nDas Bett steht am Fenster. Der Schreibtisch steht neben dem\nBett. Auf dem Schreibtisch ist eine Lampe. Ana findet ihr\nZimmer gemütlich.",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/texte2.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/texte2.ogg"
   },
   {
     "label": "Dialog 2",
     "transcript": "A: Wo ist die Lampe?\nB: Die Lampe steht ___ dem Tisch.\nA: Und wo ist das Bett?\nB: Das Bett steht ___ Fenster.",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/dialogue2.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue2.ogg"
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Ich schreibe fünf Sätze. · Ich nenne mindestens vier Möbel. · Ich benutze Es gibt … zweimal. · Man versteht meinen Text gut.",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/vocab3.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab3.ogg"
   },
   {
     "label": "Dialog 3",
     "transcript": "Anmeldung einer Wohnung — Stadt Frankfurt\nName (Nachname): ___________________\nVorname: Ana\nGeburtsdatum: ___________________\nGeburtsort: Lissabon\nStaatsangehörigkeit: ___________________\nAdresse in Frankfurt: Mainzer Straße 15, ___________________ Frankfurt\nTelefon: +49 ___________________",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/dialogue3.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue3.ogg"
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Nachname korrekt · Geburtsdatum korrekt · Staatsangehörigkeit korrekt · PLZ korrekt · Telefon korrekt · Summe",
-    "file_withheld": "/daf/materials/audio/unit04_meine-wohnung/vocab4.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab4.ogg"
   }
 ]

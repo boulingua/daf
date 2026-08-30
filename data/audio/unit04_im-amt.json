@@ -2,31 +2,31 @@
   {
     "label": "Dialog 1",
     "transcript": "Omar: Entschuldigung, ich habe einen Brief bekommen. Ich muss mich anmelden. Aber ich verstehe das Formular nicht ganz.\nLena: Kein Problem. Das ist das Anmeldeformular. Hier oben schreiben Sie Ihren Familiennamen, dann den Vornamen.\nOmar: Und „Geb.? Was bedeutet das?\nLena: Das heißt Geburtsdatum. Und „Staatsang. ist die Staatsangehörigkeit.\nOmar: Danke! Und ich brauche einen Termin, oder?\nLena: Ja, aber Sie haben ja schon einen. Wenn Sie nicht können, müssen Sie eine Mail schreiben.",
-    "file_withheld": "/daf/materials/audio/unit04_im-amt/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 1",
     "transcript": "das Amt (ä-er) · die Anmeldung · das Formular (-e) · der Termin (-e) · die Bestätigung · die Staatsangehörigkeit · das Geburtsdatum · die Unterschrift (-en) · ausfüllen · verschieben · absagen · mitbringen",
-    "file_withheld": "/daf/materials/audio/unit04_im-amt/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/vocab1.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "Omar ist vor drei Wochen nach Graz gezogen. Gestern hat er Post vom Amt bekommen. In dem Brief stand ein Termin für die Anmeldung: Donnerstag, 6. Juni, um 9:00 Uhr. Aber Omar hat an diesem Tag eine wichtige Prüfung an der Universität. Deshalb kann er nicht zum Amt gehen. Am Abend hat er eine kurze, höfliche Mail geschrieben. Er hat sich für den Termin bedankt und um einen neuen Tag gebeten. Er hat auch geschrieben, dass der 13. oder 14. Juni gut passt. Zwei Tage später hat das Amt geantwortet: Der neue Termin ist jetzt am 13. Juni um 10:00 Uhr. Omar ist zufrieden, weil alles so schnell geklappt hat.",
-    "file_withheld": "/daf/materials/audio/unit04_im-amt/texte1.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/texte1.ogg"
   },
   {
     "label": "Dialog 2",
     "transcript": "Anmeldung — Stadt Graz\n- Familienname: _________________\n- Vorname(n): _________________\n- Geburtsdatum: _________________\n- Geburtsort: _________________\n- Staatsangehörigkeit: _________________\n- Neue Adresse (Str., Nr., PLZ, Ort): _________________\n- Tag des Einzugs: _________________\n- Unterschrift: _________________",
-    "file_withheld": "/daf/materials/audio/unit04_im-amt/dialogue2.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/dialogue2.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Anrede und Gruß korrekt · Alle drei Inhaltspunkte behandelt · Höfliche Bitte (könnte / möchte) benutzt · Verständlichkeit (Leser versteht ohne Mühe) · Summe",
-    "file_withheld": "/daf/materials/audio/unit04_im-amt/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/vocab2.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "Sehr geehrte Damen und Herren,\nvielen Dank für den Termin am Donnerstag. Leider kann ich nicht kommen, weil ich an diesem Tag arbeiten muss. Könnten wir den Termin auf Montag oder Dienstag verschieben?\nMit freundlichen Grüßen\nMaria Kern",
-    "file_withheld": "/daf/materials/audio/unit04_im-amt/texte2.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/texte2.ogg"
   }
 ]

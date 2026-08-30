@@ -2,46 +2,46 @@
   {
     "label": "Dialog 1",
     "transcript": "Nadia: Guten Morgen, Tom. Du siehst müde aus. Geht es dir nicht gut?\nTom: Nein, ich fühle mich schlecht. Ich habe seit gestern\nKopfschmerzen und mein Hals tut weh.\nNadia: Oh je. Hast du auch Fieber?\nTom: Ein bisschen. Ich glaube, ich gehe heute zum Arzt.\nNadia: Ja, das ist eine gute Idee. Gute Besserung!",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/dialogue1.ogg"
   },
   {
     "label": "Wortschatz 1",
     "transcript": "die Beschwerde, -n · die Halsschmerzen (Pl.) · der Husten · das Fieber · sich fühlen · die Erkältung, -en · untersuchen · verschreiben · das Rezept, -e · das Medikament, -e · die Tablette, -n · die Packung, -en · dreimal täglich · krankschreiben · Gute Besserung!",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/vocab1.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/vocab1.ogg"
   },
   {
     "label": "Wortschatz 2",
     "transcript": "nehmen · bleiben · trinken · machen",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/vocab2.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/vocab2.ogg"
   },
   {
     "label": "Dialog 2",
     "transcript": "Merke: Nach einer Zeitangabe steht „seit + Dativ:\nseit zwei Tagen, nicht seit zwei Tage.",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/dialogue2.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/dialogue2.ogg"
   },
   {
     "label": "Dialog 3",
     "transcript": "In der Praxis von Dr. Weber\nDr. Weber: Guten Tag, Frau Sari. Was fehlt Ihnen denn?\nFrau Sari: Guten Tag. Ich habe seit drei Tagen starke\nHalsschmerzen und ich huste viel. Nachts kann ich nicht gut\nschlafen.\nDr. Weber: Haben Sie auch Fieber?\nFrau Sari: Ja, gestern Abend hatte ich 38,7 Grad.\nDr. Weber: Gut, ich untersuche Sie kurz. Machen Sie bitte den\nMund auf … Ihre Mandeln sind entzündet. Sie bekommen ein\nAntibiotikum, weil das eine bakterielle Infektion ist. Nehmen Sie\ndreimal täglich eine Tablette, immer nach dem Essen. Und bleiben\nSie drei Tage zu Hause.\nFrau Sari: Muss ich noch etwas beachten?\nDr. Weber: Trinken Sie viel Wasser und Tee. Hier ist das\nRezept und die Krankschreibung. Gute Besserung!\nIn der Apotheke\nApotheker: Guten Tag. Was kann ich für Sie tun?\nFrau Sari: Ich habe ein Rezept — Amoxicillin 500.\nApotheker: Einen Moment, bitte … So, hier ist Ihre Packung.\nNehmen Sie dreimal täglich eine Tablette nach dem Essen. Das\nmacht 5,40 Euro.\nFrau Sari: Vielen Dank. Auf Wiedersehen.",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/dialogue3.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/dialogue3.ogg"
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Beschwerde / Medikament genannt · Dosierung korrekt erklärt · Mindestens ein Ratschlag (Imperativ/„sollen) · Begrüßung und Verabschiedung · Verständlichkeit und Aussprache · Gesamt",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/vocab3.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/vocab3.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "— „Guten Tag. Mein Kopf tut seit gestern weh und ich bin sehr müde.\n— „Haben Sie Fieber?\n— „Nein, kein Fieber. Nur Kopfschmerzen.\n— „Trinken Sie viel Wasser und schlafen Sie heute lange.",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/texte1.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/texte1.ogg"
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Item 1 · Item 2 · Item 3 · Gesamt",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/vocab4.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/vocab4.ogg"
   },
   {
     "label": "Wortschatz 5",
     "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung/Reflexion",
-    "file_withheld": "/daf/materials/audio/unit03_beim-arzt/vocab5.ogg"
+    "file": "/daf/materials/audio/unit03_beim-arzt/vocab5.ogg"
   }
 ]
