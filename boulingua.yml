@@ -55,7 +55,12 @@ gates:
   curriculum: warn              # off | warn | block
 
 vgwort:
-  registry: vgwort/marks.yaml
+  # data/vgwort.yaml, because that is the only path the kit's resolver reads:
+  # the partial looks the entry up in hugo.Data.vgwort. This said
+  # vgwort/marks.yaml — the location ADR-0015 anticipated — while the 68
+  # marks sat in data/vgwort.yaml, and nothing noticed because until
+  # kit v1.19.0 no gate read the field.
+  registry: data/vgwort.yaml
   url_lock: vgwort/url-lock-provisional.csv
   # Pages that must NEVER carry a mark: navigation surfaces and the templated
   # legal pages, which are not the author's creative work.
