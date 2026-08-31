@@ -7,17 +7,20 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Sonne · der Regen · der Schnee · die Wolke · der Wind · warm / kalt · heiß / kühl · der Grad · der Frühling · der Sommer · der Herbst · der Winter",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab1.ogg"
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab1.ogg",
+    "tts": "die Sonne.\nder Regen.\nder Schnee.\ndie Wolke.\nder Wind.\nwarm / kalt.\nheiß / kühl.\nder Grad.\nder Frühling.\nder Sommer.\nder Herbst.\nder Winter."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "es + Verb · es ist + Adjektiv · es sind + Zahl · die Sonne + Verb",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab2.ogg"
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab2.ogg",
+    "tts": "es + Verb.\nes ist + Adjektiv.\nes sind + Zahl.\ndie Sonne + Verb."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "der Frühling · der Sommer · der Herbst · der Winter",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab3.ogg"
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab3.ogg",
+    "tts": "der Frühling.\nder Sommer.\nder Herbst.\nder Winter."
   },
   {
     "label": "Text 1",
@@ -32,11 +35,13 @@
   {
     "label": "Wortschatz 4",
     "transcript": "4–5 Sätze gesprochen · ein Wetterwort benutzt · ein Adjektiv benutzt · Gradzahl genannt · Jahreszeit genannt",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab4.ogg"
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab4.ogg",
+    "tts": "4–5 Sätze gesprochen.\nein Wetterwort benutzt.\nein Adjektiv benutzt.\nGradzahl genannt.\nJahreszeit genannt."
   },
   {
     "label": "Wortschatz 5",
     "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab5.ogg"
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab5.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nPrüfung."
   }
 ]

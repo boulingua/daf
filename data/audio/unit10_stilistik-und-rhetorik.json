@@ -2,12 +2,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Stilfigur / rhetorische Figur · die Anapher · die Klimax · der Chiasmus · die Antithese · der Parallelismus · die rhetorische Frage · das Trikolon / die Dreierfigur · das Register / die Sprachebene · der Duktus · die Emphase · das Pathos · die Persuasion · die Ambivalenz",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab1.ogg"
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab1.ogg",
+    "tts": "die Stilfigur / rhetorische Figur.\ndie Anapher.\ndie Klimax.\nder Chiasmus.\ndie Antithese.\nder Parallelismus.\ndie rhetorische Frage.\ndas Trikolon / die Dreierfigur.\ndas Register / die Sprachebene.\nder Duktus.\ndie Emphase.\ndas Pathos.\ndie Persuasion.\ndie Ambivalenz."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Wirkung zuschreiben · Wirkung ableiten (kausal) · Urteil absichern (Hedging) · Einschränken",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab2.ogg"
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab2.ogg",
+    "tts": "Wirkung zuschreiben.\nWirkung ableiten (kausal).\nUrteil absichern (Hedging).\nEinschränken."
   },
   {
     "label": "Text 1",
@@ -27,12 +29,14 @@
   {
     "label": "Wortschatz 3",
     "transcript": "1 Anapher · 2 Klimax · 3 Chiasmus · 4 rhetorische Frage",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab3.ogg"
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab3.ogg",
+    "tts": "1 Anapher.\n2 Klimax.\n3 Chiasmus.\n4 rhetorische Frage."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Figurenrepertoire · Form-Wirkungs-Bezug · Register & Duktus · Metareflexion (Coda) · Sprachliche Angemessenheit",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab4.ogg"
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab4.ogg",
+    "tts": "Figurenrepertoire.\nForm-Wirkungs-Bezug.\nRegister & Duktus.\nMetareflexion (Coda).\nSprachliche Angemessenheit."
   },
   {
     "label": "Text 4",
@@ -47,6 +51,7 @@
   {
     "label": "Wortschatz 5",
     "transcript": "Aufgabenerfüllung & Gliederung (Teil 1) · Funktionaler Figureneinsatz (Teil 1) · Interaktion & konzessives Eingehen (Teil 2) · Argumentative Tiefe (Teil 2) · Aussprache, Register & Flüssigkeit",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab5.ogg"
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab5.ogg",
+    "tts": "Aufgabenerfüllung & Gliederung (Teil 1).\nFunktionaler Figureneinsatz (Teil 1).\nInteraktion & konzessives Eingehen (Teil 2).\nArgumentative Tiefe (Teil 2).\nAussprache, Register & Flüssigkeit."
   }
 ]

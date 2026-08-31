@@ -12,7 +12,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "pendeln · die Übergangslösung · passiv (mit etw.) klarkommen · die Mundart / der Dialekt · der Small Talk · die Aufenthaltsbewilligung · ankommen (irgendwo) · bereichernd · der Amtsbesuch",
-    "file": "/daf/materials/audio/unit01_neuanfang-in-basel/vocab1.ogg"
+    "file": "/daf/materials/audio/unit01_neuanfang-in-basel/vocab1.ogg",
+    "tts": "pendeln.\ndie Übergangslösung.\npassiv (mit etw.) klarkommen.\ndie Mundart / der Dialekt.\nder Small Talk.\ndie Aufenthaltsbewilligung.\nankommen (irgendwo).\nbereichernd.\nder Amtsbesuch."
   },
   {
     "label": "Dialog 3",
@@ -27,7 +28,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Inhalt / Aufgabe · Zusammenhang · Wortschatz · Redefluss · Reaktion",
-    "file": "/daf/materials/audio/unit01_neuanfang-in-basel/vocab2.ogg"
+    "file": "/daf/materials/audio/unit01_neuanfang-in-basel/vocab2.ogg",
+    "tts": "Inhalt / Aufgabe.\nZusammenhang.\nWortschatz.\nRedefluss.\nReaktion."
   },
   {
     "label": "Dialog 4",
@@ -37,6 +39,7 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Erfüllung der Aufgabe (alle fünf Folien) · Kohärenz und Konnektoren · Wortschatz (Spektrum + Beherrschung) · Strukturen (Spektrum + Beherrschung) · Aussprache und Reaktion (Teil 3)",
-    "file": "/daf/materials/audio/unit01_neuanfang-in-basel/vocab3.ogg"
+    "file": "/daf/materials/audio/unit01_neuanfang-in-basel/vocab3.ogg",
+    "tts": "Erfüllung der Aufgabe (alle fünf Folien).\nKohärenz und Konnektoren.\nWortschatz (Spektrum + Beherrschung).\nStrukturen (Spektrum + Beherrschung).\nAussprache und Reaktion (Teil 3)."
   }
 ]

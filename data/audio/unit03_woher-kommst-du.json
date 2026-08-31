@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Land · die Stadt · die Sprache · Woher …? · Ich komme aus … · Ich wohne in … · Ich spreche … · ein bisschen · die Muttersprache · Deutsch lernen",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab1.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab1.ogg",
+    "tts": "das Land.\ndie Stadt.\ndie Sprache.\nWoher …?.\nIch komme aus ….\nIch wohne in ….\nIch spreche ….\nein bisschen.\ndie Muttersprache.\nDeutsch lernen."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Deutschland · Österreich · die Schweiz · Frankreich · Italien · Spanien · Polen · die Türkei · Marokko · Tschechien",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab2.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab2.ogg",
+    "tts": "Deutschland.\nÖsterreich.\ndie Schweiz.\nFrankreich.\nItalien.\nSpanien.\nPolen.\ndie Türkei.\nMarokko.\nTschechien."
   },
   {
     "label": "Text 1",
@@ -22,7 +24,8 @@
   {
     "label": "Wortschatz 3",
     "transcript": "1. Prag · 2. Rabat · 3. Zürich · 4. Wien",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab3.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab3.ogg",
+    "tts": "1. Prag.\n2. Rabat.\n3. Zürich.\n4. Wien."
   },
   {
     "label": "Text 2",
@@ -32,6 +35,7 @@
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg (Dialog lesen, Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Partnerinterview) · Prüfung + Reflexion",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab4.ogg"
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab4.ogg",
+    "tts": "Einstieg (Dialog lesen, Fragen).\nInput (Vokabeln, Grammatik, Lesetext, Kultur).\nÜben (Aufgaben 1–4).\nAnwenden (Partnerinterview).\nPrüfung + Reflexion."
   }
 ]

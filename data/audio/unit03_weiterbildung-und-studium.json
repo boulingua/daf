@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die duale Ausbildung · der Betrieb, -e · die Berufsschule, -n · der/die Auszubildende (Azubi) · die Ausbildungsvergütung · der Abschluss, ¨-e · die Zulassung, -en · einschlägig (Adj.) · berufsbegleitend (Adj.)",
-    "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab1.ogg"
+    "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab1.ogg",
+    "tts": "die duale Ausbildung.\nder Betrieb, -e.\ndie Berufsschule, -n.\nder/die Auszubildende (Azubi).\ndie Ausbildungsvergütung.\nder Abschluss, ¨-e.\ndie Zulassung, -en.\neinschlägig (Adj.).\nberufsbegleitend (Adj.)."
   },
   {
     "label": "Text 2",
@@ -27,6 +28,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "4 · 3 · 2 · 0–1",
-    "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab2.ogg"
+    "file": "/daf/materials/audio/unit03_weiterbildung-und-studium/vocab2.ogg",
+    "tts": "4.\n3.\n2.\n0–1."
   }
 ]

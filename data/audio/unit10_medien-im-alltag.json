@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Medien (Pl.) · die Bildschirmzeit · die Nachrichten (Pl.) · der Podcast, -s · die App, -s · der Bildschirm, -e · nutzen · weglegen · ungefähr · pro Tag",
-    "file": "/daf/materials/audio/unit10_medien-im-alltag/vocab1.ogg"
+    "file": "/daf/materials/audio/unit10_medien-im-alltag/vocab1.ogg",
+    "tts": "die Medien (Pl.).\ndie Bildschirmzeit.\ndie Nachrichten (Pl.).\nder Podcast, -s.\ndie App, -s.\nder Bildschirm, -e.\nnutzen.\nweglegen.\nungefähr.\npro Tag."
   },
   {
     "label": "Dialog 2",
@@ -22,11 +23,13 @@
   {
     "label": "Wortschatz 2",
     "transcript": "1. Nadia ist ungefähr drei Stunden am Handy. · 2. Am Morgen liest sie zuerst die Nachrichten. · 3. Nadia schaut jeden Tag viel Fernsehen. · 4. Am Abend möchte sie ein Buch lesen.",
-    "file": "/daf/materials/audio/unit10_medien-im-alltag/vocab2.ogg"
+    "file": "/daf/materials/audio/unit10_medien-im-alltag/vocab2.ogg",
+    "tts": "1. Nadia ist ungefähr drei Stunden am Handy..\n2. Am Morgen liest sie zuerst die Nachrichten..\n3. Nadia schaut jeden Tag viel Fernsehen..\n4. Am Abend möchte sie ein Buch lesen.."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Zwei sinnvolle Fragen gestellt · Mindestens ein korrekter weil-Satz · Drei Sätze über die Partnerin / den Partner · Verständliche Aussprache · Gesamt",
-    "file": "/daf/materials/audio/unit10_medien-im-alltag/vocab3.ogg"
+    "file": "/daf/materials/audio/unit10_medien-im-alltag/vocab3.ogg",
+    "tts": "Zwei sinnvolle Fragen gestellt.\nMindestens ein korrekter weil-Satz.\nDrei Sätze über die Partnerin / den Partner.\nVerständliche Aussprache.\nGesamt."
   }
 ]

@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Zug · der Bus · die U-Bahn · die Straßenbahn · das Flugzeug · das Fahrrad · der Bahnhof · das Gleis · das Ticket / die Fahrkarte · der Fahrplan · geradeaus · links / rechts",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab1.ogg"
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab1.ogg",
+    "tts": "der Zug.\nder Bus.\ndie U-Bahn.\ndie Straßenbahn.\ndas Flugzeug.\ndas Fahrrad.\nder Bahnhof.\ndas Gleis.\ndas Ticket / die Fahrkarte.\nder Fahrplan.\ngeradeaus.\nlinks / rechts."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "der Bus · der Zug · das Fahrrad · die U-Bahn · die Straßenbahn",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab2.ogg"
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab2.ogg",
+    "tts": "der Bus.\nder Zug.\ndas Fahrrad.\ndie U-Bahn.\ndie Straßenbahn."
   },
   {
     "label": "Text 1",
@@ -22,7 +24,8 @@
   {
     "label": "Wortschatz 3",
     "transcript": "a) fährt auf Schienen, lang · b) fährt in der Stadt unter der Erde · c) fliegt in der Luft · d) hat zwei Räder, ohne Motor",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab3.ogg"
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab3.ogg",
+    "tts": "a) fährt auf Schienen, lang.\nb) fährt in der Stadt unter der Erde.\nc) fliegt in der Luft.\nd) hat zwei Räder, ohne Motor."
   },
   {
     "label": "Text 2",
@@ -37,6 +40,7 @@
   {
     "label": "Wortschatz 4",
     "transcript": "1 · 2 · 3 · 4 · 5",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab4.ogg"
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab4.ogg",
+    "tts": "1.\n2.\n3.\n4.\n5."
   }
 ]

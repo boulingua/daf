@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Quelle, -n · das Narrativ, -e · das Meta-Narrativ, -e · das Schweige-Archiv, -e · den Standpunkt offenlegen · die Deutungshoheit, o. Pl. · die Erinnerungskultur, -en · die Geschichtsschreibung / Historiografie · einer Erzählung zugrunde liegen · etwas relativieren / kontextualisieren",
-    "file": "/daf/materials/audio/unit07_historiografie/vocab1.ogg"
+    "file": "/daf/materials/audio/unit07_historiografie/vocab1.ogg",
+    "tts": "die Quelle, -n.\ndas Narrativ, -e.\ndas Meta-Narrativ, -e.\ndas Schweige-Archiv, -e.\nden Standpunkt offenlegen.\ndie Deutungshoheit, o. Pl..\ndie Erinnerungskultur, -en.\ndie Geschichtsschreibung / Historiografie.\neiner Erzählung zugrunde liegen.\netwas relativieren / kontextualisieren."
   },
   {
     "label": "Text 1",
@@ -17,17 +18,20 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Aufbau / Kohärenz · Fachwortschatz · Argumentation / Abwägung · Hedging / Distanzierung · Register",
-    "file": "/daf/materials/audio/unit07_historiografie/vocab2.ogg"
+    "file": "/daf/materials/audio/unit07_historiografie/vocab2.ogg",
+    "tts": "Aufbau / Kohärenz.\nFachwortschatz.\nArgumentation / Abwägung.\nHedging / Distanzierung.\nRegister."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "8 · 6–7 · 4–5 · 2–3 · 0–1",
-    "file": "/daf/materials/audio/unit07_historiografie/vocab3.ogg"
+    "file": "/daf/materials/audio/unit07_historiografie/vocab3.ogg",
+    "tts": "8.\n6–7.\n4–5.\n2–3.\n0–1."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input A–B · Input C (Hörtext) · Üben 1–2 · Üben 3–4 · Anwenden (Anleitung) · Reflexion",
-    "file": "/daf/materials/audio/unit07_historiografie/vocab4.ogg"
+    "file": "/daf/materials/audio/unit07_historiografie/vocab4.ogg",
+    "tts": "Einstieg.\nInput A–B.\nInput C (Hörtext).\nÜben 1–2.\nÜben 3–4.\nAnwenden (Anleitung).\nReflexion."
   },
   {
     "label": "Text 3",

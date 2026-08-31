@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Brot · das Brötchen · der Käse · die Wurst · das Ei · der Apfel · die Suppe · der Kaffee · der Tee · der Saft · das Wasser · die Milch · ich mag · ich mag … nicht · gern",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab1.ogg"
+    "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab1.ogg",
+    "tts": "das Brot.\ndas Brötchen.\nder Käse.\ndie Wurst.\ndas Ei.\nder Apfel.\ndie Suppe.\nder Kaffee.\nder Tee.\nder Saft.\ndas Wasser.\ndie Milch.\nich mag.\nich mag … nicht.\ngern."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "ich · du · er/sie/es · wir · ihr · sie/Sie",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab2.ogg"
+    "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab2.ogg",
+    "tts": "ich.\ndu.\ner/sie/es.\nwir.\nihr.\nsie/Sie."
   },
   {
     "label": "Text 1",

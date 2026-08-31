@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Zimmer · das Schlafzimmer · das Wohnzimmer · die Küche · das Bad · der Balkon · das Bett · der Tisch · der Stuhl · der Schrank · der Schreibtisch · das Sofa · die Lampe · das Fenster",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab1.ogg",
+    "tts": "das Zimmer.\ndas Schlafzimmer.\ndas Wohnzimmer.\ndie Küche.\ndas Bad.\nder Balkon.\ndas Bett.\nder Tisch.\nder Stuhl.\nder Schrank.\nder Schreibtisch.\ndas Sofa.\ndie Lampe.\ndas Fenster."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "in / im · auf · unter · neben · vor · hinter",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab2.ogg",
+    "tts": "in / im.\nauf.\nunter.\nneben.\nvor.\nhinter."
   },
   {
     "label": "Text 1",
@@ -32,7 +34,8 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Ich schreibe fünf Sätze. · Ich nenne mindestens vier Möbel. · Ich benutze Es gibt … zweimal. · Man versteht meinen Text gut.",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab3.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab3.ogg",
+    "tts": "Ich schreibe fünf Sätze..\nIch nenne mindestens vier Möbel..\nIch benutze Es gibt … zweimal..\nMan versteht meinen Text gut.."
   },
   {
     "label": "Dialog 3",
@@ -42,6 +45,7 @@
   {
     "label": "Wortschatz 4",
     "transcript": "Nachname korrekt · Geburtsdatum korrekt · Staatsangehörigkeit korrekt · PLZ korrekt · Telefon korrekt · Summe",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab4.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab4.ogg",
+    "tts": "Nachname korrekt.\nGeburtsdatum korrekt.\nStaatsangehörigkeit korrekt.\nPLZ korrekt.\nTelefon korrekt.\nSumme."
   }
 ]

@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Preis · das Geld · der Euro / der Cent · das Kilo(gramm) · das Gramm · der Liter · das Stück · billig · teuer · das Angebot · die Kasse · bezahlen / zahlen",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab1.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab1.ogg",
+    "tts": "der Preis.\ndas Geld.\nder Euro / der Cent.\ndas Kilo(gramm).\ndas Gramm.\nder Liter.\ndas Stück.\nbillig.\nteuer.\ndas Angebot.\ndie Kasse.\nbezahlen / zahlen."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "20 · 50 · 99 · 100 · 250 · 1000",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab2.ogg"
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab2.ogg",
+    "tts": "20.\n50.\n99.\n100.\n250.\n1000."
   },
   {
     "label": "Text 1",

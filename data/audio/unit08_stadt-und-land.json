@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Lebensqualität · die Daseinsvorsorge · der ländliche Raum · die Anbindung · die Mieten (Pl.) · die Infrastruktur · pendeln · das Homeoffice · der Ballungsraum · abgelegen (Adj.)",
-    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab1.ogg"
+    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab1.ogg",
+    "tts": "die Lebensqualität.\ndie Daseinsvorsorge.\nder ländliche Raum.\ndie Anbindung.\ndie Mieten (Pl.).\ndie Infrastruktur.\npendeln.\ndas Homeoffice.\nder Ballungsraum.\nabgelegen (Adj.)."
   },
   {
     "label": "Text 1",
@@ -17,16 +18,19 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Position klar erkennbar · ein Argument mit weil/dass begründet · Bezug auf Yasmin oder Robert · mind. ein Konjunktiv II korrekt · Schluss mit Forderung/Frage",
-    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab2.ogg"
+    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab2.ogg",
+    "tts": "Position klar erkennbar.\nein Argument mit weil/dass begründet.\nBezug auf Yasmin oder Robert.\nmind. ein Konjunktiv II korrekt.\nSchluss mit Forderung/Frage."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "7 · 5–6 · 4 · 0–3",
-    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab3.ogg"
+    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab3.ogg",
+    "tts": "7.\n5–6.\n4.\n0–3."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab4.ogg"
+    "file": "/daf/materials/audio/unit08_stadt-und-land/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

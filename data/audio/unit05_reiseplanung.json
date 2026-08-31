@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Unterkunft · der Selbstversorger · die Halbpension · die Vollpension · das Mehrbettzimmer · der Stellplatz · der Aufschlag · das Angebot · der Fahrplan · günstig / preiswert · das Budget · die Ermäßigung",
-    "file": "/daf/materials/audio/unit05_reiseplanung/vocab1.ogg"
+    "file": "/daf/materials/audio/unit05_reiseplanung/vocab1.ogg",
+    "tts": "die Unterkunft.\nder Selbstversorger.\ndie Halbpension.\ndie Vollpension.\ndas Mehrbettzimmer.\nder Stellplatz.\nder Aufschlag.\ndas Angebot.\nder Fahrplan.\ngünstig / preiswert.\ndas Budget.\ndie Ermäßigung."
   },
   {
     "label": "Dialog 2",
@@ -27,7 +28,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Alle Angaben vorhanden (Unterkunft, Essen …) · Budget ist korrekt gerechnet · Mindestens ein richtiger weil-Satz · Wortschatz zum Thema Reise · Verständlichkeit (A2)",
-    "file": "/daf/materials/audio/unit05_reiseplanung/vocab2.ogg"
+    "file": "/daf/materials/audio/unit05_reiseplanung/vocab2.ogg",
+    "tts": "Alle Angaben vorhanden (Unterkunft, Essen …).\nBudget ist korrekt gerechnet.\nMindestens ein richtiger weil-Satz.\nWortschatz zum Thema Reise.\nVerständlichkeit (A2)."
   },
   {
     "label": "Text 3",
@@ -37,6 +39,7 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Jede richtige Zuordnung · 5 richtig · 4 richtig · 3 richtig · unter 3 richtig",
-    "file": "/daf/materials/audio/unit05_reiseplanung/vocab3.ogg"
+    "file": "/daf/materials/audio/unit05_reiseplanung/vocab3.ogg",
+    "tts": "Jede richtige Zuordnung.\n5 richtig.\n4 richtig.\n3 richtig.\nunter 3 richtig."
   }
 ]

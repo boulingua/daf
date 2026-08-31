@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Stellenanzeige, -n · die Bewerbung, -en · Vollzeit / Teilzeit · das Gehalt (brutto / netto) · der Schichtdienst · die Anforderung, -en · die Erfahrung, -en · die Weiterbildung, -en · der Beginn / der Starttermin · die Unterlagen (Pl.)",
-    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab1.ogg"
+    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab1.ogg",
+    "tts": "die Stellenanzeige, -n.\ndie Bewerbung, -en.\nVollzeit / Teilzeit.\ndas Gehalt (brutto / netto).\nder Schichtdienst.\ndie Anforderung, -en.\ndie Erfahrung, -en.\ndie Weiterbildung, -en.\nder Beginn / der Starttermin.\ndie Unterlagen (Pl.)."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Ich suche eine Stelle, · Ich lese die Anzeige, · Ich weiß, · Ich schreibe,",
-    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab2.ogg"
+    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab2.ogg",
+    "tts": "Ich suche eine Stelle,.\nIch lese die Anzeige,.\nIch weiß,.\nIch schreibe,."
   },
   {
     "label": "Dialog 2",
@@ -32,11 +34,13 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Alle drei Inhaltspunkte genannt · Passende Anrede und Gruß · Verständliche Sätze (A2, kleine Fehler ok) · Gesamt",
-    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab3.ogg"
+    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab3.ogg",
+    "tts": "Alle drei Inhaltspunkte genannt.\nPassende Anrede und Gruß.\nVerständliche Sätze (A2, kleine Fehler ok).\nGesamt."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung",
-    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab4.ogg"
+    "file": "/daf/materials/audio/unit01_arbeitssuche-und-stellenanzeige/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nPrüfung."
   }
 ]

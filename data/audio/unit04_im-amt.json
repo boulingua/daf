@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Amt (ä-er) · die Anmeldung · das Formular (-e) · der Termin (-e) · die Bestätigung · die Staatsangehörigkeit · das Geburtsdatum · die Unterschrift (-en) · ausfüllen · verschieben · absagen · mitbringen",
-    "file": "/daf/materials/audio/unit04_im-amt/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/vocab1.ogg",
+    "tts": "das Amt (ä-er).\ndie Anmeldung.\ndas Formular (-e).\nder Termin (-e).\ndie Bestätigung.\ndie Staatsangehörigkeit.\ndas Geburtsdatum.\ndie Unterschrift (-en).\nausfüllen.\nverschieben.\nabsagen.\nmitbringen."
   },
   {
     "label": "Text 1",
@@ -22,7 +23,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Anrede und Gruß korrekt · Alle drei Inhaltspunkte behandelt · Höfliche Bitte (könnte / möchte) benutzt · Verständlichkeit (Leser versteht ohne Mühe) · Summe",
-    "file": "/daf/materials/audio/unit04_im-amt/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_im-amt/vocab2.ogg",
+    "tts": "Anrede und Gruß korrekt.\nAlle drei Inhaltspunkte behandelt.\nHöfliche Bitte (könnte / möchte) benutzt.\nVerständlichkeit (Leser versteht ohne Mühe).\nSumme."
   },
   {
     "label": "Text 2",

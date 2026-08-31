@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Migration · die Zuwanderung · die Auswanderung · die Flucht · die Zugehörigkeit · die Integration · die Teilhabe · der/die Geflüchtete · der Migrationshintergrund · die Pauschalisierung",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab1.ogg"
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab1.ogg",
+    "tts": "die Migration.\ndie Zuwanderung.\ndie Auswanderung.\ndie Flucht.\ndie Zugehörigkeit.\ndie Integration.\ndie Teilhabe.\nder/die Geflüchtete.\nder Migrationshintergrund.\ndie Pauschalisierung."
   },
   {
     "label": "Text 1",
@@ -22,6 +23,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Prüfung/Reflexion",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab2.ogg"
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab2.ogg",
+    "tts": "Einstieg.\nInput A–D.\nÜben 1–4.\nAnwenden.\nPrüfung/Reflexion."
   }
 ]

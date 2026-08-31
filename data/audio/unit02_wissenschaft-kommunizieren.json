@@ -2,16 +2,19 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Wissenschaftskommunikation · die Glaubwürdigkeit · die Verzerrung · die Desinformation · die Einschränkung · die Nachvollziehbarkeit · die Zuspitzung · die Evidenz / evidenzbasiert · die Reichweite · das Vertrauen (in etw.) · plausibel · voreilig",
-    "file": "/daf/materials/audio/unit02_wissenschaft-kommunizieren/vocab1.ogg"
+    "file": "/daf/materials/audio/unit02_wissenschaft-kommunizieren/vocab1.ogg",
+    "tts": "die Wissenschaftskommunikation.\ndie Glaubwürdigkeit.\ndie Verzerrung.\ndie Desinformation.\ndie Einschränkung.\ndie Nachvollziehbarkeit.\ndie Zuspitzung.\ndie Evidenz / evidenzbasiert.\ndie Reichweite.\ndas Vertrauen (in etw.).\nplausibel.\nvoreilig."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "8–7 · 6–5 · 4–3 · 2–0",
-    "file": "/daf/materials/audio/unit02_wissenschaft-kommunizieren/vocab2.ogg"
+    "file": "/daf/materials/audio/unit02_wissenschaft-kommunizieren/vocab2.ogg",
+    "tts": "8–7.\n6–5.\n4–3.\n2–0."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Einstieg · Input A–C · Hörtext D · Üben 1–4 · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit02_wissenschaft-kommunizieren/vocab3.ogg"
+    "file": "/daf/materials/audio/unit02_wissenschaft-kommunizieren/vocab3.ogg",
+    "tts": "Einstieg.\nInput A–C.\nHörtext D.\nÜben 1–4.\nAnwenden.\nReflexion."
   }
 ]

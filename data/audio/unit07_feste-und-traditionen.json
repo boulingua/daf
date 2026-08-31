@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Feiertag, -e · das Fest, -e · die Einladung, -en · das Programm, -e · der Weihnachtsmarkt, -¨e · die Fasnacht / der Karneval · die Tradition, -en · der Brauch, -¨e · feiern · der Eintritt frei",
-    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab1.ogg"
+    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab1.ogg",
+    "tts": "der Feiertag, -e.\ndas Fest, -e.\ndie Einladung, -en.\ndas Programm, -e.\nder Weihnachtsmarkt, -¨e.\ndie Fasnacht / der Karneval.\ndie Tradition, -en.\nder Brauch, -¨e.\nfeiern.\nder Eintritt frei."
   },
   {
     "label": "Text 1",
@@ -17,7 +18,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Inhalt: alle vier Punkte genannt · Ein Nebensatz mit weil oder dass · Wortschatz zum Thema Fest · Verständlichkeit (trotz Fehler klar)",
-    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab2.ogg"
+    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab2.ogg",
+    "tts": "Inhalt: alle vier Punkte genannt.\nEin Nebensatz mit weil oder dass.\nWortschatz zum Thema Fest.\nVerständlichkeit (trotz Fehler klar)."
   },
   {
     "label": "Text 2",
@@ -27,11 +29,13 @@
   {
     "label": "Wortschatz 3",
     "transcript": "5 · 4 · 3 · 0–2",
-    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab3.ogg"
+    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab3.ogg",
+    "tts": "5.\n4.\n3.\n0–2."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung · Reflexion",
-    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab4.ogg"
+    "file": "/daf/materials/audio/unit07_feste-und-traditionen/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nPrüfung.\nReflexion."
   }
 ]

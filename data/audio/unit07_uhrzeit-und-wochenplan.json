@@ -7,22 +7,26 @@
   {
     "label": "Wortschatz 1",
     "transcript": "Montag · Dienstag · Mittwoch · Donnerstag · Freitag · Samstag · Sonntag",
-    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab1.ogg"
+    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab1.ogg",
+    "tts": "Montag.\nDienstag.\nMittwoch.\nDonnerstag.\nFreitag.\nSamstag.\nSonntag."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "9:00 · 9:15 · 9:30 · 9:45 · 12:00 · 20:30 · 00:00 / 24:00",
-    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab2.ogg"
+    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab2.ogg",
+    "tts": "9:00.\n9:15.\n9:30.\n9:45.\n12:00.\n20:30.\n00:00 / 24:00."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "aufstehen · frühstücken · arbeiten · Mittag essen · lernen · schlafen gehen · der Termin · der Wochenplan",
-    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab3.ogg"
+    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab3.ogg",
+    "tts": "aufstehen.\nfrühstücken.\narbeiten.\nMittag essen.\nlernen.\nschlafen gehen.\nder Termin.\nder Wochenplan."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "ich · du · er / sie / es · wir / Sie",
-    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab4.ogg"
+    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab4.ogg",
+    "tts": "ich.\ndu.\ner / sie / es.\nwir / Sie."
   },
   {
     "label": "Text 1",
@@ -42,7 +46,8 @@
   {
     "label": "Wortschatz 5",
     "transcript": "Ich schreibe für jeden Tag einen Eintrag. · Ich nenne die Uhrzeit richtig. · Ich benutze am und um richtig. · Ich benutze ein trennbares Verb.",
-    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab5.ogg"
+    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab5.ogg",
+    "tts": "Ich schreibe für jeden Tag einen Eintrag..\nIch nenne die Uhrzeit richtig..\nIch benutze am und um richtig..\nIch benutze ein trennbares Verb.."
   },
   {
     "label": "Text 2",
@@ -52,6 +57,7 @@
   {
     "label": "Wortschatz 6",
     "transcript": "Anrede und Gruß (Liebe … / Viele Grüße) · Punkt 1: Entschuldigung · Punkt 2: Grund (warum nicht) · Punkt 3: Frage nach Hausaufgaben · Uhrzeit / Termin richtig · Text verständlich · Summe",
-    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab6.ogg"
+    "file": "/daf/materials/audio/unit07_uhrzeit-und-wochenplan/vocab6.ogg",
+    "tts": "Anrede und Gruß (Liebe … / Viele Grüße).\nPunkt 1: Entschuldigung.\nPunkt 2: Grund (warum nicht).\nPunkt 3: Frage nach Hausaufgaben.\nUhrzeit / Termin richtig.\nText verständlich.\nSumme."
   }
 ]

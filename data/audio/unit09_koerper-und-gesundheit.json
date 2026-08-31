@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Kopf · der Hals · der Bauch · der Rücken · der Arm · das Bein · die Hand · der Fuß · das Auge · das Ohr · die Nase · der Zahn · die Schmerzen (Pl.) · das Fieber · die Erkältung · der Husten · die Tablette · die Apotheke",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab1.ogg"
+    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab1.ogg",
+    "tts": "der Kopf.\nder Hals.\nder Bauch.\nder Rücken.\nder Arm.\ndas Bein.\ndie Hand.\nder Fuß.\ndas Auge.\ndas Ohr.\ndie Nase.\nder Zahn.\ndie Schmerzen (Pl.).\ndas Fieber.\ndie Erkältung.\nder Husten.\ndie Tablette.\ndie Apotheke."
   },
   {
     "label": "Dialog 2",
@@ -22,16 +23,19 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Zwei Beschwerden genannt · „seit wann\" gesagt · Zwei Anweisungen verstanden · Verständliche Aussprache",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab2.ogg"
+    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab2.ogg",
+    "tts": "Zwei Beschwerden genannt.\n„seit wann\" gesagt.\nZwei Anweisungen verstanden.\nVerständliche Aussprache."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "2 · 2 · 2 · 0",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab3.ogg"
+    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab3.ogg",
+    "tts": "2.\n2.\n2.\n0."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg (Szene + Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Rollenspiel) · Prüfungsvorschau",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab4.ogg"
+    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab4.ogg",
+    "tts": "Einstieg (Szene + Fragen).\nInput (Vokabeln, Grammatik, Lesetext, Kultur).\nÜben (Aufgaben 1–4).\nAnwenden (Rollenspiel).\nPrüfungsvorschau."
   }
 ]

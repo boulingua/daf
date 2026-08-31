@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "Wohnungsanzeige · Miete · Kaltmiete · Warmmiete · Nebenkosten · Kaution · Besichtigung · Termin · Lage · Quadratmeter (m²) · Stock / Etage · frei / verfügbar",
-    "file": "/daf/materials/audio/unit02_wohnung-mieten/vocab1.ogg"
+    "file": "/daf/materials/audio/unit02_wohnung-mieten/vocab1.ogg",
+    "tts": "Wohnungsanzeige.\nMiete.\nKaltmiete.\nWarmmiete.\nNebenkosten.\nKaution.\nBesichtigung.\nTermin.\nLage.\nQuadratmeter (m²).\nStock / Etage.\nfrei / verfügbar."
   },
   {
     "label": "Text 1",
@@ -17,6 +18,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Alle vier Punkte werden besprochen · Vorschläge machen und begründen (weil) · Auf den Partner reagieren / sich einigen · Wortschatz & Aussprache (verständlich)",
-    "file": "/daf/materials/audio/unit02_wohnung-mieten/vocab2.ogg"
+    "file": "/daf/materials/audio/unit02_wohnung-mieten/vocab2.ogg",
+    "tts": "Alle vier Punkte werden besprochen.\nVorschläge machen und begründen (weil).\nAuf den Partner reagieren / sich einigen.\nWortschatz & Aussprache (verständlich)."
   }
 ]

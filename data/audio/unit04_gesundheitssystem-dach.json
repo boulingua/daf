@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Krankenversicherungspflicht · die gesetzliche Krankenkasse · der Beitrag, ¨-e · die Prämie, -n · die Franchise, -n · der Selbstbehalt, -e · der Facharzttermin, -e · solidarisch finanziert",
-    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/vocab1.ogg",
+    "tts": "die Krankenversicherungspflicht.\ndie gesetzliche Krankenkasse.\nder Beitrag, ¨-e.\ndie Prämie, -n.\ndie Franchise, -n.\nder Selbstbehalt, -e.\nder Facharzttermin, -e.\nsolidarisch finanziert."
   },
   {
     "label": "Text 1",
@@ -12,11 +13,13 @@
   {
     "label": "Wortschatz 2",
     "transcript": "1 · 2 · 3 · 4 · 5 · 6 · 7 · 8",
-    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/vocab2.ogg",
+    "tts": "1.\n2.\n3.\n4.\n5.\n6.\n7.\n8."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/vocab3.ogg"
+    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/vocab3.ogg",
+    "tts": "Einstieg.\nInput A–D.\nÜben 1–4.\nAnwenden.\nReflexion."
   }
 ]

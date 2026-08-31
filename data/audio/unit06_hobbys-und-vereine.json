@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Verein, -e · die Mitgliedschaft, -en · das Mitglied, -er · der Beitrag, \"-e · das Hobby, -s · die Freizeit (nur Singular) · trainieren · beitreten (+ Dativ) · sich treffen · gefallen (+ Dativ) · jeden Mittwoch · einmal pro Woche",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab1.ogg"
+    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab1.ogg",
+    "tts": "der Verein, -e.\ndie Mitgliedschaft, -en.\ndas Mitglied, -er.\nder Beitrag, \"-e.\ndas Hobby, -s.\ndie Freizeit (nur Singular).\ntrainieren.\nbeitreten (+ Dativ).\nsich treffen.\ngefallen (+ Dativ).\njeden Mittwoch.\neinmal pro Woche."
   },
   {
     "label": "Dialog 2",
@@ -17,16 +18,19 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Inhalt · seit + Dativ · weil-Satz · Aussprache / Flüssigkeit",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab2.ogg"
+    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab2.ogg",
+    "tts": "Inhalt.\nseit + Dativ.\nweil-Satz.\nAussprache / Flüssigkeit."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Alle fünf Stichwörter behandelt · seit + Dativ korrekt (Dauer) · Grund mit weil korrekt · Rückfragen sinnvoll beantwortet · Aussprache / Verständlichkeit · Gesamt",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab3.ogg"
+    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab3.ogg",
+    "tts": "Alle fünf Stichwörter behandelt.\nseit + Dativ korrekt (Dauer).\nGrund mit weil korrekt.\nRückfragen sinnvoll beantwortet.\nAussprache / Verständlichkeit.\nGesamt."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung/Reflexion",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab4.ogg"
+    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nPrüfung/Reflexion."
   }
 ]
