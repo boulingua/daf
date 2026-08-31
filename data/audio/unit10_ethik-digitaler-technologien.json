@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Datenschutz · die Datensicherheit · der Algorithmus, -men · die Transparenz · die Verzerrung / der Bias · die Einwilligung · die Verhältnismäßigkeit · die Rechenschaft(spflicht) · die Überwachung · personenbezogene Daten · nachvollziehbar (Adj.) · stigmatisieren (V.)",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab1.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab1.ogg",
+    "tts": "der Datenschutz.\ndie Datensicherheit.\nder Algorithmus, -men.\ndie Transparenz.\ndie Verzerrung / der Bias.\ndie Einwilligung.\ndie Verhältnismäßigkeit.\ndie Rechenschaft(spflicht).\ndie Überwachung.\npersonenbezogene Daten.\nnachvollziehbar (Adj.).\nstigmatisieren (V.)."
   },
   {
     "label": "Dialog 1",
@@ -12,7 +13,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "beide Positionen fair und klar dargestellt · mindestens 3 Konnektoren korrekt eingesetzt · Passiv und/oder Konjunktiv verwendet · moderierender, respektvoller Ton · Fachbegriffe korrekt (min. 3) · Umfang eingehalten (220–260 Wörter)",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab2.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab2.ogg",
+    "tts": "beide Positionen fair und klar dargestellt.\nmindestens 3 Konnektoren korrekt eingesetzt.\nPassiv und/oder Konjunktiv verwendet.\nmoderierender, respektvoller Ton.\nFachbegriffe korrekt (min. 3).\nUmfang eingehalten (220–260 Wörter)."
   },
   {
     "label": "Text 1",
@@ -22,11 +24,13 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Inhalt: alle vier Sprachfunktionen abgedeckt · Aufbau & Kohärenz (Konnektoren, roter Faden) · Wortschatz: Fachbegriffe treffend eingesetzt · Grammatik: Passiv, Konjunktiv, Nominalisierung · Register & Angemessenheit (sachlich, adressiert) · Gesamt",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab3.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab3.ogg",
+    "tts": "Inhalt: alle vier Sprachfunktionen abgedeckt.\nAufbau & Kohärenz (Konnektoren, roter Faden).\nWortschatz: Fachbegriffe treffend eingesetzt.\nGrammatik: Passiv, Konjunktiv, Nominalisierung.\nRegister & Angemessenheit (sachlich, adressiert).\nGesamt."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab4.ogg"
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

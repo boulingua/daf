@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Erkenntnistheorie · der Empirismus · der Rationalismus · die Induktion · die Deduktion · die Falsifikation · die Verifikation · das Paradigma · die Anomalie · die Demarkation · der Geltungsanspruch · vorläufig",
-    "file": "/daf/materials/audio/unit03_wissenschaftstheorie/vocab1.ogg"
+    "file": "/daf/materials/audio/unit03_wissenschaftstheorie/vocab1.ogg",
+    "tts": "die Erkenntnistheorie.\nder Empirismus.\nder Rationalismus.\ndie Induktion.\ndie Deduktion.\ndie Falsifikation.\ndie Verifikation.\ndas Paradigma.\ndie Anomalie.\ndie Demarkation.\nder Geltungsanspruch.\nvorläufig."
   },
   {
     "label": "Text 1",
@@ -17,6 +18,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "7–6 · 5–4 · 3–2 · 1–0",
-    "file": "/daf/materials/audio/unit03_wissenschaftstheorie/vocab2.ogg"
+    "file": "/daf/materials/audio/unit03_wissenschaftstheorie/vocab2.ogg",
+    "tts": "7–6.\n5–4.\n3–2.\n1–0."
   }
 ]

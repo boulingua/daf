@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Kuratorin / der Kurator · die Hängung · das Exponat · die Konzeption · der Bildaufbau / die Komposition · der Vordergrund / Hintergrund · die Farbgebung · ausdrucksstark · die Wandtexte (Pl.) · ebenbürtig · in den Kanon aufnehmen · kritisch anmerken",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab1.ogg"
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab1.ogg",
+    "tts": "die Kuratorin / der Kurator.\ndie Hängung.\ndas Exponat.\ndie Konzeption.\nder Bildaufbau / die Komposition.\nder Vordergrund / Hintergrund.\ndie Farbgebung.\nausdrucksstark.\ndie Wandtexte (Pl.).\nebenbürtig.\nin den Kanon aufnehmen.\nkritisch anmerken."
   },
   {
     "label": "Text 1",
@@ -17,16 +18,19 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Inhalt & Argumentation · Struktur & Konnektoren · Grammatik B2 · Wortschatz · Sprachliche Korrektheit",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab2.ogg"
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab2.ogg",
+    "tts": "Inhalt & Argumentation.\nStruktur & Konnektoren.\nGrammatik B2.\nWortschatz.\nSprachliche Korrektheit."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "6 · 4–5 · 2–3 · 0–1",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab3.ogg"
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab3.ogg",
+    "tts": "6.\n4–5.\n2–3.\n0–1."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab4.ogg"
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab4.ogg",
+    "tts": "Einstieg.\nInput A–D.\nÜben 1–4.\nAnwenden.\nReflexion."
   }
 ]

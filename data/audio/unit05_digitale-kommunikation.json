@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Anrede, -n · die Grußformel, -n · das Register, - · die Netiquette · der Beitrag, ¨-e · moderieren · Stellung beziehen (zu) · sachlich · abwägend · angemessen · verhindert sein · etwas verschieben (auf)",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab1.ogg"
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab1.ogg",
+    "tts": "die Anrede, -n.\ndie Grußformel, -n.\ndas Register, -.\ndie Netiquette.\nder Beitrag, ¨-e.\nmoderieren.\nStellung beziehen (zu).\nsachlich.\nabwägend.\nangemessen.\nverhindert sein.\netwas verschieben (auf)."
   },
   {
     "label": "Dialog 1",
@@ -17,7 +18,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Anrede · Grußformel · Abkürzungen · Satzzeichen · Kritik",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab2.ogg"
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab2.ogg",
+    "tts": "Anrede.\nGrußformel.\nAbkürzungen.\nSatzzeichen.\nKritik."
   },
   {
     "label": "Text 1",
@@ -32,11 +34,13 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Inhalt: alle drei Punkte klar behandelt · Argumentation: Meinung begründet (Nebensatz) · Register & Netiquette: sachlich, angemessen · Grammatik & Wortschatz (B1, inkl. Konj. II) · Textaufbau: Anrede/Gruß, roter Faden",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab3.ogg"
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab3.ogg",
+    "tts": "Inhalt: alle drei Punkte klar behandelt.\nArgumentation: Meinung begründet (Nebensatz).\nRegister & Netiquette: sachlich, angemessen.\nGrammatik & Wortschatz (B1, inkl. Konj. II).\nTextaufbau: Anrede/Gruß, roter Faden."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab4.ogg"
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

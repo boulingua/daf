@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "enttäuscht (Adj.) · der Vorwurf, ¨-e · die Aussprache, -n · sich beruhigen (refl.) · die Einsicht, -en · die Versöhnung, -en · das Bedürfnis, -se · die Ich-Botschaft, -en",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab1.ogg"
+    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab1.ogg",
+    "tts": "enttäuscht (Adj.).\nder Vorwurf, ¨-e.\ndie Aussprache, -n.\nsich beruhigen (refl.).\ndie Einsicht, -en.\ndie Versöhnung, -en.\ndas Bedürfnis, -se.\ndie Ich-Botschaft, -en."
   },
   {
     "label": "Text 1",
@@ -12,11 +13,13 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Einsicht / Entschuldigung erkennbar · Erklärung sachlich und ehrlich · konkreter Vorschlag (Zeit/Ort) · Konjunktiv II / Ich-Botschaft benutzt · Gesamt",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab2.ogg"
+    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab2.ogg",
+    "tts": "Einsicht / Entschuldigung erkennbar.\nErklärung sachlich und ehrlich.\nkonkreter Vorschlag (Zeit/Ort).\nKonjunktiv II / Ich-Botschaft benutzt.\nGesamt."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab3.ogg"
+    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab3.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

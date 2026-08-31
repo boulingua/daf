@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Pflegenotstand · die Pflegebedürftigkeit · die Vergütung · die Anerkennung · die Fachkräftelücke · die Zuwanderung / die Migration · der demografische Wandel · das Solidarprinzip · die Beitragslast · die Ökonomisierung · die Personaluntergrenze · entlasten / die Entlastung",
-    "file": "/daf/materials/audio/unit07_gesundheitspolitik/vocab1.ogg"
+    "file": "/daf/materials/audio/unit07_gesundheitspolitik/vocab1.ogg",
+    "tts": "der Pflegenotstand.\ndie Pflegebedürftigkeit.\ndie Vergütung.\ndie Anerkennung.\ndie Fachkräftelücke.\ndie Zuwanderung / die Migration.\nder demografische Wandel.\ndas Solidarprinzip.\ndie Beitragslast.\ndie Ökonomisierung.\ndie Personaluntergrenze.\nentlasten / die Entlastung."
   },
   {
     "label": "Dialog 1",
@@ -22,6 +23,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit07_gesundheitspolitik/vocab2.ogg"
+    "file": "/daf/materials/audio/unit07_gesundheitspolitik/vocab2.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Müll · die Mülltonne, -n · trennen · das Papier · der Biomüll · die Verpackung, -en · der Restmüll · das Altglas · die Batterie, -n · der Tipp, -s · sparen · die Umwelt",
-    "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab1.ogg"
+    "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab1.ogg",
+    "tts": "der Müll.\ndie Mülltonne, -n.\ntrennen.\ndas Papier.\nder Biomüll.\ndie Verpackung, -en.\nder Restmüll.\ndas Altglas.\ndie Batterie, -n.\nder Tipp, -s.\nsparen.\ndie Umwelt."
   },
   {
     "label": "Text 1",
@@ -22,11 +23,13 @@
   {
     "label": "Wortschatz 2",
     "transcript": "1 · 2 · 3 · 4 · 5",
-    "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab2.ogg"
+    "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab2.ogg",
+    "tts": "1.\n2.\n3.\n4.\n5."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "9–10 · 7–8 · 5–6 · 0–4",
-    "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab3.ogg"
+    "file": "/daf/materials/audio/unit11_umwelt-und-alltag/vocab3.ogg",
+    "tts": "9–10.\n7–8.\n5–6.\n0–4."
   }
 ]

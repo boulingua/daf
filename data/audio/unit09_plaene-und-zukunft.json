@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Plan, die Pläne · die Zukunft · vorhaben · die Einladung, -en · die Zusage / die Absage · der Treffpunkt, -e · wahrscheinlich · vielleicht",
-    "file": "/daf/materials/audio/unit09_plaene-und-zukunft/vocab1.ogg"
+    "file": "/daf/materials/audio/unit09_plaene-und-zukunft/vocab1.ogg",
+    "tts": "der Plan, die Pläne.\ndie Zukunft.\nvorhaben.\ndie Einladung, -en.\ndie Zusage / die Absage.\nder Treffpunkt, -e.\nwahrscheinlich.\nvielleicht."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "möchten + Infinitiv · wollen + Infinitiv · werden + Infinitiv · vorhaben, zu + Inf.",
-    "file": "/daf/materials/audio/unit09_plaene-und-zukunft/vocab2.ogg"
+    "file": "/daf/materials/audio/unit09_plaene-und-zukunft/vocab2.ogg",
+    "tts": "möchten + Infinitiv.\nwollen + Infinitiv.\nwerden + Infinitiv.\nvorhaben, zu + Inf.."
   },
   {
     "label": "Dialog 2",
@@ -32,6 +34,7 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Vorschläge machen (Ziel, Anreise …) · Auf den Partner reagieren (zustimmen/ablehnen) · wollen / möchten / werden korrekt · Alle vier Punkte ausgehandelt · Aussprache und flüssiges Sprechen · Gesamt",
-    "file": "/daf/materials/audio/unit09_plaene-und-zukunft/vocab3.ogg"
+    "file": "/daf/materials/audio/unit09_plaene-und-zukunft/vocab3.ogg",
+    "tts": "Vorschläge machen (Ziel, Anreise …).\nAuf den Partner reagieren (zustimmen/ablehnen).\nwollen / möchten / werden korrekt.\nAlle vier Punkte ausgehandelt.\nAussprache und flüssiges Sprechen.\nGesamt."
   }
 ]

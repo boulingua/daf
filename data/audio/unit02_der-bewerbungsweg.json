@@ -2,12 +2,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Bewerbung, -en · das Anschreiben, - · der Lebenslauf, -¨e · die Stellenanzeige, -n · das Vorstellungsgespräch, -e · die Qualifikation, -en · sich bewerben (um + Akk.) · einstellen · die Anforderung, -en · die Erfahrung, -en · befristet / unbefristet · die Anrede, -n · die Grußformel, -n",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab1.ogg"
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab1.ogg",
+    "tts": "die Bewerbung, -en.\ndas Anschreiben, -.\nder Lebenslauf, -¨e.\ndie Stellenanzeige, -n.\ndas Vorstellungsgespräch, -e.\ndie Qualifikation, -en.\nsich bewerben (um + Akk.).\neinstellen.\ndie Anforderung, -en.\ndie Erfahrung, -en.\nbefristet / unbefristet.\ndie Anrede, -n.\ndie Grußformel, -n."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Rufen Sie mich an. · Ich will einen anderen Termin. · Ich habe am Montag Zeit. · Ich freue mich über ein Gespräch.",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab2.ogg"
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab2.ogg",
+    "tts": "Rufen Sie mich an..\nIch will einen anderen Termin..\nIch habe am Montag Zeit..\nIch freue mich über ein Gespräch.."
   },
   {
     "label": "Dialog 1",
@@ -22,7 +24,8 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Einstieg · Bewerbungssatz · Qualifikation · Motivation (mit weil) · Einräumen (mit obwohl) · Schlussformel",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab3.ogg"
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab3.ogg",
+    "tts": "Einstieg.\nBewerbungssatz.\nQualifikation.\nMotivation (mit weil).\nEinräumen (mit obwohl).\nSchlussformel."
   },
   {
     "label": "Text 2",
@@ -37,6 +40,7 @@
   {
     "label": "Wortschatz 4",
     "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede, Grußformel und Name vorhanden · Formelles Register (Sie-Form, Höflichkeit) · Konjunktiv II für die höfliche Bitte · Grammatik und Rechtschreibung (Wortlänge ok) · Gesamt",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab4.ogg"
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab4.ogg",
+    "tts": "Alle drei Inhaltspunkte bearbeitet.\nAnrede, Grußformel und Name vorhanden.\nFormelles Register (Sie-Form, Höflichkeit).\nKonjunktiv II für die höfliche Bitte.\nGrammatik und Rechtschreibung (Wortlänge ok).\nGesamt."
   }
 ]

@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "aufstehen · frühstücken · fahren · kommen · kochen · arbeiten · treffen · schlafen · gehen · schreiben",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab1.ogg"
+    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab1.ogg",
+    "tts": "aufstehen.\nfrühstücken.\nfahren.\nkommen.\nkochen.\narbeiten.\ntreffen.\nschlafen.\ngehen.\nschreiben."
   },
   {
     "label": "Text 1",
@@ -17,7 +18,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede und Gruß vorhanden · Perfekt richtig gebildet (haben/sein) · Verständlichkeit, Rechtschreibung, Umfang",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab2.ogg"
+    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab2.ogg",
+    "tts": "Alle drei Inhaltspunkte bearbeitet.\nAnrede und Gruß vorhanden.\nPerfekt richtig gebildet (haben/sein).\nVerständlichkeit, Rechtschreibung, Umfang."
   },
   {
     "label": "Text 2",

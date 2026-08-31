@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Geschmacksurteil · das interesselose Wohlgefallen · die Anschauung · die Subjektivität · die Intersubjektivität · der Kanon · die Distanz · die Zweckmäßigkeit · hölzern / bestechend · der Befund",
-    "file": "/daf/materials/audio/unit04_aesthetik-und-urteil/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_aesthetik-und-urteil/vocab1.ogg",
+    "tts": "das Geschmacksurteil.\ndas interesselose Wohlgefallen.\ndie Anschauung.\ndie Subjektivität.\ndie Intersubjektivität.\nder Kanon.\ndie Distanz.\ndie Zweckmäßigkeit.\nhölzern / bestechend.\nder Befund."
   },
   {
     "label": "Dialog 1",
@@ -22,6 +23,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Aufgabenerfüllung · Argumentation · Wortschatz · Struktur / Kohäsion · Korrektheit / Aussprache",
-    "file": "/daf/materials/audio/unit04_aesthetik-und-urteil/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_aesthetik-und-urteil/vocab2.ogg",
+    "tts": "Aufgabenerfüllung.\nArgumentation.\nWortschatz.\nStruktur / Kohäsion.\nKorrektheit / Aussprache."
   }
 ]

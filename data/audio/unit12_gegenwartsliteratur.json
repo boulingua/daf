@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Autofiktion · die Autosoziobiografie · der autobiografische Pakt · das Stilfragment · die Verortung · die Hedging-Formel · die Textur · die Instanz (Erzählinstanz)",
-    "file": "/daf/materials/audio/unit12_gegenwartsliteratur/vocab1.ogg"
+    "file": "/daf/materials/audio/unit12_gegenwartsliteratur/vocab1.ogg",
+    "tts": "die Autofiktion.\ndie Autosoziobiografie.\nder autobiografische Pakt.\ndas Stilfragment.\ndie Verortung.\ndie Hedging-Formel.\ndie Textur.\ndie Instanz (Erzählinstanz)."
   },
   {
     "label": "Dialog 1",
@@ -17,6 +18,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "1 · 2 · 3 · 4 · 5 · 6",
-    "file": "/daf/materials/audio/unit12_gegenwartsliteratur/vocab2.ogg"
+    "file": "/daf/materials/audio/unit12_gegenwartsliteratur/vocab2.ogg",
+    "tts": "1.\n2.\n3.\n4.\n5.\n6."
   }
 ]

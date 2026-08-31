@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Automatisierung · das Automatisierungspotenzial · die Verdrängung (von Arbeitsplätzen) · die Umschulung / die Weiterbildung · die Schlüsselkompetenz · die Nuance abwägen · ein Segen / ein Fluch sein · etwas in Frage stellen · die Produktivität steigern · unverzichtbar bleiben",
-    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab1.ogg"
+    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab1.ogg",
+    "tts": "die Automatisierung.\ndas Automatisierungspotenzial.\ndie Verdrängung (von Arbeitsplätzen).\ndie Umschulung / die Weiterbildung.\ndie Schlüsselkompetenz.\ndie Nuance abwägen.\nein Segen / ein Fluch sein.\netwas in Frage stellen.\ndie Produktivität steigern.\nunverzichtbar bleiben."
   },
   {
     "label": "Dialog 1",
@@ -12,6 +13,7 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Aufgabenerfüllung / Inhalt (These, Belege) · Struktur & Kohärenz (Konnektoren, roter Faden) · Interaktion (auf Partner:in eingehen, Teil 2) · Wortschatz (Themenvokabular, Redemittel) · Grammatik & Aussprache · Gesamt",
-    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab2.ogg"
+    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab2.ogg",
+    "tts": "Aufgabenerfüllung / Inhalt (These, Belege).\nStruktur & Kohärenz (Konnektoren, roter Faden).\nInteraktion (auf Partner:in eingehen, Teil 2).\nWortschatz (Themenvokabular, Redemittel).\nGrammatik & Aussprache.\nGesamt."
   }
 ]

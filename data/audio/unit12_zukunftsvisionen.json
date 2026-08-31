@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Vision, -en · die Vorhersage, -n · sich etwas vorstellen · die Veränderung, -en · nachhaltig · der Fortschritt (nur Sg.) · die Herausforderung, -en · vermutlich · es wäre schön, wenn … · an deiner Stelle würde ich …",
-    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab1.ogg"
+    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab1.ogg",
+    "tts": "die Vision, -en.\ndie Vorhersage, -n.\nsich etwas vorstellen.\ndie Veränderung, -en.\nnachhaltig.\nder Fortschritt (nur Sg.).\ndie Herausforderung, -en.\nvermutlich.\nes wäre schön, wenn ….\nan deiner Stelle würde ich …."
   },
   {
     "label": "Dialog 1",
@@ -12,16 +13,19 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Ich habe mindestens 4 Konjunktiv-II-Formen benutzt. · Ich habe meine Meinung begründet (weil/dass). · Ich habe frei (nicht nur abgelesen) gesprochen. · Ich habe ca. 3 Minuten gesprochen.",
-    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab2.ogg"
+    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab2.ogg",
+    "tts": "Ich habe mindestens 4 Konjunktiv-II-Formen benutzt..\nIch habe meine Meinung begründet (weil/dass)..\nIch habe frei (nicht nur abgelesen) gesprochen..\nIch habe ca. 3 Minuten gesprochen.."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "7 · 5–6 · 3–4 · 0–2",
-    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab3.ogg"
+    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab3.ogg",
+    "tts": "7.\n5–6.\n3–4.\n0–2."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab4.ogg"
+    "file": "/daf/materials/audio/unit12_zukunftsvisionen/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Prämisse, -n · die Konklusion, -en · die Schlussregel, -n · die Argumentkarte, -n · die Antinomie, -n · die Dialektik · die Lebenswelt · das Phänomen, -e · die Identität · die Sukzession, -en · konzedieren · triftig",
-    "file": "/daf/materials/audio/unit08_philosophie-fuer-informierte-laien/vocab1.ogg"
+    "file": "/daf/materials/audio/unit08_philosophie-fuer-informierte-laien/vocab1.ogg",
+    "tts": "die Prämisse, -n.\ndie Konklusion, -en.\ndie Schlussregel, -n.\ndie Argumentkarte, -n.\ndie Antinomie, -n.\ndie Dialektik.\ndie Lebenswelt.\ndas Phänomen, -e.\ndie Identität.\ndie Sukzession, -en.\nkonzedieren.\ntriftig."
   },
   {
     "label": "Dialog 1",
@@ -32,7 +33,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Inhalt & Argumentation · Aufbau & Kohärenz · Register & Hedging · Wortschatz · Grammatik & Korrektheit",
-    "file": "/daf/materials/audio/unit08_philosophie-fuer-informierte-laien/vocab2.ogg"
+    "file": "/daf/materials/audio/unit08_philosophie-fuer-informierte-laien/vocab2.ogg",
+    "tts": "Inhalt & Argumentation.\nAufbau & Kohärenz.\nRegister & Hedging.\nWortschatz.\nGrammatik & Korrektheit."
   },
   {
     "label": "Text 4",
@@ -42,6 +44,7 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit08_philosophie-fuer-informierte-laien/vocab3.ogg"
+    "file": "/daf/materials/audio/unit08_philosophie-fuer-informierte-laien/vocab3.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]

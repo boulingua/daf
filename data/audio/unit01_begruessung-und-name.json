@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "Hallo · Guten Morgen · Guten Tag · Guten Abend · Tschüss · Auf Wiedersehen",
-    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab1.ogg"
+    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab1.ogg",
+    "tts": "Hallo.\nGuten Morgen.\nGuten Tag.\nGuten Abend.\nTschüss.\nAuf Wiedersehen."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Ich heiße … · Ich bin … · Ich komme aus … · Ich bin … Jahre alt. · Wie heißt du? · Woher kommst du? · Wie alt bist du?",
-    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab2.ogg"
+    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab2.ogg",
+    "tts": "Ich heiße ….\nIch bin ….\nIch komme aus ….\nIch bin … Jahre alt..\nWie heißt du?.\nWoher kommst du?.\nWie alt bist du?."
   },
   {
     "label": "Dialog 2",
@@ -22,12 +24,14 @@
   {
     "label": "Wortschatz 3",
     "transcript": "ich · du · er / sie / es · Sie (formell)",
-    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab3.ogg"
+    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab3.ogg",
+    "tts": "ich.\ndu.\ner / sie / es.\nSie (formell)."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Ich grüße und verabschiede mich. · Ich sage Name, Herkunft und Alter. · Ich stelle drei Fragen. · Man versteht mich gut.",
-    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab4.ogg"
+    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab4.ogg",
+    "tts": "Ich grüße und verabschiede mich..\nIch sage Name, Herkunft und Alter..\nIch stelle drei Fragen..\nMan versteht mich gut.."
   },
   {
     "label": "Text 1",
@@ -37,6 +41,7 @@
   {
     "label": "Wortschatz 5",
     "transcript": "Vorstellung (Name, Herkunft, Alter, Sprachen) · Buchstabieren des Vornamens · Zahl korrekt nennen · Aussprache verständlich · Summe",
-    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab5.ogg"
+    "file": "/daf/materials/audio/unit01_begruessung-und-name/vocab5.ogg",
+    "tts": "Vorstellung (Name, Herkunft, Alter, Sprachen).\nBuchstabieren des Vornamens.\nZahl korrekt nennen.\nAussprache verständlich.\nSumme."
   }
 ]

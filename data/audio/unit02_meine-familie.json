@@ -7,7 +7,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Mutter · der Vater · die Eltern (Plural) · der Bruder · die Schwester · das Kind · die Oma · der Opa",
-    "file": "/daf/materials/audio/unit02_meine-familie/vocab1.ogg"
+    "file": "/daf/materials/audio/unit02_meine-familie/vocab1.ogg",
+    "tts": "die Mutter.\nder Vater.\ndie Eltern (Plural).\nder Bruder.\ndie Schwester.\ndas Kind.\ndie Oma.\nder Opa."
   },
   {
     "label": "Text 1",
@@ -17,7 +18,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "1. die Mutter · 2. der Vater · 3. die Schwester · 4. der Opa",
-    "file": "/daf/materials/audio/unit02_meine-familie/vocab2.ogg"
+    "file": "/daf/materials/audio/unit02_meine-familie/vocab2.ogg",
+    "tts": "1. die Mutter.\n2. der Vater.\n3. die Schwester.\n4. der Opa."
   },
   {
     "label": "Text 2",
@@ -27,7 +29,8 @@
   {
     "label": "Wortschatz 3",
     "transcript": "4–5 Sätze gesprochen · mein / meine richtig benutzt · 3 Familienwörter korrekt genannt · verständlich gesprochen",
-    "file": "/daf/materials/audio/unit02_meine-familie/vocab3.ogg"
+    "file": "/daf/materials/audio/unit02_meine-familie/vocab3.ogg",
+    "tts": "4–5 Sätze gesprochen.\nmein / meine richtig benutzt.\n3 Familienwörter korrekt genannt.\nverständlich gesprochen."
   },
   {
     "label": "Text 3",

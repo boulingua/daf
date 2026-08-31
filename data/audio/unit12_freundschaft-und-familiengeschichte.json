@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Familiengeschichte · die Freundschaft · die Großmutter / der Großvater · geboren sein · umziehen (ist umgezogen) · kennenlernen (hat kennengelernt) · sich bedanken (bei) · die Unterstützung · damals · danach / später",
-    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab1.ogg"
+    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab1.ogg",
+    "tts": "die Familiengeschichte.\ndie Freundschaft.\ndie Großmutter / der Großvater.\ngeboren sein.\numziehen (ist umgezogen).\nkennenlernen (hat kennengelernt).\nsich bedanken (bei).\ndie Unterstützung.\ndamals.\ndanach / später."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "arbeiten · lernen · kommen · umziehen",
-    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab2.ogg"
+    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab2.ogg",
+    "tts": "arbeiten.\nlernen.\nkommen.\numziehen."
   },
   {
     "label": "Dialog 2",
@@ -22,7 +24,8 @@
   {
     "label": "Wortschatz 3",
     "transcript": "ich · du · er/sie/es · wir",
-    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab3.ogg"
+    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab3.ogg",
+    "tts": "ich.\ndu.\ner/sie/es.\nwir."
   },
   {
     "label": "Text 1",
@@ -32,11 +35,13 @@
   {
     "label": "Wortschatz 4",
     "transcript": "Inhalt · Perfekt/Präteritum · Konnektoren · Anrede/Gruß",
-    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab4.ogg"
+    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab4.ogg",
+    "tts": "Inhalt.\nPerfekt/Präteritum.\nKonnektoren.\nAnrede/Gruß."
   },
   {
     "label": "Wortschatz 5",
     "transcript": "Inhalt: alle drei Punkte bearbeitet · Kommunikation: passende Anrede und Grußformel · Sprache: Perfekt/Präteritum und Wortschatz · Korrektheit: Satzbau und Rechtschreibung verständlich",
-    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab5.ogg"
+    "file": "/daf/materials/audio/unit12_freundschaft-und-familiengeschichte/vocab5.ogg",
+    "tts": "Inhalt: alle drei Punkte bearbeitet.\nKommunikation: passende Anrede und Grußformel.\nSprache: Perfekt/Präteritum und Wortschatz.\nKorrektheit: Satzbau und Rechtschreibung verständlich."
   }
 ]

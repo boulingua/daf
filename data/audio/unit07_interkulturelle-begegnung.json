@@ -2,16 +2,19 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Missverständnis, -se · die Begegnung, -en · etwas ausräumen · das Register · relativieren · gekränkt sein · die Absicht, -en · voreilig · nachfragen · sich entschuldigen (für) · Rücksicht nehmen (auf) · die Selbstverständlichkeit, -en",
-    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab1.ogg"
+    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab1.ogg",
+    "tts": "das Missverständnis, -se.\ndie Begegnung, -en.\netwas ausräumen.\ndas Register.\nrelativieren.\ngekränkt sein.\ndie Absicht, -en.\nvoreilig.\nnachfragen.\nsich entschuldigen (für).\nRücksicht nehmen (auf).\ndie Selbstverständlichkeit, -en."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Überraschung ausdrücken · Nachfragen · Gegenposition nennen · Relativieren · Sich einigen",
-    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab2.ogg"
+    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab2.ogg",
+    "tts": "Überraschung ausdrücken.\nNachfragen.\nGegenposition nennen.\nRelativieren.\nSich einigen."
   },
   {
     "label": "Wortschatz 3",
     "transcript": "Aufgabenerfüllung · Interaktion · Wortschatz · Strukturen · Aussprache & Register",
-    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab3.ogg"
+    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab3.ogg",
+    "tts": "Aufgabenerfüllung.\nInteraktion.\nWortschatz.\nStrukturen.\nAussprache & Register."
   }
 ]

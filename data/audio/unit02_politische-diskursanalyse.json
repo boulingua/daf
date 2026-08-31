@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "das Framing · die Präsupposition · die Metapher · der Präsuppositionsauslöser · die Wir-Konstruktion · die Gegnerkonstruktion · der Euphemismus · die Nominalisierung · die Hedging-Formel",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab1.ogg"
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab1.ogg",
+    "tts": "das Framing.\ndie Präsupposition.\ndie Metapher.\nder Präsuppositionsauslöser.\ndie Wir-Konstruktion.\ndie Gegnerkonstruktion.\nder Euphemismus.\ndie Nominalisierung.\ndie Hedging-Formel."
   },
   {
     "label": "Text 1",
@@ -17,7 +18,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Krankheits-Metaphorik (Land = kranker Körper) · Präsupposition (faktiver Auslöser „begreifen) · Wir-/Gegnerkonstruktion · Drohung im Lehrgestus",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab2.ogg"
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab2.ogg",
+    "tts": "Krankheits-Metaphorik (Land = kranker Körper).\nPräsupposition (faktiver Auslöser „begreifen).\nWir-/Gegnerkonstruktion.\nDrohung im Lehrgestus."
   },
   {
     "label": "Text 3",
@@ -32,6 +34,7 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Aufgabenerfüllung · Kohärenz & Textaufbau · Wortschatz · Strukturen · Korrektheit · Summe",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab3.ogg"
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab3.ogg",
+    "tts": "Aufgabenerfüllung.\nKohärenz & Textaufbau.\nWortschatz.\nStrukturen.\nKorrektheit.\nSumme."
   }
 ]

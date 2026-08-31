@@ -7,12 +7,14 @@
   {
     "label": "Wortschatz 1",
     "transcript": "der Nominalstil · das Funktionsverbgefüge · die Nominalisierung · das erweiterte Attribut · der Verpflichtungsmarker · der Terminus technicus · die Sprachmittlung · die Verbalisierung · das Agens · das Register",
-    "file": "/daf/materials/audio/unit09_fachsprachen-wirtschaft-medizin-recht/vocab1.ogg"
+    "file": "/daf/materials/audio/unit09_fachsprachen-wirtschaft-medizin-recht/vocab1.ogg",
+    "tts": "der Nominalstil.\ndas Funktionsverbgefüge.\ndie Nominalisierung.\ndas erweiterte Attribut.\nder Verpflichtungsmarker.\nder Terminus technicus.\ndie Sprachmittlung.\ndie Verbalisierung.\ndas Agens.\ndas Register."
   },
   {
     "label": "Wortschatz 2",
     "transcript": "Nominalstil · Passiv / unpersönl. · Herkunft der Termini · Modalität · Leitfunktion",
-    "file": "/daf/materials/audio/unit09_fachsprachen-wirtschaft-medizin-recht/vocab2.ogg"
+    "file": "/daf/materials/audio/unit09_fachsprachen-wirtschaft-medizin-recht/vocab2.ogg",
+    "tts": "Nominalstil.\nPassiv / unpersönl..\nHerkunft der Termini.\nModalität.\nLeitfunktion."
   },
   {
     "label": "Dialog 1",

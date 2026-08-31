@@ -2,7 +2,8 @@
   {
     "label": "Wortschatz 1",
     "transcript": "die Generationengerechtigkeit · das Umlageverfahren · der Altenquotient · die Beitragsstruktur · die Schuldenbremse · zulasten (+ Gen.) · etw. abwägen · verlagern · nachhaltig · kurzsichtig",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab1.ogg"
+    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab1.ogg",
+    "tts": "die Generationengerechtigkeit.\ndas Umlageverfahren.\nder Altenquotient.\ndie Beitragsstruktur.\ndie Schuldenbremse.\nzulasten (+ Gen.).\netw. abwägen.\nverlagern.\nnachhaltig.\nkurzsichtig."
   },
   {
     "label": "Dialog 1",
@@ -12,7 +13,8 @@
   {
     "label": "Wortschatz 2",
     "transcript": "Einleitung · Pro-Seite · Contra-Seite · Konzession · Eigene Position · Vorschlag / Schluss",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab2.ogg"
+    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab2.ogg",
+    "tts": "Einleitung.\nPro-Seite.\nContra-Seite.\nKonzession.\nEigene Position.\nVorschlag / Schluss."
   },
   {
     "label": "Text 1",
@@ -22,11 +24,13 @@
   {
     "label": "Wortschatz 3",
     "transcript": "Erfüllung der Aufgabe · Argumentation & Kohärenz · Wortschatz · Grammatik · Textsorte & Register",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab3.ogg"
+    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab3.ogg",
+    "tts": "Erfüllung der Aufgabe.\nArgumentation & Kohärenz.\nWortschatz.\nGrammatik.\nTextsorte & Register."
   },
   {
     "label": "Wortschatz 4",
     "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab4.ogg"
+    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab4.ogg",
+    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
   }
 ]
