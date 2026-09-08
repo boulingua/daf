@@ -84,9 +84,9 @@ Namen nur auf expliziten Wunsch.
 
 ## Lizenz
 
-Der Website-Code steht unter **MIT** (`LICENSE` im Repository),
-die didaktischen und kuratorischen Inhalte unter
-**CC-BY 4.0** (`LICENSE-content`). Zitate aus dem
+Die didaktischen und kuratorischen Inhalte stehen unter
+**CC BY 4.0** (`LICENSE` im Repository), der Website-Code separat
+unter **MIT** (`LICENSE-CODE.md`). Zitate aus dem
 GER-Begleitband und aus Prüfungsanbieter-Publikationen bleiben
 Eigentum der jeweiligen Rechteinhaber und werden im Rahmen von
 Zitatrecht und Bildungszweck verwendet.

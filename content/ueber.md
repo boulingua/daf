@@ -28,8 +28,10 @@ aufbereitet.
 
 Alle Inhalte — Texte, Transkripte, Übungen, Prüfungsaufgaben,
 Lösungen, Bewertungskriterien („Rubrics“) — stammen von S. Le Boulanger und sind
-CC-BY 4.0 lizenziert (siehe `LICENSE-content` im Repository).
-Der zugrundeliegende Website-Code steht unter MIT (`LICENSE`).
+**CC BY 4.0** lizenziert; der Lizenztext liegt als `LICENSE` im
+Repository. Der zugrundeliegende Website-Code (Hugo-Konfiguration,
+Layouts, Python- und Shell-Skripte, CSS) steht separat unter **MIT**
+(`LICENSE-CODE.md`).
 
 ## Warum diese Seite existiert
 

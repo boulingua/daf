@@ -6,8 +6,12 @@
 {{- if (or (not .Site.Params.hideFooter) (eq .Site.Params.hideFooter false)) }}
 <footer class="footer">
   <section class="container">
+    {{/* Licence string is driven from hugo.toml `params.license` so the
+         footer and the LICENSE file cannot drift apart. Content is CC BY
+         4.0; the website code is separately MIT (LICENSE-CODE.md). */}}
     <p class="footer-line">
-      DaF · © {{ .Site.Params.author }} · MIT / CC-BY-SA 4.0
+      DaF · © {{ .Site.Params.author }} ·
+      Inhalte {{ default "CC BY 4.0" .Site.Params.license }} · Code MIT
     </p>
     <p class="footer-links">
       <a href="{{ "/" | relLangURL }}">Start</a> ·

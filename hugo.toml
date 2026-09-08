@@ -34,6 +34,13 @@ enableRobotsTXT = true
   # duplicate so there is exactly one toggle element on the page.
   hideColorSchemeToggle = true
   customCSS = ["css/custom.css"]
+  # Site code — the course's identifier across the boulingua suite
+  # (selects this site's accent from the shared data/accents.yaml registry).
+  code = "daf"
+  # Content licence. Single source of truth for the footer string; it must
+  # agree with the LICENSE file at the repo root (CC BY 4.0, Attribution 4.0
+  # International). Website code is separately MIT (LICENSE-CODE.md).
+  license = "CC BY 4.0"
 
   # IMPORTANT — sub-tables under [params] must come AFTER all bare
   # [params] keys, because TOML scopes everything that follows a header
