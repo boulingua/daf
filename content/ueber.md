@@ -29,7 +29,7 @@ aufbereitet.
 
 Alle Inhalte — Texte, Transkripte, Übungen, Prüfungsaufgaben,
 Lösungen, Bewertungskriterien („Rubrics“) — stammen von S. Le Boulanger und sind
-CC-BY 4.0 lizenziert (siehe `LICENSE-content` im Repository).
+CC BY-SA 4.0 lizenziert (siehe `LICENSE-CONTENT.md` im Repository).
 Der zugrundeliegende Website-Code steht unter MIT (`LICENSE`).
 
 ## Warum diese Seite existiert

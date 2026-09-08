@@ -175,4 +175,4 @@ und Prüfungsformate unterscheiden sich:
 
 ---
 
-*© S. Le Boulanger · MIT (Code) / CC-BY 4.0 (Inhalt)*
+*© S. Le Boulanger · MIT (Code) / CC BY-SA 4.0 (Inhalt)*
