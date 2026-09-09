@@ -41,7 +41,7 @@ einer Seite `vgwort_pixel: "<token>"` gesetzt ist.
    ```yaml
    ---
    title: "Meine Einheit"
-   vgwort_pixel: "vg08.met.vgwort.de/na/0123456789abcdef0123456789abcdef"
+   vgwort_pixel: "vg08.met.vgwort.de/na/<PUBLIC_ID_AUS_T.O.M.>"
    ---
    ```
 4. **Filter aktivieren** (einmalig pro Repo, in `_quarto.yml`):
