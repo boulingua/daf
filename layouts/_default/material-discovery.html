@@ -100,7 +100,7 @@
 
         <div id="network-mount"
              class="network-graph"
-             data-graph-url="{{ "/network/graph.json" | relURL }}"
+             data-graph-url="{{ "network/graph.json" | relURL }}"
              data-cyto-url="{{ $vendor.RelPermalink }}"
              role="img"
              aria-label="Force-directed graph der 180 Materialien — alphabetische Liste unten als Alternative">
@@ -192,7 +192,7 @@
                 <span class="cefr-badge {{ lower $level }}">{{ $level }}</span>
                 {{ range $modules }} · {{ . }}{{ end }}
               </span>
-              <span class="download">↓ {{ cond $isPresentation (printf "%s (PPTX)" (i18n "presentation")) (printf "%s (PDF)" (i18n "worksheet")) }}</span>
+              <span class="download">↓ {{ cond $isPresentation (printf "%s (PDF)" (i18n "presentation")) (printf "%s (PDF)" (i18n "worksheet")) }}</span>
             </div>
           </a>
         {{ end }}

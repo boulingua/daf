@@ -63,7 +63,7 @@ export async function init(api, root) {
     articleByParent.set(n.id, n.url);
   }
 
-  const pagefind = await loadPagefind(window.location.href);
+  const pagefind = await loadPagefind(new URL(document.querySelector('[data-graph-url]').dataset.graphUrl, window.location.href).href.replace(/network\/graph\.json$/, ''));
   const localIndex = pagefind ? null : buildLocalIndex(api.data.nodes);
 
   const apply = async (query) => {
