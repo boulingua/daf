@@ -37,13 +37,43 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.PROD.overall-written-production.02
-    - C1.REC.watching-tv-film-and-video.02
-    - C1.PROD.sustained-monologue-putting-a-case.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.MED.processing-text.08
+  - C1.PROD.overall-written-production.02
+  - C1.REC.watching-tv-film-and-video.02
+  - C1.PROD.sustained-monologue-putting-a-case.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.MED.processing-text.08
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam
+  format: module-practice
+  duration_minutes:
+  points: 20
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file:
+    /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -84,6 +114,7 @@ Genau dieses Stutzen ist der Einstieg in die Philosophie: nicht das
 Rätselraten, sondern die Frage, **welche stillschweigende Voraussetzung**
 uns überhaupt zum Zeigen bewegt hat.
 
+## Aktivieren {#activate}
 **Leitfragen:**
 
 - Woran machen Sie im Alltag fest, dass etwas *„dasselbe“* geblieben ist —
@@ -93,8 +124,7 @@ uns überhaupt zum Zeigen bewegt hat.
 - Wenn zwei Menschen gegensätzlich argumentieren und **beide** plausibel
   klingen: Woran erkennt man dann, wo genau sich ihre Argumente trennen?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Begriff | Wortart | Knappe Bestimmung |
@@ -210,8 +240,7 @@ paraphrasiert nach [Wikipedia, „Toulmin-Schema“](https://de.wikipedia.org/wi
 (CC BY-SA). Der Begriff der **Antinomie** als Widerstreit zweier gleich gut
 begründbarer Sätze ist bei **Kant** systematisch entfaltet (gemeinfrei).
 
-## Üben
-
+## Üben {#practise}
 > **Niveau-Differenzierung.** Aufgaben mit ▸ sind der **C1-Kern**;
 > Aufgaben mit ▸▸ (*C1 plus*) verlangen zusätzlich eigenständige
 > Formulierung und Metakommentar. Schnellere Lernende bearbeiten die
@@ -274,8 +303,7 @@ Zugeständnis zu **je einem** Satz. Nutzen Sie nacheinander *obwohl*,
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Argumentkarte + Mini-Erörterung.**
 
 1. **Zeichnen.** Erstellen Sie eine kleine Argumentkarte (Skizze genügt) für
@@ -295,66 +323,11 @@ Zugeständnis zu **je einem** Satz. Nutzen Sie nacheinander *obwohl*,
 - [ ] Das Fazit *entscheidet begründet* oder markiert bewusst die Antinomie —
       aber es bleibt nicht beliebig.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER C1 — Modul Schreiben: Schriftliche Erörterung**
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam" >}}).
 
-**Aufgabe.** In einem philosophischen Blog für interessierte Laien lesen Sie
-die zugespitzte Behauptung:
-
-> *„Identität ist reine Gewohnheit: Ein Ding ist so lange ‚dasselbe‘, wie wir
-> es aus Bequemlichkeit so nennen — mehr steckt nicht dahinter.“*
-
-Verfassen Sie einen **kohärenten Kommentar (ca. 230–250 Wörter)**, der
-
-- die Behauptung präzise **wiedergibt** und in ihre Voraussetzung(en) zerlegt,
-- **mindestens ein triftiges Argument dagegen** und **eines dafür** entwickelt,
-- ein **Zugeständnis** an die Gegenseite ausdrücklich formuliert (konzedieren),
-- und zu einem **begründeten, abwägenden Fazit** kommt.
-
-Achten Sie auf akademisches Register, Hedging und kohärente Konnektoren.
-
-**Punkte-Rubrik (20 Punkte):**
-
-| Kriterium | Beschreibung | Punkte |
-|---|---|---|
-| **Inhalt & Argumentation** | Behauptung zerlegt, Pro **und** Contra triftig, Zugeständnis vorhanden | 6 |
-| **Aufbau & Kohärenz** | erkennbare Erörterungsstruktur, logische Konnektoren, klares Fazit | 5 |
-| **Register & Hedging** | durchgehend akademisch, angemessene Abtönung, keine Plattitüden | 4 |
-| **Wortschatz** | präziser Gebrauch der Fachbegriffe (*Antinomie, Prämisse, Identität …*) | 3 |
-| **Grammatik & Korrektheit** | Konzessivgefüge, Verbstellung, Kohäsion weitgehend fehlerfrei | 2 |
-
-{{< details type="tip" title="Musterlösung (ca. 240 Wörter)" >}}
-
-> Die zitierte Behauptung reduziert Identität auf Gewohnheit: Ein Ding sei
-> nur so lange *dasselbe*, wie wir es bequemerweise so nennen. Ihre
-> stillschweigende Voraussetzung lautet, dass hinter unseren Benennungen
-> nichts Weiteres steht — dass *„dasselbe“* also nichts bezeichnet, sondern
-> lediglich eine Sprechweise sei.
->
-> Für diese These spricht durchaus einiges. Am Boot des Theseus zeigt sich,
-> dass wir bei der Zuschreibung von Identität tatsächlich schwanken, je
-> nachdem, ob wir auf Materie, Form oder Geschichte achten. Wo aber die
-> Kriterien wechseln, liegt der Verdacht nahe, dass die Konvention das
-> letzte Wort hat.
->
-> Zugegeben: Ohne sprachliche Praxis gäbe es kein Reden über *„dasselbe“*.
-> Gleichwohl folgt daraus nicht, dass Identität *bloß* Gewohnheit wäre. Denn
-> unsere Zuschreibungen sind nicht beliebig: Wir korrigieren sie, wir
-> streiten über sie, und in diesem Streit berufen wir uns auf Gründe —
-> etwa auf die ununterbrochene Geschichte eines Dings. Wer korrigierbar
-> irrt, misst an etwas, das nicht in seiner Bequemlichkeit aufgeht.
->
-> Vorsichtig abwägend scheint mir daher: Die Behauptung trifft einen
-> richtigen Punkt — Identität ist an sprachliche Praxis gebunden —, überspannt
-> ihn jedoch. Sie verwechselt die Feststellung, dass wir Kriterien *wählen*,
-> mit der weit stärkeren, dass diese Kriterien *willkürlich* seien. Die
-> Antinomie bleibt bestehen; beliebig wird sie dadurch nicht.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann ein Argument in **Prämisse, Schlussregel und Konklusion**
       zerlegen und als Karte darstellen.
 - [ ] Ich erkenne eine **Antinomie** und kann beide Seiten fair ausformulieren.
@@ -362,7 +335,7 @@ Achten Sie auf akademisches Register, Hedging und kohärente Konnektoren.
 - [ ] Ich setze **Hedging** und **Konzessivgefüge** gezielt und korrekt ein.
 - [ ] Ich schreibe eine **kohärente Erörterung** mit begründetem Fazit.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

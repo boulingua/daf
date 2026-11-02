@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.notes-messages-and-forms.02
-    - A2.PROD.creative-writing.07
-    - A2.REC.overall-oral-comprehension.02
-    - A2.INT.correspondence.01
-    - A2.LING.general-linguistic-range.02
+  - A2.INT.notes-messages-and-forms.02
+  - A2.PROD.creative-writing.07
+  - A2.REC.overall-oral-comprehension.02
+  - A2.INT.correspondence.01
+  - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-a2-sprechen-teil-3-gemeinsam-etwas-planen
+exam:
+  page: kurs_a2/units/unit02_wohnung-mieten_exam
+  format: module-practice
+  duration_minutes: 3
+  points: 12
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit02_wohnung-mieten-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit02_wohnung-mieten-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -79,14 +107,14 @@ in der Küche und liest laut vor.
 >
 > **Layla:** Gute Idee. Ich rufe morgen früh an.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen**
 
 1. Was gefällt Layla an der Wohnung?
 2. Welche Information fehlt in der Anzeige?
 3. Was soll Layla am Telefon fragen? Sammeln Sie Ideen.
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort                      | Artikel / Plural      | Beispielsatz                                      |
@@ -149,8 +177,7 @@ muss das Geld getrennt von seinem eigenen Geld bei einer Bank anlegen.
 Man bekommt die Kaution am Ende zurück, wenn die Wohnung in Ordnung
 ist. (Paraphrasiert nach Wikipedia, „Mietkaution", CC BY-SA 4.0.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Vokabeln zuordnen.** Was passt zusammen?
 
 1. Warmmiete
@@ -222,8 +249,7 @@ den Wörtern aus dem Kasten und lesen Sie sie laut.
 **Aufgabe 4.** 1. wie hoch · 2. wo · 3. wann · 4. ob · 5. wie groß.
 
 {{< /details >}}
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (Sprechen, Partnerarbeit).** Spielen Sie ein
 Telefongespräch. Person A ist Mietinteressent:in, Person B ist
 Vermieter:in.
@@ -253,48 +279,18 @@ Danach tauschen die Partner:innen die Rollen mit einer neuen Anzeige.
   Ende wiederholt.
 {{< /callout >}}
 
-## Prüfung — GER A2 Sprechen, Teil 3: Gemeinsam etwas planen
+## Prüfung — GER A2 Sprechen, Teil 3: Gemeinsam etwas planen {#exam}
 
-**Aufgabenstellung (Paarprüfung, ca. 3 Minuten).** Sie und Ihr:e
-Partner:in wollen gemeinsam eine Wohnung besichtigen. Planen Sie die
-Besichtigung. Sprechen Sie über die vier Punkte, machen Sie Vorschläge
-und reagieren Sie auf die Vorschläge Ihres Partners / Ihrer Partnerin.
-Einigen Sie sich am Ende.
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit02_wohnung-mieten_exam" >}}).
 
-- **Wann?** (Tag + Uhrzeit)
-- **Wie kommen wir hin?** (Bus / Bahn / Auto / Fahrrad)
-- **Was fragen wir?** (Miete, Nebenkosten, Kaution, Balkon …)
-- **Wer ruft vorher an?**
-
-**Nützliche Redemittel**
-
-- Vorschlagen: *Wir könnten am … um … Uhr gehen. Was meinst du?*
-- Zustimmen: *Ja, das passt gut. / Einverstanden.*
-- Ablehnen + Alternative: *Das geht bei mir leider nicht, weil …
-  Vielleicht lieber am …?*
-
-{{< callout type="info" >}}
-**Punkte-Rubrik (max. 12 Punkte)**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Alle vier Punkte werden besprochen          | 0–3    |
-| Vorschläge machen und begründen (*weil*)    | 0–3    |
-| Auf den Partner reagieren / sich einigen    | 0–3    |
-| Wortschatz & Aussprache (verständlich)      | 0–3    |
-
-**Bestanden:** ab 7 Punkten.
-{{< /callout >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich verstehe die wichtigen Details einer Wohnungsanzeige.
 - [ ] Ich kann drei höfliche Fragen zu einer Wohnung stellen.
 - [ ] Ich kann einen Besichtigungstermin vorschlagen und bestätigen.
 - [ ] Ich kann mit *weil* meine Terminwahl begründen.
 - [ ] Ich kenne die Wörter *Kaltmiete, Warmmiete, Nebenkosten, Kaution*.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten)**
 

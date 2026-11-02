@@ -1,0 +1,1802 @@
+{
+  "static/downloads/a1/unit01_begruessung-und-name_exam.pdf": {
+    "pdf_sha256": "ba4b4fa30e19d407a2f845fe39e3b1559c3099c882e55b7f83b2a499707f4ec9",
+    "png_sha256": "4e5ce48f25076d7e11b5db3fd13e29e65985353586d721a2e3540b5dbba46caa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit01_begruessung-und-name_exam-teacher.pdf": {
+    "pdf_sha256": "359ab8629bfea8e831fdbfc6592163e133a5a333d6d6465713c37b4e9a6c0272",
+    "png_sha256": "9adc32fcc7aae9c479d9b316405b55e2da1aa123a5b578c3da94b6b60b1b0690",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit02_meine-familie_exam.pdf": {
+    "pdf_sha256": "5e4aa1931b75f9ca70f9f726b57ce26b83edeb2d4654034af3284d612fa5b01a",
+    "png_sha256": "f19289ef08f5e387aad1d8fa22277771be7256b4c3e971a6d35edf0d0edc3ef3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit02_meine-familie_exam-teacher.pdf": {
+    "pdf_sha256": "573ddfa8d88c4556d29b29f2568a604d2a1660efbcef7f7ef9b0df1169f06a97",
+    "png_sha256": "f51d0d2407aa145495c6c2688991e6550cacb20bc362264e826040aa59c2dddc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit03_woher-kommst-du_exam.pdf": {
+    "pdf_sha256": "2da59b1144c3026066b59366e5b5aef4289f42a274c211e19cffa47c87d95236",
+    "png_sha256": "1134fc8acb4b33a41cd9888936d17f993eedf58bde669a07505d3a60b27e0315",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit03_woher-kommst-du_exam-teacher.pdf": {
+    "pdf_sha256": "77e8fe5702a37dc404ceedd472a90fd5079a772bc51457f849f93547b99fadb6",
+    "png_sha256": "b41e4d86b4112f42350f96c89ad1959a49225c3b6949185de59a86efaaba9b9b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit04_meine-wohnung_exam.pdf": {
+    "pdf_sha256": "266a44ddb6f4df7b24841d7ce10886875f9f98593ab038b815f6171f93b04e1f",
+    "png_sha256": "0533005009545870c13c60c8d9bc3445d7fe1548f837303e690012a692099cf3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit04_meine-wohnung_exam-teacher.pdf": {
+    "pdf_sha256": "a9c95322d13a7b28bd2db64ec9637f617b94dcf2a11ff7e18b6e8386e6c2b6a6",
+    "png_sha256": "cbb8ea9d4a20a215822b9f96a83d32d167be48d23c5332aeaa3b2341089ba674",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit05_essen-und-trinken_exam.pdf": {
+    "pdf_sha256": "9a1bbe1ef98727ed68eece57666e911c54440531d61da73690a3ef4c122df546",
+    "png_sha256": "f030accce16a537fd5af1e25bc7bdb361c93bfb6b8a9fcf01ee22fc34080b7a0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit05_essen-und-trinken_exam-teacher.pdf": {
+    "pdf_sha256": "ae6c5f10abc006917b1c85fe53d40067276a368b55d6ba1c7bbd9af65a140a14",
+    "png_sha256": "22916f8afbb190238f20eddf2cf44788ca052b07546e8e91089827eb6962181b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit06_einkaufen-und-preise_exam.pdf": {
+    "pdf_sha256": "f01113edf4315fa8b29bc412d2263af66ee292da7f2dbf160889a8c10c962b37",
+    "png_sha256": "4be018e6f4ed0cb70fda941d89c0c710e3df6a000c37c174d83f1e43c1c2f723",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit06_einkaufen-und-preise_exam-teacher.pdf": {
+    "pdf_sha256": "0cf14f52fc3a5ad40a3e82b91da3fc2b4527f31989701e535d1f1cca12087565",
+    "png_sha256": "3f114ab1c08de37da58e0e44c076929e6a73e8000fe54570bf6626c0bb03f139",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit07_uhrzeit-und-wochenplan_exam.pdf": {
+    "pdf_sha256": "5e71c36ce198056e15ac21c03a21a578cc5b74522eac0d8e5abe979816547f9b",
+    "png_sha256": "c367bfe913eb11fac2ec8bf64040b98ae41a4fe778949bf6d608dbb19719fcae",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit07_uhrzeit-und-wochenplan_exam-teacher.pdf": {
+    "pdf_sha256": "5ebe9b6f1876d3d39ab66b93369e2d6a75be74f5b9fb39a182a42958e09fdb81",
+    "png_sha256": "ad58410b77b3731b9af82b5e3c11d94318ae35dc99426165f25120df39b24639",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit08_wetter-und-jahreszeiten_exam.pdf": {
+    "pdf_sha256": "e1075473a908897246ddb91c1646df7834eaca001106bd22354e1b35e0eac597",
+    "png_sha256": "ffbeb2a89e9bb2647eacda75045c2efd5228758753ecddc419ad880863c8af0c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit08_wetter-und-jahreszeiten_exam-teacher.pdf": {
+    "pdf_sha256": "cb8ac750ab03972cdf5402f77a9ba06f842bbcab64fa08700f8af1622d329780",
+    "png_sha256": "c4cd315e2942e5c25ddaa4ba19e91788561ee6697de2b6ec93813b8e3812ae5c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit09_koerper-und-gesundheit_exam.pdf": {
+    "pdf_sha256": "7bea89e1025efd2c875e3286c3664403b4c51e5fae4019c652d64e074c20bd8e",
+    "png_sha256": "715ff84ad1d87d4875d60dbe23f28fa47b0b95f9febc5803877290b9b4a8d42d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit09_koerper-und-gesundheit_exam-teacher.pdf": {
+    "pdf_sha256": "65f9936976cc75725658f5bec40ad6bf0d67e7584a64e282ce448e06e58a4df8",
+    "png_sha256": "9162e908080e4166c7a1a2ddd5f803e9668de1694e8acd23ef771217a2dcbaed",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit10_mein-beruf_exam.pdf": {
+    "pdf_sha256": "d8927643aa9938833169d7a3dc96c95be007c125363d27d71f9818dfcce5f604",
+    "png_sha256": "813a1196100b0ec8227ccee3831d238fa11f8d71df9c47607064b28610b9298c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit10_mein-beruf_exam-teacher.pdf": {
+    "pdf_sha256": "073f970e0b20dcf2f9b4f92eca9a58afe7083cac84a12a3b884ae87911139def",
+    "png_sha256": "2ef8b06dda7ce9f69fcae1451ee805e3c19b7b984ad7b4debf572c521287508a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit11_meine-freizeit_exam.pdf": {
+    "pdf_sha256": "022020e8e4c8e0d663e84e01ec4f7e7243a9b5a4f26117945f1cfda8c85e8260",
+    "png_sha256": "b26492318972803eaec3930a999bf94af4237d64277e02de6d8491bd50cf8893",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit11_meine-freizeit_exam-teacher.pdf": {
+    "pdf_sha256": "e3ade19bf6a46c7339f4f54c3d66153fe6cf10b0e3087e5ff1358c7b23c0bcd9",
+    "png_sha256": "b07073a3ca2255f0e500dcfb9d8672b647c37fc37ce5f47a8f9e3c206d089fba",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit12_reisen-und-unterwegs_exam.pdf": {
+    "pdf_sha256": "110ef6b62083caf64e359bd21463a8139fd210473cd96f42d2ca714c17d2bb9a",
+    "png_sha256": "13e65277c2ecf535abbbbb91c8d5cd6cf4adacbb759adb40ff6f38d2a0fd12c4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a1/unit12_reisen-und-unterwegs_exam-teacher.pdf": {
+    "pdf_sha256": "c111dbb8dfd5a56deccbfdd5e312b8bf78aa073a35a184e66b7601edca47efea",
+    "png_sha256": "c5edef661d6456dd8b86fcb591cb55f5bcf65f5317f480ebf4d61227e3c31d14",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit01_arbeitssuche-und-stellenanzeige_exam.pdf": {
+    "pdf_sha256": "feae193a6406f26d984c299419d0fcfa7efa18ae17a957adc4a523b3c5bc78e9",
+    "png_sha256": "bd6beb359e6b7da22a0560371e388d9c187ab6baad9a0828913f4f59b42efa00",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit01_arbeitssuche-und-stellenanzeige_exam-teacher.pdf": {
+    "pdf_sha256": "43e15109dfe645e4cd6b19fee834b4fdd9eca3fe40c3e22a976a81705492ff3d",
+    "png_sha256": "60f23749ad93d778086f44f5fb4eb14889c7e6bbe54040700b1462e8d9785f1c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit02_wohnung-mieten_exam.pdf": {
+    "pdf_sha256": "1808f583eada6ab065984e1b8c5dd7b7dfa8bcd69c7e321598d7a986eab40767",
+    "png_sha256": "8701e0f615e1a91b3b49a840ae2c3d04fa5babbde218b5a8d44e0eb4449989d1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit02_wohnung-mieten_exam-teacher.pdf": {
+    "pdf_sha256": "ebfd113b2f3caaf714c0ae3a48262cd25e5faf8888c7257f3dac233e2f87ff61",
+    "png_sha256": "426a68e8ba1e2421107267953c18a7b6e9c372dcdfa0f960d7b586972b6c8e9c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit03_beim-arzt_exam.pdf": {
+    "pdf_sha256": "e312bcce42648a8c839ddd285ac3600006a795ab599c29471bfe652b174ddc90",
+    "png_sha256": "c62c302fec19559cc56a789253bb3b994f09cb228117da1e191f86d18ab89ae6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit03_beim-arzt_exam-teacher.pdf": {
+    "pdf_sha256": "4851cd437a0d36e1a45d83c0b63a6caee706a031970dfacabdd1ba54870b9931",
+    "png_sha256": "c32125571dfa3bfdbb1ac6e441132084a3c09052ad3b925fd420dd312209c2e0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit04_im-amt_exam.pdf": {
+    "pdf_sha256": "624bcd841b566bc69acd83d3a4d4d5fa5ef1dc91b5ddbcd3c8426ca79ecb48cc",
+    "png_sha256": "7348b4c59d4803be657f82e15bb3d57f22ac2075c5179f2721185d0f2cd85504",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit04_im-amt_exam-teacher.pdf": {
+    "pdf_sha256": "32d14910927c0fab97e4c58f019a773dfdd425f1abab8fc07b025d71a236d867",
+    "png_sha256": "e8d0795cd12f54f3bba621538416f3506a9cdce9b23ee7387634e6cc37872b1c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit05_reiseplanung_exam.pdf": {
+    "pdf_sha256": "75a7b63f6be7f747df9c869e2edfc83f82ccd9aaabd5a4a3bc2d04c2d6730176",
+    "png_sha256": "719fcdc2bb133bc82294af63f1c7adede3ac43b5ffa497f481cfd5a3f2cc014c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit05_reiseplanung_exam-teacher.pdf": {
+    "pdf_sha256": "7c006af63f91a03def974c1c3876efec056d56f5994546885354756e3b4701c7",
+    "png_sha256": "9e921b9d119d42a41898e08dc4c2e5591d0b7b6eb10e898ae0e6f232c8936ae7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit06_hobbys-und-vereine_exam.pdf": {
+    "pdf_sha256": "96f0d358a7121770b4857d4da473acb59ca4a702372282258b53d3f3c7ceec97",
+    "png_sha256": "077fce20c1830093af560f81bb0b91601b308c299f4aeea7530457e807644773",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit06_hobbys-und-vereine_exam-teacher.pdf": {
+    "pdf_sha256": "639880ac65d7706247dfb46ba4ea3f9a66176f578f9c7d92f70bce32eaf6a9b1",
+    "png_sha256": "741da3332cf0420383b76450e2df1bc04b46d4ae5f51b069e9bd44fe863a8c0b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit07_feste-und-traditionen_exam.pdf": {
+    "pdf_sha256": "cf8989925082ee22344dd6775160e5aeedf82670e1317baa4627542bef717b7f",
+    "png_sha256": "9916e11798a5822b3349a97a17ec61cb52bef6a49bc875d4acb3f28bffc95300",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit07_feste-und-traditionen_exam-teacher.pdf": {
+    "pdf_sha256": "6594674a93380f8e128ef40b077184b9a71ae0cda3f504e2669788a90a5eb318",
+    "png_sha256": "e842209cfc168a8fb0cc2e237b23eab5b3eab5bca596636dfdf58b62e6b02543",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit08_gestern-und-vergangenheit_exam.pdf": {
+    "pdf_sha256": "5ece5c588ef30e77535c6758b2f670dd2945c7594f91814113b28bd8df56bd7d",
+    "png_sha256": "4ae14bbd9f7f4fd078c828eb54869c9b2e2bd51e2fd74b904ce1ec587ad690df",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit08_gestern-und-vergangenheit_exam-teacher.pdf": {
+    "pdf_sha256": "b734aaf368efd870e0010779d8946cfcd3cc2e536505d411cb677af91a010865",
+    "png_sha256": "8d53b7d8fd24d0f4df67a74e37a0e56a02236f70d28c34f5f7fa2b544d82c5be",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit09_plaene-und-zukunft_exam.pdf": {
+    "pdf_sha256": "bd5644baae4330519f416688948888a1a8c1097d8a5d1abf769327533a7dc404",
+    "png_sha256": "d1947db7c9b1fde48892a8bc15b73d1dd7a4359e79db729e426418285e46710d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit09_plaene-und-zukunft_exam-teacher.pdf": {
+    "pdf_sha256": "85c95f15560c03964cffb636aaa743a3ebff659501b3aa701745711011905992",
+    "png_sha256": "2f2c662dace372619dea85aaa41254f34d3c57f04261e37f444bf7479444d52f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit10_medien-im-alltag_exam.pdf": {
+    "pdf_sha256": "8eb5ab23a070add908971a4b3798babeff3cefb8e23836ad338cadb9235041b3",
+    "png_sha256": "80e347d4748e9903ac539e16ada8f635d538a6e6c64e3ee6f2ad21bf14396ab4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit10_medien-im-alltag_exam-teacher.pdf": {
+    "pdf_sha256": "6bc94131dd5faaf330e9fcf6663f79fb1a7bceee925f0796612185dbd906308c",
+    "png_sha256": "c217c1414cdb931d4b5011eac4bb8310bab4d01940956ded6797679816add9e1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit11_umwelt-und-alltag_exam.pdf": {
+    "pdf_sha256": "e4b21c76381b5e3ed63e22e4211f9c10ce32efe349daeeba9d894e61d5de571c",
+    "png_sha256": "e35a4472d89a4f30f7af640222f913c966a9cdf9e8125a67345a819cf13b2c95",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit11_umwelt-und-alltag_exam-teacher.pdf": {
+    "pdf_sha256": "322dd6404d60e5cb22b987808ef0f9b9eeb315a4fecfc19f232b33bbca95f9e9",
+    "png_sha256": "867341733aa1398837bc2684fd1eff592b55ade847f6f76c46ee5b8e2a97756a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit12_freundschaft-und-familiengeschichte_exam.pdf": {
+    "pdf_sha256": "cfc911b0b1d2cb05fac30052b3c38ee04443e3ec77f8d0e21e40f62aa902c1e6",
+    "png_sha256": "3c541230bf7ab34f345d0ba9eb7cfb4954630d435ac0c941475f8d32f93d409d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/a2/unit12_freundschaft-und-familiengeschichte_exam-teacher.pdf": {
+    "pdf_sha256": "dc57bab6f8ff0dd7634c0ab9cfba5c21839724f64442eb8662a8df50578b572f",
+    "png_sha256": "f93bf8d1cfcc6120dde76ca5b24994c9bf505480ef5b4888de2840721a4620ff",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit01_neuanfang-in-basel_exam.pdf": {
+    "pdf_sha256": "67949336afab042f3eec38fe9808c64e8e24961345a5425c278af736cd4114fa",
+    "png_sha256": "450e028af35e5c42a991a3b6e3e9c645be20a9fd2bc15582ea9ddb4b462beec6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit01_neuanfang-in-basel_exam-teacher.pdf": {
+    "pdf_sha256": "43cb5b226f887f4032074b7c2ca4bbad7d03c3592dcf523a69338bca16e8f5ad",
+    "png_sha256": "53e2e234bc5767862dbb1d7ebdac81b06c5e3377c025ca1ce5ed18bc74d46810",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit02_der-bewerbungsweg_exam.pdf": {
+    "pdf_sha256": "d8a373ca003ee0ab6818df6cd820f52bcbea3b474212e65e4b032d369087ae8a",
+    "png_sha256": "fa237385fd0ead114a57bbf576c07cdeb626a8c93ea61bc17ba4e59e168313dc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit02_der-bewerbungsweg_exam-teacher.pdf": {
+    "pdf_sha256": "d80e3603777574b3a78a5845b976f1e2bede9a964a019b8e404c1df10b1eef10",
+    "png_sha256": "be335a9eba97cf96be472498f9384ee6d13415e928e39af9d1d81ea34cc1bb42",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit03_weiterbildung-und-studium_exam.pdf": {
+    "pdf_sha256": "9babefdedd048d3d4373d7dc2a8edaa7ca9cda95f17454e65a711e4c1f39afbf",
+    "png_sha256": "c062a02d93b38aa6f81b1a111a93d9222f3ca086e8a8cee05bb651c401d1612e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit03_weiterbildung-und-studium_exam-teacher.pdf": {
+    "pdf_sha256": "474d59b349beb5b5e5bd35d700d422a90043757a5a6904bfcc37c2d254162c6c",
+    "png_sha256": "27ddc1cbfc7b2c991940678b90503f354ad119c8e7c6481abaa7771dd21285f7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit04_gesundheitssystem-dach_exam.pdf": {
+    "pdf_sha256": "928c9694e25d6cf247f045eb5620c74af4a4b5758821320cf416959bb69c8cdb",
+    "png_sha256": "f2944bf5db1a000320e89e6301dd69ccaf56f7209f7831120fc719ad8facf965",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit04_gesundheitssystem-dach_exam-teacher.pdf": {
+    "pdf_sha256": "6ef6be827cbbfcb8ff6abf15c4176b57ae3c49d725c5f05b25cff1b6d5c10e8f",
+    "png_sha256": "ac452b623b9c6ce58e363399f7d00c04d7a767296fe61e665c10c52e9cd4233f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit05_digitale-kommunikation_exam.pdf": {
+    "pdf_sha256": "c159b0b6dbe5509098f1dae028046d6cdc283700681df1206d268b669c6768df",
+    "png_sha256": "399d555eaf4c440c7ede3bf26ce78df6cfe93318cd66c5d770529fd673feb821",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit05_digitale-kommunikation_exam-teacher.pdf": {
+    "pdf_sha256": "53972aed0713723d3c79229cb33420a9fccbf4157516bf4973e994364d519629",
+    "png_sha256": "19c209b6fb13c597edfdc616dbbbb94257c19a28e62125d82255f1b06bf040f1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit06_umwelt-und-mobilitaet_exam.pdf": {
+    "pdf_sha256": "9fb8db43302344cd95898a42e2923f71da45c87c90c53781899af46ac4a8edf6",
+    "png_sha256": "cf5f0507cec7ac273b85e9b68c6b803bd9a72831351282e000f0cee9d42766f6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit06_umwelt-und-mobilitaet_exam-teacher.pdf": {
+    "pdf_sha256": "f6dd108ac5d0a8a755c629dd91a1b057854e6ff0df0613205073a7eb37f2a4c2",
+    "png_sha256": "9f1c1bdc234dd78741b69f854bc1629fea43d2c13a9cb2d49c3764c19bc2ed1b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit07_interkulturelle-begegnung_exam.pdf": {
+    "pdf_sha256": "72d27a480b2ca4756d0b0effdfb73879d824383f302f6055604f11a7c6d598b9",
+    "png_sha256": "400187e6d7b11ac95a74cf634eee75ac2dec8bf0eca0cc16d06d6b1b89525518",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit07_interkulturelle-begegnung_exam-teacher.pdf": {
+    "pdf_sha256": "16f562c6bfd1e7498c31f2442eb7d93db3f157af68d8141391056a52a64f182f",
+    "png_sha256": "659d429b6e459755dc60ff9a984693f8ed354ee2fe8a5da09d22cdcf62f1dc77",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit08_stadt-und-land_exam.pdf": {
+    "pdf_sha256": "6d0f0919633a8a81c35d12a24e866dd369afcc10ef135663ee5967e94435bcc6",
+    "png_sha256": "05f8db8192d738815b508b26062578ee645ad918d534808b68bf685dfa8179ba",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit08_stadt-und-land_exam-teacher.pdf": {
+    "pdf_sha256": "b201b94acc963525b8c48462e59b6b3388e1550b82a70ceaea8eec35046273ac",
+    "png_sha256": "f82904f286875c10c1e0a4ad397ffd5c19fde329fd2cf3fecea2a33cfe600f9a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit09_konsum-und-verbraucherschutz_exam.pdf": {
+    "pdf_sha256": "692e35152427779b9d23730b0140e1f1499d86c7987eda50c2790b6074187375",
+    "png_sha256": "742583ae43d44f07e85bc0cdfbeed6cae39bb79fe722c1d1b1f44a4036b05bd7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit09_konsum-und-verbraucherschutz_exam-teacher.pdf": {
+    "pdf_sha256": "a563561591bec71de87a919b175bc0050827334b5993dccd0339f02c43154a4d",
+    "png_sha256": "713f6e8fb05469cf96de278873a1524004f26dd148480b2f917447e975f1cc1b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit10_politik-und-teilhabe_exam.pdf": {
+    "pdf_sha256": "acdfdfff34781084d09c61cfcde440c3eab7b4072b2d8b68a5ffd4f0813c1a71",
+    "png_sha256": "f17f64e12830be79a3e74fb0576e7b9d3537b0a933eba89c6d298a5ae9a491db",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit10_politik-und-teilhabe_exam-teacher.pdf": {
+    "pdf_sha256": "2b2429bc9d54a0a43ff4d8983795006d6c88113a9d512e07109bc559e6c5f8bb",
+    "png_sha256": "75be2df2f9092adda15500643e9b7652c593cd5122b1739f94e5b1ced246caf2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit11_persoenliche-beziehungen_exam.pdf": {
+    "pdf_sha256": "bcb1037ef8006f546a91d5f0b57a1a7c4ccee1c8d90bae882c8ead42c89e1988",
+    "png_sha256": "cde4a155f85586a6d17f7301319ab1786c5bdc28761bb953e1b314e86251444f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit11_persoenliche-beziehungen_exam-teacher.pdf": {
+    "pdf_sha256": "362596fced8657e62fb29cff2a9de53b8e1f898755f00ffbe81feb8c63463566",
+    "png_sha256": "23fca15ee6fc25e88036e010c6b0f469a1aa04c24356de175afe7f6dd995737c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit12_zukunftsvisionen_exam.pdf": {
+    "pdf_sha256": "52b0ad83741b6777f8643c605b05f986a33c3e1075ac32006e74844f06cbfea0",
+    "png_sha256": "bc8dbd51de61e79fd97b12ace823093768bc5c7fef5d8f942454bcae716ce353",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b1/unit12_zukunftsvisionen_exam-teacher.pdf": {
+    "pdf_sha256": "73207eb4392855d9ae75c9d248ebbd6e266798b1226a5e053780fc7227b61e6a",
+    "png_sha256": "bb6d05e742b1664cf1106e690071c25cfeecab1f4f5bf8c07cbb1fb68a17e071",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit01_medienlandschaft-heute_exam.pdf": {
+    "pdf_sha256": "b220726f66ece0181fa8687247abca089c4b0dc5c4ea582822c6037a131eb167",
+    "png_sha256": "9ffbe3fda5725a12d6cbfde00e695a6dc054a302e3b6dee23ed6d309db5f1f21",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit01_medienlandschaft-heute_exam-teacher.pdf": {
+    "pdf_sha256": "2912eee1b4f9aa5fcc3139543081ceb4b09c9eb0d9065c50d63bc15c334bfba3",
+    "png_sha256": "8f697a0163d89e0382599e735f9acd07f89fa181855e6d6dda3ad2dfc6914cda",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit02_wissenschaft-kommunizieren_exam.pdf": {
+    "pdf_sha256": "da1d489b75f1081e27b19fc4b1e17bd53e66c9b833b5b4161c0d3b711e9a3d43",
+    "png_sha256": "84b141e7620abf229666203e46645f86b6bee20ee1f2eabf55945eb6ff3e2647",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit02_wissenschaft-kommunizieren_exam-teacher.pdf": {
+    "pdf_sha256": "cb0beeac2bb3343325dd30eaa6009ffd71d2cdd6d2939fba631cf39e6d0dc332",
+    "png_sha256": "70c7158bb5e441d64a29fdc2bcc96bd65accdda860ea9f2bde04b474338f5d21",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit03_gesellschaftliche-debatten_exam.pdf": {
+    "pdf_sha256": "ab1d7babff7fcba813744f81f9632116bd9a785becfa0245458433ffa765f738",
+    "png_sha256": "dcb7359502920a76c4eda08ae6bd35b915f9ff990577b06e82426bd8ff5436a3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit03_gesellschaftliche-debatten_exam-teacher.pdf": {
+    "pdf_sha256": "2e50bc242556a725a2732cc33b7d348d6f078ef7b409ec8506635ab4b2dc7488",
+    "png_sha256": "3d1563a5eae736deaffc7d340615b25970951734320f65c24e7b7cbfaa432d27",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit04_arbeitswelt-im-wandel_exam.pdf": {
+    "pdf_sha256": "baea4d1768a26c8b06ec6422256458836e3c78fd25f516f57a45f4ddbef692f7",
+    "png_sha256": "36981c2f45e33f1f1152e57f866e58ec24868908162f1762b3f20e2056f190e0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit04_arbeitswelt-im-wandel_exam-teacher.pdf": {
+    "pdf_sha256": "d924bb7ba978e26a0edefd6d34a8b8b3934cbc9d2a4b34fa81dc3250bf6b3a84",
+    "png_sha256": "a2aeb60f5bec612449641a71d251e3dd44bccf173a1c8882f7d16259197e2a2a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit05_kunst-und-kultur_exam.pdf": {
+    "pdf_sha256": "fcba4d6aa37474d6af776bae9ab1b33f835fdbf1e998e59aba1e5a495cc16508",
+    "png_sha256": "8d1cffd726dfeafb9fd4bfcfcee916a205aa7f3f017a84f9111a031e90803219",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit05_kunst-und-kultur_exam-teacher.pdf": {
+    "pdf_sha256": "80c740ebfad53a3202ac4eefd954ac25bde4b3544ef3669e9449ab995d7ae597",
+    "png_sha256": "0aeb0da08cf959b0bf4253a00c306b8900833a91016b7c2e3fb35739d9f29bb2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit06_migrationsdiskurs_exam.pdf": {
+    "pdf_sha256": "32fe591edd38ce7dbfe89d7bf456880fc6e74beca7f5ed69cd937b90e36b4c7c",
+    "png_sha256": "100f03e1e18c7766f25fdc03b7adc218b2293b3a444d8eee3855d5234525a4a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit06_migrationsdiskurs_exam-teacher.pdf": {
+    "pdf_sha256": "6e10de4d6357973ec1cea9b74f81e845d1894d51ef3855d8a26062a5694e63f9",
+    "png_sha256": "a6ac43e3805abf3ef38df5dbc1d2a5d749985a4eb38212e61cb744cae2e9830d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit07_gesundheitspolitik_exam.pdf": {
+    "pdf_sha256": "99a40de843257739cb0d2d74857d0aaf32f6eb371fa16835f3b00d99f63a1da7",
+    "png_sha256": "d1b0b981d96ca2bdcfdbd57dcb2bfdb6267dd9d850d34092508a80d10b3f7cb9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit07_gesundheitspolitik_exam-teacher.pdf": {
+    "pdf_sha256": "298871d3fb2d7e8cf754e9251209a3e2cc5b8210cf4baf3c9dde1f87565e5d96",
+    "png_sha256": "cc57396913222e56e50fbec64b93c00f06a35b158a03d203809bb7519ba40615",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit08_umweltpolitik_exam.pdf": {
+    "pdf_sha256": "398e730119533e5a2c55dac664fbe428170ab3fadfc4a3bab6b9d86ba0071953",
+    "png_sha256": "2c3b4e31d98a8c6522eb73b2dc5eb2f52510aa7c5f9f21ec1da09f7f08c1cb82",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit08_umweltpolitik_exam-teacher.pdf": {
+    "pdf_sha256": "96a6af513ed663de1fe6c02d5af926b40c1ee9ccc117a4eb7990017ac6e5d5c8",
+    "png_sha256": "536197300bfe0162b62d4de1751a7c88f6b3245b1bc84038ce839b4e67fcbbe2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit09_bildungsdebatten_exam.pdf": {
+    "pdf_sha256": "9b9caeeaaf15ddd8c0a7fa08c08deca6b63e6933ba14dd04815c98b2836d29ff",
+    "png_sha256": "ef42466cbe08a4a131ea0ff82fc89c0ebf62f0de763fe784a2da9eed406fa9f7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit09_bildungsdebatten_exam-teacher.pdf": {
+    "pdf_sha256": "b1eed4b18f121cb3567961218fec91c82f028e2178a75e0a6b0266b6bef6b155",
+    "png_sha256": "dbba086c6512b5a07f9fb8264fb292ef9e40ccaf5233f3ae013c1e9f392c70cf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit10_ethik-digitaler-technologien_exam.pdf": {
+    "pdf_sha256": "7941b3bf09cf6a38224b864e75d91a3956db3818a57cacb084f56a7024570b44",
+    "png_sha256": "a8c540edb26a8a7c2a73d7e4be1ad06ba0cc34c0528e50bdfb7708c7c83f6630",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit10_ethik-digitaler-technologien_exam-teacher.pdf": {
+    "pdf_sha256": "0d3713767ad3de5b7bb78cfd455d8636542fee14524d8d3ebd8b3e7c2ae4424e",
+    "png_sha256": "42400afc5117be5616de8b0a1064569b74c2bf752cd509e5b082402d4d1317a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit11_oekonomie-fuer-laien_exam.pdf": {
+    "pdf_sha256": "b3c965e756b7b0b02e47346566778d7d95d6ae64140a9c9e9ff68f9a91bf198a",
+    "png_sha256": "5c243c8546de4ef8f7070afcbd017010248c3b78128e383d103582066e4ff183",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit11_oekonomie-fuer-laien_exam-teacher.pdf": {
+    "pdf_sha256": "60b0089db61310e16c642148bd50161ddb62a607633b6a8a3d4d79393e0677d5",
+    "png_sha256": "889ad5d0d9f6e7574710ee3685df68153dfa0ccded9ce343bc3ffd4a539abc8d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit12_literarische-perspektiven_exam.pdf": {
+    "pdf_sha256": "dd5e28406ddc98d779bd1f5f050812c5b80d2956bff2a02fb7233fafc345b6a9",
+    "png_sha256": "0e0b71a3378fa9a112db64166f7e282bd9366431b3a462d5318562443018925d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/b2/unit12_literarische-perspektiven_exam-teacher.pdf": {
+    "pdf_sha256": "045bb9e8864d01d48a2223b2830a24f94359b0317bd3879f4d1188656c91530d",
+    "png_sha256": "cfe8f18b2d865160b962364d2644b3cf93358f8798ad4462f01bafcff4b8264d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit01_literarisches-argumentieren_exam.pdf": {
+    "pdf_sha256": "f57243ff49b4bd97616dfa9e714ebc31a699b81eaac3b881b97f5b2426ea6f62",
+    "png_sha256": "e5c55927da155cc4d9422a00943879533c65faa99ed3ed9485bf064a7438b337",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit01_literarisches-argumentieren_exam-teacher.pdf": {
+    "pdf_sha256": "db6fa54c3e5d1a37fe56dbe6f81738d3388aa47e50ad72593a8a926e85cc0ae3",
+    "png_sha256": "f544c64bf88e59ec4890e4d0587c8d28e2268a90e5eb6782fddabc969fd16a1d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit02_politische-diskursanalyse_exam.pdf": {
+    "pdf_sha256": "bdc347f6fbe4a097a8823ecc3b08b8f28c534e5024d9c248ba72d243917c2af3",
+    "png_sha256": "ea496777a00aa3bf5737013213903fda6f02b3e3e12bda3ed456b14a3693cf5b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit02_politische-diskursanalyse_exam-teacher.pdf": {
+    "pdf_sha256": "d7fb18090f26768fd833afa0ece9e2fd2c8c6237397b225a99b19700b5d3cbdc",
+    "png_sha256": "fb2534aaf7badbf41a2e00f986b11326feee5bf7c6fb05b4e89ce3a8da40e1d6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit03_wissenschaftstheorie_exam.pdf": {
+    "pdf_sha256": "68e88edaa1556a546cafd1a8edba4e616b6f6e83d5edde12a7ecc87c1c357a0e",
+    "png_sha256": "e66c0304e9a9d2755e702205b3848203206cc78e69ef4532e18b791a49fd5378",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit03_wissenschaftstheorie_exam-teacher.pdf": {
+    "pdf_sha256": "a94ac3a7a1070756c329a83255f11f5a7201d4930b92f91f3483ff8f152195ad",
+    "png_sha256": "bfc5464a6c3dbea67edeb8e562cbb95716aeb552cb34dccbf2d149dd09b75886",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit04_aesthetik-und-urteil_exam.pdf": {
+    "pdf_sha256": "87577b9f5a177bc5048a6a5e6d73bbd87bab04fd23b8109a79422b5ec0da3d48",
+    "png_sha256": "9a565185c23794a2ca3a6b7c40249137e34abbeb9db9d4031096c13b53015620",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit04_aesthetik-und-urteil_exam-teacher.pdf": {
+    "pdf_sha256": "4e89e45764b28f3ce28aecc6bb7353b129009292fec136b0ccd6251781e86582",
+    "png_sha256": "8d8d7c6bf2fad0fe54415568b4704d054eace5587b27372b8a84121519835115",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit05_identitaet-und-sprache_exam.pdf": {
+    "pdf_sha256": "61e723c90f970146cc86c3bd7db3c3d7727528b50f6b80266e3329f8da6575ca",
+    "png_sha256": "1a167c4551b94178d3486762f8b262665b849acb1784068110328ad23b0b4175",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit05_identitaet-und-sprache_exam-teacher.pdf": {
+    "pdf_sha256": "62a7e54393d0689f4612fc65eee1ecc96428a7185922c8a766ab116bfd4d919a",
+    "png_sha256": "19e6929ad72f7f208942698e20627f8a1d56980c9e3ba334831b2e27378141ff",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit06_postkoloniale-perspektiven_exam.pdf": {
+    "pdf_sha256": "f1739c8ebc9f13a675d88fa20474f01856a15946e5b38c8f4474ef3ea04278b6",
+    "png_sha256": "4763602facbb157e1a47d147aa4a5e5ba22c0ee298e81524c9dad12545cceccd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit06_postkoloniale-perspektiven_exam-teacher.pdf": {
+    "pdf_sha256": "7cbbffba0a5c47fdec688210c39eb277298108c17687723ff309f39e5b47eba9",
+    "png_sha256": "6c8442ec3544efc1d9872dff65725acf0a14933f2b24501249d3dc7b7981c79f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit07_historiografie_exam.pdf": {
+    "pdf_sha256": "7a14df846741c212c379aa5490ff63e914099731ec892a9765d8731c102c9d55",
+    "png_sha256": "a8048752abdff4ec177da70559e9661aa33f71353900e10bbfbc4f697acada0b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit07_historiografie_exam-teacher.pdf": {
+    "pdf_sha256": "fc3dbb70d8946cc8e482307b6fe54e9855cc97b065368fb7e114a08916e4677f",
+    "png_sha256": "899f11c24327ffce8fe80318ee494fe76d7e2fcf036c0bc796efeb6b180b09d8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit08_philosophie-fuer-informierte-laien_exam.pdf": {
+    "pdf_sha256": "b25ed3b7113d780d5ceafe4e2a93cec7a0f9d3b9daab28c0da25aa5c2d20a415",
+    "png_sha256": "2a14a13129c6ae4dd7567b21fff70640f77c66351028397665121bab12459c39",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit08_philosophie-fuer-informierte-laien_exam-teacher.pdf": {
+    "pdf_sha256": "f0910df7129e3b64d9e6cf041c5399cc4e4dabde0c05beb50a467dc6cb91f503",
+    "png_sha256": "0ab9fedc62bd0b0c0b02aef24652dfddb7f62e13fa3b048d59ab626bf839c78b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit09_fachsprachen-wirtschaft-medizin-recht_exam.pdf": {
+    "pdf_sha256": "a0acb7f4f4973db46eb0a21803afbb125601710b72c3dbe034c8121c92578938",
+    "png_sha256": "2130deb46aa624885e17abf8d12e2931e184aaee2ad1d2c392acfa1939f1ed32",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit09_fachsprachen-wirtschaft-medizin-recht_exam-teacher.pdf": {
+    "pdf_sha256": "007e31324ba5a167fdede4d84863edf65f2b17636ade3f01a036353c922d66d4",
+    "png_sha256": "8f6f2f622e813a09c33555d4f5048995c71a944ca51beaf57201729ab55d2e27",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit10_stilistik-und-rhetorik_exam.pdf": {
+    "pdf_sha256": "83342c7c946827a52c7afe265859cba5856292dd6bdb4976bd5673b405e7684b",
+    "png_sha256": "265262cb0e66f853b80c2869dbe8d3de5fbc157b5f02b4c1017bc5fcdef1a264",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit10_stilistik-und-rhetorik_exam-teacher.pdf": {
+    "pdf_sha256": "81526e9e57e1e513135ee325f0d2ff8b8a1a6b69a8fa101ef99d36c979761850",
+    "png_sha256": "572108dd0194e6ebd8b25d2b5827a6660ab20f6652c51cd97bfc1f0578e9b015",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit11_literarische-moderne_exam.pdf": {
+    "pdf_sha256": "eb10113b78be9744355b97b4b79cfc913c6de6fe1e0569e0105d4f6761a70981",
+    "png_sha256": "8cf9da8039b3306c57c292cb00084a1319df085bfb3ede398e26214c0bcc3c95",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit11_literarische-moderne_exam-teacher.pdf": {
+    "pdf_sha256": "52896da1d56405476b23c579d0bbe627f328e8c713be2db43ce4f1669ce8d2d1",
+    "png_sha256": "03a5b2d2b5eda1f24c69856d934dfa340f7ca86a78a8334ff90ff05b7188b3d3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit12_gegenwartsliteratur_exam.pdf": {
+    "pdf_sha256": "61883013504da01e65ab46fed119224fda6b9fbeaa1090bcfb920bf7e06a4b26",
+    "png_sha256": "ae080f60d9a6a9950e5046980fb8153d535bb75d98bcd2f3b013bba8066204f0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/downloads/c1/unit12_gegenwartsliteratur_exam-teacher.pdf": {
+    "pdf_sha256": "942d263937b80122ae6cbe50a424bb15cee96737ac656a91eba028feeb4f4d2c",
+    "png_sha256": "be69c1432c99d779312cfad788f2c18c4ed3b12b4defbde477b105d202749f32",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit01_begruessung-und-name.pdf": {
+    "pdf_sha256": "56adefd2eecedcf9c5faaed0be2e91fd6d0b4d8dc83afc4579c7f6ceb7f36f98",
+    "png_sha256": "a42cc819629c8152e87ecffa7288c4db43bc09cb5e6db127929f1adb0558e230",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_begruessung-und-name.pdf": {
+    "pdf_sha256": "0080217327976c9376344b9b3da87bb7914ea90e5ff754eed1e98dcb60456491",
+    "png_sha256": "2109a35645342ba65b65933e7160cfd413937615f8a0bf9ea3a494ca4595bf57",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_begruessung-und-name-teacher.pdf": {
+    "pdf_sha256": "2e5e1172e8858337e0a3f52412f73c3a18093319b4dcf8187c5a0e36473159d6",
+    "png_sha256": "80393a832a220bd8817d25727d5118be4d0751c57622f5bcce0442e19ed993e6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit02_meine-familie.pdf": {
+    "pdf_sha256": "34e9ecd6b1bd73d108c7ab2e33f3bd12964801720029535fde86ac7e2b53daa3",
+    "png_sha256": "07f090b67df2688483acb542d8d3b5ed61cf346463bc1a741daab512e26694d5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_meine-familie.pdf": {
+    "pdf_sha256": "c67086aec65f9226e16c757c9f676dac55513e0ffe805e6faf096b52666e9b0a",
+    "png_sha256": "b7ef57453753fd4e156deeadfbd5bad9f17c79b747c31c525876b4dbe2fabe8d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_meine-familie-teacher.pdf": {
+    "pdf_sha256": "13ee10108ccc2a8020e71050378bcadf86422a9f2bec049ed71da1611d643a00",
+    "png_sha256": "3544349cd33bfaa5b35382b83a9feafc96bf8d71ec4c7e290fd249f53233ca46",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit03_woher-kommst-du.pdf": {
+    "pdf_sha256": "2e6a5f717dc991acf0ce85cf39e17e88a170bc82715d736fbd72e6b1d9a8f69f",
+    "png_sha256": "715a40d0c33b7bdec1d44a920f37518da611909453311b57ab83efb771b9e218",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_woher-kommst-du.pdf": {
+    "pdf_sha256": "692a08b6d653cc1056211c11ee2265c5a5d8abb2c171c601bed0c99f6977f819",
+    "png_sha256": "4fdc244a0121909722e8da24fb8b81b30282fd45c3b72ab5a6d35a29c79d00d2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_woher-kommst-du-teacher.pdf": {
+    "pdf_sha256": "dea1869c298d00063ff060659c8a45f65747ba5fd50fc894dfcb0f4102a928db",
+    "png_sha256": "62b4873c2f104d87d41dfe46547c83ffba5a3ea01149f22e20038a7c120bd1e6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit04_meine-wohnung.pdf": {
+    "pdf_sha256": "f3dcca8e4029d5ece0d1c5e115448035c3a49c41f97e72b7a0aa158539965da0",
+    "png_sha256": "7fa0cab07396fce80335665737b4a6d41b4f5a1bc1034890cbd1d58b154a8b80",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_meine-wohnung.pdf": {
+    "pdf_sha256": "ef4c0c7cde11592ee69da9224cd9edab0f8c6574fdd2270ebb1188cfc0dcfc7a",
+    "png_sha256": "adb76a2155abdafdeb521df279fbd219e9a050d6de7d7edf17e1692cae143e00",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_meine-wohnung-teacher.pdf": {
+    "pdf_sha256": "453e6b8bc10cd1d6f9da66691aae23ed685d6735e05f8bf0aa16870ba7800603",
+    "png_sha256": "2e4f6371b7c06623787b908ab8da610279d361d6c5d2d5b0a38d0abd5b3b8df8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit05_essen-und-trinken.pdf": {
+    "pdf_sha256": "1328d95614c2edc80afdf158ba3ee592f4ba45f79c8da1492ef9232307e91937",
+    "png_sha256": "ce1141c982e9c9a783cf021db3a8a937dff86ff75ddd9c0e658afb79ffb7f173",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_essen-und-trinken.pdf": {
+    "pdf_sha256": "eafa1d7db4d6cfbe238400ca72baff8748b032681595d8a89afde264a3d9b8e1",
+    "png_sha256": "8f512fc88547105333625ca6a7b16e05d07b035f2113c1a94f02c218ad319ba0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_essen-und-trinken-teacher.pdf": {
+    "pdf_sha256": "0a8a67f9ef7e14233a7a5c8d5202ae22e76461ea4598736c28a8dc0f143b0e2b",
+    "png_sha256": "9054a8215884c7e83d9cc98ef3196863a7399d8386c4aab2264ebf7b381da77b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit06_einkaufen-und-preise.pdf": {
+    "pdf_sha256": "ae45914de88b1df0f710c35b848dcd0af7b38bb0f91f50a63853b8d8edc59f8d",
+    "png_sha256": "97b4975812a073220bdd122bce912fe941d7ec4301bee5cbfb85a053cd53330e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_einkaufen-und-preise.pdf": {
+    "pdf_sha256": "f4c1102ae19263b932dcf763e7503d54ea41b2126747867d2ed25d210fe59cf5",
+    "png_sha256": "d0003c92e4bfdcc5693aa931c487004289503ebbd0755f7bfea3beef5e1c4f74",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_einkaufen-und-preise-teacher.pdf": {
+    "pdf_sha256": "9172b4fcdbaf1fe98c826328ed5fc259f80ef1bdb57227a9af56c4f21b390161",
+    "png_sha256": "62d5dab1ec768046e17a0a4fdf899204fd7c7e78261f59cc75cad25a7a36cbeb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit07_uhrzeit-und-wochenplan.pdf": {
+    "pdf_sha256": "86177766a7fff81f94104fe7faa59194c1f69c023706f21a9fb9eb2c958ab108",
+    "png_sha256": "30577329c9d2d7c736883f2cfe227de8b8a40b1674cc194a37471c2a52c9e132",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf": {
+    "pdf_sha256": "3a54b4ac9525144e0a21e6395b48704a148ae42f54fab4c66b99a33b28a0c3dd",
+    "png_sha256": "da71cb1164ba42e3391f11f682eb9ad7a83b236a4b338235cca6b48f8c790faf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_uhrzeit-und-wochenplan-teacher.pdf": {
+    "pdf_sha256": "d47d290a812ffd4bf3e22d5d40388af5b59ed35e43ed95a3dea7094137bf75d9",
+    "png_sha256": "924c75f83f7c79c2582b94c94a5eca38a6ddf9dc9818f48a7c870ae7fae4d7ee",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit08_wetter-und-jahreszeiten.pdf": {
+    "pdf_sha256": "e65a9d3258dbd89fe73bcb28ff70831dced0cfdb0c0322cd5e35d8af2835d1cc",
+    "png_sha256": "95f23384a9127d3e9ab19044c8e78d6415ca7aaac2b919e548cb79bf74bd1796",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_wetter-und-jahreszeiten.pdf": {
+    "pdf_sha256": "c30bb78a38a34194d98bedf9f81ce2c93b5feb39ce2082c58b5b73224893b3b5",
+    "png_sha256": "1e0159b55b70577b7e92534ba57023d8a285e26e49d03d8da0171f434e440430",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_wetter-und-jahreszeiten-teacher.pdf": {
+    "pdf_sha256": "8bddeacc9cdd21ff24446b8227260e28cf83d7d019955305582b72f7a7640679",
+    "png_sha256": "017d60cd27ce31c1e6b7d32c05c58f9efc30f4b8ab744371cfdbf83423ed2fb7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit09_koerper-und-gesundheit.pdf": {
+    "pdf_sha256": "4474bddf324cee6735508623096a40a7401271928bcbbfa21819c7411bdc6e38",
+    "png_sha256": "8ef542d801e41763dc72548cf2f34c1ca0738e0507f0144f6dc3f7a87e1205d1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_koerper-und-gesundheit.pdf": {
+    "pdf_sha256": "2628ee21aab0637787b2a4616e7f3ec1cd0d412d3061cbed2894405742321a21",
+    "png_sha256": "e5031a67a5a9bccadf1db74cbcd0db8cc9fddb8296dc921088c7e823d7034072",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_koerper-und-gesundheit-teacher.pdf": {
+    "pdf_sha256": "11714d1a2b18cfd2baea3b66b79248e99769c78357cebf64c57e29d90982c251",
+    "png_sha256": "c2f1452c95a880e87b11e08ddadf624c0802c1207a914cf026073a49a95f7a58",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit10_mein-beruf.pdf": {
+    "pdf_sha256": "c8177b06dcc9cce1bfc091a7ed85bc08429e7950fcbebca6415b5277183ddb1f",
+    "png_sha256": "3026b2f20df7852a2e455b9add0099b1d345daba55e70674846b2f9bde010ffb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_mein-beruf.pdf": {
+    "pdf_sha256": "52d1b8c8e368992a0d30f2f544d4ec74ea980313296bfbd7b0f09cde273c9fbd",
+    "png_sha256": "c1ef983edd4828c4da3763303da4122cd42f9f921f7f4fb6d2652bbdbda9054d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_mein-beruf-teacher.pdf": {
+    "pdf_sha256": "4dc99e275e2243ffae251eef32a7c1fb1f982151d540ef295448bcad9d677474",
+    "png_sha256": "a638853afadf7265193b83e5b3cd9497a76faee699f0a4e81114584fa97fc9ad",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit11_meine-freizeit.pdf": {
+    "pdf_sha256": "0335d08acb2f91b92fba250b9604e730135730f67d41ae5da5d2df3069389407",
+    "png_sha256": "e0b29b4798714ac8f64bb15639ddfb2b4e732c93d2a38aa732a82c7aaac4a76b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_meine-freizeit.pdf": {
+    "pdf_sha256": "7e4ce59e9615cc920008f90b271eacc606696419fbde762dadbd51cc497b0f16",
+    "png_sha256": "366c67e49f96394ff7f8fd81894712378629ebd8855966f7e2d991b525168ebc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_meine-freizeit-teacher.pdf": {
+    "pdf_sha256": "d9a30de42c49c23c0a34b0c11ddbe55e157044b9d249a4baf5e936cfdcc465eb",
+    "png_sha256": "1fa30b83da882be0d63488539d9497aea55cef39b6b118b861ddab233fb6a2d9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit12_reisen-und-unterwegs.pdf": {
+    "pdf_sha256": "a2fd04389a97b784aff862628fadb29de2a1f4695feef066a4f574e6cfb85ab1",
+    "png_sha256": "de7b44908964aeaaf6cf8046838dcad2cdf2a33dd238a862614853bfa0dc1d95",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_reisen-und-unterwegs.pdf": {
+    "pdf_sha256": "f32a5d0409bebd06e0211b8e429f195db4919a542bddb0783d6be535e311dffe",
+    "png_sha256": "f7b1b4d2d71a7fb93a9dbe61df1c3bdf29e5029fbfd1e069e2aa36ae6d3ceffa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_reisen-und-unterwegs-teacher.pdf": {
+    "pdf_sha256": "b44022a187436fd1021d0aae2ed02bfbce81aa3c05a6e928ef4293dee669bb5f",
+    "png_sha256": "f9fa80f66726bf53501b42996df379015b5de35de91f8fa5cbfbc81a46329bc7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.pdf": {
+    "pdf_sha256": "ff5183d7b76af3088c4e6a5df85a64fc0cb87342d88c296901a035ba3fa0e3e0",
+    "png_sha256": "918cc06d039c21c025c3f6e58f8451bae0e1f6ea03e3a4412222ca4f57d25507",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.pdf": {
+    "pdf_sha256": "808e10d0d358020b085ab7a5261fdc85895d31148249aa48232325a084683fbd",
+    "png_sha256": "4849bcfe80665e7717503e9eaab8b2a3c0924d911490c52cc26ae80e2abb9e14",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige-teacher.pdf": {
+    "pdf_sha256": "801e492e360dd3ae5343196e88e364bdce5a8c4643ca52567d8183455b8394a8",
+    "png_sha256": "a97d98a2e3d3b678137aa7317bdc65cecb3c0155b39aab540377da926084b035",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit02_wohnung-mieten.pdf": {
+    "pdf_sha256": "ad469c9e4c82535b12c6cf4a8b37b214251356d009ba433c38ce6b193da799c3",
+    "png_sha256": "1a4c0a6962c7bd4793e36b3ffb05782e4694c62bec8bb776b892bf965619c1cc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_wohnung-mieten.pdf": {
+    "pdf_sha256": "ff44cac0fdb184210605fa22e77204a356dc0958b739505899ad6e3f682fcd77",
+    "png_sha256": "4a3ab48490e9d1ddc84c53958e0fa3f120a853bceae3148148619f0e9ba99fdb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_wohnung-mieten-teacher.pdf": {
+    "pdf_sha256": "5a1c9d427acc8427e4a181154916bec4b181eed5f3c11994f6c0922b9398ddc1",
+    "png_sha256": "526b7270fb63d0b80a8eaba1804ef4813f6b23aa4909d45d009db6cb078644f0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit03_beim-arzt.pdf": {
+    "pdf_sha256": "b91c4a425be6d819a29cc1a754b1c8e998d77c64813be39a4860328639ee9ac1",
+    "png_sha256": "ae2967158f9093beffa6e4608335a2cdf74d35a77be2fb42d3ec44cf2dc4c10b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_beim-arzt.pdf": {
+    "pdf_sha256": "bba78f68cd1309e06d2fd227ed898b81c1f68ad0a00ab6ab54c30440b5b4a78f",
+    "png_sha256": "6861cc16aad661a97fecb3c45360895788c7d13d1482f34513b5f0ef77791e47",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_beim-arzt-teacher.pdf": {
+    "pdf_sha256": "54da2b6b10889bfc5645520f4489f197bece86136b49fb5393771f101b70bb2e",
+    "png_sha256": "d0bb1df437b5ee48d50c0b00158d9978d939068f970627cc738c6376a2a9e160",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit04_im-amt.pdf": {
+    "pdf_sha256": "7eaedb384ef528deef69be9115d13719cb9b75fa89a5e764295f330664c6eee9",
+    "png_sha256": "3d10de0bcecd136ba35fc8d1134c7879c411e58763de8ce6e548a940ccd7a926",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_im-amt.pdf": {
+    "pdf_sha256": "673e5dbeb3da2d7fb72cac3e725be168bb45bd5b4a55851b888e95e0c403da9c",
+    "png_sha256": "0f0327879efdf1396b13b90f36ddb305bc2136a0a0b2d205e2e8fc38a9ddef2f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_im-amt-teacher.pdf": {
+    "pdf_sha256": "af049ea9f936a3ba22ab3e9317ac03be829076ab2d29432b62c6a77ced9afbc3",
+    "png_sha256": "3e4dd1cfab8478edf9ed02d4627f225a1f99444069526b8f16b64a62eec8d312",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit05_reiseplanung.pdf": {
+    "pdf_sha256": "d8fa3136a48b3bf87b872f6c9520834b5940c0169b4997343cc7123caf5e1fc4",
+    "png_sha256": "967a3badfc5cbdf7c7bfd2d71446da6847a4f2030182c4f3e56c8c140d20cf74",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_reiseplanung.pdf": {
+    "pdf_sha256": "1f1b18d6aec9d3bd6026861fd5eb8042caa91ad5361a573514d8c322863ce05a",
+    "png_sha256": "a3446d0e51d7157e49ea285a7ac4bc44d52850aa575397fac5c44839ca4ae7b7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_reiseplanung-teacher.pdf": {
+    "pdf_sha256": "d8fbe3046bf7584ae7720f2a6dde3703399073c1728a2b0dee1d73f0dc89ee48",
+    "png_sha256": "f4ee79a6f1d9705227935d16130fff45e598c09b545b6371cfbf8522ff701589",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit06_hobbys-und-vereine.pdf": {
+    "pdf_sha256": "a92687020a99561f64cc4b8719e04511c271dd733d892c35caa573bd1f891b19",
+    "png_sha256": "d8184ba47e8b2980d70a722481586c4bc63280cf960ef80b6daf916fc15ad861",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_hobbys-und-vereine.pdf": {
+    "pdf_sha256": "99f25144035330713f4371b09f91fcd0bfbbb73f618540d236faa4095a18a117",
+    "png_sha256": "7cac416a31002d9e4d864b0bf3365e6676b8e3a493cdcd6105b24a6c6884b665",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_hobbys-und-vereine-teacher.pdf": {
+    "pdf_sha256": "a9ea10e4d7ff686513b8e17cf04d40ad42409116a3193309850e2d77e8fa10c7",
+    "png_sha256": "3a30e2eb15700e542a913566dce8426d72b472a04842dc311c9f62c98a80aee6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit07_feste-und-traditionen.pdf": {
+    "pdf_sha256": "66eba669fd874ccdcf591a2c71a6013fa11ec4a11d3985a4438858e6fd01731a",
+    "png_sha256": "ca93dd1fe04baa5ed09c230b0b89554185d529f3c7e8be55f5758fc116b76774",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_feste-und-traditionen.pdf": {
+    "pdf_sha256": "9188e840ccd1300c3a5f8cf8f708bda4e8f23f2562c377aa26761710d9511b32",
+    "png_sha256": "443bcbee6a8673239487d057b35ecf8193d491aa6fce59c7b0fb7f7bd8a3de7b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_feste-und-traditionen-teacher.pdf": {
+    "pdf_sha256": "2fb4283ab99f8377d2035671765ec10997275d32d1819d9e2e9a07be98167fdd",
+    "png_sha256": "a51737286791c42a80ad148d39dc6cfb2afe590764df5fdc7c6ac583350de542",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit08_gestern-und-vergangenheit.pdf": {
+    "pdf_sha256": "d7457ea01f98e09018fc16c5c2a5cf86620c7c5587a8c25ec942d4b63b81c04c",
+    "png_sha256": "1c8c1f1b1520e25562bec14bcf6263e793f86880bb3a202d1e1e6d518358af68",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_gestern-und-vergangenheit.pdf": {
+    "pdf_sha256": "858d0ca4e61ebf6669d82c22aff406908295837e1ebf90844e65e248070da141",
+    "png_sha256": "3ebd8954eba2bc283a0109b52198f343864de9a95d5a533d123faa016c5c188c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_gestern-und-vergangenheit-teacher.pdf": {
+    "pdf_sha256": "3990b014b5be715c80419c1b445852e3d203c7bd3e93617b963c02105141b2e7",
+    "png_sha256": "958fa21a8fea284170a695282742b88dacbba59c5cdc02de082b8cc8877b7d63",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit09_plaene-und-zukunft.pdf": {
+    "pdf_sha256": "5a3f75b054f3b92e75ea7df8d7138464971e618fc9f95d71275f197985cb7bc5",
+    "png_sha256": "068c642d6c7603d5ae3b095ddd665712b0e4cc973711e30a79f43a7ffb626b77",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_plaene-und-zukunft.pdf": {
+    "pdf_sha256": "8fa0c0def54db55c453e7bd12512b5d5eba6a9a74cdfc7baf9005fd9532dabb3",
+    "png_sha256": "e13cf0c9a9ff21892ef2d9ec69c563ecfe99ef7125eae82cab9748d61cd4dfbd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_plaene-und-zukunft-teacher.pdf": {
+    "pdf_sha256": "6b9786471ed8b47654d82cb2da933c59bb8ba3f4324f14c1b47999e88f741379",
+    "png_sha256": "d9684b855d734c0a96368be7fa01b49d483046ba9230a2fe4868415bf4b3467e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit10_medien-im-alltag.pdf": {
+    "pdf_sha256": "2cc4e8152e3e106a287913ee6bf30055b9b4adf4e64893d4643353ef6ddc8194",
+    "png_sha256": "0b03ce32832217cec7e55114114328cba9644eef994138d3507fbe53e7901509",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_medien-im-alltag.pdf": {
+    "pdf_sha256": "ded0b14b9585687316d831607e9a2a8e0289f834059149fd321364ea61532b8c",
+    "png_sha256": "97cfa921f746cfeb963c8df8a7118262d19e5477a6cf9c7293c52df0682249af",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_medien-im-alltag-teacher.pdf": {
+    "pdf_sha256": "fdfa57452bf80f3a2081b0173222c5ce132108aa0bf71ad1fe76f5c027b5f375",
+    "png_sha256": "79f07dda6253ff74687c88efe2bcc4670caadc487be2fe8d20184f75353da4cc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit11_umwelt-und-alltag.pdf": {
+    "pdf_sha256": "d5d6d9f94f6512409081b7641c739a3274a0cd38f2dff0169f932fa44bf40fb4",
+    "png_sha256": "6a5f6c6e24370549df49f6e5a08d692cbf9e29c826d3347a6ac2335f07731ad8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_umwelt-und-alltag.pdf": {
+    "pdf_sha256": "72b1fae7ebf703d8b948f4b981d74208df1ebb31891b2938fd95e2096d9f34b4",
+    "png_sha256": "b3de69da61cb844c393aa5963bda6fb2cf20aff152eede5557a34d7604b4b851",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_umwelt-und-alltag-teacher.pdf": {
+    "pdf_sha256": "073b20a8466f212512d07e40c3d95bfae7bb6ed5ad75c783fd292a7e9c916db7",
+    "png_sha256": "d207e78d73f69fe75bad6e1662d43e8fa4b7994b187c1b340ecd48db2c9705a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit12_freundschaft-und-familiengeschichte.pdf": {
+    "pdf_sha256": "7df45a8db6704a7a92809df44a61c3cecae47d517b03a01a6614179635711e46",
+    "png_sha256": "08baed80462e03bb7d0f89f8f99654ace8c030069e1c6eebc7a28e331536431d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_freundschaft-und-familiengeschichte.pdf": {
+    "pdf_sha256": "e880f8cec7d7edf34facc717bd8f6edd6a934e5ac37f6258a725148bf4beb336",
+    "png_sha256": "3161429dfb51a65046e03bac14b0ec4179b0766f12e4164420734f9af0cf0c52",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_freundschaft-und-familiengeschichte-teacher.pdf": {
+    "pdf_sha256": "44898af395409b8f3733347ef69f2a80332f9ec8b9ea23de2e7e1fa40243b1fb",
+    "png_sha256": "4e9cf9d263f09e171d87799bb7b21b60a717a5c543a5257cda9dc99cbb5c605b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit01_neuanfang-in-basel.pdf": {
+    "pdf_sha256": "a84006022c9014c6d7add4ca7f579eb9f9f337455dc1c9e8c39bbfe3451901f6",
+    "png_sha256": "04a73da62fb8ea47374d645e670eee7287eef1cf6e587936cf04d5dacf251a81",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_neuanfang-in-basel.pdf": {
+    "pdf_sha256": "6d6a6256ab99062bed034aca2efce36cc85a4c2ab63b32583608684ea2104a8f",
+    "png_sha256": "94355b9721dc44f4ea3d0216f47bab163531c3069d690de5e59a82a7deaddfbe",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_neuanfang-in-basel-teacher.pdf": {
+    "pdf_sha256": "446719507f291970812ea7b6903c3a21b5e134f2cebec49f6be7584a310306b3",
+    "png_sha256": "bf2d50291e54d544ad2c5f3150ebf7c5ceede61e941ed141f450b28f11463bdd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit02_der-bewerbungsweg.pdf": {
+    "pdf_sha256": "9796e31779b0f88860510aea5fe3f04d1a9d29b32d1ae00d25d43f3d7bcfebd6",
+    "png_sha256": "0ab6377d52ef88fa2182150c7d03cf3a7a22a33595cbeddf7fe41f5224cfca4c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_der-bewerbungsweg.pdf": {
+    "pdf_sha256": "eb8e0bc2eef91f5bbe08defde74d90d8e7dc6726064b5dcc2400f54f8ffecec1",
+    "png_sha256": "f5340403e8e37af183e4d4dda16fa28ca66bb672704875866c8f93d261adc99c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_der-bewerbungsweg-teacher.pdf": {
+    "pdf_sha256": "9b322de546d5967c8ac3e59d2c7fce09cbb74bcd5bc8625c714fb6b7565c67bc",
+    "png_sha256": "7dc547ee83a5ef1e3f4efed82a8d119a62dee38192bf8c778f5eac347a8c64c9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit03_weiterbildung-und-studium.pdf": {
+    "pdf_sha256": "4a690eba479f87c3c070684f83a2292cfcd4599114c3b46fbd3a824acedf4398",
+    "png_sha256": "f0c27f83c28dfcd47ff2ecbf7dbbc290a005822ddb1e6975bd84baddae94b2a7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_weiterbildung-und-studium.pdf": {
+    "pdf_sha256": "d041bf83699db69e44ba3bb52b7f276ee3725e25f3fd57f36c9e67c595a82231",
+    "png_sha256": "b500268f8f56a208461b34ff08f2c3ba34a4a7220235a8859b037e1b1d4c3588",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_weiterbildung-und-studium-teacher.pdf": {
+    "pdf_sha256": "c9bfd0b481e345098107f4c264eee602e853e41beee6353dc0d796be7bdd61ac",
+    "png_sha256": "4f3f0c35d6bc891897c3cb8abf45e89fe2c52192ca7499d8c889dfd467f692e1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit04_gesundheitssystem-dach.pdf": {
+    "pdf_sha256": "a987488572019f86d13c73affab393c6def330cfc35a51236658a6dd0a15a385",
+    "png_sha256": "bdc35b1855ceffa4b88be1e0a8c5c6f3c4152657e7f01e0155a602a795617891",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_gesundheitssystem-dach.pdf": {
+    "pdf_sha256": "e992201bec5782e1db47199dce4ffdbc5343023647f6cdf8367156c516a0e496",
+    "png_sha256": "70f9966a63ae600659fcd17ec30f478395e90ff4c441382c6da54b2f3ece6993",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_gesundheitssystem-dach-teacher.pdf": {
+    "pdf_sha256": "02b5163f9fb340e6dfbd0e0b3b585a6323b65c4f76d18282fd1ae97218cd712a",
+    "png_sha256": "d160566c66789124125a9bd404caaa5a4814e6d0bc473ce45ad7b5525852f7a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit05_digitale-kommunikation.pdf": {
+    "pdf_sha256": "08e0d2861e1cec48cad22a2ffe1a5015f3274e35f394e0c37019399f51110638",
+    "png_sha256": "52fc5badad5bbe645fa29ae67d0f1923815213b787614e34819719727afa7048",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_digitale-kommunikation.pdf": {
+    "pdf_sha256": "bced8db39fe9337977000dc06a74ad8ae221bda92d24c26f38c3c7e3b80de7fd",
+    "png_sha256": "c405ca14b86b28f84698914fdc565cba804b7403c34eb77921e52b16fbb272aa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_digitale-kommunikation-teacher.pdf": {
+    "pdf_sha256": "757c1921325d5dde3dfd7e75b779a1885789d52511ac0c96d84cf20455c3d0a1",
+    "png_sha256": "2d8bf8f5b5bc64b13cb5753de237248742a3859e5be746cdc40b35f453819938",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit06_umwelt-und-mobilitaet.pdf": {
+    "pdf_sha256": "aa9da7afcbbeab172f27bdf9fcdf4f09eb842e5875b4383217bc95d4d0bb1879",
+    "png_sha256": "036b3bc2d92b0bbf5a2b29bff5348c9623bb9d16f6e02b1d620267b0a98d1a4d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_umwelt-und-mobilitaet.pdf": {
+    "pdf_sha256": "d9adc63cf1493827a3e975b37d60af07b52fc82a981ea23d2218629983f13db3",
+    "png_sha256": "2cd5e2678683e3be3b88f3181126b5303d76826f3a49801131a25237968f75c0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_umwelt-und-mobilitaet-teacher.pdf": {
+    "pdf_sha256": "5b4e0cffbbffb68b5773cc488096fd06e324d3a37f98012ae094afa5f09a2c05",
+    "png_sha256": "865990f6f9ab413a3220222648685dc674b1fb89c1650a4d547cf72f579cbc0b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit07_interkulturelle-begegnung.pdf": {
+    "pdf_sha256": "a147d8fc88018d4f8d7660dad33803a0b974f1c018cba046ceffba2a34ebeb06",
+    "png_sha256": "dd4c79682a85c06b192e722dc0c37993f95bc8afe26915c16f1872608c849cf1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_interkulturelle-begegnung.pdf": {
+    "pdf_sha256": "4e4c763bf4fe69132bff550ba54a16a6ecbe3af79959a253da30dc4ced2993a6",
+    "png_sha256": "9ec1eaeb632bf67aa4e24434a10dc84023f8a464f67266a8046911d2f1e4f3bc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_interkulturelle-begegnung-teacher.pdf": {
+    "pdf_sha256": "34e284deb17b7b8cf5ca84d31d32985b0b620c8beecfa86ad4071b0c6b438f9a",
+    "png_sha256": "ae55d47e91958330222aae9065ad2720a6ac7419ccb1e4f7296fef86ebfaed8b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit08_stadt-und-land.pdf": {
+    "pdf_sha256": "670a1a49d51b799f08056a9025087c3284b8e2c099209f156b02dc0bbeb769fe",
+    "png_sha256": "dca8a0f1e58b2210129fef78e939e6788a8b194cd0fb3e6ab2ee5ed83d135945",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_stadt-und-land.pdf": {
+    "pdf_sha256": "0f3d2de880bd85248e735f7169f7e36179cfbbd585ce003debfd6146247c86a1",
+    "png_sha256": "667fb381f16e8e03f4a38bbf44af49730595a7281294fef72fd0e6df5d8d7083",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_stadt-und-land-teacher.pdf": {
+    "pdf_sha256": "9c3fe6975e8f1b9ed8ae95eb1278953296de87093cff77eb1916f1752d035f8e",
+    "png_sha256": "8f2803e0f52c18342f656ec2894f94949b64653d35804b5ca763bfc49d399736",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit09_konsum-und-verbraucherschutz.pdf": {
+    "pdf_sha256": "a8cf03d144e11dd37617641e1391c4e0f03f25c2abadb530d4048868bffc1cda",
+    "png_sha256": "58ca0ef66d95408b2a2861f03e5c8341e6bdb3f48a1370a338d42770dfddb9b2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_konsum-und-verbraucherschutz.pdf": {
+    "pdf_sha256": "f5f4f930e5232c9f7707c143a139d774ee460337cca377489a28ba4670fac7c2",
+    "png_sha256": "dbf8991c716edb98706dedbf35fabd774b38cda15a83a7a459cc62ab438c7128",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_konsum-und-verbraucherschutz-teacher.pdf": {
+    "pdf_sha256": "f620249b4cb15ce7807329bf939c07e23f891cf906ebd360dc88199a2b088d54",
+    "png_sha256": "5d7182a8429f3673a26771e36c4f9932c7223f2aca64ccd51d246b5f23f3cf5b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit10_politik-und-teilhabe.pdf": {
+    "pdf_sha256": "6da2f35428a27ec0c5e175335c2bcd92f87fd88902b5797a693b1c6a990900a0",
+    "png_sha256": "d4646d3310a9e6912fac097377f76e250c33f5113045274388e61dd29a56f84a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_politik-und-teilhabe.pdf": {
+    "pdf_sha256": "7637d6406786976e6fe1a8a4fb5aed159a4543e3df3046381854e0827c0c13f9",
+    "png_sha256": "67bc7a149d5576a32e212b3958f3ea093913986ecd6897f7ad233db9919bb6f5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_politik-und-teilhabe-teacher.pdf": {
+    "pdf_sha256": "666f23d93cca991db187401d678ae324dcc378671d08dcddaa165c3331e7f560",
+    "png_sha256": "c56729959718e41746309b1471d1c385738a1b514f65fffc7933863464ca9c06",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit11_persoenliche-beziehungen.pdf": {
+    "pdf_sha256": "2d24f35a5f4c3aa2546485923440303344288f7ca1d3f6d96502361c50a88759",
+    "png_sha256": "e097e56b2ec28219d71ae89dad19aa74eeafdff7513d0c3aa62a9a8dc4443a67",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_persoenliche-beziehungen.pdf": {
+    "pdf_sha256": "59a382797ee6810069dd74ef61593a9e6c456762fc0bf2d497681a857a485ff2",
+    "png_sha256": "ad82e365bbb1d220365fdd1b8b689687349ad2666a23b894e1341cdef0f3d834",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_persoenliche-beziehungen-teacher.pdf": {
+    "pdf_sha256": "83cfb54d4c32fa95e0892ba6cb4fc79743e0b0a97cc2661f821df4b4fce9c115",
+    "png_sha256": "f2402ea220be3a5758afad3550212aecf902516ccfe0eef4af4944e4122d8b23",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit12_zukunftsvisionen.pdf": {
+    "pdf_sha256": "da4686bf57569aa09f72319158546ee82e1cd9c3c88212a4f717882ed98329e4",
+    "png_sha256": "8f40202cc81e508206031e0b3de9ddb6a32713d602eb0de0d786d2878e98a993",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_zukunftsvisionen.pdf": {
+    "pdf_sha256": "2b008a956a6f7302d76081de782e1b0ff28ad8c03cdbd5999ba44c95d95c942a",
+    "png_sha256": "44953ff9d33807a9a491a5090f6ded4324ee9909aea116df34fa602f91d78500",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_zukunftsvisionen-teacher.pdf": {
+    "pdf_sha256": "1461661d195b24aef6dae713195cd814c3b5ca54877f5c69a46ffff8d4c94d22",
+    "png_sha256": "7af97973ac6af4ac67d73b8f95400d6e158985513da21a1619e553f7cfd2a273",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit01_medienlandschaft-heute.pdf": {
+    "pdf_sha256": "8bf220a1631d05978950fd01c3e2ca97017d2c6eae78c5d86411f286fd98c07d",
+    "png_sha256": "e5695a7f4f60860c3c1fa180ca08eb69549273396d629b6a9ade39d2e4071c29",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_medienlandschaft-heute.pdf": {
+    "pdf_sha256": "54b434091df9262b15535b88d278173f0a8b4b42ba06fb1cc95344e5f6db64c1",
+    "png_sha256": "b746f0526891440e8f6362961287c3a9a314c0599fd8d25ab5658a9c43854f11",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_medienlandschaft-heute-teacher.pdf": {
+    "pdf_sha256": "94b624927773185ffa04a7337405cd5d983d65e27f7d80da7db5669becb5923e",
+    "png_sha256": "061fbd2f953dad52c9e9e8637951ac352d78956e03472e89dfbcf994b209ca2e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit02_wissenschaft-kommunizieren.pdf": {
+    "pdf_sha256": "936050d2fc228a5853758f6baa3d982aadd45e4c6962d07dcb4bc9d850752580",
+    "png_sha256": "8a78ba650348b736f499730ee812fea0e877b8cf79984ef568c17a64e3cf0b1c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_wissenschaft-kommunizieren.pdf": {
+    "pdf_sha256": "ec375810e1ccad440ccfb961a837be53129fc36204e2f6f21f72e288095db6a6",
+    "png_sha256": "b5655500df801f7af1b1b0bc69f89d919c435dcae3c6de13ff3b7940515220d1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_wissenschaft-kommunizieren-teacher.pdf": {
+    "pdf_sha256": "c3d09e26df61b659b946edc1ea761201325a22f796414914b2b8e4f0b287411b",
+    "png_sha256": "4cac0353e1c3ce99473c187d33504f29447983774342c4b3f9969f6c9590f276",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit03_gesellschaftliche-debatten.pdf": {
+    "pdf_sha256": "f72751cc0a221cf8ffcb6e014f72294ba4ab8f6835d2d3e575e8b2d235aa2a5f",
+    "png_sha256": "0cf7ba771006641a88ee75e8c40541aa6b4b1b73103c1928da240913d5632f3a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_gesellschaftliche-debatten.pdf": {
+    "pdf_sha256": "9eb5c4e7e87c69eea26a7058181e0bf3f017a09fe4b304a2c9a4c185b732d8e9",
+    "png_sha256": "1aed1162da13aae45ed66aa8ada96d87f4d08371213709edd596a16d129c6425",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_gesellschaftliche-debatten-teacher.pdf": {
+    "pdf_sha256": "2e2e4ac8a882f91cdbe8d0998358876e6082e78ca4eb6f665aa1559915912943",
+    "png_sha256": "f9b039335dafb824366467024a32dd8d57973b88f5a474239af23d82481e5c79",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit04_arbeitswelt-im-wandel.pdf": {
+    "pdf_sha256": "1b247549c546179894cf7e7c1f6b684fb1c97b4519fcdcee8cbd4796d3a10032",
+    "png_sha256": "984b323ede4470c5fa2516f3b88df0919702740804088cac6243487089c80dd6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_arbeitswelt-im-wandel.pdf": {
+    "pdf_sha256": "c6f795cffb7dc3b42c3a864a1d2bfb69cef1e1eb85865fc9cdc083e46a0d5664",
+    "png_sha256": "d2d643b44dba902b04df38a94376cb29e69cfe83640a9b2b5be2a5fd75f7b349",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_arbeitswelt-im-wandel-teacher.pdf": {
+    "pdf_sha256": "0759890859514a4eea15121d3149e156ba8d648a1c2d58693b3cd7bd84d9c124",
+    "png_sha256": "d53e028bf04e2569083c75cac86ffb587c12b3c198e811272eb6d3615c038bff",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit05_kunst-und-kultur.pdf": {
+    "pdf_sha256": "9d37e919eb482b5ffd123c466b6dbda7e21c60c0396140602a8c645d9a1a75cf",
+    "png_sha256": "88c3c2dce0d226bcec7c2d8c2939d044ec4504f98856db65554c3d1028ba7222",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_kunst-und-kultur.pdf": {
+    "pdf_sha256": "e050f6f75a388ea4d18d021229f2301058d64bb430aea40941ac2ae534188f3b",
+    "png_sha256": "d1532380e9a73ee9246998364c5a7e6e26706d4f5bded44812696f808d6ea93b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_kunst-und-kultur-teacher.pdf": {
+    "pdf_sha256": "9a7414f7a2ab0af05ae57b1d722721322f9cb174d36f273febec00a0e9cc8209",
+    "png_sha256": "8db6a4cc84945c11f30604d9fd18e62d499d9e5898a9f9fbf786a163050e030e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit06_migrationsdiskurs.pdf": {
+    "pdf_sha256": "d2af283f8b69248004a4ce7c4ef34f796b68a48d95f8bc94f8a66da8a2f93553",
+    "png_sha256": "0f37c633a295a634875ddbddb94f8524e3e7689e1a582924d9f70e6c1e9c4ff8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_migrationsdiskurs.pdf": {
+    "pdf_sha256": "348636cf8a4009d326a921f710b283a7901005cfabc3240d6c392123fa5a6e6e",
+    "png_sha256": "a23fcf885a3a42ab9a1a8aa0787166df5bf558fe9b5648052241bcdb8d05d08e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_migrationsdiskurs-teacher.pdf": {
+    "pdf_sha256": "91afc127a18d189ef2ef8bdca2b216713beae48822ebeb534353fd98ad45f74e",
+    "png_sha256": "892ba807f02fb0f357ae0b600aaa1a4fdc8499887e784402aa3b9abaf7709ee8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit07_gesundheitspolitik.pdf": {
+    "pdf_sha256": "5db93a4749c6340fba08327c6a2edc4ccb3c3f20dd92c462323408a4da054fc8",
+    "png_sha256": "897297bfa846476feb002865d198b4525e40f5c66f9b1b6411a2844eaf494250",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_gesundheitspolitik.pdf": {
+    "pdf_sha256": "730621ecb67e985316f2ead6e38a9f40ef5195967baf65f4c4f13f8d4048b923",
+    "png_sha256": "5d8bce91ed18bc977a441085923f2bf8c9800c3f1a5a934726dee004b673a660",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_gesundheitspolitik-teacher.pdf": {
+    "pdf_sha256": "46ec1d7a67d5dd4366c7568a916790fe508d91d423da333331019a020a6ff823",
+    "png_sha256": "1ede71b0ee3a9915a9fd425281d77101dcdad7b77b203b81ebf637739863eced",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit08_umweltpolitik.pdf": {
+    "pdf_sha256": "1144431a1338e46b1ba2bc4ce2138bd02eb2b188bd0832a71b7ab8cb4501a127",
+    "png_sha256": "cf31cc9625b36b8acd99ecdbce93aa7fb25cbf572ff784919971889b44cf78af",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_umweltpolitik.pdf": {
+    "pdf_sha256": "5d53f7437f775364b014a5d218bcfbb1ec512f2b0fd01117c313750de73eae2d",
+    "png_sha256": "64e97342e4001c4928601b1cb4912515f9a11011243e1d9da764cffb67e12847",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_umweltpolitik-teacher.pdf": {
+    "pdf_sha256": "d9171afb511ae0521f96d7bb44beefa8730e497e5688eeee6ecef59f6cc7a9f0",
+    "png_sha256": "b623d4c4b1985884de0cb5545a4cc0e369f695958fd1f6bc64ad8058ee2e0b38",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit09_bildungsdebatten.pdf": {
+    "pdf_sha256": "930152ac49e79e13006a56d5b840c5ceb9505b16ff8f1e90e7ec05b045f6be80",
+    "png_sha256": "1eb0cc062f8526cc0315915644d1dbd78936c19b62eccaa0b226c7738f5dd96e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_bildungsdebatten.pdf": {
+    "pdf_sha256": "927059312d78b660e374d5186faa59ceefd349d29b5a2adf3f7f6508bb71c274",
+    "png_sha256": "dbd499732c146cacff8a81ef63317ce910e83daa31efff04e467aec295c93a3a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_bildungsdebatten-teacher.pdf": {
+    "pdf_sha256": "f9eac53037fd50b977f48f9a0b05fa929c39f7f56fb2e0494be0f2ca010e2e5c",
+    "png_sha256": "346fbc2b9587374c6303f24dc5277923f91412cfff4ef2ce07f58b5fdb3b3f16",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit10_ethik-digitaler-technologien.pdf": {
+    "pdf_sha256": "4906f70475e485b202ea3c88f8628028a0634c6eab55380d7f9a5809745448d7",
+    "png_sha256": "75fc985342e6849d8a8929eaf4f8dfd67dcafaf0f6f70a1bd7685f975f2de2e5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_ethik-digitaler-technologien.pdf": {
+    "pdf_sha256": "e43ef614013dd67940f15fb275c1b08f7828e1d9fcd0ff05801b90472af5b173",
+    "png_sha256": "6981fe0ef6c5c0f7b9a7ff879322554d51c3abf2624355eb06e926dc715bb56b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_ethik-digitaler-technologien-teacher.pdf": {
+    "pdf_sha256": "236a329e5ac11cbb6e76953cedd57824e0a6f8b35dbecfaf32fe3a352a4be470",
+    "png_sha256": "fe9917175ec96a911642e13ff1b8c51219d34bd91c71b983d26eb6b0eb2f4db4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit11_oekonomie-fuer-laien.pdf": {
+    "pdf_sha256": "2d38cbc1466ee059e424619bc59aa16a467ef0a092eb61dbdcd9ee03af05f44f",
+    "png_sha256": "ed908e3ee91e5e2b535c2f3d9d62e05ffb178c2ea1208529e1025e049d63bc43",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_oekonomie-fuer-laien.pdf": {
+    "pdf_sha256": "cd8d691cf45ca9524f9b7d04d9607dc0cb26a2fae22599fc583b7b4d70c3fbe7",
+    "png_sha256": "2d7d2750a6663d29fef63394dcd04ef6a1778636b743e44b463d7ba7f5fd0750",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_oekonomie-fuer-laien-teacher.pdf": {
+    "pdf_sha256": "1220c8b1be3df0a243c9ae4512b3eecb2cbfad924ba1c3d943567d48bf85a9c1",
+    "png_sha256": "c0867cab9d3e54d48536712cb5187a8196d909f7668fdb1f4c63e710e62e5811",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit12_literarische-perspektiven.pdf": {
+    "pdf_sha256": "84c84107e725418d9ad776d44b01aa4811b1d5d4d5daa9f52e84058446c48263",
+    "png_sha256": "e659a06a72ea0bd597dd3ef3cf94a35f388e6d52f44588d909c3e984c440faaa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_literarische-perspektiven.pdf": {
+    "pdf_sha256": "be6318a2af64579d8fec8b26bc4d954210bc0b61daa20b7ffd57e9ffc910654d",
+    "png_sha256": "ad2244b4b576379f7c27f6b8d142b5422828450ab1536ba62be71d81642cc972",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_literarische-perspektiven-teacher.pdf": {
+    "pdf_sha256": "b2b167ee5763ba2dda8755da2a623cb0dbe6fcb361c4db9cbe9d4b7f2c73371a",
+    "png_sha256": "7cf86dca5031897e962dccaf0fa34fb857d6addba95a8390bf391575ffac6d62",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit01_literarisches-argumentieren.pdf": {
+    "pdf_sha256": "dac2ef7729b760114ca0d5ef57309f413ad259222a94679d7e09fdfa362b05f6",
+    "png_sha256": "677a7154f3edf51f72b5c5add8862d3002aea9ad3f2c26047e49a0de5147f97c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_literarisches-argumentieren.pdf": {
+    "pdf_sha256": "69580cfea75ca182483e7335a3a5ccd78e5b7d5eaf3bd727b0eb3c820e654ecf",
+    "png_sha256": "11c1ff6e44cf204dcd7eaee6b71d42536228969a57675858aafafdca631d7ec2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit01_literarisches-argumentieren-teacher.pdf": {
+    "pdf_sha256": "eca250cffb297a1f82079d7fd74a2c5e4ade5c82df7668910e30dbe4066eaf9b",
+    "png_sha256": "4fd95d6123da4a185a8172cfa0e2ed7149a36bc89e1b4b7c5de13b01f95d0b9d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit02_politische-diskursanalyse.pdf": {
+    "pdf_sha256": "46356e90bc8e024ab354fb13b8a207c34137bb6bdb2ae866382226cf8606e425",
+    "png_sha256": "a4f639a09c837fede6c5bc6c156cab2f77fb997f7c5b5d18f4fe067845917655",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_politische-diskursanalyse.pdf": {
+    "pdf_sha256": "0cc87760183b668d90aa0cf783492fe90820092c5b2e79d9f28383c05c7c7743",
+    "png_sha256": "9fe66cb567d1a3e954e93cbe43046425ea71205ca118aabe47003717dbb455b7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit02_politische-diskursanalyse-teacher.pdf": {
+    "pdf_sha256": "f87306689d4f4fc51e76dbef6a0d00b8630d593af0db5b05f3f34e0bd1d8d9ab",
+    "png_sha256": "65606eb90ae7088acca351e06fc71ea648e59e3778fe9cb41357fa1037560b0b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit03_wissenschaftstheorie.pdf": {
+    "pdf_sha256": "4c67f9839a5f45e1bd04ea1a21fe3ee694a6c4b563f8b03a97a40f493729f85f",
+    "png_sha256": "cb4adb219387412f21a5949ff972f8066732f823fb997e6eeebb6abc1f40ab8c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_wissenschaftstheorie.pdf": {
+    "pdf_sha256": "da2049924f64e87205093f6b20dafc93d993f4520d69cb0e9eebfedb2a71f905",
+    "png_sha256": "b9b323cf621e32edb4e1fdd7f2ba5bc9383ad908ad5cd0a25a638deba32f8fb7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit03_wissenschaftstheorie-teacher.pdf": {
+    "pdf_sha256": "d037da4befa73b1581e527b184a6bef9ef8d44789033987f3b746cbb6fbba3f2",
+    "png_sha256": "59d1cb416dad08c53759b0c070e5db54a2ba8bf4cf3c7a1bd9cdd30e9c97aca6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit04_aesthetik-und-urteil.pdf": {
+    "pdf_sha256": "8a68f61eb717b86e51ff5730dfb96ce43f2f71ab44ee5e3ec54a53f5f22aee3c",
+    "png_sha256": "f47b1fe5e3646bb5fe228721f43fa4d421e2147c60379a5b55bb665bcada4c00",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_aesthetik-und-urteil.pdf": {
+    "pdf_sha256": "c262ba33324e704a5952b4b8110679af12f948c8d6366ccaa4adbcee3a178f2a",
+    "png_sha256": "b3b3a58b0d175babcb0173322a237c62bd606cacf9facdbb0a1d2668c7bdeb1c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit04_aesthetik-und-urteil-teacher.pdf": {
+    "pdf_sha256": "fbe218244a2f4a30cacd8a660f112130b80c7018841e1eba11f2343e62e28d06",
+    "png_sha256": "6deedacf511e9a00be65cf10f5f419cfea122d1cacfc460fc0a477bd6be344d6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit05_identitaet-und-sprache.pdf": {
+    "pdf_sha256": "1d7c062ad78e12b7990c1ed51939dd31acdef6ea326939cd594cd64c6a3c72e1",
+    "png_sha256": "7edbf667de7b9f290d35ef9ab9dcb4ae39109e1168564dd9e2f7f6f16c6c9003",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_identitaet-und-sprache.pdf": {
+    "pdf_sha256": "93a01c88967d9cfb956c08777a97b0b3134911bcb96af4e6dbb88b6eb21c9395",
+    "png_sha256": "1b1e4c33543c49cbc84ac62c31d57e38f434a7552a5ea32fb20ed3007f8525e0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit05_identitaet-und-sprache-teacher.pdf": {
+    "pdf_sha256": "35504b009edefd402460a176d6ba597e036fa809b3961c52943c817a2485fbf5",
+    "png_sha256": "d4887e83a65cb8de9e55e7c63fd227b321ed57a573c6e2c747d79bc2bbebe630",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit06_postkoloniale-perspektiven.pdf": {
+    "pdf_sha256": "706f0977203e7ff67e7d090215d1920aa4b3f63978b77922a63924d21bb13eae",
+    "png_sha256": "0dccf3545ccf8f1ae08f59449c68ef23cd9897730a528e461ff0e49aecda1817",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_postkoloniale-perspektiven.pdf": {
+    "pdf_sha256": "f7b1296865e88b09e77899a288abafb8a76d139ff3ae8e1f1076a971e09d0ffb",
+    "png_sha256": "4d735c99f94d657ca85936558660459f7a3c073a3ba3ab2cb3239086b0c8a195",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit06_postkoloniale-perspektiven-teacher.pdf": {
+    "pdf_sha256": "07c354f3f64a48d3909aea12475fa74ec8f189740967e05917df1893ae990d4b",
+    "png_sha256": "ac66c191b301300417550107aca78a1ca47e923a196dde769b9b36c336d5ef36",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit07_historiografie.pdf": {
+    "pdf_sha256": "8944ecc623014b36e5a5c0b5e79a9d50bd2076c54b2104c803ff1b400ec5e0cc",
+    "png_sha256": "45e3ff07d5b2ab57c1a8087081dd969b74216e825c440dd3eb23da9856427701",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_historiografie.pdf": {
+    "pdf_sha256": "3e79de138913f8e4e3de617575213b69fbfef4c9ba0aa193da76b0a4bbfa7ba7",
+    "png_sha256": "fa5c9ae149e8097085af3a72c3420ebad1be64ede19e5f28029e1829a28952ed",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit07_historiografie-teacher.pdf": {
+    "pdf_sha256": "e296bba13d1996a6de17c5432b2297bed256955d8496586cf0b04af3067815a8",
+    "png_sha256": "c1e821da062b4d5be2295d2fec69b3af9f995baf2025879155705924ddcddf0e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit08_philosophie-fuer-informierte-laien.pdf": {
+    "pdf_sha256": "688dce9ed6ba5270f994a1b6b1d17c4e4a103f10a062a6c5098696d8c804c1f2",
+    "png_sha256": "82bb92f54b20da564b559393f543e7aac1a62d4bb7352d31360146d0c9c0ad9d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf": {
+    "pdf_sha256": "760f420715433d1f7745896c06dc373f9d2c465a0e193162638c91e656b43e3e",
+    "png_sha256": "c71a262790da2d933b435f7dda99321967f61817ad7875f5e10aca7d27ccfd7e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit08_philosophie-fuer-informierte-laien-teacher.pdf": {
+    "pdf_sha256": "9eccff093eef641cb2013e3be29677d0feec845c49ce2c5af992014b37705112",
+    "png_sha256": "a3087a4d608adf25c80a286fdd7483dec8214c3f2257fe113fb5b5f9161ab57c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.pdf": {
+    "pdf_sha256": "27ad7c76d4d5ac6ea2decc141537af41f6dc54fb6cab222d80af55b5afb0f496",
+    "png_sha256": "8c4791f8efb8cae3a91fe046edfe253174636884575d6a8668160b2903fb68bf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.pdf": {
+    "pdf_sha256": "751ca11776b1cb5370477552dd21230a7f0b9270bb6600060ad805008b8c5566",
+    "png_sha256": "1357b63f9f0c07b9da602b86b328ffa7cbdd9a4a5a97f7fc9673718a7ca0b01b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht-teacher.pdf": {
+    "pdf_sha256": "321f7a0d825842a9a0b4ca20bfd9aa5f198e0ea5f8bbf2d72ba0020a207035a8",
+    "png_sha256": "0077f57a286b6e91d0996c13edd465d645f5ca10d8fc9536a619e30e7eebe8a0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit10_stilistik-und-rhetorik.pdf": {
+    "pdf_sha256": "f9c88e15c113e8cd4c90d9f25a9c6476c5adeeff76fa24a13cffb69d982d9d0f",
+    "png_sha256": "daa1e963e11c73b3fdfc89994f18c7311f23c9a660dcb71bd2ff3d5317ba2b82",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_stilistik-und-rhetorik.pdf": {
+    "pdf_sha256": "6498bd48af3005247b92cd7a6e54b3dd78c966c9d92faa627517de1264d0caf3",
+    "png_sha256": "4581124e0bfa15a7d6463fdb7c01acffbe028f83cf034f32c1cf21b6dc7ea7fb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit10_stilistik-und-rhetorik-teacher.pdf": {
+    "pdf_sha256": "1fa3b9bee2cd58cf3f5df297b6fcf8166d0aef4b0fd7508c1be1723b5c33af20",
+    "png_sha256": "b743773327956d7af0130d577ac8fb41f57010d0b8738ccd46b5b2df2005ec23",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit11_literarische-moderne.pdf": {
+    "pdf_sha256": "07050c711a0c5db37a08f8202c0e02639c780b48c2e95881d2a548032cbf3da3",
+    "png_sha256": "17b0dbaaaf8e4fde470c869a35ce847da02f3c760090fd0e855f2840775cd22b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_literarische-moderne.pdf": {
+    "pdf_sha256": "d12f02b768036c63d99b7df4ca8c061d1bdd4936baf9feeec03c4e566042d4de",
+    "png_sha256": "cb37b17fdca4a20c5f73d7ffa7342d7763aa945cc26a996eabc4be4903d66d46",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit11_literarische-moderne-teacher.pdf": {
+    "pdf_sha256": "a59615555ce1f84086a5c390b1a6e9b50ac413764b05da57143761f6395e91d0",
+    "png_sha256": "dd96acfc6eba9282023a9a5444ef84f32449826778a9e7907770c0d29db920f7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/unit12_gegenwartsliteratur.pdf": {
+    "pdf_sha256": "64005e36d7074c97f3ffce2fbd12c85bec4e746e54a243cebd3a2d08b78c42da",
+    "png_sha256": "62607a2588ead724e8f102816aece7c3a7113396d4eec7128a99ccd13b928751",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_gegenwartsliteratur.pdf": {
+    "pdf_sha256": "6c2c580a69433995b8ef03821cf8033fb3f65ae03149e54005ed7efd4048e12a",
+    "png_sha256": "4d0daa1715ad5fd8302abf15f51b23fbe016c6aee138862a5903f759157427e6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/unit12_gegenwartsliteratur-teacher.pdf": {
+    "pdf_sha256": "6e62c99eb3a6f9483be692f9bef50dff24cae3ff1a2a83c5e99d3b4cfc7dc21a",
+    "png_sha256": "ee9943e09624f0835af7760bb6f0b3469542510b6f843038b42efa25f6f53f24",
+    "width": 1000,
+    "standard": "1000px"
+  }
+}

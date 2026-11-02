@@ -37,13 +37,43 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.monitoring-and-repair.01
-    - B1.REC.reading-correspondence.04
-    - B1.PROD.sustained-monologue-giving-information.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.online-conversation-and-discussion.01
+  - B1.PROD.monitoring-and-repair.01
+  - B1.REC.reading-correspondence.04
+  - B1.PROD.sustained-monologue-giving-information.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.online-conversation-and-discussion.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file:
+    /daf/materials/worksheets/unit09_konsum-und-verbraucherschutz-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit09_konsum-und-verbraucherschutz-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -77,6 +107,7 @@ die Maschine und die Bürste. Der Milchaufschäumer und der
 Entkalker fehlten. Weil Lejla das ärgerlich fand, hat sie an den
 Kundenservice geschrieben.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 - Wie oft kaufen Sie online ein? Was ist dabei schon einmal
@@ -88,8 +119,7 @@ Kundenservice geschrieben.
 - Was würden Sie an Lejlas Stelle tun — die Teile nachfordern oder
   die ganze Bestellung zurückgeben?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort / Wendung              | Erklärung                                        |
@@ -209,8 +239,7 @@ gemeinfrei).
 > Mit freundlichen Grüßen
 > Lejla Hodžić
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — AGB und Rechte verstehen (Richtig/Falsch).**
 Lesen Sie noch einmal Lesetext 1 und die Kontext-Box.
 
@@ -255,6 +284,7 @@ Sätze und nennen Sie ein konkretes Beispiel aus Ihrem Alltag.
 
 ## Lösungen
 
+{{< details summary="Lösungen" >}}
 {{< details type="tip" title="Lösungen zu den Übungen" >}}
 
 **Aufgabe 1.** 1 = Falsch (ohne Grund) · 2 = Richtig · 3 = Richtig ·
@@ -277,9 +307,9 @@ mich selten, **weil** ich sie ja innerhalb von 14 Tagen
 zurückgeben darf.“
 
 {{< /details >}}
+{{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (Produktion, ca. 60–80 Wörter):**
 
 Sie haben eine Jacke online bestellt. Sie ist in der falschen
@@ -301,46 +331,11 @@ Ihre Mail soll:
 - [ ] Mindestens eine höfliche Bitte mit *würde*/*könnte*.
 - [ ] Text ist verständlich und logisch aufgebaut.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 · Modul Schreiben, Teil 3 — Mitteilung (ca. 40 Wörter)**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam" >}}).
 
-**Aufgabenstellung:** Sie haben ein Konzertticket online gekauft.
-Das Konzert wurde abgesagt. Schreiben Sie an den Veranstalter.
-
-- Beschreiben Sie den Kauf kurz (Datum, Preis, Konzert).
-- Bitten Sie um eine Rückerstattung.
-- Erkundigen Sie sich nach dem genauen Ablauf.
-
-Vergessen Sie Anrede, Grußformel und Namen nicht.
-
-**Punkte-Rubrik (max. 10 Punkte):**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Alle drei Inhaltspunkte bearbeitet          | 0–3    |
-| Anrede und Grußformel korrekt               | 0–2    |
-| Höflichkeit / passender Ton (Konjunktiv II) | 0–2    |
-| Wortschatz zum Thema                        | 0–2    |
-| Grammatik und Rechtschreibung               | 0–1    |
-
-{{< details type="tip" title="Musterlösung Prüfung" >}}
-
-> Sehr geehrte Damen und Herren,
->
-> am 3. Juni habe ich für 45 € ein Ticket für das Konzert von
-> „Nova Beat“ am 20. Juli gekauft. Nun habe ich gelesen, dass
-> das Konzert abgesagt wurde. Ich würde deshalb gern mein Geld
-> zurückerhalten. Könnten Sie mir bitte sagen, wie ich die
-> Rückerstattung beantrage?
->
-> Mit freundlichen Grüßen
-> Amir Kovač
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich erkenne in AGB die wichtigsten Klauseln zum Widerruf.
 - [ ] Ich kann den Unterschied zwischen Widerruf und
       Gewährleistung erklären.
@@ -350,7 +345,7 @@ Vergessen Sie Anrede, Grußformel und Namen nicht.
       formulieren.
 - [ ] Ich kenne drei höfliche Wendungen für Beschwerden.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Ablauf (45 Minuten):**
 

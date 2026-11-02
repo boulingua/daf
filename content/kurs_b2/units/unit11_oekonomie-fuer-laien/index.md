@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.MED.breaking-down-complicated-information.01
-    - B2.REC.overall-oral-comprehension.03
-    - B2.MED.collaborating-to-construct-meaning.01
-    - B2.REC.reading-for-information-and-argument.05
-    - B2.INT.formal-discussion.01
+  - B2.MED.breaking-down-complicated-information.01
+  - B2.REC.overall-oral-comprehension.03
+  - B2.MED.collaborating-to-construct-meaning.01
+  - B2.REC.reading-for-information-and-argument.05
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit11_oekonomie-fuer-laien_exam
+  format: module-practice
+  duration_minutes:
+  points: 8
+  skills:
+  - listening
+  - mediation
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit11_oekonomie-fuer-laien-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit11_oekonomie-fuer-laien-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -55,7 +83,7 @@ curriculum:
 
 **Ich kann …**
 
-- einem etwa achtminütigen Wirtschaftspodcast in seinen Hauptaussagen folgen und Detailinformationen (Zahlen, Beispiele, Einwände) erfassen.
+- einem kurzen Wirtschaftspodcast-Ausschnitt in seinen Hauptaussagen folgen und Detailinformationen (Zahlen, Beispiele, Einwände) erfassen.
 - ökonomische Fachbegriffe wie *Inflation*, *Kaufkraft* und *Leitzins* für ein Laienpublikum verständlich umformulieren (Sprachmittlung Fach → Alltag).
 - in einer Stellungnahme abwägend argumentieren, ob strenge Geldwertstabilität wichtiger ist als kurzfristiges Wachstum, und dabei Konnektoren wie *einerseits/andererseits*, *dennoch* und *folglich* nutzen.
 
@@ -69,14 +97,14 @@ curriculum:
 
 **Der Kaffee, der teurer wurde.** Stellen Sie sich vor, Sie legen 2019 einen Zwanzig-Euro-Schein in eine Schublade und öffnen sie fünf Jahre später wieder. Der Schein sieht unverändert aus — dieselbe Farbe, dieselbe Zahl. Und doch ist etwas passiert: Wofür Sie 2019 acht Tassen Kaffee bekamen, reicht es nun vielleicht nur noch für sechs. Das Geld ist nicht "kaputt" gegangen; die Preise sind gestiegen. Genau dieses stille Schrumpfen der Kaufkraft nennt man Inflation — und es betrifft jeden, der Geld besitzt, ausgibt oder spart.
 
+## Aktivieren {#activate}
 **Einstiegsfragen (Partnerarbeit):**
 
 - Welche ökonomischen Begriffe kennen Sie bereits auf Deutsch? Erklären Sie zwei davon Ihrer Partnerin oder Ihrem Partner.
 - Wann haben Sie zuletzt gemerkt, dass etwas "früher billiger war"? Woran haben Sie es festgemacht?
 - Ist ein bisschen Inflation ein Problem — oder sogar nützlich? Sammeln Sie ein Argument dafür und eines dagegen.
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz (Fach → Laienfassung)
 
 | Fachbegriff | Laienfassung (für Nicht-Fachpublikum) |
@@ -86,7 +114,7 @@ curriculum:
 | der Leitzins | *der Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen* |
 | die Preisstabilität | *ein Zustand, in dem die Preise nur langsam und vorhersehbar steigen* |
 | die Deflation | *das Gegenteil der Inflation: die Preise fallen auf breiter Front* |
-| der Verbraucherpreisindex | *ein "Warenkorb", mit dem man die Preisentwicklung misst* |
+| der Verbraucherpreisindex | *ein Maß für die durchschnittliche Preisentwicklung eines Warenkorbs* |
 | die Zentralbank | *die Institution, die Geldmenge und Zinsen im Währungsraum steuert* |
 | die Abwägung | *das Gegeneinanderhalten von Vor- und Nachteilen* |
 
@@ -121,7 +149,7 @@ curriculum:
 
 > **Elena (Moderatorin):** Herzlich willkommen zu "Geld, kurz erklärt". Mein Gast ist Ökonomin Frau Dr. Wagner. Frau Wagner, viele Menschen sagen: Ich verstehe von Inflation nur, dass alles teurer wird. Stimmt das denn?
 >
-> **Dr. Wagner:** Im Kern schon — aber lassen Sie es mich genauer fassen. Inflation bedeutet, dass das allgemeine Preisniveau steigt und dass folglich die Kaufkraft des Geldes sinkt. Der Zwanzig-Euro-Schein bleibt derselbe, doch er kauft weniger. Gemessen wird das mit einem Warenkorb, dem sogenannten Verbraucherpreisindex.
+> **Dr. Wagner:** Im Kern schon — aber lassen Sie es mich genauer fassen. Inflation bedeutet, dass das allgemeine Preisniveau steigt und dass folglich die Kaufkraft des Geldes sinkt. Der Zwanzig-Euro-Schein bleibt derselbe, doch er kauft weniger. Gemessen wird die durchschnittliche Preisentwicklung mit dem Verbraucherpreisindex. Seine Berechnung geht von einem Warenkorb aus.
 >
 > **Elena:** Und wer legt fest, wie viel Inflation "normal" ist?
 >
@@ -143,8 +171,7 @@ curriculum:
 
 Die Europäische Zentralbank beschreibt ihre Hauptaufgabe als Sicherung der Preisstabilität und Bewahrung der Kaufkraft des Euro; sie versteht Preisstabilität so, dass die Teuerung niedrig, stabil und vorhersehbar bleibt, und nennt seit 2021 ein symmetrisches Ziel von zwei Prozent über die mittlere Frist (paraphrasiert nach ECB, "Two per cent inflation target", 2021). Der Zusammenhang zwischen Inflation und Kaufkraft lässt sich knapp fassen: Steigende Preise bedeuten, dass eine Währungseinheit weniger Waren und Dienstleistungen kauft — Inflation zeigt also einen Verlust an Kaufkraft an (paraphrasiert nach Wikipedia, "Purchasing power", CC BY-SA 4.0).
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Global- und Detailverstehen (B2-Hören, 2× hören).** Wählen Sie jeweils a, b oder c.
 
 1. Wie definiert Dr. Wagner Inflation?
@@ -195,8 +222,7 @@ Die Europäische Zentralbank beschreibt ihre Hauptaufgabe als Sicherung der Prei
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Mündliche Stellungnahme mit Sprachmittlung (ca. 2–3 Min).**
 
 Eine Freundin sagt: *"Inflation ist doch nur ein Problem für Reiche mit viel Geld auf dem Konto."* Nehmen Sie in einer kurzen, abwägenden Stellungnahme Stellung. Erklären Sie ihr zunächst in Laiensprache, was Inflation ist, und wägen Sie dann ab, wen sie wie trifft.
@@ -208,44 +234,18 @@ Eine Freundin sagt: *"Inflation ist doch nur ein Problem für Reiche mit viel Ge
 - **Sprache:** mindestens zwei Fachbegriffe korrekt genutzt und je einmal in Laiensprache übersetzt; ein Passiv oder eine Nominalisierung.
 - **Wirkung:** verständlich für eine Person ohne Wirtschaftswortschatz.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 — Modul Hören, Teil 4 (Vortrag/Podcast, MC 3-gliedrig, 2× hören).**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit11_oekonomie-fuer-laien_exam" >}}).
 
-*Sie hören den Podcast-Ausschnitt (Input C) zweimal. Kreuzen Sie bei jeder Aufgabe a, b oder c an. Pro richtige Antwort 1 Punkt (max. 8 Punkte).*
-
-1. Der Zwanzig-Euro-Schein steht im Gespräch als Bild für …
-   a) Geldfälschung · b) den unveränderten Schein bei sinkender Kaufkraft · c) das Sparen.
-2. Der Verbraucherpreisindex ist …
-   a) ein Zinssatz · b) ein Warenkorb zur Messung der Teuerung · c) eine Steuer.
-3. Das Zwei-Prozent-Ziel wurde laut Wagner gewählt, weil es …
-   a) einen Sicherheitsabstand zur Deflation schafft · b) das Wachstum garantiert · c) die Löhne stabilisiert.
-4. Warum verschieben Menschen bei Deflation ihre Käufe?
-   a) weil Kredite teurer werden · b) weil sie erwarten, dass alles billiger wird · c) weil die Steuern steigen.
-5. Das wichtigste Werkzeug der Zentralbank gegen zu hohe Inflation ist …
-   a) der Leitzins · b) die Deflation · c) der Warenkorb.
-6. Eine Leitzinserhöhung wirkt so, dass …
-   a) Kredite billiger werden · b) Kredite teurer werden und die Ausgaben sinken · c) die Löhne sofort steigen.
-7. Die Abwägung bei der Leitzinserhöhung nennt Wagner …
-   a) einfach · b) eng · c) unwichtig.
-8. Von milder Inflation profitieren laut Wagner tendenziell …
-   a) Menschen mit festem Einkommen · b) Sparende · c) Menschen mit Schulden.
-
-{{< details type="tip" title="Lösungen — Prüfung" >}}
-1. b · 2. b · 3. a · 4. b · 5. a · 6. b · 7. b · 8. c
-
-**Punkte-Rubrik:** 8 P. = sehr gut · 6–7 P. = gut · 4–5 P. = befriedigend / bestanden · 0–3 P. = noch nicht bestanden (Hörtext erneut mit Transkript nachbereiten).
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich konnte den Hauptaussagen des Podcasts beim zweiten Hören sicher folgen.
 - [ ] Ich kann *Inflation*, *Kaufkraft* und *Leitzins* jeweils in einem Laiensatz erklären.
 - [ ] Ich habe in meiner Stellungnahme abgewogen (*einerseits/andererseits*) statt nur aufgezählt.
 - [ ] Ich habe mindestens ein Passiv und eine Nominalisierung bewusst eingesetzt.
 - [ ] Ich weiß, warum Inflation nicht alle Menschen gleich trifft.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Min):**
 
@@ -270,3 +270,5 @@ Eine Freundin sagt: *"Inflation ist doch nur ein Problem für Reiche mit viel Ge
 - *Purchasing power* — Wikipedia, Die freie Enzyklopädie (Abruf 2026). <https://en.wikipedia.org/wiki/Purchasing_power> · Lizenz: CC BY-SA 4.0; Inhalt paraphrasiert.
 
 *Alle Lese- und Hörtexte dieser Einheit sind Originaltexte des Autors. Es besteht keine Verbindung zu den genannten Institutionen; deren Namen dienen ausschließlich der Quellenangabe.*
+
+- [Statistisches Bundesamt — Verbraucherpreisindex](https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/Methoden/Erlaeuterungen/verbraucherpreisindex.html), geprüft 31.10.2026: Index und zugrunde liegender Warenkorb sind verschiedene Begriffe. Die Definition in Wortschatz und Hörtext wurde entsprechend berichtigt.

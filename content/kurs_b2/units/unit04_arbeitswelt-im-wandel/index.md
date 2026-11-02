@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.obtaining-goods-and-services.02
-    - B2.PROD.compensating.01
-    - B2.REC.reading-for-information-and-argument.05
-    - B2.INT.asking-for-clarification.01
-    - B2.MED.managing-interaction.03
+  - B2.INT.obtaining-goods-and-services.02
+  - B2.PROD.compensating.01
+  - B2.REC.reading-for-information-and-argument.05
+  - B2.INT.asking-for-clarification.01
+  - B2.MED.managing-interaction.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit04_arbeitswelt-im-wandel_exam
+  format: module-practice
+  duration_minutes:
+  points: 20
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -83,6 +111,7 @@ Technik, die anderen erhoffen sich einen Aufbruch. Kovač lächelt und
 sagt nur: *„Vermutlich werden Sie heute vier sehr verschiedene
 Wahrheiten hören — und keine davon ist ganz falsch.“*
 
+## Aktivieren {#activate}
 **Einstiegsfragen (Partnerarbeit):**
 
 - Welche Berufe gelten in den Medien als „von KI bedroht“ — und
@@ -91,8 +120,7 @@ Wahrheiten hören — und keine davon ist ganz falsch.“*
   automatisieren lassen? Warum nicht?
 - Wo empfinden Sie KI als hilfreich, wo als lästig oder riskant?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle (B2)
 
 | Wort / Wendung                     | Erläuterung / Kollokation                         |
@@ -205,8 +233,7 @@ hin, dass der Einsatz von Robotern die Beschäftigung in der Industrie
 ausweitete (CC BY 3.0 IGO). Beide Befunde stützen die Deutung, dass
 Automatisierung nicht zwangsläufig zu Arbeitsplatzabbau führt.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Position erkennen (Niveau A, leichter).**
 Ordnen Sie jede Person einer Position zu: *eher pro · teils/teils ·
 eher kontra.*
@@ -268,8 +295,7 @@ Chancen.*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Vortrag (Vorbereitung auf B2-Sprechen, Teil 1, ca. 4 Min.):**
 Bereiten Sie einen strukturierten Vortrag zu folgender Frage vor:
 
@@ -301,41 +327,11 @@ Verteilen Sie die Rollen (Befürworter:in / Kritiker:in), reagieren
 Sie aufeinander und einigen Sie sich am Ende auf einen gemeinsamen
 Vorschlag.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 — Modul Sprechen (Teil 1 + Teil 2)**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit04_arbeitswelt-im-wandel_exam" >}}).
 
-**Teil 1 — Vortrag (ca. 4 Min. pro Person).** Wählen Sie *ein* Thema
-und präsentieren Sie strukturiert Ihre Position:
-
-- A: *„Sollten Universitäten das Nutzen von KI-Tools in Hausarbeiten
-  regulieren?“*
-- B: *„Sollte KI in Bewerbungsverfahren zur Vorauswahl von
-  Kandidat:innen eingesetzt werden?“*
-
-**Teil 2 — Diskussion (ca. 5 Min.).** Debattieren Sie die These:
-
-> *„KI wird mehr Arbeitsplätze schaffen als vernichten.“*
-
-Vertreten Sie je eine Seite (Befürworter:in / Kritiker:in),
-argumentieren Sie mit Belegen und reagieren Sie auf die
-Gegenargumente.
-
-**Punkte-Rubrik (max. 20 Punkte):**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Aufgabenerfüllung / Inhalt (These, Belege)  |   5    |
-| Struktur & Kohärenz (Konnektoren, roter Faden)| 4    |
-| Interaktion (auf Partner:in eingehen, Teil 2)|  4    |
-| Wortschatz (Themenvokabular, Redemittel)    |   4    |
-| Grammatik & Aussprache                       |   3    |
-| **Gesamt**                                  | **20** |
-
-*Bestehensgrenze: 12 / 20 Punkte.*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich unterscheide zustimmende, ablehnende und abwägende
       Positionen und kann meine Einordnung begründen.
 - [ ] Ich formuliere These, Beleg und Einschränkung mit den
@@ -346,7 +342,7 @@ Gegenargumente.
 - [ ] Ich führe eine 5-Minuten-Diskussion und gehe auf mein
       Gegenüber ein.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Min.):**
 

@@ -37,13 +37,39 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.INT.conversation.01
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.INT.formal-discussion.01
-    - C1.MED.note-taking.01
+  - C1.INT.conversation.01
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.INT.formal-discussion.01
+  - C1.MED.note-taking.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+exam:
+  page: kurs_c1/units/unit04_aesthetik-und-urteil_exam
+  format: module-practice
+  duration_minutes: 4
+  points: 20
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit04_aesthetik-und-urteil-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit04_aesthetik-und-urteil-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -83,6 +109,7 @@ Vorzeichen. Damit ist die Grundfrage dieser Einheit gestellt: **Ist ein
 ästhetisches Urteil bloß ein verkleidetes Geständnis („mir gefällt")
 oder erhebt es einen Anspruch, dem andere zustimmen sollen?**
 
+## Aktivieren {#activate}
 **Einstiegsfragen (Plenum):**
 
 - Woran erkennt man, dass jemand *begründet* und nicht nur *behauptet*?
@@ -91,8 +118,7 @@ oder erhebt es einen Anspruch, dem andere zustimmen sollen?**
 - Wenn zwei Personen dasselbe Merkmal entgegengesetzt bewerten: Streiten
   sie über das Werk oder über sich selbst?
 
-## Input
-
+## Input {#input}
 ### A. Kontext — Kants Analytik des Schönen (belegt)
 
 Der klassische Bezugspunkt jeder Debatte über den Geschmack ist Immanuel
@@ -207,8 +233,7 @@ diese Einheit verfasst und stammen aus keinem realen Werk.
 > Adressaten, der nicht genannt wird, aber ohne den der Text nicht
 > bestünde."*
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Terminologie zuordnen** *(rezeptiv, Einstieg).*
 Ordnen Sie jeder Definition den passenden Begriff aus der Vokabeltabelle
 zu.
@@ -279,8 +304,7 @@ Kanonizität und Mehrheitsgefallen historisch oft auseinanderfallen
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Stilanalyse-Vortrag (ca. 4 Min).**
 Wählen Sie *ein* Werk (literarischer Text, Film, Gemälde, Komposition).
 Halten Sie einen strukturierten Kurzvortrag, der die in dieser Einheit
@@ -302,33 +326,11 @@ mindestens drei präzise, belegbare Beobachtungen; (c) abgesichertes,
 nicht behauptetes Urteil; (d) Fachlexik korrekt eingesetzt; (e)
 kohärente, hörerfreundliche Gliederung.
 
-## Prüfung — GER C1, Modul *Sprechen*, Teil 1 (Vortrag)
+## Prüfung — GER C1, Modul *Sprechen*, Teil 1 (Vortrag) {#exam}
 
-**Aufgabenstellung.** Halten Sie einen zusammenhängenden Vortrag von
-ca. 4 Minuten zu der Frage:
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit04_aesthetik-und-urteil_exam" >}}).
 
-> *„Ist ein ästhetisches Urteil bloß Geschmackssache — oder kann man es
-> begründen?"*
-
-Ihr Vortrag soll (1) die Frage einordnen, (2) *mindestens ein* konkretes
-Werk-Beispiel als Befund heranziehen, (3) eine Gegenposition einräumen
-und entkräften und (4) mit einem eigenen, abgesicherten Urteil schließen.
-
-**Punkte-Rubrik (20 Punkte):**
-
-| Kriterium | Beschreibung | Punkte |
-|---|---|---|
-| Aufgabenerfüllung | alle vier Teilaufgaben behandelt, Thema getroffen | 5 |
-| Argumentation | Befund/Deutung getrennt, Konzession + begründete Wende | 5 |
-| Wortschatz | ästhetische Fachlexik präzise, Hedging-Mittel variabel | 4 |
-| Struktur / Kohäsion | erkennbare Gliederung, klare Konnektoren | 3 |
-| Korrektheit / Aussprache | wenige Fehler, flüssiger, verständlicher Vortrag | 3 |
-
-**Bestehensgrenze:** 12 / 20. Notieren Sie zur Selbstkontrolle *vorab*
-drei Befunde und *ein* Hedging-Mittel pro Befund.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann das *Angenehme*, das *Gute* und das *Schöne* auseinanderhalten.
 - [ ] Ich trenne in der Analyse Befund und Deutung.
 - [ ] Ich sichere mein Urteil sprachlich ab (Konzession, Restriktion,
@@ -337,7 +339,7 @@ drei Befunde und *ein* Hedging-Mittel pro Befund.
 - [ ] Ich kann Kants Formel der *subjektiven Allgemeinheit* erläutern und
   kritisch befragen.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Min):**
 

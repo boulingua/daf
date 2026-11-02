@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.07
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.PROD.sustained-monologue-describing-experience.09
-    - A2.REC.reading-as-a-leisure-activity.03
-    - A2.INT.correspondence.01
+  - A2.PROD.creative-writing.07
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.PROD.sustained-monologue-describing-experience.09
+  - A2.REC.reading-as-a-leisure-activity.03
+  - A2.INT.correspondence.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-a2-lesen-teil-4
+exam:
+  page: kurs_a2/units/unit05_reiseplanung_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit05_reiseplanung-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit05_reiseplanung-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -82,14 +110,14 @@ curriculum:
 > **Nora:** Der Zug um 9 Uhr 12 ist billig. **Dass** wir sparen,
 > ist wichtig. Wir haben ja auch noch Ausflüge geplant.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 1. Warum ist die Ferienwohnung für Nora und Ben zu teuer?
 2. Welche Unterkunft wählen sie? Warum?
 3. Wohin fahren Sie gern im Urlaub — und mit welchem Budget pro Tag?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort                    | Bedeutung                          |
@@ -149,8 +177,7 @@ Unterkünfte für Reisen bieten. Bis heute sind Jugendherbergen in
 vielen Ländern eine günstige Möglichkeit zum Übernachten
 (paraphrasiert nach Wikipedia, „Jugendherberge“, CC BY-SA 4.0).
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen (leicht).** Welche Unterkunft passt zu wem?
 Ordnen Sie zu (a–e).
 
@@ -221,8 +248,7 @@ und antworten Sie.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe.** Planen Sie eine Reise für fünf Tage an einen
 selbst gewählten Ort. Schreiben Sie ca. 60–80 Wörter. Nennen Sie:
 
@@ -242,56 +268,18 @@ selbst gewählten Ort. Schreiben Sie ca. 60–80 Wörter. Nennen Sie:
 | Wortschatz zum Thema Reise                  | 0–2    |
 | Verständlichkeit (A2)                       | 0–2    |
 
-## Prüfung — GER A2 Lesen, Teil 4
+## Prüfung — GER A2 Lesen, Teil 4 {#exam}
 
-**Aufgabenstellung:** Sie planen eine Reise und lesen sechs
-Anzeigen (a–f). Ordnen Sie den **fünf Personen** (1–5) je eine
-passende Anzeige zu. **Eine Anzeige passt zu keiner Person.**
-Schreiben Sie den Buchstaben in das Kästchen.
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit05_reiseplanung_exam" >}}).
 
-**Anzeigen:**
-
-> **a) Ferienwohnung „Almblick“**, Berge, 3 Zimmer, Küche.
-> 90 €/Nacht. Selbstversorger.
-> **b) Jugendherberge Graz.** Mehrbettzimmer 28 €/Nacht + Frühstück.
-> **c) Bio-Bauernhof Riegersburg.** Zimmer 65 €/Nacht, Halbpension,
-> Produkte vom Hof.
-> **d) Campingplatz Altaussee.** Stellplatz mit Zelt 18 €/Nacht.
-> **e) Hotel „Blau am See“.** Doppelzimmer 180 €/Nacht, Pool.
-> **f) Hostel „Wien Mitte“**, Zentrum, 35 €/Nacht.
-
-**Personen:**
-
-1. „Wir brauchen ein günstiges Hostel mitten in der Stadt.“ → ▢
-2. „Wir wollen Komfort und einen Pool am See.“ → ▢
-3. „Wir lieben frische Bauernprodukte und Halbpension.“ → ▢
-4. „Wir zelten am liebsten.“ → ▢
-5. „Wir suchen eine Ferienwohnung mit Küche in den Bergen.“ → ▢
-
-**Punkte-Rubrik (max. 5 Punkte):**
-
-| Leistung                     | Punkte |
-|------------------------------|--------|
-| Jede richtige Zuordnung      | 1      |
-| 5 richtig                    | 5 (sehr gut) |
-| 4 richtig                    | 4 (gut) |
-| 3 richtig                    | 3 (bestanden) |
-| unter 3 richtig              | noch nicht bestanden |
-
-{{< details type="tip" title="Lösungen" >}}
-1 = f · 2 = e · 3 = c · 4 = d · 5 = a. (Anzeige **b** passt zu
-niemandem.)
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich verstehe fünf Unterkunfts-Anzeigen.
 - [ ] Ich kann Preise pro Nacht vergleichen und ein Budget rechnen.
 - [ ] Ich kann einen Fahrplan lesen und den günstigen Zug finden.
 - [ ] Ich kann einen Satz mit *weil* bilden.
 - [ ] Ich kann fünf Reisetage schriftlich planen.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Minuten):** Einstieg 5' · Input 12' · Üben 15' ·
 Anwenden 8' · Prüfung 5'.

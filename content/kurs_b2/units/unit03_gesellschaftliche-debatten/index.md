@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.formal-discussion.01
-    - B2.PROD.compensating.02
-    - B2.INT.goal-oriented-online-transactions-and-collaboration.02
-    - B2.PROD.reports-and-essays.01
-    - B2.MED.managing-interaction.03
+  - B2.INT.formal-discussion.01
+  - B2.PROD.compensating.02
+  - B2.INT.goal-oriented-online-transactions-and-collaboration.02
+  - B2.PROD.reports-and-essays.01
+  - B2.MED.managing-interaction.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit03_gesellschaftliche-debatten_exam
+  format: module-practice
+  duration_minutes:
+  points: 20
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit03_gesellschaftliche-debatten-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit03_gesellschaftliche-debatten-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -78,6 +107,7 @@ drei Rechnungen zugleich — die **Rente**, das **Klima** und die
 Verpflichtungen, über die er nie abgestimmt habe. Wer heute alt
 ist, entgegnet, er habe ein Land aufgebaut, von dem alle lebten.
 
+## Aktivieren {#activate}
 **Diskutieren Sie zu zweit:**
 
 - Welche der drei „Rechnungen“ — Rente, Klima, Schulden —
@@ -87,8 +117,7 @@ ist, entgegnet, er habe ein Land aufgebaut, von dem alle lebten.
 - Mit welchen sprachlichen Mitteln macht man eine Position
   *scharf*, ohne die Gegenseite lächerlich zu machen?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Ausdruck | Wortart / Form | Bedeutung / Verwendung |
@@ -195,8 +224,7 @@ geht es um dieselbe Frage: Wer trägt welche Last, und wann?
 | Eigene Position | begründete Stellungnahme | *Meiner Ansicht nach …* |
 | Vorschlag / Schluss | konstruktiver Ausblick | *Man könnte …*, *Nicht zuletzt* |
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Konnektoren einsetzen (Grundniveau)
 
 Ergänzen Sie: *einerseits · andererseits · dennoch · folglich ·
@@ -279,8 +307,7 @@ Zukunftsinvestitionen ausgenommen würden.*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (Partner- oder Einzelarbeit):** Verfassen
 Sie eine strukturierte **Stellungnahme (ca. 250–300 Wörter)** zu
 der Frage:
@@ -298,42 +325,11 @@ der Frage:
 - [ ] Vier verschiedene argumentative Konnektoren.
 - [ ] Konstruktiver Schluss statt bloßer Schuldzuweisung.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 · Modul Schreiben, Teil 1 — Stellungnahme**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit03_gesellschaftliche-debatten_exam" >}}).
 
-In einem Debattenforum diskutieren Leserinnen und Leser über
-Generationengerechtigkeit. Schreiben Sie einen **Forumsbeitrag
-(ca. 250 Wörter)** zu folgender These:
-
-> *„Junge Menschen tragen heute die Hauptlast von Rente, Klima
-> und Staatsschulden — die Politik muss sie deshalb bevorzugt
-> entlasten.“*
-
-Erfüllen Sie dabei vier Anforderungen:
-
-- Ihre **Meinung** klar äußern,
-- **Argumente** anführen und **mit Beispielen** erläutern,
-- eine **Gegenstimme** einbeziehen und abwägen,
-- einen **Schlussvorschlag** formulieren.
-
-{{< callout type="info" >}}
-**Punkte-Rubrik (max. 20 Punkte)**
-
-| Kriterium | Beschreibung | Punkte |
-|---|---|---|
-| Erfüllung der Aufgabe | alle vier Anforderungen bearbeitet | 5 |
-| Argumentation & Kohärenz | These, Abwägung, Konnektoren, roter Faden | 5 |
-| Wortschatz | Themenwortschatz, Nominalisierungen, Präzision | 4 |
-| Grammatik | Passiv / Konjunktiv I/II korrekt, Satzbau | 4 |
-| Textsorte & Register | Forumsbeitrag, angemessen sachlich | 2 |
-
-**Bewertung:** 18–20 = sehr gut · 15–17 = gut · 12–14 =
-befriedigend · 9–11 = ausreichend · < 9 = nicht bestanden.
-{{< /callout >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann eine These formulieren und Pro und Contra abwägen.
 - [ ] Ich setze Passiv, Nominalisierung und Konjunktiv I/II
       bewusst ein.
@@ -344,7 +340,7 @@ befriedigend · 9–11 = ausreichend · < 9 = nicht bestanden.
 - [ ] Ich schreibe einen Forumsbeitrag von 250–300 Wörtern auf
       B2-Niveau.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten)**
 

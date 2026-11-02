@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.formal-discussion.01
-    - B2.PROD.reports-and-essays.01
-    - B2.REC.overall-oral-comprehension.03
-    - B2.INT.informal-discussion.03
-    - B2.MED.adapting-language.03
+  - B2.INT.formal-discussion.01
+  - B2.PROD.reports-and-essays.01
+  - B2.REC.overall-oral-comprehension.03
+  - B2.INT.informal-discussion.03
+  - B2.MED.adapting-language.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit06_migrationsdiskurs_exam
+  format: module-practice
+  duration_minutes:
+  points: 7
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit06_migrationsdiskurs-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit06_migrationsdiskurs-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -83,6 +111,7 @@ Essay mit dem Titel *„Wer gehört dazu?"*. **Elena** soll dazu eine
 Leserdebatte moderieren — und ihr fällt auf, dass schon die Wahl
 der Wörter eine Position verrät.
 
+## Aktivieren {#activate}
 Sprechen Sie zu zweit:
 
 - Welche Wörter benutzen Medien für „Menschen, die kommen"?
@@ -95,8 +124,7 @@ Sprechen Sie zu zweit:
 > ihre Genauigkeit.* Wer präzise benennt, argumentiert fairer.
 
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort                    | Nuance / Gebrauch                              |
@@ -174,26 +202,31 @@ Wer eine Quelle zitiert, ohne sie zu bewerten, nutzt Konjunktiv I:
 
 ### D. Sachtext mit Kontext (paraphrasiert, mit Quellen)
 
-> Wie groß ist Migration weltweit wirklich? Nach Angaben der
-> Bevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024
-> rund **304 Millionen Menschen** außerhalb ihres Geburtslandes;
-> das entspricht etwa **3,7 Prozent** der Weltbevölkerung. Bemerkens­wert
-> ist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist —
-> im Gegensatz zu dem Eindruck, den manche Debatten vermitteln.
+> Für Mitte 2024 schätzte die Bevölkerungsabteilung der Vereinten Nationen
+> weltweit **304 Millionen internationale Migrantinnen und Migranten**.
+> Ihr Anteil an der Weltbevölkerung lag bei **3,7 Prozent**, gegenüber
+> **2,9 Prozent im Jahr 1990**. Der Anteil stieg somit um 0,8 Prozentpunkte.
+> Die Bestandszahl beschreibt Menschen zu einem Zeitpunkt, nicht die Zahl
+> der Grenzübertritte oder neu Zugewanderten in einem einzelnen Jahr.
 >
-> In Deutschland wiederum wurden für 2024 laut Statistischem
-> Bundesamt rund **12,4 Millionen Menschen ohne deutsche
-> Staatsangehörigkeit** gezählt; bezieht man den weiter gefassten
-> „Migrationshintergrund" ein, so lag der Anteil bei etwa **30
-> Prozent**. Zahlen wie diese werden hier nicht als Argument für
-> oder gegen etwas angeführt, sondern als gemeinsame Grundlage:
-> Wer die Größenordnung kennt, diskutiert sachlicher.
+> Die deutsche **Bevölkerungsfortschreibung** wies für Ende 2024 rund
+> **12,4 Millionen Menschen ohne deutsche Staatsangehörigkeit** aus.
+> Eine andere Statistik, die **Erstergebnisse des Mikrozensus 2024**,
+> bezifferte den Anteil von Menschen mit **Migrationshintergrund** in
+> Privathaushalten auf etwa **30 Prozent**. Dieses Merkmal umfasst auch
+> viele deutsche Staatsangehörige. Begriffe, Erhebungen und Bezugsgruppen
+> sind verschieden; die Zahlen dürfen nicht gleichgesetzt oder addiert werden.
 >
-> *(Zahlen paraphrasiert; Quellen siehe Abschnitt „Quellen".)*
+> Zahlen können eine gemeinsame Diskussionsgrundlage schaffen, wenn man
+> sie mit Zeitraum, Definition und Quelle nennt. Sie entscheiden nicht,
+> ob sich jemand einer Gesellschaft zugehörig fühlt. Dafür bleibt auch
+> die Sprache der persönlichen Erfahrung wichtig.
+>
+> *(Fakten in eigener Sprache; Quellenstand der Prüfung: 31.10.2026.
+> Für den Mikrozensus ist bewusst der im Ausgangstext verwendete Stand
+> der Erstergebnisse 2024 gekennzeichnet, nicht ein neuer Endergebnisstand.)*
 
-
-## Üben
-
+## Üben {#practise}
 {{< callout type="tip" >}}
 **Niveau-Differenzierung:** ● Grundaufgabe (B1+/B2) ·
 ●● Standard (B2) · ●●● Vertiefung (B2+). Bearbeiten Sie
@@ -266,8 +299,7 @@ jedem pauschalen Satz eine **neutrale, abwägende** Fassung
 {{< /details >}}
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Stellungnahme (schriftlich, ca. 180–220
 Wörter).** Thema:
 
@@ -296,47 +328,11 @@ Gliedern Sie Ihre Erörterung:
 Kriterien; eine Person Pro, eine Contra, danach Rollentausch.
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 · Modul Lesen — Teil 3 (Detailverständnis, Multiple
-Choice).** Lesen Sie den Essay-Ausschnitt (Abschnitt C) und den
-Sachtext (Abschnitt D) noch einmal. Wählen Sie pro Frage **a, b
-oder c**. (7 Punkte, je 1 Punkt.)
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit06_migrationsdiskurs_exam" >}}).
 
-1. Der Autor stellt sich als jemand vor, der …
-   a) aus genau einem Ort kommt · b) aus mehreren Kontexten kommt ·
-   c) nur in Berlin lebt.
-2. Die öffentliche Debatte ist laut Text …
-   a) nuanciert · b) zweiwertig · c) überflüssig.
-3. Zugehörigkeit ist für den Text …
-   a) eine Ja-Nein-Frage · b) eine Verhandlung · c) eine amtliche
-   Entscheidung.
-4. Zahlen sind laut Text vor allem wichtig, weil sie …
-   a) vor Gerüchten schützen · b) Zugehörigkeit messen · c)
-   Debatten überflüssig machen.
-5. Der weltweite Anteil der Migrant:innen an der Weltbevölkerung
-   ist seit 1990 …
-   a) stark gestiegen · b) nur wenig gestiegen · c) gesunken.
-6. Der Sachtext führt die Zahlen an, um …
-   a) für mehr Zuwanderung zu werben · b) eine gemeinsame Grundlage
-   zu schaffen · c) vor Migration zu warnen.
-7. Der Text richtet sich am ehesten an …
-   a) Behörden · b) ein breites Lesepublikum · c) Fachleute der
-   Migrationsforschung.
-
-{{< callout type="note" >}}
-**Punkte-Rubrik (7 Punkte):** 7 = ausgezeichnet · 6 = gut ·
-5 = befriedigend · 4 = ausreichend (bestanden) · ≤3 = noch nicht
-bestanden, Wiederholung empfohlen.
-{{< /callout >}}
-
-{{< details type="tip" title="Lösungen" >}}
-1. b · 2. b · 3. b · 4. a · 5. b · 6. b · 7. b.
-{{< /details >}}
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich unterscheide *Migration, Flucht, Zuwanderung* und
   *Teilhabe* sicher.
 - [ ] Ich erkenne mindestens drei rhetorische Strategien und ihre
@@ -347,7 +343,7 @@ bestanden, Wiederholung empfohlen.
 - [ ] Ich vermeide Pauschalisierungen und wähle Wörter präzise.
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 
@@ -379,25 +375,8 @@ respektieren; niemand muss die eigene Migrationsgeschichte teilen.
 
 ## Quellen
 
-- **International Migrant Stock 2024 — Key Facts and Figures**
-  — United Nations, Department of Economic and Social Affairs,
-  Population Division (2025).
-  <https://www.un.org/development/desa/pd/content/international-migrant-stock-2024-key-facts-and-figures>
-  — Zahlen paraphrasiert; © United Nations, Nutzung als
-  Faktenangabe mit Quellennennung.
-- **304 Millionen Migrantinnen und Migranten weltweit
-  (International Statistics)** — Statistisches Bundesamt
-  (Destatis) (2025).
-  <https://www.destatis.de/EN/Themes/Countries-Regions/International-Statistics/Data-Topic/Population-Labour-Social-Issues/DemographyMigration/Migrants.html>
-  — Daten unter *Datenlizenz Deutschland – Namensnennung 2.0*
-  (dl-de/by-2-0).
-- **Migration und Integration — Ausländische Bevölkerung nach
-  Ländern und Jahren** — Statistisches Bundesamt (Destatis) (2025).
-  <https://www.destatis.de/EN/Themes/Society-Environment/Population/Migration-Integration/Tables/foreign-population-laender.html>
-  — Daten unter *Datenlizenz Deutschland – Namensnennung 2.0*
-  (dl-de/by-2-0).
+- [United Nations — International Migration](https://www.un.org/global-issues/migration) und [International Migrant Stock 2024](https://www.un.org/development/desa/pd/content/International-migrant-stock): 304 Millionen, 3,7 Prozent 2024, 2,9 Prozent 1990.
+- [Statistisches Bundesamt — Bevölkerung Deutschlands wächst im Jahr 2024 geringfügig um 0,1 Prozent, 20.06.2025](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_221_124.html): 12,4 Millionen ausländische Personen in der Bevölkerungsfortschreibung, Ende 2024. Dies ist nicht die abweichende Registerzahl des Ausländerzentralregisters.
+- [Bundesregierung/BAMF — Migrationsbericht 2024, Bundestagsdrucksache 21/4300, Abbildung 7-12, gedruckte Seite 198](https://dserver.bundestag.de/btd/21/043/2104300.pdf): 30,4 Prozent mit Migrationshintergrund, Quelle Statistisches Bundesamt, Mikrozensus-Erstergebnisse 2024. Die Einheit rundet auf etwa 30 Prozent.
 
-*Alle fortlaufenden Texte (Essay-Ausschnitt, Sachtext, Aufgaben)
-sind Originalprosa der Kursleitung. Statistische Angaben wurden
-paraphrasiert und mit Quelle ausgewiesen; es wurde kein
-urheberrechtlich geschützter Text übernommen.*
+Quellenstand: 31.10.2026. Essay und Aufgaben sind eigene Unterrichtsprosa; statistische Tatsachen wurden paraphrasiert. Die Zahlen beziehen sich auf die ausdrücklich genannten Berichtsstände.

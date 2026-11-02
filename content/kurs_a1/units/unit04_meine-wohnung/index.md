@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.02
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.PROD.compensating.01
-    - A1.REC.overall-oral-comprehension.01
-    - A1.INT.correspondence.03
+  - A1.PROD.creative-writing.02
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.PROD.compensating.01
+  - A1.REC.overall-oral-comprehension.01
+  - A1.INT.correspondence.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit04_meine-wohnung_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit04_meine-wohnung-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit04_meine-wohnung-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -87,6 +115,7 @@ macht die Tür auf.
 >
 > **Ana:** Das Zimmer ist toll. Das Bett steht am Fenster.
 
+## Aktivieren {#activate}
 Fragen zum Start:
 
 - Wie viele Zimmer hat Ihre Wohnung?
@@ -94,8 +123,7 @@ Fragen zum Start:
 - Zeichnen Sie Ihr Zimmer. Sagen Sie: *Das ist mein Zimmer.*
 
 
-## Input
-
+## Input {#input}
 ### A. Wörter — Räume und Möbel
 
 | Wort              | Bedeutung (Englisch) |
@@ -174,8 +202,7 @@ allein. (Paraphrasiert nach Wikipedia, *Wohngemeinschaft* — siehe
 Quellen.)
 
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Zuordnen (Raum oder Möbel?)
 
 Schreiben Sie **R** (Raum) oder **M** (Möbel).
@@ -243,8 +270,7 @@ Ergänzen Sie mit einer Präposition (*auf, neben, unter, am*).
   ein Foto ihres Zimmers mit *Es gibt …* und drei Präpositionen.
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (A1):** Beschreiben Sie Ihr Zimmer in fünf
 kurzen Sätzen. Nutzen Sie mindestens **vier Möbel** und
 **zweimal** *Es gibt …*.
@@ -267,59 +293,11 @@ kurzen Sätzen. Nutzen Sie mindestens **vier Möbel** und
 | Man versteht meinen Text gut.          |    |      |            |
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 · Modul Schreiben · Teil 1: Formular ausfüllen**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit04_meine-wohnung_exam" >}}).
 
-**Aufgabe:** Sie wollen in Deutschland eine Wohnung mieten. Sie
-füllen das Formular aus. Ergänzen Sie **die fünf Felder**.
-
-> **Anmeldung einer Wohnung — Stadt Frankfurt**
->
-> Name (Nachname): ___________________
->
-> Vorname: Ana
->
-> Geburtsdatum: ___________________
->
-> Geburtsort: Lissabon
->
-> Staatsangehörigkeit: ___________________
->
-> Adresse in Frankfurt: Mainzer Straße 15, ___________________ Frankfurt
->
-> Telefon: +49 ___________________
-
-**Information zur Situation:** Ana Silva kommt aus Portugal, ist
-am 14.3.2001 geboren und zieht nach Frankfurt am Main. PLZ in
-Frankfurt: 60325. Ihre Telefonnummer: 69 987 654 321.
-
-**Bewertung (Rubrik, 5 Punkte):**
-
-| Kriterium                          | Punkte |
-|------------------------------------|--------|
-| Nachname korrekt                   | 0–1    |
-| Geburtsdatum korrekt               | 0–1    |
-| Staatsangehörigkeit korrekt        | 0–1    |
-| PLZ korrekt                        | 0–1    |
-| Telefon korrekt                    | 0–1    |
-| **Summe**                          | **5**  |
-
-*Bestanden ab 3 von 5 Punkten.*
-
-{{< details type="tip" title="Lösungen" >}}
-
-- Name: Silva
-- Geburtsdatum: 14.3.2001
-- Staatsangehörigkeit: portugiesisch
-- PLZ: 60325
-- Telefon: 69 987 654 321
-
-{{< /details >}}
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann acht Wörter zu Wohnung und Möbel.
 - [ ] Ich kann mit *Es gibt …* sagen, was in einem Zimmer ist.
 - [ ] Ich kann sagen, wo etwas ist (in, auf, neben …).
@@ -329,7 +307,7 @@ Frankfurt: 60325. Ihre Telefonnummer: 69 987 654 321.
 **Mein Satz zum Merken:** _______________________________________
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Min):** Einstieg 5' · Input 12' · Üben 13' ·
 Anwenden 10' · Reflexion + Prüfungsvorschau 5'.

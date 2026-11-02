@@ -5,18 +5,18 @@
 Open teaching materials by **S. Le Boulanger**, part of
 [Boulingua](https://boulingua.github.io/website/).
 
-60 units across A1, A2, B1, B2 and C1. Examination-format materials are present, but there are no separate examination pages matching the English/French structure.
+60 units and 60 standalone examination pages across A1, A2, B1, B2 and C1.
 
 The site uses Hugo and the shared `kit` module. Units are Markdown leaf bundles
 under `content/`; downloadable materials and recordings are committed under
-`static/materials/`. There are 180 committed PDF downloads. Compilation and
+`static/materials/`. There are 180 unit PDF downloads (deck, learner worksheet and teacher worksheet) and 120 separate learner/teacher assessment PDFs. Compilation and
 file counts do not establish educational review or curriculum conformance.
 
 ## Try the current development version
 
 Prerequisites: Hugo **extended 0.159.2**, Go **1.26.1**, Python **3.12** and Node
 **22**. Keep the matching `kit`, `curriculum` and `.github` checkouts beside this
-repository. The 30 October refinement is a coordinated local release candidate;
+repository. The refinement branch is a coordinated release candidate;
 its changes have not yet been published as a compatible release set.
 
 From this repository:

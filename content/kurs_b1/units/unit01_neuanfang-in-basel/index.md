@@ -4,10 +4,8 @@ title: Einheit 1 — Neuanfang in Basel
 cefr_level: B1
 unit_nr: 1
 cefr_can_do:
-- Ich kann einen Erfahrungsbericht über Arbeiten im Ausland in seinen Hauptaussagen
-  verstehen.
-- Ich kann über eigene Berufserfahrungen zusammenhängend und in einfacher Struktur
-  erzählen.
+- Ich kann einen Erfahrungsbericht über Arbeiten im Ausland in seinen Hauptaussagen verstehen.
+- Ich kann über eigene Berufserfahrungen zusammenhängend und in einfacher Struktur erzählen.
 - Ich kann eine kurze Präsentation zu meinem Berufsweg halten und auf Rückfragen reagieren.
 skills_focus:
 - reading
@@ -39,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.goal-oriented-online-transactions-and-collaboration.04
-    - B1.PROD.planning.02
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.conversation.04
-    - B1.PLUR.plurilingual-comprehension.03
+  - B1.INT.goal-oriented-online-transactions-and-collaboration.04
+  - B1.PROD.planning.02
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.conversation.04
+  - B1.PLUR.plurilingual-comprehension.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit01_neuanfang-in-basel_exam
+  format: module-practice
+  duration_minutes: 3
+  points: 15
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit01_neuanfang-in-basel-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit01_neuanfang-in-basel-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -102,6 +128,7 @@ Kleinbasel, einen Fahrradschlüssel, eine Aufenthaltsbewilligung
 
 **Aktivieren Sie Ihr Vorwissen.**
 
+## Aktivieren {#activate}
 - Haben Sie schon einmal in einem anderen Land gearbeitet, oder
   wären Sie offen dafür? Was wäre Ihr Wunschland, und warum
   gerade dieses?
@@ -114,8 +141,7 @@ Tipp für den Unterricht: Diskutieren Sie diese Fragen zu zweit,
 je drei Minuten. Sammeln Sie an der Tafel: *„Was hilft beim
 Neuanfang?“*
 
-## Input
-
+## Input {#input}
 Milos hat sich entschlossen, seine Erfahrungen in einem
 Online-Forum für DaF-Lernende zu teilen. Der folgende Text stammt
 aus einem Beitrag, den er dort geschrieben hat.
@@ -253,8 +279,7 @@ original formuliert.
 > Dääg“ — die drei schönsten Tage. Seit 2017 gehört sie zum
 > immateriellen Kulturerbe der UNESCO.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Richtig oder falsch? (Lesetext 1)**
 Lesen Sie den Forumsbeitrag noch einmal und entscheiden Sie.
 
@@ -341,8 +366,7 @@ Sie Aufgabe 4 in vollständigen Sätzen mit Konnektoren („weil“,
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechimpuls — Ihre eigene Berufsgeschichte.**
 
 Bereiten Sie in fünf Minuten eine kurze mündliche Vorstellung
@@ -385,72 +409,11 @@ die Sie kurz beantworten.
 | Redefluss              | ca. zwei Minuten, ohne langes Stocken              |
 | Reaktion               | die Rückfrage wird passend beantwortet             |
 
-## Prüfung
+## Prüfung {#exam}
 
-### Prüfungsbeispiel — GER B1 Sprechen, Teile 2 und 3
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit01_neuanfang-in-basel_exam" >}}).
 
-{{< callout type="warning" >}}
-**Formal orientiert am offiziellen B1-Sprechen-Modul** (Vortrag +
-Feedback). Keine Reproduktion echter Modellsatz-Aufgaben —
-Stimulus und Struktur sind original.
-{{< /callout >}}
-
-**Aufgabenstellung (verbatim für Prüfungs-PDF):**
-
-> **Teil 2 — Präsentation.** Wählen Sie eines der folgenden Themen
-> und bereiten Sie einen Kurzvortrag (ca. 3 Minuten) vor. Gliedern
-> Sie Ihren Vortrag in fünf Folien:
->
-> 1. Einleitung / persönlicher Bezug zum Thema.
-> 2. Hauptteil: Beispiele und Erfahrungen.
-> 3. Die Situation in meinem Land / meiner Region.
-> 4. Vor- und Nachteile aus meiner Sicht.
-> 5. Abschluss / Ausblick.
->
-> **Thema A:** Arbeiten in einem anderen Land — ist das für junge
-> Erwachsene heute eine gute Idee?
->
-> **Thema B:** Ankommen in einer neuen Stadt — was hilft einem
-> Neuankömmling am meisten?
->
-> **Teil 3 — Feedback und Rückfrage.** Nachdem Ihre Partnerin /
-> Ihr Partner präsentiert hat, geben Sie eine kurze Rückmeldung
-> und stellen eine Frage zum Vortrag.
-
-**Bewertungskriterien und Punkte (0–15):**
-
-| Kriterium               | Punkte |
-|-------------------------|:------:|
-| Erfüllung der Aufgabe (alle fünf Folien) | 0–3 |
-| Kohärenz und Konnektoren                 | 0–3 |
-| Wortschatz (Spektrum + Beherrschung)     | 0–3 |
-| Strukturen (Spektrum + Beherrschung)     | 0–3 |
-| Aussprache und Reaktion (Teil 3)         | 0–3 |
-
-Richtwert: **12–15 Punkte** = sicheres B1; **9–11** = B1
-erreicht mit Lücken; **unter 9** = noch nicht B1.
-
-{{< details type="tip" title="Erwartungshorizont (Auszug, Thema B)" >}}
-
-Ein gutes B1-Niveau würde für Thema B mindestens enthalten:
-
-- eine **persönliche Anbindung** („Als ich nach … gezogen bin,
-  …“),
-- zwei konkrete **Beispiele** (Sprache, Wohnung, Behörden,
-  Freundschaften, Alltag),
-- einen Hinweis auf **Unterschiede zwischen Orten oder Ländern**,
-- mindestens **einen Vorteil und einen Nachteil** mit Begründung
-  („weil …“, „das führt dazu, dass …“),
-- einen klaren **Abschluss** („Am wichtigsten ist meiner Meinung
-  nach …“).
-
-Typische Schwächen auf B1: reine Aufzählung ohne Konnektoren;
-keine Ich-Perspektive; Verwechslung von *seit* + Perfekt.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 Haken Sie ab, was Sie nach dieser Einheit können:
 
 - [ ] Ich kann einen längeren Forumsbeitrag in seinen
@@ -468,7 +431,7 @@ Haken Sie ab, was Sie nach dieser Einheit können:
 **Was bleibt offen?** Notieren Sie in Ihrem Lernjournal einen
 Satz: *Beim nächsten Mal möchte ich …*
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (90-Min-Doppelstunde):** Titel + Lernziele 3’ ·
 Einstieg (Geschichte + Fragen) 12’ · Input (Lesetext 1 + Dialog +

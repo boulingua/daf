@@ -35,13 +35,40 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.notes-messages-and-forms.01
-    - A1.PROD.creative-writing.01
-    - A1.PROD.sustained-monologue-giving-information.01
-    - A1.INT.conversation.01
-    - A1.LING.general-linguistic-range.02
+  - A1.INT.notes-messages-and-forms.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.sustained-monologue-giving-information.01
+  - A1.INT.conversation.01
+  - A1.LING.general-linguistic-range.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit01_begruessung-und-name_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit01_begruessung-und-name-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit01_begruessung-und-name-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -82,6 +109,7 @@ Sie steht an der Tür. **Luka** sitzt schon am Tisch.
 >
 > **Luka:** Hallo, Ana! Ich bin Luka. Komm, setz dich!
 
+## Aktivieren {#activate}
 Fragen zum Start:
 
 - Welche deutschen Grußwörter kennen Sie schon?
@@ -89,8 +117,7 @@ Fragen zum Start:
 - Wie grüßen Sie am Morgen in Ihrer Sprache?
 
 
-## Input
-
+## Input {#input}
 ### A. Wörter — Grüßen und Verabschieden
 
 | Wort              | Wann?                       | Bedeutung (Englisch)      |
@@ -172,8 +199,7 @@ sind. (Quellen: Wikiversity, *Greetings and Phrases*;
 Wikipedia, *T–V distinction*; Wikipedia, *Grüß Gott* — siehe unten.)
 
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Lücken (sein / heißen / kommen)
 
 Ergänzen Sie das richtige Verb.
@@ -237,8 +263,7 @@ Auf Wiedersehen = F · Wie heißt du? = I · Wie heißen Sie? = F.
 {{< /details >}}
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechen — Partner-Interview.** Gehen Sie durch den Raum.
 Sprechen Sie mit **drei** Personen. Grüßen Sie zuerst, dann fragen
 Sie und antworten Sie. Verabschieden Sie sich am Ende.
@@ -261,41 +286,11 @@ Redemittel:
 | Man versteht mich gut.                     |    |      |            |
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 · Modul Sprechen · Teil 1: Sich vorstellen**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit01_begruessung-und-name_exam" >}}).
 
-**Aufgabenstellung:** Stellen Sie sich der Gruppe vor. Sprechen
-Sie über die vier Punkte. Buchstabieren Sie dann Ihren Vornamen
-und nennen Sie eine Zahl (Telefonnummer, Postleitzahl oder
-Hausnummer).
-
-- Name
-- Land / Herkunft
-- Alter
-- Sprachen
-
-**Beispiel-Antwort (Modell):**
-
-> Hallo! Ich heiße Ana. Ich komme aus Portugal. Ich bin 24 Jahre
-> alt. Ich spreche Portugiesisch und ein bisschen Deutsch. Mein
-> Name: A – N – A. Meine Postleitzahl ist 1010.
-
-**Bewertung (Rubrik, 6 Punkte):**
-
-| Kriterium                        | Punkte |
-|----------------------------------|--------|
-| Vorstellung (Name, Herkunft, Alter, Sprachen) | 0–3 |
-| Buchstabieren des Vornamens      | 0–1    |
-| Zahl korrekt nennen              | 0–1    |
-| Aussprache verständlich          | 0–1    |
-| **Summe**                        | **6**  |
-
-*Bestanden ab 4 von 6 Punkten.*
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann meinen Namen sagen.
 - [ ] Ich kann meine Herkunft sagen.
 - [ ] Ich kann mein Alter sagen.
@@ -306,7 +301,7 @@ Hausnummer).
 **Mein Satz zum Merken:** _______________________________________
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Min):** Einstieg 5' · Input 12' · Üben 12' ·
 Anwenden 11' · Reflexion + Prüfungsvorschau 5'.

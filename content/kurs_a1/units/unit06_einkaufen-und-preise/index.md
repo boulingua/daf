@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.asking-for-clarification.01
-    - A1.PROD.compensating.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.conversation.01
-    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  - A1.INT.asking-for-clarification.01
+  - A1.PROD.compensating.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.conversation.01
+  - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-prüfung-a1-hören-teil-2
+exam:
+  page: kurs_a1/units/unit06_einkaufen-und-preise_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit06_einkaufen-und-preise-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit06_einkaufen-und-preise-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -79,14 +107,14 @@ brauchen Obst und Käse.
 >
 > **Ana:** Warte, wir fragen an der Kasse.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 - Was kaufen Ana und Tarek?
 - Was kostet ein Kilo Äpfel?
 - Wie oft gehen Sie einkaufen?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort | Bedeutung |
@@ -144,8 +172,7 @@ die leere Flasche zurück in den Supermarkt und bekommt das Geld
 wieder. So sammelt man weniger Müll. (Paraphrasiert nach: Wikipedia,
 „Einwegpfand", CC BY-SA 4.0.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Welcher Preis passt? Verbinden Sie.
 
 | Zahl (Wort) | Preis |
@@ -195,8 +222,7 @@ Tirol) · 3) R · 4) F (Kasse 2 ist offen).
 - **schwerer:** Lernende schreiben zu Aufgabe 4 einen eigenen Dialog
   mit drei Produkten und Preisen.
 
-## Anwenden
-
+## Anwenden {#apply}
 **Rollenspiel „Am Markt".** Zu zweit. A ist Verkäufer:in, B ist
 Kund:in. B kauft **drei Dinge** (z. B. Äpfel, Käse, Milch) und fragt
 jeweils: *Was kostet …?* A nennt einen Preis. Am Ende fragt B:
@@ -208,39 +234,18 @@ jeweils: *Was kostet …?* A nennt einen Preis. Am Ende fragt B:
 - Ich verstehe den Preis und antworte. (ja / fast / noch üben)
 - Ich nenne eine Menge: *ein Kilo, zwei Stück*. (ja / fast / noch üben)
 
-## Prüfung — GER-Prüfung A1 Hören, Teil 2
+## Prüfung — GER-Prüfung A1 Hören, Teil 2 {#exam}
 
-**Aufgabe:** Sie hören **fünf Durchsagen** (einmal). Sind die
-Aussagen richtig oder falsch? Kreuzen Sie an.
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit06_einkaufen-und-preise_exam" >}}).
 
-1. **Durchsage:** „Äpfel, ein Kilo für 99 Cent."
-   *Aussage:* Ein Kilo Äpfel kostet 99 Cent. → R / F
-2. **Durchsage:** „Milch, ein Liter 1,29 €."
-   *Aussage:* Milch kostet über 2 Euro. → R / F
-3. **Durchsage:** „Kaffee, eine Tasse 2 Euro."
-   *Aussage:* Eine Tasse Kaffee kostet 2 Euro. → R / F
-4. **Durchsage:** „Brot, 500 Gramm, 2,50 €."
-   *Aussage:* Ein halbes Kilo Brot kostet 2,50 €. → R / F
-5. **Durchsage:** „Kasse 3 ist jetzt offen."
-   *Aussage:* Kasse 3 ist geschlossen. → R / F
-
-**Punkte-Rubrik:** 1 Punkt pro richtige Antwort · 5 Punkte gesamt ·
-bestanden ab 3 Punkten.
-
-{{< details type="tip" title="Lösungen" >}}
-1. R · 2. F · 3. R · 4. R · 5. F.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann Zahlen bis 1000 verstehen.
 - [ ] Ich kann Preise im Format *1,99 €* verstehen und sprechen.
 - [ ] Ich kann nach dem Preis fragen: *Was kostet das?*
 - [ ] Ich kann eine Menge nennen: *ein Kilo Äpfel*.
 - [ ] Ich verstehe eine Durchsage im Supermarkt.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Min.):** Einstieg 5' · Input 12' · Üben 15' · Anwenden 8' ·
 Prüfungsvorschau 5'.

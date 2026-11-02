@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.PROD.creative-writing.07
-    - A2.INT.information-exchange.04
-    - A2.PROD.compensating.01
-    - A2.MED.overall-mediation.01
+  - A2.INT.conversation.08
+  - A2.PROD.creative-writing.07
+  - A2.INT.information-exchange.04
+  - A2.PROD.compensating.01
+  - A2.MED.overall-mediation.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit09_plaene-und-zukunft_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit09_plaene-und-zukunft-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit09_plaene-und-zukunft-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -83,14 +111,14 @@ curriculum:
 > **Sabina:** Ja, super. Ich glaube, das Wetter wird schön.
 > Wir treffen uns um 9 Uhr am Bahnhof.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 1. Was haben die drei Freunde am Samstag vor?
 2. Wer macht die Einladung? Welche Wörter benutzt Sabina dafür?
 3. Und Sie: Was sind Ihre Pläne für das nächste Wochenende?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz — über Pläne sprechen
 
 | Wort / Ausdruck            | Bedeutung                         | Beispielsatz                              |
@@ -146,8 +174,7 @@ einen Wochenendplan.
 *(Quelle paraphrasiert nach Wikipedia, CC BY-SA — siehe
 Quellen.)*
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Wunsch (W) oder fester Plan (P)?**
 Markieren Sie **W** oder **P**.
 
@@ -205,8 +232,7 @@ ich lange schlafen. Am Abend werde ich meine Familie anrufen.*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechen — Paar-Aufgabe: „Wir planen einen Ausflug.“**
 
 Partner A lädt Partner B zu einer Aktivität ein (Wanderung, Kino,
@@ -226,37 +252,11 @@ Absage mit Begründung. Einigen Sie sich gemeinsam auf:
 - Ich benutze *wollen / möchten / werden* korrekt.
 - Wir einigen uns am Ende auf alle vier Punkte.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 · Modul Sprechen · Teil 3 — Gemeinsam etwas planen**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit09_plaene-und-zukunft_exam" >}}).
 
-**Aufgabenstellung:** Sie planen mit Ihrer Partnerin / Ihrem
-Partner einen **Ausflug für das nächste Wochenende**. Sprechen Sie
-miteinander, machen Sie Vorschläge und reagieren Sie auf die
-Vorschläge Ihrer Partnerin / Ihres Partners. Einigen Sie sich auf
-**alle vier Punkte**:
-
-1. Ziel (Berg, See oder Stadt)?
-2. Tag und Uhrzeit?
-3. Anreise (Auto, Bahn oder Rad)?
-4. Was bringt jede Person mit?
-
-**Redemittel als Hilfe:** *Ich möchte … / Wollen wir …? / Gute
-Idee! / Vielleicht ist es besser, … / Ich bringe … mit.*
-
-**Punkte-Rubrik (max. 10 Punkte):**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Vorschläge machen (Ziel, Anreise …)         |   2    |
-| Auf den Partner reagieren (zustimmen/ablehnen) |   2    |
-| *wollen / möchten / werden* korrekt          |   2    |
-| Alle vier Punkte ausgehandelt                |   2    |
-| Aussprache und flüssiges Sprechen           |   2    |
-| **Gesamt**                                   | **10** |
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich spreche über meine Pläne für das Wochenende und die
   Zukunft.
 - [ ] Ich unterscheide *möchten* (Wunsch), *wollen* (Plan) und
@@ -265,7 +265,7 @@ Idee! / Vielleicht ist es besser, … / Ich bringe … mit.*
 - [ ] Ich handle mit einem Partner einen Plan aus (Ziel, Zeit,
   Treffpunkt).
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 
