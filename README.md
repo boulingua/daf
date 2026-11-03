@@ -1,130 +1,78 @@
-# DaF — Deutsch als Fremdsprache (A1–C1)
+# Deutsch als Fremdsprache
 
-<img src="brand/icon.png" alt="German icon" width="64" align="right">
+<img src="brand/icon.png" alt="Deutsch als Fremdsprache" width="64" align="right">
 
-Ein Kurscurriculum für **Deutsch als Fremdsprache** entlang des
-Gemeinsamen Europäischen Referenzrahmens (GER / CEFR), mit
-GER-Modellprüfungen pro Einheit. Fünf GER-Stufen **A1, A2, B1,
-B2, C1** zu je **12 Einheiten** — **60 Einheiten insgesamt**.
+Open teaching materials by **S. Le Boulanger**, part of
+[Boulingua](https://boulingua.github.io/website/).
 
-Autorin: **S. Le Boulanger**. Live-Site:
+60 units and 60 standalone examination pages across A1, A2, B1, B2 and C1.
+
+The site uses Hugo and the shared `kit` module. Units are Markdown leaf bundles
+under `content/`; downloadable materials and recordings are committed under
+`static/materials/`. There are 180 unit PDF downloads (deck, learner worksheet and teacher worksheet) and 120 separate learner/teacher assessment PDFs. Compilation and
+file counts do not establish educational review or curriculum conformance.
+
+## Try the current development version
+
+Prerequisites: Hugo **extended 0.159.2**, Go **1.26.1**, Python **3.12** and Node
+**22**. Keep the matching `kit`, `curriculum` and `.github` checkouts beside this
+repository. The refinement branch is a coordinated release candidate;
+its changes have not yet been published as a compatible release set.
+
+From this repository:
+
+```sh
+python3.12 -m venv .venv
+. .venv/bin/activate
+pip install -r ../kit/requirements.txt
+npm ci --prefix ../kit
+npm ci
+go work init ../kit
+export HUGO_MODULE_WORKSPACE="$PWD/go.work"
+python ../kit/bin/kit build .
+mkdir -p build/preview
+ln -s "$PWD/public" build/preview/daf
+python -m http.server 1317 --bind 127.0.0.1 --directory build/preview
+```
+
+Open `http://127.0.0.1:1317/daf/`. For an interactive preview, use `hugo server --bind 127.0.0.1` after the build
+and open the address Hugo prints. The production-style build includes the
+Pagefind search index and material-discovery data. A plain root HTTP server
+needs the `/daf/` URL prefix; see kit's preview instructions for that layout.
+
+Run the release checks with the same checkouts:
+
+```sh
+npm exec --prefix ../kit -- playwright install chromium
+python ../kit/bin/kit check . --ci \
+  --owner-root curriculum=../curriculum --owner-root .github=../.github
+```
+
+On Linux, use `playwright install --with-deps chromium` to install required
+browser libraries. These checks currently report historical audio provenance
+and missing pronunciation-review evidence as release blockers; they must not
+be bypassed to publish.
+
+## Use and maintain
+
+Browse units from the course menu. Search finds indexed teaching pages; the
+materials page supports filtering and direct PDF downloads. The network view is
+optional. Text remains available when a recording is absent.
+
+Edit the source bundle, then rebuild and review the rendered unit. Generate new
+PDFs or audio deliberately with kit, review their contents, and commit source,
+manifest and artifacts together. CI verifies committed materials; it does not
+silently regenerate them. Preserve all published URLs and counting-mark locks.
+
+The curriculum manifest is `curriculum.yml`. Descriptor mappings remain
+proposed until reviewed. [REFINEMENT.md](REFINEMENT.md) records current findings,
+verification and remaining release work. Older roadmap/handover documents are
+historical evidence where they disagree with this build path.
+
+## Licence and citation
+
+Original teaching content: **CC BY-SA 4.0**, attributed to **S. Le Boulanger**.
+Code: **MIT**. See the licence files and `NOTICE.md` for third-party terms.
+
+Le Boulanger, S. (2026). *Deutsch als Fremdsprache*. Boulingua.
 <https://boulingua.github.io/daf/>
-
-## Schwesternsites
-
-Die DaF-Site ist Teil eines vierteiligen Schwesternsite-Projekts
-unter der GitHub-Organisation `boulingua`:
-
-- **[EFL BW](https://boulingua.github.io/efl/)** — English, Gesamtschule BW, Kl. 5–13
-- **[FLE BW](https://boulingua.github.io/fle/)** — Français, Gesamtschule BW, Kl. 6–13
-- **DaF** — Deutsch als Fremdsprache, A1–C1 (diese Site)
-- **[Ressourcen](https://boulingua.github.io/ressources/)** — kuratierter Ressourcen-Hub
-
-Visuelle und strukturelle Entscheidungen sind über alle vier
-Sites hinweg identisch (Palette, Typografie, Navbar-Architektur,
-Fünf-Schritt-Didaktik).
-
-## Architektur
-
-- Gebaut mit **[Quarto](https://quarto.org)**.
-- Jede Einheit rendert **zweimal** aus einer einzigen `.qmd`-Quelle:
-  HTML-Artikel + Reveal.js-Foliensatz.
-- GER-Modellprüfungsaufgabe pro Einheit als eigenständiges PDF.
-- Platzhalter-Arbeitsblatt-PDF pro Einheit (echte Inhalte folgen).
-- Hell/Dunkel-Toggle. Lucide-Icons. Keine urheberrechtlich
-  geschützten Medien.
-
-Deploy via **GitHub Actions** (`actions/deploy-pages@v4`).
-
-## Pädagogisches Modell
-
-Fünfstufig (mit deutscher Terminologie):
-**Einstieg → Input → Üben → Anwenden → Reflexion**.
-
-Bei Prüfungsvorbereitungs-Einheiten:
-**Aufgabe → Modell → Strategie → Versuch → Feedback**.
-
-## Prüfungsformate
-
-Pro GER-Stufe wird ein Prüfungsformat im Ordner
-`_resources/format_<stufe>.yml` dokumentiert. Diese YAML-
-Dateien sind die autoritative Quelle für Aufgabentyp, Itemzahl,
-Zeitvorgaben, Punkteverteilung und Bewertungskriterien jeder
-Prüfungssimulation auf der Site. Die Formate sind an den im
-[Literaturverzeichnis](literatur.qmd) genannten Modellsätzen
-orientiert, ohne deckungsgleich zu sein.
-
-| Stufe | Prüfungsmodell           | Prüfung             | Bestehensgrenze |
-|-------|--------------------------|---------------------|-----------------|
-| A1    | 4 Module in 1 Block      | ca. 80 Min, 100 P.  | 60 P. (60 %)    |
-| A2    | 4 Module in 1 Block      | 105 Min, 100 P.     | 60 P. (60 %)    |
-| B1    | 4 Module modular         | je Modul 100 P.     | 60 P. pro Modul |
-| B2    | 4 Module modular         | je Modul 100 P.     | 60 P. pro Modul |
-| C1    | 4 Module modular         | je Modul 100 P.     | 60 P. pro Modul |
-
-**Keine** Reproduktion offizieller Modellsatz-Texte. Alle
-Stimulustexte original von S. Le Boulanger verfasst, formal an
-den GER-Stufen orientiert.
-
-## Lizenz
-
-Zweiteiliger Lizenzsplit:
-
-- **MIT** (`LICENSE`) — Website-Code (Quarto-Konfig, Lua-Shortcodes,
-  Python-Helfer, SCSS).
-- **CC BY-SA 4.0** (`LICENSE-CONTENT.md`) — didaktische und
-  kuratorische Inhalte (Einheiten, Prüfungsbeispiele,
-  Lernziele).
-
-`© S. Le Boulanger · MIT / CC BY-SA 4.0` auf jedem Footer und
-jedem PDF.
-
-## Build lokal
-
-```
-quarto render
-```
-
-CI reproduziert denselben Build und pusht nach `gh-pages` über
-die offiziellen GitHub-Pages-Actions. Details in
-`.github/workflows/publish.yml` (folgt).
-
-## Beiträge
-
-Siehe [CONTRIBUTING](https://github.com/boulingua/.github/blob/main/CONTRIBUTING.md)
-im Org-Meta-Repo. Kurzfassung: persönliches Projekt, Pull
-Requests werden in der Regel nicht angenommen; Fehler bitte als
-Issue melden.
-
-## Zitation
-
-Maschinenlesbare Metadaten in [`CITATION.cff`](CITATION.cff).
-Empfohlene Zitierform:
-
-> Le Boulanger, S. (2026). *DaF — Deutsch als Fremdsprache (A1–C1).*
-> boulingua. <https://boulingua.github.io/daf/>
-
-BibTeX:
-
-```bibtex
-@misc{leboulanger_daf_2026,
-  author       = {Le Boulanger, S.},
-  title        = {{DaF — Deutsch als Fremdsprache (A1--C1)}},
-  year         = {2026},
-  howpublished = {boulingua},
-  url          = {https://boulingua.github.io/daf/},
-  note         = {CC BY-SA 4.0 (Inhalte) / MIT (Code)}
-}
-```
-
-## Lizenz
-
-Die Inhalte dieses Curriculums stehen unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); der gesamte Code (Skripte, Code-Blöcke, Beispiele) steht unter der [MIT-Lizenz](LICENSE).
-
-## Einsatz von LLM-Werkzeugen
-
-Teile dieses Projekts wurden mit Unterstützung von Large-Language-Model-Werkzeugen für eng umrissene, nicht-autorschaftliche Aufgaben erstellt: Lektorat, sprachliche Glättung, Markdown-/LaTeX-Formatierung, Gerüstbau von Boilerplate-Dateien (CI-Konfigurationen, Build-Skripte), Code-Refactoring. Verwendet wurden Chat AI, der LLM-Dienst von KISSKI (GWDG), sowie ein selbst gehostetes Mistral Small (24B, Apache-2.0), lokal betrieben über Ollama und das R-Paket ollamar — ausschließlich lokale Inferenz, ohne Übermittlung von Daten an Dritte beim selbst gehosteten Modell.
-
-## Signature colour & icon
-
-This project's signature accent is **`#1D87A7`** (light theme) / **`#7ECEE7`** (dark theme), paired with the **pentagon** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the German flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).

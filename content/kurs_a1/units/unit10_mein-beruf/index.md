@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.compensating.01
-    - A1.INT.notes-messages-and-forms.01
-    - A1.PROD.creative-writing.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.correspondence.03
+  - A1.PROD.compensating.01
+  - A1.INT.notes-messages-and-forms.01
+  - A1.PROD.creative-writing.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit10_mein-beruf_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit10_mein-beruf-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit10_mein-beruf-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -81,14 +109,14 @@ Gruppe: „Was sind Sie von Beruf?“ Vier Personen antworten.
 > **Luka:** Ich arbeite als Programmierer. Ich arbeite bei einer
 > Firma in der Stadt.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 - Was ist Frau Kurz von Beruf?
 - Wo arbeitet Herr Keks?
 - Was studiert Ana?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort | Bedeutung |
@@ -141,8 +169,7 @@ bis dreieinhalb Jahre. So lernt man den Beruf in der Praxis und in
 der Theorie zusammen. (Paraphrasiert nach Wikipedia,
 „Duale Ausbildung“, CC-BY-SA 4.0.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen (m / f).** Wie lautet die weibliche Form?
 
 - der Arzt → __________
@@ -194,8 +221,7 @@ Ich arbeite als Bäcker. Ich arbeite in einer Bäckerei.“).
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe.** Schreiben Sie vier Sätze über Ihren Beruf oder
 Ihr Studium. Nutzen Sie die Muster aus dem Input:
 
@@ -211,40 +237,11 @@ Ihr Studium. Nutzen Sie die Muster aus dem Input:
 - Der Arbeitsort ist genannt. ✔
 - Die Sätze sind gut lesbar (Punkt am Ende, großer Satzanfang). ✔
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 — Modul Schreiben, Teil 2**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit10_mein-beruf_exam" >}}).
 
-**Aufgabe:** Schreiben Sie eine kurze Mitteilung an Ihre Freundin
-Clara (ca. 30 Wörter). Schreiben Sie zu allen drei Punkten:
-
-- Nennen Sie Ihren neuen Beruf oder Ihr Studium.
-- Sagen Sie, wo Sie arbeiten oder lernen.
-- Laden Sie Clara zu einem Treffen ein.
-
-**Punkte-Rubrik (max. 6 Punkte):**
-
-| Kriterium | Punkte |
-|-----------|--------|
-| Alle drei Punkte bearbeitet | 3 |
-| Anrede und Gruß vorhanden | 1 |
-| Verständliche A1-Sätze | 2 |
-
-{{< details type="tip" title="Musterlösung" >}}
-
-> Hallo Clara,
->
-> ich habe eine neue Stelle! Ich arbeite jetzt als Programmiererin
-> in Wien. Mein Büro ist in der Stadtmitte. Wollen wir uns am
-> Samstag treffen?
->
-> Viele Grüße
-> Luka
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann meinen Beruf sagen: *Ich bin … / Ich arbeite als …*
 - [ ] Ich kenne zehn Berufsnamen in der männlichen und weiblichen
   Form.
@@ -252,7 +249,7 @@ Clara (ca. 30 Wörter). Schreiben Sie zu allen drei Punkten:
 - [ ] Ich kann einen Kurztext (vier Sätze) über meine Arbeit
   schreiben.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' ·
 Anwenden 10' · Prüfung/Reflexion 5'.

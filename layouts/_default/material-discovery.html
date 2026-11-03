@@ -1,0 +1,257 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+{{- $kind := .Params.material_kind -}}
+{{- $isPresentation := eq $kind "presentation" -}}
+{{- $isWorksheet := eq $kind "worksheet" -}}
+{{- $isHub := and (not $isPresentation) (not $isWorksheet) -}}
+
+<section class="container page">
+  <article>
+    <header>
+      <h1 class="title">{{ .Title }}</h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    </header>
+
+    {{ if $isHub }}
+      {{ .Content }}
+
+      {{/* Phase 3 — Cytoscape graph. Phase 4 — facet rail + URL state.
+           List view (Phase 5) and Pagefind search (Phase 5) still TODO. */}}
+      {{/* Cytoscape + fcose are bundled from node_modules into a single
+           self-hosted, fingerprinted ES module (no runtime CDN). main.js
+           dynamic-imports it lazily via #network-mount[data-cyto-url]. */}}
+      {{ $vendor := resources.Get "js/network/vendor.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $graph := resources.Get "js/network/main.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $filters := resources.Get "js/network/filters.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $search := resources.Get "js/network/search.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+      {{ $list := resources.Get "js/network/list.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+
+      {{/* Compute facet sources from unit pages (server-side so first
+           paint matches URL state without flash). */}}
+      {{- $units := where (where .Site.RegularPages "Section" "in" (slice "kurs_a1" "kurs_a2" "kurs_b1" "kurs_b2" "kurs_c1")) "Params.presentation" "ne" nil -}}
+      {{- $courses := slice -}}
+      {{- $topics := slice -}}
+      {{- $tags := slice -}}
+      {{- range $units -}}
+        {{- $courses = $courses | append .Section -}}
+        {{- with .Params.topic }}{{ $topics = $topics | append . }}{{ end -}}
+        {{- with .Params.tags }}{{ range . }}{{ $tags = $tags | append . }}{{ end }}{{ end -}}
+      {{- end -}}
+      {{- $courses = $courses | uniq | sort -}}
+      {{- $topics = $topics | uniq -}}
+      {{- $tags = $tags | uniq | sort -}}
+      {{- $topicData := index hugo.Data "topics" -}}
+
+      <section class="network-page network-hub" aria-label="Materials network">
+
+        <div class="network-search" data-network-search>
+          <span aria-hidden="true">⌕</span>
+          <input type="search" placeholder="Suche lädt…" autocomplete="off" aria-label="Materialien durchsuchen">
+          <button type="button" data-action="search-clear" aria-label="Suche leeren">×</button>
+          <button type="button" data-action="reset">Filter zurücksetzen</button>
+        </div>
+
+        <aside class="network-rail" aria-label="Filter" data-network-rail>
+
+          <div class="facet-group">
+            <h4>Typ</h4>
+            <div class="facet-chips">
+              <button class="facet-chip" type="button" data-facet="type" data-value="article" aria-pressed="false"><span class="glyph" aria-hidden="true">●</span>Artikel <span class="count">0</span></button>
+              <button class="facet-chip" type="button" data-facet="type" data-value="presentation" aria-pressed="false"><span class="glyph" aria-hidden="true">■</span>{{ i18n "presentation" }} <span class="count">0</span></button>
+              <button class="facet-chip" type="button" data-facet="type" data-value="worksheet" aria-pressed="false"><span class="glyph" aria-hidden="true">◆</span>{{ i18n "worksheet" }} <span class="count">0</span></button>
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <h4>Kurs</h4>
+            <div class="facet-chips">
+              {{- range $courses }}
+              <button class="facet-chip" type="button" data-facet="course" data-value="{{ . }}" aria-pressed="false">{{ upper (replace . "kurs_" "") }} <span class="count">0</span></button>
+              {{- end }}
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <h4>Topic</h4>
+            <div class="facet-chips">
+              {{- range $topics }}
+              {{- $tid := . -}}
+              {{- $t := index (where $topicData "id" $tid) 0 -}}
+              {{- $label := or ($t.label_de) $tid -}}
+              <button class="facet-chip topic" type="button" data-facet="topic" data-value="{{ $tid }}" data-topic="{{ $tid }}" aria-pressed="false"><span class="swatch" aria-hidden="true"></span>{{ $label }} <span class="count">0</span></button>
+              {{- end }}
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <h4>Tags</h4>
+            <div class="facet-chips">
+              {{- range $tags }}
+              <button class="facet-chip" type="button" data-facet="tag" data-value="{{ . }}" aria-pressed="false">{{ . }} <span class="count">0</span></button>
+              {{- end }}
+            </div>
+          </div>
+
+          <div class="facet-group">
+            <button class="facet-chip" type="button" data-action="reset">Filter zurücksetzen</button>
+          </div>
+
+        </aside>
+
+        <div id="network-mount"
+             class="network-graph"
+             data-graph-url="{{ "network/graph.json" | relURL }}"
+             data-cyto-url="{{ $vendor.RelPermalink }}"
+             role="img"
+             aria-label="Force-directed graph der 180 Materialien — alphabetische Liste unten als Alternative">
+          <div class="graph-skeleton" aria-hidden="true">
+            <span class="graph-skeleton-spinner"></span>
+            <span class="graph-skeleton-label">Netzwerk wird geladen …</span>
+          </div>
+        </div>
+
+        <div class="network-status">
+          <span data-count-total><strong>180</strong> Einträge sichtbar</span>
+        </div>
+
+        <div id="network-list" class="network-list" aria-live="polite"></div>
+
+        {{/* a11y nav: always-rendered alphabetical list of all article URLs.
+             Visually hidden on desktop, primary view on mobile (Phase 6
+             will swap visibility rules). */}}
+        <nav class="visually-hidden" aria-label="All materials">
+          <ul>
+            {{ range $units }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </section>
+
+      <script type="module" src="{{ $graph.RelPermalink }}"></script>
+      <script type="module" src="{{ $filters.RelPermalink }}"></script>
+      <script type="module" src="{{ $search.RelPermalink }}"></script>
+      <script type="module" src="{{ $list.RelPermalink }}"></script>
+    {{ else }}
+      {{/* Build the list of unit pages that have the relevant material. */}}
+      {{- $field := cond $isPresentation "presentation" "worksheet" -}}
+      {{- $items := where (where .Site.RegularPages "Section" "in" (slice "kurs_a1" "kurs_a2" "kurs_b1" "kurs_b2" "kurs_c1")) (printf "Params.%s" $field) "ne" nil -}}
+
+      {{/* Collect unique CEFR levels and modules for the filter chips. */}}
+      {{- $levels := slice -}}
+      {{- $modules := slice -}}
+      {{- range $items -}}
+        {{- with .Params.cefr_level }}{{ $levels = $levels | append (upper .) }}{{ end -}}
+        {{- with .Params.pruefungs_module -}}
+          {{- range . }}{{ $modules = $modules | append . }}{{ end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $levels = uniq $levels | sort -}}
+      {{- $modules = uniq $modules | sort -}}
+
+      <div class="materials-filter">
+        <div class="filter-row">
+          <label class="filter-label" for="materials-search">Suche</label>
+          <input id="materials-search" type="search" placeholder="Titel, Stichwort, Modul…" autocomplete="off">
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">GER-Stufe</span>
+          {{ range $levels }}
+          <button type="button" class="chip" data-filter="level" data-value="{{ . }}">{{ . }}</button>
+          {{ end }}
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">Modul</span>
+          {{ range $modules }}
+          <button type="button" class="chip" data-filter="module" data-value="{{ . }}">{{ . }}</button>
+          {{ end }}
+        </div>
+        <div class="filter-row">
+          <button type="button" class="chip chip-clear" id="materials-clear">Filter zurücksetzen</button>
+          <span class="materials-count" id="materials-count">{{ len $items }} Einheiten</span>
+        </div>
+      </div>
+
+      <div class="material-grid" id="materials-grid">
+        {{ range $items }}
+          {{- $m := index .Params $field -}}
+          {{- $level := upper (.Params.cefr_level | default "") -}}
+          {{- $modules := .Params.pruefungs_module | default slice -}}
+          {{- $tags := slice $level -}}
+          {{- range $modules }}{{ $tags = $tags | append . }}{{ end -}}
+          <a class="material-card"
+             href="{{ $m.file | relURL }}"
+             download
+             data-level="{{ $level }}"
+             data-modules="{{ delimit $modules ',' }}"
+             data-search="{{ lower (printf "%s %s %s %s" .Title $level (delimit $modules " ") (.Params.unit_slug | default "")) }}">
+            {{ with $m.thumbnail }}<img class="thumb" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
+            <div class="body">
+              <h3>{{ .Title }}</h3>
+              <span class="tags">
+                <span class="cefr-badge {{ lower $level }}">{{ $level }}</span>
+                {{ range $modules }} · {{ . }}{{ end }}
+              </span>
+              <span class="download">↓ {{ cond $isPresentation (printf "%s (PDF)" (i18n "presentation")) (printf "%s (PDF)" (i18n "worksheet")) }}</span>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+
+      <script>
+      (function () {
+        const grid = document.getElementById('materials-grid');
+        const search = document.getElementById('materials-search');
+        const count = document.getElementById('materials-count');
+        const clearBtn = document.getElementById('materials-clear');
+        if (!grid) return;
+
+        const cards = Array.from(grid.querySelectorAll('.material-card'));
+        const state = { level: new Set(), module: new Set(), q: '' };
+
+        function apply() {
+          let visible = 0;
+          for (const card of cards) {
+            const lvl = card.dataset.level;
+            const mods = (card.dataset.modules || '').split(',').filter(Boolean);
+            const text = card.dataset.search;
+            const lvlOk = state.level.size === 0 || state.level.has(lvl);
+            const modOk = state.module.size === 0 || mods.some(m => state.module.has(m));
+            const qOk = !state.q || text.includes(state.q);
+            const show = lvlOk && modOk && qOk;
+            card.style.display = show ? '' : 'none';
+            if (show) visible++;
+          }
+          count.textContent = visible + ' Einheiten';
+        }
+
+        for (const chip of document.querySelectorAll('.chip[data-filter]')) {
+          chip.addEventListener('click', () => {
+            const f = chip.dataset.filter;
+            const v = chip.dataset.value;
+            const set = state[f];
+            if (set.has(v)) { set.delete(v); chip.classList.remove('active'); }
+            else { set.add(v); chip.classList.add('active'); }
+            apply();
+          });
+        }
+
+        search.addEventListener('input', () => {
+          state.q = search.value.trim().toLowerCase();
+          apply();
+        });
+
+        clearBtn.addEventListener('click', () => {
+          state.level.clear();
+          state.module.clear();
+          state.q = '';
+          search.value = '';
+          for (const c of document.querySelectorAll('.chip.active')) c.classList.remove('active');
+          apply();
+        });
+      })();
+      </script>
+    {{ end }}
+  </article>
+</section>
+{{ end }}

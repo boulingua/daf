@@ -1,7 +1,6 @@
 ---
 page_type: unit
-title: 'Einheit 11 — Literarische Moderne: Kafka, Mann, Musil — und warum sie heute
-  lesen?'
+title: 'Einheit 11 — Literarische Moderne: Kafka, Mann, Musil — und warum sie heute lesen?'
 cefr_level: C1
 unit_nr: 11
 cefr_can_do:
@@ -38,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.INT.online-conversation-and-discussion.03
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.PROD.planning.01
-    - C1.MED.amplifying-a-dense-text.02
+  - C1.INT.online-conversation-and-discussion.03
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.PROD.planning.01
+  - C1.MED.amplifying-a-dense-text.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_c1/units/unit11_literarische-moderne_exam
+  format: module-practice
+  duration_minutes:
+  points: 20
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit11_literarische-moderne-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit11_literarische-moderne-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -79,6 +106,7 @@ geschehen voraussetzt — ohne Erklärung, ohne Erschrecken der Erzählstimme. G
 diese Ruhe im Ungeheuerlichen gilt vielen als Signatur der literarischen
 Moderne: Die Katastrophe wird nicht mehr angekündigt, sie ist schon Alltag.
 
+## Aktivieren {#activate}
 **Einstiegsfragen (Plenum, 5–6 Min):**
 
 - Was unterscheidet einen Text, der uns *erklärt*, was passiert, von einem, der
@@ -89,8 +117,7 @@ Moderne: Die Katastrophe wird nicht mehr angekündigt, sie ist schon Alltag.
   Welche historischen Erschütterungen um 1900–1930 könnten eine Literatur
   hervorbringen, der ein stabiles Ich abhandenkommt?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle — literaturwissenschaftliches Register
 
 | Begriff (de)               | Erläuterung                                              | Kollokation / Beispiel                                  |
@@ -201,8 +228,7 @@ Vor diesem Hintergrund erklärt sich das wiederkehrende Motiv eines **instabilen
 Ich**: Prag (Kafka), Wien (Schnitzler, Hofmannsthal, später Musil) und München
 (Mann) bilden die urbanen Knotenpunkte einer Literatur des Übergangs.
 
-## Üben
-
+## Üben {#practise}
 {{< callout type="note" >}}
 **Niveau-Differenzierung:** ○ = C1-Basis · ◐ = C1 · ● = C1+ (mehr Autonomie,
 weniger Gerüst). Wählen Sie pro Aufgabe die für Sie passende Variante.
@@ -263,8 +289,7 @@ nahelegt, dass …“*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — öffentlicher Lektüreeindruck (Vortrag, ca. 4 Min).**
 Wählen Sie **einen** der drei Stiltypen (a/b/c) *oder* den gemeinfreien
 Kafka-Satz aus Abschnitt C. Bereiten Sie mit Stichpunkten einen Kurzvortrag vor,
@@ -284,38 +309,11 @@ der vier Sprachfunktionen bedient:
 - [ ] strukturierter Aufbau, freies Sprechen mit Stichpunkten (kein Ablesen);
 - [ ] ca. 4 Minuten Redezeit eingehalten.
 
-## Prüfung
+## Prüfung {#exam}
 
-**Prüfungsformat: GER C1, Modul *Sprechen*, Teil 1 — Vortrag mit Stichpunkten.**
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit11_literarische-moderne_exam" >}}).
 
-**Aufgabenstellung.** Halten Sie einen zusammenhängenden Vortrag (ca. 4 Min) zu
-der folgenden Leitfrage und beziehen Sie eine eigene, begründete Position:
-
-> *„Lohnt es sich, im fortgeschrittenen DaF-Unterricht (B2/C1) literarische
-> Moderne zu lesen — oder ist sie zu voraussetzungsreich?“*
-
-**Anforderungen:** vier Sprachfunktionen (schildern · analysieren · abwägen ·
-Position beziehen), **ein konkretes Textbeispiel** (der gemeinfreie Kafka-Satz
-darf zitiert werden; andere Autoren nur referenzieren/paraphrasieren) sowie ein
-antizipierter Gegeneinwand mit konzessiver Entkräftung.
-
-**Punkte-Rubrik (20 Punkte):**
-
-| Kriterium                                              | Punkte |
-|--------------------------------------------------------|:------:|
-| Aufgabenerfüllung / vier Sprachfunktionen realisiert   |   5    |
-| inhaltliche Substanz: Argument + Gegeneinwand + Beleg  |   5    |
-| Register & Wortschatz (literaturwiss., Hedging)        |   4    |
-| Grammatische Korrektheit & syntaktische Bandbreite     |   3    |
-| Aussprache, Flüssigkeit, freies Sprechen               |   2    |
-| korrekter Umgang mit Zitat vs. Paraphrase (Urheberrecht) |  1   |
-| **Summe**                                              | **20** |
-
-**Bewertungsschlüssel:** 20–18 = sehr gut · 17–15 = gut · 14–12 = befriedigend ·
-11–10 = ausreichend · < 10 = nicht bestanden.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann die literarische Moderne (ca. 1890–1930) historisch verorten und
   benenne mindestens zwei Bruchlinien.
 - [ ] Ich unterscheide die Stiltypen Kafka / Mann / Musil an konkreten
@@ -327,7 +325,7 @@ antizipierter Gegeneinwand mit konzessiver Entkräftung.
 - [ ] Ich trenne sauber zwischen einem **gemeinfreien Zitat** (exakt attribuiert)
   und einer **stilistischen Nachahmung** bzw. Paraphrase.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitraster (45 Min):**
 

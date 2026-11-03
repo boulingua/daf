@@ -36,13 +36,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.compensating.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.online-conversation-and-discussion.02
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.correspondence.03
+  - A1.PROD.compensating.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.online-conversation-and-discussion.02
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-prüfung-a1-modul-lesen-teil-1
+exam:
+  page: kurs_a1/units/unit02_meine-familie_exam
+  format: module-practice
+  duration_minutes:
+  points: 3
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit02_meine-familie-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit02_meine-familie-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -75,14 +103,14 @@ Nina zeigt Ben ein Foto auf dem Handy. Sie sitzen zusammen im Kurs.
 >
 > **Nina:** Das ist meine Oma. Sie ist schon 80 Jahre alt.
 
+## Aktivieren {#activate}
 **Fragen zum Sprechen:**
 
 - Wie viele Personen sind auf dem Foto?
 - Wie heißt Ninas Bruder?
 - Zeigen Sie ein Foto oder eine Zeichnung: Wer ist das?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort                | Bedeutung   |
@@ -125,8 +153,7 @@ Der Possessivartikel sagt: *Wem gehört das?* Im Nominativ (Singular) gibt es zw
 
 Im Deutschen sind *Oma* und *Opa* liebe, informelle Wörter für die Großmutter und den Großvater. Viele Kosewörter und Verkleinerungen entstehen mit den Endungen *-chen* und *-lein* (zum Beispiel *Mütterchen*, *Kindlein*). Diese Verkleinerungsformen sind im Deutschen grammatisch immer sächlich, also *das* — auch wenn das Grundwort maskulin oder feminin ist. Paraphrasiert nach Wikipedia, „Diminutive" (CC-BY-SA 4.0).
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Welches Wort passt? Verbinden Sie.
 
 | Deutsch       | Englisch  |
@@ -174,8 +201,7 @@ Im Deutschen sind *Oma* und *Opa* liebe, informelle Wörter für die Großmutter
 - *Leichter:* Aufgabe 2 mit einer Wortliste (mein / meine) als Auswahl anbieten.
 - *Schwerer:* Lernende schreiben zu jedem Familienwort einen eigenen Satz mit *mein* / *meine*.
 
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechaufgabe (Partnerarbeit).** Zeigen Sie ein Foto oder eine kleine Zeichnung Ihrer Familie. Erzählen Sie in vier bis fünf Sätzen:
 
 - Wer ist das? (*Das ist mein/meine …*)
@@ -192,39 +218,18 @@ Im Deutschen sind *Oma* und *Opa* liebe, informelle Wörter für die Großmutter
 | 3 Familienwörter korrekt genannt  | ☐        |
 | verständlich gesprochen           | ☐        |
 
-## Prüfung — GER-Prüfung A1, Modul Lesen (Teil 1)
+## Prüfung — GER-Prüfung A1, Modul Lesen (Teil 1) {#exam}
 
-**Aufgabe:** Lesen Sie die Notiz. Sind die Aussagen *richtig* oder *falsch*? Kreuzen Sie an.
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit02_meine-familie_exam" >}}).
 
-> Liebe Oma,
->
-> mein Bruder Tim ist jetzt neun Jahre alt. Die Schule gefällt ihm gut. Mama arbeitet wieder. Papa kocht heute Abend. Ich lerne jetzt Deutsch!
->
-> Liebe Grüße
-> Nina
-
-| Aussage                          | richtig | falsch |
-|----------------------------------|---------|--------|
-| 1. Tim ist zehn Jahre alt.       | ☐       | ☐      |
-| 2. Nina lernt Deutsch.           | ☐       | ☐      |
-| 3. Papa kocht heute Abend.       | ☐       | ☐      |
-
-**Punkte-Rubrik:** 1 Punkt pro richtiger Antwort · 3 Punkte gesamt · bestanden ab 2 Punkten.
-
-{{< details type="tip" title="Lösungen" >}}
-1. Falsch (neun) · 2. Richtig · 3. Richtig.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann acht Familienwörter nennen.
 - [ ] Ich kann *mein* und *meine* richtig benutzen.
 - [ ] Ich kann *dein* und *deine* in einer Frage benutzen.
 - [ ] Ich verstehe eine kurze Familien-Notiz.
 - [ ] Ich kann in vier bis fünf Sätzen über meine Familie sprechen.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

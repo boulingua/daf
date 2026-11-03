@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.07
-    - A2.REC.reading-instructions.02
-    - A2.PROD.sustained-monologue-describing-experience.03
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.INT.correspondence.01
+  - A2.PROD.creative-writing.07
+  - A2.REC.reading-instructions.02
+  - A2.PROD.sustained-monologue-describing-experience.03
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.INT.correspondence.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit04_im-amt_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit04_im-amt-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit04_im-amt-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -82,14 +110,14 @@ Die drei Kann-Beschreibungen dieser Einheit (GER A2):
 >
 > **Lena:** Ja, aber Sie haben ja schon einen. Wenn Sie nicht können, müssen Sie eine Mail schreiben.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 - Welche Formulare haben Sie in einem deutschsprachigen Land schon ausgefüllt?
 - Wie heißt das Amt, wo man sich anmeldet? Kennen Sie es in Ihrem Land?
 - Welche Abkürzungen auf Formularen kennen Sie schon (Geb., PLZ, Nr., …)?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Deutsch | Artikel / Form | Beispielsatz |
@@ -141,8 +169,7 @@ In Deutschland muss sich jede Person anmelden, wenn sie in eine neue Wohnung zie
 
 *(Paraphrasiert nach: „Bundesmeldegesetz“, Wikipedia, CC BY-SA 4.0 — siehe Quellen.)*
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Abkürzungen (leicht)
 
 Was bedeuten die Abkürzungen? Ordnen Sie zu.
@@ -203,8 +230,7 @@ Formulieren Sie die direkten Sätze höflich und formell um.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (A2, ca. 40–50 Wörter).** Sie sind neu in der Stadt und möchten sich anmelden. Schreiben Sie eine Mail an das Bürgeramt:
 
 - Stellen Sie sich kurz vor (Name, neu in der Stadt).
@@ -223,50 +249,18 @@ Benutzen Sie eine Anrede (*Sehr geehrte Damen und Herren,*) und einen Gruß (*Mi
 | Verständlichkeit (Leser versteht ohne Mühe) | 3 |
 | **Summe** | **10** |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 Schreiben, Teil 2 — Halboffizielle E-Mail**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit04_im-amt_exam" >}}).
 
-**Aufgabenstellung:** Sie haben am Donnerstag um 9:00 Uhr einen Termin beim Bürgeramt zur Anmeldung. Leider können Sie an diesem Tag nicht kommen. Schreiben Sie eine E-Mail an das Amt (ca. 30–40 Wörter). Schreiben Sie zu allen drei Punkten:
-
-- Bedanken Sie sich für den Termin.
-- Sagen Sie, **warum** Sie nicht kommen können (mit *weil*).
-- Schlagen Sie einen neuen Termin vor.
-
-Vergessen Sie Anrede und Gruß nicht.
-
-**Punkte-Rubrik (max. 10 Punkte):**
-
-| Bereich | Beschreibung | Punkte |
-|---|---|---|
-| Inhalt | Alle drei Punkte klar behandelt (je 2 P.) | 6 |
-| Form | Anrede + Gruß vorhanden und passend | 2 |
-| Sprache | Höflichkeit und A2-Grammatik (*weil*, *könnte*) weitgehend korrekt | 2 |
-
-**Bewertung:** 9–10 = sehr gut · 7–8 = gut · 5–6 = bestanden · unter 5 = noch nicht bestanden.
-
-{{< details type="tip" title="Musterlösung Prüfung" >}}
-
-> Sehr geehrte Damen und Herren,
->
-> vielen Dank für den Termin am Donnerstag. Leider kann ich nicht kommen, weil ich an diesem Tag arbeiten muss. Könnten wir den Termin auf Montag oder Dienstag verschieben?
->
-> Mit freundlichen Grüßen
-> Maria Kern
-
-*(ca. 35 Wörter)*
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann ein Anmeldeformular mit meinen Daten ausfüllen.
 - [ ] Ich verstehe die wichtigsten Abkürzungen (Geb., PLZ, Staatsang.).
 - [ ] Ich kann eine Termin-Einladung vom Amt verstehen.
 - [ ] Ich kann eine höfliche Mail mit Anrede und Gruß schreiben.
 - [ ] Ich kann einen Grund mit *weil* und eine Bitte mit *könnte* formulieren.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):** Einstieg 6' · Input 13' · Üben 13' · Anwenden 10' · Prüfung/Reflexion 3'.
 

@@ -5,8 +5,7 @@ cefr_level: B1
 unit_nr: 3
 cefr_can_do:
 - Ich kann eine längere Studien- oder Kursordnung in ihren Hauptaussagen verstehen.
-- Ich kann konkrete Informationen zu Kosten, Dauer und Zulassung in einem Infotext
-  finden.
+- Ich kann konkrete Informationen zu Kosten, Dauer und Zulassung in einem Infotext finden.
 - Ich kann die Vor- und Nachteile eines Bildungswegs vergleichen.
 skills_focus:
 - listening
@@ -38,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.REC.reading-correspondence.04
-    - B1.INT.online-conversation-and-discussion.01
-    - B1.MED.processing-text.11
-    - B1.PLUR.plurilingual-comprehension.03
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.REC.reading-correspondence.04
+  - B1.INT.online-conversation-and-discussion.01
+  - B1.MED.processing-text.11
+  - B1.PLUR.plurilingual-comprehension.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit03_weiterbildung-und-studium_exam
+  format: module-practice
+  duration_minutes:
+  points: 4
+  skills:
+  - listening
+  - reading
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit03_weiterbildung-und-studium-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit03_weiterbildung-und-studium-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -90,6 +118,7 @@ Arbeit haben — aber sie wählen unterschiedliche Wege.
 > später vielleicht mehr Möglichkeiten. Trotzdem bin ich noch
 > unsicher, ob das der richtige Weg für mich ist."
 
+## Aktivieren {#activate}
 **Sprechen Sie im Kurs:**
 
 - Welchen Weg finden Sie interessanter — die duale Ausbildung
@@ -100,8 +129,7 @@ Arbeit haben — aber sie wählen unterschiedliche Wege.
   Ausbildung? Erzählen Sie.
 
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz zum Thema
 
 | Wort                          | Erklärung                                              |
@@ -191,8 +219,7 @@ Wikipedia, „Duale Ausbildung", CC BY-SA 4.0 — siehe Quellen)*
 > möglich). **Abschluss:** Zertifikat der Bildungsakademie.
 
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Richtig oder falsch?** (Lesetext 1, Niveau A)
 
 1. Malia verdient während des Studiums am Anfang kein eigenes
@@ -263,8 +290,7 @@ der Nebensatz korrekt ist)
 {{< /details >}}
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreib- und Sprechaufgabe: „Mein Weg".**
 
 Stellen Sie sich vor, eine Freundin oder ein Freund fragt Sie um
@@ -281,59 +307,11 @@ und tragen Sie sie danach im Kurs vor.
 - Ihre Antwort ist höflich und persönlich (Anrede, Gruß).
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 — Modul Lesen, Teil 5 (Anweisungen / Ordnungen
-verstehen).**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit03_weiterbildung-und-studium_exam" >}}).
 
-Sie lesen die Ordnung eines Weiterbildungskurses und beantworten
-4 Fragen. Wählen Sie jeweils **a, b oder c**.
-
-> **§ 2 Teilnahme und Prüfung**
->
-> (1) Der Zertifikatskurs „Technische Redaktion" umfasst 20
-> Kurstage. Die Teilnahme an mindestens **80 %** der Kurstage ist
-> Voraussetzung für die Zulassung zur Abschlussprüfung.
->
-> (2) Die Anmeldung zur Abschlussprüfung erfolgt **online** bis
-> spätestens **zehn Tage** vor dem Prüfungstermin.
->
-> (3) Wer aus gesundheitlichen Gründen fehlt, legt ein
-> **ärztliches Attest** vor. Nur dann kann die Prüfung zu einem
-> späteren Termin nachgeholt werden.
-
-1. **Zur Abschlussprüfung wird zugelassen, wer …** a) an allen
-   Kurstagen teilgenommen hat · b) an mindestens 80 % der
-   Kurstage teilgenommen hat · c) mindestens die Hälfte der
-   Kurstage besucht hat.
-2. **Die Anmeldung zur Prüfung …** a) erfolgt online bis zehn
-   Tage vorher · b) ist nur am Prüfungstag möglich · c) erfolgt
-   per Post.
-3. **Wer krank ist, …** a) verliert den Kursplatz · b) kann die
-   Prüfung mit Attest später nachholen · c) muss den ganzen Kurs
-   wiederholen.
-4. **Ein ärztliches Attest …** a) ist nicht nötig · b) ist die
-   Bedingung, um die Prüfung nachzuholen · c) muss vor Kursbeginn
-   abgegeben werden.
-
-{{< details type="tip" title="Lösungen Prüfung" >}}
-
-1. b · 2. a · 3. b · 4. b
-
-{{< /details >}}
-
-**Punkte-Rubrik (4 Punkte gesamt):**
-
-| Punkte | Beschreibung                                      |
-|--------|---------------------------------------------------|
-| 4      | alle 4 Fragen richtig — Detailinfos sicher gefunden |
-| 3      | 3 richtig — Hauptaussagen verstanden              |
-| 2      | 2 richtig — Kernaussage teilweise erfasst         |
-| 0–1    | 0–1 richtig — Text noch einmal gemeinsam lesen     |
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann in einem Infotext Kosten, Dauer und Zulassung
       schnell finden.
 - [ ] Ich kann eine kurze Kursordnung in den Hauptaussagen
@@ -344,7 +322,7 @@ Sie lesen die Ordnung eines Weiterbildungskurses und beantworten
       begründen.
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

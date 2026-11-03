@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.reports-and-essays.03
-    - B2.REC.reading-for-information-and-argument.05
-    - B2.REC.overall-reading-comprehension.01
-    - B2.PROD.compensating.01
-    - B2.MED.processing-text.05
+  - B2.PROD.reports-and-essays.03
+  - B2.REC.reading-for-information-and-argument.05
+  - B2.REC.overall-reading-comprehension.01
+  - B2.PROD.compensating.01
+  - B2.MED.processing-text.05
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit02_wissenschaft-kommunizieren_exam
+  format: module-practice
+  duration_minutes:
+  points: 8
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit02_wissenschaft-kommunizieren-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit02_wissenschaft-kommunizieren-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,14 +101,14 @@ Eine Klimaforscherin sagt in einem Podcast: *„Unsere Modelle deuten darauf hin
 
 Einerseits müssen Forschende komplexe Ergebnisse vereinfachen, damit ein breites Publikum sie überhaupt versteht. Andererseits kann jede Vereinfachung in eine Verzerrung umschlagen — und im schlimmsten Fall Desinformation begünstigen. Wer der Wissenschaft vertrauen soll, muss verstehen, *wie* sie zu ihren Aussagen kommt.
 
+## Aktivieren {#activate}
 **Diskutieren Sie zu zweit:**
 
 - Wo informieren Sie sich über wissenschaftliche Themen — und woran erkennen Sie, ob eine Quelle seriös ist?
 - Sollte man wissenschaftliche Unsicherheit offen benennen, obwohl das Publikum dann verunsichert sein könnte? Warum (nicht)?
 - Ein Freund teilt eine reißerische Gesundheitsmeldung. Wie reagieren Sie, ohne belehrend zu wirken?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort / Wendung                     | Erläuterung / Kollokation                          |
@@ -122,6 +151,8 @@ Wissenschaftskommunikation lässt sich auf drei Ebenen beschreiben: als *Kommuni
 
 ### D. Hörtext (zum Vorlesen)
 
+*Fiktives Unterrichtsinterview: Dr. Brandt, die Auswertung von zweitausend Meldungen und der erwähnte Bericht sind Teil des verfassten Szenarios. Sie werden nicht als tatsächlich durchgeführte Studie oder belegtes Forschungsergebnis ausgegeben.*
+
 > *Anweisung für die Lehrkraft: zweimal in natürlichem Tempo vorlesen. Ein kurzes Interview zwischen einer Moderatorin (M) und dem Kommunikationsforscher Dr. Jonas Brandt (B). Dauer beim Vorlesen ca. 3 Minuten.*
 
 **M:** Herr Dr. Brandt, Sie erforschen, warum manche Wissenschaftsmeldungen Vertrauen schaffen und andere Skepsis auslösen. Woran liegt das?
@@ -142,8 +173,7 @@ Wissenschaftskommunikation lässt sich auf drei Ebenen beschreiben: als *Kommuni
 
 **M:** Ein hoffnungsvoller Schluss. Vielen Dank, Herr Dr. Brandt.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Globalverstehen (nach dem 1. Hören).** Richtig oder falsch?
 
 1. Laut Dr. Brandt entscheidet vor allem das Thema über die Glaubwürdigkeit.
@@ -194,8 +224,7 @@ Wissenschaftskommunikation lässt sich auf drei Ebenen beschreiben: als *Kommuni
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Stellungnahme / Erörterung (ca. 250–300 Wörter).**
 
 Zu der Frage *„Sollten Forschende wissenschaftliche Unsicherheit offen kommunizieren — auch auf die Gefahr hin, das Publikum zu verunsichern?"* verfassen Sie eine strukturierte Stellungnahme. Wägen Sie Pro und Contra ab und kommen Sie zu einem begründeten Fazit.
@@ -213,55 +242,18 @@ Bauen Sie den Text so auf:
 - **Sprachliche Mittel (B2):** korrektes Passiv, mindestens eine Nominalisierung, Vermutungssprache (Konjunktiv II / Modalverben); präziser Wortschatz aus Teil A.
 - **Korrektheit:** kontrollierte Grammatik; Fehler stören das Verständnis nicht.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 — Modul Hören, Teil 2 (Interview, 2× hören, Mehrfachwahl a/b/c).**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit02_wissenschaft-kommunizieren_exam" >}}).
 
-Die Lehrkraft liest den **Hörtext (Teil D)** zweimal vor. Wählen Sie zu jeder Frage die richtige Lösung.
-
-1. Was ist laut Dr. Brandt für die Glaubwürdigkeit entscheidend?
-   a) das Thema der Studie · b) die Art der Darstellung · c) die Länge des Beitrags.
-2. Wie wirken Meldungen, die offene Grenzen einer Studie benennen?
-   a) glaubwürdiger · b) langweiliger · c) weniger seriös.
-3. Wie beurteilt Dr. Brandt Vereinfachung?
-   a) grundsätzlich schädlich · b) notwendig, aber bei Verdrehung problematisch · c) immer unbedenklich.
-4. Wann entsteht eine Verzerrung?
-   a) wenn eine Studie zu lang ist · b) wenn aus einem möglichen Zusammenhang ein „Beweis" wird · c) wenn Quellen genannt werden.
-5. Wer ist besonders anfällig für Desinformation?
-   a) Menschen mit gefestigter, bestätigter Meinung · b) junge Menschen · c) Fachleute.
-6. Was bewirkt laut Bericht reine Faktenkorrektur?
-   a) sehr viel · b) wenig · c) sie schadet.
-7. Welchen Rat gibt Dr. Brandt zur Unsicherheit?
-   a) verstecken · b) erklären · c) übertreiben.
-8. Wodurch entsteht Vertrauen?
-   a) durch eine perfekte Grafik · b) über Zeit und im Dialog · c) durch hohe Reichweite.
-
-{{< callout type="note" >}}
-**Punkte-Rubrik (max. 8 Punkte)**
-
-| Punkte | Leistung                                            |
-|--------|-----------------------------------------------------|
-| 8–7    | Kernaussagen und Details sicher erfasst             |
-| 6–5    | Hauptaussagen erfasst, einzelne Details unsicher    |
-| 4–3    | nur Globalverstehen, viele Details fehlen           |
-| 2–0    | Verständnis lückenhaft                              |
-
-*1 Punkt je richtige Antwort. In der echten Prüfung zählt allein die Ankreuzung; Rechtschreibung wird hier nicht bewertet.*
-{{< /callout >}}
-
-{{< details type="tip" title="Lösungen — Prüfung" >}}
-1. b · 2. a · 3. b · 4. b · 5. a · 6. b · 7. b · 8. b.
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich folge einem Fachinterview und erkenne seine Kernaussagen.
 - [ ] Ich unterscheide Hypothese, Befund und Einschränkung an der sprachlichen Form.
 - [ ] Ich kann Passiv, Nominalisierung und Vermutungssprache gezielt einsetzen.
 - [ ] Ich wäge in einer Stellungnahme Pro und Contra ab und begründe ein Fazit.
 - [ ] Ich erkenne, wie Zuspitzung in Verzerrung umschlagen kann.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

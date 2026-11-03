@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.creative-writing.03
-    - B2.REC.reading-for-information-and-argument.01
-    - B2.PROD.overall-written-production.01
-    - B2.REC.reading-for-orientation.02
-    - B2.INT.correspondence.09
+  - B2.PROD.creative-writing.03
+  - B2.REC.reading-for-information-and-argument.01
+  - B2.PROD.overall-written-production.01
+  - B2.REC.reading-for-orientation.02
+  - B2.INT.correspondence.09
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-b2-modul-hören-teil-3
+exam:
+  page: kurs_b2/units/unit05_kunst-und-kultur_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit05_kunst-und-kultur-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit05_kunst-und-kultur-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -83,6 +111,7 @@ gegensätzlich. Über Kunst zu sprechen heißt, den eigenen Eindruck
 in Worte zu fassen und ihn so zu begründen, dass andere ihn
 nachvollziehen können, auch wenn sie ihn nicht teilen.
 
+## Aktivieren {#activate}
 **Einstiegsfragen (Partnerarbeit):**
 
 - Welche Ausstellung, welcher Film oder welches Konzert hat Sie
@@ -92,8 +121,7 @@ nachvollziehen können, auch wenn sie ihn nicht teilen.
 - Kann man über Geschmack streiten? Wann ist eine Bewertung
   „nur Meinung“, wann ist sie *begründet*?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort / Wendung              | Bedeutung / Verwendung                          |
@@ -149,6 +177,8 @@ zu Nomen:
 
 ### C. Hörtext (zum Vorlesen)
 
+*Fiktive Radioszene: Ausstellung, Stimmen und die Zahl der gezeigten Werke gehören zu diesem Unterrichtsszenario. Die Szene ist keine Dokumentation einer realen Ausstellung; die genannten historischen Künstlerinnen und Künstler werden davon unterschieden.*
+
 > Die folgende Radio-Diskussion liest die Lehrkraft **einmal** in
 > normalem Tempo vor. Die Lernenden hören zunächst ohne
 > mitzulesen.
@@ -200,8 +230,7 @@ Künstlerin 1934 starb, sind ihre Werke gemeinfrei. Solche
 Biografien zeigen, warum das Schlagwort *Wiederentdeckung* in
 aktuellen Ausstellungen so häufig fällt (siehe **Quellen**).
 
-## Üben
-
+## Üben {#practise}
 {{< callout type="note" >}}
 **Niveau-Differenzierung:** ⚑ = Grundniveau · ⚑⚑ = Zielniveau B2
 · ⚑⚑⚑ = Erweiterung. Wählen oder kombinieren Sie je nach Gruppe.
@@ -270,8 +299,7 @@ Sie den ersten Teil und nutzen Sie den Konnektor in Klammern.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Stellungnahme (B2, ca. 250–300 Wörter).**
 
 In der Diskussion fällt der Satz: *„Ausstellungen sollten die
@@ -297,40 +325,11 @@ Ihre Erörterung soll enthalten:
 | Wortschatz                             | präzise Kunst-/Bewertungslexik              |
 | Sprachliche Korrektheit                | verständlich trotz einzelner Fehler         |
 
-## Prüfung — GER B2, Modul Hören (Teil 3)
+## Prüfung — GER B2, Modul Hören (Teil 3) {#exam}
 
-**Aufgabenstellung:** Sie hören die Radio-Diskussion *„Blickwinkel“*
-(Input C) **einmal**. Entscheiden Sie bei jeder Aussage, welche
-Person sie äußert: **H** = Dr. Hübner · **R** = Ritter ·
-**A** = Frau Aldan. Für jede Aussage ist **nur eine** Person
-richtig.
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit05_kunst-und-kultur_exam" >}}).
 
-1. „Frauen malten auf gleichem Niveau wie Klimt und Schiele.“
-2. „Manche Bilder brauchen mehr Raum, um zu wirken.“
-3. „Der Alltag der Künstlerinnen steht bewusst im Katalog.“
-4. „Die Audiotour hat mir die Farbgebung erklärt.“
-5. „Im Gegensatz zu vielen Jubiläumsschauen wirkt nichts
-   beliebig.“
-6. „Ich bin ohne Erwartung gekommen und gehe mit einer
-   Entdeckung.“
-
-{{< details type="tip" title="Lösungen" >}}
-1 = H · 2 = R · 3 = H · 4 = A · 5 = R · 6 = A.
-{{< /details >}}
-
-**Punkte-Rubrik (6 Punkte):**
-
-| Punkte | Leistung                                             |
-|--------|------------------------------------------------------|
-| 6      | alle 6 Zuordnungen korrekt                           |
-| 4–5    | 4–5 korrekt — sicheres Hörverstehen                  |
-| 2–3    | 2–3 korrekt — Hauptaussagen teilweise erfasst        |
-| 0–1    | 0–1 korrekt — Wiederholung mit Lesestütze nötig      |
-
-*Bestehensgrenze: 60 % (≥ 4 von 6 Punkten).*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann in einer Radio-Diskussion Standpunkte den
   Sprecher:innen zuordnen.
 - [ ] Ich kann ein Werk beschreiben, interpretieren **und**
@@ -341,7 +340,7 @@ richtig.
 - [ ] Ich benutze Passiv und Nominalisierung in
   Beschreibungen sicher.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

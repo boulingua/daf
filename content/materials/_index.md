@@ -1,5 +1,6 @@
 ---
 page_type: section
+layout: material-discovery
 title: Materialien
 description: Foliensätze und Arbeitsblätter zu allen 60 DaF-Einheiten.
 author: S. Le Boulanger
@@ -8,12 +9,12 @@ date: '2026-05-06T11:06:27+02:00'
 
 Pro Einheit gibt es zwei begleitende Materialien:
 
-- **Foliensätze** als PowerPoint-Datei für den Einsatz im Kurs.
+- **Foliensätze** als PDF für den Einsatz im Kurs.
 - **Arbeitsblätter** als druckfertiges PDF für die Lernenden.
 
-Alle Dateien sind aktuell **Platzhalter**. Echte Inhalte folgen
-iterativ, ohne Änderung der Dateinamen — bestehende Verlinkungen
-bleiben stabil.
+Die Materialien stehen als PDF bereit. Fachliche Prüfung und Aktualisierung
+werden im jeweiligen Kurs dokumentiert; eine vorhandene Datei ist kein
+Nachweis einer abgeschlossenen pädagogischen Prüfung.
 
 ## Übersichten
 

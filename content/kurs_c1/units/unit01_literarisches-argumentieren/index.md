@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.INT.formal-discussion.01
-    - C1.PROD.overall-written-production.02
-    - C1.REC.understanding-announcements-and-instructions.01
-    - C1.INT.informal-discussion.03
-    - C1.MED.processing-text.08
+  - C1.INT.formal-discussion.01
+  - C1.PROD.overall-written-production.02
+  - C1.REC.understanding-announcements-and-instructions.01
+  - C1.INT.informal-discussion.03
+  - C1.MED.processing-text.08
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_c1/units/unit01_literarisches-argumentieren_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit01_literarisches-argumentieren-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit01_literarisches-argumentieren-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -80,6 +109,7 @@ werden Sie in dieser Einheit streiten — anhand einer der
 berühmtesten Parabeln der deutschsprachigen Literatur, Franz
 Kafkas *Vor dem Gesetz* (1915).
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 - Gibt es „richtige" und „falsche" Deutungen eines literarischen
@@ -89,8 +119,7 @@ Kafkas *Vor dem Gesetz* (1915).
 - Was überzeugt Sie in einer Interpretation mehr — ein Textzitat
   oder ein plausibles Gefühl?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz: literarisch argumentieren
 
 | Begriff | Knapp erklärt |
@@ -188,8 +217,7 @@ die Passivität und Selbsttäuschung des Mannes betont, und eine
 machtkritische Lesart, die eine undurchschaubare, autoritäre
 Instanz und die Rolle des Türhüters anklagt. [Fakt: dt. Wikipedia.]
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Wortschatz sichern (Grundstufe)
 
 Ergänzen Sie den passenden Begriff aus dem Wortschatz (B/A):
@@ -262,8 +290,7 @@ voraus, und diesen hatte er.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (Schreiben, C1, ca. 250 Wörter): Erörterung.**
 
 Nehmen Sie schriftlich Stellung zu der Frage:
@@ -294,57 +321,11 @@ danach 2 Minuten freie Replik).
 | Konzessive Struktur | ≥ 3 Mittel korrekt | 1–2 Mittel | keine |
 | Sprachliche Angemessenheit (C1) | präzise, variabel | überwiegend korrekt | häufige Brüche |
 
-## Prüfung
+## Prüfung {#exam}
 
-**Format: GER C1, Modul Lesen — Teil 3 (Satzeinsetzung).**
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit01_literarisches-argumentieren_exam" >}}).
 
-Im folgenden Kommentar wurden **sechs** Sätze entfernt. Setzen Sie
-die Sätze **A–H** an die richtige Stelle **(1)–(6)**. **Zwei** Sätze
-passen nicht (Distraktoren).
-
-> Kafkas *Vor dem Gesetz* wird gern als Rätsel gelesen, doch das
-> eigentliche Rätsel liegt nicht im Text, sondern in uns. __(1)__
-> Der Mann vom Lande wartet ein Leben lang auf eine Erlaubnis, die
-> nie kommt. __(2)__ Man kann darin eine Anklage der Macht sehen,
-> die Zugang verspricht und zugleich verweigert. __(3)__ Ebenso
-> triftig ist die entgegengesetzte Lesart. __(4)__ Denn niemand hat
-> dem Mann je körperlich den Weg versperrt. __(5)__ Wer beide
-> Deutungen nebeneinanderstellt, merkt schnell, dass der Text sie
-> nicht gegeneinander ausspielt, sondern beide zugleich stützt.
-> __(6)__ Genau diese Weigerung, sich festzulegen, macht die Parabel
-> so haltbar.
-
-**Satzbausteine:**
-
-- **A** Sie verlagert die Schuld vom System auf den Einzelnen, der
-  nie den entscheidenden Schritt wagt.
-- **B** Ambiguität ist hier kein Mangel, sondern die eigentliche
-  Leistung des Textes.
-- **C** Die Statistik gibt darüber zuverlässige Auskunft.
-- **D** Die Frage, wer dafür verantwortlich ist, teilt seine
-  Leser:innen bis heute.
-- **E** Aus dieser Perspektive ist der Türhüter das Gesicht einer
-  undurchschaubaren Instanz.
-- **F** Ein Kochrezept hingegen lässt keine zweite Lesart zu.
-- **G** Erst wer den Text mit einer Erwartung betritt, findet in ihm
-  eine Antwort — und die Erwartung ist unsere, nicht seine.
-- **H** Der Türhüter droht nie mit Gewalt; er sagt lediglich „jetzt
-  nicht".
-
-**Bewertung (Punkte):** je richtige Zuordnung **1 Punkt**, maximal
-**6 Punkte**. Bestanden ab **4 Punkten**. Keine Teilpunkte.
-
-{{< details type="tip" title="Lösung Prüfungsteil" >}}
-
-(1) G · (2) D · (3) E · (4) A · (5) H · (6) B.
-Distraktoren: **C** (empirisch/statistisch — passt nicht zum
-hermeneutischen Text) und **F** (Bild passt thematisch, aber an
-keiner Leerstelle logisch anschlussfähig).
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann in eigenen Worten sagen, worin sich ein
   literarischer Beleg von einem empirischen unterscheidet.
 - [ ] Ich kann die existenzielle und die machtkritische Lesart
@@ -356,7 +337,7 @@ keiner Leerstelle logisch anschlussfähig).
 - [ ] Ich erkenne Vieldeutigkeit als Leistung, nicht als Fehler
   eines Textes.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitraster (90 Minuten):** Einstieg 10' · Input 25' · Üben 25' ·
 Anwenden 20' · Prüfungsvorschau 10'. Für 45-Minuten-Blöcke: Input +

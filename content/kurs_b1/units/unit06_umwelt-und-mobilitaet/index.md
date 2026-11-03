@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.formal-discussion.01
-    - B1.PROD.monitoring-and-repair.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.interviewing-and-being-interviewed.02
-    - B1.LING.orthographic-control.01
+  - B1.INT.formal-discussion.01
+  - B1.PROD.monitoring-and-repair.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.interviewing-and-being-interviewed.02
+  - B1.LING.orthographic-control.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit06_umwelt-und-mobilitaet_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit06_umwelt-und-mobilitaet-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit06_umwelt-und-mobilitaet-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -107,6 +135,7 @@ Thema Verkehr hat fast jeder eine Meinung.
 
 **Aktivieren Sie Ihr Vorwissen.**
 
+## Aktivieren {#activate}
 - Wie kommen Sie typischerweise in die Stadtmitte — mit dem Auto,
   dem Rad, den Öffis oder zu Fuß? Was sagt das über Ihre Stadt
   aus?
@@ -115,8 +144,7 @@ Thema Verkehr hat fast jeder eine Meinung.
 - „Mobilität ist Freiheit.“ Stimmen Sie dieser Aussage zu, oder
   sehen Sie das anders? Begründen Sie kurz.
 
-## Input
-
+## Input {#input}
 ### A. Hörtext (zum Vorlesen) — Ausschnitt aus der Podiumsdiskussion
 
 {{< callout type="info" >}}
@@ -240,8 +268,7 @@ er ist original formuliert.
 > Alltag entscheiden also mit darüber, ob eine autofreiere Stadt
 > überhaupt funktionieren kann.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Wer sagt was? (B1-Hören, Teil 3).**
 Ordnen Sie jede Aussage einer Person zu:
 **N = Nihad · A = Amina · K = Kjell · T = Herr Tanner**
@@ -328,8 +355,7 @@ Textstelle belegen.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Kurzstellungnahme in 90 Sekunden.**
 
 Wählen Sie eine Position und halten Sie eine kurze Stellungnahme
@@ -375,57 +401,11 @@ Nehmen Sie es höflich auf, zum Beispiel so:
 | Reaktion             | das Gegenargument wird höflich aufgenommen              |
 | Redefluss            | ca. 90 Sekunden, ohne langes Stocken                    |
 
-## Prüfung
+## Prüfung {#exam}
 
-### Prüfungsbeispiel — GER B1 Hören, Teil 3
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit06_umwelt-und-mobilitaet_exam" >}}).
 
-{{< callout type="warning" >}}
-**Formal orientiert am offiziellen B1-Hören-Modul, Teil 3**
-(längeres Gespräch zwischen mehreren Personen; Zuordnung *Wer sagt
-was?*). Keine Reproduktion echter Modellsatz-Aufgaben — Text und
-Aufgaben sind original.
-{{< /callout >}}
-
-**Aufgabenstellung (verbatim für Prüfungs-PDF):**
-
-> Sie hören noch einmal einen Ausschnitt aus der Podiumsdiskussion.
-> Zu welcher Person passt jede Aussage? Ordnen Sie zu. Sie hören
-> den Text **einmal**. Schreiben Sie **A** (Amina Mišić),
-> **K** (Kjell Baumann) oder **T** (Herr Tanner).
->
-> 1. Vor einer autofreien Zone muss der öffentliche Verkehr gut
->    funktionieren. → ____
-> 2. Für ältere Menschen ist das Auto oft die einzige Verbindung
->    zu Arzt und Familie. → ____
-> 3. Man sollte Schritt für Schritt vorgehen: erst ein Viertel,
->    dann das nächste. → ____
-> 4. Für Lieferverkehr und Rettungsdienst braucht man klare
->    Ausnahmen. → ____
-> 5. Viele kurze Fahrten könnten mit dem Rad gemacht werden. → ____
-> 6. Unter sicheren Bedingungen würde ich selbst wieder Rad
->    fahren. → ____
-
-**Bewertung und Punkte (0–6):** 1 Punkt pro richtiger Zuordnung.
-
-| Punkte | Bewertung                          |
-|:------:|------------------------------------|
-| 5–6    | sicheres B1-Hörverstehen           |
-| 4      | B1 erreicht, mit kleinen Lücken    |
-| 0–3    | Ziel noch nicht erreicht — Wiederholung empfohlen |
-
-{{< details type="tip" title="Lösungen Prüfungsbeispiel" >}}
-
-1 = A · 2 = T · 3 = K · 4 = K · 5 = A · 6 = T.
-
-Hörstrategie-Tipp: Bei *Wer sagt was?* zuerst die Aussagen lesen,
-Schlüsselwörter markieren (z. B. *öffentlicher Verkehr*,
-*Ausnahmen*, *kurze Fahrten*) und dann beim Hören auf genau diese
-Signalwörter achten.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 Haken Sie ab, was Sie nach dieser Einheit können:
 
 - [ ] Ich kann einer Diskussionsrunde zu Mobilität in ihren
@@ -443,7 +423,7 @@ Haken Sie ab, was Sie nach dieser Einheit können:
 **Was bleibt offen?** Notieren Sie in Ihrem Lernjournal einen
 Satz: *Beim nächsten Mal möchte ich …*
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45-Min-Einheit):** Einstieg (Geschichte + Fragen) 6’ ·
 Input (Hörtext vorlesen + Wortschatz + Grammatik + Landeskunde) 12’ ·

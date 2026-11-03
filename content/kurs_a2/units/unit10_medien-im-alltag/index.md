@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.REC.understanding-audio-media-and-recordings.02
-    - A2.INT.online-conversation-and-discussion.01
-    - A2.INT.conversation.06
-    - A2.MED.processing-text.01
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.REC.understanding-audio-media-and-recordings.02
+  - A2.INT.online-conversation-and-discussion.01
+  - A2.INT.conversation.06
+  - A2.MED.processing-text.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit10_medien-im-alltag_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - listening
+  - reading
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit10_medien-im-alltag-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit10_medien-im-alltag-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -80,14 +108,14 @@ sitzen morgens in der Küche.
 >
 > **Lena:** Aber du bist auch drei Stunden am Tag am Handy!
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 - Welches Medium nutzen Sie am Morgen zuerst?
 - Wie viele Stunden pro Tag sind Sie am Handy?
 - Podcast, Radio, Zeitung oder Social Media — was mögen Sie am liebsten?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz „Medien und Bildschirmzeit"
 
 | Wort                     | Bedeutung                         |
@@ -147,8 +175,7 @@ in Deutschland. Nach dieser Studie nutzen etwa 96 % der Menschen ab
 zweieinhalb Stunden pro Tag online. Am beliebtesten sind Online-Videos
 und Audio-Angebote wie Podcasts. *(Quelle unten, CC BY-SA 4.0.)*
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Richtig oder falsch?** (zum Hörtext C)
 
 | Aussage                                             | R | F |
@@ -196,8 +223,7 @@ Kreuzen Sie an.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Partner-Interview (Sprechen, A2).** Fragen Sie Ihre Partnerin /
 Ihren Partner nach den Mediengewohnheiten. Nutzen Sie mindestens
 **einen *weil*-Satz**.
@@ -221,52 +247,17 @@ z. B.: *„Sara hört jeden Tag Podcasts, weil sie gern Sprachen lernt."*
 | Verständliche Aussprache                    | 2      |
 | **Gesamt**                                  | **8**  |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 — Modul Hören**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit10_medien-im-alltag_exam" >}}).
 
-**Aufgabenstellung:** Sie hören ein kurzes Interview über
-Bildschirmzeit. Die Lehrkraft liest den Text (Hörtext C) **zweimal**
-langsam vor. Kreuzen Sie bei jeder Aufgabe die richtige Lösung an
-(a / b / c).
-
-1. Nadia ist pro Tag ungefähr …
-   a) eine Stunde · b) drei Stunden · c) fünf Stunden am Handy.
-
-2. Am Morgen liest Nadia zuerst …
-   a) ein Buch · b) die Nachrichten · c) eine E-Mail.
-
-3. Im Bus …
-   a) hört sie einen Podcast · b) schaut sie fern · c) schläft sie.
-
-4. Fernsehen schaut Nadia …
-   a) jeden Tag · b) fast nie · c) am Abend.
-
-5. Am Abend möchte Nadia …
-   a) einen Film schauen · b) das Handy weglegen · c) telefonieren.
-
-**Punkte-Rubrik:**
-
-| Aufgabe | 1 | 2 | 3 | 4 | 5 | Gesamt |
-|---------|---|---|---|---|---|--------|
-| Punkte  | 1 | 1 | 1 | 1 | 1 | **5**  |
-
-*Bestanden ab 3 von 5 Punkten. Hinweis: Eine Audio-Aufnahme kann
-später ergänzt werden; bis dahin liest die Lehrkraft den Text vor.*
-
-{{< details type="tip" title="Lösungen Prüfung" >}}
-1. b · 2. b · 3. a · 4. b · 5. b.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich verstehe in einem kurzen Interview, welche Medien eine Person nutzt.
 - [ ] Ich höre Zahlen und Zeitangaben (Stunden pro Tag) richtig heraus.
 - [ ] Ich bilde einen Satz mit *weil* über mein Lieblingsmedium.
 - [ ] Ich nenne drei deutschsprachige Medien.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

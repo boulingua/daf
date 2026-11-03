@@ -39,7 +39,7 @@ enableRobotsTXT = true
   # coder.js via #dark-mode-toggle; disable the theme's floating
   # duplicate so there is exactly one toggle element on the page.
   hideColorSchemeToggle = true
-  customCSS = ["css/custom.css"]
+  customCSS = ["css/tokens.css", "css/custom.css"]
 
   # IMPORTANT — sub-tables under [params] must come AFTER all bare
   # [params] keys, because TOML scopes everything that follows a header

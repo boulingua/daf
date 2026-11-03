@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.PROD.compensating.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.LING.general-linguistic-range.02
+  - A1.INT.information-exchange.02
+  - A1.PROD.compensating.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.LING.general-linguistic-range.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit11_meine-freizeit_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit11_meine-freizeit-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit11_meine-freizeit-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,14 +101,14 @@ Es ist Samstag. Ana, Luka, Frau Berg und Herr Keks sitzen im Café.
 > **Herr Keks:** Und ich backe gern! Ich backe manchmal Kuchen.
 > Sport mache ich nie — ich bin ein bisschen faul.
 
+## Aktivieren {#activate}
 **Sprechen Sie:**
 
 1. Was macht Ana gern?
 2. Wie oft fotografiert Luka?
 3. Und Sie? Was machen Sie gern in der Freizeit?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort                | Bedeutung                        |
@@ -137,8 +165,7 @@ Viele Menschen treffen sich dort in ihrer Freizeit. Ein Sportverein
 heißt oft *SV* oder *TSV*. (Paraphrasiert nach: Wikipedia, „Vereinswesen",
 CC BY-SA 4.0 — siehe Quellen.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Was passt zusammen?
 
 | Verb        | Wort              |
@@ -190,8 +217,7 @@ ein und stellen Sie eine Rückfrage: *Und du?*
 **Aufgabe 4.** machst · mache · spiele.
 
 {{< /details >}}
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechaufgabe — Mini-Interview (zu zweit).** Fragen Sie Ihre Partnerin
 / Ihren Partner und antworten Sie. Nutzen Sie *gern* und *oft / manchmal / nie*.
 
@@ -207,34 +233,18 @@ Erzählen Sie danach der Gruppe: *„Das ist X. X spielt gern Gitarre. X macht o
 - Ich benutze *gern* richtig (nach dem Verb). ✓
 - Ich benutze ein Häufigkeitswort (*oft / manchmal / nie*). ✓
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 — Modul Sprechen, Teil 2 (Fragen und antworten).**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit11_meine-freizeit_exam" >}}).
 
-Sie ziehen zwei Themenkarten. Stellen Sie zu jeder Karte **eine Frage**
-an Ihre:n Partner:in. Die Person antwortet in einem Satz.
-
-**Kartenvorschläge:** 🎸 Musik · ⚽ Sport · 📚 Bücher · 📷 Fotos
-
-**Beispiel:** *„Spielst du gern Fußball?"* — *„Ja, ich spiele oft Fußball."*
-
-**Punkte-Rubrik (max. 6 Punkte):**
-
-| Kriterium                              | Punkte |
-|----------------------------------------|--------|
-| Frage korrekt gestellt (2 Karten)      | 0–2    |
-| Antwort passt zur Frage                | 0–2    |
-| *gern* / Häufigkeitswort richtig       | 0–2    |
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann 8+ Hobby-Wörter nennen.
 - [ ] Ich kann sagen, was ich gern mache (*Ich spiele gern …*).
 - [ ] Ich kann *oft, manchmal, nie* benutzen.
 - [ ] Ich kann fragen: *Was machst du gern?*
 - [ ] Ich verstehe einen kurzen Radiobeitrag über Hobbys.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' · Anwenden 10' · Prüfung/Reflexion 5'.
 

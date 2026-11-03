@@ -1,0 +1,1316 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "content/kurs_a1/units/unit01_begruessung-und-name_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "8c464f9579ce3f8129df599963b42b5f1f8a441ef224a94a45c5a19d04bb1633"
+    },
+    {
+      "path": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
+      "before_sha256": "f3a38fd668b5366ab454edaa4da7ddaffd86643f00ec52f19d81444b182ce8b0",
+      "after_sha256": "d7d26ef7ee0299c0d8c5e72f92d3e4a72204548a4e4b740a6deddeafe5875af6"
+    },
+    {
+      "path": "content/kurs_a1/units/unit02_meine-familie_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "395ec5b43322d66ebec8ef1693abcbcb809ff7510d14b3fd293a96b52653f6a4"
+    },
+    {
+      "path": "content/kurs_a1/units/unit02_meine-familie/index.md",
+      "before_sha256": "841b779d5b85be3058434d62fc1b25d0463f8389583c93cc4b1d4f13e159652b",
+      "after_sha256": "1edd39ddf90838f9c25066d103deb32fbbac2e906c291f9cdac15e62f9e1e7af"
+    },
+    {
+      "path": "content/kurs_a1/units/unit03_woher-kommst-du_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "2cbf89b55b01517f964142ede71bb3ac20739a7d5d08bf521b3fc9889de73137"
+    },
+    {
+      "path": "content/kurs_a1/units/unit03_woher-kommst-du/index.md",
+      "before_sha256": "e5bfcab5fa3f42434c8143d0cfd1f7dd4b2bcd4610c2db4358bd6ccb8f0f9ca8",
+      "after_sha256": "dcc1df42ae3081214f3739eb1ef368e52c2631b8b21da4da0f643ced18cfda7a"
+    },
+    {
+      "path": "content/kurs_a1/units/unit04_meine-wohnung_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "b8ee00de66ba114e942e96534f6a36e324193b3fab7b49eaaec12ba15400c73a"
+    },
+    {
+      "path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+      "before_sha256": "01d6691834c102d97efd68c1fc2d16bb9c236e1f173aa7423521ef67fe4d63a9",
+      "after_sha256": "9554ef6b75ae8462ffffc539faa3c1ac1bd2e8e35c85fa3fc88ebfd2b9b168ef"
+    },
+    {
+      "path": "content/kurs_a1/units/unit05_essen-und-trinken_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d744c730c840f9e4dc3a9afdbb51eb389f251fedfbac4927c3da253978fc6687"
+    },
+    {
+      "path": "content/kurs_a1/units/unit05_essen-und-trinken/index.md",
+      "before_sha256": "5cbe0c4ae81c9acdd04c592b7912271b0b92500ac1642a020278143b1f7f255c",
+      "after_sha256": "427d978bd2cba1cc56a124be32b7531b8c26f63d4908e7f9f8cbd31fb044f23e"
+    },
+    {
+      "path": "content/kurs_a1/units/unit06_einkaufen-und-preise_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "a260854b2857a2641c7a6504664808f1112082716f49fa84560f1babf0c35c07"
+    },
+    {
+      "path": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
+      "before_sha256": "3f89388d542332af7cd7b707861d4e57430f41594ab5aeb9a64ee4e51ffe37b3",
+      "after_sha256": "24dfdd76cc7835544f5f9d244b6bea006f4214e9b4fe486cd455e539db89aeff"
+    },
+    {
+      "path": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "54fa0c3fbe4141f3cec60f86af6c9e4cc836027e59a98bf075179a8ee4f63404"
+    },
+    {
+      "path": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan/index.md",
+      "before_sha256": "bb8028a4119373ae443198c2b309d72eaf701de42e7a9e93fa0bc741b2148b60",
+      "after_sha256": "a033b1c83dc5e2c9681b095eb315202d789a78cd4250a68a7047f088c7f512df"
+    },
+    {
+      "path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d48f3f7a67d08e7ed8efcbddc8f7b1d994b6325d6e69834fb56a914976382955"
+    },
+    {
+      "path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
+      "before_sha256": "8a277a806ff99dea0bfb782c917ef6aa1f9e4f442298f6c77801bab5b0ba98f6",
+      "after_sha256": "0bf048064dd81b0911522a75fba227b5b0f4050ffa974a00fe53c083aee49b81"
+    },
+    {
+      "path": "content/kurs_a1/units/unit09_koerper-und-gesundheit_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "866bbfbb131dbf1f4ab42552deba12c0a1a7662e17f45d0cfd1f1ca5b36c216c"
+    },
+    {
+      "path": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
+      "before_sha256": "b920419c4cd6e83c99a508416e5d24ab7af92e62be12d8c50fa24b9267526ce3",
+      "after_sha256": "71a71cd1d1217a3270a4d05c6d328ac20229a4c8565226932090c520f97a4798"
+    },
+    {
+      "path": "content/kurs_a1/units/unit10_mein-beruf_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "bf77edb4a4e28e88ece47774d8e90ef5c5152e525fca191ad9786a7d53c89051"
+    },
+    {
+      "path": "content/kurs_a1/units/unit10_mein-beruf/index.md",
+      "before_sha256": "1029dffa841d37a3d7f2bfb334a8e42db749b67a27a73d090fc960c0a3a8af11",
+      "after_sha256": "cc6abc52064bd2d88cdce8a60689d499d199f41606a818ef64130fea32ce125f"
+    },
+    {
+      "path": "content/kurs_a1/units/unit11_meine-freizeit_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "e13f31e781f7656f83247198efc6390b6702db89cb8f59dd8f8913354ac365ad"
+    },
+    {
+      "path": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
+      "before_sha256": "9518c79719724bc407b42e5109a00b3a6ae322638df199eab6d182a32f75c32c",
+      "after_sha256": "7c70cf1219ad98c3e470c8fdd3476a7e70b4ddac30105949b931121e632fd7ae"
+    },
+    {
+      "path": "content/kurs_a1/units/unit12_reisen-und-unterwegs_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d23278852d93bda5c68db02db50b62beada04b2049fe96fc7d2eca794f1eec73"
+    },
+    {
+      "path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
+      "before_sha256": "3f6b596aa598937dc481895868ff7f6b823e38b2eca94a473b554ea81380e374",
+      "after_sha256": "febc01b96aa6d23fecd6c973cedcf77eaa1e2daf5ac01edccec2f2a20e3720f6"
+    },
+    {
+      "path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "771284bc275a7b6bd3ccbb0602dfe052d6bacd81d1e4f544e06de7df8e59f505"
+    },
+    {
+      "path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
+      "before_sha256": "be2611ba60fd29332cfb0a3e368f49e5361d2e7ff6dacb97d179ab676615fd3c",
+      "after_sha256": "52d5c7c929742c788babc1fcb13f3aeb0c3e0101e8ecfe772f0fb7b652170836"
+    },
+    {
+      "path": "content/kurs_a2/units/unit02_wohnung-mieten_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "7af256fbfdac4aca047b88422921df6dba5c9eb5ac04620ee8e9e324ad076f51"
+    },
+    {
+      "path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
+      "before_sha256": "53829f9baf01caba3a7e70d971e9d86e21432032393f41ed7356678bde416405",
+      "after_sha256": "6e02b6ead4a057c6473fa6553d8c10ffccc901d5b628594eb339409d1a389636"
+    },
+    {
+      "path": "content/kurs_a2/units/unit03_beim-arzt_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "b295b82bd043ed4bebe2246f55e85d3a52307e6132931a30398bb382aa47df1a"
+    },
+    {
+      "path": "content/kurs_a2/units/unit03_beim-arzt/index.md",
+      "before_sha256": "2f5b48118cd9444b886746b254d888e814082ea71ae3693e7495328ce3324ba1",
+      "after_sha256": "03547228fe8ade09e388857c6b3a9502df6abd1e63dfdd5d6f267be2358ef5fd"
+    },
+    {
+      "path": "content/kurs_a2/units/unit04_im-amt_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "727b4fa0d763bfd41c29d917698e5bb56092d9be78211ea3319448fd1dc2cc1b"
+    },
+    {
+      "path": "content/kurs_a2/units/unit04_im-amt/index.md",
+      "before_sha256": "988320c3049c17f2ecb0e7248274d44d836d0e56a5d7e162acd30dbab824ba1e",
+      "after_sha256": "9a40217ae5ec6792f8b3a2cb5c5cd4fcc32f0b4e9d1ea835dda6c6a24858e3a3"
+    },
+    {
+      "path": "content/kurs_a2/units/unit05_reiseplanung_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "dd32baff7ca491a534811e68c659879d675561d4a1f775c864f6debf3fb4725f"
+    },
+    {
+      "path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+      "before_sha256": "6926223a07d9876f87f41477503797b8c37a541bf0785ad738300837788f279d",
+      "after_sha256": "eb0e1d84db9a69d18de5eb5d4b035c962953b0a3c67f2729ec8291a7a0b6c3d4"
+    },
+    {
+      "path": "content/kurs_a2/units/unit06_hobbys-und-vereine_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "938d21c18117fd0ed2bb76cc8231ac858698b508b5d6c26b9e946a3049c6f795"
+    },
+    {
+      "path": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
+      "before_sha256": "f1feb6361c0fe6a3df8f47d54f5ca70766cb2cb7091f7d37945fefdf911361cb",
+      "after_sha256": "331a715867b26a8077568b7eeb8abebf4d4c2cffaaff171a3646d4ec3d1d1fff"
+    },
+    {
+      "path": "content/kurs_a2/units/unit07_feste-und-traditionen_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "b72fe50f45fcf5523dc28917a0b874c14e1b5271295f2bbb7d6364e55dd208ed"
+    },
+    {
+      "path": "content/kurs_a2/units/unit07_feste-und-traditionen/index.md",
+      "before_sha256": "e85af79054617701cfb72b0757d956df90911dfe1616d038cca7dac3adcf609f",
+      "after_sha256": "e174f742204dde1959f83f3686131ef486bc88abdc977316740452464ee2188d"
+    },
+    {
+      "path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "4b267e751b7e3480faae799ae99a8ae47c7c7bf783d2d7b2472a13f29b9e65b5"
+    },
+    {
+      "path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
+      "before_sha256": "deae643ecf655809c2d403ccb99ce97a121b522de8c758818e52098d7896b971",
+      "after_sha256": "ddaceb098601515e189fb54bf224e17776cdcbdac822c53660ee06498c04b728"
+    },
+    {
+      "path": "content/kurs_a2/units/unit09_plaene-und-zukunft_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "7e1c55e0545498511c49b5f4eb2b33deccdd042156d85b5ff110d8cad25a2b21"
+    },
+    {
+      "path": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
+      "before_sha256": "0f3c295dda070425a758ea0b2d86741f1900f911513b6d9b9f91a89a5d11c6ef",
+      "after_sha256": "3db827ec147c141dcfba28db6c9502ea9a86c181063ee3b5a640e8b23977480e"
+    },
+    {
+      "path": "content/kurs_a2/units/unit10_medien-im-alltag_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d04a3bb176e076c8d51388655c8acbdc4b2ca972929087ac43faedc634f2bf36"
+    },
+    {
+      "path": "content/kurs_a2/units/unit10_medien-im-alltag/index.md",
+      "before_sha256": "95e92ea4701262ae53a44276d17b3b480250a73053ae4904a384d7ad1d257fdd",
+      "after_sha256": "a1e45fb1983484bb65259cbc49eb41fef472282f68d71755b576cd622864f038"
+    },
+    {
+      "path": "content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "c8148febd549f24a1a675c63c96dd2a27cdc579b7bbb80c81c97dd43b4e1a1a8"
+    },
+    {
+      "path": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "before_sha256": "5b6bebee726128ce842006db3ff5a7b845a637baf00f6e51be0bc61ae6c3d833",
+      "after_sha256": "a2ce9d44a14baa0e20ed61d01cdacc9ead648b585c22b927b5b994749e2013fa"
+    },
+    {
+      "path": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "fede7d4e529454329810b2b8eaf16b2f30211a34cac84667cd0cbe7ea4dcf6e1"
+    },
+    {
+      "path": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte/index.md",
+      "before_sha256": "489831c5a3b638b2cd87160bccb58b4135ee4cc75ff8e130e05a4595d6abf66a",
+      "after_sha256": "875d491d3fafd0f36ba5c96fd2ffbe7196982628f0d257d7064ad4d6c13992a4"
+    },
+    {
+      "path": "content/kurs_b1/units/unit01_neuanfang-in-basel_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "81e7f73642b1035b21a70148845aa56cfcb46787faa7248a49f68e67072c7cbd"
+    },
+    {
+      "path": "content/kurs_b1/units/unit01_neuanfang-in-basel/index.md",
+      "before_sha256": "13feaf62073cca1f269eaaa0a6c60d864b6445f0c4949813bc30a34861e3703c",
+      "after_sha256": "c5739d20d23bc7cbea5e52982d89d854bb58868e07776be17bcc99f96ba3f1cf"
+    },
+    {
+      "path": "content/kurs_b1/units/unit02_der-bewerbungsweg_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "695cf96bb33bb53a87bcee3181f654a69243200e3b9912f99898800a6125e234"
+    },
+    {
+      "path": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+      "before_sha256": "95956560c7d6c15d0787b0ecadb47d2e3aa1c8a80ae44e742804b8ef369977a7",
+      "after_sha256": "6e27008276cb872fca2279091d71472f486eff47d8500054ee2f84b2bacdcc64"
+    },
+    {
+      "path": "content/kurs_b1/units/unit03_weiterbildung-und-studium_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "2ad6963bacd46b709ceeca7428f710f63de2cd0c18766b514101a4682681fe93"
+    },
+    {
+      "path": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
+      "before_sha256": "61d7f00e21f93c6f4fb0fd64559bfc9ffd5cfd1943a3cea6107292fd14225d81",
+      "after_sha256": "7b1f30da4feadb0d3d841706182eb1a590a350fe8465159b94605dcf8945c6e8"
+    },
+    {
+      "path": "content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "568850843a00c72be1e16ed625b1a00ae450636d4f63bb671b6b2f07b93e2a6e"
+    },
+    {
+      "path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+      "before_sha256": "0fb033191b810578d344b581af354942cea6ff64323c704379a4bea0c75f2ecc",
+      "after_sha256": "06af6e14a194a3a555c6ce6a8a79e21260baa4cd800529321472e5da6779d8b0"
+    },
+    {
+      "path": "content/kurs_b1/units/unit05_digitale-kommunikation_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "54dae7f28ee288013d227056e7c5c6895c4a65734436eb711dbec174ed3b7e8e"
+    },
+    {
+      "path": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+      "before_sha256": "a18c671fa77784edba89e14157a9ea795b7d9233b5a6285b14df4255629dc2ac",
+      "after_sha256": "fc53e8a02a44bbb5c5ec3495f93e400e4e189e6621dbaa2ff913bfad8f4f0870"
+    },
+    {
+      "path": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "1534b41de4d1b4e1d7d177bf566009cd28ccff2984ecad46ea3328e5ca45dd48"
+    },
+    {
+      "path": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+      "before_sha256": "eea989fee7c5efb1b11f30395a734640679518e1c88a55f019326e02aaea79e7",
+      "after_sha256": "2bce4a64717a95816a51509aaf104f21bb06f291114e7eee096518c57f821f62"
+    },
+    {
+      "path": "content/kurs_b1/units/unit07_interkulturelle-begegnung_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "523d37cab3e3ca9cd41b974211040a62158ce2da1e124cb8ac699c5de84853ac"
+    },
+    {
+      "path": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
+      "before_sha256": "5cd66c2ad5e677fd986b4d771a7677dafdd4d3cf09d76bfbde513457335fb797",
+      "after_sha256": "8d448ab050803470b868455a3394549d969ad6371bf2820eb1ec74bd5b4dc959"
+    },
+    {
+      "path": "content/kurs_b1/units/unit08_stadt-und-land_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "27a6f987cce93b7e985dbabb5b0ace48dd575dcda13677176676231ef9576e6d"
+    },
+    {
+      "path": "content/kurs_b1/units/unit08_stadt-und-land/index.md",
+      "before_sha256": "be35f7b7746677f770a72bc7406bd2c13ae487a11ef02209428555068246c3fd",
+      "after_sha256": "d3748d82fdb7d00baf63a973b05d3dbf43199d9b9e50e7706878b3a3812f6372"
+    },
+    {
+      "path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "51a087123477a9e4ed3cd67778e343fdfd2c4c287fc1a9b154cbefadc09b950c"
+    },
+    {
+      "path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
+      "before_sha256": "af66ea28b766e25ef07033fdd8b0763a4884ee5b886ead284d4461e9925469fb",
+      "after_sha256": "7f83aea8e3956db7f3ca2b0ecb2ca9352f75e6158d30c508ac044aa077c6e242"
+    },
+    {
+      "path": "content/kurs_b1/units/unit10_politik-und-teilhabe_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "cf0bafe221db17add0ba1f880683ae0387b7ecc692255d2bcf3e7ea57e8dbe5d"
+    },
+    {
+      "path": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
+      "before_sha256": "c6a1d479957e8a2e187a6f3eacda69a2433d22f8945a6ab96bedada4493bbd11",
+      "after_sha256": "76d458e30deb5665c94b1b33c33fb451c9f4ca050cb431d293a9832abf75df11"
+    },
+    {
+      "path": "content/kurs_b1/units/unit11_persoenliche-beziehungen_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "cf038dc1dc3228985ef772d02ca6bef786a129a33c338e6881808a7f54a1ed1a"
+    },
+    {
+      "path": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+      "before_sha256": "3cdb14a32301d89e46692fce99b03418574a9d9d258a5f82b94b98d0bd17d577",
+      "after_sha256": "c7ac34636dfd3292f2769f9c8e9c698541ebd858ba9d53c41e54f380d0d6a652"
+    },
+    {
+      "path": "content/kurs_b1/units/unit12_zukunftsvisionen_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "7b15f8146989f29d432f10ce12dad99a191b9aac27842923f1318ffe4063229e"
+    },
+    {
+      "path": "content/kurs_b1/units/unit12_zukunftsvisionen/index.md",
+      "before_sha256": "7b76f294b6815f85a684a545d1fc1d5e906a34487335e2dccef92322faea9729",
+      "after_sha256": "b342d5d94dde6c0438ae1dea87dfdba8a61f3a90f4ccac5c9eb88c13ef24b728"
+    },
+    {
+      "path": "content/kurs_b2/units/unit01_medienlandschaft-heute_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "c9519a9dc353b4f8adfeae2a65210964ec84859974111dd7fc420d17691040a4"
+    },
+    {
+      "path": "content/kurs_b2/units/unit01_medienlandschaft-heute/index.md",
+      "before_sha256": "ed03f1c1ed19b8c4d68918c89dc0820ad7fdc7475fc3eb29537f353e9597dcfa",
+      "after_sha256": "969e35f04e8ef234148d71f793f20c5230a316ea52da80de1acfc631854cfba8"
+    },
+    {
+      "path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "f4e56f0af0063bd8ead0c97a52aa304428486d12f4a36e80c3bb27534808d5d7"
+    },
+    {
+      "path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
+      "before_sha256": "7db8b09b15351969d89f2302778778c237f3c7fad181a40864de3de8c5422a0e",
+      "after_sha256": "e9e95ac4ab44f3f335e69cb143a5e146433a87340f0910dbc65625729d7fe3cd"
+    },
+    {
+      "path": "content/kurs_b2/units/unit03_gesellschaftliche-debatten_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "e75c91ee9e9eaff8f8cc13aa2fd55450899a429b4f66bd94645e5bb94f0e79b9"
+    },
+    {
+      "path": "content/kurs_b2/units/unit03_gesellschaftliche-debatten/index.md",
+      "before_sha256": "5c6ac10c7fbd8a1e3a9d113943aee5750162919b766bb49e169aa67a144b13ee",
+      "after_sha256": "12f18e5270cf8bda45d7507bbcca900cdd3d9f0ebc591866d8663413198c3de4"
+    },
+    {
+      "path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "1f574337a35188ee843bc6f5b93f65200cb91cd057f45e5955bf55f3de600614"
+    },
+    {
+      "path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
+      "before_sha256": "fcfdea5a42d8c70105db927d18162b060839119ac90d8d40ae44e7ec74e9284e",
+      "after_sha256": "010b88f8ce7883dbb87c31677736c5c1e2c43878a9adc16219635c1a062219e4"
+    },
+    {
+      "path": "content/kurs_b2/units/unit05_kunst-und-kultur_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d6a6e6424fc386ccd236e44626df9e6523d5a0679c0cda695c751c2e5e5d8a53"
+    },
+    {
+      "path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+      "before_sha256": "7a0bc2de5b70e9397994596ab1ba54994a73c183369c2ba8ce7148aef82ca524",
+      "after_sha256": "3e5709f626d68c5cd28beba6339ee746d0006b4fa237b60c5a0588df18c93ed0"
+    },
+    {
+      "path": "content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "14687e818a4e3125757514066667a1987bb1443c29528d00b550188708889eb0"
+    },
+    {
+      "path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+      "before_sha256": "9bf519edc4ecb621c33cb905fb5dcba4bd19e5948ce729a93f055ecf861f3e4d",
+      "after_sha256": "86cade44d82dbc3eb80353369676d66a8d47e63cd63b9e74a02592b8ba6843fb"
+    },
+    {
+      "path": "content/kurs_b2/units/unit07_gesundheitspolitik_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "ac7734bd0365029abaae71434c50a0763b84ce0d00633e1650395fee526cf534"
+    },
+    {
+      "path": "content/kurs_b2/units/unit07_gesundheitspolitik/index.md",
+      "before_sha256": "24931b7fcf29a693c0851de23d5914ebb532e927332c027ab677096a88677261",
+      "after_sha256": "80696278402f0d5fa1711044353cb8bd55d55d77672d2ae105f2cc86d9e14499"
+    },
+    {
+      "path": "content/kurs_b2/units/unit08_umweltpolitik_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "00c6779fca5bef0a44d5019e20aa7bb0aa9808d2e628196812dc36bd126a954d"
+    },
+    {
+      "path": "content/kurs_b2/units/unit08_umweltpolitik/index.md",
+      "before_sha256": "ac6f5f655320d8084a88e1a38f83ab3038a5a720add30643e022dce6b008899e",
+      "after_sha256": "8cf7eb6e41381e85e4c64eb94dc89f9020211d20d0ed8c54e637bf9ebfe9b78d"
+    },
+    {
+      "path": "content/kurs_b2/units/unit09_bildungsdebatten_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "c387dde4933dd6442d43909053abccf6e2f6d14b2d1a7e1ddb9ac5dcfff4c305"
+    },
+    {
+      "path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+      "before_sha256": "aa7e7482e0ad4b34a8d52eafa9866304e0e3ab1aab09096a2a1c4b34208d0a20",
+      "after_sha256": "266d1805a80442401be01c7904c79f8faa1b5dd9aa5680b279b38269aa24a003"
+    },
+    {
+      "path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "18082372c7e984d9fa0cc0107e379eea421f83e78295793ecaf84b0b9491a8fc"
+    },
+    {
+      "path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
+      "before_sha256": "701ed018669debaee7303860417e73c50f54d7653c0507878b86ae05f87b193b",
+      "after_sha256": "83f89121479e5480555d027d9223e159a1aa1926b13c8a219d716088b3369928"
+    },
+    {
+      "path": "content/kurs_b2/units/unit11_oekonomie-fuer-laien_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "e95bab29d74c590a45b229ca40977df3d8956e512d5b4a6b411b9fb3b346217e"
+    },
+    {
+      "path": "content/kurs_b2/units/unit11_oekonomie-fuer-laien/index.md",
+      "before_sha256": "4e4ebac902733b13b7074c0221b656f7ed39490955b0453e575bca80ea4ed903",
+      "after_sha256": "1000956c3e7eee49b6eaf2378b0dcbbf335db8bb38539d438a536ebf00a47518"
+    },
+    {
+      "path": "content/kurs_b2/units/unit12_literarische-perspektiven_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "ec2a2567e98e34ea3d9959a7eac13f01fc8dd4a2f68e63449c1ab5f6be4c0b01"
+    },
+    {
+      "path": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
+      "before_sha256": "ceb9b4add1e3f2917ec1ff6207a43414b383973e7d249835f032ab5d7a9c492e",
+      "after_sha256": "15942fab0c55faceaf0d51ce33991d538b17c60d20a88966a34724af133ce532"
+    },
+    {
+      "path": "content/kurs_c1/units/unit01_literarisches-argumentieren_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d7eb46e68117d854313d14511254618d6279bb34808611ad7f9e7d13ca5c5e9f"
+    },
+    {
+      "path": "content/kurs_c1/units/unit01_literarisches-argumentieren/index.md",
+      "before_sha256": "e9a2787af3b2b77650b8ef96fd2717796083a56a74ba0a1febaf47aa82bf751b",
+      "after_sha256": "7c425e6acb8b23e7a6b38035e8f50a3e05c28a06b675c0e30be726c9d8ccf891"
+    },
+    {
+      "path": "content/kurs_c1/units/unit02_politische-diskursanalyse_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "c1fde12e4a4bfaffc15049b628a07b3a966797fd59a1783c1d6e6df90847d764"
+    },
+    {
+      "path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+      "before_sha256": "c9b187b842f4444b0dedb238e3704d1536a26dee82fe0509febade5fbb9a7db5",
+      "after_sha256": "3b6960a443add13841cf7f071cad8268c4e3be78aa51bdcff188698cc50bfe60"
+    },
+    {
+      "path": "content/kurs_c1/units/unit03_wissenschaftstheorie_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "c5f87cdbf30dfa3e4d1b4f4dc83696a6f459137fcac1a48ff1c168dabb9339f7"
+    },
+    {
+      "path": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
+      "before_sha256": "87be2c00eb0dc9e8c492e977418a5479ac84d44c08c91fd15bf934e3fceb7300",
+      "after_sha256": "27128388fd24089d888740e4b25b322e32928b763963bdb1b7a49bd51a3ac647"
+    },
+    {
+      "path": "content/kurs_c1/units/unit04_aesthetik-und-urteil_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "5eb040f28e07a8eed1015b4956a451b49c9da9073fecd4c0e82502f5f975a1a9"
+    },
+    {
+      "path": "content/kurs_c1/units/unit04_aesthetik-und-urteil/index.md",
+      "before_sha256": "ede5275c9b48d06f47aa02dcd446a81888c0eac5dd748e1779ab7e71c2a7866f",
+      "after_sha256": "d653234fd01987f249e0efbe4e1cf7e7499ea7e50dd0563e8003ea17f6c96eb1"
+    },
+    {
+      "path": "content/kurs_c1/units/unit05_identitaet-und-sprache_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "20d7be87fa2af9b57bbff0b7c73fdf7a93814b0c9d84277864fb460f6f291af4"
+    },
+    {
+      "path": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+      "before_sha256": "d85b7694b8c5cb97d1f87e2b17172525fb36b6142e5657c3d9b038a380f2ae07",
+      "after_sha256": "488b34e59f6bd5d7e585be3e1816a4d7a19bab537fee3629982e703ad497a599"
+    },
+    {
+      "path": "content/kurs_c1/units/unit06_postkoloniale-perspektiven_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "f26abecddb1346c322a29a832adf736d75bbf1c513c75bccbd9afbfc805cf03d"
+    },
+    {
+      "path": "content/kurs_c1/units/unit06_postkoloniale-perspektiven/index.md",
+      "before_sha256": "48b84d5e809bb15169b7a5b7f315b1d0e622169a73477f38518b0cfb1517a901",
+      "after_sha256": "6785c009890a94e6c757dd478b934b4121e06b8cd761ff5ae404a89654ff9603"
+    },
+    {
+      "path": "content/kurs_c1/units/unit07_historiografie_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "1150f2a2e9ee886e5018c85f7aba1886168587490530d0231230dd9dfd20873e"
+    },
+    {
+      "path": "content/kurs_c1/units/unit07_historiografie/index.md",
+      "before_sha256": "0e754919dfc4540388579c94554843459cfe5c9a037651f8260ce7ace63bd828",
+      "after_sha256": "79c4771245c754ae437188ae5b0c0eef78bc099e8c240a444a72c027be26eb95"
+    },
+    {
+      "path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "4c6a4642e9c247f66d5c1d9dd346c3c036128793e0d4c36364bb4df6a3121152"
+    },
+    {
+      "path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
+      "before_sha256": "9008b8df39fd4d8f8a2c092a10c0ffd7edd95034785ebff66e5339fd25fd903c",
+      "after_sha256": "5ec031cba47e006782d335df7cc101a41dfee703e168d6430a7db2cbd24a91e0"
+    },
+    {
+      "path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "64eaa171ac759fcf138cda45fbf7cf8e92868dd0f99f66afa0d924f48b672d6d"
+    },
+    {
+      "path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+      "before_sha256": "c4ac94673383d2d570b31f907473ecd684a8c02e7e99218881280ce1eb744cbc",
+      "after_sha256": "9a9b75dc73a9f33ac64db968672c7da070c60564a887f3fd7cf83a9635049211"
+    },
+    {
+      "path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "d763ee269f9c824421b8afb5f4c8246e6e0151caeb111bcc223d7ef3d1dc1ae4"
+    },
+    {
+      "path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+      "before_sha256": "59af1045c15007c75d05d699c9dfdf2e5f5c2b6d932afc5c5c68039f12d6de9b",
+      "after_sha256": "ce9a962437a7e8326d9dd7867bc2c8d2d6ce146bf66cb7ffe99a5eaabcbe156f"
+    },
+    {
+      "path": "content/kurs_c1/units/unit11_literarische-moderne_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "03367f88fdc7044f47b6fa1a6b7758a25d1e2c50b759c4b3c1f9e172895f50c2"
+    },
+    {
+      "path": "content/kurs_c1/units/unit11_literarische-moderne/index.md",
+      "before_sha256": "4e1ace58eb26516f3f0b66592a789e51528e99ee90acad8370e7341015900922",
+      "after_sha256": "7023cc8044c706bf123d8d24ead35635835dbb6dc5a0b80e6cb888b07baaf3e1"
+    },
+    {
+      "path": "content/kurs_c1/units/unit12_gegenwartsliteratur_exam/index.md",
+      "before_sha256": null,
+      "after_sha256": "29cd987047ef54bcd6c531253261c1c0b19058f6f97921b09d5b2e5ea0d575db"
+    },
+    {
+      "path": "content/kurs_c1/units/unit12_gegenwartsliteratur/index.md",
+      "before_sha256": "4dda00314dd540bcd5b650fab1103e361bcd081c7bd766783b13acdac0ed1c0e",
+      "after_sha256": "a4b7011c9ca039f47235ea930d8a5bc2faeab416b421f43739a12f22ca86e3ee"
+    }
+  ],
+  "review": [
+    {
+      "unit": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
+      "exam": "content/kurs_a1/units/unit01_begruessung-und-name_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit02_meine-familie/index.md",
+      "exam": "content/kurs_a1/units/unit02_meine-familie_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit03_woher-kommst-du/index.md",
+      "exam": "content/kurs_a1/units/unit03_woher-kommst-du_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+      "exam": "content/kurs_a1/units/unit04_meine-wohnung_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit05_essen-und-trinken/index.md",
+      "exam": "content/kurs_a1/units/unit05_essen-und-trinken_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
+      "exam": "content/kurs_a1/units/unit06_einkaufen-und-preise_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan/index.md",
+      "exam": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
+      "exam": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
+      "exam": "content/kurs_a1/units/unit09_koerper-und-gesundheit_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit10_mein-beruf/index.md",
+      "exam": "content/kurs_a1/units/unit10_mein-beruf_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
+      "exam": "content/kurs_a1/units/unit11_meine-freizeit_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
+      "exam": "content/kurs_a1/units/unit12_reisen-und-unterwegs_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
+      "exam": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
+      "exam": "content/kurs_a2/units/unit02_wohnung-mieten_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit03_beim-arzt/index.md",
+      "exam": "content/kurs_a2/units/unit03_beim-arzt_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit04_im-amt/index.md",
+      "exam": "content/kurs_a2/units/unit04_im-amt_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+      "exam": "content/kurs_a2/units/unit05_reiseplanung_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
+      "exam": "content/kurs_a2/units/unit06_hobbys-und-vereine_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit07_feste-und-traditionen/index.md",
+      "exam": "content/kurs_a2/units/unit07_feste-und-traditionen_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
+      "exam": "content/kurs_a2/units/unit08_gestern-und-vergangenheit_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
+      "exam": "content/kurs_a2/units/unit09_plaene-und-zukunft_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit10_medien-im-alltag/index.md",
+      "exam": "content/kurs_a2/units/unit10_medien-im-alltag_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "exam": "content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte/index.md",
+      "exam": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit01_neuanfang-in-basel/index.md",
+      "exam": "content/kurs_b1/units/unit01_neuanfang-in-basel_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+      "exam": "content/kurs_b1/units/unit02_der-bewerbungsweg_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
+      "exam": "content/kurs_b1/units/unit03_weiterbildung-und-studium_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+      "exam": "content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+      "exam": "content/kurs_b1/units/unit05_digitale-kommunikation_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+      "exam": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
+      "exam": "content/kurs_b1/units/unit07_interkulturelle-begegnung_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit08_stadt-und-land/index.md",
+      "exam": "content/kurs_b1/units/unit08_stadt-und-land_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
+      "exam": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
+      "exam": "content/kurs_b1/units/unit10_politik-und-teilhabe_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+      "exam": "content/kurs_b1/units/unit11_persoenliche-beziehungen_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b1/units/unit12_zukunftsvisionen/index.md",
+      "exam": "content/kurs_b1/units/unit12_zukunftsvisionen_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit01_medienlandschaft-heute/index.md",
+      "exam": "content/kurs_b2/units/unit01_medienlandschaft-heute_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
+      "exam": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit03_gesellschaftliche-debatten/index.md",
+      "exam": "content/kurs_b2/units/unit03_gesellschaftliche-debatten_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
+      "exam": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+      "exam": "content/kurs_b2/units/unit05_kunst-und-kultur_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+      "exam": "content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit07_gesundheitspolitik/index.md",
+      "exam": "content/kurs_b2/units/unit07_gesundheitspolitik_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit08_umweltpolitik/index.md",
+      "exam": "content/kurs_b2/units/unit08_umweltpolitik_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+      "exam": "content/kurs_b2/units/unit09_bildungsdebatten_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
+      "exam": "content/kurs_b2/units/unit10_ethik-digitaler-technologien_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit11_oekonomie-fuer-laien/index.md",
+      "exam": "content/kurs_b2/units/unit11_oekonomie-fuer-laien_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
+      "exam": "content/kurs_b2/units/unit12_literarische-perspektiven_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit01_literarisches-argumentieren/index.md",
+      "exam": "content/kurs_c1/units/unit01_literarisches-argumentieren_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+      "exam": "content/kurs_c1/units/unit02_politische-diskursanalyse_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
+      "exam": "content/kurs_c1/units/unit03_wissenschaftstheorie_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit04_aesthetik-und-urteil/index.md",
+      "exam": "content/kurs_c1/units/unit04_aesthetik-und-urteil_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+      "exam": "content/kurs_c1/units/unit05_identitaet-und-sprache_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit06_postkoloniale-perspektiven/index.md",
+      "exam": "content/kurs_c1/units/unit06_postkoloniale-perspektiven_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit07_historiografie/index.md",
+      "exam": "content/kurs_c1/units/unit07_historiografie_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
+      "exam": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+      "exam": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+      "exam": "content/kurs_c1/units/unit10_stilistik-und-rhetorik_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit11_literarische-moderne/index.md",
+      "exam": "content/kurs_c1/units/unit11_literarische-moderne_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/kurs_c1/units/unit12_gegenwartsliteratur/index.md",
+      "exam": "content/kurs_c1/units/unit12_gegenwartsliteratur_exam/index.md",
+      "new_exam": true,
+      "exact_existing_assessment": false,
+      "pending": [
+        "duration requires review",
+        "point total requires review",
+        "transferred module task requires standalone input, rubric and scope review"
+      ],
+      "review_status": "pending"
+    }
+  ]
+}

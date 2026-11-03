@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.01
-    - A1.PROD.compensating.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.goal-oriented-co-operation.03
-    - A1.PLUR.building-on-plurilingual-repertoire.01
+  - A1.INT.conversation.01
+  - A1.PROD.compensating.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.goal-oriented-co-operation.03
+  - A1.PLUR.building-on-plurilingual-repertoire.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit09_koerper-und-gesundheit_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit09_koerper-und-gesundheit-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit09_koerper-und-gesundheit-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -81,12 +109,12 @@ curriculum:
 
 **Aktivierung — sprechen Sie im Kurs:**
 
+## Aktivieren {#activate}
 - Was tut Nina weh? Nennen Sie zwei Körperteile.
 - Wann waren Sie zuletzt krank?
 - Was machen Sie, wenn Sie Kopfschmerzen haben?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle — Körper und Gesundheit
 
 | Wort | Bedeutung |
@@ -156,8 +184,7 @@ aber keine rezeptpflichtigen Medikamente. Für ein Rezept vom Arzt
 gehen Sie also immer in die Apotheke.
 (Paraphrasiert nach Wikipedia, „Apotheke", CC BY-SA 4.0.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Welcher Satz passt zu welchem Bild-Wort?
 Schreiben Sie den Buchstaben.
 
@@ -211,8 +238,7 @@ die Hand · der Fuß · der Bauch.
 *Seit zwei Tagen.*
 
 {{< /details >}}
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechaufgabe — Rollenspiel „Beim Arzt".** Arbeiten Sie zu zweit.
 Person A ist Ärztin/Arzt, Person B ist Patient:in. Danach tauschen.
 
@@ -229,31 +255,11 @@ Person A ist Ärztin/Arzt, Person B ist Patient:in. Danach tauschen.
 | Zwei Anweisungen verstanden | ☐ |
 | Verständliche Aussprache | ☐ |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 — Modul Sprechen, Teil 3: Bitten formulieren und
-darauf reagieren.**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit09_koerper-und-gesundheit_exam" >}}).
 
-Sie ziehen zwei Bildkarten: **Thermometer** und **Tablette**.
-Formulieren Sie zu jeder Karte eine höfliche Bitte an Ihre
-Partnerin / Ihren Partner. Die andere Person reagiert.
-
-- Beispiel Karte 1 (Thermometer): *„Kannst du mir das Thermometer
-  geben, bitte?"* — Reaktion: *„Ja, hier bitte."*
-- Beispiel Karte 2 (Tablette): *„Haben Sie eine Tablette gegen
-  Kopfschmerzen?"* — Reaktion: *„Ja, nehmen Sie diese hier."*
-
-**Punkte-Rubrik (max. 6 Punkte):**
-
-| Punkte | Beschreibung |
-|--------|--------------|
-| 2 | Bitte klar und höflich formuliert |
-| 2 | Passende Reaktion auf die Partner-Bitte |
-| 2 | Verständliche Aussprache, A1-Wortschatz |
-| 0 | keine verständliche Äußerung |
-
-## Reflexion
-
+## Reflexion {#reflect}
 Kreuzen Sie an, was Sie schon können:
 
 - [ ] Ich kann 10 Körperteile mit Artikel nennen.
@@ -262,7 +268,7 @@ Kreuzen Sie an, was Sie schon können:
 - [ ] Ich verstehe drei Arzt-Anweisungen.
 - [ ] Ich weiß, wo man Medikamente kauft (Apotheke).
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

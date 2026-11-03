@@ -1,0 +1,2158 @@
+{
+  "date": "2026-11-02",
+  "status": "locally verified review copies; native-language and pedagogical approval pending",
+  "units": 60,
+  "pdfs": 180,
+  "pages": 1923,
+  "generator_sha256": "d7d741d16135f11f15ccbb563ef98d81969e5e263d5fad8fbd744c8f5166fa7c",
+  "verification": {
+    "ordered_selected_learner_source_blocks": true,
+    "teacher_key_separation": true,
+    "source_attribution_and_link_targets": true,
+    "authored_symbols_blanks_and_controls": true,
+    "compiler_missing_glyph_and_overflow_absent": true,
+    "thumbnail_pixels_match": true,
+    "representative_visual_inspection": true
+  },
+  "visual_samples": [
+    {
+      "source": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
+      "kind": "deck",
+      "pdf_sha256": "56adefd2eecedcf9c5faaed0be2e91fd6d0b4d8dc83afc4579c7f6ceb7f36f98",
+      "pages_viewed": [
+        11,
+        23
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
+      "kind": "learner",
+      "pdf_sha256": "0080217327976c9376344b9b3da87bb7914ea90e5ff754eed1e98dcb60456491",
+      "pages_viewed": [
+        2
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
+      "kind": "teacher",
+      "pdf_sha256": "2e5e1172e8858337e0a3f52412f73c3a18093319b4dcf8187c5a0e36473159d6",
+      "pages_viewed": [
+        5
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "kind": "deck",
+      "pdf_sha256": "d5d6d9f94f6512409081b7641c739a3274a0cd38f2dff0169f932fa44bf40fb4",
+      "pages_viewed": [
+        9,
+        21
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "kind": "learner",
+      "pdf_sha256": "72b1fae7ebf703d8b948f4b981d74208df1ebb31891b2938fd95e2096d9f34b4",
+      "pages_viewed": [
+        2
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "kind": "teacher",
+      "pdf_sha256": "073b20a8466f212512d07e40c3d95bfae7bb6ed5ad75c783fd292a7e9c916db7",
+      "pages_viewed": [
+        5
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+      "kind": "deck",
+      "pdf_sha256": "aa9da7afcbbeab172f27bdf9fcdf4f09eb842e5875b4383217bc95d4d0bb1879",
+      "pages_viewed": [
+        8,
+        29,
+        30
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+      "kind": "learner",
+      "pdf_sha256": "d9adc63cf1493827a3e975b37d60af07b52fc82a981ea23d2218629983f13db3",
+      "pages_viewed": [
+        3
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+      "kind": "teacher",
+      "pdf_sha256": "5b4e0cffbbffb68b5773cc488096fd06e324d3a37f98012ae094afa5f09a2c05",
+      "pages_viewed": [
+        6
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit07_gesundheitspolitik/index.md",
+      "kind": "deck",
+      "pdf_sha256": "5db93a4749c6340fba08327c6a2edc4ccb3c3f20dd92c462323408a4da054fc8",
+      "pages_viewed": [
+        12,
+        25
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit07_gesundheitspolitik/index.md",
+      "kind": "learner",
+      "pdf_sha256": "730621ecb67e985316f2ead6e38a9f40ef5195967baf65f4c4f13f8d4048b923",
+      "pages_viewed": [
+        2
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit07_gesundheitspolitik/index.md",
+      "kind": "teacher",
+      "pdf_sha256": "46ec1d7a67d5dd4366c7568a916790fe508d91d423da333331019a020a6ff823",
+      "pages_viewed": [
+        5
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+      "kind": "deck",
+      "pdf_sha256": "27ad7c76d4d5ac6ea2decc141537af41f6dc54fb6cab222d80af55b5afb0f496",
+      "pages_viewed": [
+        16,
+        27
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+      "kind": "learner",
+      "pdf_sha256": "751ca11776b1cb5370477552dd21230a7f0b9270bb6600060ad805008b8c5566",
+      "pages_viewed": [
+        3
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+      "kind": "teacher",
+      "pdf_sha256": "321f7a0d825842a9a0b4ca20bfd9aa5f198e0ea5f8bbf2d72ba0020a207035a8",
+      "pages_viewed": [
+        6
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit01_medienlandschaft-heute/index.md",
+      "kind": "learner",
+      "pdf_sha256": "54b434091df9262b15535b88d278173f0a8b4b42ba06fb1cc95344e5f6db64c1",
+      "pages_viewed": [
+        3
+      ]
+    }
+  ],
+  "preservation": "Prior asset, metadata and thumbnail-lock bytes are preserved in the dated external material-corpus-rev2/backups directory; source prose and other metadata remain unchanged by material publication.",
+  "records": [
+    {
+      "source": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
+      "compiled_source_sha256": "d7d26ef7ee0299c0d8c5e72f92d3e4a72204548a4e4b740a6deddeafe5875af6",
+      "published_source_sha256": "deef65b8c0a535833970d49666b71a61e0a80cebe512a364069915edbbd1dfd8",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit01_begruessung-und-name.pdf",
+          "sha256": "56adefd2eecedcf9c5faaed0be2e91fd6d0b4d8dc83afc4579c7f6ceb7f36f98",
+          "thumbnail_sha256": "a42cc819629c8152e87ecffa7288c4db43bc09cb5e6db127929f1adb0558e230",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit01_begruessung-und-name.pdf",
+          "sha256": "0080217327976c9376344b9b3da87bb7914ea90e5ff754eed1e98dcb60456491",
+          "thumbnail_sha256": "2109a35645342ba65b65933e7160cfd413937615f8a0bf9ea3a494ca4595bf57",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit01_begruessung-und-name-teacher.pdf",
+          "sha256": "2e5e1172e8858337e0a3f52412f73c3a18093319b4dcf8187c5a0e36473159d6",
+          "thumbnail_sha256": "80393a832a220bd8817d25727d5118be4d0751c57622f5bcce0442e19ed993e6",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit02_meine-familie/index.md",
+      "compiled_source_sha256": "cb38b045e6a4f45d792d9828910f9dacc1c85d6a24e0f5982c82f5a9d2f3ba7f",
+      "published_source_sha256": "7a1da0ea85c006dabc36b8965efd3348380c976615f23f71bcb7dc70bae5f689",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit02_meine-familie.pdf",
+          "sha256": "34e9ecd6b1bd73d108c7ab2e33f3bd12964801720029535fde86ac7e2b53daa3",
+          "thumbnail_sha256": "07f090b67df2688483acb542d8d3b5ed61cf346463bc1a741daab512e26694d5",
+          "thumbnail_width": 1000,
+          "pages": 17
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit02_meine-familie.pdf",
+          "sha256": "c67086aec65f9226e16c757c9f676dac55513e0ffe805e6faf096b52666e9b0a",
+          "thumbnail_sha256": "b7ef57453753fd4e156deeadfbd5bad9f17c79b747c31c525876b4dbe2fabe8d",
+          "thumbnail_width": 1000,
+          "pages": 3
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit02_meine-familie-teacher.pdf",
+          "sha256": "13ee10108ccc2a8020e71050378bcadf86422a9f2bec049ed71da1611d643a00",
+          "thumbnail_sha256": "3544349cd33bfaa5b35382b83a9feafc96bf8d71ec4c7e290fd249f53233ca46",
+          "thumbnail_width": 1000,
+          "pages": 4
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit03_woher-kommst-du/index.md",
+      "compiled_source_sha256": "5477b1df405c6269d978ad6b1a3edbff16dafb10a819d4f2b11629ce911ec1a7",
+      "published_source_sha256": "1bb18722c36a02791a501879ed940caa8c87490b2505a9d8d89db2259a1993b8",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit03_woher-kommst-du.pdf",
+          "sha256": "2e6a5f717dc991acf0ce85cf39e17e88a170bc82715d736fbd72e6b1d9a8f69f",
+          "thumbnail_sha256": "715a40d0c33b7bdec1d44a920f37518da611909453311b57ab83efb771b9e218",
+          "thumbnail_width": 1000,
+          "pages": 20
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit03_woher-kommst-du.pdf",
+          "sha256": "692a08b6d653cc1056211c11ee2265c5a5d8abb2c171c601bed0c99f6977f819",
+          "thumbnail_sha256": "4fdc244a0121909722e8da24fb8b81b30282fd45c3b72ab5a6d35a29c79d00d2",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit03_woher-kommst-du-teacher.pdf",
+          "sha256": "dea1869c298d00063ff060659c8a45f65747ba5fd50fc894dfcb0f4102a928db",
+          "thumbnail_sha256": "62b4873c2f104d87d41dfe46547c83ffba5a3ea01149f22e20038a7c120bd1e6",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+      "compiled_source_sha256": "9554ef6b75ae8462ffffc539faa3c1ac1bd2e8e35c85fa3fc88ebfd2b9b168ef",
+      "published_source_sha256": "1e548d85cb80642102041ca5d68021529cc7d7949c662ae0ce5bc6bf3780fe49",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit04_meine-wohnung.pdf",
+          "sha256": "f3dcca8e4029d5ece0d1c5e115448035c3a49c41f97e72b7a0aa158539965da0",
+          "thumbnail_sha256": "7fa0cab07396fce80335665737b4a6d41b4f5a1bc1034890cbd1d58b154a8b80",
+          "thumbnail_width": 1000,
+          "pages": 26
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit04_meine-wohnung.pdf",
+          "sha256": "ef4c0c7cde11592ee69da9224cd9edab0f8c6574fdd2270ebb1188cfc0dcfc7a",
+          "thumbnail_sha256": "adb76a2155abdafdeb521df279fbd219e9a050d6de7d7edf17e1692cae143e00",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit04_meine-wohnung-teacher.pdf",
+          "sha256": "453e6b8bc10cd1d6f9da66691aae23ed685d6735e05f8bf0aa16870ba7800603",
+          "thumbnail_sha256": "2e4f6371b7c06623787b908ab8da610279d361d6c5d2d5b0a38d0abd5b3b8df8",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit05_essen-und-trinken/index.md",
+      "compiled_source_sha256": "51f9923221524325e910410233d24c9d954e483e3db9cfd5d2cf347776617258",
+      "published_source_sha256": "2f57eacb142aec925a09ccad1ba19e5248e9235810828a6307045c95ecd691ca",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit05_essen-und-trinken.pdf",
+          "sha256": "1328d95614c2edc80afdf158ba3ee592f4ba45f79c8da1492ef9232307e91937",
+          "thumbnail_sha256": "ce1141c982e9c9a783cf021db3a8a937dff86ff75ddd9c0e658afb79ffb7f173",
+          "thumbnail_width": 1000,
+          "pages": 18
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit05_essen-und-trinken.pdf",
+          "sha256": "eafa1d7db4d6cfbe238400ca72baff8748b032681595d8a89afde264a3d9b8e1",
+          "thumbnail_sha256": "8f512fc88547105333625ca6a7b16e05d07b035f2113c1a94f02c218ad319ba0",
+          "thumbnail_width": 1000,
+          "pages": 3
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit05_essen-und-trinken-teacher.pdf",
+          "sha256": "0a8a67f9ef7e14233a7a5c8d5202ae22e76461ea4598736c28a8dc0f143b0e2b",
+          "thumbnail_sha256": "9054a8215884c7e83d9cc98ef3196863a7399d8386c4aab2264ebf7b381da77b",
+          "thumbnail_width": 1000,
+          "pages": 4
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
+      "compiled_source_sha256": "6ff547229fc5748a1132327c24c506086efb2e8e14ad5503566ddec810125769",
+      "published_source_sha256": "13f4d74118dbddcd41e9a4ee3e217af423e904036ef2104ad1eea8a77495d025",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit06_einkaufen-und-preise.pdf",
+          "sha256": "ae45914de88b1df0f710c35b848dcd0af7b38bb0f91f50a63853b8d8edc59f8d",
+          "thumbnail_sha256": "97b4975812a073220bdd122bce912fe941d7ec4301bee5cbfb85a053cd53330e",
+          "thumbnail_width": 1000,
+          "pages": 19
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit06_einkaufen-und-preise.pdf",
+          "sha256": "f4c1102ae19263b932dcf763e7503d54ea41b2126747867d2ed25d210fe59cf5",
+          "thumbnail_sha256": "d0003c92e4bfdcc5693aa931c487004289503ebbd0755f7bfea3beef5e1c4f74",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit06_einkaufen-und-preise-teacher.pdf",
+          "sha256": "9172b4fcdbaf1fe98c826328ed5fc259f80ef1bdb57227a9af56c4f21b390161",
+          "thumbnail_sha256": "62d5dab1ec768046e17a0a4fdf899204fd7c7e78261f59cc75cad25a7a36cbeb",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan/index.md",
+      "compiled_source_sha256": "a033b1c83dc5e2c9681b095eb315202d789a78cd4250a68a7047f088c7f512df",
+      "published_source_sha256": "0c81904a90e0596f081bb51ec4e9a840adbeb6f51439de00ca295f67b4ca4214",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit07_uhrzeit-und-wochenplan.pdf",
+          "sha256": "86177766a7fff81f94104fe7faa59194c1f69c023706f21a9fb9eb2c958ab108",
+          "thumbnail_sha256": "30577329c9d2d7c736883f2cfe227de8b8a40b1674cc194a37471c2a52c9e132",
+          "thumbnail_width": 1000,
+          "pages": 21
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit07_uhrzeit-und-wochenplan.pdf",
+          "sha256": "3a54b4ac9525144e0a21e6395b48704a148ae42f54fab4c66b99a33b28a0c3dd",
+          "thumbnail_sha256": "da71cb1164ba42e3391f11f682eb9ad7a83b236a4b338235cca6b48f8c790faf",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit07_uhrzeit-und-wochenplan-teacher.pdf",
+          "sha256": "d47d290a812ffd4bf3e22d5d40388af5b59ed35e43ed95a3dea7094137bf75d9",
+          "thumbnail_sha256": "924c75f83f7c79c2582b94c94a5eca38a6ddf9dc9818f48a7c870ae7fae4d7ee",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
+      "compiled_source_sha256": "df04d31be186b98efe8ee3e5bc13d09dd76a68bc94524ef5624de5b42ca66218",
+      "published_source_sha256": "6e3146a098d043f2bb75af6be046ae6f26632e0fd72131a4121bff9eb9c96c38",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit08_wetter-und-jahreszeiten.pdf",
+          "sha256": "e65a9d3258dbd89fe73bcb28ff70831dced0cfdb0c0322cd5e35d8af2835d1cc",
+          "thumbnail_sha256": "95f23384a9127d3e9ab19044c8e78d6415ca7aaac2b919e548cb79bf74bd1796",
+          "thumbnail_width": 1000,
+          "pages": 20
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit08_wetter-und-jahreszeiten.pdf",
+          "sha256": "c30bb78a38a34194d98bedf9f81ce2c93b5feb39ce2082c58b5b73224893b3b5",
+          "thumbnail_sha256": "1e0159b55b70577b7e92534ba57023d8a285e26e49d03d8da0171f434e440430",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit08_wetter-und-jahreszeiten-teacher.pdf",
+          "sha256": "8bddeacc9cdd21ff24446b8227260e28cf83d7d019955305582b72f7a7640679",
+          "thumbnail_sha256": "017d60cd27ce31c1e6b7d32c05c58f9efc30f4b8ab744371cfdbf83423ed2fb7",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "adeea1210c7a753c555581e2978a6f911e457a6b445347a37ff28938ebc9a76c"
+    },
+    {
+      "source": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
+      "compiled_source_sha256": "5fe842e1a4821998b687925143abfa916d3fbbd0759803cd247a8c57af5282c5",
+      "published_source_sha256": "16e15dcaa0cdef190100cbeb31588d98d669dbf142e6fe3f01d597b0942ccf46",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit09_koerper-und-gesundheit.pdf",
+          "sha256": "4474bddf324cee6735508623096a40a7401271928bcbbfa21819c7411bdc6e38",
+          "thumbnail_sha256": "8ef542d801e41763dc72548cf2f34c1ca0738e0507f0144f6dc3f7a87e1205d1",
+          "thumbnail_width": 1000,
+          "pages": 21
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit09_koerper-und-gesundheit.pdf",
+          "sha256": "2628ee21aab0637787b2a4616e7f3ec1cd0d412d3061cbed2894405742321a21",
+          "thumbnail_sha256": "e5031a67a5a9bccadf1db74cbcd0db8cc9fddb8296dc921088c7e823d7034072",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit09_koerper-und-gesundheit-teacher.pdf",
+          "sha256": "11714d1a2b18cfd2baea3b66b79248e99769c78357cebf64c57e29d90982c251",
+          "thumbnail_sha256": "c2f1452c95a880e87b11e08ddadf624c0802c1207a914cf026073a49a95f7a58",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit10_mein-beruf/index.md",
+      "compiled_source_sha256": "c84d7447232c47fd9f2c798a8a30fa194ef7c3e942774d998614dcbf4438f4e4",
+      "published_source_sha256": "2a18eb574e87187096936cb2cd7abbbcdb5ec75035b4d1579e7a131f49169fcb",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit10_mein-beruf.pdf",
+          "sha256": "c8177b06dcc9cce1bfc091a7ed85bc08429e7950fcbebca6415b5277183ddb1f",
+          "thumbnail_sha256": "3026b2f20df7852a2e455b9add0099b1d345daba55e70674846b2f9bde010ffb",
+          "thumbnail_width": 1000,
+          "pages": 18
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit10_mein-beruf.pdf",
+          "sha256": "52d1b8c8e368992a0d30f2f544d4ec74ea980313296bfbd7b0f09cde273c9fbd",
+          "thumbnail_sha256": "c1ef983edd4828c4da3763303da4122cd42f9f921f7f4fb6d2652bbdbda9054d",
+          "thumbnail_width": 1000,
+          "pages": 3
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit10_mein-beruf-teacher.pdf",
+          "sha256": "4dc99e275e2243ffae251eef32a7c1fb1f982151d540ef295448bcad9d677474",
+          "thumbnail_sha256": "a638853afadf7265193b83e5b3cd9497a76faee699f0a4e81114584fa97fc9ad",
+          "thumbnail_width": 1000,
+          "pages": 4
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
+      "compiled_source_sha256": "8beb982c8823b6d92350fbce550ba894197a8e5e7b1796670688e16d1d1c04eb",
+      "published_source_sha256": "fc09cfdf2df89aedd94c71b5e7bec48c002a339cb332e63913b3e885e3ded9ab",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit11_meine-freizeit.pdf",
+          "sha256": "0335d08acb2f91b92fba250b9604e730135730f67d41ae5da5d2df3069389407",
+          "thumbnail_sha256": "e0b29b4798714ac8f64bb15639ddfb2b4e732c93d2a38aa732a82c7aaac4a76b",
+          "thumbnail_width": 1000,
+          "pages": 18
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit11_meine-freizeit.pdf",
+          "sha256": "7e4ce59e9615cc920008f90b271eacc606696419fbde762dadbd51cc497b0f16",
+          "thumbnail_sha256": "366c67e49f96394ff7f8fd81894712378629ebd8855966f7e2d991b525168ebc",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit11_meine-freizeit-teacher.pdf",
+          "sha256": "d9a30de42c49c23c0a34b0c11ddbe55e157044b9d249a4baf5e936cfdcc465eb",
+          "thumbnail_sha256": "1fa30b83da882be0d63488539d9497aea55cef39b6b118b861ddab233fb6a2d9",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
+      "compiled_source_sha256": "c2b5784c49ca1a6ef1a8241345e83977ebf46389c9036f8d5719ae8b866ccbe9",
+      "published_source_sha256": "a194e49e2f31b8337bb92b4e997a9390699a279ccf6e759a45d214172c5ca558",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit12_reisen-und-unterwegs.pdf",
+          "sha256": "a2fd04389a97b784aff862628fadb29de2a1f4695feef066a4f574e6cfb85ab1",
+          "thumbnail_sha256": "de7b44908964aeaaf6cf8046838dcad2cdf2a33dd238a862614853bfa0dc1d95",
+          "thumbnail_width": 1000,
+          "pages": 18
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit12_reisen-und-unterwegs.pdf",
+          "sha256": "f32a5d0409bebd06e0211b8e429f195db4919a542bddb0783d6be535e311dffe",
+          "thumbnail_sha256": "f7b1b4d2d71a7fb93a9dbe61df1c3bdf29e5029fbfd1e069e2aa36ae6d3ceffa",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit12_reisen-und-unterwegs-teacher.pdf",
+          "sha256": "b44022a187436fd1021d0aae2ed02bfbce81aa3c05a6e928ef4293dee669bb5f",
+          "thumbnail_sha256": "f9fa80f66726bf53501b42996df379015b5de35de91f8fa5cbfbc81a46329bc7",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
+      "compiled_source_sha256": "f87d28677eec5e7a4588d1261ac2e9540d1f1821900bf73e3e3f635103625cca",
+      "published_source_sha256": "c3278dc89649a077d1f3e55f03683c67e978cd49a37383bc2bae1476d6326f6e",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit01_arbeitssuche-und-stellenanzeige.pdf",
+          "sha256": "ff5183d7b76af3088c4e6a5df85a64fc0cb87342d88c296901a035ba3fa0e3e0",
+          "thumbnail_sha256": "918cc06d039c21c025c3f6e58f8451bae0e1f6ea03e3a4412222ca4f57d25507",
+          "thumbnail_width": 1000,
+          "pages": 20
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige.pdf",
+          "sha256": "808e10d0d358020b085ab7a5261fdc85895d31148249aa48232325a084683fbd",
+          "thumbnail_sha256": "4849bcfe80665e7717503e9eaab8b2a3c0924d911490c52cc26ae80e2abb9e14",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige-teacher.pdf",
+          "sha256": "801e492e360dd3ae5343196e88e364bdce5a8c4643ca52567d8183455b8394a8",
+          "thumbnail_sha256": "a97d98a2e3d3b678137aa7317bdc65cecb3c0155b39aab540377da926084b035",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "3e8494732b26377461cf27aaa0a0824e0c0fbc424702ed9140b4d2ef80896eac"
+    },
+    {
+      "source": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
+      "compiled_source_sha256": "da53a76554ef0a317fc0fcab847626cc28df54bf3fd7318c1244cf1785c2eb39",
+      "published_source_sha256": "922a5d3e640a837048ffea41d18f6db079875325d6541032002037a1feff1709",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit02_wohnung-mieten.pdf",
+          "sha256": "ad469c9e4c82535b12c6cf4a8b37b214251356d009ba433c38ce6b193da799c3",
+          "thumbnail_sha256": "1a4c0a6962c7bd4793e36b3ffb05782e4694c62bec8bb776b892bf965619c1cc",
+          "thumbnail_width": 1000,
+          "pages": 21
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit02_wohnung-mieten.pdf",
+          "sha256": "ff44cac0fdb184210605fa22e77204a356dc0958b739505899ad6e3f682fcd77",
+          "thumbnail_sha256": "4a3ab48490e9d1ddc84c53958e0fa3f120a853bceae3148148619f0e9ba99fdb",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit02_wohnung-mieten-teacher.pdf",
+          "sha256": "5a1c9d427acc8427e4a181154916bec4b181eed5f3c11994f6c0922b9398ddc1",
+          "thumbnail_sha256": "526b7270fb63d0b80a8eaba1804ef4813f6b23aa4909d45d009db6cb078644f0",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit03_beim-arzt/index.md",
+      "compiled_source_sha256": "fb5cf2d1af15003db23c678a5712a24c07bd21c73e4a28b1a527ad499ef83ee9",
+      "published_source_sha256": "b0e63f7a9cff522e89edf6d214d974dee1d2989177138bd932ad18c14975ba9e",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit03_beim-arzt.pdf",
+          "sha256": "b91c4a425be6d819a29cc1a754b1c8e998d77c64813be39a4860328639ee9ac1",
+          "thumbnail_sha256": "ae2967158f9093beffa6e4608335a2cdf74d35a77be2fb42d3ec44cf2dc4c10b",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit03_beim-arzt.pdf",
+          "sha256": "bba78f68cd1309e06d2fd227ed898b81c1f68ad0a00ab6ab54c30440b5b4a78f",
+          "thumbnail_sha256": "6861cc16aad661a97fecb3c45360895788c7d13d1482f34513b5f0ef77791e47",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit03_beim-arzt-teacher.pdf",
+          "sha256": "54da2b6b10889bfc5645520f4489f197bece86136b49fb5393771f101b70bb2e",
+          "thumbnail_sha256": "d0bb1df437b5ee48d50c0b00158d9978d939068f970627cc738c6376a2a9e160",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit04_im-amt/index.md",
+      "compiled_source_sha256": "90d97a0c27b89aa68c183d1d860b3f383fe64b2de6212c6b24ee9d0447042def",
+      "published_source_sha256": "8af3bd6c4097f92503f6b8d3664e4ebb38c7c2dfc08a06934b6389fb08ed53f1",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit04_im-amt.pdf",
+          "sha256": "7eaedb384ef528deef69be9115d13719cb9b75fa89a5e764295f330664c6eee9",
+          "thumbnail_sha256": "3d10de0bcecd136ba35fc8d1134c7879c411e58763de8ce6e548a940ccd7a926",
+          "thumbnail_width": 1000,
+          "pages": 25
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit04_im-amt.pdf",
+          "sha256": "673e5dbeb3da2d7fb72cac3e725be168bb45bd5b4a55851b888e95e0c403da9c",
+          "thumbnail_sha256": "0f0327879efdf1396b13b90f36ddb305bc2136a0a0b2d205e2e8fc38a9ddef2f",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit04_im-amt-teacher.pdf",
+          "sha256": "af049ea9f936a3ba22ab3e9317ac03be829076ab2d29432b62c6a77ced9afbc3",
+          "thumbnail_sha256": "3e4dd1cfab8478edf9ed02d4627f225a1f99444069526b8f16b64a62eec8d312",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+      "compiled_source_sha256": "51dfef598e1d5632dcc16599ec6be6c0a626acd7d108580adfa10f20a92b3667",
+      "published_source_sha256": "1d49cedb4e1fb48a53b6b1e9efb0c2c64226e9ece9511d5c2a254a33058e34e5",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit05_reiseplanung.pdf",
+          "sha256": "d8fa3136a48b3bf87b872f6c9520834b5940c0169b4997343cc7123caf5e1fc4",
+          "thumbnail_sha256": "967a3badfc5cbdf7c7bfd2d71446da6847a4f2030182c4f3e56c8c140d20cf74",
+          "thumbnail_width": 1000,
+          "pages": 22
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit05_reiseplanung.pdf",
+          "sha256": "1f1b18d6aec9d3bd6026861fd5eb8042caa91ad5361a573514d8c322863ce05a",
+          "thumbnail_sha256": "a3446d0e51d7157e49ea285a7ac4bc44d52850aa575397fac5c44839ca4ae7b7",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit05_reiseplanung-teacher.pdf",
+          "sha256": "d8fbe3046bf7584ae7720f2a6dde3703399073c1728a2b0dee1d73f0dc89ee48",
+          "thumbnail_sha256": "f4ee79a6f1d9705227935d16130fff45e598c09b545b6371cfbf8522ff701589",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
+      "compiled_source_sha256": "5e8b717b3db4e10ce79f1c3e8cc2b77ff4bad3f64bd29c0b3ab6f9aa86d03908",
+      "published_source_sha256": "95982c7a91149f93e31c07b302c2d218ecc9caf9d63e16f7d1afcd22508c546c",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit06_hobbys-und-vereine.pdf",
+          "sha256": "a92687020a99561f64cc4b8719e04511c271dd733d892c35caa573bd1f891b19",
+          "thumbnail_sha256": "d8184ba47e8b2980d70a722481586c4bc63280cf960ef80b6daf916fc15ad861",
+          "thumbnail_width": 1000,
+          "pages": 20
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit06_hobbys-und-vereine.pdf",
+          "sha256": "99f25144035330713f4371b09f91fcd0bfbbb73f618540d236faa4095a18a117",
+          "thumbnail_sha256": "7cac416a31002d9e4d864b0bf3365e6676b8e3a493cdcd6105b24a6c6884b665",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit06_hobbys-und-vereine-teacher.pdf",
+          "sha256": "a9ea10e4d7ff686513b8e17cf04d40ad42409116a3193309850e2d77e8fa10c7",
+          "thumbnail_sha256": "3a30e2eb15700e542a913566dce8426d72b472a04842dc311c9f62c98a80aee6",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit07_feste-und-traditionen/index.md",
+      "compiled_source_sha256": "ec05f724453ba00dc58d45bf1093da71447cc0eb4e500ea9c048ebd7601b1d02",
+      "published_source_sha256": "fa58c83518c727919585266f3fe9b1e1030beda171dcb99b63f5f26c332de3b0",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit07_feste-und-traditionen.pdf",
+          "sha256": "66eba669fd874ccdcf591a2c71a6013fa11ec4a11d3985a4438858e6fd01731a",
+          "thumbnail_sha256": "ca93dd1fe04baa5ed09c230b0b89554185d529f3c7e8be55f5758fc116b76774",
+          "thumbnail_width": 1000,
+          "pages": 19
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit07_feste-und-traditionen.pdf",
+          "sha256": "9188e840ccd1300c3a5f8cf8f708bda4e8f23f2562c377aa26761710d9511b32",
+          "thumbnail_sha256": "443bcbee6a8673239487d057b35ecf8193d491aa6fce59c7b0fb7f7bd8a3de7b",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit07_feste-und-traditionen-teacher.pdf",
+          "sha256": "2fb4283ab99f8377d2035671765ec10997275d32d1819d9e2e9a07be98167fdd",
+          "thumbnail_sha256": "a51737286791c42a80ad148d39dc6cfb2afe590764df5fdc7c6ac583350de542",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
+      "compiled_source_sha256": "e95dbac66f058cc9963a101c23a58e88afe4b0fc679c2e51c9c6e4d271b577e2",
+      "published_source_sha256": "1f35e05c5e647dd847ea57fb4d47c92ca3cf1493d72d8d4edd89e1b0e6be4dd4",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit08_gestern-und-vergangenheit.pdf",
+          "sha256": "d7457ea01f98e09018fc16c5c2a5cf86620c7c5587a8c25ec942d4b63b81c04c",
+          "thumbnail_sha256": "1c8c1f1b1520e25562bec14bcf6263e793f86880bb3a202d1e1e6d518358af68",
+          "thumbnail_width": 1000,
+          "pages": 18
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit08_gestern-und-vergangenheit.pdf",
+          "sha256": "858d0ca4e61ebf6669d82c22aff406908295837e1ebf90844e65e248070da141",
+          "thumbnail_sha256": "3ebd8954eba2bc283a0109b52198f343864de9a95d5a533d123faa016c5c188c",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit08_gestern-und-vergangenheit-teacher.pdf",
+          "sha256": "3990b014b5be715c80419c1b445852e3d203c7bd3e93617b963c02105141b2e7",
+          "thumbnail_sha256": "958fa21a8fea284170a695282742b88dacbba59c5cdc02de082b8cc8877b7d63",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "31f2a1f5d7f8e0eb4b68b74b298468caac9a15c38b448414bb37cd017171c06c"
+    },
+    {
+      "source": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
+      "compiled_source_sha256": "95fea2d202bb4fd8f5cd9fea0521fd1700b88ead1f33a7efcf776588605bb0de",
+      "published_source_sha256": "d1dd020bce8dec0ecfccace0dd77c397952bb54a28f5d2d2e3521894be8fa08c",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit09_plaene-und-zukunft.pdf",
+          "sha256": "5a3f75b054f3b92e75ea7df8d7138464971e618fc9f95d71275f197985cb7bc5",
+          "thumbnail_sha256": "068c642d6c7603d5ae3b095ddd665712b0e4cc973711e30a79f43a7ffb626b77",
+          "thumbnail_width": 1000,
+          "pages": 18
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit09_plaene-und-zukunft.pdf",
+          "sha256": "8fa0c0def54db55c453e7bd12512b5d5eba6a9a74cdfc7baf9005fd9532dabb3",
+          "thumbnail_sha256": "e13cf0c9a9ff21892ef2d9ec69c563ecfe99ef7125eae82cab9748d61cd4dfbd",
+          "thumbnail_width": 1000,
+          "pages": 3
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit09_plaene-und-zukunft-teacher.pdf",
+          "sha256": "6b9786471ed8b47654d82cb2da933c59bb8ba3f4324f14c1b47999e88f741379",
+          "thumbnail_sha256": "d9684b855d734c0a96368be7fa01b49d483046ba9230a2fe4868415bf4b3467e",
+          "thumbnail_width": 1000,
+          "pages": 4
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit10_medien-im-alltag/index.md",
+      "compiled_source_sha256": "67d199311cc7e7fb52861f07d729391391de424b6dde32d78d9974610165b29a",
+      "published_source_sha256": "b841accab9471ea0914873c83c0253156812cdeab14fdfd66c03700d58317e26",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit10_medien-im-alltag.pdf",
+          "sha256": "2cc4e8152e3e106a287913ee6bf30055b9b4adf4e64893d4643353ef6ddc8194",
+          "thumbnail_sha256": "0b03ce32832217cec7e55114114328cba9644eef994138d3507fbe53e7901509",
+          "thumbnail_width": 1000,
+          "pages": 19
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit10_medien-im-alltag.pdf",
+          "sha256": "ded0b14b9585687316d831607e9a2a8e0289f834059149fd321364ea61532b8c",
+          "thumbnail_sha256": "97cfa921f746cfeb963c8df8a7118262d19e5477a6cf9c7293c52df0682249af",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit10_medien-im-alltag-teacher.pdf",
+          "sha256": "fdfa57452bf80f3a2081b0173222c5ce132108aa0bf71ad1fe76f5c027b5f375",
+          "thumbnail_sha256": "79f07dda6253ff74687c88efe2bcc4670caadc487be2fe8d20184f75353da4cc",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "compiled_source_sha256": "d8854f4b49434ef8ed20446311d317d3c7eabe333516bda203521edbcf7def90",
+      "published_source_sha256": "cdc8ec2d79710f8e8f0cbe1180281e61e928cfbc26011c6053af9f026d75a579",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit11_umwelt-und-alltag.pdf",
+          "sha256": "d5d6d9f94f6512409081b7641c739a3274a0cd38f2dff0169f932fa44bf40fb4",
+          "thumbnail_sha256": "6a5f6c6e24370549df49f6e5a08d692cbf9e29c826d3347a6ac2335f07731ad8",
+          "thumbnail_width": 1000,
+          "pages": 21
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit11_umwelt-und-alltag.pdf",
+          "sha256": "72b1fae7ebf703d8b948f4b981d74208df1ebb31891b2938fd95e2096d9f34b4",
+          "thumbnail_sha256": "b3de69da61cb844c393aa5963bda6fb2cf20aff152eede5557a34d7604b4b851",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit11_umwelt-und-alltag-teacher.pdf",
+          "sha256": "073b20a8466f212512d07e40c3d95bfae7bb6ed5ad75c783fd292a7e9c916db7",
+          "thumbnail_sha256": "d207e78d73f69fe75bad6e1662d43e8fa4b7994b187c1b340ecd48db2c9705a9",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte/index.md",
+      "compiled_source_sha256": "7bf497e4562cfea3356b6a688516335814cd29c51bbdd8dcb7d3649f06d464a7",
+      "published_source_sha256": "ff36556dbbbb91c6abdfae60961b5745a935c2eff1de5ede40ad67c739fb535a",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit12_freundschaft-und-familiengeschichte.pdf",
+          "sha256": "7df45a8db6704a7a92809df44a61c3cecae47d517b03a01a6614179635711e46",
+          "thumbnail_sha256": "08baed80462e03bb7d0f89f8f99654ace8c030069e1c6eebc7a28e331536431d",
+          "thumbnail_width": 1000,
+          "pages": 19
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit12_freundschaft-und-familiengeschichte.pdf",
+          "sha256": "e880f8cec7d7edf34facc717bd8f6edd6a934e5ac37f6258a725148bf4beb336",
+          "thumbnail_sha256": "3161429dfb51a65046e03bac14b0ec4179b0766f12e4164420734f9af0cf0c52",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit12_freundschaft-und-familiengeschichte-teacher.pdf",
+          "sha256": "44898af395409b8f3733347ef69f2a80332f9ec8b9ea23de2e7e1fa40243b1fb",
+          "thumbnail_sha256": "4e9cf9d263f09e171d87799bb7b21b60a717a5c543a5257cda9dc99cbb5c605b",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "289a1c2e03464b91e12c30abc70495a04a3517f940812a4a7fd9d32b9ed5db8a"
+    },
+    {
+      "source": "content/kurs_b1/units/unit01_neuanfang-in-basel/index.md",
+      "compiled_source_sha256": "e206423c048ed0d0b261eea2892f093758ee11b1fd20240898778100c8d3a7f8",
+      "published_source_sha256": "68028577a18e5b7bec3cf8bd2d5c8a503569b18714c361e9b991223073f90977",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit01_neuanfang-in-basel.pdf",
+          "sha256": "a84006022c9014c6d7add4ca7f579eb9f9f337455dc1c9e8c39bbfe3451901f6",
+          "thumbnail_sha256": "04a73da62fb8ea47374d645e670eee7287eef1cf6e587936cf04d5dacf251a81",
+          "thumbnail_width": 1000,
+          "pages": 30
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit01_neuanfang-in-basel.pdf",
+          "sha256": "6d6a6256ab99062bed034aca2efce36cc85a4c2ab63b32583608684ea2104a8f",
+          "thumbnail_sha256": "94355b9721dc44f4ea3d0216f47bab163531c3069d690de5e59a82a7deaddfbe",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit01_neuanfang-in-basel-teacher.pdf",
+          "sha256": "446719507f291970812ea7b6903c3a21b5e134f2cebec49f6be7584a310306b3",
+          "thumbnail_sha256": "bf2d50291e54d544ad2c5f3150ebf7c5ceede61e941ed141f450b28f11463bdd",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+      "compiled_source_sha256": "d792c0071a145889f98bdb52ea769e1e0643d1daf96f327a937f6423685fdf24",
+      "published_source_sha256": "574bda8cd65aeea737686c312cb5df08ad0af831d9b703f9d9f9a6428592ecdb",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit02_der-bewerbungsweg.pdf",
+          "sha256": "9796e31779b0f88860510aea5fe3f04d1a9d29b32d1ae00d25d43f3d7bcfebd6",
+          "thumbnail_sha256": "0ab6377d52ef88fa2182150c7d03cf3a7a22a33595cbeddf7fe41f5224cfca4c",
+          "thumbnail_width": 1000,
+          "pages": 25
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit02_der-bewerbungsweg.pdf",
+          "sha256": "eb8e0bc2eef91f5bbe08defde74d90d8e7dc6726064b5dcc2400f54f8ffecec1",
+          "thumbnail_sha256": "f5340403e8e37af183e4d4dda16fa28ca66bb672704875866c8f93d261adc99c",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit02_der-bewerbungsweg-teacher.pdf",
+          "sha256": "9b322de546d5967c8ac3e59d2c7fce09cbb74bcd5bc8625c714fb6b7565c67bc",
+          "thumbnail_sha256": "7dc547ee83a5ef1e3f4efed82a8d119a62dee38192bf8c778f5eac347a8c64c9",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
+      "compiled_source_sha256": "53615323504dd276c249bb3e8d431997ba8c6e311be86aa60675aad7e6d4cfd1",
+      "published_source_sha256": "3993f5b8859460d86bb0fd7b751d91d09fd96fb9e1c4936b3e7b220252ee784f",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit03_weiterbildung-und-studium.pdf",
+          "sha256": "4a690eba479f87c3c070684f83a2292cfcd4599114c3b46fbd3a824acedf4398",
+          "thumbnail_sha256": "f0c27f83c28dfcd47ff2ecbf7dbbc290a005822ddb1e6975bd84baddae94b2a7",
+          "thumbnail_width": 1000,
+          "pages": 20
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit03_weiterbildung-und-studium.pdf",
+          "sha256": "d041bf83699db69e44ba3bb52b7f276ee3725e25f3fd57f36c9e67c595a82231",
+          "thumbnail_sha256": "b500268f8f56a208461b34ff08f2c3ba34a4a7220235a8859b037e1b1d4c3588",
+          "thumbnail_width": 1000,
+          "pages": 3
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit03_weiterbildung-und-studium-teacher.pdf",
+          "sha256": "c9bfd0b481e345098107f4c264eee602e853e41beee6353dc0d796be7bdd61ac",
+          "thumbnail_sha256": "4f3f0c35d6bc891897c3cb8abf45e89fe2c52192ca7499d8c889dfd467f692e1",
+          "thumbnail_width": 1000,
+          "pages": 4
+        }
+      ],
+      "initial_published_source_sha256": "83f453fa54b48705f2cdb4d3bb003f2e705dbe825a46457c80311b8969a37bfc"
+    },
+    {
+      "source": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+      "compiled_source_sha256": "cbd7252c5a57fc66afd76fcb5a79fcab8fb4f4bcf28554cda20a5e034a9389c3",
+      "published_source_sha256": "15b70b42bfffb6e8ef5596404286884cbd2a22eeecc64a22ccea1099e9eede0e",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit04_gesundheitssystem-dach.pdf",
+          "sha256": "a987488572019f86d13c73affab393c6def330cfc35a51236658a6dd0a15a385",
+          "thumbnail_sha256": "bdc35b1855ceffa4b88be1e0a8c5c6f3c4152657e7f01e0155a602a795617891",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit04_gesundheitssystem-dach.pdf",
+          "sha256": "e992201bec5782e1db47199dce4ffdbc5343023647f6cdf8367156c516a0e496",
+          "thumbnail_sha256": "70f9966a63ae600659fcd17ec30f478395e90ff4c441382c6da54b2f3ece6993",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit04_gesundheitssystem-dach-teacher.pdf",
+          "sha256": "02b5163f9fb340e6dfbd0e0b3b585a6323b65c4f76d18282fd1ae97218cd712a",
+          "thumbnail_sha256": "d160566c66789124125a9bd404caaa5a4814e6d0bc473ce45ad7b5525852f7a9",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+      "compiled_source_sha256": "9930184d6c7ac4e2f2b277eedcd21ce41681d5cbfee17df8b03e73ec89fc2625",
+      "published_source_sha256": "3c8c4ab316ee3b3a3965643f6c6c462e58d5eba1d6b887a8341444af2d24871a",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit05_digitale-kommunikation.pdf",
+          "sha256": "08e0d2861e1cec48cad22a2ffe1a5015f3274e35f394e0c37019399f51110638",
+          "thumbnail_sha256": "52fc5badad5bbe645fa29ae67d0f1923815213b787614e34819719727afa7048",
+          "thumbnail_width": 1000,
+          "pages": 21
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit05_digitale-kommunikation.pdf",
+          "sha256": "bced8db39fe9337977000dc06a74ad8ae221bda92d24c26f38c3c7e3b80de7fd",
+          "thumbnail_sha256": "c405ca14b86b28f84698914fdc565cba804b7403c34eb77921e52b16fbb272aa",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit05_digitale-kommunikation-teacher.pdf",
+          "sha256": "757c1921325d5dde3dfd7e75b779a1885789d52511ac0c96d84cf20455c3d0a1",
+          "thumbnail_sha256": "2d8bf8f5b5bc64b13cb5753de237248742a3859e5be746cdc40b35f453819938",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+      "compiled_source_sha256": "784438c464b1892cbf697c117435f92a06b70b43f314bd87a60b89b2bf5695db",
+      "published_source_sha256": "3714671b0566b654230927b06e8b034b6ff931729bbbf4864dc7ff70aaa4897d",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit06_umwelt-und-mobilitaet.pdf",
+          "sha256": "aa9da7afcbbeab172f27bdf9fcdf4f09eb842e5875b4383217bc95d4d0bb1879",
+          "thumbnail_sha256": "036b3bc2d92b0bbf5a2b29bff5348c9623bb9d16f6e02b1d620267b0a98d1a4d",
+          "thumbnail_width": 1000,
+          "pages": 30
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit06_umwelt-und-mobilitaet.pdf",
+          "sha256": "d9adc63cf1493827a3e975b37d60af07b52fc82a981ea23d2218629983f13db3",
+          "thumbnail_sha256": "2cd5e2678683e3be3b88f3181126b5303d76826f3a49801131a25237968f75c0",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit06_umwelt-und-mobilitaet-teacher.pdf",
+          "sha256": "5b4e0cffbbffb68b5773cc488096fd06e324d3a37f98012ae094afa5f09a2c05",
+          "thumbnail_sha256": "865990f6f9ab413a3220222648685dc674b1fb89c1650a4d547cf72f579cbc0b",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
+      "compiled_source_sha256": "f4a33e2ec1c7f2eabf6cf6119e9f5b13e6229e2753490e4b101e14f2d557647b",
+      "published_source_sha256": "7e993e93a806799cf9162d4f597f57912361fa63c903dcfeae1ea0ce01a14469",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit07_interkulturelle-begegnung.pdf",
+          "sha256": "a147d8fc88018d4f8d7660dad33803a0b974f1c018cba046ceffba2a34ebeb06",
+          "thumbnail_sha256": "dd4c79682a85c06b192e722dc0c37993f95bc8afe26915c16f1872608c849cf1",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit07_interkulturelle-begegnung.pdf",
+          "sha256": "4e4c763bf4fe69132bff550ba54a16a6ecbe3af79959a253da30dc4ced2993a6",
+          "thumbnail_sha256": "9ec1eaeb632bf67aa4e24434a10dc84023f8a464f67266a8046911d2f1e4f3bc",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit07_interkulturelle-begegnung-teacher.pdf",
+          "sha256": "34e284deb17b7b8cf5ca84d31d32985b0b620c8beecfa86ad4071b0c6b438f9a",
+          "thumbnail_sha256": "ae55d47e91958330222aae9065ad2720a6ac7419ccb1e4f7296fef86ebfaed8b",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "2658d5ca11ed48358d67ceec5c9842955a0abb9976fdc8388ea5b5d1235f3821"
+    },
+    {
+      "source": "content/kurs_b1/units/unit08_stadt-und-land/index.md",
+      "compiled_source_sha256": "d4b900bf913b26c6dbd972f1c78472623300be7ac08ce00bf329074cb0a475a3",
+      "published_source_sha256": "43e96e87d61ebaf9f39c55723c0a51d10d301cef6d34cc275854be9536c4e7ff",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit08_stadt-und-land.pdf",
+          "sha256": "670a1a49d51b799f08056a9025087c3284b8e2c099209f156b02dc0bbeb769fe",
+          "thumbnail_sha256": "dca8a0f1e58b2210129fef78e939e6788a8b194cd0fb3e6ab2ee5ed83d135945",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit08_stadt-und-land.pdf",
+          "sha256": "0f3d2de880bd85248e735f7169f7e36179cfbbd585ce003debfd6146247c86a1",
+          "thumbnail_sha256": "667fb381f16e8e03f4a38bbf44af49730595a7281294fef72fd0e6df5d8d7083",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit08_stadt-und-land-teacher.pdf",
+          "sha256": "9c3fe6975e8f1b9ed8ae95eb1278953296de87093cff77eb1916f1752d035f8e",
+          "thumbnail_sha256": "8f2803e0f52c18342f656ec2894f94949b64653d35804b5ca763bfc49d399736",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
+      "compiled_source_sha256": "594d04566b50f11de678a1e87ab8f0006cd49cf906d4c1d5c6a1ec80c39f6a6f",
+      "published_source_sha256": "beafecee3663b1de3e022b715e309fe09ed23fbe401f93705be063b85d6ee92f",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit09_konsum-und-verbraucherschutz.pdf",
+          "sha256": "a8cf03d144e11dd37617641e1391c4e0f03f25c2abadb530d4048868bffc1cda",
+          "thumbnail_sha256": "58ca0ef66d95408b2a2861f03e5c8341e6bdb3f48a1370a338d42770dfddb9b2",
+          "thumbnail_width": 1000,
+          "pages": 22
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit09_konsum-und-verbraucherschutz.pdf",
+          "sha256": "f5f4f930e5232c9f7707c143a139d774ee460337cca377489a28ba4670fac7c2",
+          "thumbnail_sha256": "dbf8991c716edb98706dedbf35fabd774b38cda15a83a7a459cc62ab438c7128",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit09_konsum-und-verbraucherschutz-teacher.pdf",
+          "sha256": "f620249b4cb15ce7807329bf939c07e23f891cf906ebd360dc88199a2b088d54",
+          "thumbnail_sha256": "5d7182a8429f3673a26771e36c4f9932c7223f2aca64ccd51d246b5f23f3cf5b",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "9cb866f481ac96d56186d3f2236a91e74a2135082bb5761b15ab7fa71302bc61"
+    },
+    {
+      "source": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
+      "compiled_source_sha256": "75b173c8d5a961c28d68bfcc6c06d1914fd1af1632d0a2deb7db2062536b178c",
+      "published_source_sha256": "47a1f313412654ca464b80976d839db03990bdafc2eddc5e8ef9700a1489fe1a",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit10_politik-und-teilhabe.pdf",
+          "sha256": "6da2f35428a27ec0c5e175335c2bcd92f87fd88902b5797a693b1c6a990900a0",
+          "thumbnail_sha256": "d4646d3310a9e6912fac097377f76e250c33f5113045274388e61dd29a56f84a",
+          "thumbnail_width": 1000,
+          "pages": 22
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit10_politik-und-teilhabe.pdf",
+          "sha256": "7637d6406786976e6fe1a8a4fb5aed159a4543e3df3046381854e0827c0c13f9",
+          "thumbnail_sha256": "67bc7a149d5576a32e212b3958f3ea093913986ecd6897f7ad233db9919bb6f5",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit10_politik-und-teilhabe-teacher.pdf",
+          "sha256": "666f23d93cca991db187401d678ae324dcc378671d08dcddaa165c3331e7f560",
+          "thumbnail_sha256": "c56729959718e41746309b1471d1c385738a1b514f65fffc7933863464ca9c06",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+      "compiled_source_sha256": "af0f62dec1cd6621db9dd7583a4d8554c74485883cacac98911f7469b6dca64b",
+      "published_source_sha256": "235b7a643452d5fc7348457b22aa999af01207a04f68910856f3eb8b9d2ea035",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit11_persoenliche-beziehungen.pdf",
+          "sha256": "2d24f35a5f4c3aa2546485923440303344288f7ca1d3f6d96502361c50a88759",
+          "thumbnail_sha256": "e097e56b2ec28219d71ae89dad19aa74eeafdff7513d0c3aa62a9a8dc4443a67",
+          "thumbnail_width": 1000,
+          "pages": 21
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit11_persoenliche-beziehungen.pdf",
+          "sha256": "59a382797ee6810069dd74ef61593a9e6c456762fc0bf2d497681a857a485ff2",
+          "thumbnail_sha256": "ad82e365bbb1d220365fdd1b8b689687349ad2666a23b894e1341cdef0f3d834",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit11_persoenliche-beziehungen-teacher.pdf",
+          "sha256": "83cfb54d4c32fa95e0892ba6cb4fc79743e0b0a97cc2661f821df4b4fce9c115",
+          "thumbnail_sha256": "f2402ea220be3a5758afad3550212aecf902516ccfe0eef4af4944e4122d8b23",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "404fe2303e211fe0e0f04a8bdfe729580ab85f05157076eb683df0b670b0543b"
+    },
+    {
+      "source": "content/kurs_b1/units/unit12_zukunftsvisionen/index.md",
+      "compiled_source_sha256": "3b81ac17772bdcbe17c96d270310d606850a2ddd3b64d9814f2da43ea3faf752",
+      "published_source_sha256": "9c7b506e47660714a458c4ea45547c8c5fc8cc6a96fb974b61aee64a9115fb4f",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit12_zukunftsvisionen.pdf",
+          "sha256": "da4686bf57569aa09f72319158546ee82e1cd9c3c88212a4f717882ed98329e4",
+          "thumbnail_sha256": "8f40202cc81e508206031e0b3de9ddb6a32713d602eb0de0d786d2878e98a993",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit12_zukunftsvisionen.pdf",
+          "sha256": "2b008a956a6f7302d76081de782e1b0ff28ad8c03cdbd5999ba44c95d95c942a",
+          "thumbnail_sha256": "44953ff9d33807a9a491a5090f6ded4324ee9909aea116df34fa602f91d78500",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit12_zukunftsvisionen-teacher.pdf",
+          "sha256": "1461661d195b24aef6dae713195cd814c3b5ca54877f5c69a46ffff8d4c94d22",
+          "thumbnail_sha256": "7af97973ac6af4ac67d73b8f95400d6e158985513da21a1619e553f7cfd2a273",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit01_medienlandschaft-heute/index.md",
+      "compiled_source_sha256": "b18231ed4bc8864decfb95f00b50cd0715e6cf70a2f605f0cceac32d5c13adbc",
+      "published_source_sha256": "5f2374e2f3b82e0a672b47da87501d71ba481072483f7d523ef26aee6a59d188",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit01_medienlandschaft-heute.pdf",
+          "sha256": "8bf220a1631d05978950fd01c3e2ca97017d2c6eae78c5d86411f286fd98c07d",
+          "thumbnail_sha256": "e5695a7f4f60860c3c1fa180ca08eb69549273396d629b6a9ade39d2e4071c29",
+          "thumbnail_width": 1000,
+          "pages": 25
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit01_medienlandschaft-heute.pdf",
+          "sha256": "54b434091df9262b15535b88d278173f0a8b4b42ba06fb1cc95344e5f6db64c1",
+          "thumbnail_sha256": "b746f0526891440e8f6362961287c3a9a314c0599fd8d25ab5658a9c43854f11",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit01_medienlandschaft-heute-teacher.pdf",
+          "sha256": "94b624927773185ffa04a7337405cd5d983d65e27f7d80da7db5669becb5923e",
+          "thumbnail_sha256": "061fbd2f953dad52c9e9e8637951ac352d78956e03472e89dfbcf994b209ca2e",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
+      "compiled_source_sha256": "578e6fe358c90343d9548abf7f4ee7dcf135f4594f0dc26652a1a0465a717061",
+      "published_source_sha256": "ec130a2afe9253870d1de6158269eec6fdc87281f6ac7ed8001b2b08b2ce05de",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit02_wissenschaft-kommunizieren.pdf",
+          "sha256": "936050d2fc228a5853758f6baa3d982aadd45e4c6962d07dcb4bc9d850752580",
+          "thumbnail_sha256": "8a78ba650348b736f499730ee812fea0e877b8cf79984ef568c17a64e3cf0b1c",
+          "thumbnail_width": 1000,
+          "pages": 25
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit02_wissenschaft-kommunizieren.pdf",
+          "sha256": "ec375810e1ccad440ccfb961a837be53129fc36204e2f6f21f72e288095db6a6",
+          "thumbnail_sha256": "b5655500df801f7af1b1b0bc69f89d919c435dcae3c6de13ff3b7940515220d1",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit02_wissenschaft-kommunizieren-teacher.pdf",
+          "sha256": "c3d09e26df61b659b946edc1ea761201325a22f796414914b2b8e4f0b287411b",
+          "thumbnail_sha256": "4cac0353e1c3ce99473c187d33504f29447983774342c4b3f9969f6c9590f276",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "ad31c34bde39ac3ec6d8d1a09c46e806804b11ff5d02cdf85f32b427569c0937"
+    },
+    {
+      "source": "content/kurs_b2/units/unit03_gesellschaftliche-debatten/index.md",
+      "compiled_source_sha256": "987d5156ca3c2fe6f6d5d0321ded3a57a97ae33714a7846b2dfbb96a70b37f98",
+      "published_source_sha256": "922f68b503426f22b50430a15571a30a1a884a703276388863e75e89446694ce",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit03_gesellschaftliche-debatten.pdf",
+          "sha256": "f72751cc0a221cf8ffcb6e014f72294ba4ab8f6835d2d3e575e8b2d235aa2a5f",
+          "thumbnail_sha256": "0cf7ba771006641a88ee75e8c40541aa6b4b1b73103c1928da240913d5632f3a",
+          "thumbnail_width": 1000,
+          "pages": 26
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit03_gesellschaftliche-debatten.pdf",
+          "sha256": "9eb5c4e7e87c69eea26a7058181e0bf3f017a09fe4b304a2c9a4c185b732d8e9",
+          "thumbnail_sha256": "1aed1162da13aae45ed66aa8ada96d87f4d08371213709edd596a16d129c6425",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit03_gesellschaftliche-debatten-teacher.pdf",
+          "sha256": "2e2e4ac8a882f91cdbe8d0998358876e6082e78ca4eb6f665aa1559915912943",
+          "thumbnail_sha256": "f9b039335dafb824366467024a32dd8d57973b88f5a474239af23d82481e5c79",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ],
+      "initial_published_source_sha256": "5e956c8cf813239c1206b7104447d5512e6d3b20763bec932404b24c351616c9"
+    },
+    {
+      "source": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
+      "compiled_source_sha256": "0798602ca2e697694eb84801dff07732b2ac7db5efac7559aadc5b178d024e46",
+      "published_source_sha256": "c2310c1b25b8e85758aef3fe4b1777b563cf49991f2b8c45ea6a06294ce88680",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit04_arbeitswelt-im-wandel.pdf",
+          "sha256": "1b247549c546179894cf7e7c1f6b684fb1c97b4519fcdcee8cbd4796d3a10032",
+          "thumbnail_sha256": "984b323ede4470c5fa2516f3b88df0919702740804088cac6243487089c80dd6",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit04_arbeitswelt-im-wandel.pdf",
+          "sha256": "c6f795cffb7dc3b42c3a864a1d2bfb69cef1e1eb85865fc9cdc083e46a0d5664",
+          "thumbnail_sha256": "d2d643b44dba902b04df38a94376cb29e69cfe83640a9b2b5be2a5fd75f7b349",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit04_arbeitswelt-im-wandel-teacher.pdf",
+          "sha256": "0759890859514a4eea15121d3149e156ba8d648a1c2d58693b3cd7bd84d9c124",
+          "thumbnail_sha256": "d53e028bf04e2569083c75cac86ffb587c12b3c198e811272eb6d3615c038bff",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+      "compiled_source_sha256": "c5d320eff7f289765828dd4583a73b6fc554693c63fef98b76972b80b0c6ce9c",
+      "published_source_sha256": "c7b61d2c4fa1fee023ed9badb5e8481794fb505a9936fff7eeb6e17c0f1e4e31",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit05_kunst-und-kultur.pdf",
+          "sha256": "9d37e919eb482b5ffd123c466b6dbda7e21c60c0396140602a8c645d9a1a75cf",
+          "thumbnail_sha256": "88c3c2dce0d226bcec7c2d8c2939d044ec4504f98856db65554c3d1028ba7222",
+          "thumbnail_width": 1000,
+          "pages": 22
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit05_kunst-und-kultur.pdf",
+          "sha256": "e050f6f75a388ea4d18d021229f2301058d64bb430aea40941ac2ae534188f3b",
+          "thumbnail_sha256": "d1532380e9a73ee9246998364c5a7e6e26706d4f5bded44812696f808d6ea93b",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit05_kunst-und-kultur-teacher.pdf",
+          "sha256": "9a7414f7a2ab0af05ae57b1d722721322f9cb174d36f273febec00a0e9cc8209",
+          "thumbnail_sha256": "8db6a4cc84945c11f30604d9fd18e62d499d9e5898a9f9fbf786a163050e030e",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+      "compiled_source_sha256": "7f5580f1d296673df6f3e2543ae19826222c670ff16a9dacb3a491705a5979ea",
+      "published_source_sha256": "698a7020e88fca3d68bbbe1213c12cc5bb0a0b2145db198084e4187dd0528a43",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit06_migrationsdiskurs.pdf",
+          "sha256": "d2af283f8b69248004a4ce7c4ef34f796b68a48d95f8bc94f8a66da8a2f93553",
+          "thumbnail_sha256": "0f37c633a295a634875ddbddb94f8524e3e7689e1a582924d9f70e6c1e9c4ff8",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit06_migrationsdiskurs.pdf",
+          "sha256": "348636cf8a4009d326a921f710b283a7901005cfabc3240d6c392123fa5a6e6e",
+          "thumbnail_sha256": "a23fcf885a3a42ab9a1a8aa0787166df5bf558fe9b5648052241bcdb8d05d08e",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit06_migrationsdiskurs-teacher.pdf",
+          "sha256": "91afc127a18d189ef2ef8bdca2b216713beae48822ebeb534353fd98ad45f74e",
+          "thumbnail_sha256": "892ba807f02fb0f357ae0b600aaa1a4fdc8499887e784402aa3b9abaf7709ee8",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit07_gesundheitspolitik/index.md",
+      "compiled_source_sha256": "6e96f4ed06258070de37b0aa1b2836762978835c7f66c7acf015e2adda4f7e90",
+      "published_source_sha256": "e004bd2d162c73c64adbefb7ac1fcc99efc1f3211069ad64442751d9f535b48e",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit07_gesundheitspolitik.pdf",
+          "sha256": "5db93a4749c6340fba08327c6a2edc4ccb3c3f20dd92c462323408a4da054fc8",
+          "thumbnail_sha256": "897297bfa846476feb002865d198b4525e40f5c66f9b1b6411a2844eaf494250",
+          "thumbnail_width": 1000,
+          "pages": 25
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit07_gesundheitspolitik.pdf",
+          "sha256": "730621ecb67e985316f2ead6e38a9f40ef5195967baf65f4c4f13f8d4048b923",
+          "thumbnail_sha256": "5d8bce91ed18bc977a441085923f2bf8c9800c3f1a5a934726dee004b673a660",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit07_gesundheitspolitik-teacher.pdf",
+          "sha256": "46ec1d7a67d5dd4366c7568a916790fe508d91d423da333331019a020a6ff823",
+          "thumbnail_sha256": "1ede71b0ee3a9915a9fd425281d77101dcdad7b77b203b81ebf637739863eced",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit08_umweltpolitik/index.md",
+      "compiled_source_sha256": "0d697a7270c642f5bb376300586563193bd74102cab90c14ad1917734427b360",
+      "published_source_sha256": "1642fc29c046c43010ae0d00ed785716009edb7c09f2cf3c0e8439efd0911186",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit08_umweltpolitik.pdf",
+          "sha256": "1144431a1338e46b1ba2bc4ce2138bd02eb2b188bd0832a71b7ab8cb4501a127",
+          "thumbnail_sha256": "cf31cc9625b36b8acd99ecdbce93aa7fb25cbf572ff784919971889b44cf78af",
+          "thumbnail_width": 1000,
+          "pages": 27
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit08_umweltpolitik.pdf",
+          "sha256": "5d53f7437f775364b014a5d218bcfbb1ec512f2b0fd01117c313750de73eae2d",
+          "thumbnail_sha256": "64e97342e4001c4928601b1cb4912515f9a11011243e1d9da764cffb67e12847",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit08_umweltpolitik-teacher.pdf",
+          "sha256": "d9171afb511ae0521f96d7bb44beefa8730e497e5688eeee6ecef59f6cc7a9f0",
+          "thumbnail_sha256": "b623d4c4b1985884de0cb5545a4cc0e369f695958fd1f6bc64ad8058ee2e0b38",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+      "compiled_source_sha256": "000d561d594927accb307dd01fa581d2f2c53c7fff154f35feca141b3256e7c6",
+      "published_source_sha256": "f1ede64ebd0b5d1e40e070e34b919e5c263ff526e558f9c0b19d8dfa3b5beed8",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit09_bildungsdebatten.pdf",
+          "sha256": "930152ac49e79e13006a56d5b840c5ceb9505b16ff8f1e90e7ec05b045f6be80",
+          "thumbnail_sha256": "1eb0cc062f8526cc0315915644d1dbd78936c19b62eccaa0b226c7738f5dd96e",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit09_bildungsdebatten.pdf",
+          "sha256": "927059312d78b660e374d5186faa59ceefd349d29b5a2adf3f7f6508bb71c274",
+          "thumbnail_sha256": "dbd499732c146cacff8a81ef63317ce910e83daa31efff04e467aec295c93a3a",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit09_bildungsdebatten-teacher.pdf",
+          "sha256": "f9eac53037fd50b977f48f9a0b05fa929c39f7f56fb2e0494be0f2ca010e2e5c",
+          "thumbnail_sha256": "346fbc2b9587374c6303f24dc5277923f91412cfff4ef2ce07f58b5fdb3b3f16",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
+      "compiled_source_sha256": "d1692e08e330b1846d20a9c8ec2b3ded7a8f5c79dc4eb6f39e3920e10171d3f5",
+      "published_source_sha256": "41a3a43c805458d0fb4872de224e3c8c4df4ce8c476157837a99f6b4e0a237b2",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit10_ethik-digitaler-technologien.pdf",
+          "sha256": "4906f70475e485b202ea3c88f8628028a0634c6eab55380d7f9a5809745448d7",
+          "thumbnail_sha256": "75fc985342e6849d8a8929eaf4f8dfd67dcafaf0f6f70a1bd7685f975f2de2e5",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit10_ethik-digitaler-technologien.pdf",
+          "sha256": "e43ef614013dd67940f15fb275c1b08f7828e1d9fcd0ff05801b90472af5b173",
+          "thumbnail_sha256": "6981fe0ef6c5c0f7b9a7ff879322554d51c3abf2624355eb06e926dc715bb56b",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit10_ethik-digitaler-technologien-teacher.pdf",
+          "sha256": "236a329e5ac11cbb6e76953cedd57824e0a6f8b35dbecfaf32fe3a352a4be470",
+          "thumbnail_sha256": "fe9917175ec96a911642e13ff1b8c51219d34bd91c71b983d26eb6b0eb2f4db4",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "f609190e40d57547c5f7a7e8de17c1fe0bb416a0dd6548aabd3bcadd5e6eae3f"
+    },
+    {
+      "source": "content/kurs_b2/units/unit11_oekonomie-fuer-laien/index.md",
+      "compiled_source_sha256": "c3743e806bf1aabbeb49c2505e05fa960425a968d918e9f2a1bd3f98869b40df",
+      "published_source_sha256": "7d34de59052156ae99e0d13b078e20e777a40e8c5d8ff31643d3ae26de77062d",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit11_oekonomie-fuer-laien.pdf",
+          "sha256": "2d38cbc1466ee059e424619bc59aa16a467ef0a092eb61dbdcd9ee03af05f44f",
+          "thumbnail_sha256": "ed908e3ee91e5e2b535c2f3d9d62e05ffb178c2ea1208529e1025e049d63bc43",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit11_oekonomie-fuer-laien.pdf",
+          "sha256": "cd8d691cf45ca9524f9b7d04d9607dc0cb26a2fae22599fc583b7b4d70c3fbe7",
+          "thumbnail_sha256": "2d7d2750a6663d29fef63394dcd04ef6a1778636b743e44b463d7ba7f5fd0750",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit11_oekonomie-fuer-laien-teacher.pdf",
+          "sha256": "1220c8b1be3df0a243c9ae4512b3eecb2cbfad924ba1c3d943567d48bf85a9c1",
+          "thumbnail_sha256": "c0867cab9d3e54d48536712cb5187a8196d909f7668fdb1f4c63e710e62e5811",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
+      "compiled_source_sha256": "b111b37f6425dec2d192ebd8f3a0f8b915c2f74cefea7cd27a3342bb6c6f1417",
+      "published_source_sha256": "358d2f1db815b102f3dfa4bc770ab81e5be13e7e48c782194882933c754379be",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit12_literarische-perspektiven.pdf",
+          "sha256": "84c84107e725418d9ad776d44b01aa4811b1d5d4d5daa9f52e84058446c48263",
+          "thumbnail_sha256": "e659a06a72ea0bd597dd3ef3cf94a35f388e6d52f44588d909c3e984c440faaa",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit12_literarische-perspektiven.pdf",
+          "sha256": "be6318a2af64579d8fec8b26bc4d954210bc0b61daa20b7ffd57e9ffc910654d",
+          "thumbnail_sha256": "ad2244b4b576379f7c27f6b8d142b5422828450ab1536ba62be71d81642cc972",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit12_literarische-perspektiven-teacher.pdf",
+          "sha256": "b2b167ee5763ba2dda8755da2a623cb0dbe6fcb361c4db9cbe9d4b7f2c73371a",
+          "thumbnail_sha256": "7cf86dca5031897e962dccaf0fa34fb857d6addba95a8390bf391575ffac6d62",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ],
+      "initial_published_source_sha256": "9c45273c75b69280388b05845144901938c12a56facd43ac631083cbbc41ae7b"
+    },
+    {
+      "source": "content/kurs_c1/units/unit01_literarisches-argumentieren/index.md",
+      "compiled_source_sha256": "c19bdec1ca8652d71ca68e2cadee8b4b759898f41891c3505a699cc8e98c5eca",
+      "published_source_sha256": "0f257b23660662614ee4f8c942abcd9b79735a3dac360ffc770a35763bad6d67",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit01_literarisches-argumentieren.pdf",
+          "sha256": "dac2ef7729b760114ca0d5ef57309f413ad259222a94679d7e09fdfa362b05f6",
+          "thumbnail_sha256": "677a7154f3edf51f72b5c5add8862d3002aea9ad3f2c26047e49a0de5147f97c",
+          "thumbnail_width": 1000,
+          "pages": 26
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit01_literarisches-argumentieren.pdf",
+          "sha256": "69580cfea75ca182483e7335a3a5ccd78e5b7d5eaf3bd727b0eb3c820e654ecf",
+          "thumbnail_sha256": "11c1ff6e44cf204dcd7eaee6b71d42536228969a57675858aafafdca631d7ec2",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit01_literarisches-argumentieren-teacher.pdf",
+          "sha256": "eca250cffb297a1f82079d7fd74a2c5e4ade5c82df7668910e30dbe4066eaf9b",
+          "thumbnail_sha256": "4fd95d6123da4a185a8172cfa0e2ed7149a36bc89e1b4b7c5de13b01f95d0b9d",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ],
+      "initial_published_source_sha256": "56408b60535b2f60c7d53ed01eab735f55d81c365fdf6809441d9f7ce0efaaca"
+    },
+    {
+      "source": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+      "compiled_source_sha256": "03c614b3a022ec77e318fc1a07dbbcfd063e27687db5f4873b2576e57c2e4d0a",
+      "published_source_sha256": "f9ca4bc8927d92d2ab7b446841ba3de958c1130902db34b6bb55b52ed76da57c",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit02_politische-diskursanalyse.pdf",
+          "sha256": "46356e90bc8e024ab354fb13b8a207c34137bb6bdb2ae866382226cf8606e425",
+          "thumbnail_sha256": "a4f639a09c837fede6c5bc6c156cab2f77fb997f7c5b5d18f4fe067845917655",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit02_politische-diskursanalyse.pdf",
+          "sha256": "0cc87760183b668d90aa0cf783492fe90820092c5b2e79d9f28383c05c7c7743",
+          "thumbnail_sha256": "9fe66cb567d1a3e954e93cbe43046425ea71205ca118aabe47003717dbb455b7",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit02_politische-diskursanalyse-teacher.pdf",
+          "sha256": "f87306689d4f4fc51e76dbef6a0d00b8630d593af0db5b05f3f34e0bd1d8d9ab",
+          "thumbnail_sha256": "65606eb90ae7088acca351e06fc71ea648e59e3778fe9cb41357fa1037560b0b",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ],
+      "initial_published_source_sha256": "e3b4360de1e780bfac11e1da3e08cc46d47cebbeb94e00fd86ad099af89e5cf0"
+    },
+    {
+      "source": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
+      "compiled_source_sha256": "a53dd15e696d46611f4925a2d04915c33b9bcfe8cd9c13d8e5fb54b125718916",
+      "published_source_sha256": "f21fe04ed53b59a383f77243eb3c63b5740160da8c2653663550ed622c3081cd",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit03_wissenschaftstheorie.pdf",
+          "sha256": "4c67f9839a5f45e1bd04ea1a21fe3ee694a6c4b563f8b03a97a40f493729f85f",
+          "thumbnail_sha256": "cb4adb219387412f21a5949ff972f8066732f823fb997e6eeebb6abc1f40ab8c",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit03_wissenschaftstheorie.pdf",
+          "sha256": "da2049924f64e87205093f6b20dafc93d993f4520d69cb0e9eebfedb2a71f905",
+          "thumbnail_sha256": "b9b323cf621e32edb4e1fdd7f2ba5bc9383ad908ad5cd0a25a638deba32f8fb7",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit03_wissenschaftstheorie-teacher.pdf",
+          "sha256": "d037da4befa73b1581e527b184a6bef9ef8d44789033987f3b746cbb6fbba3f2",
+          "thumbnail_sha256": "59d1cb416dad08c53759b0c070e5db54a2ba8bf4cf3c7a1bd9cdd30e9c97aca6",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit04_aesthetik-und-urteil/index.md",
+      "compiled_source_sha256": "3cd88bdb1f4be5b280f4d928ec4a501f257004fbb888e8bf6f2125d779a97fc4",
+      "published_source_sha256": "c1e06902af0d64d78f4a7da3bf3a1c6bd7c102cc2e5c850a8ed63888c33fd240",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit04_aesthetik-und-urteil.pdf",
+          "sha256": "8a68f61eb717b86e51ff5730dfb96ce43f2f71ab44ee5e3ec54a53f5f22aee3c",
+          "thumbnail_sha256": "f47b1fe5e3646bb5fe228721f43fa4d421e2147c60379a5b55bb665bcada4c00",
+          "thumbnail_width": 1000,
+          "pages": 24
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit04_aesthetik-und-urteil.pdf",
+          "sha256": "c262ba33324e704a5952b4b8110679af12f948c8d6366ccaa4adbcee3a178f2a",
+          "thumbnail_sha256": "b3b3a58b0d175babcb0173322a237c62bd606cacf9facdbb0a1d2668c7bdeb1c",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit04_aesthetik-und-urteil-teacher.pdf",
+          "sha256": "fbe218244a2f4a30cacd8a660f112130b80c7018841e1eba11f2343e62e28d06",
+          "thumbnail_sha256": "6deedacf511e9a00be65cf10f5f419cfea122d1cacfc460fc0a477bd6be344d6",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+      "compiled_source_sha256": "f70b77e5a8e9cd90c86df7cf233f78784d4b6e49336f42330d292a75f7afa03a",
+      "published_source_sha256": "8512eaf0942af980d898f8d252ff5b72e5abf719fcf10c74f224aee36b9ac3d8",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit05_identitaet-und-sprache.pdf",
+          "sha256": "1d7c062ad78e12b7990c1ed51939dd31acdef6ea326939cd594cd64c6a3c72e1",
+          "thumbnail_sha256": "7edbf667de7b9f290d35ef9ab9dcb4ae39109e1168564dd9e2f7f6f16c6c9003",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit05_identitaet-und-sprache.pdf",
+          "sha256": "93a01c88967d9cfb956c08777a97b0b3134911bcb96af4e6dbb88b6eb21c9395",
+          "thumbnail_sha256": "1b1e4c33543c49cbc84ac62c31d57e38f434a7552a5ea32fb20ed3007f8525e0",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit05_identitaet-und-sprache-teacher.pdf",
+          "sha256": "35504b009edefd402460a176d6ba597e036fa809b3961c52943c817a2485fbf5",
+          "thumbnail_sha256": "d4887e83a65cb8de9e55e7c63fd227b321ed57a573c6e2c747d79bc2bbebe630",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit06_postkoloniale-perspektiven/index.md",
+      "compiled_source_sha256": "600c0f52993d699a6d3a74e64a1234ddd05baf996fa6e4944f49de6050253f6c",
+      "published_source_sha256": "2708dcf8b5cdbf615fd1b24a08ca2c8ff67bd5d69ea637e8eede2f9087454937",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit06_postkoloniale-perspektiven.pdf",
+          "sha256": "706f0977203e7ff67e7d090215d1920aa4b3f63978b77922a63924d21bb13eae",
+          "thumbnail_sha256": "0dccf3545ccf8f1ae08f59449c68ef23cd9897730a528e461ff0e49aecda1817",
+          "thumbnail_width": 1000,
+          "pages": 25
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit06_postkoloniale-perspektiven.pdf",
+          "sha256": "f7b1296865e88b09e77899a288abafb8a76d139ff3ae8e1f1076a971e09d0ffb",
+          "thumbnail_sha256": "4d735c99f94d657ca85936558660459f7a3c073a3ba3ab2cb3239086b0c8a195",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit06_postkoloniale-perspektiven-teacher.pdf",
+          "sha256": "07c354f3f64a48d3909aea12475fa74ec8f189740967e05917df1893ae990d4b",
+          "thumbnail_sha256": "ac66c191b301300417550107aca78a1ca47e923a196dde769b9b36c336d5ef36",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ],
+      "initial_published_source_sha256": "4d2f2309c635249a7859ce3c6ee24da0a4616b72d62e94af4a3ab80b2ebf9870"
+    },
+    {
+      "source": "content/kurs_c1/units/unit07_historiografie/index.md",
+      "compiled_source_sha256": "9f9cb336af124793f0821923234c95ff895ce0d37accbcc2c9e6228c422971a3",
+      "published_source_sha256": "dc627a1d7ef69303591f64bf7e9e3053dae29569f6bcd796a13dfb2e62fcf164",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit07_historiografie.pdf",
+          "sha256": "8944ecc623014b36e5a5c0b5e79a9d50bd2076c54b2104c803ff1b400ec5e0cc",
+          "thumbnail_sha256": "45e3ff07d5b2ab57c1a8087081dd969b74216e825c440dd3eb23da9856427701",
+          "thumbnail_width": 1000,
+          "pages": 28
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit07_historiografie.pdf",
+          "sha256": "3e79de138913f8e4e3de617575213b69fbfef4c9ba0aa193da76b0a4bbfa7ba7",
+          "thumbnail_sha256": "fa5c9ae149e8097085af3a72c3420ebad1be64ede19e5f28029e1829a28952ed",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit07_historiografie-teacher.pdf",
+          "sha256": "e296bba13d1996a6de17c5432b2297bed256955d8496586cf0b04af3067815a8",
+          "thumbnail_sha256": "c1e821da062b4d5be2295d2fec69b3af9f995baf2025879155705924ddcddf0e",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
+      "compiled_source_sha256": "f5ee1f303c44d8edd913117b50b60434569c256ef9e9890646f742822391d53a",
+      "published_source_sha256": "0eabce7c279b326be197ef19d09641dbce471c724325972d22cf9536fbe80707",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit08_philosophie-fuer-informierte-laien.pdf",
+          "sha256": "688dce9ed6ba5270f994a1b6b1d17c4e4a103f10a062a6c5098696d8c804c1f2",
+          "thumbnail_sha256": "82bb92f54b20da564b559393f543e7aac1a62d4bb7352d31360146d0c9c0ad9d",
+          "thumbnail_width": 1000,
+          "pages": 26
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit08_philosophie-fuer-informierte-laien.pdf",
+          "sha256": "760f420715433d1f7745896c06dc373f9d2c465a0e193162638c91e656b43e3e",
+          "thumbnail_sha256": "c71a262790da2d933b435f7dda99321967f61817ad7875f5e10aca7d27ccfd7e",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit08_philosophie-fuer-informierte-laien-teacher.pdf",
+          "sha256": "9eccff093eef641cb2013e3be29677d0feec845c49ce2c5af992014b37705112",
+          "thumbnail_sha256": "a3087a4d608adf25c80a286fdd7483dec8214c3f2257fe113fb5b5f9161ab57c",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ],
+      "initial_published_source_sha256": "f0957561be28fb10f4ed217960aa5a955c4c27dfed00078257e653bf560369c1"
+    },
+    {
+      "source": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+      "compiled_source_sha256": "72c90a96eece126d58c56ef41e6b74c8bfd3023876671c839aa96722fe4dada0",
+      "published_source_sha256": "c4709e388c3f0e0eb98320081c7b80e72288d6f1513a63412ed7c072850b3407",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit09_fachsprachen-wirtschaft-medizin-recht.pdf",
+          "sha256": "27ad7c76d4d5ac6ea2decc141537af41f6dc54fb6cab222d80af55b5afb0f496",
+          "thumbnail_sha256": "8c4791f8efb8cae3a91fe046edfe253174636884575d6a8668160b2903fb68bf",
+          "thumbnail_width": 1000,
+          "pages": 27
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht.pdf",
+          "sha256": "751ca11776b1cb5370477552dd21230a7f0b9270bb6600060ad805008b8c5566",
+          "thumbnail_sha256": "1357b63f9f0c07b9da602b86b328ffa7cbdd9a4a5a97f7fc9673718a7ca0b01b",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht-teacher.pdf",
+          "sha256": "321f7a0d825842a9a0b4ca20bfd9aa5f198e0ea5f8bbf2d72ba0020a207035a8",
+          "thumbnail_sha256": "0077f57a286b6e91d0996c13edd465d645f5ca10d8fc9536a619e30e7eebe8a0",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ],
+      "initial_published_source_sha256": "a6432b3fd4a52f83993e01f8378553c647fe955a5f4f68c7da9aa89c086000eb"
+    },
+    {
+      "source": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+      "compiled_source_sha256": "b1a9fd7f41dd4ffd7622c5e37bbd3a43eb1a673f35d16cdfac6acca8e486cbe6",
+      "published_source_sha256": "546e75e54f56525ed14226ab682b9c687cc4bc20cea4fe560925df276c4a4ed2",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit10_stilistik-und-rhetorik.pdf",
+          "sha256": "f9c88e15c113e8cd4c90d9f25a9c6476c5adeeff76fa24a13cffb69d982d9d0f",
+          "thumbnail_sha256": "daa1e963e11c73b3fdfc89994f18c7311f23c9a660dcb71bd2ff3d5317ba2b82",
+          "thumbnail_width": 1000,
+          "pages": 28
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit10_stilistik-und-rhetorik.pdf",
+          "sha256": "6498bd48af3005247b92cd7a6e54b3dd78c966c9d92faa627517de1264d0caf3",
+          "thumbnail_sha256": "4581124e0bfa15a7d6463fdb7c01acffbe028f83cf034f32c1cf21b6dc7ea7fb",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit10_stilistik-und-rhetorik-teacher.pdf",
+          "sha256": "1fa3b9bee2cd58cf3f5df297b6fcf8166d0aef4b0fd7508c1be1723b5c33af20",
+          "thumbnail_sha256": "b743773327956d7af0130d577ac8fb41f57010d0b8738ccd46b5b2df2005ec23",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit11_literarische-moderne/index.md",
+      "compiled_source_sha256": "7023cc8044c706bf123d8d24ead35635835dbb6dc5a0b80e6cb888b07baaf3e1",
+      "published_source_sha256": "67d5aebad7f2078e9ad68d80ce83fb855578a234f96bafb06a6f1b4377ec03c3",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit11_literarische-moderne.pdf",
+          "sha256": "07050c711a0c5db37a08f8202c0e02639c780b48c2e95881d2a548032cbf3da3",
+          "thumbnail_sha256": "17b0dbaaaf8e4fde470c869a35ce847da02f3c760090fd0e855f2840775cd22b",
+          "thumbnail_width": 1000,
+          "pages": 26
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit11_literarische-moderne.pdf",
+          "sha256": "d12f02b768036c63d99b7df4ca8c061d1bdd4936baf9feeec03c4e566042d4de",
+          "thumbnail_sha256": "cb37b17fdca4a20c5f73d7ffa7342d7763aa945cc26a996eabc4be4903d66d46",
+          "thumbnail_width": 1000,
+          "pages": 5
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit11_literarische-moderne-teacher.pdf",
+          "sha256": "a59615555ce1f84086a5c390b1a6e9b50ac413764b05da57143761f6395e91d0",
+          "thumbnail_sha256": "dd96acfc6eba9282023a9a5444ef84f32449826778a9e7907770c0d29db920f7",
+          "thumbnail_width": 1000,
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "source": "content/kurs_c1/units/unit12_gegenwartsliteratur/index.md",
+      "compiled_source_sha256": "858b463b49eeef2142c37c835738366a98329d29d6d97ad17c4e5194f9cd5ac1",
+      "published_source_sha256": "f56bf7769a0c323155dcf94faa131ab477bfdf104325aac6902b44895539f39a",
+      "body_and_other_metadata_unchanged": true,
+      "generator_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "files": [
+        {
+          "kind": "deck",
+          "file": "static/materials/presentations/unit12_gegenwartsliteratur.pdf",
+          "sha256": "64005e36d7074c97f3ffce2fbd12c85bec4e746e54a243cebd3a2d08b78c42da",
+          "thumbnail_sha256": "62607a2588ead724e8f102816aece7c3a7113396d4eec7128a99ccd13b928751",
+          "thumbnail_width": 1000,
+          "pages": 23
+        },
+        {
+          "kind": "learner",
+          "file": "static/materials/worksheets/unit12_gegenwartsliteratur.pdf",
+          "sha256": "6c2c580a69433995b8ef03821cf8033fb3f65ae03149e54005ed7efd4048e12a",
+          "thumbnail_sha256": "4d0daa1715ad5fd8302abf15f51b23fbe016c6aee138862a5903f759157427e6",
+          "thumbnail_width": 1000,
+          "pages": 4
+        },
+        {
+          "kind": "teacher",
+          "file": "static/materials/worksheets/unit12_gegenwartsliteratur-teacher.pdf",
+          "sha256": "6e62c99eb3a6f9483be692f9bef50dff24cae3ff1a2a83c5e99d3b4cfc7dc21a",
+          "thumbnail_sha256": "ee9943e09624f0835af7760bb6f0b3469542510b6f843038b42efa25f6f53f24",
+          "thumbnail_width": 1000,
+          "pages": 5
+        }
+      ]
+    }
+  ],
+  "metadata_format_followup": {
+    "date": "2026-11-02",
+    "change": "Removed trailing whitespace from newly added teacher-link YAML; body and all parsed metadata unchanged. Original publication source hashes retained per changed record.",
+    "sources_changed": 17
+  }
+}

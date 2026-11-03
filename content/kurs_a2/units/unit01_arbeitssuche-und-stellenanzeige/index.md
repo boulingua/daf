@@ -37,13 +37,43 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.07
-    - A2.REC.identifying-cues-and-inferring.02
-    - A2.PROD.sustained-monologue-describing-experience.02
-    - A2.REC.overall-oral-comprehension.02
-    - A2.INT.overall-oral-interaction.02
+  - A2.PROD.creative-writing.07
+  - A2.REC.identifying-cues-and-inferring.02
+  - A2.PROD.sustained-monologue-describing-experience.02
+  - A2.REC.overall-oral-comprehension.02
+  - A2.INT.overall-oral-interaction.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file:
+    /daf/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -80,6 +110,7 @@ Tasse Tee am Tisch. Ihre Freundin Lena kommt dazu.
 > **Lena:** Dann musst du gut lesen: Arbeitszeit, Gehalt und
 > Beginn stehen immer in der Anzeige.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen**
 
 - Wie haben Sie Ihre letzte Stelle gefunden?
@@ -87,8 +118,7 @@ Tasse Tee am Tisch. Ihre Freundin Lena kommt dazu.
 - Was möchten Sie *nicht*: Schichtdienst, Wochenendarbeit oder
   lange Wege?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort                          | Bedeutung                          |
@@ -155,8 +185,7 @@ Anzeige lesen, suchen Sie also zuerst diese drei Teile: *Wer sucht?
 Was soll ich tun? Was muss ich können?*
 (paraphrasiert nach „Stellenausschreibung“, Wikipedia, CC BY-SA 4.0)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnung (A2-Lesen, Anzeigen a–d).**
 Welche Anzeige passt am besten? Schreiben Sie a, b, c oder d.
 
@@ -208,6 +237,7 @@ Bringen Sie die Sätze (A–F) in die richtige Reihenfolge.
 
 ## Lösungen
 
+{{< details summary="Lösungen" >}}
 {{< details type="tip" title="Lösungen anzeigen" >}}
 
 **Aufgabe 1.** 1) c · 2) b · 3) d · 4) a.
@@ -223,9 +253,9 @@ Bringen Sie die Sätze (A–F) in die richtige Reihenfolge.
 **Aufgabe 4.** B – E – D – C – A – F.
 
 {{< /details >}}
+{{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (A2, ca. 50 Wörter).**
 Sie haben sich für Anzeige **(a)** entschieden. Schreiben Sie eine
 kurze Bewerbungs-E-Mail an das Landeskrankenhaus Graz. Nennen Sie:
@@ -255,53 +285,11 @@ kurze Bewerbungs-E-Mail an das Landeskrankenhaus Graz. Nennen Sie:
 | Verständliche Sätze (A2, kleine Fehler ok)  |   3    |
 | **Gesamt**                                  | **8**  |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 · Modul Lesen · Teil 4 — Anzeigen zuordnen**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam" >}}).
 
-**Aufgabenstellung:** Lesen Sie die fünf Situationen (1–5) und die
-fünf Anzeigen (a–e). Welche Anzeige passt zu welcher Situation?
-Schreiben Sie den Buchstaben. **Achtung: Zwei Anzeigen passen zu
-keiner Situation.**
-
-### Anzeigen (a–e)
-
-- **a)** Pflegefachkraft, Vollzeit, Graz. Dienstwohnung möglich.
-  2 900 € brutto.
-- **b)** Kellner/in, Teilzeit, nur Samstag und Sonntag. 12 €/Std.
-- **c)** Kindergartenhelfer/in, Montag bis Freitag 8–14 Uhr,
-  Deutsch B1.
-- **d)** Pflegekraft, Pflegeheim, Schichtdienst, 3 100 € brutto.
-- **e)** IT-Junior, Homeoffice, flexible Zeiten.
-
-### Situationen (1–5)
-
-1. „Ich möchte mit Kindern arbeiten, nicht in der Pflege.“ → ____
-2. „Ich suche einen Job nur am Wochenende.“ → ____
-3. „Ich brauche mehr Gehalt, Schichtdienst ist okay.“ → ____
-4. „Ich kann nur von zu Hause aus arbeiten.“ → ____
-5. „Ich pflege gern und brauche eine Wohnung beim Arbeitsplatz.“
-   → ____
-
-{{< details type="tip" title="Lösungen (für Lehrkräfte)" >}}
-1 = c · 2 = b · 3 = d · 4 = e · 5 = a.
-(Keine Anzeige passt hier doppelt; alle fünf werden genau einmal
-gebraucht — die zwei „Ablenker“ entstehen bei Varianten mit mehr
-Anzeigen.)
-{{< /details >}}
-
-**Punkte-Rubrik (Prüfung)**
-
-| Leistung                    | Punkte |
-|-----------------------------|:------:|
-| Pro richtige Zuordnung      |   1    |
-| **Maximal (5 Situationen)** | **5**  |
-
-*Hinweis: Eine Audio-Version ist für dieses Modul nicht nötig
-(Modul Lesen).*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich unterscheide Vollzeit, Teilzeit und Schichtdienst.
 - [ ] Ich finde in einer Anzeige Beruf, Arbeitszeit, Gehalt und
       Beginn.
@@ -309,7 +297,7 @@ Anzeigen.)
 - [ ] Ich bilde einen Satz mit *weil* (Verb am Ende).
 - [ ] Ich schreibe eine kurze Bewerbungs-E-Mail (ca. 50 Wörter).
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten)**
 

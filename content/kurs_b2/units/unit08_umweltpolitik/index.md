@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.compensating.01
-    - B2.REC.identifying-cues-and-inferring.01
-    - B2.PROD.creative-writing.01
-    - B2.REC.overall-oral-comprehension.01
-    - B2.MED.managing-interaction.03
+  - B2.PROD.compensating.01
+  - B2.REC.identifying-cues-and-inferring.01
+  - B2.PROD.creative-writing.01
+  - B2.REC.overall-oral-comprehension.01
+  - B2.MED.managing-interaction.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit08_umweltpolitik_exam
+  format: module-practice
+  duration_minutes:
+  points: 25
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit08_umweltpolitik-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit08_umweltpolitik-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,14 +95,14 @@ curriculum:
 
 **Kjell** organisiert für seine Umwelt-Initiative eine Podiumsdiskussion zum Thema „CO₂-Preis und soziale Gerechtigkeit". Er möchte, dass der Abend nicht in Parolen endet, sondern dass die Teilnehmenden lernen, *sachlich abzuwägen*. Deshalb bittet er die Gruppe, vorab drei Fragen schriftlich zu beantworten — jede/r für sich, ohne gleich Partei zu ergreifen.
 
+## Aktivieren {#activate}
 **Einstiegsfragen:**
 
 - Wer trägt am Ende die Kosten, wenn fossile Brennstoffe teurer werden — die Unternehmen oder die Verbraucher:innen?
 - Ist ein Preis „gerecht", wenn er alle gleich belastet, obwohl die Einkommen sehr unterschiedlich sind?
 - Was verstehen Sie unter einer *Klimadividende* bzw. einem *Klimageld* — und wem würde sie am meisten nutzen?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Deutsch | Wortart / Kollokation | Erläuterung |
@@ -125,8 +153,7 @@ Bei Formengleichheit mit dem Indikativ weicht man auf **Konjunktiv II** aus: *si
 
 Auf europäischer Ebene tritt 2027 ein zweites Emissionshandelssystem (**ETS 2**) für Gebäude und Straßenverkehr in Kraft; die Europäische Kommission sieht vor, dass Einnahmen unter anderem einen **Klima-Sozialfonds** speisen, der einkommensschwache Haushalte entlasten soll (Europäische Kommission, „ETS2: buildings, road transport and additional sectors", 2024). Für Deutschland verweisen Forschungsinstitute darauf, dass eine vollständige Rückverteilung der Einnahmen als gleiches Pro-Kopf-Klimageld rund die Hälfte der Haushalte — vor allem einkommensschwache und Mieter:innen — besserstellen würde (Umweltbundesamt / DIW Berlin, 2024/2025).
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Fakt oder Meinung? (Niveau B2)**
 Ordnen Sie jede Aussage aus Sachtext 1 einer Kategorie zu: **F** (überprüfbarer Fakt), **fM** (wiedergegebene fremde Meinung) oder **M** (wertende Meinung).
 
@@ -184,8 +211,7 @@ Musterabsatz (B2.2): *Der CO₂-Preis liegt seit 2024 bei 45 Euro pro Tonne. **E
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (B2, ca. 220–260 Wörter): Erörterung / Stellungnahme**
 
 Verfassen Sie für Kjells Veranstaltungsblatt eine ausgewogene Stellungnahme zur Leitfrage:
@@ -210,39 +236,18 @@ Bauen Sie ein:
 | Kohärenz | flüssige Verknüpfung, keine bloße Aufzählung |
 | Wortschatz | themenspezifische Begriffe treffend verwendet |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 — Modul Schreiben, Aufgabe 2 (Stellungnahme im Forum)**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit08_umweltpolitik_exam" >}}).
 
-In einem Online-Forum wird diskutiert: *„Der CO₂-Preis steigt — das Klimageld bleibt aus. Ist das noch gerecht?"* Schreiben Sie einen Forumsbeitrag (**ca. 180 Wörter**), in dem Sie
-
-- Ihre Position einleitend darlegen,
-- ein Argument der Gegenseite nennen und darauf eingehen,
-- Ihre eigene Meinung mit einem Beispiel begründen,
-- mit einem Vorschlag oder Appell schließen.
-
-**Bewertungsraster (25 Punkte):**
-
-| Kriterium | Punkte |
-|---|---|
-| Erfüllung aller vier Inhaltspunkte | 8 |
-| Textaufbau & Kohärenz (Konnektoren, Absätze) | 5 |
-| Grammatische Korrektheit (Passiv, Konjunktiv, Satzbau) | 6 |
-| Wortschatz & Ausdruck (Themenlexik, Register) | 4 |
-| Kommunikative Angemessenheit (Forum, adressatengerecht) | 2 |
-| **Gesamt** | **25** |
-
-> **Bestehensgrenze:** 15 / 25 Punkte (60 %).
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich unterscheide systematisch zwischen Fakt, fremder Meinung und eigener Wertung.
 - [ ] Ich setze das Passiv ein, um Vorgänge sachlich darzustellen.
 - [ ] Ich gebe fremde Aussagen im Konjunktiv I distanziert wieder.
 - [ ] Ich verknüpfe Argumente mit *einerseits/andererseits, dennoch, folglich, im Gegensatz dazu*.
 - [ ] Ich schreibe eine abwägende Stellungnahme mit klarer These und Fazit.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Min.):**
 

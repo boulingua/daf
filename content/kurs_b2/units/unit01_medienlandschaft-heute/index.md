@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.correspondence.05
-    - B2.PROD.reports-and-essays.01
-    - B2.REC.overall-oral-comprehension.03
-    - B2.INT.formal-discussion.01
-    - B2.MED.processing-text.04
+  - B2.INT.correspondence.05
+  - B2.PROD.reports-and-essays.01
+  - B2.REC.overall-oral-comprehension.03
+  - B2.INT.formal-discussion.01
+  - B2.MED.processing-text.04
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit01_medienlandschaft-heute_exam
+  format: module-practice
+  duration_minutes:
+  points: 12
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit01_medienlandschaft-heute-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit01_medienlandschaft-heute-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -75,14 +103,14 @@ Social-Media-Feed, der andere schlägt die gedruckte Zeitung auf.
 Beide glauben am Ende, gut informiert zu sein — und doch haben sie
 über die Welt ganz Unterschiedliches erfahren. Woran liegt das?
 
+## Aktivieren {#activate}
 Diskutieren Sie in Kleingruppen:
 
 - Wo haben Sie heute Morgen zuletzt eine Nachricht gelesen — und wie sicher waren Sie sich, dass sie stimmt?
 - Was unterscheidet eine Meldung, die von einer Redaktion geprüft wurde, von einem viralen Beitrag ohne Absender?
 - Sollte ein öffentlich-rechtlicher Sender aus Beiträgen aller finanziert werden, oder sollen sich Medien allein über den Markt tragen? Nennen Sie je ein Argument dafür und dagegen.
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort / Wendung | Erläuterung | Beispielsatz |
@@ -212,8 +240,7 @@ Leibniz-Institut für Medienforschung).
 
 *(Originaltext, ca. 215 Wörter, für diese Einheit verfasst.)*
 
-## Üben
-
+## Üben {#practise}
 {{< callout type="note" >}}
 **Niveau-Differenzierung:** Aufgaben 1–2 sichern das Verständnis
 (B1+/B2). Aufgaben 3–4 verlangen eigene Produktion und Abwägung
@@ -278,8 +305,7 @@ dazu · 3) einerseits … andererseits · 4) folglich.
   auf die Plattformen selbst.*
 
 {{< /details >}}
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Schriftliche Stellungnahme (B2, ca. 180–220
 Wörter).**
 
@@ -304,55 +330,11 @@ belegtes Faktum · (4) Passiv **und** Konjunktiv je einmal korrekt ·
 (5) begründete Schlussposition · (6) Bandbreite des Wortschatzes.
 {{< /callout >}}
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2, Modul Lesen — Teil 4: Meinungen zuordnen.**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit01_medienlandschaft-heute_exam" >}}).
 
-Sie lesen fünf kurze Meinungsäußerungen zum Thema *„Nachrichten in
-sozialen Medien“*. Ordnen Sie jeder Meinung (1–5) genau eine
-Überschrift (a–g) zu. **Zwei Überschriften bleiben übrig.**
-
-### Meinungen
-
-1. *„Ob ich einer Meldung glaube, hängt für mich nur von einem ab:
-   Steht dahinter eine Redaktion, die für Fehler geradesteht?“*
-2. *„Verbote bringen nichts. Man müsste den Menschen schon in der
-   Schule beibringen, Quellen selbst zu prüfen.“*
-3. *„Für mich ist der Beitrag jeden Cent wert — nur so bleibt
-   Berichterstattung unabhängig von Werbekunden.“*
-4. *„Ich sehe vor allem die Chancen: Auf keiner anderen Plattform
-   erfahre ich so schnell und aus so vielen Perspektiven, was
-   gerade passiert.“*
-5. *„Das eigentliche Problem ist nicht die Plattform, sondern der
-   Algorithmus, der das Lauteste nach oben spült.“*
-
-### Überschriften
-
-- **a)** Verantwortung der Redaktion entscheidet
-- **b)** Medienkompetenz statt Verbote
-- **c)** Unabhängigkeit rechtfertigt den Beitrag
-- **d)** Geschwindigkeit und Vielfalt als Vorteil
-- **e)** Die Technik lenkt die Aufmerksamkeit
-- **f)** Werbung finanziert das beste Programm
-- **g)** Nachrichten gehören ins Fernsehen
-
-{{< details type="tip" title="Lösungen" >}}
-1 = a · 2 = b · 3 = c · 4 = d · 5 = e. Übrig bleiben f und g.
-{{< /details >}}
-
-### Punkte-Rubrik
-
-| Kriterium | Punkte |
-|-----------|--------|
-| Je korrekte Zuordnung (5 × 2 P.) | 10 |
-| Keine der Distraktoren (f, g) gewählt | 2 |
-| **Gesamt** | **12** |
-
-*Richtwert: 10–12 P. = sehr gut · 7–9 P. = bestanden · < 7 P. =
-Wiederholung empfohlen.*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann die öffentlich-rechtliche und die private Säule der Medienlandschaft unterscheiden.
 - [ ] Ich trenne in einem Text Tatsachen von Wertungen.
 - [ ] Ich verknüpfe Pro- und Contra-Argumente mit passenden Konnektoren.
@@ -360,7 +342,7 @@ Wiederholung empfohlen.*
 - [ ] Ich kann meine Position zu einem Medienthema schriftlich begründen.
 - [ ] Ich prüfe eine Meldung mit den drei Fragen: Wer? Woher? Zweite Quelle?
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

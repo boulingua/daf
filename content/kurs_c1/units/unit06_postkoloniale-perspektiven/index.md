@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.INT.formal-discussion.01
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.PROD.planning.01
-    - C1.MED.adapting-language.03
+  - C1.INT.formal-discussion.01
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.PROD.planning.01
+  - C1.MED.adapting-language.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_c1/units/unit06_postkoloniale-perspektiven_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit06_postkoloniale-perspektiven-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit06_postkoloniale-perspektiven-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -81,6 +110,7 @@ ausgestellt wird. Die postkoloniale Debatte im deutschsprachigen Raum
 setzt genau an dieser Doppelbödigkeit an: Sie fragt nicht nur nach
 Besitz, sondern nach Erzählmacht.
 
+## Aktivieren {#activate}
 **Leitfragen zum Gespräch:**
 
 - Welche kolonialen Bezüge haben Institutionen — Museen, Universitäten,
@@ -90,8 +120,7 @@ Besitz, sondern nach Erzählmacht.
   Fürsorge oder der Deutungshoheit — oder lässt sich das gar nicht trennen?
 - Kann eine Vitrine „neutral“ sein? Was wählt sie aus, was blendet sie aus?
 
-## Input
-
+## Input {#input}
 ### A. Historischer Kontext (mit Quellenbezug)
 
 Zwei historische Bezugspunkte prägen die deutschsprachige Debatte. Zum
@@ -222,8 +251,7 @@ verkürzt, ihre Rolle mit der einer Kolonialmacht gleichzusetzen.*
 
 {{< /callout >}}
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Textgebundene Analyse (Text 1).** Beantworten Sie in
 je einem vollständigen Satz:
 
@@ -293,8 +321,7 @@ methodische Grundhaltung des Textes: Präzision statt Pauschalisierung.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Erörterung (schriftlich, ca. 220–260 Wörter).**
 
 Erörtern Sie textgebunden die Frage:
@@ -317,64 +344,11 @@ abwägendes Fazit enthalten.
   eingesetzt.
 - **Fachlexik:** mindestens vier Begriffe korrekt und passend verwendet.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER C1 · Modul Lesen — Teil 4 (Zuordnung von Aussagen zu
-Positionen).**
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit06_postkoloniale-perspektiven_exam" >}}).
 
-Lesen Sie die drei kurzen Positionen (A–C) und ordnen Sie die sieben
-Aussagen (1–7) zu. **Fünf** Aussagen passen zu genau einer Position;
-**zwei** Aussagen passen zu **keiner** Position (Distraktoren). Jede
-Position kann mehrfach zutreffen.
-
-**Position A — Museumsdirektorin (Wien):** *(Originaltext)* Restitution
-ist unausweichlich und zugleich voraussetzungsvoll. Wer sie allein als
-Akt der Gerechtigkeit denkt, übergeht die Frage nach Erhalt und Pflege;
-wer sie allein als Frage der Pflege denkt, übergeht das zugrunde liegende
-Unrecht.
-
-**Position B — Politikwissenschaftler (Bern):** *(Originaltext)* Die
-Schweiz hat keine formellen Kolonien besessen, war aber mittelbar am
-kolonialen Profit beteiligt. Diese Subtilität mildert die Verantwortung
-nicht, sie erschwert nur ihre Zurechnung.
-
-**Position C — Kuratorin und Aktivistin (Berlin):** *(Originaltext)* Es
-geht nicht allein um Objekte, sondern um Sichtbarkeit, Kuratierung und
-Sprache. Ein Objekt ist im Museum nie „nur Objekt“; es trägt eine
-Erzählung, die wir entweder wählen oder unterlassen.
-
-**Aussagen:**
-
-1. Die fehlende formelle Kolonialherrschaft befreit nicht von
-   Verantwortung.
-2. Rückgabe ohne die Frage nach Erhalt und Pflege bleibt unvollständig.
-3. Der Streit dreht sich weniger um Besitz als um Sichtbarkeit und Sprache.
-4. Mittelbare Beteiligung ist schwerer zuzurechnen, aber nicht folgenlos.
-5. Die museale Erzählung ist stets Ergebnis einer Wahl, nie neutral gegeben.
-6. Restitution ist letztlich reine Öffentlichkeitsarbeit ohne Substanz.
-7. Provenienzforschung ist entbehrlich, weil die Herkunft ohnehin bekannt ist.
-
-**Punkte-Rubrik (10 Punkte):**
-
-| Kriterium                                            | Punkte |
-|------------------------------------------------------|--------|
-| Korrekte Zuordnung (2 P. je richtig zugeordneter Aussage 1–5) | 10 |
-| Abzug: falsch zugeordneter Distraktor (6 oder 7)     | je −2 |
-
-*Bestehensgrenze: 6/10 Punkte.*
-
-{{< details type="tip" title="Lösungen" >}}
-
-- **1 → B** · **2 → A** · **3 → C** · **4 → B** · **5 → C**
-- **Distraktoren (keine Position):** 6 („reine Öffentlichkeitsarbeit“
-  widerspricht allen drei abwägenden Positionen) und 7
-  („Provenienzforschung entbehrlich“ — kommt in keiner Position vor und
-  widerspricht der differenzierenden Grundhaltung).
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann die Argumentationsstruktur eines postkolonialen Kommentars
       (These — Konzession — Fazit) rekonstruieren.
 - [ ] Ich verwende die Begriffe *Othering*, *Repräsentation*, *Restitution*,
@@ -385,7 +359,7 @@ Erzählung, die wir entweder wählen oder unterlassen.
 - [ ] Ich kontextualisiere die Debatte historisch (Herero/Nama;
       Benin-Bronzen).
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitraster (45 Min):**
 
