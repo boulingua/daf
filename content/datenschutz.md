@@ -7,6 +7,9 @@ aliases:
 - /datenschutz.html
 author: S. Le Boulanger
 date: '2026-05-04T19:53:22+02:00'
+analytics_policy: plausible
+analytics_notice_language: de
+analytics_notice_path: /datenschutz/
 ---
 
 ## 1. Verantwortlicher
@@ -182,6 +185,10 @@ Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.
 ## 4. Analyse-Tools und Tools von Drittanbietern
 
 ### Plausible Analytics (selbst gehostet)
+
+Auf dieser Website ist Plausible Analytics aktiviert.
+Das Skript `https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js`
+verwendet die Domain-Kennung `boulingua.github.io/daf`.
 
 Diese Website verwendet **Plausible Analytics** zur statistischen
 Reichweitenmessung. Plausible wird als **selbst gehostete

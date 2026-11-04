@@ -74,3 +74,10 @@ materials: committed            # committed | generated
                                 # verifies, it does not generate. A course set
                                 # to `generated` fails D2 on an empty glob
                                 # rather than passing vacuously.
+
+# Course/product-specific views; select by layout, independent of URLs.
+templates:
+  selection: layout
+  local:
+  - _default/material-discovery.html
+  - _default/materials-list.html
