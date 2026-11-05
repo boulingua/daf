@@ -1,46 +1,48 @@
 [
   {
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Ana reist nach Graz. Ihre Cousine heiratet dort. Am Hauptbahnhof in Wien trifft sie Tarek. Sie fragt eine Frau, Frau Klein.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
+    "source_body_sha256": "10f8a6497b2fbb2f20c4a42f603fba9071b7dc806bea58bec8b3b793d523155b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Ana: Entschuldigung, wo ist Gleis 7?\nFrau Klein: Gehen Sie geradeaus und dann links.\nAna: Danke! Wann fährt der Zug nach Graz?\nTarek: Um 08:58, glaube ich. Der Zug fährt auf Gleis 7.\nAna: Super. Dann habe ich noch zehn Minuten Zeit.",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
+    "source_body_sha256": "10f8a6497b2fbb2f20c4a42f603fba9071b7dc806bea58bec8b3b793d523155b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ana: Entschuldigung, wo ist Gleis 7? Frau Klein: Gehen Sie geradeaus und dann links. Ana: Danke! Wann fährt der Zug nach Graz? Tarek: Um 08:58, glaube ich. Der Zug fährt auf Gleis 7. Ana: Super. Dann habe ich noch zehn Minuten Zeit."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "der Zug · der Bus · die U-Bahn · die Straßenbahn · das Flugzeug · das Fahrrad · der Bahnhof · das Gleis · das Ticket / die Fahrkarte · der Fahrplan · geradeaus · links / rechts",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab1.ogg",
-    "tts": "der Zug.\nder Bus.\ndie U-Bahn.\ndie Straßenbahn.\ndas Flugzeug.\ndas Fahrrad.\nder Bahnhof.\ndas Gleis.\ndas Ticket / die Fahrkarte.\nder Fahrplan.\ngeradeaus.\nlinks / rechts."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "der Bus · der Zug · das Fahrrad · die U-Bahn · die Straßenbahn",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab2.ogg",
-    "tts": "der Bus.\nder Zug.\ndas Fahrrad.\ndie U-Bahn.\ndie Straßenbahn."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "Ana steht am Automaten. Sie möchte ein Ticket nach Graz. Sie drückt auf den Bildschirm und wählt „Graz\". Das Ticket kostet 39 Euro. Ana bezahlt mit Karte. Der Automat gibt das Ticket. Jetzt geht Ana zu Gleis 7. Der Zug fährt um 08:58. Ana ist pünktlich.",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "a) fährt auf Schienen, lang · b) fährt in der Stadt unter der Erde · c) fliegt in der Luft · d) hat zwei Räder, ohne Motor",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab3.ogg",
-    "tts": "a) fährt auf Schienen, lang.\nb) fährt in der Stadt unter der Erde.\nc) fliegt in der Luft.\nd) hat zwei Räder, ohne Motor."
-  },
-  {
+    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte2.ogg",
     "label": "Text 2",
-    "transcript": "| Zeit  | Zug     | Nach     | Gleis |\n|-------|---------|----------|-------|\n| 08:30 | RJX 660 | Salzburg | 4     |\n| 08:58 | RJX 568 | Graz     | 7     |\n| 09:15 | ICE 22  | Zürich   | 2     |",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte2.ogg"
-  },
-  {
-    "label": "Text 3",
-    "transcript": "A: Guten Tag. Ich möchte ein Ticket nach Graz.\nB: Das kostet 39 Euro.\nA: Auf welchem Gleis fährt der Zug?\nB: Auf Gleis 7. Gute Reise!",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/texte3.ogg"
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "1 · 2 · 3 · 4 · 5",
-    "file": "/daf/materials/audio/unit12_reisen-und-unterwegs/vocab4.ogg",
-    "tts": "1.\n2.\n3.\n4.\n5."
+    "transcript": "Ana steht am Automaten. Sie möchte ein Ticket nach Graz. Sie drückt auf den Bildschirm und wählt „Graz\". Das Ticket kostet 39 Euro. Ana bezahlt mit Karte. Der Automat gibt das Ticket. Jetzt geht Ana zu Gleis 7. Der Zug fährt um 08:58. Ana ist pünktlich.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
+    "source_body_sha256": "10f8a6497b2fbb2f20c4a42f603fba9071b7dc806bea58bec8b3b793d523155b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

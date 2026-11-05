@@ -45,6 +45,7 @@ curriculum:
     - C1.MED.amplifying-a-dense-text.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit11_literarische-moderne
 ---
 
 {{< callout type="note" >}}

@@ -1,47 +1,49 @@
 [
   {
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Szene: Samstagmorgen bei Familie Kraus. Nina, ihr Bruder Tom und die\nMutter, Frau Kraus, sitzen in der Küche. Das Radio läuft.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
+    "source_body_sha256": "c92d6d91295b862fe0a48dd4aab80871d44d367c6f65b1c4ea55c4f5769c63df",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Nina: Guten Morgen! Wie ist das Wetter heute?\nFrau Kraus: Sieh mal aus dem Fenster. Die Sonne scheint!\nTom: Super! Es ist warm. Wir gehen in den Park.\nRadio: „Heute in München: am Morgen sonnig, 20 Grad. Am\nNachmittag kommen Wolken. Am Abend regnet es.\nNina: Am Abend regnet es? Dann nehme ich eine Jacke mit.\nFrau Kraus: Gute Idee. Am Abend ist es kühl.",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
+    "source_body_sha256": "c92d6d91295b862fe0a48dd4aab80871d44d367c6f65b1c4ea55c4f5769c63df",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nina: Guten Morgen! Wie ist das Wetter heute? Frau Kraus: Sieh mal aus dem Fenster. Die Sonne scheint! Tom: Super! Es ist warm. Wir gehen in den Park. Radio: „Heute in München: am Morgen sonnig, 20 Grad. Am Nachmittag kommen Wolken. Am Abend regnet es. Nina: Am Abend regnet es? Dann nehme ich eine Jacke mit. Frau Kraus: Gute Idee. Am Abend ist es kühl."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "die Sonne · der Regen · der Schnee · die Wolke · der Wind · warm / kalt · heiß / kühl · der Grad · der Frühling · der Sommer · der Herbst · der Winter",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab1.ogg",
-    "tts": "die Sonne.\nder Regen.\nder Schnee.\ndie Wolke.\nder Wind.\nwarm / kalt.\nheiß / kühl.\nder Grad.\nder Frühling.\nder Sommer.\nder Herbst.\nder Winter."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "es + Verb · es ist + Adjektiv · es sind + Zahl · die Sonne + Verb",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab2.ogg",
-    "tts": "es + Verb.\nes ist + Adjektiv.\nes sind + Zahl.\ndie Sonne + Verb."
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "der Frühling · der Sommer · der Herbst · der Winter",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab3.ogg",
-    "tts": "der Frühling.\nder Sommer.\nder Herbst.\nder Winter."
-  },
-  {
-    "label": "Text 1",
+    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/texte2.ogg",
+    "label": "Text 2",
     "transcript": "Ich heiße Sofia. Ich wohne in Hamburg. Mein Lieblingswetter ist\nSonne. Im Sommer ist es warm, oft 25 Grad. Ich gehe dann schwimmen.\nIm Winter ist es kalt. Manchmal schneit es. Dann trinke ich Tee zu\nHause. Mein Lieblingsmonat ist Mai. Im Mai ist es nicht zu warm und\nnicht zu kalt.",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/texte1.ogg"
-  },
-  {
-    "label": "Dialog 2",
-    "transcript": "A: Wie ist das Wetter heute?\nB: _______________________________\nA: Und welche Jahreszeit ist jetzt?\nB: _______________________________",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/dialogue2.ogg"
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "4–5 Sätze gesprochen · ein Wetterwort benutzt · ein Adjektiv benutzt · Gradzahl genannt · Jahreszeit genannt",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab4.ogg",
-    "tts": "4–5 Sätze gesprochen.\nein Wetterwort benutzt.\nein Adjektiv benutzt.\nGradzahl genannt.\nJahreszeit genannt."
-  },
-  {
-    "label": "Wortschatz 5",
-    "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung",
-    "file": "/daf/materials/audio/unit08_wetter-und-jahreszeiten/vocab5.ogg",
-    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nPrüfung."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
+    "source_body_sha256": "c92d6d91295b862fe0a48dd4aab80871d44d367c6f65b1c4ea55c4f5769c63df",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ich heiße Sofia. Ich wohne in Hamburg. Mein Lieblingswetter ist Sonne. Im Sommer ist es warm, oft 25 Grad. Ich gehe dann schwimmen. Im Winter ist es kalt. Manchmal schneit es. Dann trinke ich Tee zu Hause. Mein Lieblingsmonat ist Mai. Im Mai ist es nicht zu warm und nicht zu kalt."
   }
 ]

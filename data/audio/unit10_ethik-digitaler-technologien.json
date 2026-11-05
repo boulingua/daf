@@ -1,36 +1,33 @@
 [
   {
-    "label": "Wortschatz 1",
-    "transcript": "der Datenschutz · die Datensicherheit · der Algorithmus, -men · die Transparenz · die Verzerrung / der Bias · die Einwilligung · die Verhältnismäßigkeit · die Rechenschaft(spflicht) · die Überwachung · personenbezogene Daten · nachvollziehbar (Adj.) · stigmatisieren (V.)",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab1.ogg",
-    "tts": "der Datenschutz.\ndie Datensicherheit.\nder Algorithmus, -men.\ndie Transparenz.\ndie Verzerrung / der Bias.\ndie Einwilligung.\ndie Verhältnismäßigkeit.\ndie Rechenschaft(spflicht).\ndie Überwachung.\npersonenbezogene Daten.\nnachvollziehbar (Adj.).\nstigmatisieren (V.)."
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Dr. Talia Weiss, Technikethikerin aus Freiburg, wird in einem\nPodcast gefragt: „Eine App könnte Ihr Kind vor jeder Gefahr warnen —\naber nur, wenn sie es rund um die Uhr ortet. Würden Sie sie\ninstallieren? Sie zögert und sagt schließlich: „Die Frage ist nicht,\nob die Technik funktioniert. Die Frage ist, welchen Menschen sie aus\nuns macht.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
+    "source_body_sha256": "5eda6710c6e14d7962ea96d3aaef46794e4131cae20112f3c4c85aec0c2d14e9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Immer häufiger werden Entscheidungen, die früher Menschen trafen, an\nSoftware delegiert: Wer einen Kredit erhält, welche Bewerbung\naussortiert wird, wo die Polizei patrouilliert — all das kann heute\nvon einem Algorithmus vorbereitet werden. Befürworter betonen, solche\nSysteme arbeiteten schneller, günstiger und angeblich objektiver als\nder Mensch. Einerseits ist dieser Effizienzgewinn real. Andererseits\nist ein Algorithmus nur so unvoreingenommen wie die Daten, aus denen\ner lernt.\nGenau hier liegt das ethische Problem. Werden einem System historische\nDaten vorgelegt, in denen bestimmte Gruppen benachteiligt wurden, so\nlernt es diese Benachteiligung mit — und gibt sie als scheinbar\nneutrale Rechnung zurück. Fachleute sprechen von Verzerrung oder\nBias. Im Gegensatz zu einem menschlichen Sachbearbeiter, den man\nbefragen kann, bleibt die Entscheidung einer Software oft\nundurchsichtig. Dennoch wird ihr häufig mehr Objektivität\nzugeschrieben, als sie verdient.\nWas folgt daraus? Zunächst die Forderung nach Transparenz: Die\nFunktionsweise eines Systems müsse nachvollziehbar sein, verlangen\nKritiker. Zweitens die Rechenschaft: Wer eine automatisierte\nEntscheidung einsetzt, solle sie auch begründen können. Und drittens\ndie Verhältnismäßigkeit — nicht alles, was technisch machbar ist,\nist auch angemessen. Folglich geht es bei der Ethik digitaler\nTechnologien weniger um die Frage, ob eine Maschine rechnen darf,\nals vielmehr darum, wer für das Ergebnis geradesteht. Die\nVerantwortung, so lässt sich festhalten, lässt sich nicht an eine\nSoftware delegieren.",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/dialogue1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "beide Positionen fair und klar dargestellt · mindestens 3 Konnektoren korrekt eingesetzt · Passiv und/oder Konjunktiv verwendet · moderierender, respektvoller Ton · Fachbegriffe korrekt (min. 3) · Umfang eingehalten (220–260 Wörter)",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab2.ogg",
-    "tts": "beide Positionen fair und klar dargestellt.\nmindestens 3 Konnektoren korrekt eingesetzt.\nPassiv und/oder Konjunktiv verwendet.\nmoderierender, respektvoller Ton.\nFachbegriffe korrekt (min. 3).\nUmfang eingehalten (220–260 Wörter)."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "*„Staatliche Stellen sollten KI-gestützte Auswertungen öffentlicher\nDaten nur nach ausdrücklicher Zustimmung der Betroffenen einsetzen\ndürfen.*",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Inhalt: alle vier Sprachfunktionen abgedeckt · Aufbau & Kohärenz (Konnektoren, roter Faden) · Wortschatz: Fachbegriffe treffend eingesetzt · Grammatik: Passiv, Konjunktiv, Nominalisierung · Register & Angemessenheit (sachlich, adressiert) · Gesamt",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab3.ogg",
-    "tts": "Inhalt: alle vier Sprachfunktionen abgedeckt.\nAufbau & Kohärenz (Konnektoren, roter Faden).\nWortschatz: Fachbegriffe treffend eingesetzt.\nGrammatik: Passiv, Konjunktiv, Nominalisierung.\nRegister & Angemessenheit (sachlich, adressiert).\nGesamt."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit10_ethik-digitaler-technologien/vocab4.ogg",
-    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
+    "source_body_sha256": "5eda6710c6e14d7962ea96d3aaef46794e4131cae20112f3c4c85aec0c2d14e9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Immer häufiger werden Entscheidungen, die früher Menschen trafen, an Software delegiert: Wer einen Kredit erhält, welche Bewerbung aussortiert wird, wo die Polizei patrouilliert — all das kann heute von einem Algorithmus vorbereitet werden. Befürworter betonen, solche Systeme arbeiteten schneller, günstiger und angeblich objektiver als der Mensch. Einerseits ist dieser Effizienzgewinn real. Andererseits ist ein Algorithmus nur so unvoreingenommen wie die Daten, aus denen er lernt. Genau hier liegt das ethische Problem. Werden einem System historische Daten vorgelegt, in denen bestimmte Gruppen benachteiligt wurden, so lernt es diese Benachteiligung mit — und gibt sie als scheinbar neutrale Rechnung zurück. Fachleute sprechen von Verzerrung oder Bias. Im Gegensatz zu einem menschlichen Sachbearbeiter, den man befragen kann, bleibt die Entscheidung einer Software oft undurchsichtig. Dennoch wird ihr häufig mehr Objektivität zugeschrieben, als sie verdient. Was folgt daraus? Zunächst die Forderung nach Transparenz: Die Funktionsweise eines Systems müsse nachvollziehbar sein, verlangen Kritiker. Zweitens die Rechenschaft: Wer eine automatisierte Entscheidung einsetzt, solle sie auch begründen können. Und drittens die Verhältnismäßigkeit — nicht alles, was technisch machbar ist, ist auch angemessen. Folglich geht es bei der Ethik digitaler Technologien weniger um die Frage, ob eine Maschine rechnen darf, als vielmehr darum, wer für das Ergebnis geradesteht. Die Verantwortung, so lässt sich festhalten, lässt sich nicht an eine Software delegieren."
   }
 ]

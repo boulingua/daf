@@ -44,6 +44,7 @@ curriculum:
     - A2.INT.correspondence.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit05_reiseplanung
 ---
 
 {{< callout type="note" >}}

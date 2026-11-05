@@ -44,6 +44,7 @@ curriculum:
     - B1.INT.conversation.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit11_persoenliche-beziehungen
 ---
 
 {{< callout type="note" >}}

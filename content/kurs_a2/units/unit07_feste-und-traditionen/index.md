@@ -44,6 +44,7 @@ curriculum:
     - A2.MED.expressing-a-personal-response-to-creative-texts.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit07_feste-und-traditionen
 ---
 
 {{< callout type="note" >}}

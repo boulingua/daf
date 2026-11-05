@@ -1,24 +1,49 @@
 [
   {
+    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Lejla (jetzt in Villach) hat online eine Kaffeemaschine\nbestellt. Nach drei Tagen kam das Paket — aber ohne das\nversprochene Zubehör. Auf dem Zettel in der Packung stand: „Im\nLieferumfang enthalten: Kaffeemaschine, Milchaufschäumer,\nReinigungsbürste, Entkalker-Tab. In der Packung waren aber nur\ndie Maschine und die Bürste. Der Milchaufschäumer und der\nEntkalker fehlten. Weil Lejla das ärgerlich fand, hat sie an den\nKundenservice geschrieben.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
+    "source_body_sha256": "16410cddb393e6ef7d63994b17f338ef03f1edbcfc5a447f8f3d22ed30c298f9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "das Widerrufsrecht · die Gewährleistung · der Sachmangel, -mängel · der Lieferumfang · die Rücksendung · die Rückerstattung · die Frist, -en · bestellungsgemäß (Adv.) · etwas reklamieren · etwas beanstanden",
-    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
+    "source_body_sha256": "16410cddb393e6ef7d63994b17f338ef03f1edbcfc5a447f8f3d22ed30c298f9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "das Widerrufsrecht.\ndie Gewährleistung.\nder Sachmangel, -mängel.\nder Lieferumfang.\ndie Rücksendung.\ndie Rückerstattung.\ndie Frist, -en.\nbestellungsgemäß (Adv.).\netwas reklamieren.\netwas beanstanden."
   },
   {
+    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Sehr geehrte Damen und Herren,\nam 14. Mai habe ich bei Ihnen eine Kaffeemaschine vom Modell\n„KA-3200 bestellt (Bestellnummer: KA-5578912). Das Paket\nist am 17. Mai angekommen. Leider fehlen zwei Teile aus dem\nauf Ihrer Website angegebenen Lieferumfang: der\nMilchaufschäumer und der Entkalker-Tab.\nIch würde Sie bitten, mir die fehlenden Teile kostenfrei\nnachzusenden. Sollte das nicht möglich sein, würde ich die\nBestellung gern vollständig zurückgeben.\nKönnten Sie mir außerdem mitteilen, wie die Rücksendung abläuft?\nVielen Dank für Ihre Rückmeldung.\nMit freundlichen Grüßen\nLejla Hodžić",
-    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/dialogue1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede und Grußformel korrekt · Höflichkeit / passender Ton (Konjunktiv II) · Wortschatz zum Thema · Grammatik und Rechtschreibung",
-    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/vocab2.ogg",
-    "tts": "Alle drei Inhaltspunkte bearbeitet.\nAnrede und Grußformel korrekt.\nHöflichkeit / passender Ton (Konjunktiv II).\nWortschatz zum Thema.\nGrammatik und Rechtschreibung."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "Sehr geehrte Damen und Herren,\nam 3. Juni habe ich für 45 € ein Ticket für das Konzert von\n„Nova Beat am 20. Juli gekauft. Nun habe ich gelesen, dass\ndas Konzert abgesagt wurde. Ich würde deshalb gern mein Geld\nzurückerhalten. Könnten Sie mir bitte sagen, wie ich die\nRückerstattung beantrage?\nMit freundlichen Grüßen\nAmir Kovač",
-    "file": "/daf/materials/audio/unit09_konsum-und-verbraucherschutz/texte1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
+    "source_body_sha256": "16410cddb393e6ef7d63994b17f338ef03f1edbcfc5a447f8f3d22ed30c298f9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Sehr geehrte Damen und Herren, am 14. Mai habe ich bei Ihnen eine Kaffeemaschine vom Modell „KA-3200 bestellt (Bestellnummer: KA-5578912). Das Paket ist am 17. Mai angekommen. Leider fehlen zwei Teile aus dem auf Ihrer Website angegebenen Lieferumfang: der Milchaufschäumer und der Entkalker-Tab. Ich würde Sie bitten, mir die fehlenden Teile kostenfrei nachzusenden. Sollte das nicht möglich sein, würde ich die Bestellung gern vollständig zurückgeben. Könnten Sie mir außerdem mitteilen, wie die Rücksendung abläuft? Vielen Dank für Ihre Rückmeldung. Mit freundlichen Grüßen Lejla Hodžić"
   }
 ]

@@ -44,6 +44,7 @@ curriculum:
     - C1.MED.note-taking.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit04_aesthetik-und-urteil
 ---
 
 {{< callout type="note" >}}

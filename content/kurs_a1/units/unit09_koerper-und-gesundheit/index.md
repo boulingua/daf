@@ -44,6 +44,7 @@ curriculum:
     - A1.PLUR.building-on-plurilingual-repertoire.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit09_koerper-und-gesundheit
 ---
 
 {{< callout type="note" >}}

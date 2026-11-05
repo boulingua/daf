@@ -46,6 +46,7 @@ curriculum:
     - B1.PLUR.plurilingual-comprehension.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit01_neuanfang-in-basel
 ---
 
 {{< callout type="note" >}}

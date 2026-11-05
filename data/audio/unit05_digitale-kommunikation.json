@@ -1,46 +1,64 @@
 [
   {
-    "label": "Wortschatz 1",
-    "transcript": "die Anrede, -n · die Grußformel, -n · das Register, - · die Netiquette · der Beitrag, ¨-e · moderieren · Stellung beziehen (zu) · sachlich · abwägend · angemessen · verhindert sein · etwas verschieben (auf)",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab1.ogg",
-    "tts": "die Anrede, -n.\ndie Grußformel, -n.\ndas Register, -.\ndie Netiquette.\nder Beitrag, ¨-e.\nmoderieren.\nStellung beziehen (zu).\nsachlich.\nabwägend.\nangemessen.\nverhindert sein.\netwas verschieben (auf)."
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Herr Malik (51), Journalist in Frankfurt am Main, moderiert\nseit einem Jahr das Online-Forum seiner Redaktion. Er sichtet\njeden Morgen die neuen Leser:innenbeiträge. Manche gefallen ihm,\nmanche ärgern ihn — aber er antwortet immer höflich, auch auf\nscharfe Meinungen. „Ton bleibt Ton, sagt er, „und Argument\nbleibt Argument. Wer im Netz laut wird, hat sein Argument oft\nschon verloren.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+    "source_body_sha256": "11da9af4260fbcced4db2911b91ed556ba8bb538673cafff50ba35186c78fc7e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Gestern Abend bekam er zwei Nachrichten zum selben Thema. Die\neine war eine wütende Chat-Notiz mit drei Ausrufezeichen, die\nandere eine ruhige, gut begründete E-Mail. „Beide hatten recht,\nerzählte er später, „aber nur eine wollte ich beantworten.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+    "source_body_sha256": "11da9af4260fbcced4db2911b91ed556ba8bb538673cafff50ba35186c78fc7e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Beitrag von wasserwart_72: Ich finde die neue Regel in\nunserem Viertel zur Mülltrennung ehrlich gesagt völlig\nübertrieben. Vier verschiedene Tonnen für einen\nSingle-Haushalt — wohin soll das führen?? Ich mache nicht mehr\nmit.\nAntwort von ulrike_r: @wasserwart_72 — ich verstehe, dass\nvier Tonnen viel wirken. Aber wenn wir die Sortierung am Anfang\nnicht ordentlich machen, läuft am Ende der ganze Gelbe Sack in\ndie Verbrennung. Vielleicht lohnt es sich, nach zwei Wochen\nPraxis noch einmal zu schauen.",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+    "source_body_sha256": "11da9af4260fbcced4db2911b91ed556ba8bb538673cafff50ba35186c78fc7e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Beitrag von wasserwart_72: Ich finde die neue Regel in unserem Viertel zur Mülltrennung ehrlich gesagt völlig übertrieben. Vier verschiedene Tonnen für einen Single-Haushalt — wohin soll das führen?? Ich mache nicht mehr mit. Antwort von ulrike_r: @wasserwart_72 — ich verstehe, dass vier Tonnen viel wirken. Aber wenn wir die Sortierung am Anfang nicht ordentlich machen, läuft am Ende der ganze Gelbe Sack in die Verbrennung. Vielleicht lohnt es sich, nach zwei Wochen Praxis noch einmal zu schauen."
   },
   {
+    "file": "/daf/materials/audio/unit05_digitale-kommunikation/dialogue2.ogg",
     "label": "Dialog 2",
     "transcript": "Kontaktpflege (persönlich, Bekannte aus dem Kurs):\nLiebe Frau Bauer,\nich hoffe, Ihnen geht es gut nach dem letzten Kursabend — der\nText war wirklich anspruchsvoll. Ich wollte Sie fragen, ob Sie\nLust hätten, nächste Woche nach dem Unterricht wieder einen\nSpaziergang zu machen.\nViele Grüße\nNoa\nHandlungsregulierung (halb-formell, Kursleiterin):\nSehr geehrte Frau Brandl,\nvielen Dank für die ausführliche Rückmeldung zu meinem Essay.\nLeider bin ich am angesetzten Nachbesprechungs-Termin\nverhindert, weil ich beruflich verreisen muss. Wäre es\nmöglich, unser Gespräch auf Donnerstag, den 30.5., zu\nverschieben?\nMit freundlichen Grüßen\nNoa Rosselli",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/dialogue2.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Anrede · Grußformel · Abkürzungen · Satzzeichen · Kritik",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab2.ogg",
-    "tts": "Anrede.\nGrußformel.\nAbkürzungen.\nSatzzeichen.\nKritik."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "Vier Tonnen wirken tatsächlich viel, aber ich finde die Regel\ngut, weil sie langfristig Kosten spart. Bei uns im Haus sind\nwir durch die Trennung in sechs Monaten auf die Hälfte\nRestmüll gekommen. Ich verstehe aber, dass in kleinen\nHaushalten der Platz knapp ist. Vielleicht könnte die Stadt\nkompaktere Tonnen anbieten oder feste Sammelstellen im Viertel\neinrichten, bei denen man einmal pro Woche etwas abgeben würde.\nDas würde vielen Menschen Platz sparen.",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/texte1.ogg"
-  },
-  {
-    "label": "Text 2",
-    "transcript": "„Immer mehr junge Leute lesen keine Zeitung mehr. Ich finde das\nschade — die Nachrichten im Internet sind oft einseitig und\nschnell vergessen. Wer ohne Zeitung aufwächst, bekommt die Welt\nnicht mehr vollständig mit.",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/texte2.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Inhalt: alle drei Punkte klar behandelt · Argumentation: Meinung begründet (Nebensatz) · Register & Netiquette: sachlich, angemessen · Grammatik & Wortschatz (B1, inkl. Konj. II) · Textaufbau: Anrede/Gruß, roter Faden",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab3.ogg",
-    "tts": "Inhalt: alle drei Punkte klar behandelt.\nArgumentation: Meinung begründet (Nebensatz).\nRegister & Netiquette: sachlich, angemessen.\nGrammatik & Wortschatz (B1, inkl. Konj. II).\nTextaufbau: Anrede/Gruß, roter Faden."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit05_digitale-kommunikation/vocab4.ogg",
-    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit05_digitale-kommunikation/index.md",
+    "source_body_sha256": "11da9af4260fbcced4db2911b91ed556ba8bb538673cafff50ba35186c78fc7e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Kontaktpflege (persönlich, Bekannte aus dem Kurs): Liebe Frau Bauer, ich hoffe, Ihnen geht es gut nach dem letzten Kursabend — der Text war wirklich anspruchsvoll. Ich wollte Sie fragen, ob Sie Lust hätten, nächste Woche nach dem Unterricht wieder einen Spaziergang zu machen. Viele Grüße Noa Handlungsregulierung (halb-formell, Kursleiterin): Sehr geehrte Frau Brandl, vielen Dank für die ausführliche Rückmeldung zu meinem Essay. Leider bin ich am angesetzten Nachbesprechungs-Termin verhindert, weil ich beruflich verreisen muss. Wäre es möglich, unser Gespräch auf Donnerstag, den 30.5., zu verschieben? Mit freundlichen Grüßen Noa Rosselli"
   }
 ]

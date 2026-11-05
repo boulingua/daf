@@ -44,6 +44,7 @@ curriculum:
     - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit06_einkaufen-und-preise
 ---
 
 {{< callout type="note" >}}

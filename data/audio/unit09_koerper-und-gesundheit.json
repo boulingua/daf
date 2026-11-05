@@ -1,41 +1,34 @@
 [
   {
+    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Nina: „Guten Morgen. Oh, mein Kopf tut weh.\nOma Rosa: „Du bist blass, Nina. Hast du Fieber?\nNina: „Ich glaube ja. Mein Hals tut auch weh.\nTom: „Trink einen Tee. Und geh heute zum Arzt.\nNina: „Ja. Ich rufe die Praxis an.",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
+    "source_body_sha256": "2470c11b3db18a728e9edc75915fb3d346affd30012a2f9b9bf76fb34b1e416f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nina: „Guten Morgen. Oh, mein Kopf tut weh. Oma Rosa: „Du bist blass, Nina. Hast du Fieber? Nina: „Ich glaube ja. Mein Hals tut auch weh. Tom: „Trink einen Tee. Und geh heute zum Arzt. Nina: „Ja. Ich rufe die Praxis an."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "der Kopf · der Hals · der Bauch · der Rücken · der Arm · das Bein · die Hand · der Fuß · das Auge · das Ohr · die Nase · der Zahn · die Schmerzen (Pl.) · das Fieber · die Erkältung · der Husten · die Tablette · die Apotheke",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab1.ogg",
-    "tts": "der Kopf.\nder Hals.\nder Bauch.\nder Rücken.\nder Arm.\ndas Bein.\ndie Hand.\nder Fuß.\ndas Auge.\ndas Ohr.\ndie Nase.\nder Zahn.\ndie Schmerzen (Pl.).\ndas Fieber.\ndie Erkältung.\nder Husten.\ndie Tablette.\ndie Apotheke."
-  },
-  {
+    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue2.ogg",
     "label": "Dialog 2",
     "transcript": "Nina ist in der Praxis. Die Ärztin heißt Dr. Bauer.\nDr. Bauer: „Guten Tag, Frau Klein. Was fehlt Ihnen?\nNina: „Guten Tag. Ich habe Kopfschmerzen und mein Hals tut weh.\nDr. Bauer: „Seit wann?\nNina: „Seit gestern.\nDr. Bauer: „Machen Sie bitte den Mund auf. — Sie haben eine\nErkältung. Trinken Sie viel Tee und nehmen Sie diese Tablette\nzweimal am Tag.\nNina: „Danke, Frau Doktor.",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue2.ogg"
-  },
-  {
-    "label": "Dialog 3",
-    "transcript": "Arzt: Guten Tag. Was fehlt Ihnen?\nPatient: ________________________________________\nArzt: Seit wann?\nPatient: ________________________________________\nArzt: Setzen Sie sich bitte. Ich sehe nach.",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/dialogue3.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Zwei Beschwerden genannt · „seit wann\" gesagt · Zwei Anweisungen verstanden · Verständliche Aussprache",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab2.ogg",
-    "tts": "Zwei Beschwerden genannt.\n„seit wann\" gesagt.\nZwei Anweisungen verstanden.\nVerständliche Aussprache."
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "2 · 2 · 2 · 0",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab3.ogg",
-    "tts": "2.\n2.\n2.\n0."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg (Szene + Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Rollenspiel) · Prüfungsvorschau",
-    "file": "/daf/materials/audio/unit09_koerper-und-gesundheit/vocab4.ogg",
-    "tts": "Einstieg (Szene + Fragen).\nInput (Vokabeln, Grammatik, Lesetext, Kultur).\nÜben (Aufgaben 1–4).\nAnwenden (Rollenspiel).\nPrüfungsvorschau."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
+    "source_body_sha256": "2470c11b3db18a728e9edc75915fb3d346affd30012a2f9b9bf76fb34b1e416f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nina ist in der Praxis. Die Ärztin heißt Dr. Bauer. Dr. Bauer: „Guten Tag, Frau Klein. Was fehlt Ihnen? Nina: „Guten Tag. Ich habe Kopfschmerzen und mein Hals tut weh. Dr. Bauer: „Seit wann? Nina: „Seit gestern. Dr. Bauer: „Machen Sie bitte den Mund auf. — Sie haben eine Erkältung. Trinken Sie viel Tee und nehmen Sie diese Tablette zweimal am Tag. Nina: „Danke, Frau Doktor."
   }
 ]

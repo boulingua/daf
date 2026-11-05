@@ -1,29 +1,81 @@
 [
   {
-    "label": "Dialog 1",
-    "transcript": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern\nihre Genauigkeit.* Wer präzise benennt, argumentiert fairer.",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Nihad Kovač (Kulturmanager, aufgewachsen zwischen Sarajevo und\nBerlin) schreibt für die Zeitschrift „Durchblick\" einen kurzen\nEssay mit dem Titel „Wer gehört dazu?\". Elena soll dazu eine\nLeserdebatte moderieren — und ihr fällt auf, dass schon die Wahl\nder Wörter eine Position verrät.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/dialogue1.ogg",
+    "label": "Dialog 1",
+    "transcript": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern\nihre Genauigkeit.* Wer präzise benennt, argumentiert fairer.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern ihre Genauigkeit.* Wer präzise benennt, argumentiert fairer."
+  },
+  {
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Migration · die Zuwanderung · die Auswanderung · die Flucht · die Zugehörigkeit · die Integration · die Teilhabe · der/die Geflüchtete · der Migrationshintergrund · die Pauschalisierung",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Migration.\ndie Zuwanderung.\ndie Auswanderung.\ndie Flucht.\ndie Zugehörigkeit.\ndie Integration.\ndie Teilhabe.\nder/die Geflüchtete.\nder Migrationshintergrund.\ndie Pauschalisierung."
   },
   {
-    "label": "Text 1",
-    "transcript": "Wenn mich jemand fragt, wo ich herkomme, antworte ich: *aus\nSarajevo, aus Berlin, aus dem Raum zwischen beiden*. Drei Orte,\neine Person. Für meine Generation scheint das selbstverständlich,\nund dennoch bleibt die öffentliche Debatte oft zweiwertig: drin\noder draußen, integriert oder nicht, einheimisch oder zugewandert.\nDiese Zweiwertigkeit ist bequem, denn sie verlangt keine Nuance.\nSie übersieht jedoch, dass Zugehörigkeit keine Ja-Nein-Frage ist,\nsondern eine lange Verhandlung — am Esstisch, im Büro, beim Arzt,\nvor dem Amt. Wer sich dabei nicht verlieren will, braucht zweierlei:\neigene Sprachkompetenz und ein Gegenüber, das zuhört.\nMan könnte einwenden, Zahlen ordneten die Sache: So viele kommen,\nso viele gehen. Zahlen sind wichtig, sie schützen vor Gerüchten.\nDoch eine Zahl allein sagt noch nicht, ob jemand dazugehört.\nZugehörigkeit wird nicht gemessen, sondern erlebt — im Gespräch,\nin der Arbeit, in der Nachbarschaft. Folglich sollte, wer über\nMigration spricht, zwei Sprachen beherrschen: die der Statistik\nund die der Erfahrung.",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/texte1.ogg"
-  },
-  {
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/texte2.ogg",
     "label": "Text 2",
-    "transcript": "Wie groß ist Migration weltweit wirklich? Nach Angaben der\nBevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024\nrund 304 Millionen Menschen außerhalb ihres Geburtslandes;\ndas entspricht etwa 3,7 Prozent der Weltbevölkerung. Bemerkens­wert\nist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist —\nim Gegensatz zu dem Eindruck, den manche Debatten vermitteln.\nIn Deutschland wiederum wurden für 2024 laut Statistischem\nBundesamt rund **12,4 Millionen Menschen ohne deutsche\nStaatsangehörigkeit** gezählt; bezieht man den weiter gefassten\n„Migrationshintergrund\" ein, so lag der Anteil bei etwa **30\nProzent**. Zahlen wie diese werden hier nicht als Argument für\noder gegen etwas angeführt, sondern als gemeinsame Grundlage:\nWer die Größenordnung kennt, diskutiert sachlicher.\n(Zahlen paraphrasiert; Quellen siehe Abschnitt „Quellen\".)",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/texte2.ogg"
+    "transcript": "Wenn mich jemand fragt, wo ich herkomme, antworte ich: *aus\nSarajevo, aus Berlin, aus dem Raum zwischen beiden*. Drei Orte,\neine Person. Für meine Generation scheint das selbstverständlich,\nund dennoch bleibt die öffentliche Debatte oft zweiwertig: drin\noder draußen, integriert oder nicht, einheimisch oder zugewandert.\nDiese Zweiwertigkeit ist bequem, denn sie verlangt keine Nuance.\nSie übersieht jedoch, dass Zugehörigkeit keine Ja-Nein-Frage ist,\nsondern eine lange Verhandlung — am Esstisch, im Büro, beim Arzt,\nvor dem Amt. Wer sich dabei nicht verlieren will, braucht zweierlei:\neigene Sprachkompetenz und ein Gegenüber, das zuhört.\nMan könnte einwenden, Zahlen ordneten die Sache: So viele kommen,\nso viele gehen. Zahlen sind wichtig, sie schützen vor Gerüchten.\nDoch eine Zahl allein sagt noch nicht, ob jemand dazugehört.\nZugehörigkeit wird nicht gemessen, sondern erlebt — im Gespräch,\nin der Arbeit, in der Nachbarschaft. Folglich sollte, wer über\nMigration spricht, zwei Sprachen beherrschen: die der Statistik\nund die der Erfahrung.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Wenn mich jemand fragt, wo ich herkomme, antworte ich: *aus Sarajevo, aus Berlin, aus dem Raum zwischen beiden*. Drei Orte, eine Person. Für meine Generation scheint das selbstverständlich, und dennoch bleibt die öffentliche Debatte oft zweiwertig: drin oder draußen, integriert oder nicht, einheimisch oder zugewandert. Diese Zweiwertigkeit ist bequem, denn sie verlangt keine Nuance. Sie übersieht jedoch, dass Zugehörigkeit keine Ja-Nein-Frage ist, sondern eine lange Verhandlung — am Esstisch, im Büro, beim Arzt, vor dem Amt. Wer sich dabei nicht verlieren will, braucht zweierlei: eigene Sprachkompetenz und ein Gegenüber, das zuhört. Man könnte einwenden, Zahlen ordneten die Sache: So viele kommen, so viele gehen. Zahlen sind wichtig, sie schützen vor Gerüchten. Doch eine Zahl allein sagt noch nicht, ob jemand dazugehört. Zugehörigkeit wird nicht gemessen, sondern erlebt — im Gespräch, in der Arbeit, in der Nachbarschaft. Folglich sollte, wer über Migration spricht, zwei Sprachen beherrschen: die der Statistik und die der Erfahrung."
   },
   {
-    "label": "Wortschatz 2",
-    "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Prüfung/Reflexion",
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab2.ogg",
-    "tts": "Einstieg.\nInput A–D.\nÜben 1–4.\nAnwenden.\nPrüfung/Reflexion."
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/texte3.ogg",
+    "label": "Text 3",
+    "transcript": "Wie groß ist Migration weltweit wirklich? Nach Angaben der\nBevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024\nrund 304 Millionen Menschen außerhalb ihres Geburtslandes;\ndas entspricht etwa 3,7 Prozent der Weltbevölkerung. Bemerkens­wert\nist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist —\nim Gegensatz zu dem Eindruck, den manche Debatten vermitteln.\nIn Deutschland wiederum wurden für 2024 laut Statistischem\nBundesamt rund **12,4 Millionen Menschen ohne deutsche\nStaatsangehörigkeit** gezählt; bezieht man den weiter gefassten\n„Migrationshintergrund\" ein, so lag der Anteil bei etwa **30\nProzent**. Zahlen wie diese werden hier nicht als Argument für\noder gegen etwas angeführt, sondern als gemeinsame Grundlage:\nWer die Größenordnung kennt, diskutiert sachlicher.\n(Zahlen paraphrasiert; Quellen siehe Abschnitt „Quellen\".)",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Wie groß ist Migration weltweit wirklich? Nach Angaben der Bevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024 rund 304 Millionen Menschen außerhalb ihres Geburtslandes; das entspricht etwa 3,7 Prozent der Weltbevölkerung. Bemerkens­wert ist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist — im Gegensatz zu dem Eindruck, den manche Debatten vermitteln. In Deutschland wiederum wurden für 2024 laut Statistischem Bundesamt rund **12,4 Millionen Menschen ohne deutsche Staatsangehörigkeit** gezählt; bezieht man den weiter gefassten „Migrationshintergrund\" ein, so lag der Anteil bei etwa **30 Prozent**. Zahlen wie diese werden hier nicht als Argument für oder gegen etwas angeführt, sondern als gemeinsame Grundlage: Wer die Größenordnung kennt, diskutiert sachlicher."
   }
 ]

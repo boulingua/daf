@@ -44,6 +44,7 @@ curriculum:
     - B2.MED.managing-interaction.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit08_umweltpolitik
 ---
 
 {{< callout type="note" >}}

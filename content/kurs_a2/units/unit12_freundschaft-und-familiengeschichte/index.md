@@ -44,6 +44,7 @@ curriculum:
     - A2.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit12_freundschaft-und-familiengeschichte
 ---
 
 {{< callout type="note" >}}

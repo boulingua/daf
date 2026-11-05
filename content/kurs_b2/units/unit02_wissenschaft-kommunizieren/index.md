@@ -44,6 +44,7 @@ curriculum:
     - B2.MED.processing-text.05
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit02_wissenschaft-kommunizieren
 ---
 
 {{< callout type="note" >}}

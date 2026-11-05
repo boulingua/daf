@@ -44,6 +44,7 @@ curriculum:
     - A1.LING.general-linguistic-range.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit11_meine-freizeit
 ---
 
 {{< callout type="note" >}}

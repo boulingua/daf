@@ -1,39 +1,81 @@
 [
   {
+    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Zwei Menschen sagen denselben Satz: „Ich spreche eigentlich\nkein richtiges Deutsch. Der eine sagt ihn kokettierend, als\nUnderstatement einer promovierten Germanistin. Die andere sagt\nihn bitter, nach dem dritten Vorstellungsgespräch, in dem ihr\nAkzent lauter war als ihr Lebenslauf. Derselbe Wortlaut — zwei\nWelten. Wer über Sprache spricht, spricht selten nur über\nGrammatik. Er verhandelt Zugehörigkeit.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+    "source_body_sha256": "64aa7afe0327507ae03897476b3b1eb6823cc8b3820cf3df3e58a8d4bac3b07c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Sprachbiografie · das sprachliche Repertoire · die Zugehörigkeit (zu etw.) · die Zuschreibung · das Deutungsmuster · defizitorientiert (Adj.) · die Ressource (hier) · stigmatisieren / die Stigmatisierung · die Hegemonie (der Standardsprache) · konnotieren / die Konnotation · essentialisieren · die Selbstverortung",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+    "source_body_sha256": "64aa7afe0327507ae03897476b3b1eb6823cc8b3820cf3df3e58a8d4bac3b07c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Sprachbiografie.\ndas sprachliche Repertoire.\ndie Zugehörigkeit (zu etw.).\ndie Zuschreibung.\ndas Deutungsmuster.\ndefizitorientiert (Adj.).\ndie Ressource (hier).\nstigmatisieren / die Stigmatisierung.\ndie Hegemonie (der Standardsprache).\nkonnotieren / die Konnotation.\nessentialisieren.\ndie Selbstverortung."
   },
   {
-    "label": "Text 1",
-    "transcript": "„Sie sprechen aber gut Deutsch! — ein Satz, der als Lob\ngemeint ist und als Grenzziehung ankommt. Denn er verrät die\nErwartung, aus der er stammt: dass das Gegenüber es nicht\nkönnte. Wer gelobt wird für etwas, das bei anderen stillschwei­\ngend vorausgesetzt wird, erfährt in derselben Geste Anerken­\nnung und Ausschluss. Das Kompliment adelt die Leistung und\nmarkiert zugleich die Person als jemanden, von dem die Leistung\nüberrascht.\nSolche Sätze sind selten böse gemeint, und gerade das macht sie\nzäh. Sie transportieren ein Deutungsmuster, das älter ist als\ndie einzelne Sprecherin: die Vorstellung, es gebe ein\n„eigentliches Deutsch und dessen rechtmäßige Erben — und\ndaneben Gäste, die zu Besuch sprechen. Wer diese Karte im Kopf\nträgt, hört Akzente als Herkunftsnachweis und nicht als das,\nwas sie meist sind: die hörbare Spur eines Lebens, das an mehr\nals einem Ort stattgefunden hat.\nMan kann den Satz „Sie sprechen aber gut Deutsch also nicht\nreparieren, indem man das „aber streicht. Zu reparieren wäre\ndie Erwartung dahinter. Und Erwartungen ändern sich nicht durch\nHöflichkeit, sondern durch Gewöhnung: dadurch, dass mehrspra­\nchige Biografien so alltäglich werden, dass niemand mehr auf die\nIdee kommt, sie zu beklatschen.",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte1.ogg"
-  },
-  {
+    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte2.ogg",
     "label": "Text 2",
-    "transcript": "Es gibt Dinge, für die eine Sprache ein Wort hat und die andere\nzwei. Wer zwischen beiden lebt, besitzt für diese Dinge nicht\nein Wort mehr, sondern eine Unterscheidung mehr. Das ist der\nunspektakuläre Kern dessen, was Fachleute Ressource nennen:\nnicht der Charme des Exotischen, sondern ein feineres Raster,\nmit dem sich Welt beschreiben lässt.\nDer Preis dafür ist real und wird selten mitgenannt. Zwischen\nzwei Sprachen zu greifen kostet, im Schnitt, Millisekunden —\nund manchmal ein Wort, das im entscheidenden Moment im falschen\nFach liegt. Wer Mehrsprachigkeit nur feiert, unterschlägt diese\nReibung; wer nur sie sieht, unterschlägt den Gewinn. Redlich\nist, beides zu benennen und zu fragen, welche Bilanz die\nInstitution zieht, die darüber urteilt — die Schule, das Amt,\nder Arbeitsmarkt.\nDenn ob ein feineres Raster als Reichtum oder als Störung gilt,\nentscheidet nicht die Sprecherin. Es entscheidet, wer die Norm\nsetzt. Genau deshalb ist die Debatte über Mehrsprachigkeit nie\nnur linguistisch. Sie ist eine Debatte darüber, wessen\nUnterscheidungen zählen.",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte2.ogg"
+    "transcript": "„Sie sprechen aber gut Deutsch! — ein Satz, der als Lob\ngemeint ist und als Grenzziehung ankommt. Denn er verrät die\nErwartung, aus der er stammt: dass das Gegenüber es nicht\nkönnte. Wer gelobt wird für etwas, das bei anderen stillschwei­\ngend vorausgesetzt wird, erfährt in derselben Geste Anerken­\nnung und Ausschluss. Das Kompliment adelt die Leistung und\nmarkiert zugleich die Person als jemanden, von dem die Leistung\nüberrascht.\nSolche Sätze sind selten böse gemeint, und gerade das macht sie\nzäh. Sie transportieren ein Deutungsmuster, das älter ist als\ndie einzelne Sprecherin: die Vorstellung, es gebe ein\n„eigentliches Deutsch und dessen rechtmäßige Erben — und\ndaneben Gäste, die zu Besuch sprechen. Wer diese Karte im Kopf\nträgt, hört Akzente als Herkunftsnachweis und nicht als das,\nwas sie meist sind: die hörbare Spur eines Lebens, das an mehr\nals einem Ort stattgefunden hat.\nMan kann den Satz „Sie sprechen aber gut Deutsch also nicht\nreparieren, indem man das „aber streicht. Zu reparieren wäre\ndie Erwartung dahinter. Und Erwartungen ändern sich nicht durch\nHöflichkeit, sondern durch Gewöhnung: dadurch, dass mehrspra­\nchige Biografien so alltäglich werden, dass niemand mehr auf die\nIdee kommt, sie zu beklatschen.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+    "source_body_sha256": "64aa7afe0327507ae03897476b3b1eb6823cc8b3820cf3df3e58a8d4bac3b07c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "„Sie sprechen aber gut Deutsch! — ein Satz, der als Lob gemeint ist und als Grenzziehung ankommt. Denn er verrät die Erwartung, aus der er stammt: dass das Gegenüber es nicht könnte. Wer gelobt wird für etwas, das bei anderen stillschwei­ gend vorausgesetzt wird, erfährt in derselben Geste Anerken­ nung und Ausschluss. Das Kompliment adelt die Leistung und markiert zugleich die Person als jemanden, von dem die Leistung überrascht. Solche Sätze sind selten böse gemeint, und gerade das macht sie zäh. Sie transportieren ein Deutungsmuster, das älter ist als die einzelne Sprecherin: die Vorstellung, es gebe ein „eigentliches Deutsch und dessen rechtmäßige Erben — und daneben Gäste, die zu Besuch sprechen. Wer diese Karte im Kopf trägt, hört Akzente als Herkunftsnachweis und nicht als das, was sie meist sind: die hörbare Spur eines Lebens, das an mehr als einem Ort stattgefunden hat. Man kann den Satz „Sie sprechen aber gut Deutsch also nicht reparieren, indem man das „aber streicht. Zu reparieren wäre die Erwartung dahinter. Und Erwartungen ändern sich nicht durch Höflichkeit, sondern durch Gewöhnung: dadurch, dass mehrspra­ chige Biografien so alltäglich werden, dass niemand mehr auf die Idee kommt, sie zu beklatschen."
   },
   {
+    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte3.ogg",
     "label": "Text 3",
-    "transcript": "„Die Sprache ist gleichsam die äußerliche Erscheinung des\nGeistes der Völker; ihre Sprache ist ihr Geist und ihr Geist\nihre Sprache.\n— Wilhelm von Humboldt, *Über die Verschiedenheit des\nmenschlichen Sprachbaues* (postum 1836, gemeinfrei)",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte3.ogg"
+    "transcript": "Es gibt Dinge, für die eine Sprache ein Wort hat und die andere\nzwei. Wer zwischen beiden lebt, besitzt für diese Dinge nicht\nein Wort mehr, sondern eine Unterscheidung mehr. Das ist der\nunspektakuläre Kern dessen, was Fachleute Ressource nennen:\nnicht der Charme des Exotischen, sondern ein feineres Raster,\nmit dem sich Welt beschreiben lässt.\nDer Preis dafür ist real und wird selten mitgenannt. Zwischen\nzwei Sprachen zu greifen kostet, im Schnitt, Millisekunden —\nund manchmal ein Wort, das im entscheidenden Moment im falschen\nFach liegt. Wer Mehrsprachigkeit nur feiert, unterschlägt diese\nReibung; wer nur sie sieht, unterschlägt den Gewinn. Redlich\nist, beides zu benennen und zu fragen, welche Bilanz die\nInstitution zieht, die darüber urteilt — die Schule, das Amt,\nder Arbeitsmarkt.\nDenn ob ein feineres Raster als Reichtum oder als Störung gilt,\nentscheidet nicht die Sprecherin. Es entscheidet, wer die Norm\nsetzt. Genau deshalb ist die Debatte über Mehrsprachigkeit nie\nnur linguistisch. Sie ist eine Debatte darüber, wessen\nUnterscheidungen zählen.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+    "source_body_sha256": "64aa7afe0327507ae03897476b3b1eb6823cc8b3820cf3df3e58a8d4bac3b07c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Es gibt Dinge, für die eine Sprache ein Wort hat und die andere zwei. Wer zwischen beiden lebt, besitzt für diese Dinge nicht ein Wort mehr, sondern eine Unterscheidung mehr. Das ist der unspektakuläre Kern dessen, was Fachleute Ressource nennen: nicht der Charme des Exotischen, sondern ein feineres Raster, mit dem sich Welt beschreiben lässt. Der Preis dafür ist real und wird selten mitgenannt. Zwischen zwei Sprachen zu greifen kostet, im Schnitt, Millisekunden — und manchmal ein Wort, das im entscheidenden Moment im falschen Fach liegt. Wer Mehrsprachigkeit nur feiert, unterschlägt diese Reibung; wer nur sie sieht, unterschlägt den Gewinn. Redlich ist, beides zu benennen und zu fragen, welche Bilanz die Institution zieht, die darüber urteilt — die Schule, das Amt, der Arbeitsmarkt. Denn ob ein feineres Raster als Reichtum oder als Störung gilt, entscheidet nicht die Sprecherin. Es entscheidet, wer die Norm setzt. Genau deshalb ist die Debatte über Mehrsprachigkeit nie nur linguistisch. Sie ist eine Debatte darüber, wessen Unterscheidungen zählen."
   },
   {
+    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte4.ogg",
     "label": "Text 4",
-    "transcript": "*„Mehrsprachigkeit als Ressource — was würde sich an deutschen\nSchulen tatsächlich ändern, wenn dieser Satz nicht Sonntagsrede,\nsondern Praxis wäre?*",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte4.ogg"
-  },
-  {
-    "label": "Text 5",
-    "transcript": "*„Herkunftssprachen sollten an Schulen wie reguläre\nFremdsprachen unterrichtet werden — mit Curriculum, Note und\nPrüfung. Alles andere ist folkloristische Symbolpolitik.*",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/texte5.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Einstieg (zwei Sprecher, ein Satz) · Input A–E (Wortschatz, Hecken, Lesetexte, Kontext) · Üben 1–4 (differenziert) · Anwenden (Schreibplanung + Beginn) · Sicherung & Ausblick auf Prüfungsteil",
-    "file": "/daf/materials/audio/unit05_identitaet-und-sprache/vocab2.ogg",
-    "tts": "Einstieg (zwei Sprecher, ein Satz).\nInput A–E (Wortschatz, Hecken, Lesetexte, Kontext).\nÜben 1–4 (differenziert).\nAnwenden (Schreibplanung + Beginn).\nSicherung & Ausblick auf Prüfungsteil."
+    "transcript": "„Die Sprache ist gleichsam die äußerliche Erscheinung des\nGeistes der Völker; ihre Sprache ist ihr Geist und ihr Geist\nihre Sprache.\n— Wilhelm von Humboldt, *Über die Verschiedenheit des\nmenschlichen Sprachbaues* (postum 1836, gemeinfrei)",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit05_identitaet-und-sprache/index.md",
+    "source_body_sha256": "64aa7afe0327507ae03897476b3b1eb6823cc8b3820cf3df3e58a8d4bac3b07c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "„Die Sprache ist gleichsam die äußerliche Erscheinung des Geistes der Völker; ihre Sprache ist ihr Geist und ihr Geist ihre Sprache. — Wilhelm von Humboldt, *Über die Verschiedenheit des menschlichen Sprachbaues* (postum 1836, gemeinfrei)"
   }
 ]

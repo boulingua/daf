@@ -44,6 +44,7 @@ curriculum:
     - A2.MED.relaying-specific-information.04
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit08_gestern-und-vergangenheit
 ---
 
 {{< callout type="note" >}}

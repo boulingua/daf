@@ -44,6 +44,7 @@ curriculum:
     - B2.INT.informal-discussion.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit09_bildungsdebatten
 ---
 
 {{< callout type="note" >}}

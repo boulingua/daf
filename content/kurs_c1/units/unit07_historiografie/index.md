@@ -44,6 +44,7 @@ curriculum:
     - C1.MED.facilitating-communication-in-delicate-situations-and-disagreements.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit07_historiografie
 ---
 
 {{< callout type="note" >}}

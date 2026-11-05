@@ -44,6 +44,7 @@ curriculum:
     - A2.MED.overall-mediation.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit06_hobbys-und-vereine
 ---
 
 {{< callout type="note" >}}

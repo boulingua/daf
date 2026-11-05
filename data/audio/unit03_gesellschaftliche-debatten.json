@@ -1,36 +1,33 @@
 [
   {
-    "label": "Wortschatz 1",
-    "transcript": "die Generationengerechtigkeit · das Umlageverfahren · der Altenquotient · die Beitragsstruktur · die Schuldenbremse · zulasten (+ Gen.) · etw. abwägen · verlagern · nachhaltig · kurzsichtig",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab1.ogg",
-    "tts": "die Generationengerechtigkeit.\ndas Umlageverfahren.\nder Altenquotient.\ndie Beitragsstruktur.\ndie Schuldenbremse.\nzulasten (+ Gen.).\netw. abwägen.\nverlagern.\nnachhaltig.\nkurzsichtig."
+    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Auf einer Bürgerversammlung fällt der Satz: „Meine Generation\nzahlt die Rechnung, die eine andere hinterlassen hat. Applaus\nvon der einen Seite, Kopfschütteln von der anderen. Gemeint sind\ndrei Rechnungen zugleich — die Rente, das Klima und die\nStaatsschulden. Wer heute jung ist, so das Argument, erbe\nVerpflichtungen, über die er nie abgestimmt habe. Wer heute alt\nist, entgegnet, er habe ein Land aufgebaut, von dem alle lebten.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit03_gesellschaftliche-debatten/index.md",
+    "source_body_sha256": "778f58ec0324c388f78c2ec170967dcf73df8eb57bf898ace8f78d014ae6cda2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Erben wir eine gerechte Zukunft? Eine Abwägung\nKaum eine Debatte wird derzeit so emotional geführt wie die um\nGenerationengerechtigkeit. Einerseits wird argumentiert, die\njunge Generation werde mehrfach belastet: durch steigende\nRentenbeiträge, durch die Folgen des Klimawandels und durch\nStaatsschulden, über die sie nie mitentschieden habe.\nAndererseits verweisen ältere Bürgerinnen und Bürger darauf,\ndass Wohlstand, Infrastruktur und ein stabiles Sozialsystem\nebenfalls vererbt würden — und zwar nicht als Last, sondern als\nGeschenk.\nFür die These, dass Lasten unfair verlagert werden, spricht\neiniges. Weil immer weniger Beitragszahler immer mehr Renten\nfinanzieren, verschiebt sich das Verhältnis deutlich zuungunsten\nder Jüngeren. Auch beim Klima gilt: Emissionen, die heute nicht\nvermieden werden, müssen morgen teuer ausgeglichen werden.\nFolglich, so das Argument, handle die Gegenwart auf Kosten der\nZukunft.\nIm Gegensatz dazu wäre es kurzsichtig, nur die Lasten zu zählen.\nZwar steigen die Verpflichtungen, dennoch profitiert jede\nGeneration von den Investitionen der vorherigen — von Schulen\nbis zu erneuerbaren Energien. Zudem lässt sich fragen, ob die\nZuspitzung „alt gegen jung überhaupt sinnvoll ist: Viele\nÄltere sorgen sich um ihre Enkel, viele Jüngere um ihre Eltern.\nMeiner Ansicht nach führt die Fixierung auf Schuldzuweisungen in\ndie Irre. Entscheidend ist nicht, welche Generation gewinnt,\nsondern ob Lasten transparent verteilt werden. Man könnte etwa\nReformen so gestalten, dass Beiträge, Klimaziele und Schulden\ngemeinsam und langfristig geplant würden. Nicht zuletzt wäre so\nein Ausgleich denkbar, bei dem keine Seite das Gefühl hätte,\nallein die Rechnung zu tragen.",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/dialogue1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Einleitung · Pro-Seite · Contra-Seite · Konzession · Eigene Position · Vorschlag / Schluss",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab2.ogg",
-    "tts": "Einleitung.\nPro-Seite.\nContra-Seite.\nKonzession.\nEigene Position.\nVorschlag / Schluss."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "*„Junge Menschen tragen heute die Hauptlast von Rente, Klima\nund Staatsschulden — die Politik muss sie deshalb bevorzugt\nentlasten.*",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Erfüllung der Aufgabe · Argumentation & Kohärenz · Wortschatz · Grammatik · Textsorte & Register",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab3.ogg",
-    "tts": "Erfüllung der Aufgabe.\nArgumentation & Kohärenz.\nWortschatz.\nGrammatik.\nTextsorte & Register."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit03_gesellschaftliche-debatten/vocab4.ogg",
-    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit03_gesellschaftliche-debatten/index.md",
+    "source_body_sha256": "778f58ec0324c388f78c2ec170967dcf73df8eb57bf898ace8f78d014ae6cda2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Erben wir eine gerechte Zukunft? Eine Abwägung Kaum eine Debatte wird derzeit so emotional geführt wie die um Generationengerechtigkeit. Einerseits wird argumentiert, die junge Generation werde mehrfach belastet: durch steigende Rentenbeiträge, durch die Folgen des Klimawandels und durch Staatsschulden, über die sie nie mitentschieden habe. Andererseits verweisen ältere Bürgerinnen und Bürger darauf, dass Wohlstand, Infrastruktur und ein stabiles Sozialsystem ebenfalls vererbt würden — und zwar nicht als Last, sondern als Geschenk. Für die These, dass Lasten unfair verlagert werden, spricht einiges. Weil immer weniger Beitragszahler immer mehr Renten finanzieren, verschiebt sich das Verhältnis deutlich zuungunsten der Jüngeren. Auch beim Klima gilt: Emissionen, die heute nicht vermieden werden, müssen morgen teuer ausgeglichen werden. Folglich, so das Argument, handle die Gegenwart auf Kosten der Zukunft. Im Gegensatz dazu wäre es kurzsichtig, nur die Lasten zu zählen. Zwar steigen die Verpflichtungen, dennoch profitiert jede Generation von den Investitionen der vorherigen — von Schulen bis zu erneuerbaren Energien. Zudem lässt sich fragen, ob die Zuspitzung „alt gegen jung überhaupt sinnvoll ist: Viele Ältere sorgen sich um ihre Enkel, viele Jüngere um ihre Eltern. Meiner Ansicht nach führt die Fixierung auf Schuldzuweisungen in die Irre. Entscheidend ist nicht, welche Generation gewinnt, sondern ob Lasten transparent verteilt werden. Man könnte etwa Reformen so gestalten, dass Beiträge, Klimaziele und Schulden gemeinsam und langfristig geplant würden. Nicht zuletzt wäre so ein Ausgleich denkbar, bei dem keine Seite das Gefühl hätte, allein die Rechnung zu tragen."
   }
 ]

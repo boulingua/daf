@@ -44,6 +44,7 @@ curriculum:
     - B2.INT.correspondence.09
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit05_kunst-und-kultur
 ---
 
 {{< callout type="note" >}}

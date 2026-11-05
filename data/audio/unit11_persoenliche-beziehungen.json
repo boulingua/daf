@@ -1,25 +1,48 @@
 [
   {
-    "label": "Wortschatz 1",
-    "transcript": "enttäuscht (Adj.) · der Vorwurf, ¨-e · die Aussprache, -n · sich beruhigen (refl.) · die Einsicht, -en · die Versöhnung, -en · das Bedürfnis, -se · die Ich-Botschaft, -en",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab1.ogg",
-    "tts": "enttäuscht (Adj.).\nder Vorwurf, ¨-e.\ndie Aussprache, -n.\nsich beruhigen (refl.).\ndie Einsicht, -en.\ndie Versöhnung, -en.\ndas Bedürfnis, -se.\ndie Ich-Botschaft, -en."
-  },
-  {
+    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/texte1.ogg",
     "label": "Text 1",
+    "transcript": "Stellen Sie sich vor: Sie hatten sich mit einer guten Freundin\nverabredet. Sie haben sich gefreut — aber als Sie ankamen, war\nsie am Handy und wirkte abwesend. Am Abend sind Sie immer noch\nenttäuscht. Schreiben Sie ihr sofort? Warten Sie? Oder sagen Sie\ngar nichts?",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+    "source_body_sha256": "47dd14fdbacdb057f08fde9e985b23c5fb8d21d7d9359a1e3796f2c9745cc95c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Kleine Reibereien gehören zu jeder Freundschaft. Entscheidend ist\nnicht, dass es Konflikte gibt, sondern wie wir sie ansprechen.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+    "source_body_sha256": "47dd14fdbacdb057f08fde9e985b23c5fb8d21d7d9359a1e3796f2c9745cc95c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/texte3.ogg",
+    "label": "Text 3",
     "transcript": "Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee,\neinfach reden. Ich hatte mich darauf gefreut. Als ich in die\nWohnung kam, saß Stefan vor seinem Laptop und spielte. „Einen\nMoment, sagte er. Der Moment dauerte eine halbe Stunde. Wir\nhaben danach noch geredet, aber ich war schon so enttäuscht,\ndass ich nicht mehr richtig zuhören konnte.\nIch weiß, dass Stefan eine stressige Woche hatte. Vielleicht\nhat er den Termin einfach vergessen. Oder er hat ihn bewusst\nklein gehalten, weil er sich ausruhen musste. Trotzdem hat es\nmich verletzt, weil ich mich nicht gesehen gefühlt habe.\nIch möchte ihm keinen Vorwurf machen, den ich später bereue.\nDeshalb schreibe ich nichts, bevor ich mich beruhigt habe.\nMorgen schicke ich ihm eine kurze Nachricht und frage, wann\nwir uns noch einmal treffen könnten — diesmal ohne Laptop. Ich\nglaube, eine ruhige Aussprache wäre besser als ein wütender\nText um Mitternacht.",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Einsicht / Entschuldigung erkennbar · Erklärung sachlich und ehrlich · konkreter Vorschlag (Zeit/Ort) · Konjunktiv II / Ich-Botschaft benutzt · Gesamt",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab2.ogg",
-    "tts": "Einsicht / Entschuldigung erkennbar.\nErklärung sachlich und ehrlich.\nkonkreter Vorschlag (Zeit/Ort).\nKonjunktiv II / Ich-Botschaft benutzt.\nGesamt."
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Einstieg · Input · Üben · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit11_persoenliche-beziehungen/vocab3.ogg",
-    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nReflexion."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+    "source_body_sha256": "47dd14fdbacdb057f08fde9e985b23c5fb8d21d7d9359a1e3796f2c9745cc95c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee, einfach reden. Ich hatte mich darauf gefreut. Als ich in die Wohnung kam, saß Stefan vor seinem Laptop und spielte. „Einen Moment, sagte er. Der Moment dauerte eine halbe Stunde. Wir haben danach noch geredet, aber ich war schon so enttäuscht, dass ich nicht mehr richtig zuhören konnte. Ich weiß, dass Stefan eine stressige Woche hatte. Vielleicht hat er den Termin einfach vergessen. Oder er hat ihn bewusst klein gehalten, weil er sich ausruhen musste. Trotzdem hat es mich verletzt, weil ich mich nicht gesehen gefühlt habe. Ich möchte ihm keinen Vorwurf machen, den ich später bereue. Deshalb schreibe ich nichts, bevor ich mich beruhigt habe. Morgen schicke ich ihm eine kurze Nachricht und frage, wann wir uns noch einmal treffen könnten — diesmal ohne Laptop. Ich glaube, eine ruhige Aussprache wäre besser als ein wütender Text um Mitternacht."
   }
 ]

@@ -1,29 +1,34 @@
 [
   {
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Ana: Schau, Tarek! Äpfel, ein Kilo nur 1 Euro 99.\nTarek: Super, das ist billig. Ich nehme zwei Kilo.\nAna: Und Käse? Ich mag Käse.\nFrau Berger: Der Käse dort kostet 3 Euro 50. Das ist okay.\nTarek: Gut. Zwei Kilo Äpfel und ein Stück Käse. Was macht das\nzusammen?\nAna: Warte, wir fragen an der Kasse.",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
+    "source_body_sha256": "8184f1d543068649b084920e84749be2c495f07b3838bacdf7178ff81aaa3225",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ana: Schau, Tarek! Äpfel, ein Kilo nur 1 Euro 99. Tarek: Super, das ist billig. Ich nehme zwei Kilo. Ana: Und Käse? Ich mag Käse. Frau Berger: Der Käse dort kostet 3 Euro 50. Das ist okay. Tarek: Gut. Zwei Kilo Äpfel und ein Stück Käse. Was macht das zusammen? Ana: Warte, wir fragen an der Kasse."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "der Preis · das Geld · der Euro / der Cent · das Kilo(gramm) · das Gramm · der Liter · das Stück · billig · teuer · das Angebot · die Kasse · bezahlen / zahlen",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab1.ogg",
-    "tts": "der Preis.\ndas Geld.\nder Euro / der Cent.\ndas Kilo(gramm).\ndas Gramm.\nder Liter.\ndas Stück.\nbillig.\nteuer.\ndas Angebot.\ndie Kasse.\nbezahlen / zahlen."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "20 · 50 · 99 · 100 · 250 · 1000",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/vocab2.ogg",
-    "tts": "20.\n50.\n99.\n100.\n250.\n1000."
-  },
-  {
+    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/texte1.ogg",
     "label": "Text 1",
     "transcript": "„Liebe Kundinnen und Kunden! Heute im Angebot: Äpfel aus\nÖsterreich, ein Kilo nur 1 Euro 99. Milch aus Tirol, ein Liter\nfür 1 Euro 29. Käse, 500 Gramm, Sonderpreis 3 Euro 50.\nKasse 2 ist jetzt offen. Vielen Dank für Ihren Einkauf!\"",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/texte1.ogg"
-  },
-  {
-    "label": "Dialog 2",
-    "transcript": "Kunde: Guten Tag. ______ kostet das Brot?\nVerkäufer: Das Brot ______ 2 Euro 20.\nKunde: Gut. Ein Brot, ______.\nVerkäufer: Gern. Das ______ 2 Euro 20.",
-    "file": "/daf/materials/audio/unit06_einkaufen-und-preise/dialogue2.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
+    "source_body_sha256": "8184f1d543068649b084920e84749be2c495f07b3838bacdf7178ff81aaa3225",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "„Liebe Kundinnen und Kunden! Heute im Angebot: Äpfel aus Österreich, ein Kilo nur 1 Euro 99. Milch aus Tirol, ein Liter für 1 Euro 29. Käse, 500 Gramm, Sonderpreis 3 Euro 50. Kasse 2 ist jetzt offen. Vielen Dank für Ihren Einkauf!\""
   }
 ]

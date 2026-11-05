@@ -44,6 +44,7 @@ curriculum:
     - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit08_wetter-und-jahreszeiten
 ---
 
 {{< callout type="note" >}}

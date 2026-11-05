@@ -1,36 +1,81 @@
 [
   {
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Stellen Sie sich vor, Sie stehen in einem Museum vor einem\nGemälde, das Sie zunächst nicht verstehen. Eine Besucherin neben\nIhnen sagt leise: „Kitsch. Ein anderer flüstert: „Ein\nMeisterwerk. Beide sehen dasselbe Bild — und beurteilen es\ngegensätzlich. Über Kunst zu sprechen heißt, den eigenen Eindruck\nin Worte zu fassen und ihn so zu begründen, dass andere ihn\nnachvollziehen können, auch wenn sie ihn nicht teilen.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Kuratorin / der Kurator · die Hängung · das Exponat · die Konzeption · der Bildaufbau / die Komposition · der Vordergrund / Hintergrund · die Farbgebung · ausdrucksstark · die Wandtexte (Pl.) · ebenbürtig · in den Kanon aufnehmen · kritisch anmerken",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Kuratorin / der Kurator.\ndie Hängung.\ndas Exponat.\ndie Konzeption.\nder Bildaufbau / die Komposition.\nder Vordergrund / Hintergrund.\ndie Farbgebung.\nausdrucksstark.\ndie Wandtexte (Pl.).\nebenbürtig.\nin den Kanon aufnehmen.\nkritisch anmerken."
   },
   {
-    "label": "Text 1",
-    "transcript": "Im Vordergrund wird eine Frau dargestellt.\nDie Ausstellung wurde von zwei Kuratorinnen konzipiert.\nDie Werke sind dicht gehängt worden. (Perfekt Passiv)",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte1.ogg"
-  },
-  {
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte2.ogg",
     "label": "Text 2",
+    "transcript": "Im Vordergrund wird eine Frau dargestellt.\nDie Ausstellung wurde von zwei Kuratorinnen konzipiert.\nDie Werke sind dicht gehängt worden. (Perfekt Passiv)",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Im Vordergrund wird eine Frau dargestellt. Die Ausstellung wurde von zwei Kuratorinnen konzipiert. Die Werke sind dicht gehängt worden. (Perfekt Passiv)"
+  },
+  {
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte3.ogg",
+    "label": "Text 3",
+    "transcript": "„Die Werke wurden neu entdeckt. → *„die Wiederentdeckung\nder Werke; „Man hängt die Bilder dicht. → „die dichte\nHängung der Bilder*.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "„Die Werke wurden neu entdeckt. → *„die Wiederentdeckung der Werke; „Man hängt die Bilder dicht. → „die dichte Hängung der Bilder*."
+  },
+  {
+    "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte4.ogg",
+    "label": "Text 4",
     "transcript": "Die folgende Radio-Diskussion liest die Lehrkraft einmal in\nnormalem Tempo vor. Die Lernenden hören zunächst ohne\nmitzulesen.",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/texte2.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Inhalt & Argumentation · Struktur & Konnektoren · Grammatik B2 · Wortschatz · Sprachliche Korrektheit",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab2.ogg",
-    "tts": "Inhalt & Argumentation.\nStruktur & Konnektoren.\nGrammatik B2.\nWortschatz.\nSprachliche Korrektheit."
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "6 · 4–5 · 2–3 · 0–1",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab3.ogg",
-    "tts": "6.\n4–5.\n2–3.\n0–1."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg · Input A–D · Üben 1–4 · Anwenden · Reflexion",
-    "file": "/daf/materials/audio/unit05_kunst-und-kultur/vocab4.ogg",
-    "tts": "Einstieg.\nInput A–D.\nÜben 1–4.\nAnwenden.\nReflexion."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Die folgende Radio-Diskussion liest die Lehrkraft einmal in normalem Tempo vor. Die Lernenden hören zunächst ohne mitzulesen."
   }
 ]

@@ -44,6 +44,7 @@ curriculum:
     - B1.INT.goal-oriented-co-operation.05
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit08_stadt-und-land
 ---
 
 {{< callout type="note" >}}

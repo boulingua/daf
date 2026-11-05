@@ -44,6 +44,7 @@ curriculum:
     - B1.INT.online-conversation-and-discussion.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit09_konsum-und-verbraucherschutz
 ---
 
 {{< callout type="note" >}}

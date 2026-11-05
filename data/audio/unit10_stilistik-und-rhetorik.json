@@ -1,57 +1,96 @@
 [
   {
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Zwei Sätze, dieselbe Information. Erstens: „Die Reform betrifft\nviele Menschen und sollte sorgfältig geprüft werden.\" Zweitens:\n„Sie betrifft die Schwächsten. Sie betrifft die Mitte. Sie betrifft\nuns alle — und wir prüfen sie im Vorbeigehen?\" Der Inhalt ist\nnahezu identisch; die Wirkung ist es nicht. Der zweite Satz zwingt\nzum Zuhören, der erste entlässt uns in die Gleichgültigkeit.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+    "source_body_sha256": "1cecc0062713be04b972c4525597911ef703f44fb9cceed76c7cb71902297dc2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Rhetorik ist die alte Kunst, genau diesen Unterschied zu\nkontrollieren — nicht was gesagt wird, sondern wie es Gehör\nfindet. Wer sie beherrscht, kann überzeugen; wer sie nur erleidet,\nwird überredet. In dieser Einheit zerlegen wir den Mechanismus: Wir\nbenennen die Figuren, prüfen ihre Wirkung an der Form und lernen, die\nGrenze zwischen Präzision und Effekthascherei zu ziehen.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+    "source_body_sha256": "1cecc0062713be04b972c4525597911ef703f44fb9cceed76c7cb71902297dc2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Stilfigur / rhetorische Figur · die Anapher · die Klimax · der Chiasmus · die Antithese · der Parallelismus · die rhetorische Frage · das Trikolon / die Dreierfigur · das Register / die Sprachebene · der Duktus · die Emphase · das Pathos · die Persuasion · die Ambivalenz",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+    "source_body_sha256": "1cecc0062713be04b972c4525597911ef703f44fb9cceed76c7cb71902297dc2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Stilfigur / rhetorische Figur.\ndie Anapher.\ndie Klimax.\nder Chiasmus.\ndie Antithese.\nder Parallelismus.\ndie rhetorische Frage.\ndas Trikolon / die Dreierfigur.\ndas Register / die Sprachebene.\nder Duktus.\ndie Emphase.\ndas Pathos.\ndie Persuasion.\ndie Ambivalenz."
   },
   {
-    "label": "Wortschatz 2",
-    "transcript": "Wirkung zuschreiben · Wirkung ableiten (kausal) · Urteil absichern (Hedging) · Einschränken",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab2.ogg",
-    "tts": "Wirkung zuschreiben.\nWirkung ableiten (kausal).\nUrteil absichern (Hedging).\nEinschränken."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "Wir haben geplant. Wir haben gebaut. Wir haben — im letzten Moment —\ngezögert. Ein Zögern ist kein Fehler; ein Zögern, das zur Gewohnheit\nwird, ist eine Entscheidung. Wer heute nichts wagt, verwaltet\nmorgen nur noch, was andere gewagt haben. Also fragen wir uns nicht,\nob wir handeln können. Wir fragen uns, ob wir es wollen. Und wenn\nwir es wollen: Worauf, um alles in der Welt, warten wir dann noch?",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte1.ogg"
-  },
-  {
-    "label": "Text 2",
-    "transcript": "Ein verbreitetes Missverständnis besteht darin, Stilfiguren für\nbloßen Zierrat zu halten — für ein Ornament, das man dem eigentlichen\nGedanken nachträglich aufsetzt. Die genauere Beobachtung zeigt das\nGegenteil: Die Figur ist selbst schon ein Argument, weil sie die\nWahrnehmung des Lesers lenkt, bevor dieser über den Inhalt urteilt.\nMan betrachte die Anapher. Ihre Wirkung entsteht nicht aus dem\nwiederholten Wort als solchem, sondern aus der Erwartung, die es\naufbaut. Sobald ein Satzanfang zum dritten Mal identisch beginnt,\nrechnet das Ohr mit der Fortsetzung des Musters — und genau diese\nErwartung kann der Redner erfüllen (Bestätigung, Sog) oder brechen\n(Überraschung, Pointe). Die Figur schafft also einen Raum, in dem\nZustimmung und Widerspruch überhaupt erst spürbar werden.\nAnalog verhält es sich mit dem Chiasmus. Die Überkreuzstellung\na–b–b–a zwingt zwei Begriffe in ein Spiegelverhältnis; sie\nsuggeriert eine Symmetrie, die im Sachverhalt gar nicht vorliegen\nmuss. Eben darin liegt ihre Ambivalenz: Dieselbe Form, die einen\nGedanken elegant verdichtet, kann eine scheinbare Ausgewogenheit\nvortäuschen, wo in Wahrheit eine einseitige Behauptung steht. Wer\nStilmittel analysiert, prüft daher stets beides — den ästhetischen\nGewinn und das persuasive Risiko.\nDie Konsequenz für den eigenen Sprachgebrauch ist weniger ein\nVerbot als eine Verpflichtung zur Bewusstheit: Nicht ob man\nFiguren verwendet, ist die Frage — man verwendet sie ohnehin\nunwillkürlich —, sondern ob man weiß, was sie tun. Erst dieses\nWissen unterscheidet die überzeugende Rede von der manipulativen.",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte2.ogg"
-  },
-  {
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte3.ogg",
     "label": "Text 3",
-    "transcript": "„Wenn du etwas wissen willst und es durch Meditation nicht finden\nkannst, so rate ich dir, mein lieber, sinnreicher Freund, mit dem\nnächsten Bekannten, der dir aufstößt, darüber zu sprechen.\"\n— Heinrich von Kleist, *Über die allmähliche Verfertigung der\nGedanken beim Reden* (entst. um 1805, ersch. 1878), Public Domain.",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte3.ogg"
+    "transcript": "Wir haben geplant. Wir haben gebaut. Wir haben — im letzten Moment —\ngezögert. Ein Zögern ist kein Fehler; ein Zögern, das zur Gewohnheit\nwird, ist eine Entscheidung. Wer heute nichts wagt, verwaltet\nmorgen nur noch, was andere gewagt haben. Also fragen wir uns nicht,\nob wir handeln können. Wir fragen uns, ob wir es wollen. Und wenn\nwir es wollen: Worauf, um alles in der Welt, warten wir dann noch?",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+    "source_body_sha256": "1cecc0062713be04b972c4525597911ef703f44fb9cceed76c7cb71902297dc2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Wir haben geplant. Wir haben gebaut. Wir haben — im letzten Moment — gezögert. Ein Zögern ist kein Fehler; ein Zögern, das zur Gewohnheit wird, ist eine Entscheidung. Wer heute nichts wagt, verwaltet morgen nur noch, was andere gewagt haben. Also fragen wir uns nicht, ob wir handeln können. Wir fragen uns, ob wir es wollen. Und wenn wir es wollen: Worauf, um alles in der Welt, warten wir dann noch?"
   },
   {
-    "label": "Wortschatz 3",
-    "transcript": "1 Anapher · 2 Klimax · 3 Chiasmus · 4 rhetorische Frage",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab3.ogg",
-    "tts": "1 Anapher.\n2 Klimax.\n3 Chiasmus.\n4 rhetorische Frage."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Figurenrepertoire · Form-Wirkungs-Bezug · Register & Duktus · Metareflexion (Coda) · Sprachliche Angemessenheit",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab4.ogg",
-    "tts": "Figurenrepertoire.\nForm-Wirkungs-Bezug.\nRegister & Duktus.\nMetareflexion (Coda).\nSprachliche Angemessenheit."
-  },
-  {
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte4.ogg",
     "label": "Text 4",
-    "transcript": "Halten Sie einen strukturierten Kurzvortrag zum Thema *„Stil im\nBeruf — wann ist sprachliche Ausschmückung eine Hilfe, wann ein\nHindernis?\"* Gliedern Sie in Einleitung, zwei bis drei\nArgumentationsschritte und Fazit. Setzen Sie mindestens zwei\nrhetorische Figuren gezielt ein.",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte4.ogg"
+    "transcript": "Ein verbreitetes Missverständnis besteht darin, Stilfiguren für\nbloßen Zierrat zu halten — für ein Ornament, das man dem eigentlichen\nGedanken nachträglich aufsetzt. Die genauere Beobachtung zeigt das\nGegenteil: Die Figur ist selbst schon ein Argument, weil sie die\nWahrnehmung des Lesers lenkt, bevor dieser über den Inhalt urteilt.\nMan betrachte die Anapher. Ihre Wirkung entsteht nicht aus dem\nwiederholten Wort als solchem, sondern aus der Erwartung, die es\naufbaut. Sobald ein Satzanfang zum dritten Mal identisch beginnt,\nrechnet das Ohr mit der Fortsetzung des Musters — und genau diese\nErwartung kann der Redner erfüllen (Bestätigung, Sog) oder brechen\n(Überraschung, Pointe). Die Figur schafft also einen Raum, in dem\nZustimmung und Widerspruch überhaupt erst spürbar werden.\nAnalog verhält es sich mit dem Chiasmus. Die Überkreuzstellung\na–b–b–a zwingt zwei Begriffe in ein Spiegelverhältnis; sie\nsuggeriert eine Symmetrie, die im Sachverhalt gar nicht vorliegen\nmuss. Eben darin liegt ihre Ambivalenz: Dieselbe Form, die einen\nGedanken elegant verdichtet, kann eine scheinbare Ausgewogenheit\nvortäuschen, wo in Wahrheit eine einseitige Behauptung steht. Wer\nStilmittel analysiert, prüft daher stets beides — den ästhetischen\nGewinn und das persuasive Risiko.\nDie Konsequenz für den eigenen Sprachgebrauch ist weniger ein\nVerbot als eine Verpflichtung zur Bewusstheit: Nicht ob man\nFiguren verwendet, ist die Frage — man verwendet sie ohnehin\nunwillkürlich —, sondern ob man weiß, was sie tun. Erst dieses\nWissen unterscheidet die überzeugende Rede von der manipulativen.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+    "source_body_sha256": "1cecc0062713be04b972c4525597911ef703f44fb9cceed76c7cb71902297dc2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ein verbreitetes Missverständnis besteht darin, Stilfiguren für bloßen Zierrat zu halten — für ein Ornament, das man dem eigentlichen Gedanken nachträglich aufsetzt. Die genauere Beobachtung zeigt das Gegenteil: Die Figur ist selbst schon ein Argument, weil sie die Wahrnehmung des Lesers lenkt, bevor dieser über den Inhalt urteilt. Man betrachte die Anapher. Ihre Wirkung entsteht nicht aus dem wiederholten Wort als solchem, sondern aus der Erwartung, die es aufbaut. Sobald ein Satzanfang zum dritten Mal identisch beginnt, rechnet das Ohr mit der Fortsetzung des Musters — und genau diese Erwartung kann der Redner erfüllen (Bestätigung, Sog) oder brechen (Überraschung, Pointe). Die Figur schafft also einen Raum, in dem Zustimmung und Widerspruch überhaupt erst spürbar werden. Analog verhält es sich mit dem Chiasmus. Die Überkreuzstellung a–b–b–a zwingt zwei Begriffe in ein Spiegelverhältnis; sie suggeriert eine Symmetrie, die im Sachverhalt gar nicht vorliegen muss. Eben darin liegt ihre Ambivalenz: Dieselbe Form, die einen Gedanken elegant verdichtet, kann eine scheinbare Ausgewogenheit vortäuschen, wo in Wahrheit eine einseitige Behauptung steht. Wer Stilmittel analysiert, prüft daher stets beides — den ästhetischen Gewinn und das persuasive Risiko. Die Konsequenz für den eigenen Sprachgebrauch ist weniger ein Verbot als eine Verpflichtung zur Bewusstheit: Nicht ob man Figuren verwendet, ist die Frage — man verwendet sie ohnehin unwillkürlich —, sondern ob man weiß, was sie tun. Erst dieses Wissen unterscheidet die überzeugende Rede von der manipulativen."
   },
   {
+    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte5.ogg",
     "label": "Text 5",
-    "transcript": "Nehmen Sie Stellung zu der These: *„Eine Pressemitteilung sollte\nohne rhetorische Figuren auskommen — alles andere ist\nManipulation.\"* Eine Person vertritt die These, die andere\nwiderspricht; danach folgt eine freie Replikrunde. Gehen Sie auf\nmindestens ein Argument des Gegenübers ein und räumen Sie es\nkonzessiv ein, bevor Sie es entkräften.",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/texte5.ogg"
-  },
-  {
-    "label": "Wortschatz 5",
-    "transcript": "Aufgabenerfüllung & Gliederung (Teil 1) · Funktionaler Figureneinsatz (Teil 1) · Interaktion & konzessives Eingehen (Teil 2) · Argumentative Tiefe (Teil 2) · Aussprache, Register & Flüssigkeit",
-    "file": "/daf/materials/audio/unit10_stilistik-und-rhetorik/vocab5.ogg",
-    "tts": "Aufgabenerfüllung & Gliederung (Teil 1).\nFunktionaler Figureneinsatz (Teil 1).\nInteraktion & konzessives Eingehen (Teil 2).\nArgumentative Tiefe (Teil 2).\nAussprache, Register & Flüssigkeit."
+    "transcript": "„Wenn du etwas wissen willst und es durch Meditation nicht finden\nkannst, so rate ich dir, mein lieber, sinnreicher Freund, mit dem\nnächsten Bekannten, der dir aufstößt, darüber zu sprechen.\"\n— Heinrich von Kleist, *Über die allmähliche Verfertigung der\nGedanken beim Reden* (entst. um 1805, ersch. 1878), Public Domain.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik/index.md",
+    "source_body_sha256": "1cecc0062713be04b972c4525597911ef703f44fb9cceed76c7cb71902297dc2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "„Wenn du etwas wissen willst und es durch Meditation nicht finden kannst, so rate ich dir, mein lieber, sinnreicher Freund, mit dem nächsten Bekannten, der dir aufstößt, darüber zu sprechen.\" — Heinrich von Kleist, *Über die allmähliche Verfertigung der Gedanken beim Reden* (entst. um 1805, ersch. 1878), Public Domain."
   }
 ]

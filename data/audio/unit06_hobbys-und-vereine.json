@@ -1,36 +1,34 @@
 [
   {
+    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Lea: Was machst du eigentlich am Wochenende?\nOmar: Am Samstag gehe ich immer zum Fotoclub. Wir treffen\nuns jede Woche und machen zusammen Fotos.\nLea: Oh, interessant! Seit wann bist du im Club?\nOmar: Seit drei Monaten. Ich finde es toll, weil ich viele\nnette Leute kennenlerne.\nLea: Und was kostet das?\nOmar: Nur dreißig Euro pro Jahr. Komm doch mal mit!",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
+    "source_body_sha256": "6a1baea0ba1b7a6f61f30956eea3ab2ff4745d1d6c6ef1d1a8f322e1aaa88907",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Lea: Was machst du eigentlich am Wochenende? Omar: Am Samstag gehe ich immer zum Fotoclub. Wir treffen uns jede Woche und machen zusammen Fotos. Lea: Oh, interessant! Seit wann bist du im Club? Omar: Seit drei Monaten. Ich finde es toll, weil ich viele nette Leute kennenlerne. Lea: Und was kostet das? Omar: Nur dreißig Euro pro Jahr. Komm doch mal mit!"
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "der Verein, -e · die Mitgliedschaft, -en · das Mitglied, -er · der Beitrag, \"-e · das Hobby, -s · die Freizeit (nur Singular) · trainieren · beitreten (+ Dativ) · sich treffen · gefallen (+ Dativ) · jeden Mittwoch · einmal pro Woche",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab1.ogg",
-    "tts": "der Verein, -e.\ndie Mitgliedschaft, -en.\ndas Mitglied, -er.\nder Beitrag, \"-e.\ndas Hobby, -s.\ndie Freizeit (nur Singular).\ntrainieren.\nbeitreten (+ Dativ).\nsich treffen.\ngefallen (+ Dativ).\njeden Mittwoch.\neinmal pro Woche."
-  },
-  {
+    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue2.ogg",
     "label": "Dialog 2",
     "transcript": "Die Lehrkraft liest den Text zweimal langsam vor.\nModeratorin: Heute im Bezirksradio Graz: der Fotoclub\nGraz-Mitte. Unser Gast ist Omar Hafez. Omar, wie hast du den\nClub gefunden?\nOmar: Ein Freund hat mir davon erzählt. Wir treffen uns\njeden Mittwoch um 19 Uhr. Wir machen Fotos und besprechen sie\nzusammen. Ich bin seit drei Monaten Mitglied.\nModeratorin: Und wie viel kostet die Mitgliedschaft?\nOmar: Dreißig Euro pro Jahr. Für Studierende sind es nur\nfünfzehn Euro. Das ist nicht teuer.\nModeratorin: Was war bisher dein Lieblingsprojekt?\nOmar: Ein Spaziergang durch Graz-Lend. Ich habe alte Türen\nfotografiert. Das hat mir sehr gefallen, weil die Türen so\nschön alt sind.\nModeratorin: Vielen Dank, Omar, und weiterhin viel Spaß!",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/dialogue2.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Inhalt · seit + Dativ · weil-Satz · Aussprache / Flüssigkeit",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab2.ogg",
-    "tts": "Inhalt.\nseit + Dativ.\nweil-Satz.\nAussprache / Flüssigkeit."
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Alle fünf Stichwörter behandelt · seit + Dativ korrekt (Dauer) · Grund mit weil korrekt · Rückfragen sinnvoll beantwortet · Aussprache / Verständlichkeit · Gesamt",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab3.ogg",
-    "tts": "Alle fünf Stichwörter behandelt.\nseit + Dativ korrekt (Dauer).\nGrund mit weil korrekt.\nRückfragen sinnvoll beantwortet.\nAussprache / Verständlichkeit.\nGesamt."
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg · Input · Üben · Anwenden · Prüfung/Reflexion",
-    "file": "/daf/materials/audio/unit06_hobbys-und-vereine/vocab4.ogg",
-    "tts": "Einstieg.\nInput.\nÜben.\nAnwenden.\nPrüfung/Reflexion."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
+    "source_body_sha256": "6a1baea0ba1b7a6f61f30956eea3ab2ff4745d1d6c6ef1d1a8f322e1aaa88907",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Die Lehrkraft liest den Text zweimal langsam vor. Moderatorin: Heute im Bezirksradio Graz: der Fotoclub Graz-Mitte. Unser Gast ist Omar Hafez. Omar, wie hast du den Club gefunden? Omar: Ein Freund hat mir davon erzählt. Wir treffen uns jeden Mittwoch um 19 Uhr. Wir machen Fotos und besprechen sie zusammen. Ich bin seit drei Monaten Mitglied. Moderatorin: Und wie viel kostet die Mitgliedschaft? Omar: Dreißig Euro pro Jahr. Für Studierende sind es nur fünfzehn Euro. Das ist nicht teuer. Moderatorin: Was war bisher dein Lieblingsprojekt? Omar: Ein Spaziergang durch Graz-Lend. Ich habe alte Türen fotografiert. Das hat mir sehr gefallen, weil die Türen so schön alt sind. Moderatorin: Vielen Dank, Omar, und weiterhin viel Spaß!"
   }
 ]

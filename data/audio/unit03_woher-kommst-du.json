@@ -1,41 +1,49 @@
 [
   {
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Erster Kurstag im Sprachkurs. Drei Personen sitzen an einem Tisch.\nFrau Sommer ist die Lehrerin. Sie fragt Nadia und Pavel.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit03_woher-kommst-du/index.md",
+    "source_body_sha256": "1dd6c900de585187ca9e6f61e10287d8370bf4d5c30302d06f70306384071397",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Frau Sommer: Guten Morgen! Ich heiße Frau Sommer. Und Sie?\nNadia: Hallo. Ich heiße Nadia. Ich komme aus Marokko.\nFrau Sommer: Schön. Und was sprechen Sie, Nadia?\nNadia: Ich spreche Arabisch und Französisch. Jetzt lerne ich Deutsch.\nFrau Sommer: Sehr gut! Und Sie?\nPavel: Ich bin Pavel. Ich komme aus Tschechien, aus Prag.\nIch spreche Tschechisch und ein bisschen Deutsch.",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit03_woher-kommst-du/index.md",
+    "source_body_sha256": "1dd6c900de585187ca9e6f61e10287d8370bf4d5c30302d06f70306384071397",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Frau Sommer: Guten Morgen! Ich heiße Frau Sommer. Und Sie? Nadia: Hallo. Ich heiße Nadia. Ich komme aus Marokko. Frau Sommer: Schön. Und was sprechen Sie, Nadia? Nadia: Ich spreche Arabisch und Französisch. Jetzt lerne ich Deutsch. Frau Sommer: Sehr gut! Und Sie? Pavel: Ich bin Pavel. Ich komme aus Tschechien, aus Prag. Ich spreche Tschechisch und ein bisschen Deutsch."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "das Land · die Stadt · die Sprache · Woher …? · Ich komme aus … · Ich wohne in … · Ich spreche … · ein bisschen · die Muttersprache · Deutsch lernen",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab1.ogg",
-    "tts": "das Land.\ndie Stadt.\ndie Sprache.\nWoher …?.\nIch komme aus ….\nIch wohne in ….\nIch spreche ….\nein bisschen.\ndie Muttersprache.\nDeutsch lernen."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Deutschland · Österreich · die Schweiz · Frankreich · Italien · Spanien · Polen · die Türkei · Marokko · Tschechien",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab2.ogg",
-    "tts": "Deutschland.\nÖsterreich.\ndie Schweiz.\nFrankreich.\nItalien.\nSpanien.\nPolen.\ndie Türkei.\nMarokko.\nTschechien."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "Das ist Nadia. Sie kommt aus Marokko, aus der Stadt Rabat.\nIhre Muttersprache ist Arabisch. Nadia spricht auch Französisch.\nJetzt wohnt sie in Berlin und lernt Deutsch. Ihr Freund Pavel\nkommt aus Tschechien. Er spricht Tschechisch und ein bisschen\nDeutsch. Nadia und Pavel lernen zusammen. Sie sprechen im Kurs\nnur Deutsch.",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "1. Prag · 2. Rabat · 3. Zürich · 4. Wien",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab3.ogg",
-    "tts": "1. Prag.\n2. Rabat.\n3. Zürich.\n4. Wien."
-  },
-  {
+    "file": "/daf/materials/audio/unit03_woher-kommst-du/texte2.ogg",
     "label": "Text 2",
-    "transcript": "— Hallo! Woher ___ du?\n— Ich ___ aus Spanien. Und du?\n— Ich komme aus Polen. Was ___ du?\n— Ich spreche Spanisch und Englisch.",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/texte2.ogg"
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Einstieg (Dialog lesen, Fragen) · Input (Vokabeln, Grammatik, Lesetext, Kultur) · Üben (Aufgaben 1–4) · Anwenden (Partnerinterview) · Prüfung + Reflexion",
-    "file": "/daf/materials/audio/unit03_woher-kommst-du/vocab4.ogg",
-    "tts": "Einstieg (Dialog lesen, Fragen).\nInput (Vokabeln, Grammatik, Lesetext, Kultur).\nÜben (Aufgaben 1–4).\nAnwenden (Partnerinterview).\nPrüfung + Reflexion."
+    "transcript": "Das ist Nadia. Sie kommt aus Marokko, aus der Stadt Rabat.\nIhre Muttersprache ist Arabisch. Nadia spricht auch Französisch.\nJetzt wohnt sie in Berlin und lernt Deutsch. Ihr Freund Pavel\nkommt aus Tschechien. Er spricht Tschechisch und ein bisschen\nDeutsch. Nadia und Pavel lernen zusammen. Sie sprechen im Kurs\nnur Deutsch.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit03_woher-kommst-du/index.md",
+    "source_body_sha256": "1dd6c900de585187ca9e6f61e10287d8370bf4d5c30302d06f70306384071397",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Das ist Nadia. Sie kommt aus Marokko, aus der Stadt Rabat. Ihre Muttersprache ist Arabisch. Nadia spricht auch Französisch. Jetzt wohnt sie in Berlin und lernt Deutsch. Ihr Freund Pavel kommt aus Tschechien. Er spricht Tschechisch und ein bisschen Deutsch. Nadia und Pavel lernen zusammen. Sie sprechen im Kurs nur Deutsch."
   }
 ]

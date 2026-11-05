@@ -44,6 +44,7 @@ curriculum:
     - B2.INT.formal-discussion.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit11_oekonomie-fuer-laien
 ---
 
 {{< callout type="note" >}}

@@ -44,6 +44,7 @@ curriculum:
     - B2.LING.orthographic-control.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit07_gesundheitspolitik
 ---
 
 {{< callout type="note" >}}

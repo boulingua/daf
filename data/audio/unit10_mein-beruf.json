@@ -1,34 +1,34 @@
 [
   {
+    "file": "/daf/materials/audio/unit10_mein-beruf/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Frau Kurz: Guten Morgen! Ich bin Deutschlehrerin. Ich\narbeite hier an der Volkshochschule. Und Sie?\nHerr Keks: Ich bin Bäcker. Ich arbeite in einer Bäckerei\nin Wien.\nAna: Ich bin noch Studentin. Ich studiere Musik. Ich mache\nauch ein Praktikum.\nLuka: Ich arbeite als Programmierer. Ich arbeite bei einer\nFirma in der Stadt.",
-    "file": "/daf/materials/audio/unit10_mein-beruf/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit10_mein-beruf/index.md",
+    "source_body_sha256": "1e90c5daac7116d5680828393c147be5a97d93eb37782f42632b658a8cf523a5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Frau Kurz: Guten Morgen! Ich bin Deutschlehrerin. Ich arbeite hier an der Volkshochschule. Und Sie? Herr Keks: Ich bin Bäcker. Ich arbeite in einer Bäckerei in Wien. Ana: Ich bin noch Studentin. Ich studiere Musik. Ich mache auch ein Praktikum. Luka: Ich arbeite als Programmierer. Ich arbeite bei einer Firma in der Stadt."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "der Beruf · die Arbeit · arbeiten · der Lehrer / die Lehrerin · der Arzt / die Ärztin · der Bäcker / die Bäckerin · der Student / die Studentin · der Programmierer / die Programmiererin · der Koch / die Köchin · der Verkäufer / die Verkäuferin · der Kellner / die Kellnerin · die Firma · das Büro · das Praktikum",
-    "file": "/daf/materials/audio/unit10_mein-beruf/vocab1.ogg",
-    "tts": "der Beruf.\ndie Arbeit.\narbeiten.\nder Lehrer / die Lehrerin.\nder Arzt / die Ärztin.\nder Bäcker / die Bäckerin.\nder Student / die Studentin.\nder Programmierer / die Programmiererin.\nder Koch / die Köchin.\nder Verkäufer / die Verkäuferin.\nder Kellner / die Kellnerin.\ndie Firma.\ndas Büro.\ndas Praktikum."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Beruf nennen · Beruf mit „als · Arbeitsort · Tätigkeit · Studium",
-    "file": "/daf/materials/audio/unit10_mein-beruf/vocab2.ogg",
-    "tts": "Beruf nennen.\nBeruf mit „als.\nArbeitsort.\nTätigkeit.\nStudium."
-  },
-  {
+    "file": "/daf/materials/audio/unit10_mein-beruf/texte1.ogg",
     "label": "Text 1",
     "transcript": "Ich heiße Frau Kurz. Ich bin Deutschlehrerin von Beruf. Ich\narbeite an der Volkshochschule in Wien. Ich unterrichte Deutsch\nauf A1 und A2. Meine Arbeit macht mir Freude. Am Wochenende\narbeite ich nicht.",
-    "file": "/daf/materials/audio/unit10_mein-beruf/texte1.ogg"
-  },
-  {
-    "label": "Text 2",
-    "transcript": "A: Was bist du von Beruf?\nB: Ich bin __________ . Ich arbeite __________ .\nA: Und wo arbeitest du?\nB: Ich arbeite __________ .",
-    "file": "/daf/materials/audio/unit10_mein-beruf/texte2.ogg"
-  },
-  {
-    "label": "Text 3",
-    "transcript": "Hallo Clara,\nich habe eine neue Stelle! Ich arbeite jetzt als Programmiererin\nin Wien. Mein Büro ist in der Stadtmitte. Wollen wir uns am\nSamstag treffen?\nViele Grüße\nLuka",
-    "file": "/daf/materials/audio/unit10_mein-beruf/texte3.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit10_mein-beruf/index.md",
+    "source_body_sha256": "1e90c5daac7116d5680828393c147be5a97d93eb37782f42632b658a8cf523a5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ich heiße Frau Kurz. Ich bin Deutschlehrerin von Beruf. Ich arbeite an der Volkshochschule in Wien. Ich unterrichte Deutsch auf A1 und A2. Meine Arbeit macht mir Freude. Am Wochenende arbeite ich nicht."
   }
 ]

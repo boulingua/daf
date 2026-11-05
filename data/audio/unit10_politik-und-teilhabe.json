@@ -1,14 +1,33 @@
 [
   {
-    "label": "Wortschatz 1",
-    "transcript": "die Wahl (Pl. die Wahlen) · die Wahlbeteiligung · wahlberechtigt (Adj.) · die Bürgerinitiative · das Volksbegehren · die Teilhabe · die Abstimmung · der Standpunkt · etwas begründen",
-    "file": "/daf/materials/audio/unit10_politik-und-teilhabe/vocab1.ogg",
-    "tts": "die Wahl (Pl. die Wahlen).\ndie Wahlbeteiligung.\nwahlberechtigt (Adj.).\ndie Bürgerinitiative.\ndas Volksbegehren.\ndie Teilhabe.\ndie Abstimmung.\nder Standpunkt.\netwas begründen."
+    "file": "/daf/materials/audio/unit10_politik-und-teilhabe/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Noa hat während ihres Erasmus-Semesters in Wien eine Bürgerinitiative kennengelernt: „Grünere Innenstadt — mehr Bäume auf der Mariahilfer Straße\". Am Anfang dachte sie: „Was bringt das schon? Ich bin doch nur eine Person.\" Doch als sie zum ersten Treffen ging, saßen dort dreißig Nachbarinnen und Nachbarn. Jeder brachte eine kleine Idee mit. Nach drei Monaten pflanzte die Stadt tatsächlich die ersten Bäume. Heute sagt Noa: „Ich habe verstanden, dass Teilhabe klein anfängt — mit einer Unterschrift, einem Gespräch, einer Stimme bei der Wahl.\"",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
+    "source_body_sha256": "407b645053d5ed03f9efb9d3f2066194d4b7860e0ba6bff876bf6b175baaee6b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Wortschatz 2",
-    "transcript": "Aufbau / Struktur (klare Gliederung, roter Faden) · Inhalt (Beispiele, eigene Position, Bezug zum Heimatland) · Begründen (Nebensätze mit weil / dass / obwohl) · Wortschatz & Grammatik (inkl. würde / könnte) · Gesamt",
-    "file": "/daf/materials/audio/unit10_politik-und-teilhabe/vocab2.ogg",
-    "tts": "Aufbau / Struktur (klare Gliederung, roter Faden).\nInhalt (Beispiele, eigene Position, Bezug zum Heimatland).\nBegründen (Nebensätze mit weil / dass / obwohl).\nWortschatz & Grammatik (inkl. würde / könnte).\nGesamt."
+    "file": "/daf/materials/audio/unit10_politik-und-teilhabe/vocab1.ogg",
+    "label": "Wortschatz 1",
+    "transcript": "die Wahl (Pl. die Wahlen) · die Wahlbeteiligung · wahlberechtigt (Adj.) · die Bürgerinitiative · das Volksbegehren · die Teilhabe · die Abstimmung · der Standpunkt · etwas begründen",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
+    "source_body_sha256": "407b645053d5ed03f9efb9d3f2066194d4b7860e0ba6bff876bf6b175baaee6b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "die Wahl (Pl. die Wahlen).\ndie Wahlbeteiligung.\nwahlberechtigt (Adj.).\ndie Bürgerinitiative.\ndas Volksbegehren.\ndie Teilhabe.\ndie Abstimmung.\nder Standpunkt.\netwas begründen."
   }
 ]

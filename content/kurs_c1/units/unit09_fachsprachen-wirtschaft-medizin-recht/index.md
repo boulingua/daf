@@ -44,6 +44,7 @@ curriculum:
     - C1.INT.online-conversation-and-discussion.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit09_fachsprachen-wirtschaft-medizin-recht
 ---
 
 {{< callout type="note" >}}

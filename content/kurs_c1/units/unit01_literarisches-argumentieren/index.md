@@ -44,6 +44,7 @@ curriculum:
     - C1.MED.processing-text.08
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit01_literarisches-argumentieren
 ---
 
 {{< callout type="note" >}}

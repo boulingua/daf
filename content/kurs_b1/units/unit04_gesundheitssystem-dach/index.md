@@ -45,6 +45,7 @@ curriculum:
     - B1.INT.interviewing-and-being-interviewed.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+audio_manifest: unit04_gesundheitssystem-dach
 ---
 
 {{< callout type="note" >}}
