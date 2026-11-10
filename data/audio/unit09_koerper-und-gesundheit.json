@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
-    "source_body_sha256": "2470c11b3db18a728e9edc75915fb3d346affd30012a2f9b9bf76fb34b1e416f",
+    "source_body_sha256": "d4afff45921bb4584676b6a9792640ec7ba3ea9f00ac9cdf1e6fcd4dcf5259a7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nina: „Guten Morgen. Oh, mein Kopf tut weh. Oma Rosa: „Du bist blass, Nina. Hast du Fieber? Nina: „Ich glaube ja. Mein Hals tut auch weh. Tom: „Trink einen Tee. Und geh heute zum Arzt. Nina: „Ja. Ich rufe die Praxis an."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit09_koerper-und-gesundheit/index.md",
-    "source_body_sha256": "2470c11b3db18a728e9edc75915fb3d346affd30012a2f9b9bf76fb34b1e416f",
+    "source_body_sha256": "d4afff45921bb4584676b6a9792640ec7ba3ea9f00ac9cdf1e6fcd4dcf5259a7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nina ist in der Praxis. Die Ärztin heißt Dr. Bauer. Dr. Bauer: „Guten Tag, Frau Klein. Was fehlt Ihnen? Nina: „Guten Tag. Ich habe Kopfschmerzen und mein Hals tut weh. Dr. Bauer: „Seit wann? Nina: „Seit gestern. Dr. Bauer: „Machen Sie bitte den Mund auf. — Sie haben eine Erkältung. Trinken Sie viel Tee und nehmen Sie diese Tablette zweimal am Tag. Nina: „Danke, Frau Doktor."

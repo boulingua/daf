@@ -10,25 +10,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
-    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "source_body_sha256": "f77b415603541d052a57bde12abd013add8db31939a22e38287cd4af4af08c28",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
-  },
-  {
-    "file": "/daf/materials/audio/unit06_migrationsdiskurs/dialogue1.ogg",
-    "label": "Dialog 1",
-    "transcript": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern\nihre Genauigkeit.* Wer präzise benennt, argumentiert fairer.",
-    "source": "tts",
-    "voice": "de_DE-mls-medium",
-    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
-    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
-    "speaker_id": 0,
-    "synthesis_backend": "piper-python/1thread",
-    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
-    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
-    "extraction_policy": "learner-input-v3",
-    "withheld_foreign_sections": [],
-    "tts": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern ihre Genauigkeit.* Wer präzise benennt, argumentiert fairer."
   },
   {
     "file": "/daf/materials/audio/unit06_migrationsdiskurs/vocab1.ogg",
@@ -41,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
-    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "source_body_sha256": "f77b415603541d052a57bde12abd013add8db31939a22e38287cd4af4af08c28",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Migration.\ndie Zuwanderung.\ndie Auswanderung.\ndie Flucht.\ndie Zugehörigkeit.\ndie Integration.\ndie Teilhabe.\nder/die Geflüchtete.\nder Migrationshintergrund.\ndie Pauschalisierung."
@@ -57,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
-    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "source_body_sha256": "f77b415603541d052a57bde12abd013add8db31939a22e38287cd4af4af08c28",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Wenn mich jemand fragt, wo ich herkomme, antworte ich: *aus Sarajevo, aus Berlin, aus dem Raum zwischen beiden*. Drei Orte, eine Person. Für meine Generation scheint das selbstverständlich, und dennoch bleibt die öffentliche Debatte oft zweiwertig: drin oder draußen, integriert oder nicht, einheimisch oder zugewandert. Diese Zweiwertigkeit ist bequem, denn sie verlangt keine Nuance. Sie übersieht jedoch, dass Zugehörigkeit keine Ja-Nein-Frage ist, sondern eine lange Verhandlung — am Esstisch, im Büro, beim Arzt, vor dem Amt. Wer sich dabei nicht verlieren will, braucht zweierlei: eigene Sprachkompetenz und ein Gegenüber, das zuhört. Man könnte einwenden, Zahlen ordneten die Sache: So viele kommen, so viele gehen. Zahlen sind wichtig, sie schützen vor Gerüchten. Doch eine Zahl allein sagt noch nicht, ob jemand dazugehört. Zugehörigkeit wird nicht gemessen, sondern erlebt — im Gespräch, in der Arbeit, in der Nachbarschaft. Folglich sollte, wer über Migration spricht, zwei Sprachen beherrschen: die der Statistik und die der Erfahrung."
@@ -65,7 +49,7 @@
   {
     "file": "/daf/materials/audio/unit06_migrationsdiskurs/texte3.ogg",
     "label": "Text 3",
-    "transcript": "Wie groß ist Migration weltweit wirklich? Nach Angaben der\nBevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024\nrund 304 Millionen Menschen außerhalb ihres Geburtslandes;\ndas entspricht etwa 3,7 Prozent der Weltbevölkerung. Bemerkens­wert\nist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist —\nim Gegensatz zu dem Eindruck, den manche Debatten vermitteln.\nIn Deutschland wiederum wurden für 2024 laut Statistischem\nBundesamt rund **12,4 Millionen Menschen ohne deutsche\nStaatsangehörigkeit** gezählt; bezieht man den weiter gefassten\n„Migrationshintergrund\" ein, so lag der Anteil bei etwa **30\nProzent**. Zahlen wie diese werden hier nicht als Argument für\noder gegen etwas angeführt, sondern als gemeinsame Grundlage:\nWer die Größenordnung kennt, diskutiert sachlicher.\n(Zahlen paraphrasiert; Quellen siehe Abschnitt „Quellen\".)",
+    "transcript": "Für Mitte 2024 schätzte die Bevölkerungsabteilung der Vereinten Nationen\nweltweit 304 Millionen internationale Migrantinnen und Migranten.\nIhr Anteil an der Weltbevölkerung lag bei 3,7 Prozent, gegenüber\n2,9 Prozent im Jahr 1990. Der Anteil stieg somit um 0,8 Prozentpunkte.\nDie Bestandszahl beschreibt Menschen zu einem Zeitpunkt, nicht die Zahl\nder Grenzübertritte oder neu Zugewanderten in einem einzelnen Jahr.\nDie deutsche Bevölkerungsfortschreibung wies für Ende 2024 rund\n12,4 Millionen Menschen ohne deutsche Staatsangehörigkeit aus.\nEine andere Statistik, die Erstergebnisse des Mikrozensus 2024,\nbezifferte den Anteil von Menschen mit Migrationshintergrund in\nPrivathaushalten auf etwa 30 Prozent. Dieses Merkmal umfasst auch\nviele deutsche Staatsangehörige. Begriffe, Erhebungen und Bezugsgruppen\nsind verschieden; die Zahlen dürfen nicht gleichgesetzt oder addiert werden.\nZahlen können eine gemeinsame Diskussionsgrundlage schaffen, wenn man\nsie mit Zeitraum, Definition und Quelle nennt. Sie entscheiden nicht,\nob sich jemand einer Gesellschaft zugehörig fühlt. Dafür bleibt auch\ndie Sprache der persönlichen Erfahrung wichtig.\n*(Fakten in eigener Sprache; Quellenstand der Prüfung: 31.10.2026.\nFür den Mikrozensus ist bewusst der im Ausgangstext verwendete Stand\nder Erstergebnisse 2024 gekennzeichnet, nicht ein neuer Endergebnisstand.)*",
     "source": "tts",
     "voice": "de_DE-mls-medium",
     "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
@@ -73,9 +57,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
-    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "source_body_sha256": "f77b415603541d052a57bde12abd013add8db31939a22e38287cd4af4af08c28",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Wie groß ist Migration weltweit wirklich? Nach Angaben der Bevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024 rund 304 Millionen Menschen außerhalb ihres Geburtslandes; das entspricht etwa 3,7 Prozent der Weltbevölkerung. Bemerkens­wert ist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist — im Gegensatz zu dem Eindruck, den manche Debatten vermitteln. In Deutschland wiederum wurden für 2024 laut Statistischem Bundesamt rund **12,4 Millionen Menschen ohne deutsche Staatsangehörigkeit** gezählt; bezieht man den weiter gefassten „Migrationshintergrund\" ein, so lag der Anteil bei etwa **30 Prozent**. Zahlen wie diese werden hier nicht als Argument für oder gegen etwas angeführt, sondern als gemeinsame Grundlage: Wer die Größenordnung kennt, diskutiert sachlicher."
+    "tts": "Für Mitte 2024 schätzte die Bevölkerungsabteilung der Vereinten Nationen weltweit 304 Millionen internationale Migrantinnen und Migranten. Ihr Anteil an der Weltbevölkerung lag bei 3,7 Prozent, gegenüber 2,9 Prozent im Jahr 1990. Der Anteil stieg somit um 0,8 Prozentpunkte. Die Bestandszahl beschreibt Menschen zu einem Zeitpunkt, nicht die Zahl der Grenzübertritte oder neu Zugewanderten in einem einzelnen Jahr. Die deutsche Bevölkerungsfortschreibung wies für Ende 2024 rund 12,4 Millionen Menschen ohne deutsche Staatsangehörigkeit aus. Eine andere Statistik, die Erstergebnisse des Mikrozensus 2024, bezifferte den Anteil von Menschen mit Migrationshintergrund in Privathaushalten auf etwa 30 Prozent. Dieses Merkmal umfasst auch viele deutsche Staatsangehörige. Begriffe, Erhebungen und Bezugsgruppen sind verschieden; die Zahlen dürfen nicht gleichgesetzt oder addiert werden. Zahlen können eine gemeinsame Diskussionsgrundlage schaffen, wenn man sie mit Zeitraum, Definition und Quelle nennt. Sie entscheiden nicht, ob sich jemand einer Gesellschaft zugehörig fühlt. Dafür bleibt auch die Sprache der persönlichen Erfahrung wichtig. *(Fakten in eigener Sprache; Quellenstand der Prüfung: 31.10.2026. Für den Mikrozensus ist bewusst der im Ausgangstext verwendete Stand der Erstergebnisse 2024 gekennzeichnet, nicht ein neuer Endergebnisstand.)*"
   }
 ]

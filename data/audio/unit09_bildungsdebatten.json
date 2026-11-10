@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
-    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "source_body_sha256": "c264a4cdbead28afcaaedf6efa96dfa17dd2af762843b160994393c9a154e5c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
-    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "source_body_sha256": "c264a4cdbead28afcaaedf6efa96dfa17dd2af762843b160994393c9a154e5c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Chancengleichheit.\ndie Bildungsgerechtigkeit.\nsozioökonomisch.\ndie Herkunft / das Elternhaus.\nder Leistungsdruck.\ndie Teilhabe.\ndie Durchlässigkeit (des Systems).\nbenachteiligt / privilegiert.\ndie Bildungsstudie / der Befund.\nkompensieren / ausgleichen.\ndie Selektion.\ndas Gymnasium (besuchen)."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
-    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "source_body_sha256": "c264a4cdbead28afcaaedf6efa96dfa17dd2af762843b160994393c9a154e5c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Wenn die Herkunft mitschreibt Kaum ein Befund der Bildungsforschung wird so regelmäßig bestätigt wie dieser: In Deutschland hängt der Schulerfolg stärker vom Elternhaus ab als in den meisten anderen Industrieländern. Was oft als abstrakte Statistik erscheint, lässt sich an einer einzigen Weichenstellung ablesen — dem Übergang auf das Gymnasium. Nach Berechnungen des ifo-Instituts besuchen Kinder aus begünstigten Verhältnissen mehr als doppelt so häufig ein Gymnasium wie Kinder aus benachteiligten Familien, selbst wenn ihre schulischen Leistungen vergleichbar sind. Wie ist das zu erklären? Einerseits wirken sich unterschiedliche Startbedingungen früh aus: Wer zu Hause vorgelesen bekommt und bei den Hausaufgaben begleitet wird, sammelt einen Vorsprung, der sich über die Jahre verfestigt. Andererseits werden Bildungsentscheidungen von den Familien selbst getroffen — und Eltern mit akademischem Hintergrund trauen ihren Kindern häufiger den höheren Bildungsweg zu. Dieser sogenannte sekundäre Herkunftseffekt bedeutet: Selbst bei gleicher Leistung fällt die Wahl unterschiedlich aus. Kritiker der frühen Aufteilung argumentieren, das deutsche System selektiere zu früh und zementiere so soziale Unterschiede. Im Gegensatz dazu betonen ihre Gegner, gerade die Leistungsorientierung sichere Qualität und dürfe nicht einer vagen Gleichheit geopfert werden. Dennoch zeigt der internationale Vergleich, dass sich die beiden Ziele nicht ausschließen müssen: Länder mit späterer Aufteilung erreichen oft zugleich hohe Leistungen und geringere Herkunftseffekte. Die Debatte ist damit keine zwischen Leistung und Gerechtigkeit, sondern die Frage, wie beides zusammengedacht werden kann. Reformvorschläge reichen von Ganztagsschulen über gezielte Sprachförderung bis zu einer späteren Selektion. Folglich, so lässt sich festhalten, ist Bildungsgerechtigkeit weniger eine Frage des Wollens als eine des politischen Durchhaltevermögens — denn Wirkung zeigt sich erst nach Jahren, nicht nach Legislaturperioden."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
-    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "source_body_sha256": "c264a4cdbead28afcaaedf6efa96dfa17dd2af762843b160994393c9a154e5c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "a) „Die Schule kann nicht reparieren, was in den ersten Lebensjahren zu Hause versäumt wird. Wer echte Gerechtigkeit will, muss bei den Familien ansetzen, nicht erst im Klassenzimmer. b) „Eine spätere Aufteilung nähme den Druck aus dem Grundschulalter und gäbe Spätzündern eine faire Chance. Man würde niemandem etwas wegnehmen — man verschöbe nur die Entscheidung. c) „Leistung muss sich lohnen. Senkte man die Anforderungen im Namen der Gleichheit, so schadete man am Ende gerade den begabten Kindern aus einfachen Verhältnissen. d) „Ohne mehr Personal und kleinere Klassen bleibt jede Reform Symbolpolitik. Gerechtigkeit kostet Geld — das sollte ehrlich gesagt werden."

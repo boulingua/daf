@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
-    "source_body_sha256": "b0ef1a9df9a7d264b7f74af0c2e543e0330c3ce01cacdfc2ffc48c9b04004a37",
+    "source_body_sha256": "b89bfa40452b4aa33ec2966dcc8634c2b05fe8aa0e3fc8e39d976fcd8a7eab49",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
-    "source_body_sha256": "b0ef1a9df9a7d264b7f74af0c2e543e0330c3ce01cacdfc2ffc48c9b04004a37",
+    "source_body_sha256": "b89bfa40452b4aa33ec2966dcc8634c2b05fe8aa0e3fc8e39d976fcd8a7eab49",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "(a) *Die Rückführung der Verbindlichkeiten erfolgt annuitätisch über einen Zeitraum von zehn Jahren.* (b) *Bei ausbleibender Besserung ist eine Umstellung der Medikation zu erwägen.* (c) *Der Anspruch verjährt, sofern nicht rechtzeitig Klage erhoben wird.*"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
-    "source_body_sha256": "b0ef1a9df9a7d264b7f74af0c2e543e0330c3ce01cacdfc2ffc48c9b04004a37",
+    "source_body_sha256": "b89bfa40452b4aa33ec2966dcc8634c2b05fe8aa0e3fc8e39d976fcd8a7eab49",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
-    "source_body_sha256": "b0ef1a9df9a7d264b7f74af0c2e543e0330c3ce01cacdfc2ffc48c9b04004a37",
+    "source_body_sha256": "b89bfa40452b4aa33ec2966dcc8634c2b05fe8aa0e3fc8e39d976fcd8a7eab49",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Wirtschaft: *„Die in Aussicht gestellte Rendite unterliegt Marktschwankungen; ein Kapitalerhalt kann nicht zugesichert werden.\"* Medizin: *„Nach komplikationslosem Verlauf ist bei anhaltender Beschwerdefreiheit die Entlassung am Folgetag vorgesehen.\"* Recht: *„Wer eine Pflicht aus dem Schuldverhältnis verletzt, hat den daraus entstehenden Schaden zu ersetzen, sofern er die Pflichtverletzung zu vertreten hat.\"* (Gedanke nach § 280 Abs. 1 BGB, amtliches Werk, gemeinfrei; hier in vereinfachter Fassung.)"

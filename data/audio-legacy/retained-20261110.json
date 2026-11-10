@@ -1,0 +1,36 @@
+[
+  {
+    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "*Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten\nMal hören die Lernenden nur zu, beim zweiten Mal machen sie\nNotizen.*",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+    "source_body_sha256": "4010b6a2edc1186ebca870b2bdbc6702d90d3e98d39dd4fcbf6a134914028c20",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "*Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten Mal hören die Lernenden nur zu, beim zweiten Mal machen sie Notizen.*",
+    "retention_reason": "Earlier lesson recording retained outside the active lesson manifests after its source text was revised"
+  },
+  {
+    "file": "/daf/materials/audio/unit06_migrationsdiskurs/dialogue1.ogg",
+    "label": "Dialog 1",
+    "transcript": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern\nihre Genauigkeit.* Wer präzise benennt, argumentiert fairer.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+    "source_body_sha256": "5e6a6b1c4b3f4ff6dbc464b9cacdcf55ff8efffb3d8399fc539cae159dd55396",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Merksatz zum Start: *Nicht die Zahl der Wörter zählt, sondern ihre Genauigkeit.* Wer präzise benennt, argumentiert fairer.",
+    "retention_reason": "Earlier lesson recording retained outside the active lesson manifests after its source text was revised"
+  }
+]

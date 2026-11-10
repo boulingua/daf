@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
-    "source_body_sha256": "5eda6710c6e14d7962ea96d3aaef46794e4131cae20112f3c4c85aec0c2d14e9",
+    "source_body_sha256": "2d29a57ec096520e3933a2e337f3ac34b04fda7d35f6162e76c940383e26e3fd",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien/index.md",
-    "source_body_sha256": "5eda6710c6e14d7962ea96d3aaef46794e4131cae20112f3c4c85aec0c2d14e9",
+    "source_body_sha256": "2d29a57ec096520e3933a2e337f3ac34b04fda7d35f6162e76c940383e26e3fd",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Immer häufiger werden Entscheidungen, die früher Menschen trafen, an Software delegiert: Wer einen Kredit erhält, welche Bewerbung aussortiert wird, wo die Polizei patrouilliert — all das kann heute von einem Algorithmus vorbereitet werden. Befürworter betonen, solche Systeme arbeiteten schneller, günstiger und angeblich objektiver als der Mensch. Einerseits ist dieser Effizienzgewinn real. Andererseits ist ein Algorithmus nur so unvoreingenommen wie die Daten, aus denen er lernt. Genau hier liegt das ethische Problem. Werden einem System historische Daten vorgelegt, in denen bestimmte Gruppen benachteiligt wurden, so lernt es diese Benachteiligung mit — und gibt sie als scheinbar neutrale Rechnung zurück. Fachleute sprechen von Verzerrung oder Bias. Im Gegensatz zu einem menschlichen Sachbearbeiter, den man befragen kann, bleibt die Entscheidung einer Software oft undurchsichtig. Dennoch wird ihr häufig mehr Objektivität zugeschrieben, als sie verdient. Was folgt daraus? Zunächst die Forderung nach Transparenz: Die Funktionsweise eines Systems müsse nachvollziehbar sein, verlangen Kritiker. Zweitens die Rechenschaft: Wer eine automatisierte Entscheidung einsetzt, solle sie auch begründen können. Und drittens die Verhältnismäßigkeit — nicht alles, was technisch machbar ist, ist auch angemessen. Folglich geht es bei der Ethik digitaler Technologien weniger um die Frage, ob eine Maschine rechnen darf, als vielmehr darum, wer für das Ergebnis geradesteht. Die Verantwortung, so lässt sich festhalten, lässt sich nicht an eine Software delegieren."

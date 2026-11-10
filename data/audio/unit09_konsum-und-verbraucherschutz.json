@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
-    "source_body_sha256": "16410cddb393e6ef7d63994b17f338ef03f1edbcfc5a447f8f3d22ed30c298f9",
+    "source_body_sha256": "bf7cca5d8a9b00e74e72f8d7e1f22d54915ad6de798aa80febe46f741884f1cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
-    "source_body_sha256": "16410cddb393e6ef7d63994b17f338ef03f1edbcfc5a447f8f3d22ed30c298f9",
+    "source_body_sha256": "bf7cca5d8a9b00e74e72f8d7e1f22d54915ad6de798aa80febe46f741884f1cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "das Widerrufsrecht.\ndie Gewährleistung.\nder Sachmangel, -mängel.\nder Lieferumfang.\ndie Rücksendung.\ndie Rückerstattung.\ndie Frist, -en.\nbestellungsgemäß (Adv.).\netwas reklamieren.\netwas beanstanden."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz/index.md",
-    "source_body_sha256": "16410cddb393e6ef7d63994b17f338ef03f1edbcfc5a447f8f3d22ed30c298f9",
+    "source_body_sha256": "bf7cca5d8a9b00e74e72f8d7e1f22d54915ad6de798aa80febe46f741884f1cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Sehr geehrte Damen und Herren, am 14. Mai habe ich bei Ihnen eine Kaffeemaschine vom Modell „KA-3200 bestellt (Bestellnummer: KA-5578912). Das Paket ist am 17. Mai angekommen. Leider fehlen zwei Teile aus dem auf Ihrer Website angegebenen Lieferumfang: der Milchaufschäumer und der Entkalker-Tab. Ich würde Sie bitten, mir die fehlenden Teile kostenfrei nachzusenden. Sollte das nicht möglich sein, würde ich die Bestellung gern vollständig zurückgeben. Könnten Sie mir außerdem mitteilen, wie die Rücksendung abläuft? Vielen Dank für Ihre Rückmeldung. Mit freundlichen Grüßen Lejla Hodžić"

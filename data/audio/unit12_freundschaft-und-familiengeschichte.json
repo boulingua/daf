@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte/index.md",
-    "source_body_sha256": "66aa91ca621205909acf95f49f07155bd273e6111ef093f90b0a9919b2934909",
+    "source_body_sha256": "5c10a7ad9939c5aef11b697140a0e1be9367da96c09285c278620f67b8449225",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Maja: Schau mal, das ist ein altes Foto. Meine Großmutter Halina ist 1960 nach Krakau gekommen. Omar: Wirklich? Und warum ist sie gekommen? Maja: Sie hat dort als Näherin gearbeitet, weil sie keine Arbeit auf dem Dorf gefunden hat. Dort hat sie meinen Großvater kennengelernt. Omar: Eine schöne Geschichte. Meine Familie kommt aus Aleppo. Mein Vater war Lehrer, aber wir sind 2015 weggegangen."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte/index.md",
-    "source_body_sha256": "66aa91ca621205909acf95f49f07155bd273e6111ef093f90b0a9919b2934909",
+    "source_body_sha256": "5c10a7ad9939c5aef11b697140a0e1be9367da96c09285c278620f67b8449225",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Merke: Bewegung (kommen, gehen, fahren, umziehen) → sein. Die meisten anderen Verben → haben."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte/index.md",
-    "source_body_sha256": "66aa91ca621205909acf95f49f07155bd273e6111ef093f90b0a9919b2934909",
+    "source_body_sha256": "5c10a7ad9939c5aef11b697140a0e1be9367da96c09285c278620f67b8449225",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Meine Großmutter Halina ist 1942 in einem kleinen Dorf geboren. Als junge Frau ist sie nach Krakau gegangen, weil sie dort Arbeit gesucht hat. In einer Fabrik hat sie meinen Großvater kennengelernt. Sie hatten wenig Geld, aber sie waren glücklich. Meine Mutter ist 1970 geboren. Sie hat Krankenschwester gelernt und mir immer von Halina erzählt. Später bin ich selbst in die Pflege gegangen. 2023 bin ich nach Graz umgezogen, denn meine Tante lebt hier. Heute denke ich oft an meine Großmutter, weil ihre Geschichte mir Mut gibt."

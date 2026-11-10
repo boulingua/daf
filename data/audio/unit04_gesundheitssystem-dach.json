@@ -2,7 +2,7 @@
   {
     "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/texte1.ogg",
     "label": "Text 1",
-    "transcript": "Stellen Sie sich vor, Sie ziehen für die Arbeit von einem\nDACH-Land in ein anderes um. Am ersten Tag werden Sie krank. Sie\ngehen zur Ärztin — und plötzlich merken Sie: Vieles funktioniert\nanders, als Sie es kennen. In Deutschland zahlt oft die\nKrankenkasse fast alles direkt. In der Schweiz bekommen Sie\nzuerst eine Rechnung nach Hause. In Österreich brauchen Sie Ihre\ne-card. Drei Nachbarländer, eine gemeinsame Sprache — und drei\nziemlich verschiedene Systeme.",
+    "transcript": "Stellen Sie sich vor, Sie ziehen für die Arbeit von einem\nDACH-Land in ein anderes um. Am ersten Tag werden Sie krank. Sie\ngehen zur Ärztin — und plötzlich merken Sie: Vieles funktioniert\nanders, als Sie es kennen. Beiträge, Rechnungen und Kostenbeteiligung sind je nach Land und\nVersicherung verschieden. In Österreich begegnet Ihnen beispielsweise\ndie e-card. Drei Nachbarländer, eine gemeinsame Sprache — und drei\nziemlich verschiedene Systeme.",
     "source": "tts",
     "voice": "de_DE-mls-medium",
     "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
-    "source_body_sha256": "4010b6a2edc1186ebca870b2bdbc6702d90d3e98d39dd4fcbf6a134914028c20",
+    "source_body_sha256": "c7e7efb88a15663a0ccec145d5e4e616108be684dc4522e016ffea45b21885ba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,25 +25,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
-    "source_body_sha256": "4010b6a2edc1186ebca870b2bdbc6702d90d3e98d39dd4fcbf6a134914028c20",
+    "source_body_sha256": "c7e7efb88a15663a0ccec145d5e4e616108be684dc4522e016ffea45b21885ba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Krankenversicherungspflicht.\ndie gesetzliche Krankenkasse.\nder Beitrag, ¨-e.\ndie Prämie, -n.\ndie Franchise, -n.\nder Selbstbehalt, -e.\nder Facharzttermin, -e.\nsolidarisch finanziert."
-  },
-  {
-    "file": "/daf/materials/audio/unit04_gesundheitssystem-dach/texte2.ogg",
-    "label": "Text 2",
-    "transcript": "*Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten\nMal hören die Lernenden nur zu, beim zweiten Mal machen sie\nNotizen.*",
-    "source": "tts",
-    "voice": "de_DE-mls-medium",
-    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
-    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
-    "speaker_id": 0,
-    "synthesis_backend": "piper-python/1thread",
-    "source_path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
-    "source_body_sha256": "4010b6a2edc1186ebca870b2bdbc6702d90d3e98d39dd4fcbf6a134914028c20",
-    "extraction_policy": "learner-input-v3",
-    "withheld_foreign_sections": [],
-    "tts": "*Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten Mal hören die Lernenden nur zu, beim zweiten Mal machen sie Notizen.*"
   }
 ]

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
-    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "source_body_sha256": "0d57da313b1e9362e16b0010ae846f69ffee8b837b45a90bf45d16d865d2c04a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
-    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "source_body_sha256": "0d57da313b1e9362e16b0010ae846f69ffee8b837b45a90bf45d16d865d2c04a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Kuratorin / der Kurator.\ndie Hängung.\ndas Exponat.\ndie Konzeption.\nder Bildaufbau / die Komposition.\nder Vordergrund / Hintergrund.\ndie Farbgebung.\nausdrucksstark.\ndie Wandtexte (Pl.).\nebenbürtig.\nin den Kanon aufnehmen.\nkritisch anmerken."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
-    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "source_body_sha256": "0d57da313b1e9362e16b0010ae846f69ffee8b837b45a90bf45d16d865d2c04a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Im Vordergrund wird eine Frau dargestellt. Die Ausstellung wurde von zwei Kuratorinnen konzipiert. Die Werke sind dicht gehängt worden. (Perfekt Passiv)"
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
-    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "source_body_sha256": "0d57da313b1e9362e16b0010ae846f69ffee8b837b45a90bf45d16d865d2c04a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "„Die Werke wurden neu entdeckt. → *„die Wiederentdeckung der Werke; „Man hängt die Bilder dicht. → „die dichte Hängung der Bilder*."
@@ -73,7 +73,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
-    "source_body_sha256": "78c9e2171f460ece90b64bb846fc55d2173e6600721bf6a0d5692831247bdcd9",
+    "source_body_sha256": "0d57da313b1e9362e16b0010ae846f69ffee8b837b45a90bf45d16d865d2c04a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Die folgende Radio-Diskussion liest die Lehrkraft einmal in normalem Tempo vor. Die Lernenden hören zunächst ohne mitzulesen."

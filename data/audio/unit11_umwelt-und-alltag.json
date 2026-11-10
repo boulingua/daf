@@ -2,7 +2,7 @@
   {
     "file": "/daf/materials/audio/unit11_umwelt-und-alltag/dialogue1.ogg",
     "label": "Dialog 1",
-    "transcript": "Lena: Omar, warte! Die leere Flasche kommt nicht in den\nRestmüll.\nOmar: Oh, wirklich? Wohin denn dann?\nLena: Glas bringen wir zum Container an der Ecke. Und den\nJoghurtbecher werfe ich in den Gelben Sack.\nOmar: Das ist am Anfang kompliziert. Aber ich glaube, ich\nverstehe es langsam.",
+    "transcript": "Lena: Omar, warte! Die leere Flasche kommt nicht in den\nRestmüll.\nOmar: Oh, wirklich? Wohin denn dann?\nLena: Glasflaschen ohne Pfand bringen wir zum Container. Und den\nJoghurtbecher werfe ich in den Gelben Sack.\nOmar: Das ist am Anfang kompliziert. Aber ich glaube, ich\nverstehe es langsam.",
     "source": "tts",
     "voice": "de_DE-mls-medium",
     "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
@@ -10,10 +10,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
-    "source_body_sha256": "37f21f8479f4b520f74dfafc756653a3480390290f2992e112d437a036584ef7",
+    "source_body_sha256": "4b6e345f0ff535cc27694a3f97a3ad51fdbc2ac8de93e16fe2d7294e5fa98dd2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Lena: Omar, warte! Die leere Flasche kommt nicht in den Restmüll. Omar: Oh, wirklich? Wohin denn dann? Lena: Glas bringen wir zum Container an der Ecke. Und den Joghurtbecher werfe ich in den Gelben Sack. Omar: Das ist am Anfang kompliziert. Aber ich glaube, ich verstehe es langsam."
+    "tts": "Lena: Omar, warte! Die leere Flasche kommt nicht in den Restmüll. Omar: Oh, wirklich? Wohin denn dann? Lena: Glasflaschen ohne Pfand bringen wir zum Container. Und den Joghurtbecher werfe ich in den Gelben Sack. Omar: Das ist am Anfang kompliziert. Aber ich glaube, ich verstehe es langsam."
   },
   {
     "file": "/daf/materials/audio/unit11_umwelt-und-alltag/texte1.ogg",
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
-    "source_body_sha256": "37f21f8479f4b520f74dfafc756653a3480390290f2992e112d437a036584ef7",
+    "source_body_sha256": "4b6e345f0ff535cc27694a3f97a3ad51fdbc2ac8de93e16fe2d7294e5fa98dd2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ich trenne den Müll, weil es der Umwelt hilft. Ich fahre mit dem Rad, weil ich Benzin spare. Glas kommt in den Container, weil man es recyceln kann."
@@ -34,7 +34,7 @@
   {
     "file": "/daf/materials/audio/unit11_umwelt-und-alltag/dialogue2.ogg",
     "label": "Dialog 2",
-    "transcript": "Moderatorin: Willkommen zum Umwelt-Tipp der Woche! Heute im\nStudio: Frau Berg von der Stadtreinigung. Frau Berg, wie trennt\nman in Deutschland richtig?\nFrau Berg: Guten Tag! Ganz einfach mit vier Behältern.\nPapier kommt in die blaue Tonne — also Zeitungen und Kartons.\nObstreste und Kaffeesatz gehören in die braune Biotonne.\nModeratorin: Und die Verpackungen?\nFrau Berg: Plastik, Dosen und Tetrapak kommen in den Gelben\nSack. Aber bitte sauber! Ein schmutziger Becher gehört in den\nRestmüll, also in die graue Tonne.\nModeratorin: Haben Sie noch einen Spar-Tipp für uns?\nFrau Berg: Ja, gern. Duschen Sie kürzer, weil das viel\nWasser spart. Und kaufen Sie Obst aus der Region, weil das gut\nfür die Umwelt ist. Batterien bringen Sie bitte zum Supermarkt\n— niemals in den Hausmüll!\nModeratorin: Vielen Dank, Frau Berg. Bis nächste Woche!",
+    "transcript": "Moderatorin: Willkommen zum Umwelt-Tipp der Woche! Heute ist\nFrau Berg von unserer Stadtreinigung zu Gast. Wie trennen wir hier?\nFrau Berg: Guten Tag! Bei uns gibt es unter anderem vier Behälter:\neine blaue Tonne für Papier, eine braune für Biomüll, den Gelben Sack\nfür Verpackungen und eine graue Tonne für Restmüll. Zeitungen und\nKartons gehören zum Papier. Obstreste und Kaffeesatz sind Biomüll.\nModeratorin: Und was kommt in den Gelben Sack?\nFrau Berg: Leere Verpackungen aus Plastik, Metall oder Verbundmaterial,\nzum Beispiel ein Joghurtbecher, eine Konservendose oder ein Getränkekarton.\nDen Becher bitte auslöffeln. Man muss ihn nicht ausspülen; kleine Reste\ndürfen haften bleiben. Eine volle Verpackung ist etwas anderes: Fragen\nSie dafür die örtliche Abfallberatung. Pfandflaschen bringen Sie zurück\nzum Geschäft. Leere Glasflaschen ohne Pfand gehören in den Altglas-Container.\nModeratorin: Haben Sie noch einen Tipp?\nFrau Berg: Duschen Sie kürzer, weil das Wasser spart. Kleine alte\nBatterien geben Sie in einer Batterie-Sammelbox im Handel oder bei einer\nkommunalen Sammelstelle ab. Sie gehören niemals in den Hausmüll.\nModeratorin: Vielen Dank! Die Regeln und Farben können sich je nach\nOrt unterscheiden. Informieren Sie sich deshalb auch vor Ort.",
     "source": "tts",
     "voice": "de_DE-mls-medium",
     "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
@@ -42,9 +42,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
-    "source_body_sha256": "37f21f8479f4b520f74dfafc756653a3480390290f2992e112d437a036584ef7",
+    "source_body_sha256": "4b6e345f0ff535cc27694a3f97a3ad51fdbc2ac8de93e16fe2d7294e5fa98dd2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Moderatorin: Willkommen zum Umwelt-Tipp der Woche! Heute im Studio: Frau Berg von der Stadtreinigung. Frau Berg, wie trennt man in Deutschland richtig? Frau Berg: Guten Tag! Ganz einfach mit vier Behältern. Papier kommt in die blaue Tonne — also Zeitungen und Kartons. Obstreste und Kaffeesatz gehören in die braune Biotonne. Moderatorin: Und die Verpackungen? Frau Berg: Plastik, Dosen und Tetrapak kommen in den Gelben Sack. Aber bitte sauber! Ein schmutziger Becher gehört in den Restmüll, also in die graue Tonne. Moderatorin: Haben Sie noch einen Spar-Tipp für uns? Frau Berg: Ja, gern. Duschen Sie kürzer, weil das viel Wasser spart. Und kaufen Sie Obst aus der Region, weil das gut für die Umwelt ist. Batterien bringen Sie bitte zum Supermarkt — niemals in den Hausmüll! Moderatorin: Vielen Dank, Frau Berg. Bis nächste Woche!"
+    "tts": "Moderatorin: Willkommen zum Umwelt-Tipp der Woche! Heute ist Frau Berg von unserer Stadtreinigung zu Gast. Wie trennen wir hier? Frau Berg: Guten Tag! Bei uns gibt es unter anderem vier Behälter: eine blaue Tonne für Papier, eine braune für Biomüll, den Gelben Sack für Verpackungen und eine graue Tonne für Restmüll. Zeitungen und Kartons gehören zum Papier. Obstreste und Kaffeesatz sind Biomüll. Moderatorin: Und was kommt in den Gelben Sack? Frau Berg: Leere Verpackungen aus Plastik, Metall oder Verbundmaterial, zum Beispiel ein Joghurtbecher, eine Konservendose oder ein Getränkekarton. Den Becher bitte auslöffeln. Man muss ihn nicht ausspülen; kleine Reste dürfen haften bleiben. Eine volle Verpackung ist etwas anderes: Fragen Sie dafür die örtliche Abfallberatung. Pfandflaschen bringen Sie zurück zum Geschäft. Leere Glasflaschen ohne Pfand gehören in den Altglas-Container. Moderatorin: Haben Sie noch einen Tipp? Frau Berg: Duschen Sie kürzer, weil das Wasser spart. Kleine alte Batterien geben Sie in einer Batterie-Sammelbox im Handel oder bei einer kommunalen Sammelstelle ab. Sie gehören niemals in den Hausmüll. Moderatorin: Vielen Dank! Die Regeln und Farben können sich je nach Ort unterscheiden. Informieren Sie sich deshalb auch vor Ort."
   }
 ]

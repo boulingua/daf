@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit07_historiografie/index.md",
-    "source_body_sha256": "55d0e89aa02f2923c5fed8d8ef8c79922c3c0af0a7e71665e5a086ce0119f1f1",
+    "source_body_sha256": "f4c5e41e845537299bf51a5b9a0ca43e397c3241282d4cad0e02d77c919862fa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit07_historiografie/index.md",
-    "source_body_sha256": "55d0e89aa02f2923c5fed8d8ef8c79922c3c0af0a7e71665e5a086ce0119f1f1",
+    "source_body_sha256": "f4c5e41e845537299bf51a5b9a0ca43e397c3241282d4cad0e02d77c919862fa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "*Vorlesehinweis für die Lehrkraft: einmal in normalem Tempo vortragen; die vier Stimmen (Moderatorin, Vogt, Bauer, Lange) deutlich unterscheiden. Länge ca. 3,5 Minuten.*"

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
-    "source_body_sha256": "8dcf04be7004841d866502a52f945524e91254270606b773d97282a4321c54ce",
+    "source_body_sha256": "27c600709dba98920df4e17eab7f35b39cba84d0e026e8487901d68f5a6a9bb4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
-    "source_body_sha256": "8dcf04be7004841d866502a52f945524e91254270606b773d97282a4321c54ce",
+    "source_body_sha256": "27c600709dba98920df4e17eab7f35b39cba84d0e026e8487901d68f5a6a9bb4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
-    "source_body_sha256": "8dcf04be7004841d866502a52f945524e91254270606b773d97282a4321c54ce",
+    "source_body_sha256": "27c600709dba98920df4e17eab7f35b39cba84d0e026e8487901d68f5a6a9bb4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Das Rätsel vom stetig erneuerten Boot ist kein bloßes Wortspiel. Es legt offen, dass unser Wort „dasselbe mehrere, einander widerstreitende Bedeutungen bündelt. Sagt jemand, das reparierte Boot im Hafen sei dasselbe, so beruft er sich stillschweigend auf eine **ununterbrochene Geschichte**: Es lag stets an derselben Kette, trug stets denselben Namen, niemand hat es je aus dem Wasser gehoben und durch ein anderes ersetzt. Zeigt hingegen jemand auf das zweite, aus den alten Planken gefügte Boot, so appelliert er an die Materie: Hier, und nur hier, ist das ursprüngliche Holz versammelt. Beide Sprecher argumentieren triftig — und genau das macht den Fall zur Antinomie. Eine Antinomie ist kein Denkfehler, den man beheben könnte, sondern ein Signal: Zwei begründete Sätze stoßen aneinander, weil ein Begriff — hier Identität — heimlich in zwei Bedeutungen zerfällt. Numerische Identität meint ein und dasselbe Ding; qualitative Identität meint gleich beschaffen. Der Streit löst sich nicht dadurch, dass eine Seite gewinnt, sondern dadurch, dass wir die verborgene Schlussregel jeder Seite ans Licht heben. Wer das tut, verlässt das Feld der Meinung und betritt das der Analyse. Er fragt nicht mehr: Wer hat recht?, sondern: *Unter welcher Voraussetzung hätte wer recht?* Damit verschiebt sich der Ort der Entscheidung — vom Boot zum Begriff. Und eben diese Verschiebung ist es, die den philosophierenden Laien vom bloßen Meinenden trennt: nicht mehr Wissen über Boote, sondern ein geschärfter Blick für die Wörter, mit denen wir über sie streiten."
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien/index.md",
-    "source_body_sha256": "8dcf04be7004841d866502a52f945524e91254270606b773d97282a4321c54ce",
+    "source_body_sha256": "27c600709dba98920df4e17eab7f35b39cba84d0e026e8487901d68f5a6a9bb4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Wer einen Streit klären will, sollte ihn zuerst zeichnen. Eine Argumentkarte macht aus dem Fluss der Rede ein übersichtliches Gefüge: unten die Prämissen — die Aussagen, die man voraussetzt —, oben die Konklusion, und dazwischen die Pfeile, die anzeigen, was was stützt. Der eigentliche Gewinn liegt jedoch in dem, was gewöhnlich unsichtbar bleibt: der Schlussregel. Sie ist die stillschweigende Brücke, ohne die kein Pfeil trägt. Ein Beispiel: Aus „Das Boot lag stets an derselben Kette folgt *„Es ist dasselbe Boot nur, wenn man die Regel akzeptiert: Was eine ununterbrochene Geschichte hat, bleibt dasselbe.* Erst wenn diese Brücke benannt ist, kann man sie prüfen — und gegebenenfalls bestreiten. Genau hier setzt die produktive Kritik an: Nicht die Prämisse ist falsch, sondern die Schlussregel ist umstritten. Eine Argumentkarte diszipliniert also das Denken. Sie zwingt uns, das Verschwiegene auszusprechen, sie trennt Behauptung von Beleg, und sie zeigt, an welcher einzigen Stelle zwei Kontrahenten in Wahrheit auseinandergehen. Für informierte Laien ist sie weniger ein Werkzeug der Rechthaberei als eine Übung in Redlichkeit: Man sieht schwarz auf weiß, was man selbst voraussetzt."

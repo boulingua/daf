@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
-    "source_body_sha256": "945565d938aa6a9bf6d07e265d6c217df65c55ecdd200f3d18efe3343a682353",
+    "source_body_sha256": "946b079061d4609de1376fe92b16b6adeafc0529048125f5878b5de7bc45758d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
-    "source_body_sha256": "945565d938aa6a9bf6d07e265d6c217df65c55ecdd200f3d18efe3343a682353",
+    "source_body_sha256": "946b079061d4609de1376fe92b16b6adeafc0529048125f5878b5de7bc45758d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Layla: Schau mal, diese Wohnung finde ich gut. Zwei Zimmer, ein Balkon und nicht zu teuer. Nadia: Und wo liegt sie? Layla: In der Nähe vom Bahnhof. Aber ich weiß nicht, wie hoch die Nebenkosten sind. Das steht nicht in der Anzeige. Nadia: Dann ruf einfach an und frag! Du kannst auch fragen, wann du die Wohnung anschauen kannst. Layla: Gute Idee. Ich rufe morgen früh an."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
-    "source_body_sha256": "945565d938aa6a9bf6d07e265d6c217df65c55ecdd200f3d18efe3343a682353",
+    "source_body_sha256": "946b079061d4609de1376fe92b16b6adeafc0529048125f5878b5de7bc45758d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Am nächsten Morgen ruft Layla bei Frau Bergmann an. Frau Bergmann vermietet eine Zweizimmerwohnung in Leipzig. Layla sagt zuerst ihren Namen und erklärt den Grund für den Anruf. Dann fragt sie höflich nach den Nebenkosten, weil diese Information in der Anzeige gefehlt hat. Frau Bergmann sagt, dass die Nebenkosten 110 Euro pro Monat sind. Die Kaltmiete kostet 490 Euro, die Kaution sind zwei Monatsmieten. Layla möchte die Wohnung gerne anschauen und fragt nach einem Termin. Frau Bergmann bietet zwei Termine an: am Mittwoch um 17 Uhr oder am Samstag um 11 Uhr. Layla nimmt den Samstagstermin, weil sie am Mittwoch arbeiten muss. Zum Schluss bedankt sie sich und wiederholt den Termin. (ca. 110 Wörter)"

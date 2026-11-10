@@ -118,3 +118,5 @@ their recordings: `kurs_a2/units/unit11_umwelt-und-alltag`,
 `kurs_b2/units/unit06_migrationsdiskurs`,
 `kurs_b2/units/unit11_oekonomie-fuer-laien`. Before release these need new
 recordings of the revised text, or a decision to keep the recorded wording.
+
+**Resolution (10 November 2026).** The revised text was kept and 5 clips in the units above were regenerated with the audited course voice `de_DE-mls-medium` (speaker 0; model/config digests as in kit `audio/auditions/daf.md`), using kit v2.0.2 `audio/build_audio.py 'content/**/index.md' --all --speaker 0 --persistent-model` with the same Piper 1.8.0 / ONNX Runtime 1.31.1 / FFmpeg 7.1 toolchain as the 5 November recordings. The synthesis cache limited synthesis to clips whose spoken input changed; every other recording is byte-for-byte unchanged. All 60 manifests were refreshed to the current source-body digests. D6 passes. No separate listening review of the regenerated clips is claimed. The two recordings no longer selected by the revised text are retained and listed in `data/audio-legacy/retained-20261110.json`.

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
-    "source_body_sha256": "cda93016e6a0dfb0fbca0eb81d4452d01d4e22b82a1beca61ca089b345d03d2a",
+    "source_body_sha256": "cf4500ffa8bf0bb51efd000fb7fbdd14652abe60c97234663bf108c0a2dfcf65",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
-    "source_body_sha256": "cda93016e6a0dfb0fbca0eb81d4452d01d4e22b82a1beca61ca089b345d03d2a",
+    "source_body_sha256": "cf4500ffa8bf0bb51efd000fb7fbdd14652abe60c97234663bf108c0a2dfcf65",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
-    "source_body_sha256": "cda93016e6a0dfb0fbca0eb81d4452d01d4e22b82a1beca61ca089b345d03d2a",
+    "source_body_sha256": "cf4500ffa8bf0bb51efd000fb7fbdd14652abe60c97234663bf108c0a2dfcf65",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Erzählstimme, -n.\nder/die Ich-Erzähler:in.\nauktorial.\npersonal.\ndie erlebte Rede.\nder innere Monolog.\ndie Unzuverlässigkeit.\nnuanciert (Adj.).\ndie Mehrdeutigkeit.\nberührend / verstörend."
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
-    "source_body_sha256": "cda93016e6a0dfb0fbca0eb81d4452d01d4e22b82a1beca61ca089b345d03d2a",
+    "source_body_sha256": "cf4500ffa8bf0bb51efd000fb7fbdd14652abe60c97234663bf108c0a2dfcf65",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -71,7 +71,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit12_literarische-perspektiven/index.md",
-    "source_body_sha256": "cda93016e6a0dfb0fbca0eb81d4452d01d4e22b82a1beca61ca089b345d03d2a",
+    "source_body_sha256": "cf4500ffa8bf0bb51efd000fb7fbdd14652abe60c97234663bf108c0a2dfcf65",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

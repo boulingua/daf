@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
-    "source_body_sha256": "6a1baea0ba1b7a6f61f30956eea3ab2ff4745d1d6c6ef1d1a8f322e1aaa88907",
+    "source_body_sha256": "d7d2e44a52afbd8024f9c79fb1d55c3f7f461682bf18f84389f264095a01f208",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Lea: Was machst du eigentlich am Wochenende? Omar: Am Samstag gehe ich immer zum Fotoclub. Wir treffen uns jede Woche und machen zusammen Fotos. Lea: Oh, interessant! Seit wann bist du im Club? Omar: Seit drei Monaten. Ich finde es toll, weil ich viele nette Leute kennenlerne. Lea: Und was kostet das? Omar: Nur dreißig Euro pro Jahr. Komm doch mal mit!"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit06_hobbys-und-vereine/index.md",
-    "source_body_sha256": "6a1baea0ba1b7a6f61f30956eea3ab2ff4745d1d6c6ef1d1a8f322e1aaa88907",
+    "source_body_sha256": "d7d2e44a52afbd8024f9c79fb1d55c3f7f461682bf18f84389f264095a01f208",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Die Lehrkraft liest den Text zweimal langsam vor. Moderatorin: Heute im Bezirksradio Graz: der Fotoclub Graz-Mitte. Unser Gast ist Omar Hafez. Omar, wie hast du den Club gefunden? Omar: Ein Freund hat mir davon erzählt. Wir treffen uns jeden Mittwoch um 19 Uhr. Wir machen Fotos und besprechen sie zusammen. Ich bin seit drei Monaten Mitglied. Moderatorin: Und wie viel kostet die Mitgliedschaft? Omar: Dreißig Euro pro Jahr. Für Studierende sind es nur fünfzehn Euro. Das ist nicht teuer. Moderatorin: Was war bisher dein Lieblingsprojekt? Omar: Ein Spaziergang durch Graz-Lend. Ich habe alte Türen fotografiert. Das hat mir sehr gefallen, weil die Türen so schön alt sind. Moderatorin: Vielen Dank, Omar, und weiterhin viel Spaß!"
