@@ -70,6 +70,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit04_aesthetik-und-urteil-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit04_aesthetik-und-urteil-teacher.png
+audio_manifest: unit04_aesthetik-und-urteil
 ---
 
 {{< callout type="note" >}}

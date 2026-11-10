@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit10_stilistik-und-rhetorik-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit10_stilistik-und-rhetorik-teacher.png
+audio_manifest: unit10_stilistik-und-rhetorik
 ---
 
 {{< callout type="note" >}}

@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit06_postkoloniale-perspektiven-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit06_postkoloniale-perspektiven-teacher.png
+audio_manifest: unit06_postkoloniale-perspektiven
 ---
 
 {{< callout type="note" >}}

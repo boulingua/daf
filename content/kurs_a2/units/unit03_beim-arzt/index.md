@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit03_beim-arzt-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit03_beim-arzt-teacher.png
+audio_manifest: unit03_beim-arzt
 ---
 
 {{< callout type="note" >}}

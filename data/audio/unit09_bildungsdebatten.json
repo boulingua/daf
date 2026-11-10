@@ -1,24 +1,65 @@
 [
   {
+    "file": "/daf/materials/audio/unit09_bildungsdebatten/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Stellen Sie sich zwei Kinder vor, die am selben Tag eingeschult werden. Das eine wächst in einem Haushalt auf, in dem beide Eltern studiert haben und Bücherregale die Wände füllen; das andere in einer Familie, in der abends niemand Zeit für Hausaufgaben hat. Zehn Jahre später sitzt das eine Kind im Gymnasium, das andere nicht — und statistisch gesehen war dieser Ausgang schon am Einschulungstag wahrscheinlicher, als uns lieb sein dürfte. Die Frage, die daraus folgt, treibt die deutsche Bildungspolitik seit Jahrzehnten um: Soll die Schule vor allem Leistung messen — oder soll sie Herkunft ausgleichen? Und lassen sich beide Ziele überhaupt gleichzeitig erreichen?",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit09_bildungsdebatten/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Chancengleichheit · die Bildungsgerechtigkeit · sozioökonomisch · die Herkunft / das Elternhaus · der Leistungsdruck · die Teilhabe · die Durchlässigkeit (des Systems) · benachteiligt / privilegiert · die Bildungsstudie / der Befund · kompensieren / ausgleichen · die Selektion · das Gymnasium (besuchen)",
-    "file": "/daf/materials/audio/unit09_bildungsdebatten/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Chancengleichheit.\ndie Bildungsgerechtigkeit.\nsozioökonomisch.\ndie Herkunft / das Elternhaus.\nder Leistungsdruck.\ndie Teilhabe.\ndie Durchlässigkeit (des Systems).\nbenachteiligt / privilegiert.\ndie Bildungsstudie / der Befund.\nkompensieren / ausgleichen.\ndie Selektion.\ndas Gymnasium (besuchen)."
   },
   {
+    "file": "/daf/materials/audio/unit09_bildungsdebatten/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Wenn die Herkunft mitschreibt\nKaum ein Befund der Bildungsforschung wird so regelmäßig bestätigt wie dieser: In Deutschland hängt der Schulerfolg stärker vom Elternhaus ab als in den meisten anderen Industrieländern. Was oft als abstrakte Statistik erscheint, lässt sich an einer einzigen Weichenstellung ablesen — dem Übergang auf das Gymnasium. Nach Berechnungen des ifo-Instituts besuchen Kinder aus begünstigten Verhältnissen mehr als doppelt so häufig ein Gymnasium wie Kinder aus benachteiligten Familien, selbst wenn ihre schulischen Leistungen vergleichbar sind.\nWie ist das zu erklären? Einerseits wirken sich unterschiedliche Startbedingungen früh aus: Wer zu Hause vorgelesen bekommt und bei den Hausaufgaben begleitet wird, sammelt einen Vorsprung, der sich über die Jahre verfestigt. Andererseits werden Bildungsentscheidungen von den Familien selbst getroffen — und Eltern mit akademischem Hintergrund trauen ihren Kindern häufiger den höheren Bildungsweg zu. Dieser sogenannte sekundäre Herkunftseffekt bedeutet: Selbst bei gleicher Leistung fällt die Wahl unterschiedlich aus.\nKritiker der frühen Aufteilung argumentieren, das deutsche System selektiere zu früh und zementiere so soziale Unterschiede. Im Gegensatz dazu betonen ihre Gegner, gerade die Leistungsorientierung sichere Qualität und dürfe nicht einer vagen Gleichheit geopfert werden. Dennoch zeigt der internationale Vergleich, dass sich die beiden Ziele nicht ausschließen müssen: Länder mit späterer Aufteilung erreichen oft zugleich hohe Leistungen und geringere Herkunftseffekte.\nDie Debatte ist damit keine zwischen Leistung und Gerechtigkeit, sondern die Frage, wie beides zusammengedacht werden kann. Reformvorschläge reichen von Ganztagsschulen über gezielte Sprachförderung bis zu einer späteren Selektion. Folglich, so lässt sich festhalten, ist Bildungsgerechtigkeit weniger eine Frage des Wollens als eine des politischen Durchhaltevermögens — denn Wirkung zeigt sich erst nach Jahren, nicht nach Legislaturperioden.",
-    "file": "/daf/materials/audio/unit09_bildungsdebatten/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Wenn die Herkunft mitschreibt Kaum ein Befund der Bildungsforschung wird so regelmäßig bestätigt wie dieser: In Deutschland hängt der Schulerfolg stärker vom Elternhaus ab als in den meisten anderen Industrieländern. Was oft als abstrakte Statistik erscheint, lässt sich an einer einzigen Weichenstellung ablesen — dem Übergang auf das Gymnasium. Nach Berechnungen des ifo-Instituts besuchen Kinder aus begünstigten Verhältnissen mehr als doppelt so häufig ein Gymnasium wie Kinder aus benachteiligten Familien, selbst wenn ihre schulischen Leistungen vergleichbar sind. Wie ist das zu erklären? Einerseits wirken sich unterschiedliche Startbedingungen früh aus: Wer zu Hause vorgelesen bekommt und bei den Hausaufgaben begleitet wird, sammelt einen Vorsprung, der sich über die Jahre verfestigt. Andererseits werden Bildungsentscheidungen von den Familien selbst getroffen — und Eltern mit akademischem Hintergrund trauen ihren Kindern häufiger den höheren Bildungsweg zu. Dieser sogenannte sekundäre Herkunftseffekt bedeutet: Selbst bei gleicher Leistung fällt die Wahl unterschiedlich aus. Kritiker der frühen Aufteilung argumentieren, das deutsche System selektiere zu früh und zementiere so soziale Unterschiede. Im Gegensatz dazu betonen ihre Gegner, gerade die Leistungsorientierung sichere Qualität und dürfe nicht einer vagen Gleichheit geopfert werden. Dennoch zeigt der internationale Vergleich, dass sich die beiden Ziele nicht ausschließen müssen: Länder mit späterer Aufteilung erreichen oft zugleich hohe Leistungen und geringere Herkunftseffekte. Die Debatte ist damit keine zwischen Leistung und Gerechtigkeit, sondern die Frage, wie beides zusammengedacht werden kann. Reformvorschläge reichen von Ganztagsschulen über gezielte Sprachförderung bis zu einer späteren Selektion. Folglich, so lässt sich festhalten, ist Bildungsgerechtigkeit weniger eine Frage des Wollens als eine des politischen Durchhaltevermögens — denn Wirkung zeigt sich erst nach Jahren, nicht nach Legislaturperioden."
   },
   {
-    "label": "Text 1",
+    "file": "/daf/materials/audio/unit09_bildungsdebatten/texte2.ogg",
+    "label": "Text 2",
     "transcript": "a) „Die Schule kann nicht reparieren, was in den ersten Lebensjahren zu Hause versäumt wird. Wer echte Gerechtigkeit will, muss bei den Familien ansetzen, nicht erst im Klassenzimmer.\nb) „Eine spätere Aufteilung nähme den Druck aus dem Grundschulalter und gäbe Spätzündern eine faire Chance. Man würde niemandem etwas wegnehmen — man verschöbe nur die Entscheidung.\nc) „Leistung muss sich lohnen. Senkte man die Anforderungen im Namen der Gleichheit, so schadete man am Ende gerade den begabten Kindern aus einfachen Verhältnissen.\nd) „Ohne mehr Personal und kleinere Klassen bleibt jede Reform Symbolpolitik. Gerechtigkeit kostet Geld — das sollte ehrlich gesagt werden.",
-    "file": "/daf/materials/audio/unit09_bildungsdebatten/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "klare Position und logischer Aufbau · Pro und Kontra ausgewogen dargestellt · Bezug auf mindestens einen Input-Text · Konnektoren sinnvoll eingesetzt · Passiv / Nominalisierung / Konjunktiv II · B2-Wortschatz zum Thema",
-    "file": "/daf/materials/audio/unit09_bildungsdebatten/vocab2.ogg",
-    "tts": "klare Position und logischer Aufbau.\nPro und Kontra ausgewogen dargestellt.\nBezug auf mindestens einen Input-Text.\nKonnektoren sinnvoll eingesetzt.\nPassiv / Nominalisierung / Konjunktiv II.\nB2-Wortschatz zum Thema."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+    "source_body_sha256": "7a0e5edc6368969584b936e7b02e487b79321cb1986fa6d8baa27f41da9c358b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "a) „Die Schule kann nicht reparieren, was in den ersten Lebensjahren zu Hause versäumt wird. Wer echte Gerechtigkeit will, muss bei den Familien ansetzen, nicht erst im Klassenzimmer. b) „Eine spätere Aufteilung nähme den Druck aus dem Grundschulalter und gäbe Spätzündern eine faire Chance. Man würde niemandem etwas wegnehmen — man verschöbe nur die Entscheidung. c) „Leistung muss sich lohnen. Senkte man die Anforderungen im Namen der Gleichheit, so schadete man am Ende gerade den begabten Kindern aus einfachen Verhältnissen. d) „Ohne mehr Personal und kleinere Klassen bleibt jede Reform Symbolpolitik. Gerechtigkeit kostet Geld — das sollte ehrlich gesagt werden."
   }
 ]

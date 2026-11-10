@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit11_umwelt-und-alltag-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit11_umwelt-und-alltag-teacher.png
+audio_manifest: unit11_umwelt-und-alltag
 ---
 
 {{< callout type="note" >}}

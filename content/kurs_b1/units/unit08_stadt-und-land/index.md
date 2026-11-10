@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit08_stadt-und-land-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit08_stadt-und-land-teacher.png
+audio_manifest: unit08_stadt-und-land
 ---
 
 {{< callout type="note" >}}

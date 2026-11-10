@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit04_gesundheitssystem-dach-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit04_gesundheitssystem-dach-teacher.png
+audio_manifest: unit04_gesundheitssystem-dach
 ---
 
 {{< callout type="note" >}}

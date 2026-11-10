@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit05_essen-und-trinken-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit05_essen-und-trinken-teacher.png
+audio_manifest: unit05_essen-und-trinken
 ---
 
 {{< callout type="note" >}}

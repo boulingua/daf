@@ -74,6 +74,7 @@ worksheet_teacher:
     /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte-teacher.png
+audio_manifest: unit12_freundschaft-und-familiengeschichte
 ---
 
 {{< callout type="note" >}}

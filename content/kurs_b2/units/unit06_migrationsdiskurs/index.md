@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit06_migrationsdiskurs-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit06_migrationsdiskurs-teacher.png
+audio_manifest: unit06_migrationsdiskurs
 ---
 
 {{< callout type="note" >}}

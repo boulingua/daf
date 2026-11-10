@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit05_kunst-und-kultur-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit05_kunst-und-kultur-teacher.png
+audio_manifest: unit05_kunst-und-kultur
 ---
 
 {{< callout type="note" >}}

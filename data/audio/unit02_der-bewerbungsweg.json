@@ -1,46 +1,80 @@
 [
   {
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Zwei Monate sind vergangen. Milos wohnt jetzt in einer kleinen Wohnung in\nBasel; sein Rad steht im Treppenhaus und riecht nach Regen. Heute sitzt seine\nCousine Lejla am Küchentisch. Lejla ist 24, Pflegefachfrau und lebt in\nBrežice in Slowenien. Ein Kantonsspital in Villach hat eine Stelle\nausgeschrieben, und Lejla möchte sich bewerben. Sie hat die Anzeige dreimal\ngelesen, aber vor dem Anschreiben hat sie Respekt.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+    "source_body_sha256": "5bac736541a7ba92e65a15919995fa4874231922021bb78ce4c0ccb5be56d4ef",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "„Komm, sagt Milos, „wir machen das Schritt für Schritt. Zuerst der Lebenslauf,\ndann das Anschreiben — und nächste Woche üben wir das Gespräch.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+    "source_body_sha256": "5bac736541a7ba92e65a15919995fa4874231922021bb78ce4c0ccb5be56d4ef",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Bewerbung, -en · das Anschreiben, - · der Lebenslauf, -¨e · die Stellenanzeige, -n · das Vorstellungsgespräch, -e · die Qualifikation, -en · sich bewerben (um + Akk.) · einstellen · die Anforderung, -en · die Erfahrung, -en · befristet / unbefristet · die Anrede, -n · die Grußformel, -n",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+    "source_body_sha256": "5bac736541a7ba92e65a15919995fa4874231922021bb78ce4c0ccb5be56d4ef",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Bewerbung, -en.\ndas Anschreiben, -.\nder Lebenslauf, -¨e.\ndie Stellenanzeige, -n.\ndas Vorstellungsgespräch, -e.\ndie Qualifikation, -en.\nsich bewerben (um + Akk.).\neinstellen.\ndie Anforderung, -en.\ndie Erfahrung, -en.\nbefristet / unbefristet.\ndie Anrede, -n.\ndie Grußformel, -n."
   },
   {
-    "label": "Wortschatz 2",
-    "transcript": "Rufen Sie mich an. · Ich will einen anderen Termin. · Ich habe am Montag Zeit. · Ich freue mich über ein Gespräch.",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab2.ogg",
-    "tts": "Rufen Sie mich an..\nIch will einen anderen Termin..\nIch habe am Montag Zeit..\nIch freue mich über ein Gespräch.."
-  },
-  {
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Kantonsspital Villach\nWir suchen zum nächstmöglichen Zeitpunkt eine\nPflegefachfrau / einen Pflegefachmann (m/w/d) für unsere Abteilung\nInnere Medizin.\nIhre Aufgaben: Grundpflege, Vorbereitung von Medikamenten, Dokumentation\nam Computer sowie enge Zusammenarbeit mit dem ärztlichen Team.\nUnser Angebot: unbefristete Stelle, 80 %- oder 100 %-Anstellung möglich,\nstrukturierte Einarbeitung, jährliches Weiterbildungsbudget.\nIhr Profil: abgeschlossene Ausbildung als Pflegefachfrau /\nPflegefachmann; Deutschkenntnisse mindestens auf B1-Niveau; Teamfähigkeit,\nZuverlässigkeit und Belastbarkeit.\nIhre Bewerbung: Bitte senden Sie Anschreiben, Lebenslauf und\nZeugniskopien per E-Mail an Frau Elke Rauter, Personalabteilung.",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+    "source_body_sha256": "5bac736541a7ba92e65a15919995fa4874231922021bb78ce4c0ccb5be56d4ef",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Kantonsspital Villach Wir suchen zum nächstmöglichen Zeitpunkt eine Pflegefachfrau / einen Pflegefachmann (m/w/d) für unsere Abteilung Innere Medizin. Ihre Aufgaben: Grundpflege, Vorbereitung von Medikamenten, Dokumentation am Computer sowie enge Zusammenarbeit mit dem ärztlichen Team. Unser Angebot: unbefristete Stelle, 80 %- oder 100 %-Anstellung möglich, strukturierte Einarbeitung, jährliches Weiterbildungsbudget. Ihr Profil: abgeschlossene Ausbildung als Pflegefachfrau / Pflegefachmann; Deutschkenntnisse mindestens auf B1-Niveau; Teamfähigkeit, Zuverlässigkeit und Belastbarkeit. Ihre Bewerbung: Bitte senden Sie Anschreiben, Lebenslauf und Zeugniskopien per E-Mail an Frau Elke Rauter, Personalabteilung."
   },
   {
-    "label": "Text 1",
-    "transcript": "Sehr geehrte Frau Rauter,\nmit großem Interesse habe ich Ihre Stellenanzeige für eine Pflegefachfrau in\nder Abteilung Innere Medizin gelesen. Hiermit möchte ich mich um diese Stelle\nbewerben.\nMein Name ist Lejla Hodžić, ich bin 24 Jahre alt. 2023 habe ich meine\nAusbildung zur Pflegefachfrau in Ljubljana abgeschlossen. Seitdem arbeite ich\nin einem regionalen Krankenhaus in Brežice, ebenfalls in der Inneren Medizin.\nBesonders gern arbeite ich mit älteren Patientinnen und Patienten, und die\nDokumentation am Computer läuft für mich inzwischen routiniert.\nIch möchte mich beruflich weiterentwickeln, weil mir die Zusammenarbeit in\neinem größeren, interdisziplinären Team wichtig ist. Obwohl ich noch nicht in\nÖsterreich gearbeitet habe, kenne ich deutschsprachige Arbeitsumgebungen gut.\nMein Deutsch habe ich in einem Sprachkurs gelernt und 2024 das B1-Zertifikat\nabgelegt.\nÜber die Möglichkeit eines persönlichen Gesprächs würde ich mich sehr freuen.\nMeinen Lebenslauf und meine Zeugnisse finden Sie im Anhang.\nMit freundlichen Grüßen\nLejla Hodžić",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Einstieg · Bewerbungssatz · Qualifikation · Motivation (mit weil) · Einräumen (mit obwohl) · Schlussformel",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab3.ogg",
-    "tts": "Einstieg.\nBewerbungssatz.\nQualifikation.\nMotivation (mit weil).\nEinräumen (mit obwohl).\nSchlussformel."
-  },
-  {
-    "label": "Text 2",
-    "transcript": "Frau Rauter vom Kantonsspital Villach lädt Sie zu einem Vorstellungsgespräch\nein. Leider haben Sie an diesem Tag Schichtdienst. Schreiben Sie an Frau\nRauter (ca. 40 Wörter):\n- Bedanken Sie sich für die Einladung.\n- Bitten Sie höflich um einen anderen Termin.\n- Schlagen Sie zwei konkrete Tage vor, an denen Sie Zeit hätten.\nVergessen Sie Anrede, Gruß und Ihren Namen nicht.",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte2.ogg"
-  },
-  {
+    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte3.ogg",
     "label": "Text 3",
-    "transcript": "Sehr geehrte Frau Rauter,\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch. Leider habe ich am\nvorgeschlagenen Termin Schichtdienst. Könnten wir das Gespräch verschieben?\nIch hätte am Mittwoch, den 15.05., oder am Freitag, den 17.05., Zeit.\nMit freundlichen Grüßen\nLejla Hodžić",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/texte3.ogg"
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede, Grußformel und Name vorhanden · Formelles Register (Sie-Form, Höflichkeit) · Konjunktiv II für die höfliche Bitte · Grammatik und Rechtschreibung (Wortlänge ok) · Gesamt",
-    "file": "/daf/materials/audio/unit02_der-bewerbungsweg/vocab4.ogg",
-    "tts": "Alle drei Inhaltspunkte bearbeitet.\nAnrede, Grußformel und Name vorhanden.\nFormelles Register (Sie-Form, Höflichkeit).\nKonjunktiv II für die höfliche Bitte.\nGrammatik und Rechtschreibung (Wortlänge ok).\nGesamt."
+    "transcript": "Sehr geehrte Frau Rauter,\nmit großem Interesse habe ich Ihre Stellenanzeige für eine Pflegefachfrau in\nder Abteilung Innere Medizin gelesen. Hiermit möchte ich mich um diese Stelle\nbewerben.\nMein Name ist Lejla Hodžić, ich bin 24 Jahre alt. 2023 habe ich meine\nAusbildung zur Pflegefachfrau in Ljubljana abgeschlossen. Seitdem arbeite ich\nin einem regionalen Krankenhaus in Brežice, ebenfalls in der Inneren Medizin.\nBesonders gern arbeite ich mit älteren Patientinnen und Patienten, und die\nDokumentation am Computer läuft für mich inzwischen routiniert.\nIch möchte mich beruflich weiterentwickeln, weil mir die Zusammenarbeit in\neinem größeren, interdisziplinären Team wichtig ist. Obwohl ich noch nicht in\nÖsterreich gearbeitet habe, kenne ich deutschsprachige Arbeitsumgebungen gut.\nMein Deutsch habe ich in einem Sprachkurs gelernt und 2024 das B1-Zertifikat\nabgelegt.\nÜber die Möglichkeit eines persönlichen Gesprächs würde ich mich sehr freuen.\nMeinen Lebenslauf und meine Zeugnisse finden Sie im Anhang.\nMit freundlichen Grüßen\nLejla Hodžić",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit02_der-bewerbungsweg/index.md",
+    "source_body_sha256": "5bac736541a7ba92e65a15919995fa4874231922021bb78ce4c0ccb5be56d4ef",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Sehr geehrte Frau Rauter, mit großem Interesse habe ich Ihre Stellenanzeige für eine Pflegefachfrau in der Abteilung Innere Medizin gelesen. Hiermit möchte ich mich um diese Stelle bewerben. Mein Name ist Lejla Hodžić, ich bin 24 Jahre alt. 2023 habe ich meine Ausbildung zur Pflegefachfrau in Ljubljana abgeschlossen. Seitdem arbeite ich in einem regionalen Krankenhaus in Brežice, ebenfalls in der Inneren Medizin. Besonders gern arbeite ich mit älteren Patientinnen und Patienten, und die Dokumentation am Computer läuft für mich inzwischen routiniert. Ich möchte mich beruflich weiterentwickeln, weil mir die Zusammenarbeit in einem größeren, interdisziplinären Team wichtig ist. Obwohl ich noch nicht in Österreich gearbeitet habe, kenne ich deutschsprachige Arbeitsumgebungen gut. Mein Deutsch habe ich in einem Sprachkurs gelernt und 2024 das B1-Zertifikat abgelegt. Über die Möglichkeit eines persönlichen Gesprächs würde ich mich sehr freuen. Meinen Lebenslauf und meine Zeugnisse finden Sie im Anhang. Mit freundlichen Grüßen Lejla Hodžić"
   }
 ]

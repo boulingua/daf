@@ -178,19 +178,41 @@ Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.
 
 ## 4. Analyse-Tools und Tools von Drittanbietern
 
-### Plausible Analytics
+### Plausible Analytics (selbst gehostet)
 
 Auf dieser Website ist Plausible Analytics aktiviert.
-Das Analyseskript wird von `https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js` geladen. Die Aufrufe werden der
-Kennung `boulingua.github.io/daf` zugeordnet. Vorgesehen sind Seitenaufrufe,
-Dateidownloads und Klicks auf externe Links. Der Browser kontaktiert dafür
-die selbst gehostete Instanz unter `analytics.hellebo.de`.
+Das Skript `https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js`
+verwendet die Domain-Kennung `boulingua.github.io/daf`.
 
-Für Auskünfte zum Betrieb dieser Instanz, zur Verarbeitung und zur
-Aufbewahrungsdauer wenden Sie sich an die oben genannte verantwortliche
-Stelle. Die [Dokumentation der Software](https://plausible.io/data-policy)
-beschreibt Plausible allgemein; sie bestätigt nicht die konkrete
-Serverkonfiguration dieses Angebots.
+Diese Website verwendet **Plausible Analytics** zur statistischen
+Reichweitenmessung. Plausible wird als **selbst gehostete
+Instanz** unter `analytics.hellebo.de` betrieben; der Server
+steht in **Deutschland**. Eine Übermittlung der Messdaten an die
+Plausible Insights OÜ (Tartu, Estland) oder an andere
+Drittanbieter findet **nicht** statt.
+
+Plausible ist **cookielos** und erhebt **keine
+personenbezogenen Daten** im engeren Sinn. IP-Adressen werden
+nicht gespeichert; zur Sitzungserkennung wird täglich rotierend
+ein gesalzener Hash gebildet. Eine seitenübergreifende
+Wiedererkennung von Nutzerinnen und Nutzern findet nicht statt.
+
+Erhoben und ausgewertet werden insbesondere:
+
+- aufgerufene Seiten-URL,
+- Verweisquelle (Referrer),
+- grobe Geolokation auf Länderebene,
+- Gerätetyp, Browser, Betriebssystem (anhand User-Agent).
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes
+Interesse an einer datensparsamen, anonymen
+Reichweitenmessung). Eine Einwilligung nach § 25 TDDDG ist
+nicht erforderlich, da kein Zugriff auf bzw. keine Speicherung
+von Informationen im Endgerät stattfindet, die nicht unbedingt
+erforderlich sind.
+
+Weitere Informationen:
+<https://plausible.io/data-policy>
 
 ### VG Wort Zählpixel (Standard)
 

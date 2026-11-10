@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit03_wissenschaftstheorie-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit03_wissenschaftstheorie-teacher.png
+audio_manifest: unit03_wissenschaftstheorie
 ---
 
 {{< callout type="note" >}}

@@ -1,51 +1,81 @@
 [
   {
-    "label": "Dialog 1",
-    "transcript": "Lena: Hallo Ana! Komm rein. Das ist unser Wohnzimmer.\nAna: Oh, schön! Es gibt ein Sofa und einen Fernseher.\nTom: Ja. Und hier ist die Küche. Wir kochen zusammen.\nAna: Und wo ist das freie Zimmer?\nLena: Hier, neben dem Bad. Es gibt ein Bett, einen Schrank\nund einen Schreibtisch.\nAna: Das Zimmer ist toll. Das Bett steht am Fenster.",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue1.ogg"
+    "file": "/daf/materials/audio/unit04_meine-wohnung/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Nachmittag in Wien. Ana sucht ein Zimmer. Ihre Freundin\nLena wohnt schon in einer WG. Tom, Lenas Mitbewohner,\nmacht die Tür auf.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue1.ogg",
+    "label": "Dialog 1",
+    "transcript": "Lena: Hallo Ana! Komm rein. Das ist unser Wohnzimmer.\nAna: Oh, schön! Es gibt ein Sofa und einen Fernseher.\nTom: Ja. Und hier ist die Küche. Wir kochen zusammen.\nAna: Und wo ist das freie Zimmer?\nLena: Hier, neben dem Bad. Es gibt ein Bett, einen Schrank\nund einen Schreibtisch.\nAna: Das Zimmer ist toll. Das Bett steht am Fenster.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Lena: Hallo Ana! Komm rein. Das ist unser Wohnzimmer. Ana: Oh, schön! Es gibt ein Sofa und einen Fernseher. Tom: Ja. Und hier ist die Küche. Wir kochen zusammen. Ana: Und wo ist das freie Zimmer? Lena: Hier, neben dem Bad. Es gibt ein Bett, einen Schrank und einen Schreibtisch. Ana: Das Zimmer ist toll. Das Bett steht am Fenster."
+  },
+  {
+    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "das Zimmer · das Schlafzimmer · das Wohnzimmer · die Küche · das Bad · der Balkon · das Bett · der Tisch · der Stuhl · der Schrank · der Schreibtisch · das Sofa · die Lampe · das Fenster",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "das Zimmer.\ndas Schlafzimmer.\ndas Wohnzimmer.\ndie Küche.\ndas Bad.\nder Balkon.\ndas Bett.\nder Tisch.\nder Stuhl.\nder Schrank.\nder Schreibtisch.\ndas Sofa.\ndie Lampe.\ndas Fenster."
   },
   {
-    "label": "Wortschatz 2",
-    "transcript": "in / im · auf · unter · neben · vor · hinter",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab2.ogg",
-    "tts": "in / im.\nauf.\nunter.\nneben.\nvor.\nhinter."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "Zimmer in WG — Wien-Mariahilf\n- 15 m², 450 € (warm)\n- Ein Zimmer, gemeinsame Küche + Bad\n- Möbliert: Bett, Schrank, Schreibtisch\n- U-Bahn U3 in 5 Minuten\n- Ab 1. September frei",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/texte1.ogg"
-  },
-  {
+    "file": "/daf/materials/audio/unit04_meine-wohnung/texte2.ogg",
     "label": "Text 2",
+    "transcript": "Zimmer in WG — Wien-Mariahilf\n- 15 m², 450 € (warm)\n- Ein Zimmer, gemeinsame Küche + Bad\n- Möbliert: Bett, Schrank, Schreibtisch\n- U-Bahn U3 in 5 Minuten\n- Ab 1. September frei",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Zimmer in WG — Wien-Mariahilf - 15 m², 450 € (warm) - Ein Zimmer, gemeinsame Küche + Bad - Möbliert: Bett, Schrank, Schreibtisch - U-Bahn U3 in 5 Minuten - Ab 1. September frei"
+  },
+  {
+    "file": "/daf/materials/audio/unit04_meine-wohnung/texte3.ogg",
+    "label": "Text 3",
     "transcript": "Ana hat jetzt ein Zimmer in der WG. Das Zimmer ist klein, aber\nschön. Es gibt ein Bett, einen Schrank und einen Schreibtisch.\nDas Bett steht am Fenster. Der Schreibtisch steht neben dem\nBett. Auf dem Schreibtisch ist eine Lampe. Ana findet ihr\nZimmer gemütlich.",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/texte2.ogg"
-  },
-  {
-    "label": "Dialog 2",
-    "transcript": "A: Wo ist die Lampe?\nB: Die Lampe steht ___ dem Tisch.\nA: Und wo ist das Bett?\nB: Das Bett steht ___ Fenster.",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue2.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Ich schreibe fünf Sätze. · Ich nenne mindestens vier Möbel. · Ich benutze Es gibt … zweimal. · Man versteht meinen Text gut.",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab3.ogg",
-    "tts": "Ich schreibe fünf Sätze..\nIch nenne mindestens vier Möbel..\nIch benutze Es gibt … zweimal..\nMan versteht meinen Text gut.."
-  },
-  {
-    "label": "Dialog 3",
-    "transcript": "Anmeldung einer Wohnung — Stadt Frankfurt\nName (Nachname): ___________________\nVorname: Ana\nGeburtsdatum: ___________________\nGeburtsort: Lissabon\nStaatsangehörigkeit: ___________________\nAdresse in Frankfurt: Mainzer Straße 15, ___________________ Frankfurt\nTelefon: +49 ___________________",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/dialogue3.ogg"
-  },
-  {
-    "label": "Wortschatz 4",
-    "transcript": "Nachname korrekt · Geburtsdatum korrekt · Staatsangehörigkeit korrekt · PLZ korrekt · Telefon korrekt · Summe",
-    "file": "/daf/materials/audio/unit04_meine-wohnung/vocab4.ogg",
-    "tts": "Nachname korrekt.\nGeburtsdatum korrekt.\nStaatsangehörigkeit korrekt.\nPLZ korrekt.\nTelefon korrekt.\nSumme."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
+    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ana hat jetzt ein Zimmer in der WG. Das Zimmer ist klein, aber schön. Es gibt ein Bett, einen Schrank und einen Schreibtisch. Das Bett steht am Fenster. Der Schreibtisch steht neben dem Bett. Auf dem Schreibtisch ist eine Lampe. Ana findet ihr Zimmer gemütlich."
   }
 ]

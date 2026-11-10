@@ -1,29 +1,50 @@
 [
   {
+    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Ben: Du siehst müde aus. Was hast du gestern gemacht?\nNadia: Oh, gestern war ein langer Tag! Ich bin früh\naufgestanden und bin zum Bahnhof gefahren. Meine Schwester ist\naus Hamburg gekommen.\nBen: Schön! Und dann?\nNadia: Wir haben zusammen gefrühstückt und sind durch die\nAltstadt gelaufen. Am Abend haben wir gekocht, weil das\nRestaurant zu voll war.\nBen: Und heute? Schläfst du wieder lange?\nNadia: Nein, heute arbeite ich. Aber gestern — gestern war\nperfekt.",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
+    "source_body_sha256": "4438e1ae60ec2cf4c33ffb81bae202fe93c0ceea0fa9d7368e8fb30fcbda0358",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ben: Du siehst müde aus. Was hast du gestern gemacht? Nadia: Oh, gestern war ein langer Tag! Ich bin früh aufgestanden und bin zum Bahnhof gefahren. Meine Schwester ist aus Hamburg gekommen. Ben: Schön! Und dann? Nadia: Wir haben zusammen gefrühstückt und sind durch die Altstadt gelaufen. Am Abend haben wir gekocht, weil das Restaurant zu voll war. Ben: Und heute? Schläfst du wieder lange? Nadia: Nein, heute arbeite ich. Aber gestern — gestern war perfekt."
   },
   {
+    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "aufstehen · frühstücken · fahren · kommen · kochen · arbeiten · treffen · schlafen · gehen · schreiben",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
+    "source_body_sha256": "4438e1ae60ec2cf4c33ffb81bae202fe93c0ceea0fa9d7368e8fb30fcbda0358",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "aufstehen.\nfrühstücken.\nfahren.\nkommen.\nkochen.\narbeiten.\ntreffen.\nschlafen.\ngehen.\nschreiben."
   },
   {
+    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/texte1.ogg",
     "label": "Text 1",
     "transcript": "Samstag, 20 Uhr.\nHeute war ein voller Tag. Ich bin um halb acht aufgestanden und\nhabe schnell gefrühstückt. Dann bin ich zum Markt gefahren und\nhabe Gemüse und Brot gekauft. Am Mittag habe ich meine Freundin\nLea getroffen. Wir sind lange durch den Park gegangen und haben\nüber die Arbeit gesprochen. Am Nachmittag bin ich müde nach Hause\ngekommen, aber ich habe noch die Küche geputzt, weil morgen\nBesuch kommt. Am Abend habe ich Suppe gekocht und einen Film\ngesehen. Jetzt bin ich zufrieden. Ich glaube, dass morgen ein\nschöner Sonntag wird.\nGute Nacht!",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Alle drei Inhaltspunkte bearbeitet · Anrede und Gruß vorhanden · Perfekt richtig gebildet (haben/sein) · Verständlichkeit, Rechtschreibung, Umfang",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/vocab2.ogg",
-    "tts": "Alle drei Inhaltspunkte bearbeitet.\nAnrede und Gruß vorhanden.\nPerfekt richtig gebildet (haben/sein).\nVerständlichkeit, Rechtschreibung, Umfang."
-  },
-  {
-    "label": "Text 2",
-    "transcript": "Hallo Mira,\nschade, dass du krank warst! Am Vormittag bin ich zum Markt\ngefahren und habe Obst gekauft. Am Nachmittag habe ich Lea\ngetroffen, und wir sind durch den Park gegangen. Am Abend habe ich\nSuppe gekocht. Werde schnell gesund!\nLiebe Grüße\nNadia",
-    "file": "/daf/materials/audio/unit08_gestern-und-vergangenheit/texte2.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
+    "source_body_sha256": "4438e1ae60ec2cf4c33ffb81bae202fe93c0ceea0fa9d7368e8fb30fcbda0358",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Samstag, 20 Uhr. Heute war ein voller Tag. Ich bin um halb acht aufgestanden und habe schnell gefrühstückt. Dann bin ich zum Markt gefahren und habe Gemüse und Brot gekauft. Am Mittag habe ich meine Freundin Lea getroffen. Wir sind lange durch den Park gegangen und haben über die Arbeit gesprochen. Am Nachmittag bin ich müde nach Hause gekommen, aber ich habe noch die Küche geputzt, weil morgen Besuch kommt. Am Abend habe ich Suppe gekocht und einen Film gesehen. Jetzt bin ich zufrieden. Ich glaube, dass morgen ein schöner Sonntag wird. Gute Nacht!"
   }
 ]

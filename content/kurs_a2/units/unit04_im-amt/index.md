@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit04_im-amt-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit04_im-amt-teacher.png
+audio_manifest: unit04_im-amt
 ---
 
 {{< callout type="note" >}}

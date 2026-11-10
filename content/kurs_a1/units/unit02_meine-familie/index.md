@@ -71,6 +71,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit02_meine-familie-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit02_meine-familie-teacher.png
+audio_manifest: unit02_meine-familie
 ---
 
 {{< callout type="note" >}}

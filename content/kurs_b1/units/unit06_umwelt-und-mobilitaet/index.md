@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit06_umwelt-und-mobilitaet-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit06_umwelt-und-mobilitaet-teacher.png
+audio_manifest: unit06_umwelt-und-mobilitaet
 ---
 
 {{< callout type="note" >}}

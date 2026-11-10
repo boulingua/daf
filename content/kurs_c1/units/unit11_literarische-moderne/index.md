@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit11_literarische-moderne-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit11_literarische-moderne-teacher.png
+audio_manifest: unit11_literarische-moderne
 ---
 
 {{< callout type="note" >}}

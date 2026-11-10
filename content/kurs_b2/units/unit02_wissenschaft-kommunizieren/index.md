@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit02_wissenschaft-kommunizieren-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit02_wissenschaft-kommunizieren-teacher.png
+audio_manifest: unit02_wissenschaft-kommunizieren
 ---
 
 {{< callout type="note" >}}

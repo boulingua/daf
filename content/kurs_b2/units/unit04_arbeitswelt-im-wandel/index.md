@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit04_arbeitswelt-im-wandel-teacher.png
+audio_manifest: unit04_arbeitswelt-im-wandel
 ---
 
 {{< callout type="note" >}}

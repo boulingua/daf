@@ -1,24 +1,34 @@
 [
   {
+    "file": "/daf/materials/audio/unit11_meine-freizeit/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Ana: Ich spiele gern Gitarre. Und du, Luka?\nLuka: Ich fotografiere gern. Ich mache oft Fotos in Wien.\nFrau Berg: Ich lese gern. Am Sonntag lese ich immer ein Buch.\nHerr Keks: Und ich backe gern! Ich backe manchmal Kuchen.\nSport mache ich nie — ich bin ein bisschen faul.",
-    "file": "/daf/materials/audio/unit11_meine-freizeit/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
+    "source_body_sha256": "4e9d58b183c0826a35f53a5737a126bb7a51459df33c4c5b88f60681b76cadad",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ana: Ich spiele gern Gitarre. Und du, Luka? Luka: Ich fotografiere gern. Ich mache oft Fotos in Wien. Frau Berg: Ich lese gern. Am Sonntag lese ich immer ein Buch. Herr Keks: Und ich backe gern! Ich backe manchmal Kuchen. Sport mache ich nie — ich bin ein bisschen faul."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "die Freizeit · das Hobby · Musik machen · Gitarre spielen · Fußball spielen · ein Buch lesen · Fotos machen · Sport machen · kochen / backen · spazieren gehen · oft · manchmal · nie",
-    "file": "/daf/materials/audio/unit11_meine-freizeit/vocab1.ogg",
-    "tts": "die Freizeit.\ndas Hobby.\nMusik machen.\nGitarre spielen.\nFußball spielen.\nein Buch lesen.\nFotos machen.\nSport machen.\nkochen / backen.\nspazieren gehen.\noft.\nmanchmal.\nnie."
-  },
-  {
+    "file": "/daf/materials/audio/unit11_meine-freizeit/dialogue2.ogg",
     "label": "Dialog 2",
     "transcript": "Ana: Was machst du am Wochenende, Luka?\nLuka: Am Samstag fotografiere ich oft. Am Sonntag spiele ich Schach.\nAna: Machst du auch Sport?\nLuka: Nein, Sport mache ich nie. Aber ich gehe manchmal spazieren.\nAna: Ich spiele gern Gitarre. Kommst du am Sonntag? Wir machen Musik!\nLuka: Ja, super! Ich komme gern.",
-    "file": "/daf/materials/audio/unit11_meine-freizeit/dialogue2.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "1. spielen · 2. lesen · 3. machen · 4. gehen",
-    "file": "/daf/materials/audio/unit11_meine-freizeit/vocab2.ogg",
-    "tts": "1. spielen.\n2. lesen.\n3. machen.\n4. gehen."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
+    "source_body_sha256": "4e9d58b183c0826a35f53a5737a126bb7a51459df33c4c5b88f60681b76cadad",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ana: Was machst du am Wochenende, Luka? Luka: Am Samstag fotografiere ich oft. Am Sonntag spiele ich Schach. Ana: Machst du auch Sport? Luka: Nein, Sport mache ich nie. Aber ich gehe manchmal spazieren. Ana: Ich spiele gern Gitarre. Kommst du am Sonntag? Wir machen Musik! Luka: Ja, super! Ich komme gern."
   }
 ]

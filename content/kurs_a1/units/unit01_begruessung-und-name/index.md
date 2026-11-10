@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit01_begruessung-und-name-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit01_begruessung-und-name-teacher.png
+audio_manifest: unit01_begruessung-und-name
 ---
 
 {{< callout type="note" >}}

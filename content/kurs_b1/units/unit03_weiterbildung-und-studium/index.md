@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit03_weiterbildung-und-studium-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit03_weiterbildung-und-studium-teacher.png
+audio_manifest: unit03_weiterbildung-und-studium
 ---
 
 {{< callout type="note" >}}

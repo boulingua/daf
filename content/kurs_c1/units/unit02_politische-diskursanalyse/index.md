@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit02_politische-diskursanalyse-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit02_politische-diskursanalyse-teacher.png
+audio_manifest: unit02_politische-diskursanalyse
 ---
 
 {{< callout type="note" >}}

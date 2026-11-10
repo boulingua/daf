@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit11_oekonomie-fuer-laien-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit11_oekonomie-fuer-laien-teacher.png
+audio_manifest: unit11_oekonomie-fuer-laien
 ---
 
 {{< callout type="note" >}}

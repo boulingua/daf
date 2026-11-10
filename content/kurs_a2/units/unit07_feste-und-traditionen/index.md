@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit07_feste-und-traditionen-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit07_feste-und-traditionen-teacher.png
+audio_manifest: unit07_feste-und-traditionen
 ---
 
 {{< callout type="note" >}}

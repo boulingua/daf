@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit02_der-bewerbungsweg-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit02_der-bewerbungsweg-teacher.png
+audio_manifest: unit02_der-bewerbungsweg
 ---
 
 {{< callout type="note" >}}

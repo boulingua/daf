@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit05_reiseplanung-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit05_reiseplanung-teacher.png
+audio_manifest: unit05_reiseplanung
 ---
 
 {{< callout type="note" >}}

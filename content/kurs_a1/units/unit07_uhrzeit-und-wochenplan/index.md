@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan-teacher.png
+audio_manifest: unit07_uhrzeit-und-wochenplan
 ---
 
 {{< callout type="note" >}}

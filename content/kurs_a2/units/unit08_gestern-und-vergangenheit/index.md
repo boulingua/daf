@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit08_gestern-und-vergangenheit-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit08_gestern-und-vergangenheit-teacher.png
+audio_manifest: unit08_gestern-und-vergangenheit
 ---
 
 {{< callout type="note" >}}

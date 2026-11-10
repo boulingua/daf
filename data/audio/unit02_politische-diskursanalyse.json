@@ -1,40 +1,96 @@
 [
   {
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Stellen Sie sich vor, zwei Zeitungen berichten über dieselbe Maßnahme.\nDie eine schreibt von einer „Entlastung der Steuerzahler, die andere\nvon „Kürzungen im Sozialhaushalt. Der Sachverhalt ist identisch — der\nFrame nicht. Schon die Wortwahl legt fest, ob wir Erleichterung oder\nVerlust empfinden, bevor überhaupt ein Argument gefallen ist.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+    "source_body_sha256": "e8498399981fd6d9ac874c55ac318820ecde88d59f33b16cf6f4103bc607c79d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Genau hier setzt Diskursanalyse an: Sie fragt nicht zuerst, ob eine\nAussage wahr ist, sondern wie sie uns zum Verstehen anleitet — welche\nRahmen sie aufspannt, welche Voraussetzungen sie stillschweigend\nmitliefert und welche Alternativen sie unsichtbar macht.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+    "source_body_sha256": "e8498399981fd6d9ac874c55ac318820ecde88d59f33b16cf6f4103bc607c79d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "das Framing · die Präsupposition · die Metapher · der Präsuppositionsauslöser · die Wir-Konstruktion · die Gegnerkonstruktion · der Euphemismus · die Nominalisierung · die Hedging-Formel",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+    "source_body_sha256": "e8498399981fd6d9ac874c55ac318820ecde88d59f33b16cf6f4103bc607c79d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "das Framing.\ndie Präsupposition.\ndie Metapher.\nder Präsuppositionsauslöser.\ndie Wir-Konstruktion.\ndie Gegnerkonstruktion.\nder Euphemismus.\ndie Nominalisierung.\ndie Hedging-Formel."
   },
   {
-    "label": "Text 1",
-    "transcript": "Die Metapher dürfte darauf abzielen, Widerspruch als Störung\nerscheinen zu lassen.\nVermutlich / offenbar / augenscheinlich wird hier eine Dringlichkeit\nsuggeriert, die der Sachverhalt nicht hergibt.",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte1.ogg"
-  },
-  {
-    "label": "Text 2",
-    "transcript": "*„Wir werden die Grenzen unseres Landes nicht nur verteidigen — wir\nwerden sie heilen. Unser Land ist krank, und ein krankes Land braucht\nvor allem Ruhe. Wer das begriffen hat, steht längst bei uns. Und wer\nes noch nicht begriffen hat, der wird es lernen.*",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte2.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Krankheits-Metaphorik (Land = kranker Körper) · Präsupposition (faktiver Auslöser „begreifen) · Wir-/Gegnerkonstruktion · Drohung im Lehrgestus",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab2.ogg",
-    "tts": "Krankheits-Metaphorik (Land = kranker Körper).\nPräsupposition (faktiver Auslöser „begreifen).\nWir-/Gegnerkonstruktion.\nDrohung im Lehrgestus."
-  },
-  {
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte3.ogg",
     "label": "Text 3",
-    "transcript": "*Auffällig ist zunächst die somatische Metaphorik: Indem das Land als\n„krank bezeichnet wird, verschiebt der Redner die Auseinandersetzung\nvon der politischen auf die therapeutische Ebene. Ein Kranker braucht\nnicht Debatte, sondern Ruhe — folglich erscheint Widerspruch nicht als\nlegitimes Recht, sondern als schädliche Unruhe. Verstärkt wird dieser\nEffekt durch das faktive Verb „begreifen, das eine einzige richtige\nEinsicht präsupponiert. Wer nicht zustimmt, dem wird nicht ein anderes\nUrteil, sondern schlicht mangelnde Einsicht zugeschrieben. Man könnte\ndaher argumentieren, dass die Passage weniger überzeugen als\nZustimmung moralisch erzwingen will.*",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte3.ogg"
+    "transcript": "Die Metapher dürfte darauf abzielen, Widerspruch als Störung\nerscheinen zu lassen.\nVermutlich / offenbar / augenscheinlich wird hier eine Dringlichkeit\nsuggeriert, die der Sachverhalt nicht hergibt.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+    "source_body_sha256": "e8498399981fd6d9ac874c55ac318820ecde88d59f33b16cf6f4103bc607c79d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Die Metapher dürfte darauf abzielen, Widerspruch als Störung erscheinen zu lassen. Vermutlich / offenbar / augenscheinlich wird hier eine Dringlichkeit suggeriert, die der Sachverhalt nicht hergibt."
   },
   {
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte4.ogg",
     "label": "Text 4",
-    "transcript": "*„Politische Rhetorik sollte im Unterricht als Analyseobjekt behandelt\nwerden — gerade auch jene Rhetorik, die uns stört.*",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte4.ogg"
+    "transcript": "*„Wir werden die Grenzen unseres Landes nicht nur verteidigen — wir\nwerden sie heilen. Unser Land ist krank, und ein krankes Land braucht\nvor allem Ruhe. Wer das begriffen hat, steht längst bei uns. Und wer\nes noch nicht begriffen hat, der wird es lernen.*",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+    "source_body_sha256": "e8498399981fd6d9ac874c55ac318820ecde88d59f33b16cf6f4103bc607c79d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "*„Wir werden die Grenzen unseres Landes nicht nur verteidigen — wir werden sie heilen. Unser Land ist krank, und ein krankes Land braucht vor allem Ruhe. Wer das begriffen hat, steht längst bei uns. Und wer es noch nicht begriffen hat, der wird es lernen.*"
   },
   {
-    "label": "Wortschatz 3",
-    "transcript": "Aufgabenerfüllung · Kohärenz & Textaufbau · Wortschatz · Strukturen · Korrektheit · Summe",
-    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/vocab3.ogg",
-    "tts": "Aufgabenerfüllung.\nKohärenz & Textaufbau.\nWortschatz.\nStrukturen.\nKorrektheit.\nSumme."
+    "file": "/daf/materials/audio/unit02_politische-diskursanalyse/texte5.ogg",
+    "label": "Text 5",
+    "transcript": "*Auffällig ist zunächst die somatische Metaphorik: Indem das Land als\n„krank bezeichnet wird, verschiebt der Redner die Auseinandersetzung\nvon der politischen auf die therapeutische Ebene. Ein Kranker braucht\nnicht Debatte, sondern Ruhe — folglich erscheint Widerspruch nicht als\nlegitimes Recht, sondern als schädliche Unruhe. Verstärkt wird dieser\nEffekt durch das faktive Verb „begreifen, das eine einzige richtige\nEinsicht präsupponiert. Wer nicht zustimmt, dem wird nicht ein anderes\nUrteil, sondern schlicht mangelnde Einsicht zugeschrieben. Man könnte\ndaher argumentieren, dass die Passage weniger überzeugen als\nZustimmung moralisch erzwingen will.*",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_c1/units/unit02_politische-diskursanalyse/index.md",
+    "source_body_sha256": "e8498399981fd6d9ac874c55ac318820ecde88d59f33b16cf6f4103bc607c79d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "*Auffällig ist zunächst die somatische Metaphorik: Indem das Land als „krank bezeichnet wird, verschiebt der Redner die Auseinandersetzung von der politischen auf die therapeutische Ebene. Ein Kranker braucht nicht Debatte, sondern Ruhe — folglich erscheint Widerspruch nicht als legitimes Recht, sondern als schädliche Unruhe. Verstärkt wird dieser Effekt durch das faktive Verb „begreifen, das eine einzige richtige Einsicht präsupponiert. Wer nicht zustimmt, dem wird nicht ein anderes Urteil, sondern schlicht mangelnde Einsicht zugeschrieben. Man könnte daher argumentieren, dass die Passage weniger überzeugen als Zustimmung moralisch erzwingen will.*"
   }
 ]

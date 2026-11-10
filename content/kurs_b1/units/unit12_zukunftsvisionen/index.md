@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit12_zukunftsvisionen-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit12_zukunftsvisionen-teacher.png
+audio_manifest: unit12_zukunftsvisionen
 ---
 
 {{< callout type="note" >}}

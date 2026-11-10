@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit07_gesundheitspolitik-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit07_gesundheitspolitik-teacher.png
+audio_manifest: unit07_gesundheitspolitik
 ---
 
 {{< callout type="note" >}}

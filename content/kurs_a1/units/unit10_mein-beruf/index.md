@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit10_mein-beruf-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit10_mein-beruf-teacher.png
+audio_manifest: unit10_mein-beruf
 ---
 
 {{< callout type="note" >}}

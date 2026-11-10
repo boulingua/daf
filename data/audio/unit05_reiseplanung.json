@@ -1,45 +1,66 @@
 [
   {
+    "file": "/daf/materials/audio/unit05_reiseplanung/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Nora: Du, ich habe die Anzeigen gelesen. Eine Ferienwohnung\nkostet 90 Euro pro Nacht. Das ist zu teuer für uns.\nBen: Wirklich? Und die Jugendherberge?\nNora: Die kostet nur 28 Euro mit Frühstück. Ich glaube,\ndas passt besser, weil wir nur 400 Euro haben.\nBen: Gut. Und wann fährt der Zug? Ich möchte nicht zu früh\naufstehen.\nNora: Der Zug um 9 Uhr 12 ist billig. Dass wir sparen,\nist wichtig. Wir haben ja auch noch Ausflüge geplant.",
-    "file": "/daf/materials/audio/unit05_reiseplanung/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nora: Du, ich habe die Anzeigen gelesen. Eine Ferienwohnung kostet 90 Euro pro Nacht. Das ist zu teuer für uns. Ben: Wirklich? Und die Jugendherberge? Nora: Die kostet nur 28 Euro mit Frühstück. Ich glaube, das passt besser, weil wir nur 400 Euro haben. Ben: Gut. Und wann fährt der Zug? Ich möchte nicht zu früh aufstehen. Nora: Der Zug um 9 Uhr 12 ist billig. Dass wir sparen, ist wichtig. Wir haben ja auch noch Ausflüge geplant."
   },
   {
+    "file": "/daf/materials/audio/unit05_reiseplanung/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "die Unterkunft · der Selbstversorger · die Halbpension · die Vollpension · das Mehrbettzimmer · der Stellplatz · der Aufschlag · das Angebot · der Fahrplan · günstig / preiswert · das Budget · die Ermäßigung",
-    "file": "/daf/materials/audio/unit05_reiseplanung/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "die Unterkunft.\nder Selbstversorger.\ndie Halbpension.\ndie Vollpension.\ndas Mehrbettzimmer.\nder Stellplatz.\nder Aufschlag.\ndas Angebot.\nder Fahrplan.\ngünstig / preiswert.\ndas Budget.\ndie Ermäßigung."
   },
   {
+    "file": "/daf/materials/audio/unit05_reiseplanung/dialogue2.ogg",
     "label": "Dialog 2",
     "transcript": "Merke: weil = Grund (warum?). dass = Inhalt (was?).\nVor weil und dass steht immer ein Komma.",
-    "file": "/daf/materials/audio/unit05_reiseplanung/dialogue2.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Merke: weil = Grund (warum?). dass = Inhalt (was?). Vor weil und dass steht immer ein Komma."
   },
   {
+    "file": "/daf/materials/audio/unit05_reiseplanung/texte1.ogg",
     "label": "Text 1",
     "transcript": "Familie Berger möchte fünf Tage nach Kärnten fahren. Das Budget\nist klein: nur 400 Euro für Unterkunft und Ausflüge. Herr Berger\nhat gestern viele Anzeigen gelesen und die Preise verglichen.\nEin Hotel am See kostet 180 Euro pro Nacht — das war viel zu\nteuer. Deshalb hat die Familie ein Mehrbettzimmer in der\nJugendherberge gebucht. Es kostet 28 Euro pro Person und Nacht,\nmit Frühstück. Frau Berger hat auch den Fahrplan gelesen, weil\ndie Familie mit dem Zug fahren möchte. Der Zug um 9 Uhr 12 ist\npreiswert, weil man früh eine Ermäßigung bekommt. Am Nachmittag\nwollen sie eine Wanderung machen. Sie glauben, dass der Urlaub\nschön und günstig wird.",
-    "file": "/daf/materials/audio/unit05_reiseplanung/texte1.ogg"
-  },
-  {
-    "label": "Text 2",
-    "transcript": "a) Ferienwohnung „Almblick, 3 Zimmer, Balkon. 90 €/Nacht.\nSelbstversorger.\nb) Jugendherberge Graz. Mehrbettzimmer 28 €/Nacht + Frühstück.\nc) Bio-Bauernhof Riegersburg. Zimmer 65 €/Nacht, Halbpension.\nd) Campingplatz Altaussee. Stellplatz mit Zelt 18 €/Nacht.\ne) Hotel „Blau am See. Doppelzimmer 180 €/Nacht, Pool.",
-    "file": "/daf/materials/audio/unit05_reiseplanung/texte2.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Alle Angaben vorhanden (Unterkunft, Essen …) · Budget ist korrekt gerechnet · Mindestens ein richtiger weil-Satz · Wortschatz zum Thema Reise · Verständlichkeit (A2)",
-    "file": "/daf/materials/audio/unit05_reiseplanung/vocab2.ogg",
-    "tts": "Alle Angaben vorhanden (Unterkunft, Essen …).\nBudget ist korrekt gerechnet.\nMindestens ein richtiger weil-Satz.\nWortschatz zum Thema Reise.\nVerständlichkeit (A2)."
-  },
-  {
-    "label": "Text 3",
-    "transcript": "a) Ferienwohnung „Almblick, Berge, 3 Zimmer, Küche.\n90 €/Nacht. Selbstversorger.\nb) Jugendherberge Graz. Mehrbettzimmer 28 €/Nacht + Frühstück.\nc) Bio-Bauernhof Riegersburg. Zimmer 65 €/Nacht, Halbpension,\nProdukte vom Hof.\nd) Campingplatz Altaussee. Stellplatz mit Zelt 18 €/Nacht.\ne) Hotel „Blau am See. Doppelzimmer 180 €/Nacht, Pool.\nf) Hostel „Wien Mitte, Zentrum, 35 €/Nacht.",
-    "file": "/daf/materials/audio/unit05_reiseplanung/texte3.ogg"
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Jede richtige Zuordnung · 5 richtig · 4 richtig · 3 richtig · unter 3 richtig",
-    "file": "/daf/materials/audio/unit05_reiseplanung/vocab3.ogg",
-    "tts": "Jede richtige Zuordnung.\n5 richtig.\n4 richtig.\n3 richtig.\nunter 3 richtig."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
+    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Familie Berger möchte fünf Tage nach Kärnten fahren. Das Budget ist klein: nur 400 Euro für Unterkunft und Ausflüge. Herr Berger hat gestern viele Anzeigen gelesen und die Preise verglichen. Ein Hotel am See kostet 180 Euro pro Nacht — das war viel zu teuer. Deshalb hat die Familie ein Mehrbettzimmer in der Jugendherberge gebucht. Es kostet 28 Euro pro Person und Nacht, mit Frühstück. Frau Berger hat auch den Fahrplan gelesen, weil die Familie mit dem Zug fahren möchte. Der Zug um 9 Uhr 12 ist preiswert, weil man früh eine Ermäßigung bekommt. Am Nachmittag wollen sie eine Wanderung machen. Sie glauben, dass der Urlaub schön und günstig wird."
   }
 ]

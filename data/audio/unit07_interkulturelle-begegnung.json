@@ -1,20 +1,33 @@
 [
   {
+    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Ein kleiner Tausch, ein großes Fragezeichen. Aylin arbeitet seit einem\nMonat in einem Büro in Graz. Zum Geburtstag ihrer Kollegin Steffi bringt sie\neine selbst gebackene Süßigkeit mit und stellt sie wortlos auf den Schreibtisch.\nSteffi bedankt sich freundlich, isst aber nichts und stellt den Teller in die\nGemeinschaftsküche. Aylin ist gekränkt: In ihrer Familie zeigt man mit\nSelbstgebackenem Nähe — wer nicht kostet, weist die Person zurück. Steffi\ndagegen dachte nur: „Ich will niemandem etwas wegnehmen, das teile ich lieber\nmit allen. Beide meinten es gut. Trotzdem ging etwas schief.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
+    "source_body_sha256": "4c399d438527bc50b40ebd557da51a51839b64c1dfe65422a27967cd7a8adfb5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab1.ogg",
     "label": "Wortschatz 1",
     "transcript": "das Missverständnis, -se · die Begegnung, -en · etwas ausräumen · das Register · relativieren · gekränkt sein · die Absicht, -en · voreilig · nachfragen · sich entschuldigen (für) · Rücksicht nehmen (auf) · die Selbstverständlichkeit, -en",
-    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab1.ogg",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
+    "source_body_sha256": "4c399d438527bc50b40ebd557da51a51839b64c1dfe65422a27967cd7a8adfb5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "das Missverständnis, -se.\ndie Begegnung, -en.\netwas ausräumen.\ndas Register.\nrelativieren.\ngekränkt sein.\ndie Absicht, -en.\nvoreilig.\nnachfragen.\nsich entschuldigen (für).\nRücksicht nehmen (auf).\ndie Selbstverständlichkeit, -en."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Überraschung ausdrücken · Nachfragen · Gegenposition nennen · Relativieren · Sich einigen",
-    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab2.ogg",
-    "tts": "Überraschung ausdrücken.\nNachfragen.\nGegenposition nennen.\nRelativieren.\nSich einigen."
-  },
-  {
-    "label": "Wortschatz 3",
-    "transcript": "Aufgabenerfüllung · Interaktion · Wortschatz · Strukturen · Aussprache & Register",
-    "file": "/daf/materials/audio/unit07_interkulturelle-begegnung/vocab3.ogg",
-    "tts": "Aufgabenerfüllung.\nInteraktion.\nWortschatz.\nStrukturen.\nAussprache & Register."
   }
 ]

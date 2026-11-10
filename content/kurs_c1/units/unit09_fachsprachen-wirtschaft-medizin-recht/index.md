@@ -74,6 +74,7 @@ worksheet_teacher:
     /daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit09_fachsprachen-wirtschaft-medizin-recht-teacher.png
+audio_manifest: unit09_fachsprachen-wirtschaft-medizin-recht
 ---
 
 {{< callout type="note" >}}

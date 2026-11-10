@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit09_koerper-und-gesundheit-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit09_koerper-und-gesundheit-teacher.png
+audio_manifest: unit09_koerper-und-gesundheit
 ---
 
 {{< callout type="note" >}}

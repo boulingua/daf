@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit12_literarische-perspektiven-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit12_literarische-perspektiven-teacher.png
+audio_manifest: unit12_literarische-perspektiven
 ---
 
 {{< callout type="note" >}}

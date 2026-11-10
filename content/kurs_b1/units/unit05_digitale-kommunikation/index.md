@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit05_digitale-kommunikation-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit05_digitale-kommunikation-teacher.png
+audio_manifest: unit05_digitale-kommunikation
 ---
 
 {{< callout type="note" >}}

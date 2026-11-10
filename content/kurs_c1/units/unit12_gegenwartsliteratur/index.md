@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit12_gegenwartsliteratur-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit12_gegenwartsliteratur-teacher.png
+audio_manifest: unit12_gegenwartsliteratur
 ---
 
 {{< callout type="note" >}}

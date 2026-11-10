@@ -74,6 +74,7 @@ worksheet_teacher:
     /daf/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit01_arbeitssuche-und-stellenanzeige-teacher.png
+audio_manifest: unit01_arbeitssuche-und-stellenanzeige
 ---
 
 {{< callout type="note" >}}

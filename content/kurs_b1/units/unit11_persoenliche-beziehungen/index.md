@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit11_persoenliche-beziehungen-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit11_persoenliche-beziehungen-teacher.png
+audio_manifest: unit11_persoenliche-beziehungen
 ---
 
 {{< callout type="note" >}}

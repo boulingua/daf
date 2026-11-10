@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit06_hobbys-und-vereine-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit06_hobbys-und-vereine-teacher.png
+audio_manifest: unit06_hobbys-und-vereine
 ---
 
 {{< callout type="note" >}}

@@ -74,6 +74,7 @@ worksheet_teacher:
     /daf/materials/worksheets/unit09_konsum-und-verbraucherschutz-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit09_konsum-und-verbraucherschutz-teacher.png
+audio_manifest: unit09_konsum-und-verbraucherschutz
 ---
 
 {{< callout type="note" >}}

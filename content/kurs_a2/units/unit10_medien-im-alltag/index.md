@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit10_medien-im-alltag-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit10_medien-im-alltag-teacher.png
+audio_manifest: unit10_medien-im-alltag
 ---
 
 {{< callout type="note" >}}

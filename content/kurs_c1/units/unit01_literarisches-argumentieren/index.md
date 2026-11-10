@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit01_literarisches-argumentieren-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit01_literarisches-argumentieren-teacher.png
+audio_manifest: unit01_literarisches-argumentieren
 ---
 
 {{< callout type="note" >}}

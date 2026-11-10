@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit09_bildungsdebatten-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit09_bildungsdebatten-teacher.png
+audio_manifest: unit09_bildungsdebatten
 ---
 
 {{< callout type="note" >}}

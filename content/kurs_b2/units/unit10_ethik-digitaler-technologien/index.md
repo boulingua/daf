@@ -74,6 +74,7 @@ worksheet_teacher:
     /daf/materials/worksheets/unit10_ethik-digitaler-technologien-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit10_ethik-digitaler-technologien-teacher.png
+audio_manifest: unit10_ethik-digitaler-technologien
 ---
 
 {{< callout type="note" >}}

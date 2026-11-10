@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit08_umweltpolitik-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit08_umweltpolitik-teacher.png
+audio_manifest: unit08_umweltpolitik
 ---
 
 {{< callout type="note" >}}

@@ -1,24 +1,49 @@
 [
   {
+    "file": "/daf/materials/audio/unit02_wohnung-mieten/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Layla sucht seit zwei Wochen eine kleine Wohnung. Gestern hat sie am\nHandy eine Anzeige gefunden. Heute sitzt sie mit ihrer Freundin Nadia\nin der Küche und liest laut vor.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
+    "source_body_sha256": "945565d938aa6a9bf6d07e265d6c217df65c55ecdd200f3d18efe3343a682353",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/daf/materials/audio/unit02_wohnung-mieten/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Layla: Schau mal, diese Wohnung finde ich gut. Zwei Zimmer, ein\nBalkon und nicht zu teuer.\nNadia: Und wo liegt sie?\nLayla: In der Nähe vom Bahnhof. Aber ich weiß nicht, wie hoch die\nNebenkosten sind. Das steht nicht in der Anzeige.\nNadia: Dann ruf einfach an und frag! Du kannst auch fragen, wann\ndu die Wohnung anschauen kannst.\nLayla: Gute Idee. Ich rufe morgen früh an.",
-    "file": "/daf/materials/audio/unit02_wohnung-mieten/dialogue1.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
+    "source_body_sha256": "945565d938aa6a9bf6d07e265d6c217df65c55ecdd200f3d18efe3343a682353",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Layla: Schau mal, diese Wohnung finde ich gut. Zwei Zimmer, ein Balkon und nicht zu teuer. Nadia: Und wo liegt sie? Layla: In der Nähe vom Bahnhof. Aber ich weiß nicht, wie hoch die Nebenkosten sind. Das steht nicht in der Anzeige. Nadia: Dann ruf einfach an und frag! Du kannst auch fragen, wann du die Wohnung anschauen kannst. Layla: Gute Idee. Ich rufe morgen früh an."
   },
   {
-    "label": "Wortschatz 1",
-    "transcript": "Wohnungsanzeige · Miete · Kaltmiete · Warmmiete · Nebenkosten · Kaution · Besichtigung · Termin · Lage · Quadratmeter (m²) · Stock / Etage · frei / verfügbar",
-    "file": "/daf/materials/audio/unit02_wohnung-mieten/vocab1.ogg",
-    "tts": "Wohnungsanzeige.\nMiete.\nKaltmiete.\nWarmmiete.\nNebenkosten.\nKaution.\nBesichtigung.\nTermin.\nLage.\nQuadratmeter (m²).\nStock / Etage.\nfrei / verfügbar."
-  },
-  {
-    "label": "Text 1",
+    "file": "/daf/materials/audio/unit02_wohnung-mieten/texte2.ogg",
+    "label": "Text 2",
     "transcript": "Am nächsten Morgen ruft Layla bei Frau Bergmann an. Frau Bergmann\nvermietet eine Zweizimmerwohnung in Leipzig. Layla sagt zuerst ihren\nNamen und erklärt den Grund für den Anruf. Dann fragt sie höflich\nnach den Nebenkosten, weil diese Information in der Anzeige gefehlt\nhat. Frau Bergmann sagt, dass die Nebenkosten 110 Euro pro Monat\nsind. Die Kaltmiete kostet 490 Euro, die Kaution sind zwei\nMonatsmieten. Layla möchte die Wohnung gerne anschauen und fragt\nnach einem Termin. Frau Bergmann bietet zwei Termine an: am\nMittwoch um 17 Uhr oder am Samstag um 11 Uhr. Layla nimmt den\nSamstagstermin, weil sie am Mittwoch arbeiten muss. Zum Schluss\nbedankt sie sich und wiederholt den Termin. (ca. 110 Wörter)",
-    "file": "/daf/materials/audio/unit02_wohnung-mieten/texte1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Alle vier Punkte werden besprochen · Vorschläge machen und begründen (weil) · Auf den Partner reagieren / sich einigen · Wortschatz & Aussprache (verständlich)",
-    "file": "/daf/materials/audio/unit02_wohnung-mieten/vocab2.ogg",
-    "tts": "Alle vier Punkte werden besprochen.\nVorschläge machen und begründen (weil).\nAuf den Partner reagieren / sich einigen.\nWortschatz & Aussprache (verständlich)."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a2/units/unit02_wohnung-mieten/index.md",
+    "source_body_sha256": "945565d938aa6a9bf6d07e265d6c217df65c55ecdd200f3d18efe3343a682353",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Am nächsten Morgen ruft Layla bei Frau Bergmann an. Frau Bergmann vermietet eine Zweizimmerwohnung in Leipzig. Layla sagt zuerst ihren Namen und erklärt den Grund für den Anruf. Dann fragt sie höflich nach den Nebenkosten, weil diese Information in der Anzeige gefehlt hat. Frau Bergmann sagt, dass die Nebenkosten 110 Euro pro Monat sind. Die Kaltmiete kostet 490 Euro, die Kaution sind zwei Monatsmieten. Layla möchte die Wohnung gerne anschauen und fragt nach einem Termin. Frau Bergmann bietet zwei Termine an: am Mittwoch um 17 Uhr oder am Samstag um 11 Uhr. Layla nimmt den Samstagstermin, weil sie am Mittwoch arbeiten muss. Zum Schluss bedankt sie sich und wiederholt den Termin. (ca. 110 Wörter)"
   }
 ]

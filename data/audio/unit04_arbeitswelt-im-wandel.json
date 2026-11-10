@@ -1,19 +1,33 @@
 [
   {
-    "label": "Wortschatz 1",
-    "transcript": "die Automatisierung · das Automatisierungspotenzial · die Verdrängung (von Arbeitsplätzen) · die Umschulung / die Weiterbildung · die Schlüsselkompetenz · die Nuance abwägen · ein Segen / ein Fluch sein · etwas in Frage stellen · die Produktivität steigern · unverzichtbar bleiben",
-    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab1.ogg",
-    "tts": "die Automatisierung.\ndas Automatisierungspotenzial.\ndie Verdrängung (von Arbeitsplätzen).\ndie Umschulung / die Weiterbildung.\ndie Schlüsselkompetenz.\ndie Nuance abwägen.\nein Segen / ein Fluch sein.\netwas in Frage stellen.\ndie Produktivität steigern.\nunverzichtbar bleiben."
+    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Nihad Kovač, Kulturmanager, moderiert in Berlin ein Panel mit\ndem provokanten Titel: „Wird der kreative Beruf durch KI ersetzt?\nVier Gäste — aus Journalismus, Übersetzung, Softwareentwicklung und\nTheater — sind eingeladen. Noch bevor die erste Frage gestellt wird,\nraunt es im Publikum: Die einen erwarten eine Abrechnung mit der\nTechnik, die anderen erhoffen sich einen Aufbruch. Kovač lächelt und\nsagt nur: „Vermutlich werden Sie heute vier sehr verschiedene\nWahrheiten hören — und keine davon ist ganz falsch.",
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
+    "source_body_sha256": "719803f6d814e8cceff28e4e5f1d31a0435f2606c1c82873a2e28a07b04390ea",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Journalismus — Jana: „Die Recherche beschleunigt sich, das ist\nein Segen. Aber wenn KI den Kommentar schreibt, verliert die\nZeitung ihre Stimme. Die Grenze ist für mich klar: Fakten sammeln\nja, Meinung formulieren nein.\nÜbersetzung — Pavel: „Für technische Texte nutze ich KI jeden\nTag; die Zeitersparnis ist enorm. Literaturübersetzung hingegen\nbleibt anstrengend persönlich — die Nuance ist nicht berechenbar,\nund genau darin liegt mein Wert.\nSoftwareentwicklung — Amira: „Ich war skeptisch. Heute benutze\nich KI als Partnerin beim Debuggen und bin deutlich schneller.\nWas ich vermisse, sind die Kolleg:innen, mit denen ich früher über\njede Zeile Code diskutiert habe.\nTheater — Leo: „Ein Schauspiel funktioniert, weil zwischen\nMenschen etwas Unberechenbares geschieht. Kein Modell kann das\nnachstellen — dennoch könnte KI die Textarbeit vor der Probe\nerleichtern. Ersetzen wird sie den Abend nicht.",
-    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/dialogue1.ogg"
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "Aufgabenerfüllung / Inhalt (These, Belege) · Struktur & Kohärenz (Konnektoren, roter Faden) · Interaktion (auf Partner:in eingehen, Teil 2) · Wortschatz (Themenvokabular, Redemittel) · Grammatik & Aussprache · Gesamt",
-    "file": "/daf/materials/audio/unit04_arbeitswelt-im-wandel/vocab2.ogg",
-    "tts": "Aufgabenerfüllung / Inhalt (These, Belege).\nStruktur & Kohärenz (Konnektoren, roter Faden).\nInteraktion (auf Partner:in eingehen, Teil 2).\nWortschatz (Themenvokabular, Redemittel).\nGrammatik & Aussprache.\nGesamt."
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
+    "source_body_sha256": "719803f6d814e8cceff28e4e5f1d31a0435f2606c1c82873a2e28a07b04390ea",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Journalismus — Jana: „Die Recherche beschleunigt sich, das ist ein Segen. Aber wenn KI den Kommentar schreibt, verliert die Zeitung ihre Stimme. Die Grenze ist für mich klar: Fakten sammeln ja, Meinung formulieren nein. Übersetzung — Pavel: „Für technische Texte nutze ich KI jeden Tag; die Zeitersparnis ist enorm. Literaturübersetzung hingegen bleibt anstrengend persönlich — die Nuance ist nicht berechenbar, und genau darin liegt mein Wert. Softwareentwicklung — Amira: „Ich war skeptisch. Heute benutze ich KI als Partnerin beim Debuggen und bin deutlich schneller. Was ich vermisse, sind die Kolleg:innen, mit denen ich früher über jede Zeile Code diskutiert habe. Theater — Leo: „Ein Schauspiel funktioniert, weil zwischen Menschen etwas Unberechenbares geschieht. Kein Modell kann das nachstellen — dennoch könnte KI die Textarbeit vor der Probe erleichtern. Ersetzen wird sie den Abend nicht."
   }
 ]

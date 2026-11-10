@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit05_identitaet-und-sprache-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit05_identitaet-und-sprache-teacher.png
+audio_manifest: unit05_identitaet-und-sprache
 ---
 
 {{< callout type="note" >}}

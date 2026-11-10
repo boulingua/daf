@@ -1,29 +1,18 @@
 [
   {
+    "file": "/daf/materials/audio/unit05_essen-und-trinken/dialogue1.ogg",
     "label": "Dialog 1",
     "transcript": "Herr Klein: Guten Tag! Was möchten Sie trinken?\nMia: Ich möchte einen Orangensaft, bitte. Ich mag Saft sehr gern.\nTom: Für mich einen Kaffee, bitte.\nFrau Berg: Und ich nehme einen Tee. Ich mag keinen Kaffee.\nHerr Klein: Gern. Und was möchten Sie essen?\nMia: Ein Käsebrot, bitte. Ich mag Käse.\nHerr Klein: Sehr gern. Kommt sofort!",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/dialogue1.ogg"
-  },
-  {
-    "label": "Wortschatz 1",
-    "transcript": "das Brot · das Brötchen · der Käse · die Wurst · das Ei · der Apfel · die Suppe · der Kaffee · der Tee · der Saft · das Wasser · die Milch · ich mag · ich mag … nicht · gern",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab1.ogg",
-    "tts": "das Brot.\ndas Brötchen.\nder Käse.\ndie Wurst.\ndas Ei.\nder Apfel.\ndie Suppe.\nder Kaffee.\nder Tee.\nder Saft.\ndas Wasser.\ndie Milch.\nich mag.\nich mag … nicht.\ngern."
-  },
-  {
-    "label": "Wortschatz 2",
-    "transcript": "ich · du · er/sie/es · wir · ihr · sie/Sie",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/vocab2.ogg",
-    "tts": "ich.\ndu.\ner/sie/es.\nwir.\nihr.\nsie/Sie."
-  },
-  {
-    "label": "Text 1",
-    "transcript": "— Guten Tag. Was möchten Sie?\n— ________________________________\n— Und zu trinken?\n— ________________________________\n— Das macht 5 Euro, bitte.",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/texte1.ogg"
-  },
-  {
-    "label": "Text 2",
-    "transcript": "Hallo Tom,\nheute Abend koche ich eine Suppe. Ich mag Suppe sehr gern! Du magst keine Suppe, oder? Für dich habe ich ein Käsebrot. Wir trinken Tee. Kommst du um 18 Uhr?\nMia",
-    "file": "/daf/materials/audio/unit05_essen-und-trinken/texte2.ogg"
+    "source": "tts",
+    "voice": "de_DE-mls-medium",
+    "model_sha256": "69cd1d2aa5a35839a518966fcc4924b5f93e5f8c948ed0752b1a616ad53f65bf",
+    "config_sha256": "b0af1c89ddfdc72d32e015729b0e89b99eec13c2c8caa1db7488d98e9e570b40",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/kurs_a1/units/unit05_essen-und-trinken/index.md",
+    "source_body_sha256": "1df5c3c0c1c269f10b31262031ffae33f4c377149ebed510ef80c3e4eefaa11c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Herr Klein: Guten Tag! Was möchten Sie trinken? Mia: Ich möchte einen Orangensaft, bitte. Ich mag Saft sehr gern. Tom: Für mich einen Kaffee, bitte. Frau Berg: Und ich nehme einen Tee. Ich mag keinen Kaffee. Herr Klein: Gern. Und was möchten Sie essen? Mia: Ein Käsebrot, bitte. Ich mag Käse. Herr Klein: Sehr gern. Kommt sofort!"
   }
 ]

@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit06_einkaufen-und-preise-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit06_einkaufen-und-preise-teacher.png
+audio_manifest: unit06_einkaufen-und-preise
 ---
 
 {{< callout type="note" >}}

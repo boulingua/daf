@@ -74,6 +74,7 @@ worksheet_teacher:
     /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit08_philosophie-fuer-informierte-laien-teacher.png
+audio_manifest: unit08_philosophie-fuer-informierte-laien
 ---
 
 {{< callout type="note" >}}

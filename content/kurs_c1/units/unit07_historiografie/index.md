@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit07_historiografie-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit07_historiografie-teacher.png
+audio_manifest: unit07_historiografie
 ---
 
 {{< callout type="note" >}}

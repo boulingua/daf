@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit03_gesellschaftliche-debatten-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit03_gesellschaftliche-debatten-teacher.png
+audio_manifest: unit03_gesellschaftliche-debatten
 ---
 
 {{< callout type="note" >}}

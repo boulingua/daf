@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit12_reisen-und-unterwegs-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit12_reisen-und-unterwegs-teacher.png
+audio_manifest: unit12_reisen-und-unterwegs
 ---
 
 {{< callout type="note" >}}

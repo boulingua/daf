@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit01_medienlandschaft-heute-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit01_medienlandschaft-heute-teacher.png
+audio_manifest: unit01_medienlandschaft-heute
 ---
 
 {{< callout type="note" >}}

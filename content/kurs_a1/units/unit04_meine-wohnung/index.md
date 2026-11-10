@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit04_meine-wohnung-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit04_meine-wohnung-teacher.png
+audio_manifest: unit04_meine-wohnung
 ---
 
 {{< callout type="note" >}}

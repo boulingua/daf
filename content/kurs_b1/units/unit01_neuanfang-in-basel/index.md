@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit01_neuanfang-in-basel-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit01_neuanfang-in-basel-teacher.png
+audio_manifest: unit01_neuanfang-in-basel
 ---
 
 {{< callout type="note" >}}

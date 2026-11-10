@@ -73,6 +73,7 @@ worksheet_teacher:
   file: /daf/materials/worksheets/unit08_wetter-und-jahreszeiten-teacher.pdf
   thumbnail:
     /daf/materials/worksheets/unit08_wetter-und-jahreszeiten-teacher.png
+audio_manifest: unit08_wetter-und-jahreszeiten
 ---
 
 {{< callout type="note" >}}

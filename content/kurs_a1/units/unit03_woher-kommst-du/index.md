@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit03_woher-kommst-du-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit03_woher-kommst-du-teacher.png
+audio_manifest: unit03_woher-kommst-du
 ---
 
 {{< callout type="note" >}}

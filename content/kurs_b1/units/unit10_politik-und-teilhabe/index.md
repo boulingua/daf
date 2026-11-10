@@ -72,6 +72,7 @@ exam:
 worksheet_teacher:
   file: /daf/materials/worksheets/unit10_politik-und-teilhabe-teacher.pdf
   thumbnail: /daf/materials/worksheets/unit10_politik-und-teilhabe-teacher.png
+audio_manifest: unit10_politik-und-teilhabe
 ---
 
 {{< callout type="note" >}}
