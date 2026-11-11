@@ -7,7 +7,14 @@ resources/
 _site/
 _freeze/
 .quarto/
-docs/
+docs/*
+!docs/assessment-archive/
+!docs/eqs-archive/
+!docs/factual-source-repairs/
+!docs/assessment-build-2026-10-31.json
+!docs/assessment-review-2026-10-31.md
+!docs/curriculum-review-2026-10-31.json
+!docs/material-build-2026-10-31.json
 
 # (Quarto-era 'downloads/' exclusion removed — Hugo serves exam PDFs
 # from static/downloads/<level>/ which must be tracked.)
@@ -62,3 +69,8 @@ _materials/*.nav
 _materials/*.snm
 _materials/*.toc
 _materials/*.out
+
+go.work
+go.work.sum
+build/
+.venv/

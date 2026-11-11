@@ -37,13 +37,43 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.06
-    - A2.PROD.creative-writing.07
-    - A2.INT.correspondence.01
-    - A2.PROD.compensating.01
-    - A2.MED.collaborating-to-construct-meaning.01
+  - A2.INT.conversation.06
+  - A2.PROD.creative-writing.07
+  - A2.INT.correspondence.01
+  - A2.PROD.compensating.01
+  - A2.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file:
+    /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit12_freundschaft-und-familiengeschichte-teacher.png
 audio_manifest: unit12_freundschaft-und-familiengeschichte
 ---
 
@@ -77,14 +107,14 @@ audio_manifest: unit12_freundschaft-und-familiengeschichte
 >
 > **Omar:** Eine schöne Geschichte. Meine Familie kommt aus Aleppo. Mein Vater war Lehrer, aber wir sind 2015 weggegangen.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 - Haben Sie ein altes Familienfoto? Wer ist darauf?
 - Wer war in Ihrer Familie eine wichtige Person? Warum?
 - Wie erzählen Sie eine Geschichte von früher — mit *habe gemacht* oder mit *machte*?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Deutsch | Beispielsatz |
@@ -146,8 +176,7 @@ Maja lebt in **Graz**. Graz ist die zweitgrößte Stadt Österreichs und die Hau
 
 *(Frei paraphrasiert und gekürzt nach de.wikipedia.org, „Graz" und „Universität Graz", CC BY-SA 4.0 — siehe Quellen.)*
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Perfekt bilden.** Setzen Sie das Verb ins Perfekt.
 
 1. Ich ___ Deutsch ___ (lernen).
@@ -190,8 +219,7 @@ Maja lebt in **Graz**. Graz ist die zweitgrößte Stadt Österreichs und die Hau
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (A2, ca. 80 Wörter): Eine Dankesmitteilung**
 
 Ein Mensch hat Ihnen in einer schwierigen Zeit geholfen (eine Freundin, ein Mentor, eine Chefin). Schreiben Sie ihm oder ihr eine kurze, halb-formelle Nachricht:
@@ -210,38 +238,18 @@ Ein Mensch hat Ihnen in einer schwierigen Zeit geholfen (eine Freundin, ein Ment
 | Konnektoren | Mindestens ein *weil* oder *denn* ist korrekt. |
 | Anrede/Gruß | Passende Anrede und Grußformel. |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 — Modul Schreiben, Teil 2 (halb-formelle Mitteilung)**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam" >}}).
 
-**Aufgabe:** Sie haben eine neue Stelle bekommen. Ihre frühere Chefin, **Frau Dr. Weiß**, hat Ihnen mit einer Referenz geholfen. Schreiben Sie ihr eine Nachricht (ca. 40 Wörter). Schreiben Sie zu allen drei Punkten:
-
-- Bedanken Sie sich für die Hilfe.
-- Erzählen Sie kurz von der neuen Stelle (Perfekt: *Ich habe … bekommen*).
-- Fragen Sie, ob Sie sich noch einmal treffen können.
-
-Denken Sie an Anrede (*Sehr geehrte Frau Dr. Weiß,*) und Gruß (*Mit freundlichen Grüßen*).
-
-**Punkte-Rubrik (max. 10 Punkte):**
-
-| Bereich | Punkte |
-|---------|--------|
-| Inhalt: alle drei Punkte bearbeitet | 4 |
-| Kommunikation: passende Anrede und Grußformel | 2 |
-| Sprache: Perfekt/Präteritum und Wortschatz | 2 |
-| Korrektheit: Satzbau und Rechtschreibung verständlich | 2 |
-
-*Bestanden ab 6 Punkten. Hinweis: Die Aufgabe prüft das Schreiben; ein Modelltext steht im Lösungsteil des Arbeitsblatts.*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann meine Familiengeschichte in fünf Sätzen im Perfekt erzählen.
 - [ ] Ich weiß, wann ich *sein* und wann ich *haben* benutze.
 - [ ] Ich kann *war* und *hatte* richtig verwenden.
 - [ ] Ich verbinde Sätze mit *weil, denn, aber* und *und*.
 - [ ] Ich kann eine halb-formelle Dankesmitteilung schreiben.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' · Anwenden 8' · Prüfung/Reflexion 7'.
 

@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.correspondence.01
-    - B2.PROD.reports-and-essays.03
-    - B2.REC.reading-for-information-and-argument.04
-    - B2.INT.goal-oriented-co-operation.03
-    - B2.LING.orthographic-control.01
+  - B2.INT.correspondence.01
+  - B2.PROD.reports-and-essays.03
+  - B2.REC.reading-for-information-and-argument.04
+  - B2.INT.goal-oriented-co-operation.03
+  - B2.LING.orthographic-control.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit07_gesundheitspolitik_exam
+  format: module-practice
+  duration_minutes:
+  points: 20
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit07_gesundheitspolitik-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit07_gesundheitspolitik-teacher.png
 audio_manifest: unit07_gesundheitspolitik
 ---
 
@@ -82,6 +110,7 @@ Genau das ist gemeint, wenn im politischen Diskurs vom
 Zusammenbruch, sondern ein langsames, strukturelles Ausdünnen der
 Versorgung.
 
+## Aktivieren {#activate}
 **Diskutieren Sie zu zweit oder in der Gruppe:**
 
 1. Wie ist die Pflege in Ihrem Heimatland organisiert — eher über
@@ -93,8 +122,7 @@ Versorgung.
 4. Was bedeutet **Solidarität** in einem Gesundheitssystem —
    und wo hört sie Ihrer Meinung nach auf?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort / Wendung                    | Erklärung                                            |
@@ -235,8 +263,7 @@ Mal nur zu; machen Sie sich beim zweiten Mal Notizen.*
 > nicht nur, was Pflege kostet, sondern welchen Wert wir ihr
 > beimessen.
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Argumente zuordnen (Niveau: B1+/B2)
 
 Ist das Argument **ökonomisch (Ö)**, **demografisch (D)** oder
@@ -324,8 +351,7 @@ werden.“*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 ### Produktionsaufgabe — Pro-und-Kontra-Diskussion (ca. 8 Min.)
 
 Arbeiten Sie zu zweit. **A** vertritt die These, **B** die
@@ -346,35 +372,11 @@ Sie auseinander, wo näher beieinander? (2 Min.).
   **eine Passivkonstruktion** ein.
 - Ich nutze **vier** Fachbegriffe aus dem Wortschatz korrekt.
 
-## Prüfung
+## Prüfung {#exam}
 
-### GER B2 — Modul Sprechen, Teil 2 (Diskussion, Paarprüfung)
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit07_gesundheitspolitik_exam" >}}).
 
-**Aufgabenstellung (ca. 5 Min.):** Sie erhalten eine These. Person
-A argumentiert **dafür**, Person B **dagegen**. Nennen Sie je
-**mindestens zwei** Argumente, gehen Sie auf Ihr Gegenüber ein und
-formulieren Sie am Ende eine kurze eigene Position. Eine Einigung
-ist **nicht** erforderlich.
-
-> *These:* **„Pflege ist eine gesellschaftliche Aufgabe und sollte
-> vollständig aus Steuern finanziert werden — nicht über
-> Versicherungsbeiträge.“**
-
-**Bewertungsrubrik (20 Punkte):**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| **Aufgabenbewältigung** (2 Argumente + Position, Bezug zur These) |   5    |
-| **Interaktion** (auf Partner eingehen, nachfragen, widersprechen) |   5    |
-| **Wortschatz** (Fachbegriffe des Pflegediskurses, Genauigkeit)    |   4    |
-| **Grammatik** (Konnektoren, Passiv, Konjunktiv I/II, Nebensätze)  |   4    |
-| **Aussprache & Flüssigkeit** (verständlich, wenig Stocken)        |   2    |
-| **Gesamt**                                                         | **20** |
-
-**Bestehensgrenze (Orientierung):** 12 / 20 Punkte.
-
-## Reflexion
-
+## Reflexion {#reflect}
 Kreuzen Sie ehrlich an:
 
 - [ ] Ich unterscheide **ökonomische, demografische und ethische**
@@ -390,7 +392,7 @@ Kreuzen Sie ehrlich an:
 **Kurze Selbstnotiz:** Welche eine Redewendung möchte ich in der
 nächsten Diskussion bewusst einsetzen? __________
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Min.):**
 

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
-    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "source_body_sha256": "2a5659f20ca55c643d21f1a36af9ca1537f177250829426b3d44c2ee9e15da32",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nora: Du, ich habe die Anzeigen gelesen. Eine Ferienwohnung kostet 90 Euro pro Nacht. Das ist zu teuer für uns. Ben: Wirklich? Und die Jugendherberge? Nora: Die kostet nur 28 Euro mit Frühstück. Ich glaube, das passt besser, weil wir nur 400 Euro haben. Ben: Gut. Und wann fährt der Zug? Ich möchte nicht zu früh aufstehen. Nora: Der Zug um 9 Uhr 12 ist billig. Dass wir sparen, ist wichtig. Wir haben ja auch noch Ausflüge geplant."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
-    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "source_body_sha256": "2a5659f20ca55c643d21f1a36af9ca1537f177250829426b3d44c2ee9e15da32",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Unterkunft.\nder Selbstversorger.\ndie Halbpension.\ndie Vollpension.\ndas Mehrbettzimmer.\nder Stellplatz.\nder Aufschlag.\ndas Angebot.\nder Fahrplan.\ngünstig / preiswert.\ndas Budget.\ndie Ermäßigung."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
-    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "source_body_sha256": "2a5659f20ca55c643d21f1a36af9ca1537f177250829426b3d44c2ee9e15da32",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Merke: weil = Grund (warum?). dass = Inhalt (was?). Vor weil und dass steht immer ein Komma."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit05_reiseplanung/index.md",
-    "source_body_sha256": "cbacabf6bbff50959d155632363e03e4ecfd5728406afef4747d5564352731ed",
+    "source_body_sha256": "2a5659f20ca55c643d21f1a36af9ca1537f177250829426b3d44c2ee9e15da32",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Familie Berger möchte fünf Tage nach Kärnten fahren. Das Budget ist klein: nur 400 Euro für Unterkunft und Ausflüge. Herr Berger hat gestern viele Anzeigen gelesen und die Preise verglichen. Ein Hotel am See kostet 180 Euro pro Nacht — das war viel zu teuer. Deshalb hat die Familie ein Mehrbettzimmer in der Jugendherberge gebucht. Es kostet 28 Euro pro Person und Nacht, mit Frühstück. Frau Berger hat auch den Fahrplan gelesen, weil die Familie mit dem Zug fahren möchte. Der Zug um 9 Uhr 12 ist preiswert, weil man früh eine Ermäßigung bekommt. Am Nachmittag wollen sie eine Wanderung machen. Sie glauben, dass der Urlaub schön und günstig wird."

@@ -37,13 +37,43 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.goal-oriented-co-operation.03
-    - B2.PROD.creative-writing.01
-    - B2.INT.informal-discussion.03
-    - B2.PROD.reports-and-essays.03
-    - B2.MED.collaborating-to-construct-meaning.01
+  - B2.INT.goal-oriented-co-operation.03
+  - B2.PROD.creative-writing.01
+  - B2.INT.informal-discussion.03
+  - B2.PROD.reports-and-essays.03
+  - B2.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit10_ethik-digitaler-technologien_exam
+  format: module-practice
+  duration_minutes:
+  points: 20
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file:
+    /daf/materials/worksheets/unit10_ethik-digitaler-technologien-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit10_ethik-digitaler-technologien-teacher.png
 audio_manifest: unit10_ethik-digitaler-technologien
 ---
 
@@ -81,6 +111,7 @@ installieren?“* Sie zögert und sagt schließlich: *„Die Frage ist nicht,
 ob die Technik funktioniert. Die Frage ist, welchen Menschen sie aus
 uns macht.“*
 
+## Aktivieren {#activate}
 **Sprechen Sie zu zweit:**
 
 1. Wann ist eine Technologie ethisch **problematisch** — und wann nur
@@ -92,8 +123,7 @@ uns macht.“*
 4. Talia Weiss trennt *Funktion* und *Verantwortung*. Können Sie diese
    Unterscheidung mit eigenen Worten erklären?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Begriff                    | Bedeutung / Erläuterung                                        |
@@ -191,8 +221,7 @@ System, das aus einer verzerrten Stichprobe lernt, bestehende
 Benachteiligungen reproduzieren kann (paraphrasiert, CC BY-SA). Rechtliche
 und ethische Anforderungen greifen hier also ineinander.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Begriffe zuordnen (Niveau A: leichter).**
 Welcher Fachbegriff aus der Vokabeltabelle passt?
 
@@ -255,8 +284,7 @@ gemeinsamen, konkreten Prüfung ein — genau das leistet gute Moderation.*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (Schreiben, B2, ca. 220–260 Wörter).**
 
 Sie moderieren ein Online-Forum zur Frage:
@@ -285,39 +313,11 @@ eigene begründete Stellungnahme enthält. Bauen Sie es so auf:
 | Fachbegriffe korrekt (min. 3)               |          |
 | Umfang eingehalten (220–260 Wörter)         |          |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 — Modul Schreiben, Teil 1 (Meinungsäußerung / Kommentar).**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit10_ethik-digitaler-technologien_exam" >}}).
 
-**Aufgabe:** Schreiben Sie einen **schriftlichen Kommentar (ca. 220
-Wörter)** zu folgender These:
-
-> *„Staatliche Stellen sollten KI-gestützte Auswertungen öffentlicher
-> Daten nur nach ausdrücklicher Zustimmung der Betroffenen einsetzen
-> dürfen.“*
-
-Behandeln Sie in Ihrem Kommentar die vier B2-Sprachfunktionen:
-
-1. **Meinung** — beziehen Sie klar Position.
-2. **Argument** — begründen Sie diese Position.
-3. **Beispiel** — veranschaulichen Sie mit einem konkreten Fall.
-4. **Vor- und Nachteile** — wägen Sie ab (*einerseits / andererseits*).
-
-**Bewertungsraster (max. 20 Punkte):**
-
-| Bereich                                          | Punkte |
-|--------------------------------------------------|:------:|
-| Inhalt: alle vier Sprachfunktionen abgedeckt     |   6    |
-| Aufbau & Kohärenz (Konnektoren, roter Faden)     |   5    |
-| Wortschatz: Fachbegriffe treffend eingesetzt     |   4    |
-| Grammatik: Passiv, Konjunktiv, Nominalisierung   |   3    |
-| Register & Angemessenheit (sachlich, adressiert) |   2    |
-| **Gesamt**                                       | **20** |
-
-*Bestehensgrenze (Orientierung): 12 / 20 Punkte.*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich benenne mindestens sechs ethische Fachbegriffe korrekt.
 - [ ] Ich formuliere ein digitales Dilemma als abwägende Fragestellung.
 - [ ] Ich argumentiere mit *einerseits / andererseits / folglich*.
@@ -325,7 +325,7 @@ Behandeln Sie in Ihrem Kommentar die vier B2-Sprachfunktionen:
 - [ ] Ich moderiere zugespitzte Aussagen respektvoll und lösungsorientiert.
 - [ ] Ich unterscheide sicher zwischen *Datenschutz* und *Datensicherheit*.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

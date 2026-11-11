@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
-    "source_body_sha256": "c92d6d91295b862fe0a48dd4aab80871d44d367c6f65b1c4ea55c4f5769c63df",
+    "source_body_sha256": "313c45178635296b60a9c4ebe02c26fb6a5c1cb2c6310b6a5347137a0ece2a25",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
-    "source_body_sha256": "c92d6d91295b862fe0a48dd4aab80871d44d367c6f65b1c4ea55c4f5769c63df",
+    "source_body_sha256": "313c45178635296b60a9c4ebe02c26fb6a5c1cb2c6310b6a5347137a0ece2a25",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nina: Guten Morgen! Wie ist das Wetter heute? Frau Kraus: Sieh mal aus dem Fenster. Die Sonne scheint! Tom: Super! Es ist warm. Wir gehen in den Park. Radio: „Heute in München: am Morgen sonnig, 20 Grad. Am Nachmittag kommen Wolken. Am Abend regnet es. Nina: Am Abend regnet es? Dann nehme ich eine Jacke mit. Frau Kraus: Gute Idee. Am Abend ist es kühl."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten/index.md",
-    "source_body_sha256": "c92d6d91295b862fe0a48dd4aab80871d44d367c6f65b1c4ea55c4f5769c63df",
+    "source_body_sha256": "313c45178635296b60a9c4ebe02c26fb6a5c1cb2c6310b6a5347137a0ece2a25",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ich heiße Sofia. Ich wohne in Hamburg. Mein Lieblingswetter ist Sonne. Im Sommer ist es warm, oft 25 Grad. Ich gehe dann schwimmen. Im Winter ist es kalt. Manchmal schneit es. Dann trinke ich Tee zu Hause. Mein Lieblingsmonat ist Mai. Im Mai ist es nicht zu warm und nicht zu kalt."

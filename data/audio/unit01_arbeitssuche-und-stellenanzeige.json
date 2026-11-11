@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
-    "source_body_sha256": "cd127e7e55422a1f0549eb600f872ed945a64dcd19cda91d004850dca52cac8b",
+    "source_body_sha256": "fa82d14e56a356b9ac006eb43c20eab32f84fd76edc6b220ed484bbeecd49b31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
-    "source_body_sha256": "cd127e7e55422a1f0549eb600f872ed945a64dcd19cda91d004850dca52cac8b",
+    "source_body_sha256": "fa82d14e56a356b9ac006eb43c20eab32f84fd76edc6b220ed484bbeecd49b31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Lena: Was liest du denn da so genau? Maja: Eine Stellenanzeige. Ich möchte die Stelle wechseln, weil das Krankenhaus wenig zahlt und die Wege weit sind. Lena: Und was suchst du? Vollzeit oder Teilzeit? Maja: Vollzeit. Aber ich habe keinen Schichtdienst mehr gern. Ich möchte am Abend zu Hause sein. Lena: Dann musst du gut lesen: Arbeitszeit, Gehalt und Beginn stehen immer in der Anzeige."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
-    "source_body_sha256": "cd127e7e55422a1f0549eb600f872ed945a64dcd19cda91d004850dca52cac8b",
+    "source_body_sha256": "fa82d14e56a356b9ac006eb43c20eab32f84fd76edc6b220ed484bbeecd49b31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Stellenanzeige, -n.\ndie Bewerbung, -en.\nVollzeit / Teilzeit.\ndas Gehalt (brutto / netto).\nder Schichtdienst.\ndie Anforderung, -en.\ndie Erfahrung, -en.\ndie Weiterbildung, -en.\nder Beginn / der Starttermin.\ndie Unterlagen (Pl.)."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
-    "source_body_sha256": "cd127e7e55422a1f0549eb600f872ed945a64dcd19cda91d004850dca52cac8b",
+    "source_body_sha256": "fa82d14e56a356b9ac006eb43c20eab32f84fd76edc6b220ed484bbeecd49b31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Merke: Bei Modalverben steht das Modalverb ganz am Ende: …, weil ich nicht in Schichten arbeiten möchte."
@@ -73,7 +73,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige/index.md",
-    "source_body_sha256": "cd127e7e55422a1f0549eb600f872ed945a64dcd19cda91d004850dca52cac8b",
+    "source_body_sha256": "fa82d14e56a356b9ac006eb43c20eab32f84fd76edc6b220ed484bbeecd49b31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "a) Pflegefachkraft — Landeskrankenhaus Graz Vollzeit, 40 Stunden. Gehalt nach Kollektivvertrag, 2 900 € brutto. Eine Dienstwohnung ist möglich. Beginn: 1. September. b) Kellner/in — Café Leopold, Graz Teilzeit, 20 Stunden. 12 € pro Stunde. Nur Samstag und Sonntag. Wir freuen uns über ein bisschen Englisch. Beginn: sofort. c) Kindergartenhelfer/in — Kindergarten Puntigam 30 Stunden, Montag bis Freitag von 8 bis 14 Uhr. 2 100 € brutto. Deutsch B1 ist Pflicht. Beginn: 12. Juli. d) Pflegekraft — Pflegeheim St. Ulrich Vollzeit, 38 Stunden. 3 100 € brutto. Schichtdienst. Ein Budget für Weiterbildung ist inklusive. Beginn: nach Absprache."

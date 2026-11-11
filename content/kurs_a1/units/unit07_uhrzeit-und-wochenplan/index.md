@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.compensating.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.REC.reading-correspondence.03
-    - A1.PROD.creative-writing.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.PROD.compensating.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.REC.reading-correspondence.03
+  - A1.PROD.creative-writing.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit07_uhrzeit-und-wochenplan-teacher.png
 audio_manifest: unit07_uhrzeit-und-wochenplan
 ---
 
@@ -86,6 +114,7 @@ noch schnell einen Kaffee.
 >
 > **Luka:** Ich stehe um halb sieben auf. Ich frühstücke gern langsam.
 
+## Aktivieren {#activate}
 Fragen zum Start:
 
 - Wie heißen die sieben Wochentage auf Deutsch?
@@ -93,8 +122,7 @@ Fragen zum Start:
 - Wann beginnt Ihr Deutschkurs?
 
 
-## Input
-
+## Input {#input}
 ### A. Wörter — die Wochentage
 
 | Wort         | Abkürzung | Bedeutung (Englisch) |
@@ -177,8 +205,7 @@ Form liest man, die informelle Form hört man oft. (Quelle:
 Wikipedia, *24-hour clock* — siehe unten.)
 
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Uhrzeit formell schreiben
 
 Schreiben Sie die Zeit in Ziffern (24h möglich).
@@ -237,8 +264,7 @@ und 4; zusätzlich einen kurzen Text „Mein Montag“ mit drei
 trennbaren Verben schreiben (aufstehen, anfangen, einkaufen).
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreiben — mein Wochenplan.** Schreiben Sie Ihren **eigenen
 Wochenplan**. Pro Tag ein bis zwei kurze Einträge mit Uhrzeit.
 Benutzen Sie *am*, *um* und mindestens ein trennbares Verb. Muster:
@@ -260,46 +286,11 @@ Benutzen Sie *am*, *um* und mindestens ein trennbares Verb. Muster:
 | Ich benutze ein trennbares Verb.              |    |      |            |
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 · Modul Schreiben · Teil 2: kurze Nachricht**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam" >}}).
 
-**Aufgabenstellung:** Sie haben am Donnerstag um 9:00 Uhr
-Deutschkurs. Leider sind Sie krank. Schreiben Sie eine kurze
-Nachricht an Frau Kurz (ca. 30 Wörter). Schreiben Sie zu allen
-drei Punkten:
-
-- Entschuldigen Sie sich.
-- Sagen Sie, warum Sie nicht kommen.
-- Fragen Sie nach den Hausaufgaben.
-
-**Beispiel-Antwort (Modell):**
-
-> Liebe Frau Kurz,
->
-> leider kann ich heute nicht in den Kurs kommen. Ich bin krank.
-> Können Sie mir bitte die Hausaufgaben schicken? Vielen Dank!
->
-> Viele Grüße
-> Ana
-
-**Bewertung (Rubrik, 6 Punkte):**
-
-| Kriterium                              | Punkte |
-|----------------------------------------|--------|
-| Anrede und Gruß (*Liebe … / Viele Grüße*) | 0–1 |
-| Punkt 1: Entschuldigung                | 0–1    |
-| Punkt 2: Grund (warum nicht)           | 0–1    |
-| Punkt 3: Frage nach Hausaufgaben       | 0–1    |
-| Uhrzeit / Termin richtig               | 0–1    |
-| Text verständlich                      | 0–1    |
-| **Summe**                              | **6**  |
-
-*Bestanden ab 4 von 6 Punkten.*
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kenne alle sieben Wochentage.
 - [ ] Ich lese Uhrzeiten formell (14:30) und informell (halb drei).
 - [ ] Ich kann sagen: *Ich stehe um … Uhr auf.*
@@ -309,7 +300,7 @@ drei Punkten:
 **Mein Satz zum Merken:** _______________________________________
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeit (45 Min):** Einstieg 5' · Input 12' · Üben 13' ·
 Anwenden 10' · Reflexion + Prüfungsvorschau 5'.

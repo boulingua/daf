@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.sustained-monologue-putting-a-case.04
-    - B2.REC.reading-for-information-and-argument.04
-    - B2.PROD.compensating.01
-    - B2.REC.identifying-cues-and-inferring.01
-    - B2.INT.informal-discussion.03
+  - B2.PROD.sustained-monologue-putting-a-case.04
+  - B2.REC.reading-for-information-and-argument.04
+  - B2.PROD.compensating.01
+  - B2.REC.identifying-cues-and-inferring.01
+  - B2.INT.informal-discussion.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit09_bildungsdebatten_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit09_bildungsdebatten-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit09_bildungsdebatten-teacher.png
 audio_manifest: unit09_bildungsdebatten
 ---
 
@@ -73,14 +101,14 @@ audio_manifest: unit09_bildungsdebatten
 
 Stellen Sie sich zwei Kinder vor, die am selben Tag eingeschult werden. Das eine wächst in einem Haushalt auf, in dem beide Eltern studiert haben und Bücherregale die Wände füllen; das andere in einer Familie, in der abends niemand Zeit für Hausaufgaben hat. Zehn Jahre später sitzt das eine Kind im Gymnasium, das andere nicht — und statistisch gesehen war dieser Ausgang schon am Einschulungstag wahrscheinlicher, als uns lieb sein dürfte. Die Frage, die daraus folgt, treibt die deutsche Bildungspolitik seit Jahrzehnten um: Soll die Schule vor allem *Leistung* messen — oder soll sie *Herkunft* ausgleichen? Und lassen sich beide Ziele überhaupt gleichzeitig erreichen?
 
+## Aktivieren {#activate}
 **Einstiegsfragen für das Plenum:**
 
 - Welchen Schulabschluss hatten Ihre Eltern — und welchen streben Sie an oder haben Sie erreicht? Sehen Sie einen Zusammenhang?
 - Wie stark hängt in Ihrem Herkunftsland der Bildungserfolg vom Elternhaus ab? Woran erkennt man das?
 - Was wiegt für Sie schwerer: dass alle *gleich behandelt* werden, oder dass am Ende *gleiche Chancen* herauskommen? Wo liegt der Unterschied?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort / Wendung                      | Erklärung                                                      |
@@ -143,8 +171,7 @@ Stellen Sie sich zwei Kinder vor, die am selben Tag eingeschult werden. Das eine
 
 Die OECD hält in ihrer PISA-2022-Auswertung fest, dass der sozioökonomische Status in Deutschland rund 19 Prozent der Leistungsunterschiede in Mathematik erklärt — deutlich mehr als der OECD-Durchschnitt von etwa 15 Prozent (OECD, *PISA 2022 Results, Volume I*, 2023). Zugleich zeigt dieselbe Studie, dass etwa 10 Prozent der benachteiligten Jugendlichen in Deutschland dennoch zur leistungsstärksten Gruppe gehören — ein Beleg dafür, dass Herkunft kein Schicksal ist. Die im Text genannten Gymnasialquoten stützen sich auf Analysen des ifo-Instituts zur Bildungsgerechtigkeit. Alle Zahlen sind hier paraphrasiert und dienen dem Sprachtraining, nicht der politischen Bewertung.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Fakten extrahieren (Basis).**
 Notieren Sie aus Sachtext 1 und der Einordnung (E) drei überprüfbare Zahlen bzw. Fakten. Formulieren Sie jede als vollständigen Satz.
 
@@ -190,8 +217,7 @@ Formulieren Sie zu Stimme **a)** eine begründete Gegenthese (2–3 Sätze). Ver
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Strukturierte Stellungnahme (B2, ca. 200 Wörter).**
 
 Verfassen Sie eine argumentative Stellungnahme zu der These:
@@ -217,38 +243,11 @@ Bauen Sie ein:
 | Passiv / Nominalisierung / Konjunktiv II    |          |
 | B2-Wortschatz zum Thema                     |          |
 
-## Prüfung
+## Prüfung {#exam}
 
-**Prüfungsbeispiel — GER B2 Lesen, Teil 4 (Meinungen zuordnen).**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit09_bildungsdebatten_exam" >}}).
 
-Lesen Sie die vier Stimmen (a–d) aus Sachtext 2 noch einmol. Sechs Personen äußern sich zur Bildungsdebatte. Entscheiden Sie für jede Aussage (1–6), welcher Stimme sie am ehesten entspricht. **Zwei Aussagen passen zu keiner der vier Stimmen** — markieren Sie diese mit „–“.
-
-1. „Eine gute Schule kann nicht wettmachen, was Kleinkindern zu Hause fehlt.“
-2. „Wenn wir die Aufteilung verschieben, verliert niemand etwas, aber Spätentwickler gewinnen.“
-3. „Digitale Endgeräte für alle sind der Schlüssel zu mehr Gerechtigkeit.“
-4. „Wer die Latte senkt, hilft ausgerechnet den fähigen Kindern aus armen Familien nicht.“
-5. „Reden über Reformen ist wohlfeil, solange die Klassen zu groß und die Lehrkräfte zu wenige sind.“
-6. „Nur ein bundesweit einheitliches Zentralabitur schafft Fairness.“
-
-**Punkte-Rubrik (max. 6 Punkte):**
-
-| Leistung                                   | Punkte |
-|--------------------------------------------|--------|
-| pro korrekter Zuordnung (1–6)              | je 1   |
-| **Gesamt**                                 | **6**  |
-
-*Auswertung:* 6 P. = sehr gut · 5 P. = gut · 4 P. = befriedigend · 3 P. = ausreichend · ≤ 2 P. = Wiederholung empfohlen.
-
-{{< details type="tip" title="Lösung Prüfungsteil" >}}
-
-1 → a · 2 → b · 3 → – · 4 → c · 5 → d · 6 → –
-
-Begründung der Distraktoren: Aussage 3 (Endgeräte) und 6 (Zentralabitur) benennen Maßnahmen, die in keiner der vier Stimmen vorkommen; sie sind daher „–“.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann drei überprüfbare Fakten aus einem Bildungsartikel extrahieren.
 - [ ] Ich unterscheide sicher *Leistung, Chance, Herkunft, Teilhabe*.
 - [ ] Ich bilde korrektes Passiv und wandle Sätze in Nominalisierungen um.
@@ -256,7 +255,7 @@ Begründung der Distraktoren: Aussage 3 (Endgeräte) und 6 (Zentralabitur) benen
 - [ ] Ich verbinde Argumente mit *einerseits/andererseits, dennoch, folglich, im Gegensatz dazu*.
 - [ ] Ich schreibe eine ausgewogene Stellungnahme mit klarer Position.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

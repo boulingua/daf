@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.conversation.01
-    - B2.PROD.compensating.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.INT.correspondence.01
-    - B2.MED.managing-interaction.03
+  - B2.INT.conversation.01
+  - B2.PROD.compensating.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.INT.correspondence.01
+  - B2.MED.managing-interaction.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b2/units/unit12_literarische-perspektiven_exam
+  format: module-practice
+  duration_minutes: 4
+  points: 20
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit12_literarische-perspektiven-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit12_literarische-perspektiven-teacher.png
 audio_manifest: unit12_literarische-perspektiven
 ---
 
@@ -68,14 +97,14 @@ Stellen Sie sich vor, drei Menschen beschreiben denselben Moment: eine Frau, die
 
 Genau darum geht es in der Gegenwartsliteratur oft mehr als um die Handlung selbst: Wer spricht, wie nah sind wir an den Gedanken der Figur, und wie viel weiß diese Stimme eigentlich?
 
+## Aktivieren {#activate}
 **Einstiegsfragen:**
 
 - Welche der drei Fassungen oben zieht Sie am stärksten in den Text hinein — und warum?
 - Bevorzugen Sie als Leser:in eine Stimme, die alles weiß, oder eine, die genauso ratlos ist wie die Figur?
 - Kann eine Erzählstimme „lügen“? Was würde das für Ihr Vertrauen als Leser:in bedeuten?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle — Wortschatz der Textanalyse
 
 | Ausdruck | Erläuterung | Beispielsatz (original) |
@@ -135,8 +164,7 @@ Genau darum geht es in der Gegenwartsliteratur oft mehr als um die Handlung selb
 
 Die deutschsprachige Literaturwissenschaft unterscheidet üblicherweise vier Erzählverhalten: das **auktoriale** (allwissend, kommentierend, mit Überblick über Vergangenheit und Zukunft), das **personale** (an die Wahrnehmung einer Figur gebunden), das **neutrale** (rein beobachtend, ohne Innensicht) sowie den **Ich-Erzähler** (betont subjektiv und in seinem Wissen begrenzt). Diese Systematik ist frei zusammengefasst nach der deutschsprachigen Wikipedia (siehe Quellen). Die **erlebte Rede** wiederum gibt die Gedanken einer Figur grammatisch in der dritten Person und im Präteritum wieder, ohne einleitendes *„dachte sie“*, sodass Figuren- und Erzählerstimme verschmelzen — als frühes buchlanges Beispiel gilt Arthur Schnitzlers Novelle *Leutnant Gustl* (1900), deren Text heute gemeinfrei ist. *(Sachliche Angaben paraphrasiert, keine wörtlichen Zitate.)*
 
-## Üben
-
+## Üben {#practise}
 {{< callout type="note" >}}
 **Niveau-Differenzierung:** ⭐ Grundaufgabe (alle) · ⭐⭐ Standard (B2) · ⭐⭐⭐ Vertiefung (B2+).
 {{< /callout >}}
@@ -175,8 +203,7 @@ Die deutschsprachige Literaturwissenschaft unterscheidet üblicherweise vier Erz
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Leseeindruck präsentieren (Vorbereitung auf das Sprechen-Modul).**
 
 Bringen Sie einen kurzen Auszug (5–10 Zeilen) eines deutschsprachigen Buchs mit **oder** verwenden Sie eine der Originalminiaturen aus dem Input. Bereiten Sie einen etwa dreiminütigen Vortrag nach folgender Gliederung vor:
@@ -189,30 +216,11 @@ Bringen Sie einen kurzen Auszug (5–10 Zeilen) eines deutschsprachigen Buchs mi
 
 **Bewertungskriterien:** klare Gliederung · korrekte Fachbegriffe · mindestens ein Passiv, eine Nominalisierung, ein Konjunktiv · Belege statt bloßer Behauptung · freies, adressatengerechtes Sprechen (nicht ablesen).
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B2 — Modul Sprechen, monologischer Vortrag (ca. 4 Minuten).**
+[Prüfungsübung öffnen]({{< relref "kurs_b2/units/unit12_literarische-perspektiven_exam" >}}).
 
-**Aufgabenstellung:** Halten Sie einen strukturierten Vortrag und nehmen Sie abwägend Stellung zum Thema:
-
-> *„Unzuverlässige Erzählstimmen — reizvolles Spiel mit den Leser:innen oder unnötige Verwirrung?“*
-
-Wägen Sie **einerseits** und **andererseits** ab, referieren Sie mindestens eine fremde Position im Konjunktiv I und kommen Sie zu einem begründeten eigenen Fazit. Verwenden Sie die Konnektoren *im Gegensatz dazu*, *dennoch* und *folglich*.
-
-**Punkte-Rubrik (20 Punkte):**
-
-| Kriterium | Beschreibung | Punkte |
-|---|---|---|
-| Erfüllung der Aufgabe | Thema getroffen, Pro **und** Kontra abgewogen, eigenes Fazit | 5 |
-| Struktur & Kohärenz | erkennbare Gliederung, sinnvolle Konnektoren | 4 |
-| Wortschatz | präzise Fachbegriffe der Textanalyse, nuanciert | 4 |
-| Grammatik | Passiv, Konjunktiv I/II, Nominalisierung korrekt eingesetzt | 4 |
-| Aussprache & Flüssigkeit | verständlich, weitgehend flüssig, freier Vortrag | 3 |
-
-**Bewertung:** 18–20 sehr gut · 15–17 gut · 12–14 befriedigend · 9–11 ausreichend · < 9 nicht bestanden.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich unterscheide auktoriales, personales, neutrales und Ich-Erzählverhalten.
 - [ ] Ich erkenne erlebte Rede und inneren Monolog.
 - [ ] Ich belege eine Perspektive an konkreten Textstellen, statt nur zu behaupten.
@@ -220,7 +228,7 @@ Wägen Sie **einerseits** und **andererseits** ab, referieren Sie mindestens ein
 - [ ] Ich wäge in einer Stellungnahme Pro und Kontra ab und formuliere ein Fazit.
 - [ ] Ich halte einen freien Vortrag von rund vier Minuten.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit04_im-amt/index.md",
-    "source_body_sha256": "abc27bd4c36c194cfc733a8b145139f910f01b6920358c3ff64eb2f058c80e38",
+    "source_body_sha256": "793ba0571ff0237d02ba19d10f7b843fa38300648a3d6ebbcf51c40da42b21dd",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Omar: Entschuldigung, ich habe einen Brief bekommen. Ich muss mich anmelden. Aber ich verstehe das Formular nicht ganz. Lena: Kein Problem. Das ist das Anmeldeformular. Hier oben schreiben Sie Ihren Familiennamen, dann den Vornamen. Omar: Und „Geb.? Was bedeutet das? Lena: Das heißt Geburtsdatum. Und „Staatsang. ist die Staatsangehörigkeit. Omar: Danke! Und ich brauche einen Termin, oder? Lena: Ja, aber Sie haben ja schon einen. Wenn Sie nicht können, müssen Sie eine Mail schreiben."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit04_im-amt/index.md",
-    "source_body_sha256": "abc27bd4c36c194cfc733a8b145139f910f01b6920358c3ff64eb2f058c80e38",
+    "source_body_sha256": "793ba0571ff0237d02ba19d10f7b843fa38300648a3d6ebbcf51c40da42b21dd",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

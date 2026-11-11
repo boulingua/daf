@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
-    "source_body_sha256": "cd29eb39f5ae345163a00cadc55958ac4e8ea427a81b0d8ff6ab8e022fa3587f",
+    "source_body_sha256": "d000bd0f1e1c5cc075407d4c96c3fc522f1584605ef0666d3f1953e148d3ef37",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
-    "source_body_sha256": "cd29eb39f5ae345163a00cadc55958ac4e8ea427a81b0d8ff6ab8e022fa3587f",
+    "source_body_sha256": "d000bd0f1e1c5cc075407d4c96c3fc522f1584605ef0666d3f1953e148d3ef37",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
-    "source_body_sha256": "cd29eb39f5ae345163a00cadc55958ac4e8ea427a81b0d8ff6ab8e022fa3587f",
+    "source_body_sha256": "d000bd0f1e1c5cc075407d4c96c3fc522f1584605ef0666d3f1953e148d3ef37",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

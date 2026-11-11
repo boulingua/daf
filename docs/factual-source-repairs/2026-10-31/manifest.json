@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-31",
+  "status": "source-corrections-verified-pedagogical-review-pending",
+  "records": [
+    {
+      "path": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "before_sha256": "a2ce9d44a14baa0e20ed61d01cdacc9ead648b585c22b927b5b994749e2013fa",
+      "after_sha256": "7cbfd7c4af56303faed6c06d6ba8c727658dd6c257ca440ebc6f6120a94ba39f",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+      "decisions": [
+        "Revised source section C; full original archived.",
+        "Revised source section D; full original archived.",
+        "Source-backed correction: Ich kenne die deutsche Mülltrennung.",
+        "Source-backed correction: vier Mülltonnen",
+        "Source-backed correction: > **Lena:** Glas bringen wir zum Container an der Ecke. Und den",
+        "Source-backed correction: alles, was sonst nirgends passt",
+        "Source-backed correction: leere Flaschen und Gläser",
+        "Source-backed correction: Schreiben Sie: *blau, braun, gelb, grau* oder *Container*.",
+        "Source-backed correction: saubere Plastikflasche",
+        "Source-backed correction: schmutziger Becher →",
+        "Source-backed correction: leere Weinflasche (Glas)",
+        "Source-backed correction: 3. Ein schmutziger Becher kommt in den Restmüll.",
+        "Source-backed correction: 3) Richtig ·\n4) Falsch (zum Supermarkt).",
+        "Source-backed correction: welche Tonne der Gegenstand kommt **und warum**",
+        "Retained former bibliography for provenance; official factual references added."
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "before_sha256": "1999383cd2b55a0815bb37c58f9fa6e1e863064427db53b35a71d6b25d4026d0",
+      "after_sha256": "c8ccadc587e524cf2f0d7c81105ee1d17d773029b8275d290bac43a233c92850",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "decisions": [
+        "Source-backed correction: Man trennt Müll in Deutschland mit vier Behältern.",
+        "Source-backed correction: Ein schmutziger Becher kommt in den Gelben Sack.",
+        "Source-backed correction: Batterien bringt man zum Supermarkt.",
+        "Source-backed correction: saubere Plastikdose",
+        "Source-backed correction: leere Glasflasche",
+        "Source-backed correction: Supermarkt / Sammelstelle",
+        "Source-backed correction: 4) falsch (Restmüll)",
+        "Synchronized teacher transcript with corrected unit source; exact spoken-content equality validated.",
+        "Added official source references matching unit."
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+      "before_sha256": "06af6e14a194a3a555c6ce6a8a79e21260baa4cd800529321472e5da6779d8b0",
+      "after_sha256": "7fc11fb538fd2d3b553c7da6cf7224f1ac09134b44269b2e155f9b9fa3fe2206",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+      "decisions": [
+        "Revised source section C; full original archived.",
+        "Revised source section D; full original archived.",
+        "Source-backed correction: Zahlen, Beträge und Wartezeiten",
+        "Source-backed correction: In Deutschland zahlt oft die\nKrankenkasse fast alles direkt. In der Schweiz bekommen Sie\nzuerst",
+        "Source-backed correction: Die Kassen **wurden** 2019 zusammengeführt.",
+        "Source-backed correction: ***Obwohl** die Schweiz teuer ist, sind die Wartezeiten oft\n  kürzer.",
+        "Source-backed correction: 1. Die Kassen wurden 2019 in einer zentralen Kasse (ÖGK)\n   zusammengeführt.",
+        "Source-backed correction: 4. Der Beitrag beträgt aktuell etwa 7,65 Prozent des Einkommens.",
+        "Source-backed correction: 3. Obwohl die Schweiz teuer ist, …",
+        "Source-backed correction: Wie\nschnell bekomme ich einen Termin?",
+        "Source-backed correction: Prämie, Träger, Wartezeit",
+        "Source-backed correction: Für die\nPrüfungsaufgabe (Teil 4) ein drittes Mal in kurzen Abschnitten\nlesen.",
+        "Replaced ambiguous licence/public-domain claims with checked primary factual references; old bibliography archived."
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "3cc37e2f7310538f8c8bee11c5fbc0292079c1dc5d9fb1dba230001304137b78",
+          "after_sha256": "7fc11fb538fd2d3b553c7da6cf7224f1ac09134b44269b2e155f9b9fa3fe2206",
+          "decision": "Final coherence: learner references omit tooling observations; franchise is conditional on treatment costs."
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "before_sha256": "92b21896f524feea277f66d9b50bf94a37481e6a3f60298977dd998699d6f3ca",
+      "after_sha256": "0dfd8327b1442b673d67bc3ab3e591c2ac1b04bb4f438e8ecaca802fa87e688d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "decisions": [
+        "Source-backed correction: Der historische Modelltext ist keine aktuelle Auskunft zu Versicherungsleistungen.",
+        "Source-backed correction: Der Beitrag liegt aktuell bei etwa 7,65 Prozent des Einkommens.",
+        "Source-backed correction: Die Kassen wurden 2019 zur ÖGK zusammengeführt.",
+        "Source-backed correction: da im Hörtext für DE genannt und für AT „wieder halbe-halbe“",
+        "Source-backed correction: nicht rein\naus Steuern",
+        "Synchronized teacher transcript with corrected unit source; exact spoken-content equality validated.",
+        "Added same verified factual bibliography as unit."
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+      "before_sha256": "86cade44d82dbc3eb80353369676d66a8d47e63cd63b9e74a02592b8ba6843fb",
+      "after_sha256": "343e29427728a2e73b382191623b74d1106aee4ac2bd23118622b2ff9b546f47",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+      "decisions": [
+        "Revised source section D; full original archived.",
+        "Matched statistics to actual datasets and periods; preserved original approximate figures with explicit definitions."
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "c943685ec4bb4a14b3babdc28cc735eb12b8135c91b2de6f6f25feebcde5d039",
+          "after_sha256": "343e29427728a2e73b382191623b74d1106aee4ac2bd23118622b2ff9b546f47",
+          "decision": "Final coherence: learner references omit tooling observations; franchise is conditional on treatment costs."
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "before_sha256": "006016f34fa7a1a6920ead794911ace297da224fc869ccda2b9781faa106701a",
+      "after_sha256": "03d1578ecfaa0332c05064ea3e1d86dee438cdbfa517aef08764bd8b523f7802",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "decisions": [
+        "Synchronized statistical reading source and source references with unit.",
+        "Source-backed correction: 5. Der weltweite Anteil der Migrant:innen an der Weltbevölkerung\n   ist seit 1990 …\n   a) stark"
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "911675855ba077b0a84d50cc901bfeb13dcd1fca4c56d3888fcb028a2a90df25",
+          "after_sha256": "03d1578ecfaa0332c05064ea3e1d86dee438cdbfa517aef08764bd8b523f7802",
+          "decision": "Final coherence: learner references omit tooling observations; franchise is conditional on treatment costs."
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit11_oekonomie-fuer-laien/index.md",
+      "before_sha256": "1000956c3e7eee49b6eaf2378b0dcbbf335db8bb38539d438a536ebf00a47518",
+      "after_sha256": "567d5765c76db1fe8bec48d0a9369184b2777db8471ce73a1fcbbc034fe118eb",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b2/units/unit11_oekonomie-fuer-laien/index.md",
+      "decisions": [
+        "Source-backed correction: Gemessen wird das mit einem Warenkorb, dem sogenannten Verbraucherpreisindex.",
+        "Source-backed correction: *ein \"Warenkorb\", mit dem man die Preisentwicklung misst*",
+        "Source-backed correction: einem etwa achtminütigen Wirtschaftspodcast",
+        "Synchronized factual correction across vocabulary and transcript; removed unmeasured eight-minute claim."
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
+      "before_sha256": "e9e95ac4ab44f3f335e69cb143a5e146433a87340f0910dbc65625729d7fe3cd",
+      "after_sha256": "84d174ae78503af7b697237ce505268ecde4ea610f76b638e3c0b85596659439",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
+      "decisions": [
+        "Source-backed correction: ### D. Hörtext (zum Vorlesen)"
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+      "before_sha256": "3e5709f626d68c5cd28beba6339ee746d0006b4fa237b60c5a0588df18c93ed0",
+      "after_sha256": "4d80bc40654db559e53d0a7d33e010481e7c4a958042a451bde211d67feae6c6",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+      "decisions": [
+        "Source-backed correction: ### C. Hörtext (zum Vorlesen)"
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit12_zukunftsvisionen/index.md",
+      "before_sha256": "b342d5d94dde6c0438ae1dea87dfdba8a61f3a90f4ccac5c9eb88c13ef24b728",
+      "after_sha256": "3b81ac17772bdcbe17c96d270310d606850a2ddd3b64d9814f2da43ea3faf752",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/kurs_b1/units/unit12_zukunftsvisionen/index.md",
+      "decisions": [
+        "Source-backed correction:   points:\n"
+      ]
+    }
+  ]
+}

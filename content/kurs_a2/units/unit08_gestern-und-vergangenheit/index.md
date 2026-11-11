@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.goal-oriented-online-transactions-and-collaboration.03
-    - A2.PROD.compensating.01
-    - A2.INT.asking-for-clarification.01
-    - A2.PROD.creative-writing.01
-    - A2.MED.relaying-specific-information.04
+  - A2.INT.goal-oriented-online-transactions-and-collaboration.03
+  - A2.PROD.compensating.01
+  - A2.INT.asking-for-clarification.01
+  - A2.PROD.creative-writing.01
+  - A2.MED.relaying-specific-information.04
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit08_gestern-und-vergangenheit_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit08_gestern-und-vergangenheit-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit08_gestern-und-vergangenheit-teacher.png
 audio_manifest: unit08_gestern-und-vergangenheit
 ---
 
@@ -82,14 +111,14 @@ audio_manifest: unit08_gestern-und-vergangenheit
 > **Nadia:** Nein, heute arbeite ich. Aber gestern — gestern war
 > perfekt.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen**
 
 1. Was hat Nadia gestern am Morgen gemacht?
 2. Warum haben Nadia und ihre Schwester am Abend gekocht?
 3. Und Sie? Nennen Sie eine Sache, die Sie gestern gemacht haben.
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz — Verben für den Tag
 
 | Infinitiv       | Partizip II       | Hilfsverb | Beispiel                          |
@@ -155,8 +184,7 @@ Präteritum, vor allem *sein* (war), *haben* (hatte) und *wissen*
 Freund:innen ist das Perfekt deshalb genau die richtige Wahl
 (paraphrasiert nach Wikipedia, „Perfekt im Deutschen“, CC BY-SA 4.0).
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — haben oder sein?** Ergänzen Sie das richtige Hilfsverb.
 
 1. Ich ___ gestern acht Stunden geschlafen.
@@ -215,8 +243,7 @@ Freund:innen ist das Perfekt deshalb genau die richtige Wahl
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe — mein Tagebuch-Eintrag (A2, ca. 80–100 Wörter)**
 
 Schreiben Sie einen Tagebuch-Eintrag über **gestern**. Nutzen Sie
@@ -239,52 +266,11 @@ das Perfekt und mindestens einen Satz mit *weil*.
 
 {{< /callout >}}
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 — Modul Schreiben, Teil 1 (persönliche Mitteilung)**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit08_gestern-und-vergangenheit_exam" >}}).
 
-Ihre Freundin **Mira** war krank und konnte gestern nicht zum
-gemeinsamen Ausflug kommen. Schreiben Sie ihr eine Nachricht
-(ca. 40 Wörter) und erzählen Sie vom Tag. Schreiben Sie zu **allen
-drei Punkten** etwas:
-
-- Was haben Sie am **Vormittag** gemacht?
-- Wen haben Sie am **Nachmittag** getroffen?
-- Wie war der **Abend**?
-
-Vergessen Sie Anrede und Gruß nicht.
-
-{{< callout type="info" >}}
-
-**Punkte-Rubrik (max. 10 Punkte)**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Alle drei Inhaltspunkte bearbeitet          |   3    |
-| Anrede und Gruß vorhanden                    |   2    |
-| Perfekt richtig gebildet (haben/sein)       |   3    |
-| Verständlichkeit, Rechtschreibung, Umfang   |   2    |
-
-**Bestanden:** ab 6 Punkten.
-
-{{< /callout >}}
-
-{{< details type="tip" title="Musterlösung (ca. 40 Wörter)" >}}
-
-> Hallo Mira,
->
-> schade, dass du krank warst! Am Vormittag bin ich zum Markt
-> gefahren und habe Obst gekauft. Am Nachmittag habe ich Lea
-> getroffen, und wir sind durch den Park gegangen. Am Abend habe ich
-> Suppe gekocht. Werde schnell gesund!
->
-> Liebe Grüße
-> Nadia
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich bilde das Perfekt mit *haben* und *sein* richtig.
 - [ ] Ich kenne mindestens 10 Partizipien II.
 - [ ] Ich stelle das Partizip II ans Satzende.
@@ -292,7 +278,7 @@ Vergessen Sie Anrede und Gruß nicht.
 - [ ] Ich schreibe einen Tagebuch-Eintrag über gestern (80–100 Wörter).
 - [ ] Ich schreibe eine kurze Mitteilung mit Anrede und Gruß.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten)**
 

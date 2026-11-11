@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.INT.formal-discussion.01
-    - C1.PROD.compensating.01
-    - C1.REC.overall-reading-comprehension.02
-    - C1.REC.understanding-announcements-and-instructions.02
-    - C1.MED.facilitating-communication-in-delicate-situations-and-disagreements.03
+  - C1.INT.formal-discussion.01
+  - C1.PROD.compensating.01
+  - C1.REC.overall-reading-comprehension.02
+  - C1.REC.understanding-announcements-and-instructions.02
+  - C1.MED.facilitating-communication-in-delicate-situations-and-disagreements.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-c1-hören-teil-3
+exam:
+  page: kurs_c1/units/unit07_historiografie_exam
+  format: module-practice
+  duration_minutes:
+  points: 8
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit07_historiografie-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit07_historiografie-teacher.png
 audio_manifest: unit07_historiografie
 ---
 
@@ -88,6 +116,7 @@ ein bloßes Sammeln von Fakten zu sein, und wird zur Frage der
 Perspektive — und der Macht, zu entscheiden, wessen Erinnerung
 ins Archiv wandert und wessen verstummt.
 
+## Aktivieren {#activate}
 **Leitfragen zum Einstieg:**
 
 - Wer hat an Ihrer Schule Geschichte unterrichtet — und *welche*
@@ -98,8 +127,7 @@ ins Archiv wandert und wessen verstummt.
   das überhaupt einlösen — oder ist schon die Auswahl der Quellen
   eine Deutung?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Begriff / Wendung                    | Erklärung (C1)                                                                 |
@@ -206,8 +234,7 @@ Leopold von Rankes berühmtem Programm, Geschichte solle bloß zeigen,
 germanischen Völker*, 1824, gemeinfrei) — ein Anspruch, den die
 neuere Gedächtnisforschung als selbst standortgebunden problematisiert.
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Globalverstehen (nach dem Hören)
 
 Ordnen Sie jede Aussage der sprechenden Person zu: **V** (Vogt),
@@ -292,8 +319,7 @@ offenlegen.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — mündliche Kurz-Erörterung (C1, ca. 4–5 Min).**
 
 Halten Sie einen strukturierten Monolog zur Leitfrage:
@@ -319,50 +345,18 @@ Halten Sie einen strukturierten Monolog zur Leitfrage:
 | Hedging / Distanzierung                | modalisiert statt behauptet; Standpunkt offengelegt       |
 | Register                               | durchgehend akademisch-abwägend                           |
 
-## Prüfung — GER C1 Hören, Teil 3
+## Prüfung — GER C1 Hören, Teil 3 {#exam}
 
-**Aufgabenstellung:** Sie hören die Podcast-Diskussion (Hörtext C)
-**einmal**. Ordnen Sie die acht Aussagen den Personen zu:
-**V** (Vogt), **B** (Bauer), **L** (Lange) — oder **–**, wenn die
-Aussage im Gespräch **nicht** vertreten ist (Distraktor).
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit07_historiografie_exam" >}}).
 
-1. „In den 1990er Jahren gaben westdeutsch sozialisierte Historiker:innen den Ton an.“ → \_\_\_
-2. „Was nie zu Papier kam, ist ebenso Geschichte.“ → \_\_\_
-3. „Ein Erzählen ganz ohne Standpunkt gibt es nicht.“ → \_\_\_
-4. „Der eigene Standpunkt ist kenntlich zu machen — das ist Handwerk.“ → \_\_\_
-5. „Das Schweige-Archiv ist bloße Polemik ohne wissenschaftlichen Wert.“ → \_\_\_
-6. „Über der Perspektivfrage darf die Quellenarbeit nicht kleingeredet werden.“ → \_\_\_
-7. „Auch die Aufbewahrung einer Akte ist bereits eine Auswahl.“ → \_\_\_
-8. „Nur die Illusion völliger Neutralität rettet die Wissenschaft.“ → \_\_\_
-
-**Punkte-Rubrik (max. 8 Punkte):**
-
-| Punkte | Leistung                                                        |
-|--------|-----------------------------------------------------------------|
-| 8      | alle Zuordnungen inkl. beider Distraktoren korrekt              |
-| 6–7    | 1–2 Fehler, Distraktoren sicher erkannt                         |
-| 4–5    | 3–4 Fehler oder ein Distraktor als Sprecher-Aussage gewertet    |
-| 2–3    | überwiegend Rateverhalten, Positionen nicht getrennt            |
-| 0–1    | keine belastbare Zuordnung                                      |
-
-*Bewertungshinweis:* Jede korrekte Zuordnung = 1 Punkt. Die beiden
-Distraktoren (Aussagen 5 und 8) prüfen, ob die Kandidat:innen
-zwischen *tatsächlich Gesagtem* und *plausibel Klingendem*
-unterscheiden.
-
-{{< details type="tip" title="Lösung Prüfung" >}}
-1) V · 2) B · 3) L · 4) B · 5) – · 6) V · 7) B · 8) –.
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich folge einer historiografischen Diskussion mit drei Stimmen und erkenne, *wo* sich Positionen verschieben.
 - [ ] Ich unterscheide sicher zwischen *Quelle*, *Narrativ*, *Meta-Narrativ* und *Schweige-Archiv*.
 - [ ] Ich problematisiere ein nationales Geschichtsnarrativ argumentativ — mit Gegenstimme und Abwägung.
 - [ ] Ich distanziere mich sprachlich (Konjunktiv I) und modalisiere meine Behauptungen (Hedging).
 - [ ] Ich lege meinen eigenen Standpunkt offen, statt Neutralität vorzutäuschen.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitraster (45 Min):**
 

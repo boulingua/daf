@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
-    "source_body_sha256": "719803f6d814e8cceff28e4e5f1d31a0435f2606c1c82873a2e28a07b04390ea",
+    "source_body_sha256": "7c96c1efb949a35421fb728721dc297a4a557bc195eae950da27a0f7d4ecafed",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel/index.md",
-    "source_body_sha256": "719803f6d814e8cceff28e4e5f1d31a0435f2606c1c82873a2e28a07b04390ea",
+    "source_body_sha256": "7c96c1efb949a35421fb728721dc297a4a557bc195eae950da27a0f7d4ecafed",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Journalismus — Jana: „Die Recherche beschleunigt sich, das ist ein Segen. Aber wenn KI den Kommentar schreibt, verliert die Zeitung ihre Stimme. Die Grenze ist für mich klar: Fakten sammeln ja, Meinung formulieren nein. Übersetzung — Pavel: „Für technische Texte nutze ich KI jeden Tag; die Zeitersparnis ist enorm. Literaturübersetzung hingegen bleibt anstrengend persönlich — die Nuance ist nicht berechenbar, und genau darin liegt mein Wert. Softwareentwicklung — Amira: „Ich war skeptisch. Heute benutze ich KI als Partnerin beim Debuggen und bin deutlich schneller. Was ich vermisse, sind die Kolleg:innen, mit denen ich früher über jede Zeile Code diskutiert habe. Theater — Leo: „Ein Schauspiel funktioniert, weil zwischen Menschen etwas Unberechenbares geschieht. Kein Modell kann das nachstellen — dennoch könnte KI die Textarbeit vor der Probe erleichtern. Ersetzen wird sie den Abend nicht."

@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.01
-    - A2.PROD.creative-writing.07
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.INT.goal-oriented-online-transactions-and-collaboration.03
-    - A2.MED.overall-mediation.01
+  - A2.INT.correspondence.01
+  - A2.PROD.creative-writing.07
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.INT.goal-oriented-online-transactions-and-collaboration.03
+  - A2.MED.overall-mediation.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit06_hobbys-und-vereine_exam
+  format: module-practice
+  duration_minutes: 3
+  points: 10
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit06_hobbys-und-vereine-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit06_hobbys-und-vereine-teacher.png
 audio_manifest: unit06_hobbys-und-vereine
 ---
 
@@ -80,14 +108,14 @@ audio_manifest: unit06_hobbys-und-vereine
 >
 > **Omar:** Nur dreißig Euro pro Jahr. Komm doch mal mit!
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 1. Sind Sie in einem Verein oder Club? In welchem?
 2. Welche Hobbys haben Sie — und wie oft machen Sie das?
 3. Was kostet eine Mitgliedschaft bei Ihnen ungefähr?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Deutsch                     | Wortart / Hinweis            | Beispielsatz                                  |
@@ -167,8 +195,7 @@ sieben Mitgliedern kann sich beim Amtsgericht eintragen lassen und
 heißt dann *eingetragener Verein* (e. V.). Viele Menschen treffen
 dort Freunde und machen ihr Hobby gemeinsam.
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zum Hörtext. Richtig oder falsch?**
 
 1. Omar ist seit drei Monaten im Fotoclub.
@@ -225,8 +252,7 @@ dort Freunde und machen ihr Hobby gemeinsam.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Mini-Vortrag (Sprechen, ca. 90 Sekunden):** Sprechen Sie über ein
 Hobby oder einen Verein. Nutzen Sie diese Gliederung:
 
@@ -244,38 +270,11 @@ Hobby oder einen Verein. Nutzen Sie diese Gliederung:
 | *weil*-Satz                        | mindestens ein Grund mit *weil*           |
 | Aussprache / Flüssigkeit           | verständlich, ohne lange Pausen           |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 Sprechen — Teil 2: Ein Thema präsentieren**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit06_hobbys-und-vereine_exam" >}}).
 
-**Aufgabe:** Erzählen Sie Ihrer Prüfungspartnerin / Ihrem Prüfer etwas
-zum Thema „**Mein Hobby / Mein Verein**“. Sie bekommen ein Aufgabenblatt
-mit fünf Stichwörtern. Sprechen Sie zu jedem Stichwort ein oder zwei
-Sätze (ca. 2–3 Minuten):
-
-- **Name / Art** des Hobbys oder Vereins
-- **Wann / wie oft**
-- **Seit wann**
-- **Was gefällt** Ihnen (mit *weil*)
-- **Kosten / Zugang** (Beitrag, Mitgliedschaft)
-
-Danach stellt der Prüfer / die Prüferin **eine oder zwei Rückfragen**,
-z. B. *„Kann man einfach Mitglied werden?“* oder *„Wie viel kostet das
-im Jahr?“*
-
-**Punkte-Rubrik (max. 10 Punkte)**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Alle fünf Stichwörter behandelt             |   3    |
-| *seit* + Dativ korrekt (Dauer)              |   2    |
-| Grund mit *weil* korrekt                    |   2    |
-| Rückfragen sinnvoll beantwortet             |   2    |
-| Aussprache / Verständlichkeit               |   1    |
-| **Gesamt**                                  | **10** |
-
-## Reflexion
-
+## Reflexion {#reflect}
 Selbst-Check — kreuzen Sie an:
 
 - [ ] Ich kann 90 Sekunden über mein Hobby sprechen.
@@ -284,7 +283,7 @@ Selbst-Check — kreuzen Sie an:
 - [ ] Ich kann drei Fragen zu einem Verein stellen.
 - [ ] Ich verstehe die Hauptinformationen im Radio-Ausschnitt.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Min.)**
 

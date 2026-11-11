@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit03_beim-arzt/index.md",
-    "source_body_sha256": "3442c5aed8b63bc556f5e703cd57c4395cec335ee9fcddfa2f5dbf9a49b0ffa6",
+    "source_body_sha256": "3724c1fea115faf737f573a2737e72449c3670e9538058b4e1a46a8f523395f3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nadia: Guten Morgen, Tom. Du siehst müde aus. Geht es dir nicht gut? Tom: Nein, ich fühle mich schlecht. Ich habe seit gestern Kopfschmerzen und mein Hals tut weh. Nadia: Oh je. Hast du auch Fieber? Tom: Ein bisschen. Ich glaube, ich gehe heute zum Arzt. Nadia: Ja, das ist eine gute Idee. Gute Besserung!"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit03_beim-arzt/index.md",
-    "source_body_sha256": "3442c5aed8b63bc556f5e703cd57c4395cec335ee9fcddfa2f5dbf9a49b0ffa6",
+    "source_body_sha256": "3724c1fea115faf737f573a2737e72449c3670e9538058b4e1a46a8f523395f3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Beschwerde, -n.\ndie Halsschmerzen (Pl.).\nder Husten.\ndas Fieber.\nsich fühlen.\ndie Erkältung, -en.\nuntersuchen.\nverschreiben.\ndas Rezept, -e.\ndas Medikament, -e.\ndie Tablette, -n.\ndie Packung, -en.\ndreimal täglich.\nkrankschreiben.\nGute Besserung!."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit03_beim-arzt/index.md",
-    "source_body_sha256": "3442c5aed8b63bc556f5e703cd57c4395cec335ee9fcddfa2f5dbf9a49b0ffa6",
+    "source_body_sha256": "3724c1fea115faf737f573a2737e72449c3670e9538058b4e1a46a8f523395f3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Merke: Nach einer Zeitangabe steht „seit + Dativ: seit zwei Tagen, nicht seit zwei Tage."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit03_beim-arzt/index.md",
-    "source_body_sha256": "3442c5aed8b63bc556f5e703cd57c4395cec335ee9fcddfa2f5dbf9a49b0ffa6",
+    "source_body_sha256": "3724c1fea115faf737f573a2737e72449c3670e9538058b4e1a46a8f523395f3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "In der Praxis von Dr. Weber Dr. Weber: Guten Tag, Frau Sari. Was fehlt Ihnen denn? Frau Sari: Guten Tag. Ich habe seit drei Tagen starke Halsschmerzen und ich huste viel. Nachts kann ich nicht gut schlafen. Dr. Weber: Haben Sie auch Fieber? Frau Sari: Ja, gestern Abend hatte ich 38,7 Grad. Dr. Weber: Gut, ich untersuche Sie kurz. Machen Sie bitte den Mund auf … Ihre Mandeln sind entzündet. Sie bekommen ein Antibiotikum, weil das eine bakterielle Infektion ist. Nehmen Sie dreimal täglich eine Tablette, immer nach dem Essen. Und bleiben Sie drei Tage zu Hause. Frau Sari: Muss ich noch etwas beachten? Dr. Weber: Trinken Sie viel Wasser und Tee. Hier ist das Rezept und die Krankschreibung. Gute Besserung! In der Apotheke Apotheker: Guten Tag. Was kann ich für Sie tun? Frau Sari: Ich habe ein Rezept — Amoxicillin 500. Apotheker: Einen Moment, bitte … So, hier ist Ihre Packung. Nehmen Sie dreimal täglich eine Tablette nach dem Essen. Das macht 5,40 Euro. Frau Sari: Vielen Dank. Auf Wiedersehen."

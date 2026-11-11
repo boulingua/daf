@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.compensating.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.asking-for-clarification.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.correspondence.03
+  - A1.PROD.compensating.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.asking-for-clarification.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit08_wetter-und-jahreszeiten_exam
+  format: module-practice
+  duration_minutes:
+  points: 3
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit08_wetter-und-jahreszeiten-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit08_wetter-und-jahreszeiten-teacher.png
 audio_manifest: unit08_wetter-und-jahreszeiten
 ---
 
@@ -80,14 +109,14 @@ Mutter, Frau Kraus, sitzen in der Küche. Das Radio läuft.
 >
 > **Frau Kraus:** Gute Idee. Am Abend ist es kühl.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 - Wie ist das Wetter am Morgen?
 - Was macht die Familie heute?
 - Wie ist das Wetter bei Ihnen heute?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle — Wetter und Jahreszeiten
 
 | Wort              | Bedeutung              |
@@ -150,8 +179,7 @@ nur eine grobe Tendenz, keine sichere Prognose. Solche Sprüche sind aber
 bis heute im Alltag bekannt. (Paraphrasiert nach Wikipedia,
 „Siebenschläfertag“, CC BY-SA.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Welche Jahreszeit passt? (Sommer / Herbst /
 Winter / Frühling)
 
@@ -200,8 +228,7 @@ Jetzt ist Sommer.*
 - **Schwerer:** Lernende ergänzen in Aufgabe 4 eine Gradzahl und einen
   zweiten Satz (*Ich nehme eine Jacke mit.*).
 
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechaufgabe (A1, ca. 1 Minute):** Beschreiben Sie das Wetter in Ihrer
 Stadt **heute** in vier bis fünf Sätzen. Verwenden Sie:
 
@@ -220,54 +247,18 @@ Stadt **heute** in vier bis fünf Sätzen. Verwenden Sie:
 | Gradzahl genannt              | ☐        |
 | Jahreszeit genannt            | ☐        |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 · Modul Hören, Teil 3**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit08_wetter-und-jahreszeiten_exam" >}}).
 
-**Aufgabe:** Sie hören drei kurze Telefon-Nachrichten. Sie hören jeden
-Text zweimal. Wählen Sie die richtige Lösung (a / b / c).
-
-### Nachricht 1
-
-> „Hallo Ana, das ist Luka. Heute regnet es. Ich bleibe zu Hause. Gehen
-> wir morgen in den Park?“
-
-1. Wie ist das Wetter heute?
-   a) sonnig · b) regnerisch · c) windig
-
-### Nachricht 2
-
-> „Frau Meier, die Wanderung am Samstag fällt aus. Es soll schneien! Wir
-> machen sie im April.“
-
-2. Wann findet die Wanderung statt?
-   a) am Samstag · b) im April · c) im Mai
-
-### Nachricht 3
-
-> „Liebe Kund:innen, heute ist es sonnig mit 24 Grad. Unsere Terrasse ist
-> geöffnet!“
-
-3. Wie warm ist es?
-   a) 14 Grad · b) 24 Grad · c) 34 Grad
-
-{{< details type="tip" title="Lösungen" >}}
-1. b · 2. b · 3. b.
-
-{{< /details >}}
-
-**Punkte-Rubrik:** je richtige Antwort **1 Punkt**, gesamt **3 Punkte**.
-Bestanden ab **2 von 3 Punkten**.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann sagen: *Es ist sonnig / es regnet / es schneit.*
 - [ ] Ich kenne 8 Wetterwörter.
 - [ ] Ich kann die vier Jahreszeiten und die Monate nennen.
 - [ ] Ich kann eine Gradzahl sagen.
 - [ ] Ich verstehe einen kurzen Wetterbericht im Radio.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

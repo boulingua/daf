@@ -50,7 +50,7 @@ milestone: M0                   # M0 | M1 | M2 | M3 — drives the implements ra
 
 gates:
   network_graph: true          # the materials-network graph + JS budget
-  pagefind: true               # search index
+  pagefind: true               # built by kit build; full-text search at /search/
   bildungsplan: false           # Bildungsplan-BW anchor codes
   curriculum: warn              # off | warn | block
 

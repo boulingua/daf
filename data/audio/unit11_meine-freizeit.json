@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
-    "source_body_sha256": "4e9d58b183c0826a35f53a5737a126bb7a51459df33c4c5b88f60681b76cadad",
+    "source_body_sha256": "fd61e6f2cfb9c20b8f2dbf7a933635f4ef7bc8ade49448eff26fa7a739eeec34",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ana: Ich spiele gern Gitarre. Und du, Luka? Luka: Ich fotografiere gern. Ich mache oft Fotos in Wien. Frau Berg: Ich lese gern. Am Sonntag lese ich immer ein Buch. Herr Keks: Und ich backe gern! Ich backe manchmal Kuchen. Sport mache ich nie — ich bin ein bisschen faul."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit11_meine-freizeit/index.md",
-    "source_body_sha256": "4e9d58b183c0826a35f53a5737a126bb7a51459df33c4c5b88f60681b76cadad",
+    "source_body_sha256": "fd61e6f2cfb9c20b8f2dbf7a933635f4ef7bc8ade49448eff26fa7a739eeec34",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ana: Was machst du am Wochenende, Luka? Luka: Am Samstag fotografiere ich oft. Am Sonntag spiele ich Schach. Ana: Machst du auch Sport? Luka: Nein, Sport mache ich nie. Aber ich gehe manchmal spazieren. Ana: Ich spiele gern Gitarre. Kommst du am Sonntag? Wir machen Musik! Luka: Ja, super! Ich komme gern."

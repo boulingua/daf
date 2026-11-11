@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.monitoring-and-repair.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.PROD.planning.01
-    - B1.REC.reading-for-information-and-argument.03
-    - B1.INT.conversation.02
+  - B1.PROD.monitoring-and-repair.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.PROD.planning.01
+  - B1.REC.reading-for-information-and-argument.03
+  - B1.INT.conversation.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit11_persoenliche-beziehungen_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit11_persoenliche-beziehungen-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit11_persoenliche-beziehungen-teacher.png
 audio_manifest: unit11_persoenliche-beziehungen
 ---
 
@@ -83,6 +112,7 @@ gar nichts?
 Kleine Reibereien gehören zu jeder Freundschaft. Entscheidend ist
 nicht, *dass* es Konflikte gibt, sondern *wie* wir sie ansprechen.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 - Was sind typische Auslöser für kleine Reibereien in
@@ -93,8 +123,7 @@ nicht, *dass* es Konflikte gibt, sondern *wie* wir sie ansprechen.
   und „Versöhnung“?
 
 
-## Input
-
+## Input {#input}
 ### A. Konfliktvokabular
 
 | Wort                        | Erklärung / Beispielsatz                                          |
@@ -167,8 +196,7 @@ Person nicht an und öffnen deshalb eher einen Weg zur Versöhnung.
 4.0.)
 
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Globalverstehen (Richtig / Falsch).**
 Was trifft auf Amir zu?
 
@@ -239,8 +267,7 @@ möglich)
 {{< /details >}}
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (ca. 80 Wörter):**
 
 Sie sind Stefan. Sie haben Amirs Blogeintrag gelesen und
@@ -266,39 +293,11 @@ eine ausgleichende Antwort-E-Mail.
 | **Gesamt**                             | **10** |
 
 
-## Prüfung
+## Prüfung {#exam}
 
-### GER B1 Lesen, Teil 1 (Korrespondenz)
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit11_persoenliche-beziehungen_exam" >}}).
 
-**Aufgabenstellung:** Lesen Sie Amirs Blogeintrag (Text C) noch
-einmal und entscheiden Sie zu den sechs Aussagen: **Richtig**
-oder **Falsch**?
-
-1. Amir war pünktlich bei Stefan.
-2. Stefan hat sofort aufgehört zu spielen.
-3. Das Gespräch begann erst nach etwa einer halben Stunde.
-4. Amir hat während des Gesprächs gut zugehört.
-5. Amir überlegt, warum Stefan so reagiert hat.
-6. Amir schreibt Stefan noch am selben Abend eine Nachricht.
-
-{{< details type="tip" title="Lösungen Prüfung" >}}
-
-1. Richtig (implizit: *„als ich in die Wohnung kam“* — er war da).
-2. Falsch (*„Der Moment dauerte eine halbe Stunde“*).
-3. Richtig.
-4. Falsch (*„nicht mehr richtig zuhören konnte“*).
-5. Richtig (*„stressige Woche“ / „bewusst klein gehalten“*).
-6. Falsch (*„Morgen schicke ich ihm eine kurze Nachricht“*).
-
-{{< /details >}}
-
-**Punkte-Rubrik:** je 1 Punkt pro richtiger Entscheidung,
-maximal **6 Punkte**. Ab **4 Punkten** gilt der Teil als
-bestanden.
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann Emotionen in einem Text erkennen, auch wenn sie
       nicht direkt genannt werden.
 - [ ] Ich kann eine Nachricht mit Einsicht und einem konkreten
@@ -310,7 +309,7 @@ bestanden.
 - [ ] Ich kann eine Du-Botschaft in eine Ich-Botschaft umformen.
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

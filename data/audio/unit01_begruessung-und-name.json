@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
-    "source_body_sha256": "a3439d3ee52d803d61eba8ade296f3c69a643da7cafdc2eecd21518f72d86419",
+    "source_body_sha256": "0bfbee6a47327b69410ab86b27836f7ee08f8fdc8519d2184198ac38645b9b78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
-    "source_body_sha256": "a3439d3ee52d803d61eba8ade296f3c69a643da7cafdc2eecd21518f72d86419",
+    "source_body_sha256": "0bfbee6a47327b69410ab86b27836f7ee08f8fdc8519d2184198ac38645b9b78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Frau Kurz: Guten Morgen! Ich bin Frau Kurz. Und Sie? Ana: Guten Morgen. Ich heiße Ana. Frau Kurz: Schön, Ana. Woher kommen Sie? Ana: Aus Portugal. Luka: Hallo, Ana! Ich bin Luka. Komm, setz dich!"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
-    "source_body_sha256": "a3439d3ee52d803d61eba8ade296f3c69a643da7cafdc2eecd21518f72d86419",
+    "source_body_sha256": "0bfbee6a47327b69410ab86b27836f7ee08f8fdc8519d2184198ac38645b9b78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Hallo.\nGuten Morgen.\nGuten Tag.\nGuten Abend.\nTschüss.\nAuf Wiedersehen."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
-    "source_body_sha256": "a3439d3ee52d803d61eba8ade296f3c69a643da7cafdc2eecd21518f72d86419",
+    "source_body_sha256": "0bfbee6a47327b69410ab86b27836f7ee08f8fdc8519d2184198ac38645b9b78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ich heiße ….\nIch bin ….\nIch komme aus ….\nIch bin … Jahre alt..\nWie heißt du?.\nWoher kommst du?.\nWie alt bist du?."
@@ -73,7 +73,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit01_begruessung-und-name/index.md",
-    "source_body_sha256": "a3439d3ee52d803d61eba8ade296f3c69a643da7cafdc2eecd21518f72d86419",
+    "source_body_sha256": "0bfbee6a47327b69410ab86b27836f7ee08f8fdc8519d2184198ac38645b9b78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ana: Hallo. Ich heiße Ana. Und du? Luka: Hallo, Ana. Ich bin Luka. Ana: Woher kommst du, Luka? Luka: Aus der Türkei. Und du? Ana: Ich komme aus Portugal. Luka: Wie alt bist du? Ana: Ich bin 24 Jahre alt. Und du? Luka: Ich bin 27. — So, jetzt kommt Frau Kurz. Tschüss, bis gleich!"

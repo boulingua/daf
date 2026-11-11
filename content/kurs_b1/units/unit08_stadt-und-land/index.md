@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.monitoring-and-repair.02
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.PROD.compensating.01
-    - B1.REC.overall-oral-comprehension.01
-    - B1.INT.goal-oriented-co-operation.05
+  - B1.PROD.monitoring-and-repair.02
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.PROD.compensating.01
+  - B1.REC.overall-oral-comprehension.01
+  - B1.INT.goal-oriented-co-operation.05
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit08_stadt-und-land_exam
+  format: module-practice
+  duration_minutes:
+  points: 7
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit08_stadt-und-land-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit08_stadt-und-land-teacher.png
 audio_manifest: unit08_stadt-und-land
 ---
 
@@ -77,6 +105,7 @@ Leserinnen und Leser gefragt: **„Stadt oder Land — wo lebt man
 heute besser?“** Innerhalb einer Woche kamen über 200 Zuschriften.
 Zwei davon lesen wir gleich. Vorher aber Ihre eigene Meinung:
 
+## Aktivieren {#activate}
 - Wohnen Sie lieber in der Stadt oder auf dem Land? **Warum?**
   Begründen Sie mit *weil*.
 - Was hat sich in den letzten fünf Jahren geändert, das das Land
@@ -84,8 +113,7 @@ Zwei davon lesen wir gleich. Vorher aber Ihre eigene Meinung:
 - Ergänzen Sie den Satz: *„Wenn ich frei wählen könnte, würde ich
   am liebsten … wohnen, weil …“*
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort / Wendung                    | Erklärung                                                        |
@@ -174,8 +202,7 @@ derselben Zeit zu einer wichtigen medizinischen Versorgung
 Diese Lücke bei der Daseinsvorsorge ist genau das, worüber Yasmin
 und Robert streiten.
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Zuordnung (Leseverstehen, Grundniveau)
 
 Zu wem passt die Aussage — **Yasmin (Y)** oder **Robert (R)**?
@@ -255,8 +282,7 @@ Mittelniveau: Aufgaben 1–3. Aufbauniveau: alle vier Aufgaben; in
 Aufgabe 4 zusätzlich einen Relativsatz bilden (*Die Stadt ist ein
 Ort, der …*).
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (B1, ca. 100–120 Wörter): Ihr Leserbrief.**
 
 Schreiben Sie einen eigenen Leserbrief an den *Wochenspiegel* zur
@@ -282,48 +308,11 @@ Ihr Brief soll:
 | mind. ein Konjunktiv II korrekt             |  ☐       |
 | Schluss mit Forderung/Frage                 |  ☐       |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 — Modul Lesen, Teil 4 (Meinungen: Ja / Nein).**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit08_stadt-und-land_exam" >}}).
 
-**Aufgabenstellung:** Lesen Sie **Brief 2 (Robert)** noch einmal.
-Entscheiden Sie zu den sieben Aussagen, ob sie zu Roberts Meinung
-**passen (Ja)** oder **nicht passen (Nein)**.
-
-1. Robert ist in der Großstadt geboren.
-2. Robert bereut den Umzug in die Stadt.
-3. Robert erreicht mehrere Kliniken in kurzer Zeit.
-4. Robert braucht in der Stadt ein Auto für weite Wege.
-5. Robert findet das Landleben für ältere Menschen problematisch.
-6. Für Robert ist die Nähe zu Menschen und Ärzten besonders
-   wichtig.
-7. Robert plant, bald aufs Land zurückzuziehen.
-
-{{< details type="tip" title="Lösungen Prüfung" >}}
-
-1. **Nein** (er ist *„in einem Dorf aufgewachsen“*).
-2. **Nein** (*„ich habe es nie bereut“*).
-3. **Ja** (*„drei Kliniken … in einer Viertelstunde“*).
-4. **Nein** (*„von dem ich ohne Auto überallhin komme“*).
-5. **Ja** (*„wird das abgelegene Dorf schnell zur Falle“*).
-6. **Ja** (*„Für mich zählt vor allem eines: Nähe“*).
-7. **Nein** (*„Deshalb bleibe ich, wo ich bin“*).
-
-{{< /details >}}
-
-**Punkte-Rubrik (Lesen, 7 Items).**
-
-| Richtige Antworten | Punkte | Bewertung          |
-|:------------------:|:------:|--------------------|
-| 7                  | 7      | sehr gut           |
-| 5–6                | 5–6    | gut / bestanden    |
-| 4                  | 4      | knapp bestanden    |
-| 0–3                | 0–3    | noch nicht bestanden |
-
-*Bestehensgrenze für dieses Teilmodul: 4 von 7 Punkten.*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann in Leserbriefen unterscheiden, wer welche Position
       vertritt.
 - [ ] Ich kann die Kernaussage einer Meinung in einem Satz mit
@@ -335,7 +324,7 @@ Entscheiden Sie zu den sieben Aussagen, ob sie zu Roberts Meinung
 - [ ] Ich kann einen eigenen Leserbrief mit klarer Position und
       Schlussforderung schreiben.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten).**
 

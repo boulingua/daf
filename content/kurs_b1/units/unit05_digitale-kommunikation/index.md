@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.monitoring-and-repair.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.REC.reading-for-information-and-argument.03
-    - B1.PROD.planning.01
-    - B1.INT.online-conversation-and-discussion.02
+  - B1.PROD.monitoring-and-repair.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.REC.reading-for-information-and-argument.03
+  - B1.PROD.planning.01
+  - B1.INT.online-conversation-and-discussion.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit05_digitale-kommunikation_exam
+  format: module-practice
+  duration_minutes:
+  points: 12
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit05_digitale-kommunikation-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit05_digitale-kommunikation-teacher.png
 audio_manifest: unit05_digitale-kommunikation
 ---
 
@@ -84,6 +112,7 @@ eine war eine wütende Chat-Notiz mit drei Ausrufezeichen, die
 andere eine ruhige, gut begründete E-Mail. „Beide hatten recht“,
 erzählte er später, „aber nur eine wollte ich beantworten.“
 
+## Aktivieren {#activate}
 **Sprechen Sie zu zweit:**
 
 - Schreiben Sie täglich auf Deutsch — in Chat, E-Mail oder Forum?
@@ -94,8 +123,7 @@ erzählte er später, „aber nur eine wollte ich beantworten.“
 - Warum wollte Herr Malik wohl nur die E-Mail beantworten?
 
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Deutsch                     | Wortart / Hinweis            | Beispiel |
@@ -203,8 +231,7 @@ dem, was man empfängt. (paraphrasiert und übersetzt, siehe
 Quellen)
 
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Register-Übersetzung** *(Grundniveau)*.
 Formulieren Sie den Chat-Satz ins E-Mail-Register um. Nutzen Sie
 Konjunktiv II:
@@ -265,8 +292,7 @@ Lernende ergänzen Aufgabe 4 um eine vollständig korrigierte
 Fassung der E-Mail.
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (ca. 80 Wörter):** Lesen Sie den Beitrag von
 `wasserwart_72` noch einmal. Schreiben Sie einen eigenen
 Forumsbeitrag, in dem Sie
@@ -292,39 +318,11 @@ Werden Nebensatz und Konjunktiv II korrekt verwendet?
 > Das würde vielen Menschen Platz sparen.
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 Schreiben, Teil 2 — Meinungsäußerung (ca. 80 Wörter).**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit05_digitale-kommunikation_exam" >}}).
 
-Sie lesen in einem Online-Forum folgenden Beitrag. Schreiben Sie
-Ihre Meinung dazu:
-
-> „Immer mehr junge Leute lesen keine Zeitung mehr. Ich finde das
-> schade — die Nachrichten im Internet sind oft einseitig und
-> schnell vergessen. Wer ohne Zeitung aufwächst, bekommt die Welt
-> nicht mehr vollständig mit.“
-
-- Äußern Sie Ihre Meinung zur These.
-- Geben Sie ein Beispiel aus Ihrem eigenen Alltag.
-- Machen Sie einen Vorschlag, wie Jugendliche Nachrichten
-  konsumieren könnten.
-
-**Punkte-Rubrik (max. 12 Punkte)**
-
-| Kriterium                                   | Punkte |
-|---------------------------------------------|:------:|
-| Inhalt: alle drei Punkte klar behandelt     |   4    |
-| Argumentation: Meinung begründet (Nebensatz)|   3    |
-| Register & Netiquette: sachlich, angemessen |   2    |
-| Grammatik & Wortschatz (B1, inkl. Konj. II) |   2    |
-| Textaufbau: Anrede/Gruß, roter Faden        |   1    |
-
-**Bewertung:** 11–12 = sehr gut · 9–10 = gut · 7–8 = befriedigend
-· 5–6 = ausreichend · unter 5 = nicht bestanden.
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich erkenne die Register-Unterschiede zwischen Chat, Forum
       und E-Mail.
 - [ ] Ich kann einen Chat-Text mit Konjunktiv II höflich
@@ -336,7 +334,7 @@ Ihre Meinung dazu:
       Stellung.
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten).**
 

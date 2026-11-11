@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
-    "source_body_sha256": "8184f1d543068649b084920e84749be2c495f07b3838bacdf7178ff81aaa3225",
+    "source_body_sha256": "dfa19bb82efeaa9d7c2b066f4e2604384190929c19c8be0b9c824b6741f7e3e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ana: Schau, Tarek! Äpfel, ein Kilo nur 1 Euro 99. Tarek: Super, das ist billig. Ich nehme zwei Kilo. Ana: Und Käse? Ich mag Käse. Frau Berger: Der Käse dort kostet 3 Euro 50. Das ist okay. Tarek: Gut. Zwei Kilo Äpfel und ein Stück Käse. Was macht das zusammen? Ana: Warte, wir fragen an der Kasse."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit06_einkaufen-und-preise/index.md",
-    "source_body_sha256": "8184f1d543068649b084920e84749be2c495f07b3838bacdf7178ff81aaa3225",
+    "source_body_sha256": "dfa19bb82efeaa9d7c2b066f4e2604384190929c19c8be0b9c824b6741f7e3e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "„Liebe Kundinnen und Kunden! Heute im Angebot: Äpfel aus Österreich, ein Kilo nur 1 Euro 99. Milch aus Tirol, ein Liter für 1 Euro 29. Käse, 500 Gramm, Sonderpreis 3 Euro 50. Kasse 2 ist jetzt offen. Vielen Dank für Ihren Einkauf!\""

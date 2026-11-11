@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.overall-oral-interaction.02
-    - A2.PROD.creative-writing.03
-    - A2.REC.reading-instructions.02
-    - A2.INT.correspondence.01
-    - A2.MED.expressing-a-personal-response-to-creative-texts.03
+  - A2.INT.overall-oral-interaction.02
+  - A2.PROD.creative-writing.03
+  - A2.REC.reading-instructions.02
+  - A2.INT.correspondence.01
+  - A2.MED.expressing-a-personal-response-to-creative-texts.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-a2-lesen-teil-3
+exam:
+  page: kurs_a2/units/unit07_feste-und-traditionen_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit07_feste-und-traditionen-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit07_feste-und-traditionen-teacher.png
 audio_manifest: unit07_feste-und-traditionen
 ---
 
@@ -75,14 +103,14 @@ Aus den Kann-Beschreibungen dieser Einheit:
 > **Maja:** Super! Ich möchte hingehen, weil ich gern tanze.
 > **Omar:** Und ich gehe mit, weil es dort Würstchen gibt.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen**
 
 - Welche Feste kennen Sie im DACH-Raum?
 - Wann feiern Sie gern: am Tag oder am Abend? Warum?
 - Was machen Sie auf einem Fest am liebsten?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort                    | Bedeutung                             |
@@ -136,8 +164,7 @@ dauert genau 72 Stunden. Seit 2017 gehört die Basler Fasnacht zum
 immateriellen Kulturerbe der UNESCO. (Paraphrasiert nach: *Basler
 Fasnacht*, Wikipedia, CC BY-SA 4.0 — siehe Quellen.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Leseverstehen (leicht).** Lesen Sie den Lesetext (Teil C).
 Richtig oder falsch?
 
@@ -193,8 +220,7 @@ Einladung · Programm · Brauch)
 - **A2.2 (schwerer):** Bei Aufgabe 3 und 4 zwei eigene Sätze mit *weil*
   und *dass* über das eigene Lieblingsfest ergänzen.
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (A2, ca. 60–80 Wörter): Ein Fest in meiner Heimat**
 
 Schreiben Sie einen kurzen Text über ein Fest. Nennen Sie:
@@ -216,51 +242,11 @@ Partner 1 Minute lang von dem Fest.
 | Wortschatz zum Thema Fest              | 0–2    |
 | Verständlichkeit (trotz Fehler klar)   | 0–2    |
 
-## Prüfung — GER A2 Lesen, Teil 3
+## Prüfung — GER A2 Lesen, Teil 3 {#exam}
 
-**Aufgabe:** Lesen Sie die Einladung. Wählen Sie bei jeder Frage **a**,
-**b** oder **c**.
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit07_feste-und-traditionen_exam" >}}).
 
-> **Stadtfest Graz — Samstag, 28. Juni**
->
-> Liebe Nachbarinnen und Nachbarn,
-> wir feiern am Samstag unser Stadtfest auf dem Hauptplatz, von 11 bis
-> 23 Uhr. Es gibt eine Musikbühne, eine Kinderecke (nur 14–17 Uhr),
-> Würstchen und Wein aus der Steiermark. Am Abend gibt es Punsch. Der
-> Eintritt ist frei. Bitte kommen Sie mit dem Rad oder mit dem Bus, denn
-> es gibt keine Parkplätze.
->
-> Wir freuen uns auf Sie!
-> Herr Ebner
-
-1. Wann beginnt das Stadtfest?
-   a) um 10 Uhr · b) um 11 Uhr · c) um 14 Uhr
-2. Wann ist die Kinderecke offen?
-   a) den ganzen Tag · b) von 14 bis 17 Uhr · c) nur am Abend
-3. Was kostet der Eintritt?
-   a) 5 Euro · b) 10 Euro · c) nichts
-4. Wie soll man zum Fest kommen?
-   a) mit dem Auto · b) mit dem Rad oder Bus · c) zu Fuß
-5. Was gibt es am Abend?
-   a) Punsch · b) Kaffee · c) Eis
-
-{{< details type="tip" title="Lösungen" >}}
-1) b · 2) b · 3) c · 4) b · 5) a.
-{{< /details >}}
-
-**Punkte-Rubrik**
-
-| Richtige Antworten | Bewertung          |
-|--------------------|--------------------|
-| 5                  | sehr gut           |
-| 4                  | gut                |
-| 3                  | bestanden          |
-| 0–2                | noch üben          |
-
-Bestanden ab 3 von 5 Punkten (60 %).
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich verstehe eine Einladung und finde Datum, Ort und Uhrzeit.
 - [ ] Ich kann ein Fest-Programm lesen und sagen, was man dort macht.
 - [ ] Ich kann einen Satz mit *weil* und einen Satz mit *dass* bilden.
@@ -269,7 +255,7 @@ Bestanden ab 3 von 5 Punkten (60 %).
 - [ ] Ich kann kurz über ein Fest in meiner Heimat schreiben oder
       sprechen.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten)**
 

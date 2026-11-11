@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
-    "source_body_sha256": "d94ffc4807d465f60103b23532c06da0185b0bf6a3b984dbab36bc7c662bd4fd",
+    "source_body_sha256": "699637939ed1c8b89153e833d3c503c43519d896d19374fac5d7aed40413bb22",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Sabina: Hallo! Ich habe am Samstag frei. Wollen wir zusammen etwas machen? Omar: Gute Idee! Ich möchte gern raus in die Natur. Maja: Ich will schon lange auf den Schöckl wandern. Kommt ihr mit? Sabina: Ja, super. Ich glaube, das Wetter wird schön. Wir treffen uns um 9 Uhr am Bahnhof."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
-    "source_body_sha256": "d94ffc4807d465f60103b23532c06da0185b0bf6a3b984dbab36bc7c662bd4fd",
+    "source_body_sha256": "699637939ed1c8b89153e833d3c503c43519d896d19374fac5d7aed40413bb22",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "der Plan, die Pläne.\ndie Zukunft.\nvorhaben.\ndie Einladung, -en.\ndie Zusage / die Absage.\nder Treffpunkt, -e.\nwahrscheinlich.\nvielleicht."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
-    "source_body_sha256": "d94ffc4807d465f60103b23532c06da0185b0bf6a3b984dbab36bc7c662bd4fd",
+    "source_body_sha256": "699637939ed1c8b89153e833d3c503c43519d896d19374fac5d7aed40413bb22",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Achtung: Nach werden und Modalverben steht kein zu. Richtig: Ich werde wandern. — Falsch: Ich werde zu wandern. Nur vorhaben braucht zu: Ich habe vor, zu wandern."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit09_plaene-und-zukunft/index.md",
-    "source_body_sha256": "d94ffc4807d465f60103b23532c06da0185b0bf6a3b984dbab36bc7c662bd4fd",
+    "source_body_sha256": "699637939ed1c8b89153e833d3c503c43519d896d19374fac5d7aed40413bb22",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Am Samstag will ich mit Omar und Maja auf den Schöckl wandern. Wir treffen uns um 9 Uhr am Bahnhof und fahren zuerst mit dem Bus. Ich habe vor, Brot, Käse und Wasser mitzunehmen. Das Wetter wird wahrscheinlich schön, aber ich nehme auch eine Jacke mit. Oben möchte ich ein Foto vom Gipfel machen. Am Abend werde ich müde sein, aber sehr glücklich. Vielleicht essen wir danach noch zusammen eine Pizza. Ich freue mich schon sehr auf diesen Tag!"

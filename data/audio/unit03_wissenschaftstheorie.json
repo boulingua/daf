@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
-    "source_body_sha256": "0b86607593b525e3515c98f6afbabe0f94f5811bdfbda29258561c4b545b1922",
+    "source_body_sha256": "7072a532bb1be2ce96aead2cd677d8184f848d02c81af7c79f789ce193365ae5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
-    "source_body_sha256": "0b86607593b525e3515c98f6afbabe0f94f5811bdfbda29258561c4b545b1922",
+    "source_body_sha256": "7072a532bb1be2ce96aead2cd677d8184f848d02c81af7c79f789ce193365ae5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
-    "source_body_sha256": "0b86607593b525e3515c98f6afbabe0f94f5811bdfbda29258561c4b545b1922",
+    "source_body_sha256": "7072a532bb1be2ce96aead2cd677d8184f848d02c81af7c79f789ce193365ae5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Erkenntnistheorie.\nder Empirismus.\nder Rationalismus.\ndie Induktion.\ndie Deduktion.\ndie Falsifikation.\ndie Verifikation.\ndas Paradigma.\ndie Anomalie.\ndie Demarkation.\nder Geltungsanspruch.\nvorläufig."
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
-    "source_body_sha256": "0b86607593b525e3515c98f6afbabe0f94f5811bdfbda29258561c4b545b1922",
+    "source_body_sha256": "7072a532bb1be2ce96aead2cd677d8184f848d02c81af7c79f789ce193365ae5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "„Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind. — Immanuel Kant, Kritik der reinen Vernunft (1781), A51/B75"

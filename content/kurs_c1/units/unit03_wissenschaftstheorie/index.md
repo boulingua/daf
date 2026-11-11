@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.INT.formal-discussion.01
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.PROD.planning.01
-    - C1.MED.adapting-language.03
+  - C1.INT.formal-discussion.01
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.PROD.planning.01
+  - C1.MED.adapting-language.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-c1-hören-teil-4
+exam:
+  page: kurs_c1/units/unit03_wissenschaftstheorie_exam
+  format: module-practice
+  duration_minutes:
+  points: 7
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit03_wissenschaftstheorie-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit03_wissenschaftstheorie-teacher.png
 audio_manifest: unit03_wissenschaftstheorie
 ---
 
@@ -84,6 +112,7 @@ Bruchlinien der Erkenntnistheorie: Speist sich Wissen aus der
 je *bestätigen* — oder immer nur *vorläufig retten*, bis der nächste
 Befund sie kippt?
 
+## Aktivieren {#activate}
 **Leitfragen zum Einstieg:**
 
 1. Woran erkennen *Sie* im Alltag, dass eine Behauptung
@@ -94,8 +123,7 @@ Befund sie kippt?
    für gesichert halten? Wenn Ihnen dazu nichts einfällt — ist die
    Überzeugung dann noch wissenschaftlich?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz — wissenschaftssprachlicher Grundstock
 
 | Begriff | Knapp erklärt |
@@ -208,8 +236,7 @@ Welten. Und die Frage, welche der beiden Studentinnen mich vorhin
 richtig zitiert hat, lässt sich nun beantworten — es waren, auf ihre
 je eigene Weise, beide."
 
-## Üben
-
+## Üben {#practise}
 > **Niveau-Differenzierung:** Aufgaben mit ⬤ sind der Kern (C1);
 > Aufgaben mit ◐ sind Erleichterungen (C1−, mit Hilfsgerüst);
 > Aufgaben mit ◆ sind Erweiterungen (C1+).
@@ -275,8 +302,7 @@ Hedging-Ausdruck Ihrer Wahl.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe — Mini-Vortrag (C1, ca. 4 Min, mündlich).**
 Halten Sie einen kurzen, strukturierten Vortrag: Wählen Sie ein
 **Paradigma** aus einem Feld, das Sie kennen (Ihr Fach, Ihr Beruf,
@@ -300,47 +326,11 @@ Wandel · ein didaktisches Leitbild vor und nach einer Reform.
 - **Interaktion:** freies Sprechen, nicht abgelesen; Reaktion auf eine
   Rückfrage.
 
-## Prüfung — GER C1 Hören, Teil 4
+## Prüfung — GER C1 Hören, Teil 4 {#exam}
 
-**Aufgabenstellung:** Sie hören den Vortrag von Dr. Stark **zweimal**.
-Wählen Sie pro Aussage a, b oder c. (7 Items · je 1 Punkt · 7 Punkte.)
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit03_wissenschaftstheorie_exam" >}}).
 
-1. Die erste große Antwort auf die Frage nach dem Ursprung des Wissens
-   lautet …
-   a) die Vernunft · b) die Erfahrung · c) die Autorität.
-2. Der Schluss vom Einzelnen aufs Allgemeine heißt …
-   a) Deduktion · b) Falsifikation · c) Induktion.
-3. Was widerlegt den Satz „alle Schwäne sind weiß“ endgültig?
-   a) tausend weiße Schwäne · b) ein einziger schwarzer Schwan ·
-   c) ein Mehrheitsbeschluss.
-4. Poppers Maßstab für Wissenschaftlichkeit ist …
-   a) die Bestätigung · b) die Widerlegbarkeit · c) die Nützlichkeit.
-5. Aussagen, die mit *jeder* Beobachtung vereinbar sind, …
-   a) sind besonders stark · b) erklären am Ende nichts · c) sind
-   endgültig bewiesen.
-6. Laut Kuhn verläuft Wissenschaft …
-   a) stetig-linear · b) in Phasen mit Brüchen · c) rein zufällig.
-7. Zum Paradigmenwechsel kommt es, wenn …
-   a) die Anomalien sich häufen · b) ein Lehrbuch erscheint · c) die
-   Finanzierung endet.
-
-{{< details type="tip" title="Lösungen & Punkte-Rubrik" >}}
-
-**Lösungen:** 1) b · 2) c · 3) b · 4) b · 5) b · 6) b · 7) a.
-
-**Punkte-Rubrik (7 Punkte):**
-
-| Punkte | GER-Einstufung |
-|---|---|
-| 7–6 | sicher auf C1 — auch implizite Bezüge erfasst |
-| 5–4 | C1 erreicht — Detailverstehen tragfähig |
-| 3–2 | Übergang B2/C1 — Globalverstehen ok, Details lückenhaft |
-| 1–0 | noch nicht ausreichend — erneutes Hören mit Transkript |
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich folge einem ca. 6-minütigen Vortrag zur Wissenschaftstheorie
       und trenne These, Beispiel und Einwand.
 - [ ] Ich erkläre *Falsifikation*, *Induktion* und *Paradigma* in
@@ -351,7 +341,7 @@ Wählen Sie pro Aussage a, b oder c. (7 Items · je 1 Punkt · 7 Punkte.)
 - [ ] Ich unterscheide *paraphrasieren* (erlaubt) von *wörtlich
       zitieren* (nur bei gemeinfreien Texten).
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitraster (45 Min):**
 

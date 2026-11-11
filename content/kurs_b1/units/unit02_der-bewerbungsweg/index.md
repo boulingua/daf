@@ -6,8 +6,7 @@ unit_nr: 2
 cefr_can_do:
 - Ich kann ein einfaches Motivationsschreiben auf Deutsch verfassen.
 - Ich kann auf eine Stellenanzeige mit einer höflichen E-Mail reagieren.
-- Ich kann ein kurzes Vorstellungsgespräch selbst moderieren — Fragen stellen und
-  auf Fragen reagieren.
+- Ich kann ein kurzes Vorstellungsgespräch selbst moderieren — Fragen stellen und auf Fragen reagieren.
 skills_focus:
 - sprechen
 - writing
@@ -38,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.goal-oriented-co-operation.05
-    - B1.PROD.compensating.01
-    - B1.PROD.monitoring-and-repair.02
-    - B1.INT.asking-for-clarification.01
-    - B1.MED.processing-text.11
+  - B1.INT.goal-oriented-co-operation.05
+  - B1.PROD.compensating.01
+  - B1.PROD.monitoring-and-repair.02
+  - B1.INT.asking-for-clarification.01
+  - B1.MED.processing-text.11
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit02_der-bewerbungsweg_exam
+  format: module-practice
+  duration_minutes:
+  points: 10
+  skills:
+  - sprechen
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit02_der-bewerbungsweg-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit02_der-bewerbungsweg-teacher.png
 audio_manifest: unit02_der-bewerbungsweg
 ---
 
@@ -89,14 +116,14 @@ dann das Anschreiben — und nächste Woche üben wir das Gespräch.“
 
 **Aktivieren Sie Ihr Vorwissen.**
 
+## Aktivieren {#activate}
 - Haben Sie schon einmal eine Bewerbung geschrieben — auf Deutsch oder in Ihrer
   Muttersprache? Erzählen Sie zu zweit.
 - Welche **drei Dinge** gehören für Sie unbedingt in ein Anschreiben?
 - Worauf achten Sie in einer Stellenanzeige **zuerst**: Aufgaben, Gehalt,
   Arbeitsort oder Anforderungen? Begründen Sie mit *weil*.
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz: Rund um die Bewerbung
 
 | Deutsch                        | Wortart / Artikel   | Erklärung / Beispiel                                      |
@@ -203,8 +230,7 @@ grenzüberschreitende Stellensuche innerhalb der EU (vgl. EURES, 2025).
 | Einräumen (mit *obwohl*) | *Obwohl ich noch nicht in … gearbeitet habe, …*         |
 | Schlussformel            | *Über ein persönliches Gespräch würde ich mich freuen.* |
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Reihenfolge (Niveau A).** Bringen Sie die Sätze in die richtige
 Reihenfolge für ein B1-Anschreiben (A–F).
 
@@ -268,8 +294,7 @@ Patienten**.“
 eigene höfliche Bitten für eine Bewerbungssituation. Wer mehr Unterstützung
 braucht, nutzt die Grammatik-Box in Teil B als Vorlage.
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (Schreiben + Sprechen).**
 
 **Teil 1 — Schreiben.** Sie unterstützen Lejla. Verfassen Sie ein kurzes
@@ -296,53 +321,11 @@ Sie mindestens drei dieser Fragen:
 - **Struktur (mündlich):** klarer Ablauf, auf Fragen reagieren und selbst
   Fragen stellen.
 
-## Prüfung
+## Prüfung {#exam}
 
-### GER B1 Schreiben — halb-formelle Mitteilung (ca. 40 Wörter)
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit02_der-bewerbungsweg_exam" >}}).
 
-{{< callout type="warning" >}}
-Formal am offiziellen B1-Schreiben-Modul orientiert (persönliche bzw.
-halb-formelle Mitteilung zur Handlungsregulierung, ca. 40 Wörter). Stimulus und
-Lösungsbeispiel sind original.
-
-{{< /callout >}}
-
-**Aufgabe:**
-
-> Frau Rauter vom Kantonsspital Villach lädt Sie zu einem Vorstellungsgespräch
-> ein. Leider haben Sie an diesem Tag Schichtdienst. Schreiben Sie an Frau
-> Rauter (ca. 40 Wörter):
->
-> - Bedanken Sie sich für die Einladung.
-> - Bitten Sie höflich um einen anderen Termin.
-> - Schlagen Sie zwei konkrete Tage vor, an denen Sie Zeit hätten.
->
-> Vergessen Sie Anrede, Gruß und Ihren Namen nicht.
-
-**Musterlösung (B1):**
-
-> Sehr geehrte Frau Rauter,
->
-> vielen Dank für Ihre Einladung zum Vorstellungsgespräch. Leider habe ich am
-> vorgeschlagenen Termin Schichtdienst. Könnten wir das Gespräch verschieben?
-> Ich hätte am Mittwoch, den 15.05., oder am Freitag, den 17.05., Zeit.
->
-> Mit freundlichen Grüßen
-> Lejla Hodžić
-
-**Punkte-Rubrik (max. 10 Punkte).**
-
-| Kriterium                                    | Punkte |
-|----------------------------------------------|:------:|
-| Alle drei Inhaltspunkte bearbeitet           |   3    |
-| Anrede, Grußformel und Name vorhanden        |   2    |
-| Formelles Register (Sie-Form, Höflichkeit)   |   2    |
-| Konjunktiv II für die höfliche Bitte         |   1    |
-| Grammatik und Rechtschreibung (Wortlänge ok) |   2    |
-| **Gesamt**                                   | **10** |
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann die Bausteine eines Anschreibens benennen.
 - [ ] Ich kann Formelles von Informellem im Register unterscheiden.
 - [ ] Ich kann höfliche Bitten mit dem Konjunktiv II (*würde, könnte, hätte*)
@@ -352,7 +335,7 @@ Lösungsbeispiel sind original.
 - [ ] Ich erkenne drei typische B1-Fehler (Dativ Plural, Präposition + Kasus,
       vollständige Verbform).
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45-Min-Einheit):** Einstieg 5' · Input A–F 12' · Üben (Aufg. 1–4)
 13' · Anwenden Teil 1 *oder* Teil 2 10' · Reflexion 5'. Für eine

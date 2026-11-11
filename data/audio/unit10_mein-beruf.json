@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit10_mein-beruf/index.md",
-    "source_body_sha256": "1e90c5daac7116d5680828393c147be5a97d93eb37782f42632b658a8cf523a5",
+    "source_body_sha256": "61b9fc305a835856d484d897328484eaad989f716cd379cd7dedbb3dfac3467f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Frau Kurz: Guten Morgen! Ich bin Deutschlehrerin. Ich arbeite hier an der Volkshochschule. Und Sie? Herr Keks: Ich bin Bäcker. Ich arbeite in einer Bäckerei in Wien. Ana: Ich bin noch Studentin. Ich studiere Musik. Ich mache auch ein Praktikum. Luka: Ich arbeite als Programmierer. Ich arbeite bei einer Firma in der Stadt."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit10_mein-beruf/index.md",
-    "source_body_sha256": "1e90c5daac7116d5680828393c147be5a97d93eb37782f42632b658a8cf523a5",
+    "source_body_sha256": "61b9fc305a835856d484d897328484eaad989f716cd379cd7dedbb3dfac3467f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ich heiße Frau Kurz. Ich bin Deutschlehrerin von Beruf. Ich arbeite an der Volkshochschule in Wien. Ich unterrichte Deutsch auf A1 und A2. Meine Arbeit macht mir Freude. Am Wochenende arbeite ich nicht."

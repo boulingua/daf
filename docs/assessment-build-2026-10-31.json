@@ -1,0 +1,1739 @@
+{
+  "date": "2026-11-02",
+  "status": "locally-verified-review-copies; human assessment approval pending",
+  "assessments": 60,
+  "pdfs": 120,
+  "pages": 140,
+  "verification": {
+    "all_ordered_source_blocks": true,
+    "answer_blanks_and_controls_preserved": true,
+    "learner_key_separation": true,
+    "source_link_targets": true,
+    "no_missing_glyphs_or_overflow": true,
+    "page_bounds": true,
+    "thumbnail_pixels_match": true,
+    "greek_and_functional_symbols_mupdf_and_poppler": true,
+    "representative_visual_review": true,
+    "human_linguistic_and_pedagogical_approval": false
+  },
+  "validation_sha256": "c11e4f402a1b28fec46f118f47460a434ed24aebb402cf5176110454ef88b1d2",
+  "source_support_sha256": {
+    "boulingua-eqs.sty": "d38a4b03197f3df3106788048759212c7934b9410971dbc498ef93743e93fa49",
+    "kit.lock": "e635de52ee3b019ce61444dd3d4a7da96bf770c8565faaa4b3312306aee0e193",
+    "beamerthemeboulingua.sty": "0f84dcb6098f1538e8360577024f2a9deb45cb79cda848cb8905a12b90b0d1aa",
+    "boulingua-sheet.sty": "5b659f50cdf2671409b8b5f9d5a8d36ca9829f6048e33ce0170ac3a25c04d644",
+    "boulingua-tokens.sty": "8c589133ec780228c2b89166387ada2d9156d64ef94a33cb8a4c5e1fe75edc90",
+    "fonts/JetBrainsMono-Bold.ttf": "5590990c82e097397517f275f430af4546e1c45cff408bde4255dad142479dcb",
+    "fonts/SourceSans3-It.otf": "430b9f0eb1170be0981706d14b6cf87122efba9d86c373bbdf69daf276421462",
+    "fonts/JetBrainsMono-Regular.ttf": "a0bf60ef0f83c5ed4d7a75d45838548b1f6873372dfac88f71804491898d138f",
+    "fonts/SourceSans3-Bold.otf": "7776ddb9f3eb58683e59f28d558d8896b768c2d0c80799fb3f1c56c54dfd98c9",
+    "fonts/SourceSans3-SemiboldIt.otf": "81204ed282543df2d93db214c98b5ec1c9ce735c4c82e4323d5ae5ee69c6b8b7",
+    "fonts/SourceSans3-Regular.otf": "08df266400933d3178d081a45f94a08814c3e55b4b7dd2e0ff69cb1329f13ab6",
+    "fonts/PermanentMarker-Regular.ttf": "38d4690a8ea86436312da76ea3f14030a1e36026008a8c3d278a57600ca33a87",
+    "fonts/SourceSans3-Semibold.otf": "36f1cd2c344aa3109e64429bce41a41e4b2b923beb2db19b8dbf9bb56f05a4f9",
+    "fonts/SourceSans3-BoldIt.otf": "05e97d9adc01059607e97b167a68afb25680db904db7aba831dc2510f14b6515",
+    "assets/boulingua-logo.png": "672750e30fc5a75d98ef70e85e13cf9a0c7d950ce278e40825ed8fc3bc82d40f",
+    "brand/icons/cfl.pdf": "3c35644f15cc04a17ba08b4042b6c22b817a13aba7a7a4f4e83e387dee6441c2",
+    "brand/icons/afl.pdf": "1725827d111ea812beace50f9a0d397854a75ed034855a32941dca01b261d5d4",
+    "brand/icons/efl.pdf": "4528450f2ea63bb77314049a57487ebb9b9b5d67efcd0f2a335a7a7b494f0263",
+    "brand/icons/lle.pdf": "49930f5facb1e6597d037095a31d6b479097cec8c04f5c9c285d443dd9542045",
+    "brand/icons/gfl.pdf": "a4c5ff3fa87866c1cd876ff46eabaf945dc4b3fcde3eb87abec4cce2f699c498",
+    "brand/icons/pfa.pdf": "384c8948388f1fd371520003c9805795e48d99c9c26839ed3207c6fef806176b",
+    "brand/icons/ple.pdf": "3440195182a9493ed7d169038761711b811e86a0813780c04e3138c381d7a021",
+    "brand/icons/ils.pdf": "1637b3dcc879b56e37599dd90f49929a2139583c580f8dda0714dababba293bd",
+    "brand/icons/nsf.pdf": "d8c29f8fcd070b353bd0ce50772296bd32c826a864adadcfb92eb60a32aaac4c",
+    "brand/icons/jfl.pdf": "7ddef63b54bfc5acf87319ac19d7c8cfa73be2347a4013b29cfe8c9c2b47360a",
+    "brand/icons/ele.pdf": "ac089b09df17fc36d3487f0e9f7a3836c204ad0be80e17e0ec54c43606d3e5a0",
+    "brand/icons/ufl.pdf": "90db0ab07f90f92c89539b0c60cf3072f9433fb17db5d3053dc3b99c549af7fe",
+    "brand/icons/rki.pdf": "b3bacd0e88b927608bb132005e8ed8e3c7a120e46fbc14ae2ab5534dc5fa06cf",
+    "brand/icons/pfl.pdf": "d59776783156038824af272624484541b24280ba8c00db1ebca01f70ebff1199",
+    "brand/icons/daf.pdf": "441b2d5833be290d6be4d864d7909d901b981e26d5ec4ecb4f4e0eab5ab02892",
+    "brand/icons/template.pdf": "f65fde3e99c32dbbcd8cfc1a8b100795092f587856e2e9a44c57e3e97531d1cc",
+    "brand/icons/nvt.pdf": "eba6f88209be2a6d5631f79b131e3f76c038896ba5547315e10709bc8e65bb73",
+    "brand/icons/fle.pdf": "a91e5c59c6bd95ce47c6963aecb122416eea48e904e6236a6d7e15f57f180a83",
+    "brand/icons/tfl.pdf": "9edbfec6e3d25fb9fab2c1397cef5d2642cc92f7cb64b4e83c4ddc6ef3e00a54"
+  },
+  "preservation": "Previous published PDF/PNG and build receipt bytes retained in suite remediation/integration/root-final-publication/backups; earlier originals remain in assessment-materials/publication/backups and the course assessment archive.",
+  "records": [
+    {
+      "source": "content/kurs_a1/units/unit01_begruessung-und-name_exam/index.md",
+      "compiled_source_sha256": "e0ed7b14f93bccebb92f69c1a49f40fcbfc2d09188c7af9e5c1ace14cf3e9875",
+      "published_source_sha256": "e0ed7b14f93bccebb92f69c1a49f40fcbfc2d09188c7af9e5c1ace14cf3e9875",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit01_begruessung-und-name_exam.pdf",
+          "sha256": "ba4b4fa30e19d407a2f845fe39e3b1559c3099c882e55b7f83b2a499707f4ec9",
+          "thumbnail_sha256": "4e5ce48f25076d7e11b5db3fd13e29e65985353586d721a2e3540b5dbba46caa",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "d27d727e05d5b810d7714fd973bff47fc5a23164aa48022e7c171e72cf5a608d"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit01_begruessung-und-name_exam-teacher.pdf",
+          "sha256": "359ab8629bfea8e831fdbfc6592163e133a5a333d6d6465713c37b4e9a6c0272",
+          "thumbnail_sha256": "9adc32fcc7aae9c479d9b316405b55e2da1aa123a5b578c3da94b6b60b1b0690",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "3af8a2599ed971ee0cad5fe7c524ee7e9f5c277913e8db07438b1264459a8574"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit02_meine-familie_exam/index.md",
+      "compiled_source_sha256": "2ec9f85ac5c83db16ea80d4ac1e5516ce3e78684fa64baac6eab2ccd91b69a7d",
+      "published_source_sha256": "2ec9f85ac5c83db16ea80d4ac1e5516ce3e78684fa64baac6eab2ccd91b69a7d",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit02_meine-familie_exam.pdf",
+          "sha256": "5e4aa1931b75f9ca70f9f726b57ce26b83edeb2d4654034af3284d612fa5b01a",
+          "thumbnail_sha256": "f19289ef08f5e387aad1d8fa22277771be7256b4c3e971a6d35edf0d0edc3ef3",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "298f6f72c3faa6f92f4ffa76b92bcca9920855b08d25275fb37bcac350e74192"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit02_meine-familie_exam-teacher.pdf",
+          "sha256": "573ddfa8d88c4556d29b29f2568a604d2a1660efbcef7f7ef9b0df1169f06a97",
+          "thumbnail_sha256": "f51d0d2407aa145495c6c2688991e6550cacb20bc362264e826040aa59c2dddc",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "923449ef4051db96af59915581757a88e4d5510fd1712ca7493237953d156098"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit03_woher-kommst-du_exam/index.md",
+      "compiled_source_sha256": "81cd1eeb2cd3590889d18d4cd5cffd9b2b9afd4d6bccec36a6a7b914de34da31",
+      "published_source_sha256": "81cd1eeb2cd3590889d18d4cd5cffd9b2b9afd4d6bccec36a6a7b914de34da31",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit03_woher-kommst-du_exam.pdf",
+          "sha256": "2da59b1144c3026066b59366e5b5aef4289f42a274c211e19cffa47c87d95236",
+          "thumbnail_sha256": "1134fc8acb4b33a41cd9888936d17f993eedf58bde669a07505d3a60b27e0315",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "d8d14556801991ad89523132ac755dd6874c3cdcd3e635b033736964559f3f6f"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit03_woher-kommst-du_exam-teacher.pdf",
+          "sha256": "77e8fe5702a37dc404ceedd472a90fd5079a772bc51457f849f93547b99fadb6",
+          "thumbnail_sha256": "b41e4d86b4112f42350f96c89ad1959a49225c3b6949185de59a86efaaba9b9b",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "77d0cf32faa1a4c4c32be554955e7f02c8be08dbad60e5b29ad9b7114fdfc500"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit04_meine-wohnung_exam/index.md",
+      "compiled_source_sha256": "9e45ec2deb1d1e39ba154f31d84595c11a395bafdad00dc025c17d9f2d7adc96",
+      "published_source_sha256": "9e45ec2deb1d1e39ba154f31d84595c11a395bafdad00dc025c17d9f2d7adc96",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit04_meine-wohnung_exam.pdf",
+          "sha256": "266a44ddb6f4df7b24841d7ce10886875f9f98593ab038b815f6171f93b04e1f",
+          "thumbnail_sha256": "0533005009545870c13c60c8d9bc3445d7fe1548f837303e690012a692099cf3",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "b0a8fa82bf40be378c7021a72c56be2c812edd019697879346c192a044bdc6b6"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit04_meine-wohnung_exam-teacher.pdf",
+          "sha256": "a9c95322d13a7b28bd2db64ec9637f617b94dcf2a11ff7e18b6e8386e6c2b6a6",
+          "thumbnail_sha256": "cbb8ea9d4a20a215822b9f96a83d32d167be48d23c5332aeaa3b2341089ba674",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "bcb4910312afca2a5c5152c6d45c1f0bd7c5616a5c6e668172ccdbbe889adae7"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit05_essen-und-trinken_exam/index.md",
+      "compiled_source_sha256": "e116b63d335df7d4fc647d6233388b59e8351dff6643cdb87c98ffd0d5dffdc0",
+      "published_source_sha256": "e116b63d335df7d4fc647d6233388b59e8351dff6643cdb87c98ffd0d5dffdc0",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit05_essen-und-trinken_exam.pdf",
+          "sha256": "9a1bbe1ef98727ed68eece57666e911c54440531d61da73690a3ef4c122df546",
+          "thumbnail_sha256": "f030accce16a537fd5af1e25bc7bdb361c93bfb6b8a9fcf01ee22fc34080b7a0",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "88b4b7bf12efbfde9089852af2a667d817d67557c98bd3c30483daaceecc8d28"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit05_essen-und-trinken_exam-teacher.pdf",
+          "sha256": "ae6c5f10abc006917b1c85fe53d40067276a368b55d6ba1c7bbd9af65a140a14",
+          "thumbnail_sha256": "22916f8afbb190238f20eddf2cf44788ca052b07546e8e91089827eb6962181b",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "487adc53f02513ed61df8e752cf47426c870680027efabfda2b560f6b8cf37d8"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit06_einkaufen-und-preise_exam/index.md",
+      "compiled_source_sha256": "e5ccc69ae5412094271873552017e254db876990c4973797a71347173dd74f16",
+      "published_source_sha256": "e5ccc69ae5412094271873552017e254db876990c4973797a71347173dd74f16",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit06_einkaufen-und-preise_exam.pdf",
+          "sha256": "f01113edf4315fa8b29bc412d2263af66ee292da7f2dbf160889a8c10c962b37",
+          "thumbnail_sha256": "4be018e6f4ed0cb70fda941d89c0c710e3df6a000c37c174d83f1e43c1c2f723",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "41342d3ea13501ec275dc4d75c63b01ca7a344f5ea37468121f17c6bbb9352aa"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit06_einkaufen-und-preise_exam-teacher.pdf",
+          "sha256": "0cf14f52fc3a5ad40a3e82b91da3fc2b4527f31989701e535d1f1cca12087565",
+          "thumbnail_sha256": "3f114ab1c08de37da58e0e44c076929e6a73e8000fe54570bf6626c0bb03f139",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "e97340e819294ebc7e848886ff3d5f38bc97d2c8f65925147ddaad43c0a3da3d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam/index.md",
+      "compiled_source_sha256": "d831ca1b2cb1db936fce4e7364157fac045cd6e34ca3d6d8fa99e63b22c0939d",
+      "published_source_sha256": "d831ca1b2cb1db936fce4e7364157fac045cd6e34ca3d6d8fa99e63b22c0939d",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit07_uhrzeit-und-wochenplan_exam.pdf",
+          "sha256": "5e71c36ce198056e15ac21c03a21a578cc5b74522eac0d8e5abe979816547f9b",
+          "thumbnail_sha256": "c367bfe913eb11fac2ec8bf64040b98ae41a4fe778949bf6d608dbb19719fcae",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "00ff5366ec5830bd60e0fce8f165f4d8749ab903e6f8f08920ca9052480e43bc"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit07_uhrzeit-und-wochenplan_exam-teacher.pdf",
+          "sha256": "5ebe9b6f1876d3d39ab66b93369e2d6a75be74f5b9fb39a182a42958e09fdb81",
+          "thumbnail_sha256": "ad58410b77b3731b9af82b5e3c11d94318ae35dc99426165f25120df39b24639",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "300f8e4d100c09543211727f4a0dfd7c52d2696b8284f8254cac2cb1ad6b1bb1"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten_exam/index.md",
+      "compiled_source_sha256": "ad31198a51e374c225c8fc5b2690143ad2fd9bddf5636126f151d6c0a2a2adf3",
+      "published_source_sha256": "ad31198a51e374c225c8fc5b2690143ad2fd9bddf5636126f151d6c0a2a2adf3",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit08_wetter-und-jahreszeiten_exam.pdf",
+          "sha256": "e1075473a908897246ddb91c1646df7834eaca001106bd22354e1b35e0eac597",
+          "thumbnail_sha256": "ffbeb2a89e9bb2647eacda75045c2efd5228758753ecddc419ad880863c8af0c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "3ddeda0b670862a942fa0b9aa266d8223c7808c4b1070c7fab36dc60b76214ba"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit08_wetter-und-jahreszeiten_exam-teacher.pdf",
+          "sha256": "cb8ac750ab03972cdf5402f77a9ba06f842bbcab64fa08700f8af1622d329780",
+          "thumbnail_sha256": "c4cd315e2942e5c25ddaa4ba19e91788561ee6697de2b6ec93813b8e3812ae5c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "f733dc01cc8569dd7fe2bd0ba0cf5089f3e0e0232d1792792dcf10ec61bab496"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit09_koerper-und-gesundheit_exam/index.md",
+      "compiled_source_sha256": "189648f10b815ff87100545049cc4094baedd8012f9efbad7b94f93a3a0fc924",
+      "published_source_sha256": "189648f10b815ff87100545049cc4094baedd8012f9efbad7b94f93a3a0fc924",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit09_koerper-und-gesundheit_exam.pdf",
+          "sha256": "7bea89e1025efd2c875e3286c3664403b4c51e5fae4019c652d64e074c20bd8e",
+          "thumbnail_sha256": "715ff84ad1d87d4875d60dbe23f28fa47b0b95f9febc5803877290b9b4a8d42d",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "2071ea658256df9cda963d07d06cd323b7518f11b91859fdd8a63b403c0951fb"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit09_koerper-und-gesundheit_exam-teacher.pdf",
+          "sha256": "65f9936976cc75725658f5bec40ad6bf0d67e7584a64e282ce448e06e58a4df8",
+          "thumbnail_sha256": "9162e908080e4166c7a1a2ddd5f803e9668de1694e8acd23ef771217a2dcbaed",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "a5f25b766d02cee4371f1cfaa210c9dab1fad16ed78f6021dc2c054ba44b3904"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit10_mein-beruf_exam/index.md",
+      "compiled_source_sha256": "b862c0e1ecd51e82d7b2b3097d7c3fee812066b887aa95320b67152d9bfd2dad",
+      "published_source_sha256": "b862c0e1ecd51e82d7b2b3097d7c3fee812066b887aa95320b67152d9bfd2dad",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit10_mein-beruf_exam.pdf",
+          "sha256": "d8927643aa9938833169d7a3dc96c95be007c125363d27d71f9818dfcce5f604",
+          "thumbnail_sha256": "813a1196100b0ec8227ccee3831d238fa11f8d71df9c47607064b28610b9298c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "901e522cad8fab9e9fe5ffed17af86082d368c35646a877bb2dd49537c34f801"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit10_mein-beruf_exam-teacher.pdf",
+          "sha256": "073f970e0b20dcf2f9b4f92eca9a58afe7083cac84a12a3b884ae87911139def",
+          "thumbnail_sha256": "2ef8b06dda7ce9f69fcae1451ee805e3c19b7b984ad7b4debf572c521287508a",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "bfc1d94edddfc895b4552babb532fb6509083d2de2c0b069e29ada071fceaca7"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit11_meine-freizeit_exam/index.md",
+      "compiled_source_sha256": "2a9cdbf0062a2fc4008e734c03170fb9f212d16ba236d3dc9c683809e5578327",
+      "published_source_sha256": "2a9cdbf0062a2fc4008e734c03170fb9f212d16ba236d3dc9c683809e5578327",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit11_meine-freizeit_exam.pdf",
+          "sha256": "022020e8e4c8e0d663e84e01ec4f7e7243a9b5a4f26117945f1cfda8c85e8260",
+          "thumbnail_sha256": "b26492318972803eaec3930a999bf94af4237d64277e02de6d8491bd50cf8893",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "330b382fbaa4b7601b980007f98e73c3317bf3ab0a59364a80dee449aadfb523"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit11_meine-freizeit_exam-teacher.pdf",
+          "sha256": "e3ade19bf6a46c7339f4f54c3d66153fe6cf10b0e3087e5ff1358c7b23c0bcd9",
+          "thumbnail_sha256": "b07073a3ca2255f0e500dcfb9d8672b647c37fc37ce5f47a8f9e3c206d089fba",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "bef52e45dc1ac9142885bd404bd8fb61a07cda1df2767e1fbf0954adb3708bff"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a1/units/unit12_reisen-und-unterwegs_exam/index.md",
+      "compiled_source_sha256": "9be8cc117538feeefb6940584db2528005b2acc20b3254e875a943591c21b3a1",
+      "published_source_sha256": "9be8cc117538feeefb6940584db2528005b2acc20b3254e875a943591c21b3a1",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a1/unit12_reisen-und-unterwegs_exam.pdf",
+          "sha256": "110ef6b62083caf64e359bd21463a8139fd210473cd96f42d2ca714c17d2bb9a",
+          "thumbnail_sha256": "13e65277c2ecf535abbbbb91c8d5cd6cf4adacbb759adb40ff6f38d2a0fd12c4",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "101c55450909e21d453ddef993a80d700cea1caeb763e14c0e26dc4ab02d1fc9"
+        },
+        "teacher": {
+          "file": "static/downloads/a1/unit12_reisen-und-unterwegs_exam-teacher.pdf",
+          "sha256": "c111dbb8dfd5a56deccbfdd5e312b8bf78aa073a35a184e66b7601edca47efea",
+          "thumbnail_sha256": "c5edef661d6456dd8b86fcb591cb55f5bcf65f5317f480ebf4d61227e3c31d14",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "f224169105cd1cc1e2a17e6d73ab891fd10cf9cb2a587033cc18627a531a0968"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam/index.md",
+      "compiled_source_sha256": "e3e4b10e6a0a2b2a062e995cdd84706f17a632b45515660165eb977dcdc45953",
+      "published_source_sha256": "e3e4b10e6a0a2b2a062e995cdd84706f17a632b45515660165eb977dcdc45953",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit01_arbeitssuche-und-stellenanzeige_exam.pdf",
+          "sha256": "feae193a6406f26d984c299419d0fcfa7efa18ae17a957adc4a523b3c5bc78e9",
+          "thumbnail_sha256": "bd6beb359e6b7da22a0560371e388d9c187ab6baad9a0828913f4f59b42efa00",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "a53ce4b21cf76b7a4e8adfd7c6c1a3e21d1b0bc55663911f375d2b0ee7e85562"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit01_arbeitssuche-und-stellenanzeige_exam-teacher.pdf",
+          "sha256": "43e15109dfe645e4cd6b19fee834b4fdd9eca3fe40c3e22a976a81705492ff3d",
+          "thumbnail_sha256": "60f23749ad93d778086f44f5fb4eb14889c7e6bbe54040700b1462e8d9785f1c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "aade08a3c856d55de30d630fe87404f2f1b0386f3295eda90744b30ee3eef73a"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit02_wohnung-mieten_exam/index.md",
+      "compiled_source_sha256": "13c3ca4acd2c8091a43156df8190e7fecdf8f069eda828986898e8cad3fe7a94",
+      "published_source_sha256": "13c3ca4acd2c8091a43156df8190e7fecdf8f069eda828986898e8cad3fe7a94",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit02_wohnung-mieten_exam.pdf",
+          "sha256": "1808f583eada6ab065984e1b8c5dd7b7dfa8bcd69c7e321598d7a986eab40767",
+          "thumbnail_sha256": "8701e0f615e1a91b3b49a840ae2c3d04fa5babbde218b5a8d44e0eb4449989d1",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "6fd8182288853181e84e7af45828af2449ce32e74764d076b1b5328310af6aa3"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit02_wohnung-mieten_exam-teacher.pdf",
+          "sha256": "ebfd113b2f3caaf714c0ae3a48262cd25e5faf8888c7257f3dac233e2f87ff61",
+          "thumbnail_sha256": "426a68e8ba1e2421107267953c18a7b6e9c372dcdfa0f960d7b586972b6c8e9c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "0e837fc8149fa6aedf26b6beeba3c22ba5f7da117114264869b5d6fac40cb2f4"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit03_beim-arzt_exam/index.md",
+      "compiled_source_sha256": "81af02ca361a6dd4c4a833a91bd3eaa3471a01b8b12488902bab82b6c0d26088",
+      "published_source_sha256": "81af02ca361a6dd4c4a833a91bd3eaa3471a01b8b12488902bab82b6c0d26088",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit03_beim-arzt_exam.pdf",
+          "sha256": "e312bcce42648a8c839ddd285ac3600006a795ab599c29471bfe652b174ddc90",
+          "thumbnail_sha256": "c62c302fec19559cc56a789253bb3b994f09cb228117da1e191f86d18ab89ae6",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "d5ba4afe52c405f5ca6cb193e7828c9677777e4027a877aaa2a913c8fa90fcd4"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit03_beim-arzt_exam-teacher.pdf",
+          "sha256": "4851cd437a0d36e1a45d83c0b63a6caee706a031970dfacabdd1ba54870b9931",
+          "thumbnail_sha256": "c32125571dfa3bfdbb1ac6e441132084a3c09052ad3b925fd420dd312209c2e0",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "a1f8880710d15871ca322e1ef8d1a1c4ba848d9e2415b92262acfe4259e717d0"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit04_im-amt_exam/index.md",
+      "compiled_source_sha256": "65ada3e44b0e647ce5b99be7ac171a7c0299d0f85c0458ab6d89b47f596e0463",
+      "published_source_sha256": "65ada3e44b0e647ce5b99be7ac171a7c0299d0f85c0458ab6d89b47f596e0463",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit04_im-amt_exam.pdf",
+          "sha256": "624bcd841b566bc69acd83d3a4d4d5fa5ef1dc91b5ddbcd3c8426ca79ecb48cc",
+          "thumbnail_sha256": "7348b4c59d4803be657f82e15bb3d57f22ac2075c5179f2721185d0f2cd85504",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "db2a5c433d74f78ba70022646dcaa6f99ecbc0406feb0ac8d71dec103a7988cd"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit04_im-amt_exam-teacher.pdf",
+          "sha256": "32d14910927c0fab97e4c58f019a773dfdd425f1abab8fc07b025d71a236d867",
+          "thumbnail_sha256": "e8d0795cd12f54f3bba621538416f3506a9cdce9b23ee7387634e6cc37872b1c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "66f8d4d796fbd8ccdf9534e42c52b489e70d20be8196700cdfc6f63cba1dbba4"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit05_reiseplanung_exam/index.md",
+      "compiled_source_sha256": "4416a783fbd5ab70d8b399c7749a3c68383ea4321425090a5dc69d51ad860b98",
+      "published_source_sha256": "4416a783fbd5ab70d8b399c7749a3c68383ea4321425090a5dc69d51ad860b98",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit05_reiseplanung_exam.pdf",
+          "sha256": "75a7b63f6be7f747df9c869e2edfc83f82ccd9aaabd5a4a3bc2d04c2d6730176",
+          "thumbnail_sha256": "719fcdc2bb133bc82294af63f1c7adede3ac43b5ffa497f481cfd5a3f2cc014c",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "3568cb2e46c722778014e66485be228567ec3d6a2fbcf5c3931032cdf20c6dbe"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit05_reiseplanung_exam-teacher.pdf",
+          "sha256": "7c006af63f91a03def974c1c3876efec056d56f5994546885354756e3b4701c7",
+          "thumbnail_sha256": "9e921b9d119d42a41898e08dc4c2e5591d0b7b6eb10e898ae0e6f232c8936ae7",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "7908039e639aa5cbcabe7c0ca6c198468fc860e3be556887a8f45381ca1598ee"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit06_hobbys-und-vereine_exam/index.md",
+      "compiled_source_sha256": "79c7e98fdac2a61c049e0ebd29cb213b30614ee42f80b8328ae1e996696eb0df",
+      "published_source_sha256": "79c7e98fdac2a61c049e0ebd29cb213b30614ee42f80b8328ae1e996696eb0df",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit06_hobbys-und-vereine_exam.pdf",
+          "sha256": "96f0d358a7121770b4857d4da473acb59ca4a702372282258b53d3f3c7ceec97",
+          "thumbnail_sha256": "077fce20c1830093af560f81bb0b91601b308c299f4aeea7530457e807644773",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "bf5b351b4657a23e99973dfd2db89dd1a9db568191a3407fa2560eb5b3956bde"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit06_hobbys-und-vereine_exam-teacher.pdf",
+          "sha256": "639880ac65d7706247dfb46ba4ea3f9a66176f578f9c7d92f70bce32eaf6a9b1",
+          "thumbnail_sha256": "741da3332cf0420383b76450e2df1bc04b46d4ae5f51b069e9bd44fe863a8c0b",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "fff5a8f004e26b634a9f23c58cb556c462901a39c836f0b01d348904cd7edf19"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit07_feste-und-traditionen_exam/index.md",
+      "compiled_source_sha256": "fe1139b96e935d37d42b451340a8bb6231402e6b992f85ca7718acbb81be864d",
+      "published_source_sha256": "fe1139b96e935d37d42b451340a8bb6231402e6b992f85ca7718acbb81be864d",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit07_feste-und-traditionen_exam.pdf",
+          "sha256": "cf8989925082ee22344dd6775160e5aeedf82670e1317baa4627542bef717b7f",
+          "thumbnail_sha256": "9916e11798a5822b3349a97a17ec61cb52bef6a49bc875d4acb3f28bffc95300",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "613ffb69a244d2238c0134e13084cee79190f774564cc65c18eb98ae3414d0f1"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit07_feste-und-traditionen_exam-teacher.pdf",
+          "sha256": "6594674a93380f8e128ef40b077184b9a71ae0cda3f504e2669788a90a5eb318",
+          "thumbnail_sha256": "e842209cfc168a8fb0cc2e237b23eab5b3eab5bca596636dfdf58b62e6b02543",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "df18e3e516525d8fc155a395c7b6639b32ebe9fca2acfe34c188d07adfbede23"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit08_gestern-und-vergangenheit_exam/index.md",
+      "compiled_source_sha256": "5f6feb2cd2c0e4405806a55cc8ab57485dec736df6a252d01df056ed19edd236",
+      "published_source_sha256": "5f6feb2cd2c0e4405806a55cc8ab57485dec736df6a252d01df056ed19edd236",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit08_gestern-und-vergangenheit_exam.pdf",
+          "sha256": "5ece5c588ef30e77535c6758b2f670dd2945c7594f91814113b28bd8df56bd7d",
+          "thumbnail_sha256": "4ae14bbd9f7f4fd078c828eb54869c9b2e2bd51e2fd74b904ce1ec587ad690df",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "9d17a7837ab6d1d1741256749bc51b9db33952e2b9b6929bbb568759e64afc42"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit08_gestern-und-vergangenheit_exam-teacher.pdf",
+          "sha256": "b734aaf368efd870e0010779d8946cfcd3cc2e536505d411cb677af91a010865",
+          "thumbnail_sha256": "8d53b7d8fd24d0f4df67a74e37a0e56a02236f70d28c34f5f7fa2b544d82c5be",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "ecffc1716412ecf77f63717f549c7bd94a6eca182d2a6bc62a9ca6e566e8b6dd"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit09_plaene-und-zukunft_exam/index.md",
+      "compiled_source_sha256": "106479e08cfd9ac5b8b69561244f20498ba1fad8e0a367ed977a50eb81e19495",
+      "published_source_sha256": "106479e08cfd9ac5b8b69561244f20498ba1fad8e0a367ed977a50eb81e19495",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit09_plaene-und-zukunft_exam.pdf",
+          "sha256": "bd5644baae4330519f416688948888a1a8c1097d8a5d1abf769327533a7dc404",
+          "thumbnail_sha256": "d1947db7c9b1fde48892a8bc15b73d1dd7a4359e79db729e426418285e46710d",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "75a1cdb5259d88ad9022b7a8e313ec74279605ddef35ea47067938883de649f0"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit09_plaene-und-zukunft_exam-teacher.pdf",
+          "sha256": "85c95f15560c03964cffb636aaa743a3ebff659501b3aa701745711011905992",
+          "thumbnail_sha256": "2f2c662dace372619dea85aaa41254f34d3c57f04261e37f444bf7479444d52f",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "3e2dd05632cc3250f35b26c81de38fbb587eff7b1bf5d1a8747cb8698ddf391e"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit10_medien-im-alltag_exam/index.md",
+      "compiled_source_sha256": "4ff15b6ce147bc912be6b95acf91ac3fcecfe1c882537894e2849a31cfc30fa7",
+      "published_source_sha256": "4ff15b6ce147bc912be6b95acf91ac3fcecfe1c882537894e2849a31cfc30fa7",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit10_medien-im-alltag_exam.pdf",
+          "sha256": "8eb5ab23a070add908971a4b3798babeff3cefb8e23836ad338cadb9235041b3",
+          "thumbnail_sha256": "80e347d4748e9903ac539e16ada8f635d538a6e6c64e3ee6f2ad21bf14396ab4",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "8523e66dcfc11044c6d8654691a32c37e151d8019135f2059fdec249e1541740"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit10_medien-im-alltag_exam-teacher.pdf",
+          "sha256": "6bc94131dd5faaf330e9fcf6663f79fb1a7bceee925f0796612185dbd906308c",
+          "thumbnail_sha256": "c217c1414cdb931d4b5011eac4bb8310bab4d01940956ded6797679816add9e1",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "9a7a1eac46172b689a1474ba812ef25f81a9f5e5fd7ed993f91b9b2da3c43c36"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "compiled_source_sha256": "9594121d7f85e94a47ac4c3d00b2e495c553d7ce52139ce052c9022fb41a3b7a",
+      "published_source_sha256": "9594121d7f85e94a47ac4c3d00b2e495c553d7ce52139ce052c9022fb41a3b7a",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit11_umwelt-und-alltag_exam.pdf",
+          "sha256": "e4b21c76381b5e3ed63e22e4211f9c10ce32efe349daeeba9d894e61d5de571c",
+          "thumbnail_sha256": "e35a4472d89a4f30f7af640222f913c966a9cdf9e8125a67345a819cf13b2c95",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "9abf4fd9e86cdd1463bf844b76aae67cf91f9100bab1420d927e273f77b749f3"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit11_umwelt-und-alltag_exam-teacher.pdf",
+          "sha256": "322dd6404d60e5cb22b987808ef0f9b9eeb315a4fecfc19f232b33bbca95f9e9",
+          "thumbnail_sha256": "867341733aa1398837bc2684fd1eff592b55ade847f6f76c46ee5b8e2a97756a",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "a5cb68ee2b86820a57fe2a9aeddb32c0edc3461d9ec936be4e80aca1b1459934"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam/index.md",
+      "compiled_source_sha256": "7bfd8258c579bc2660d89ddf9c0d44a113356dad78ca0f85b15f186124126c32",
+      "published_source_sha256": "7bfd8258c579bc2660d89ddf9c0d44a113356dad78ca0f85b15f186124126c32",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/a2/unit12_freundschaft-und-familiengeschichte_exam.pdf",
+          "sha256": "cfc911b0b1d2cb05fac30052b3c38ee04443e3ec77f8d0e21e40f62aa902c1e6",
+          "thumbnail_sha256": "3c541230bf7ab34f345d0ba9eb7cfb4954630d435ac0c941475f8d32f93d409d",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "8b322b32aa395dea9a17f49000531ae9d1d10f377ca8beaf5f558110df816276"
+        },
+        "teacher": {
+          "file": "static/downloads/a2/unit12_freundschaft-und-familiengeschichte_exam-teacher.pdf",
+          "sha256": "dc57bab6f8ff0dd7634c0ab9cfba5c21839724f64442eb8662a8df50578b572f",
+          "thumbnail_sha256": "f93bf8d1cfcc6120dde76ca5b24994c9bf505480ef5b4888de2840721a4620ff",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "f517284ecaa200e2d42693ed82cb841eb6f80be9e3f84a04e663b6f7836ea85c"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit01_neuanfang-in-basel_exam/index.md",
+      "compiled_source_sha256": "1bad956bfb428e6abf5cb9d114d7612b10c41bb6b83c3f7a3963e49387220317",
+      "published_source_sha256": "1bad956bfb428e6abf5cb9d114d7612b10c41bb6b83c3f7a3963e49387220317",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit01_neuanfang-in-basel_exam.pdf",
+          "sha256": "67949336afab042f3eec38fe9808c64e8e24961345a5425c278af736cd4114fa",
+          "thumbnail_sha256": "450e028af35e5c42a991a3b6e3e9c645be20a9fd2bc15582ea9ddb4b462beec6",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "ea7f771364d41c5de038233a9377c75e2dabdb18e45eb2bd857f0b9d2926250b"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit01_neuanfang-in-basel_exam-teacher.pdf",
+          "sha256": "43cb5b226f887f4032074b7c2ca4bbad7d03c3592dcf523a69338bca16e8f5ad",
+          "thumbnail_sha256": "53e2e234bc5767862dbb1d7ebdac81b06c5e3377c025ca1ce5ed18bc74d46810",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "0597dbd0c340a8bb9a78ecc3b6ab1c3a42a80218252cd959c1f7548ec3c8cdbb"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit02_der-bewerbungsweg_exam/index.md",
+      "compiled_source_sha256": "a8c531b5da2241cb8ef08e2e5fa3784cb8a85ac982112677629661a990ef4fc2",
+      "published_source_sha256": "a8c531b5da2241cb8ef08e2e5fa3784cb8a85ac982112677629661a990ef4fc2",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit02_der-bewerbungsweg_exam.pdf",
+          "sha256": "d8a373ca003ee0ab6818df6cd820f52bcbea3b474212e65e4b032d369087ae8a",
+          "thumbnail_sha256": "fa237385fd0ead114a57bbf576c07cdeb626a8c93ea61bc17ba4e59e168313dc",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "694d76dddcad94d063dff35158affa5aba82644de31c2204f2b8338b9fd3939f"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit02_der-bewerbungsweg_exam-teacher.pdf",
+          "sha256": "d80e3603777574b3a78a5845b976f1e2bede9a964a019b8e404c1df10b1eef10",
+          "thumbnail_sha256": "be335a9eba97cf96be472498f9384ee6d13415e928e39af9d1d81ea34cc1bb42",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "d6318ade879f6e7f7b51964de4b38034cff577669615fdf77665cc49acc58d2e"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit03_weiterbildung-und-studium_exam/index.md",
+      "compiled_source_sha256": "d5915a5c1eaef56a28352c003b2a307d0fe59f84c30e27ffaf9ad9df7f373501",
+      "published_source_sha256": "d5915a5c1eaef56a28352c003b2a307d0fe59f84c30e27ffaf9ad9df7f373501",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit03_weiterbildung-und-studium_exam.pdf",
+          "sha256": "9babefdedd048d3d4373d7dc2a8edaa7ca9cda95f17454e65a711e4c1f39afbf",
+          "thumbnail_sha256": "c062a02d93b38aa6f81b1a111a93d9222f3ca086e8a8cee05bb651c401d1612e",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "2ef62ce3f405806a1f841ab0501a393955a02d96c2353952637833923788f160"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit03_weiterbildung-und-studium_exam-teacher.pdf",
+          "sha256": "474d59b349beb5b5e5bd35d700d422a90043757a5a6904bfcc37c2d254162c6c",
+          "thumbnail_sha256": "27ddc1cbfc7b2c991940678b90503f354ad119c8e7c6481abaa7771dd21285f7",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "220effc4c3b69fb5f2974cf2d3a568009b07a4e572521c68453eed9b0d767de4"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "compiled_source_sha256": "424431e3d1233d94093f746dd68b58db84b88e788058a3f19dc264e6c31bf575",
+      "published_source_sha256": "424431e3d1233d94093f746dd68b58db84b88e788058a3f19dc264e6c31bf575",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit04_gesundheitssystem-dach_exam.pdf",
+          "sha256": "928c9694e25d6cf247f045eb5620c74af4a4b5758821320cf416959bb69c8cdb",
+          "thumbnail_sha256": "f2944bf5db1a000320e89e6301dd69ccaf56f7209f7831120fc719ad8facf965",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "4aa836cb695f645b7ecfc9144ba06da1b7cb0b93a868961dfc903690ff202d02"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit04_gesundheitssystem-dach_exam-teacher.pdf",
+          "sha256": "6ef6be827cbbfcb8ff6abf15c4176b57ae3c49d725c5f05b25cff1b6d5c10e8f",
+          "thumbnail_sha256": "ac452b623b9c6ce58e363399f7d00c04d7a767296fe61e665c10c52e9cd4233f",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "34ba94629e22499ede1ff9a25d6e5db4b14d212b8137cdb9c1279f3757a7d8ab"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit05_digitale-kommunikation_exam/index.md",
+      "compiled_source_sha256": "1b350f949850e9248db34cd8a61a751804bec180a948369cb947d3047df0ba65",
+      "published_source_sha256": "1b350f949850e9248db34cd8a61a751804bec180a948369cb947d3047df0ba65",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit05_digitale-kommunikation_exam.pdf",
+          "sha256": "c159b0b6dbe5509098f1dae028046d6cdc283700681df1206d268b669c6768df",
+          "thumbnail_sha256": "399d555eaf4c440c7ede3bf26ce78df6cfe93318cd66c5d770529fd673feb821",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "0c6b5293a151674ede93d7a9b9affd218753018f6ab6e8fbb91135893af199ae"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit05_digitale-kommunikation_exam-teacher.pdf",
+          "sha256": "53972aed0713723d3c79229cb33420a9fccbf4157516bf4973e994364d519629",
+          "thumbnail_sha256": "19c209b6fb13c597edfdc616dbbbb94257c19a28e62125d82255f1b06bf040f1",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "346fbd37dfbe4528f8edf05d2a995d7b37dea5026467111e40cbd7fafb1baf2b"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet_exam/index.md",
+      "compiled_source_sha256": "c9c0b1dee1e19dfdef112094665be5e5d6e90fdd0d33c988ef9a09f0b6f90f94",
+      "published_source_sha256": "c9c0b1dee1e19dfdef112094665be5e5d6e90fdd0d33c988ef9a09f0b6f90f94",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit06_umwelt-und-mobilitaet_exam.pdf",
+          "sha256": "9fb8db43302344cd95898a42e2923f71da45c87c90c53781899af46ac4a8edf6",
+          "thumbnail_sha256": "cf5f0507cec7ac273b85e9b68c6b803bd9a72831351282e000f0cee9d42766f6",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "8023a8095a57b9795e6f792522196e348851757633c3d22babd494b0a317ec40"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit06_umwelt-und-mobilitaet_exam-teacher.pdf",
+          "sha256": "f6dd108ac5d0a8a755c629dd91a1b057854e6ff0df0613205073a7eb37f2a4c2",
+          "thumbnail_sha256": "9f1c1bdc234dd78741b69f854bc1629fea43d2c13a9cb2d49c3764c19bc2ed1b",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "977ac0e240e3cc15adb73ca7054c388106ea997c0f9a4de015ec432518d583fe"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit07_interkulturelle-begegnung_exam/index.md",
+      "compiled_source_sha256": "4d011f3060f7d8de9dac02255fb222d46a9199f19f11071db0bb857eb9908ac3",
+      "published_source_sha256": "4d011f3060f7d8de9dac02255fb222d46a9199f19f11071db0bb857eb9908ac3",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit07_interkulturelle-begegnung_exam.pdf",
+          "sha256": "72d27a480b2ca4756d0b0effdfb73879d824383f302f6055604f11a7c6d598b9",
+          "thumbnail_sha256": "400187e6d7b11ac95a74cf634eee75ac2dec8bf0eca0cc16d06d6b1b89525518",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "cf57305fd4c4a59b36b9556a1834b9df2c2b8c4a4024843b0d5f8caa02e5da99"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit07_interkulturelle-begegnung_exam-teacher.pdf",
+          "sha256": "16f562c6bfd1e7498c31f2442eb7d93db3f157af68d8141391056a52a64f182f",
+          "thumbnail_sha256": "659d429b6e459755dc60ff9a984693f8ed354ee2fe8a5da09d22cdcf62f1dc77",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "21f526ec65055feb110cc3bcc82d69203617f00e0e3b5cb79d1870adbac9696d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit08_stadt-und-land_exam/index.md",
+      "compiled_source_sha256": "cfc114e10b4bfdc371002d08e4cc4ae82ed533c3ebf91d45a2aad6efa738b977",
+      "published_source_sha256": "cfc114e10b4bfdc371002d08e4cc4ae82ed533c3ebf91d45a2aad6efa738b977",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit08_stadt-und-land_exam.pdf",
+          "sha256": "6d0f0919633a8a81c35d12a24e866dd369afcc10ef135663ee5967e94435bcc6",
+          "thumbnail_sha256": "05f8db8192d738815b508b26062578ee645ad918d534808b68bf685dfa8179ba",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "9e295e2cec843f730b61599c9d5f0589fd867772349dbc3c517744d761a3ef3b"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit08_stadt-und-land_exam-teacher.pdf",
+          "sha256": "b201b94acc963525b8c48462e59b6b3388e1550b82a70ceaea8eec35046273ac",
+          "thumbnail_sha256": "f82904f286875c10c1e0a4ad397ffd5c19fde329fd2cf3fecea2a33cfe600f9a",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "edf4603166871363c6079d64d502e275235fec1c143de30eae2b0d7a0627e93d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam/index.md",
+      "compiled_source_sha256": "0595de3c8561f7be725d444b0709147dad9cd1c4cf671e9de6fb0ebd4f6d316e",
+      "published_source_sha256": "0595de3c8561f7be725d444b0709147dad9cd1c4cf671e9de6fb0ebd4f6d316e",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit09_konsum-und-verbraucherschutz_exam.pdf",
+          "sha256": "692e35152427779b9d23730b0140e1f1499d86c7987eda50c2790b6074187375",
+          "thumbnail_sha256": "742583ae43d44f07e85bc0cdfbeed6cae39bb79fe722c1d1b1f44a4036b05bd7",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "e93fbc26607fe8c44e28ba73de333ffa5a386ab59bd86b330ade7bac8c3245c4"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit09_konsum-und-verbraucherschutz_exam-teacher.pdf",
+          "sha256": "a563561591bec71de87a919b175bc0050827334b5993dccd0339f02c43154a4d",
+          "thumbnail_sha256": "713f6e8fb05469cf96de278873a1524004f26dd148480b2f917447e975f1cc1b",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "b6fa1b5b8137d82e0c1e7012439fb58d84eba81fb1d2cc298fdc57ef6540fb07"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit10_politik-und-teilhabe_exam/index.md",
+      "compiled_source_sha256": "9907380f66b095992a0a858146d1180568180ef9cec75fb4782c9922161aea05",
+      "published_source_sha256": "9907380f66b095992a0a858146d1180568180ef9cec75fb4782c9922161aea05",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit10_politik-und-teilhabe_exam.pdf",
+          "sha256": "acdfdfff34781084d09c61cfcde440c3eab7b4072b2d8b68a5ffd4f0813c1a71",
+          "thumbnail_sha256": "f17f64e12830be79a3e74fb0576e7b9d3537b0a933eba89c6d298a5ae9a491db",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "c809e2c0864fe83d25b48d86bcac1d4a1fe006750f40ee36c69bddf8b78f0cc3"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit10_politik-und-teilhabe_exam-teacher.pdf",
+          "sha256": "2b2429bc9d54a0a43ff4d8983795006d6c88113a9d512e07109bc559e6c5f8bb",
+          "thumbnail_sha256": "75be2df2f9092adda15500643e9b7652c593cd5122b1739f94e5b1ced246caf2",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "7d1a92dbd6dac479a9780141045b8d9b52854a9ef2854c7c38f401852aedd8d8"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit11_persoenliche-beziehungen_exam/index.md",
+      "compiled_source_sha256": "447d75eff8e0f6e8e5affa319b49b69a53607969cb421808e81c06ec69eada6a",
+      "published_source_sha256": "447d75eff8e0f6e8e5affa319b49b69a53607969cb421808e81c06ec69eada6a",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit11_persoenliche-beziehungen_exam.pdf",
+          "sha256": "bcb1037ef8006f546a91d5f0b57a1a7c4ccee1c8d90bae882c8ead42c89e1988",
+          "thumbnail_sha256": "cde4a155f85586a6d17f7301319ab1786c5bdc28761bb953e1b314e86251444f",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "46de27c2081b94c511b4a6fd47f9aec686787dfc47e16bfb75d7cfe5612122f3"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit11_persoenliche-beziehungen_exam-teacher.pdf",
+          "sha256": "362596fced8657e62fb29cff2a9de53b8e1f898755f00ffbe81feb8c63463566",
+          "thumbnail_sha256": "23fca15ee6fc25e88036e010c6b0f469a1aa04c24356de175afe7f6dd995737c",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "8936ce23271fc8cb95f42da035442b260005b0eee4eac1de934902b767476aa9"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b1/units/unit12_zukunftsvisionen_exam/index.md",
+      "compiled_source_sha256": "3f0866cb93c6717748e09cb3f2c1992d6f916a1ba12f404e98917c42ed0c078b",
+      "published_source_sha256": "3f0866cb93c6717748e09cb3f2c1992d6f916a1ba12f404e98917c42ed0c078b",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b1/unit12_zukunftsvisionen_exam.pdf",
+          "sha256": "52b0ad83741b6777f8643c605b05f986a33c3e1075ac32006e74844f06cbfea0",
+          "thumbnail_sha256": "bc8dbd51de61e79fd97b12ace823093768bc5c7fef5d8f942454bcae716ce353",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "f1360828454d1c51f149d6c318a85c62c3f11814d0a5a2b1a2d562e3628c8d71"
+        },
+        "teacher": {
+          "file": "static/downloads/b1/unit12_zukunftsvisionen_exam-teacher.pdf",
+          "sha256": "73207eb4392855d9ae75c9d248ebbd6e266798b1226a5e053780fc7227b61e6a",
+          "thumbnail_sha256": "bb6d05e742b1664cf1106e690071c25cfeecab1f4f5bf8c07cbb1fb68a17e071",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "f5f2291f4525d33ec76668cff4e604ca9d762b0f66399d9a222d646a443cf509"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit01_medienlandschaft-heute_exam/index.md",
+      "compiled_source_sha256": "f5ce479ae0d167cf6254d4857a928dc9ef0b0b76556030459b32c211dc2f2ab0",
+      "published_source_sha256": "f5ce479ae0d167cf6254d4857a928dc9ef0b0b76556030459b32c211dc2f2ab0",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit01_medienlandschaft-heute_exam.pdf",
+          "sha256": "b220726f66ece0181fa8687247abca089c4b0dc5c4ea582822c6037a131eb167",
+          "thumbnail_sha256": "9ffbe3fda5725a12d6cbfde00e695a6dc054a302e3b6dee23ed6d309db5f1f21",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "e142c99a313b27eededff152f0f6953b6ec8c3db423d353af5c8714cb8c38a6b"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit01_medienlandschaft-heute_exam-teacher.pdf",
+          "sha256": "2912eee1b4f9aa5fcc3139543081ceb4b09c9eb0d9065c50d63bc15c334bfba3",
+          "thumbnail_sha256": "8f697a0163d89e0382599e735f9acd07f89fa181855e6d6dda3ad2dfc6914cda",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "ff8dfd75f9facad500c35522fcc7f5222e92744476ff924feb6084ceb59bc5ca"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren_exam/index.md",
+      "compiled_source_sha256": "b6ce3eeab0ebda95a5c6be1a6a90eedae13a21dd2d02af38a0ebdc13989547b6",
+      "published_source_sha256": "b6ce3eeab0ebda95a5c6be1a6a90eedae13a21dd2d02af38a0ebdc13989547b6",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit02_wissenschaft-kommunizieren_exam.pdf",
+          "sha256": "da1d489b75f1081e27b19fc4b1e17bd53e66c9b833b5b4161c0d3b711e9a3d43",
+          "thumbnail_sha256": "84b141e7620abf229666203e46645f86b6bee20ee1f2eabf55945eb6ff3e2647",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "01fc1724c9102ce0b9963d259079bd5a327ee701aa611cf6c2c77f560eadb66d"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit02_wissenschaft-kommunizieren_exam-teacher.pdf",
+          "sha256": "cb0beeac2bb3343325dd30eaa6009ffd71d2cdd6d2939fba631cf39e6d0dc332",
+          "thumbnail_sha256": "70c7158bb5e441d64a29fdc2bcc96bd65accdda860ea9f2bde04b474338f5d21",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "734b8067c7e602462e6af41a72558e6ccbc931dd9d29113ad6957d363db40d1a"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit03_gesellschaftliche-debatten_exam/index.md",
+      "compiled_source_sha256": "447dff4425c01ca850d1538749f48f20ea89b24415fb0446ae047638f5121079",
+      "published_source_sha256": "447dff4425c01ca850d1538749f48f20ea89b24415fb0446ae047638f5121079",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit03_gesellschaftliche-debatten_exam.pdf",
+          "sha256": "ab1d7babff7fcba813744f81f9632116bd9a785becfa0245458433ffa765f738",
+          "thumbnail_sha256": "dcb7359502920a76c4eda08ae6bd35b915f9ff990577b06e82426bd8ff5436a3",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "7558a3dd0c3443f9bd30970b924548778d686d288807243f74325e2d1238f981"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit03_gesellschaftliche-debatten_exam-teacher.pdf",
+          "sha256": "2e50bc242556a725a2732cc33b7d348d6f078ef7b409ec8506635ab4b2dc7488",
+          "thumbnail_sha256": "3d1563a5eae736deaffc7d340615b25970951734320f65c24e7b7cbfaa432d27",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "adf74c36513b9e1f3a480cf0e69306b65e573ac6bbf5ad22e26afbaecfe57bd3"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel_exam/index.md",
+      "compiled_source_sha256": "27b0fd7e2b86ce0bb8fb145acab5760f8548d0e1c8449eb59994039af5f19a53",
+      "published_source_sha256": "27b0fd7e2b86ce0bb8fb145acab5760f8548d0e1c8449eb59994039af5f19a53",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit04_arbeitswelt-im-wandel_exam.pdf",
+          "sha256": "baea4d1768a26c8b06ec6422256458836e3c78fd25f516f57a45f4ddbef692f7",
+          "thumbnail_sha256": "36981c2f45e33f1f1152e57f866e58ec24868908162f1762b3f20e2056f190e0",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "201a5aad89f3d027cb6712ce311884acee785332d8a99714c2b9c9cf6827f463"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit04_arbeitswelt-im-wandel_exam-teacher.pdf",
+          "sha256": "d924bb7ba978e26a0edefd6d34a8b8b3934cbc9d2a4b34fa81dc3250bf6b3a84",
+          "thumbnail_sha256": "a2aeb60f5bec612449641a71d251e3dd44bccf173a1c8882f7d16259197e2a2a",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "cb2a5e1bdb47684ca9daa894d97ec863f4c028192e4050d997ea4e329831d530"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit05_kunst-und-kultur_exam/index.md",
+      "compiled_source_sha256": "726e8f661e827d2885ada3bd0a989030f2fab4e1626e477488e9333940691887",
+      "published_source_sha256": "726e8f661e827d2885ada3bd0a989030f2fab4e1626e477488e9333940691887",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit05_kunst-und-kultur_exam.pdf",
+          "sha256": "fcba4d6aa37474d6af776bae9ab1b33f835fdbf1e998e59aba1e5a495cc16508",
+          "thumbnail_sha256": "8d1cffd726dfeafb9fd4bfcfcee916a205aa7f3f017a84f9111a031e90803219",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "4b08d837236daa644d43d76acc87477a563fa09a59b4b5fd01886e30a0555f3b"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit05_kunst-und-kultur_exam-teacher.pdf",
+          "sha256": "80c740ebfad53a3202ac4eefd954ac25bde4b3544ef3669e9449ab995d7ae597",
+          "thumbnail_sha256": "0aeb0da08cf959b0bf4253a00c306b8900833a91016b7c2e3fb35739d9f29bb2",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "92942538fef846e1893867c0707ffe32b807370ab04c6bac2d985bd123b7a8fc"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "compiled_source_sha256": "25065b91c91f733ffb5c1141c7db583e48755b6f48efffa07c903ca9339f8d56",
+      "published_source_sha256": "25065b91c91f733ffb5c1141c7db583e48755b6f48efffa07c903ca9339f8d56",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit06_migrationsdiskurs_exam.pdf",
+          "sha256": "32fe591edd38ce7dbfe89d7bf456880fc6e74beca7f5ed69cd937b90e36b4c7c",
+          "thumbnail_sha256": "100f03e1e18c7766f25fdc03b7adc218b2293b3a444d8eee3855d5234525a4a9",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "5f37220a897680974d70bb4179ec41d3f6e58a9f257a12ed1b52a2f7210f6667"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit06_migrationsdiskurs_exam-teacher.pdf",
+          "sha256": "6e10de4d6357973ec1cea9b74f81e845d1894d51ef3855d8a26062a5694e63f9",
+          "thumbnail_sha256": "a6ac43e3805abf3ef38df5dbc1d2a5d749985a4eb38212e61cb744cae2e9830d",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "ccd5aefaedd0e69e42c1a5b2600db42bd5ac6b72a601c3679159331b649bc9f1"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit07_gesundheitspolitik_exam/index.md",
+      "compiled_source_sha256": "fd11f2e90bc0dfc95e57b349f4f094c5c1ae2bb7b3a30c970befa9158c5916a0",
+      "published_source_sha256": "fd11f2e90bc0dfc95e57b349f4f094c5c1ae2bb7b3a30c970befa9158c5916a0",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit07_gesundheitspolitik_exam.pdf",
+          "sha256": "99a40de843257739cb0d2d74857d0aaf32f6eb371fa16835f3b00d99f63a1da7",
+          "thumbnail_sha256": "d1b0b981d96ca2bdcfdbd57dcb2bfdb6267dd9d850d34092508a80d10b3f7cb9",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "c9971233d72acf954589d8f6429a556bb41c350035965c25ce6beb375c143f2e"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit07_gesundheitspolitik_exam-teacher.pdf",
+          "sha256": "298871d3fb2d7e8cf754e9251209a3e2cc5b8210cf4baf3c9dde1f87565e5d96",
+          "thumbnail_sha256": "cc57396913222e56e50fbec64b93c00f06a35b158a03d203809bb7519ba40615",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "84e9270aea32b29af3ca1b50069861b3b71f59b7f2a9f98c6619ab78d5ae1f7f"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit08_umweltpolitik_exam/index.md",
+      "compiled_source_sha256": "64c6854ac5734db5d36b6919ffdf8638b91863a4c05ad1e0a6201f367ae861e4",
+      "published_source_sha256": "64c6854ac5734db5d36b6919ffdf8638b91863a4c05ad1e0a6201f367ae861e4",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit08_umweltpolitik_exam.pdf",
+          "sha256": "398e730119533e5a2c55dac664fbe428170ab3fadfc4a3bab6b9d86ba0071953",
+          "thumbnail_sha256": "2c3b4e31d98a8c6522eb73b2dc5eb2f52510aa7c5f9f21ec1da09f7f08c1cb82",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "b0ebe0618b17235afc98cc2f92edf8fdd1b0c38b803455abd20062a2e5723596"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit08_umweltpolitik_exam-teacher.pdf",
+          "sha256": "96a6af513ed663de1fe6c02d5af926b40c1ee9ccc117a4eb7990017ac6e5d5c8",
+          "thumbnail_sha256": "536197300bfe0162b62d4de1751a7c88f6b3245b1bc84038ce839b4e67fcbbe2",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "305c36bc9933fbb405a9707f80fc1dc18280ce8a9ba4661099020ace28216f7d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit09_bildungsdebatten_exam/index.md",
+      "compiled_source_sha256": "31d7618d2817cfabf6adbe12c674163c2c95431f9f6bed10b3f0fd18d61074f9",
+      "published_source_sha256": "31d7618d2817cfabf6adbe12c674163c2c95431f9f6bed10b3f0fd18d61074f9",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit09_bildungsdebatten_exam.pdf",
+          "sha256": "9b9caeeaaf15ddd8c0a7fa08c08deca6b63e6933ba14dd04815c98b2836d29ff",
+          "thumbnail_sha256": "ef42466cbe08a4a131ea0ff82fc89c0ebf62f0de763fe784a2da9eed406fa9f7",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "18d4544aee829808f85d2462cf12bc9cc4c068659e069eac40743ee8ef43f3f5"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit09_bildungsdebatten_exam-teacher.pdf",
+          "sha256": "b1eed4b18f121cb3567961218fec91c82f028e2178a75e0a6b0266b6bef6b155",
+          "thumbnail_sha256": "dbba086c6512b5a07f9fb8264fb292ef9e40ccaf5233f3ae013c1e9f392c70cf",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "ec1e11cb082b5bc5cfb7912b2f302b5f666a9a066393c1a1d36152ca60117444"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit10_ethik-digitaler-technologien_exam/index.md",
+      "compiled_source_sha256": "33e6fc5cd14aec6ac79479b616e071f4ad24e14a1f8f03c7e7b0fc87a192a8b8",
+      "published_source_sha256": "33e6fc5cd14aec6ac79479b616e071f4ad24e14a1f8f03c7e7b0fc87a192a8b8",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit10_ethik-digitaler-technologien_exam.pdf",
+          "sha256": "7941b3bf09cf6a38224b864e75d91a3956db3818a57cacb084f56a7024570b44",
+          "thumbnail_sha256": "a8c540edb26a8a7c2a73d7e4be1ad06ba0cc34c0528e50bdfb7708c7c83f6630",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "9ec6de801a88051616f5173a322182b80ff241b6ed52bc7cde4e45203df0e686"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit10_ethik-digitaler-technologien_exam-teacher.pdf",
+          "sha256": "0d3713767ad3de5b7bb78cfd455d8636542fee14524d8d3ebd8b3e7c2ae4424e",
+          "thumbnail_sha256": "42400afc5117be5616de8b0a1064569b74c2bf752cd509e5b082402d4d1317a9",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "447d52835b22139bb7074f99f3553ff6f7d83d8e79e1125e239f962b9cca1c6c"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit11_oekonomie-fuer-laien_exam/index.md",
+      "compiled_source_sha256": "274554cbda687ccb450466f7f50a1867e8a269877b4644093456e997e88795b2",
+      "published_source_sha256": "274554cbda687ccb450466f7f50a1867e8a269877b4644093456e997e88795b2",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit11_oekonomie-fuer-laien_exam.pdf",
+          "sha256": "b3c965e756b7b0b02e47346566778d7d95d6ae64140a9c9e9ff68f9a91bf198a",
+          "thumbnail_sha256": "5c243c8546de4ef8f7070afcbd017010248c3b78128e383d103582066e4ff183",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "2c4e43a600a3f0c3a56f11fcdf4ded526f4d6d03ec1e0410c724d150d8f77072"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit11_oekonomie-fuer-laien_exam-teacher.pdf",
+          "sha256": "60b0089db61310e16c642148bd50161ddb62a607633b6a8a3d4d79393e0677d5",
+          "thumbnail_sha256": "889ad5d0d9f6e7574710ee3685df68153dfa0ccded9ce343bc3ffd4a539abc8d",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "80342651f5bc983e2e094155fd411dacad347046205ed10567a5134bd9943715"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_b2/units/unit12_literarische-perspektiven_exam/index.md",
+      "compiled_source_sha256": "2edd60a62fb1ce34f8fb762d728473dedc3454875a8d18eeb10ad5df6ea3a592",
+      "published_source_sha256": "2edd60a62fb1ce34f8fb762d728473dedc3454875a8d18eeb10ad5df6ea3a592",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/b2/unit12_literarische-perspektiven_exam.pdf",
+          "sha256": "dd5e28406ddc98d779bd1f5f050812c5b80d2956bff2a02fb7233fafc345b6a9",
+          "thumbnail_sha256": "0e0b71a3378fa9a112db64166f7e282bd9366431b3a462d5318562443018925d",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "e15fc1daeb1c16cc5aef8d9009c6ccb9d0d21202ca8f8771d7409bcba944d16d"
+        },
+        "teacher": {
+          "file": "static/downloads/b2/unit12_literarische-perspektiven_exam-teacher.pdf",
+          "sha256": "045bb9e8864d01d48a2223b2830a24f94359b0317bd3879f4d1188656c91530d",
+          "thumbnail_sha256": "cfe8f18b2d865160b962364d2644b3cf93358f8798ad4462f01bafcff4b8264d",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "c37929757daf3c2a2fc33e03dfc02cdbaa527fa033908471be2ddf0e2e3f410d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit01_literarisches-argumentieren_exam/index.md",
+      "compiled_source_sha256": "e7e956273490a14221a568503f1522a2d9b71b4dd66683bc7040ca648284e130",
+      "published_source_sha256": "e7e956273490a14221a568503f1522a2d9b71b4dd66683bc7040ca648284e130",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit01_literarisches-argumentieren_exam.pdf",
+          "sha256": "f57243ff49b4bd97616dfa9e714ebc31a699b81eaac3b881b97f5b2426ea6f62",
+          "thumbnail_sha256": "e5c55927da155cc4d9422a00943879533c65faa99ed3ed9485bf064a7438b337",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "80d41f35f8005c1291dbe1979f73f352385566c2ab2aba6aee20667c5f8dde6f"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit01_literarisches-argumentieren_exam-teacher.pdf",
+          "sha256": "db6fa54c3e5d1a37fe56dbe6f81738d3388aa47e50ad72593a8a926e85cc0ae3",
+          "thumbnail_sha256": "f544c64bf88e59ec4890e4d0587c8d28e2268a90e5eb6782fddabc969fd16a1d",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "bdeb35f458dace34d9a59d0a54677422e0d6b896d7267bd46adc9291d4824e1d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit02_politische-diskursanalyse_exam/index.md",
+      "compiled_source_sha256": "4ad5cf961e7b5b28404810b9d5b089927ce761dcf74730f3208646d31bfe6414",
+      "published_source_sha256": "4ad5cf961e7b5b28404810b9d5b089927ce761dcf74730f3208646d31bfe6414",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit02_politische-diskursanalyse_exam.pdf",
+          "sha256": "bdc347f6fbe4a097a8823ecc3b08b8f28c534e5024d9c248ba72d243917c2af3",
+          "thumbnail_sha256": "ea496777a00aa3bf5737013213903fda6f02b3e3e12bda3ed456b14a3693cf5b",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "cb50013d02a172b92f4eeacc326540758062fbec5d576b49864dcc19697d6947"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit02_politische-diskursanalyse_exam-teacher.pdf",
+          "sha256": "d7fb18090f26768fd833afa0ece9e2fd2c8c6237397b225a99b19700b5d3cbdc",
+          "thumbnail_sha256": "fb2534aaf7badbf41a2e00f986b11326feee5bf7c6fb05b4e89ce3a8da40e1d6",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "e5689b51a5acfd4544ded99441391236a199d86a9256108d0a26cc69b0b2b5f0"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit03_wissenschaftstheorie_exam/index.md",
+      "compiled_source_sha256": "597734fce3b96580756bce1d6f9e5518fcbd2e5ebdc59a81a151d36fd1c1e378",
+      "published_source_sha256": "597734fce3b96580756bce1d6f9e5518fcbd2e5ebdc59a81a151d36fd1c1e378",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit03_wissenschaftstheorie_exam.pdf",
+          "sha256": "68e88edaa1556a546cafd1a8edba4e616b6f6e83d5edde12a7ecc87c1c357a0e",
+          "thumbnail_sha256": "e66c0304e9a9d2755e702205b3848203206cc78e69ef4532e18b791a49fd5378",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "ea973f54bfea55723d62c62c187af9519d72364b97f9b08dfc14c8bfdb5c218a"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit03_wissenschaftstheorie_exam-teacher.pdf",
+          "sha256": "a94ac3a7a1070756c329a83255f11f5a7201d4930b92f91f3483ff8f152195ad",
+          "thumbnail_sha256": "bfc5464a6c3dbea67edeb8e562cbb95716aeb552cb34dccbf2d149dd09b75886",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "5f9e119b25bb1b1bb74e9a3b871aaf808964a5a4e297b3a5ecb2a752cc54a1d2"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit04_aesthetik-und-urteil_exam/index.md",
+      "compiled_source_sha256": "2042ddd9f1bb7fc3dff894963e5837112479123dc745877f894406e600d863e4",
+      "published_source_sha256": "2042ddd9f1bb7fc3dff894963e5837112479123dc745877f894406e600d863e4",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit04_aesthetik-und-urteil_exam.pdf",
+          "sha256": "87577b9f5a177bc5048a6a5e6d73bbd87bab04fd23b8109a79422b5ec0da3d48",
+          "thumbnail_sha256": "9a565185c23794a2ca3a6b7c40249137e34abbeb9db9d4031096c13b53015620",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "47ceaab5cd3052c1c7e600204db34fb8ab843ad4d3897373996a467d05331dbf"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit04_aesthetik-und-urteil_exam-teacher.pdf",
+          "sha256": "4e89e45764b28f3ce28aecc6bb7353b129009292fec136b0ccd6251781e86582",
+          "thumbnail_sha256": "8d8d7c6bf2fad0fe54415568b4704d054eace5587b27372b8a84121519835115",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "341e360c7c8437189e88dadde9a37b00110157768cc428812457442973b68c91"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit05_identitaet-und-sprache_exam/index.md",
+      "compiled_source_sha256": "c0cb41c09aa936d5800c01626d9d6e55dec2d249c86cf8fcefc36ab6c377dde4",
+      "published_source_sha256": "c0cb41c09aa936d5800c01626d9d6e55dec2d249c86cf8fcefc36ab6c377dde4",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit05_identitaet-und-sprache_exam.pdf",
+          "sha256": "61e723c90f970146cc86c3bd7db3c3d7727528b50f6b80266e3329f8da6575ca",
+          "thumbnail_sha256": "1a167c4551b94178d3486762f8b262665b849acb1784068110328ad23b0b4175",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "50b8a3e6158fb25fdf621d123e34affdc2af057459d9e310ffc046a81e3f8990"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit05_identitaet-und-sprache_exam-teacher.pdf",
+          "sha256": "62a7e54393d0689f4612fc65eee1ecc96428a7185922c8a766ab116bfd4d919a",
+          "thumbnail_sha256": "19e6929ad72f7f208942698e20627f8a1d56980c9e3ba334831b2e27378141ff",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "e33373d71c9168c7801860eec653f9bb1f1e4baca5a5fe98fbeb9141ae8663f1"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit06_postkoloniale-perspektiven_exam/index.md",
+      "compiled_source_sha256": "fcf509ef14bc2625fa1bfe36fc0570cf53c22614cfbe207074e8d1fa3264c6d2",
+      "published_source_sha256": "fcf509ef14bc2625fa1bfe36fc0570cf53c22614cfbe207074e8d1fa3264c6d2",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit06_postkoloniale-perspektiven_exam.pdf",
+          "sha256": "f1739c8ebc9f13a675d88fa20474f01856a15946e5b38c8f4474ef3ea04278b6",
+          "thumbnail_sha256": "4763602facbb157e1a47d147aa4a5e5ba22c0ee298e81524c9dad12545cceccd",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "45482bb4aa647d95d2b06cf6e0993aae071263161535235beb35a148e40df671"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit06_postkoloniale-perspektiven_exam-teacher.pdf",
+          "sha256": "7cbbffba0a5c47fdec688210c39eb277298108c17687723ff309f39e5b47eba9",
+          "thumbnail_sha256": "6c8442ec3544efc1d9872dff65725acf0a14933f2b24501249d3dc7b7981c79f",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "a556126676063cab4f779f8869e79c889b21d5b7c0756d85cd576a9b4b71a05f"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit07_historiografie_exam/index.md",
+      "compiled_source_sha256": "f545b45d217e3102b3870c23c1cd08438bcaed9802a154c0a29871c17ed8e3f3",
+      "published_source_sha256": "f545b45d217e3102b3870c23c1cd08438bcaed9802a154c0a29871c17ed8e3f3",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "regenerated",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit07_historiografie_exam.pdf",
+          "sha256": "7a14df846741c212c379aa5490ff63e914099731ec892a9765d8731c102c9d55",
+          "thumbnail_sha256": "a8048752abdff4ec177da70559e9661aa33f71353900e10bbfbc4f697acada0b",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "41ac82af6fe5383544954f721205fa2aa1f5c8bfca457c7560ac4e23b832859a"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit07_historiografie_exam-teacher.pdf",
+          "sha256": "fc3dbb70d8946cc8e482307b6fe54e9855cc97b065368fb7e114a08916e4677f",
+          "thumbnail_sha256": "899f11c24327ffce8fe80318ee494fe76d7e2fcf036c0bc796efeb6b180b09d8",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "936dd3cf8200ce62fd8346ad48fec2e4d574e43fd08779f6f6f4d5e4bbc29057"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam/index.md",
+      "compiled_source_sha256": "d28e68c2aa46ccb8cddac01b6d5b024897ed3f50c045d419b3d3ed0659843c59",
+      "published_source_sha256": "d28e68c2aa46ccb8cddac01b6d5b024897ed3f50c045d419b3d3ed0659843c59",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit08_philosophie-fuer-informierte-laien_exam.pdf",
+          "sha256": "b25ed3b7113d780d5ceafe4e2a93cec7a0f9d3b9daab28c0da25aa5c2d20a415",
+          "thumbnail_sha256": "2a14a13129c6ae4dd7567b21fff70640f77c66351028397665121bab12459c39",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "df226c407cd00e7b890ef30f0e142694e1903fceb27a5267567f0fc65f20802c"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit08_philosophie-fuer-informierte-laien_exam-teacher.pdf",
+          "sha256": "f0910df7129e3b64d9e6cf041c5399cc4e4dabde0c05beb50a467dc6cb91f503",
+          "thumbnail_sha256": "0ab9fedc62bd0b0c0b02aef24652dfddb7f62e13fa3b048d59ab626bf839c78b",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "41d599b77cc875b4c3a296d7629b0c134c94165184e4483061d26bcb46309b6d"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht_exam/index.md",
+      "compiled_source_sha256": "a68789cdc27fb832f1bf3dd428df1c7c6f4201cf6a755427e604b92f0490fbbc",
+      "published_source_sha256": "a68789cdc27fb832f1bf3dd428df1c7c6f4201cf6a755427e604b92f0490fbbc",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit09_fachsprachen-wirtschaft-medizin-recht_exam.pdf",
+          "sha256": "a0acb7f4f4973db46eb0a21803afbb125601710b72c3dbe034c8121c92578938",
+          "thumbnail_sha256": "2130deb46aa624885e17abf8d12e2931e184aaee2ad1d2c392acfa1939f1ed32",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "a7e1e3212d1fcd49ce4ef7210600e3cd7f8934a7683f9f918580e230b5513b6a"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit09_fachsprachen-wirtschaft-medizin-recht_exam-teacher.pdf",
+          "sha256": "007e31324ba5a167fdede4d84863edf65f2b17636ade3f01a036353c922d66d4",
+          "thumbnail_sha256": "8f6f2f622e813a09c33555d4f5048995c71a944ca51beaf57201729ab55d2e27",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "23444c7235620b6c21123e42aec933a68f9d6b6b27f9028f3befc6237c833a37"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit10_stilistik-und-rhetorik_exam/index.md",
+      "compiled_source_sha256": "eb59c83c105580c2c927eb9f64d07dc67f50f158d9f07048af533a5f4252f145",
+      "published_source_sha256": "eb59c83c105580c2c927eb9f64d07dc67f50f158d9f07048af533a5f4252f145",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit10_stilistik-und-rhetorik_exam.pdf",
+          "sha256": "83342c7c946827a52c7afe265859cba5856292dd6bdb4976bd5673b405e7684b",
+          "thumbnail_sha256": "265262cb0e66f853b80c2869dbe8d3de5fbc157b5f02b4c1017bc5fcdef1a264",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "edddfbe7fa0c53b0a189744861b97718a62c04b05f3494603fc22040ca056e4f"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit10_stilistik-und-rhetorik_exam-teacher.pdf",
+          "sha256": "81526e9e57e1e513135ee325f0d2ff8b8a1a6b69a8fa101ef99d36c979761850",
+          "thumbnail_sha256": "572108dd0194e6ebd8b25d2b5827a6660ab20f6652c51cd97bfc1f0578e9b015",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "8d91a95b37c153a7610dd2b71381a49a2d7987d17c87e3d05b0f78da9980d7a7"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit11_literarische-moderne_exam/index.md",
+      "compiled_source_sha256": "47c08dc1011b59ed62cf2c9054c63f8b64db27fe427e208bd10df2c038f05079",
+      "published_source_sha256": "47c08dc1011b59ed62cf2c9054c63f8b64db27fe427e208bd10df2c038f05079",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit11_literarische-moderne_exam.pdf",
+          "sha256": "eb10113b78be9744355b97b4b79cfc913c6de6fe1e0569e0105d4f6761a70981",
+          "thumbnail_sha256": "8cf9da8039b3306c57c292cb00084a1319df085bfb3ede398e26214c0bcc3c95",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "af0ede179ede09ce940866a138437d9b1eb309679d00bdb58723f41dfab1b219"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit11_literarische-moderne_exam-teacher.pdf",
+          "sha256": "52896da1d56405476b23c579d0bbe627f328e8c713be2db43ce4f1669ce8d2d1",
+          "thumbnail_sha256": "03a5b2d2b5eda1f24c69856d934dfa340f7ca86a78a8334ff90ff05b7188b3d3",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "76fc82bab112247e8a4918dc2b8cbf3fdbaf3c569dd7bc90798c6f71742facda"
+        }
+      }
+    },
+    {
+      "source": "content/kurs_c1/units/unit12_gegenwartsliteratur_exam/index.md",
+      "compiled_source_sha256": "fd00ba5fb9676869980d30d45d951fec929f6007fce6099af5239474f741a073",
+      "published_source_sha256": "fd00ba5fb9676869980d30d45d951fec929f6007fce6099af5239474f741a073",
+      "body_unchanged": true,
+      "generator_sha256": "b6ba6b7bd53d87997c628ca6b38c5b0837d1a25614911a29f74511c6e44622ae",
+      "renderer_sha256": "669459d6168e95cd32f434faff213c7f258178d62218adc1e6e0c9f037316e05",
+      "current_renderer_sha256": "cb778587fdc0d3d6f80edad9323e832ece617ddcae99c01b8b80f215e99badf6",
+      "renderer_status": "byte-identical TeX under final renderer; actual producer identity retained",
+      "files": {
+        "learner": {
+          "file": "static/downloads/c1/unit12_gegenwartsliteratur_exam.pdf",
+          "sha256": "61883013504da01e65ab46fed119224fda6b9fbeaa1090bcfb920bf7e06a4b26",
+          "thumbnail_sha256": "ae080f60d9a6a9950e5046980fb8153d535bb75d98bcd2f3b013bba8066204f0",
+          "thumbnail_width": 1000,
+          "pages": 1,
+          "tex_sha256": "872ee7ae927fc22bd07030130dabf54af8bcab7abb2d0e86b63ef32950ab6003"
+        },
+        "teacher": {
+          "file": "static/downloads/c1/unit12_gegenwartsliteratur_exam-teacher.pdf",
+          "sha256": "942d263937b80122ae6cbe50a424bb15cee96737ac656a91eba028feeb4f4d2c",
+          "thumbnail_sha256": "be69c1432c99d779312cfad788f2c18c4ed3b12b4defbde477b105d202749f32",
+          "thumbnail_width": 1000,
+          "pages": 2,
+          "tex_sha256": "2ce877929b97c1d6e6066049ce568134a7df35c27a76eff39faa66f60f1dad78"
+        }
+      }
+    }
+  ]
+}

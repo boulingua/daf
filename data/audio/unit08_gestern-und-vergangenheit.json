@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
-    "source_body_sha256": "4438e1ae60ec2cf4c33ffb81bae202fe93c0ceea0fa9d7368e8fb30fcbda0358",
+    "source_body_sha256": "a047839b557936d33a364ec26f55583b36591a8b1ce5338466573f0ecbeaa5b4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ben: Du siehst müde aus. Was hast du gestern gemacht? Nadia: Oh, gestern war ein langer Tag! Ich bin früh aufgestanden und bin zum Bahnhof gefahren. Meine Schwester ist aus Hamburg gekommen. Ben: Schön! Und dann? Nadia: Wir haben zusammen gefrühstückt und sind durch die Altstadt gelaufen. Am Abend haben wir gekocht, weil das Restaurant zu voll war. Ben: Und heute? Schläfst du wieder lange? Nadia: Nein, heute arbeite ich. Aber gestern — gestern war perfekt."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
-    "source_body_sha256": "4438e1ae60ec2cf4c33ffb81bae202fe93c0ceea0fa9d7368e8fb30fcbda0358",
+    "source_body_sha256": "a047839b557936d33a364ec26f55583b36591a8b1ce5338466573f0ecbeaa5b4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "aufstehen.\nfrühstücken.\nfahren.\nkommen.\nkochen.\narbeiten.\ntreffen.\nschlafen.\ngehen.\nschreiben."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit/index.md",
-    "source_body_sha256": "4438e1ae60ec2cf4c33ffb81bae202fe93c0ceea0fa9d7368e8fb30fcbda0358",
+    "source_body_sha256": "a047839b557936d33a364ec26f55583b36591a8b1ce5338466573f0ecbeaa5b4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Samstag, 20 Uhr. Heute war ein voller Tag. Ich bin um halb acht aufgestanden und habe schnell gefrühstückt. Dann bin ich zum Markt gefahren und habe Gemüse und Brot gekauft. Am Mittag habe ich meine Freundin Lea getroffen. Wir sind lange durch den Park gegangen und haben über die Arbeit gesprochen. Am Nachmittag bin ich müde nach Hause gekommen, aber ich habe noch die Küche geputzt, weil morgen Besuch kommt. Am Abend habe ich Suppe gekocht und einen Film gesehen. Jetzt bin ich zufrieden. Ich glaube, dass morgen ein schöner Sonntag wird. Gute Nacht!"

@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.overall-written-production.01
-    - A1.REC.reading-for-orientation.03
-    - A1.REC.understanding-announcements-and-instructions.02
-    - A1.PROD.compensating.01
-    - A1.INT.correspondence.03
+  - A1.PROD.overall-written-production.01
+  - A1.REC.reading-for-orientation.03
+  - A1.REC.understanding-announcements-and-instructions.02
+  - A1.PROD.compensating.01
+  - A1.INT.correspondence.03
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit12_reisen-und-unterwegs_exam
+  format: module-practice
+  duration_minutes:
+  points: 5
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit12_reisen-und-unterwegs-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit12_reisen-und-unterwegs-teacher.png
 audio_manifest: unit12_reisen-und-unterwegs
 ---
 
@@ -75,14 +103,14 @@ Ana reist nach Graz. Ihre Cousine heiratet dort. Am Hauptbahnhof in Wien trifft 
 >
 > **Ana:** Super. Dann habe ich noch zehn Minuten Zeit.
 
+## Aktivieren {#activate}
 **Aktivierungsfragen:**
 
 - Wohin reist Ana?
 - Wo ist Gleis 7?
 - Wann fährt der Zug nach Graz?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle — Verkehrsmittel und Reisen
 
 | Wort | Bedeutung |
@@ -126,8 +154,7 @@ Für die Frage nach dem Weg: *Wo ist …? — Gehen Sie geradeaus / links / rech
 
 Seit Mai 2023 gibt es in Deutschland das Deutschland-Ticket. Man kauft ein Ticket pro Monat. Damit fährt man in ganz Deutschland mit Bus, Straßenbahn, U-Bahn und Regionalzug. Im schnellen ICE gilt das Ticket aber nicht. (Frei paraphrasiert nach Wikipedia, CC-BY-SA; siehe Quellen.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Welches Wort passt?
 
 | Bild / Situation | Wort |
@@ -177,8 +204,7 @@ Seit Mai 2023 gibt es in Deutschland das Deutschland-Ticket. Man kauft ein Ticke
 **Aufgabe 4.** (Beispiel) der Ausgang · geradeaus · Dank.
 
 {{< /details >}}
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechaufgabe (A1):** Spielen Sie zu zweit einen Mini-Dialog am Ticket-Automaten. Person A kauft ein Ticket nach Graz und fragt nach dem Gleis. Person B ist der Automat / die Information.
 
 Beispiel:
@@ -194,35 +220,18 @@ Beispiel:
 - Eine Zahl (Preis oder Gleis) wird genannt.
 - Höfliche Wörter: *bitte, danke, guten Tag*.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 · Modul Lesen, Teil 3 — Schilder: richtig oder falsch?**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit12_reisen-und-unterwegs_exam" >}}).
 
-Sie sehen fünf Schilder. Sind die Aussagen **richtig** oder **falsch**?
-
-|   | Schild | Aussage |
-|---|--------|---------|
-| 1 | „Rauchen verboten" | Sie dürfen hier rauchen. |
-| 2 | „Eingang" | Hier gehen Sie hinein. |
-| 3 | „Gleis 5 — ICE 22 Zürich" | Der Zug nach Zürich fährt auf Gleis 3. |
-| 4 | „Geschlossen bis 14:00" | Ab 14 Uhr ist offen. |
-| 5 | „Bitte einsteigen" | Sie sollen aussteigen. |
-
-{{< details type="tip" title="Lösungen" >}}
-1. **F** · 2. **R** · 3. **F** (Gleis 5) · 4. **R** · 5. **F** (einsteigen = hineingehen).
-{{< /details >}}
-
-**Punkte-Rubrik:** 5 Aufgaben, je 1 Punkt = 5 Punkte. Bestanden ab 3 Punkten.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann sechs Verkehrsmittel nennen.
 - [ ] Ich lese einen einfachen Fahrplan.
 - [ ] Ich frage höflich nach dem Weg.
 - [ ] Ich kaufe ein Ticket am Automaten.
 - [ ] Ich schreibe eine kurze Postkarte von unterwegs.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Timing (45 Minuten):** Einstieg 5' · Input 12' · Üben 13' · Anwenden 8' · Prüfung 5' · Reflexion 2'.
 

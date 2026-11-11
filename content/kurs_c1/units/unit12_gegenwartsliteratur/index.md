@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.PROD.planning.01
-    - C1.REC.overall-oral-comprehension.01
-    - C1.MED.amplifying-a-dense-text.02
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.PROD.planning.01
+  - C1.REC.overall-oral-comprehension.01
+  - C1.MED.amplifying-a-dense-text.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_c1/units/unit12_gegenwartsliteratur_exam
+  format: module-practice
+  duration_minutes:
+  points: 12
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit12_gegenwartsliteratur-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit12_gegenwartsliteratur-teacher.png
 audio_manifest: unit12_gegenwartsliteratur
 ---
 
@@ -76,6 +104,7 @@ hinterher, ob das *wahr* ist.“ Genau an dieser Fuge zwischen Erlebtem
 und Erfundenem verläuft eine der lebhaftesten Debatten der
 deutschsprachigen Gegenwartsliteratur.
 
+## Aktivieren {#activate}
 **Diskutieren Sie im Plenum:**
 
 1. Welche deutschsprachige Autorin oder welcher Autor der letzten zehn
@@ -86,8 +115,7 @@ deutschsprachigen Gegenwartsliteratur.
    Literatur — oder eine, die man sich bei Kunst gerade nicht stellen
    sollte? Begründen Sie mit einem Beispiel.
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Begriff | Erklärung (C1) |
@@ -177,8 +205,7 @@ deutschsprachigen Raum trug Didier Eribons *Rückkehr nach Reims* (dt.
 2016) zur Etablierung der Form bei (paraphrasiert nach *Autosoziobiografie*
 / Wikipedia, s. **Quellen**).
 
-## Üben
-
+## Üben {#practise}
 Vier Aufgaben mit steigendem Anspruch. Lösungen am Ende der Einheit.
 
 **Aufgabe 1 — Hörverstehen: Tendenz und Stimme zuordnen.**
@@ -227,8 +254,7 @@ Hedging-Bausteinen. **C1 plus:** Aufgabe 3 frei, Aufgabe 4 vollständig
 mit schriftlicher Begründung in je zwei bis drei Sätzen.
 {{< /callout >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 ### Produktionsaufgabe A — Analytische Kurzrezension (ca. 300 Wörter)
 
 Verfassen Sie eine Kurzrezension eines fiktiven oder realen
@@ -263,33 +289,11 @@ Schreiben Sie eine strukturierte Erörterung:
   einiges dafür, dass …*
 - **Schluss:** eine offene Folgefrage.
 
-## Prüfung
+## Prüfung {#exam}
 
-### GER C1 Hören, Teil 1 — Aussagen zuordnen
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit12_gegenwartsliteratur_exam" >}}).
 
-**Aufgabenstellung:** Sie hören die Podcast-Folge (Hörtext C) zweimal.
-Ordnen Sie die sechs Aussagen den drei Sprecher:innen zu
-(K / B / L). Notieren Sie zusätzlich, ob es sich um eine **These (T)**
-oder eine **Prognose (P)** handelt.
-
-| Nr. | Aussage | Stimme | T/P |
-|---|---|---|---|
-| 1 | Der soziale Raum wird selbst zur Figur. | ___ | ___ |
-| 2 | Das Erzähl-Ich sitzt so nah an der Autorin, dass die Wahrheitsfrage zum Motor wird. | ___ | ___ |
-| 3 | Kürzere, montierte Formen kommen aus der Bildschirmlektüre. | ___ | ___ |
-| 4 | Die Autofiktion bleibt, weil sich die Generation ohnehin selbst dokumentiert. | ___ | ___ |
-| 5 | Das Politische bleibt nur, solange es nicht bloße Geste ist. | ___ | ___ |
-| 6 | Gerade die Ironie macht das Fragment angreifbar. | ___ | ___ |
-
-**Punkte-Rubrik (12 Punkte):**
-
-- Je korrekte Stimmenzuordnung: **1 P** (max. 6 P).
-- Je korrekte T/P-Einordnung: **1 P** (max. 6 P).
-- **11–12:** sehr gut · **9–10:** gut · **7–8:** befriedigend ·
-  **6:** ausreichend · **< 6:** nicht bestanden.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich folge einem dreistimmigen Literatur-Podcast in seinen
       Hauptaussagen und erkenne Ironie als Bedeutungsebene.
 - [ ] Ich unterscheide *Autofiktion*, *Autosoziobiografie* und
@@ -299,7 +303,7 @@ oder eine **Prognose (P)** handelt.
 - [ ] Ich verorte mindestens eine reale deutschsprachige Stimme des
       letzten Jahrzehnts, ohne sie auf ein Etikett zu reduzieren.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Ablauf (45 Minuten).**
 

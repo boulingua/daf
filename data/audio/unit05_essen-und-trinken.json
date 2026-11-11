@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit05_essen-und-trinken/index.md",
-    "source_body_sha256": "1df5c3c0c1c269f10b31262031ffae33f4c377149ebed510ef80c3e4eefaa11c",
+    "source_body_sha256": "e2909ca4028ca3d836c5c3ef1c8a00d143cfe6f055b4a711bc180babed80be25",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Herr Klein: Guten Tag! Was möchten Sie trinken? Mia: Ich möchte einen Orangensaft, bitte. Ich mag Saft sehr gern. Tom: Für mich einen Kaffee, bitte. Frau Berg: Und ich nehme einen Tee. Ich mag keinen Kaffee. Herr Klein: Gern. Und was möchten Sie essen? Mia: Ein Käsebrot, bitte. Ich mag Käse. Herr Klein: Sehr gern. Kommt sofort!"

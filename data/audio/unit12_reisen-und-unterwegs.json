@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
-    "source_body_sha256": "10f8a6497b2fbb2f20c4a42f603fba9071b7dc806bea58bec8b3b793d523155b",
+    "source_body_sha256": "329749735065ce8a043b475d30116d7a9d4229eca9f293e5da58f6705f2488b3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
-    "source_body_sha256": "10f8a6497b2fbb2f20c4a42f603fba9071b7dc806bea58bec8b3b793d523155b",
+    "source_body_sha256": "329749735065ce8a043b475d30116d7a9d4229eca9f293e5da58f6705f2488b3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ana: Entschuldigung, wo ist Gleis 7? Frau Klein: Gehen Sie geradeaus und dann links. Ana: Danke! Wann fährt der Zug nach Graz? Tarek: Um 08:58, glaube ich. Der Zug fährt auf Gleis 7. Ana: Super. Dann habe ich noch zehn Minuten Zeit."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit12_reisen-und-unterwegs/index.md",
-    "source_body_sha256": "10f8a6497b2fbb2f20c4a42f603fba9071b7dc806bea58bec8b3b793d523155b",
+    "source_body_sha256": "329749735065ce8a043b475d30116d7a9d4229eca9f293e5da58f6705f2488b3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

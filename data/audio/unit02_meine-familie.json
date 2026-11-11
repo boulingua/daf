@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit02_meine-familie/index.md",
-    "source_body_sha256": "37ee0e0e0ab7edb2f5d0670d125b49f89ab7959a739610394f3cfb79709f17e0",
+    "source_body_sha256": "d39c2870214262ce9ffd87ad1d5609d3e4a5f572477df89d597a65bd5c017b18",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ben: Oh, ein Foto! Wer ist das? Nina: Das ist meine Familie. Hier, das ist mein Vater. Er heißt Klaus. Ben: Und die Frau? Ist das deine Mutter? Nina: Ja, das ist meine Mutter. Sie heißt Petra. Und das Kind hier ist mein Bruder Tim. Ben: Schön! Und wer ist die Frau links? Nina: Das ist meine Oma. Sie ist schon 80 Jahre alt."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit02_meine-familie/index.md",
-    "source_body_sha256": "37ee0e0e0ab7edb2f5d0670d125b49f89ab7959a739610394f3cfb79709f17e0",
+    "source_body_sha256": "d39c2870214262ce9ffd87ad1d5609d3e4a5f572477df89d597a65bd5c017b18",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Hallo, ich bin Nina. Ich wohne in Bremen. Meine Familie ist klein. Mein Vater heißt Klaus, meine Mutter heißt Petra. Mein Bruder Tim ist neun Jahre alt. Er geht in die Schule. Meine Oma wohnt auch in Bremen. Wir besuchen sie oft am Sonntag."

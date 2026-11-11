@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
-    "source_body_sha256": "4fc2b7f15dcf53db4eb0820528524f322ed7d687530b9834264c51a52a05f09f",
+    "source_body_sha256": "4a63190eaf8c591e23be96b8109df622543bca38f719c1713669010f7801a6e3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
-    "source_body_sha256": "4fc2b7f15dcf53db4eb0820528524f322ed7d687530b9834264c51a52a05f09f",
+    "source_body_sha256": "4a63190eaf8c591e23be96b8109df622543bca38f719c1713669010f7801a6e3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "„Ich fange im September eine duale Ausbildung als Mechatroniker an\", sagt Jonas. „Drei Tage bin ich im Betrieb, zwei Tage in der Berufsschule. Ich verdiene sofort etwas und lerne den Beruf direkt in der Praxis.\" „Und ich beginne ein Studium der Umwelttechnik\", sagt Malia. „Zwar bekomme ich am Anfang kein Gehalt, aber ich habe später vielleicht mehr Möglichkeiten. Trotzdem bin ich noch unsicher, ob das der richtige Weg für mich ist.\""
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
-    "source_body_sha256": "4fc2b7f15dcf53db4eb0820528524f322ed7d687530b9834264c51a52a05f09f",
+    "source_body_sha256": "4a63190eaf8c591e23be96b8109df622543bca38f719c1713669010f7801a6e3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die duale Ausbildung.\nder Betrieb, -e.\ndie Berufsschule, -n.\nder/die Auszubildende (Azubi).\ndie Ausbildungsvergütung.\nder Abschluss, ¨-e.\ndie Zulassung, -en.\neinschlägig (Adj.).\nberufsbegleitend (Adj.)."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
-    "source_body_sha256": "4fc2b7f15dcf53db4eb0820528524f322ed7d687530b9834264c51a52a05f09f",
+    "source_body_sha256": "4a63190eaf8c591e23be96b8109df622543bca38f719c1713669010f7801a6e3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Studium oder Ausbildung? Zwei Erfahrungen Malia hat sich für ein Studium entschieden. „Am Anfang war es hart, weil ich kein eigenes Geld verdient habe\", erzählt sie. „Aber ich mag die Theorie, und ich möchte später vielleicht forschen. Ein Studium dauert bei mir mindestens drei Jahre bis zum Bachelor. Manchmal denke ich, dass ich mehr Freiheit habe als meine Freunde in der Ausbildung — obwohl ich auch mehr Prüfungen schreiben muss.\" Jonas hat einen anderen Weg gewählt. „Ich wollte nicht mehr nur in der Schule sitzen\", sagt er. „In der dualen Ausbildung bin ich meistens im Betrieb und lerne den Beruf direkt an der Maschine. Ich bekomme jeden Monat eine Ausbildungsvergütung, und nach drei Jahren habe ich einen anerkannten Abschluss. Wenn ich später möchte, kann ich immer noch studieren — die Ausbildung schließt das nicht aus.\" Beide sind zufrieden. Es gibt eben nicht einen richtigen Weg, sondern viele."
@@ -73,7 +73,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit03_weiterbildung-und-studium/index.md",
-    "source_body_sha256": "4fc2b7f15dcf53db4eb0820528524f322ed7d687530b9834264c51a52a05f09f",
+    "source_body_sha256": "4a63190eaf8c591e23be96b8109df622543bca38f719c1713669010f7801a6e3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Berufsbegleitende Weiterbildung: Technische Redaktion Sie arbeiten bereits in einem technischen Beruf und möchten lernen, Anleitungen und Handbücher klar zu schreiben? Diese berufsbegleitende Weiterbildung bereitet Sie in 12 Monaten auf diese Aufgabe vor. Der Unterricht findet **online am Freitagabend und Samstag** statt, damit Sie weiter arbeiten können. Zulassung: abgeschlossene Berufsausbildung oder Studium + mindestens ein Jahr Berufserfahrung. Umfang: 20 Kurstage. Kosten: 2 400 € (Ratenzahlung möglich). Abschluss: Zertifikat der Bildungsakademie."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
-    "source_body_sha256": "407b645053d5ed03f9efb9d3f2066194d4b7860e0ba6bff876bf6b175baaee6b",
+    "source_body_sha256": "5e20b6b9dd7bbe53dc4da26938d8e55e76583fe23d0d0e80fc6f54bf27b6b70e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit10_politik-und-teilhabe/index.md",
-    "source_body_sha256": "407b645053d5ed03f9efb9d3f2066194d4b7860e0ba6bff876bf6b175baaee6b",
+    "source_body_sha256": "5e20b6b9dd7bbe53dc4da26938d8e55e76583fe23d0d0e80fc6f54bf27b6b70e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "die Wahl (Pl. die Wahlen).\ndie Wahlbeteiligung.\nwahlberechtigt (Adj.).\ndie Bürgerinitiative.\ndas Volksbegehren.\ndie Teilhabe.\ndie Abstimmung.\nder Standpunkt.\netwas begründen."

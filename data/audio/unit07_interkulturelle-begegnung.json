@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
-    "source_body_sha256": "4c399d438527bc50b40ebd557da51a51839b64c1dfe65422a27967cd7a8adfb5",
+    "source_body_sha256": "79b9dde6d2cc93059bfd6eef7cf24e5ba3f1aa32c7f305eb39a01b0ac08a069d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_b1/units/unit07_interkulturelle-begegnung/index.md",
-    "source_body_sha256": "4c399d438527bc50b40ebd557da51a51839b64c1dfe65422a27967cd7a8adfb5",
+    "source_body_sha256": "79b9dde6d2cc93059bfd6eef7cf24e5ba3f1aa32c7f305eb39a01b0ac08a069d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "das Missverständnis, -se.\ndie Begegnung, -en.\netwas ausräumen.\ndas Register.\nrelativieren.\ngekränkt sein.\ndie Absicht, -en.\nvoreilig.\nnachfragen.\nsich entschuldigen (für).\nRücksicht nehmen (auf).\ndie Selbstverständlichkeit, -en."

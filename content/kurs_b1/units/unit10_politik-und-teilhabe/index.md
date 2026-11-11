@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.conversation.02
-    - B1.PROD.monitoring-and-repair.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.interviewing-and-being-interviewed.02
-    - B1.MED.adapting-language.02
+  - B1.INT.conversation.02
+  - B1.PROD.monitoring-and-repair.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.interviewing-and-being-interviewed.02
+  - B1.MED.adapting-language.02
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit10_politik-und-teilhabe_exam
+  format: module-practice
+  duration_minutes: 3
+  points: 20
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit10_politik-und-teilhabe-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit10_politik-und-teilhabe-teacher.png
 audio_manifest: unit10_politik-und-teilhabe
 ---
 
@@ -70,14 +98,14 @@ Zusätzlich üben Sie:
 
 **Noa** hat während ihres Erasmus-Semesters in Wien eine Bürgerinitiative kennengelernt: *„Grünere Innenstadt — mehr Bäume auf der Mariahilfer Straße".* Am Anfang dachte sie: *„Was bringt das schon? Ich bin doch nur eine Person."* Doch als sie zum ersten Treffen ging, saßen dort dreißig Nachbarinnen und Nachbarn. Jeder brachte eine kleine Idee mit. Nach drei Monaten pflanzte die Stadt tatsächlich die ersten Bäume. Heute sagt Noa: *„Ich habe verstanden, dass Teilhabe klein anfängt — mit einer Unterschrift, einem Gespräch, einer Stimme bei der Wahl."*
 
+## Aktivieren {#activate}
 **Sprechen Sie zu zweit:**
 
 - Wählen Sie bei jeder Wahl in Ihrem Heimatland? Warum (nicht)?
 - Kennen Sie eine Bürgerinitiative in Ihrer Stadt oder Region?
 - Was würde **Sie** motivieren, sich politisch einzumischen?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz (Politik und Teilhabe, B1)
 
 | Wort | Erklärung |
@@ -122,8 +150,7 @@ Wie viele Menschen wählen eigentlich? Bei der Bundestagswahl am 23. Februar 202
 
 Auch regional gab es Unterschiede. In Bayern gingen mit 84,5 % besonders viele Menschen wählen, in Sachsen-Anhalt mit 77,7 % vergleichsweise wenige. Diese Zahlen stammen aus der amtlichen Statistik. Sie zeigen: Die meisten Menschen in Deutschland nutzen ihr Wahlrecht — aber nicht alle. Deshalb diskutieren viele, wie man noch mehr Menschen für Politik und Teilhabe gewinnen könnte. (ca. 120 Wörter · Quelle: Statistisches Bundesamt / Die Bundeswahlleiterin, 2025 — siehe *Quellen*)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Wortschatz (Niveau A / leichter).**
 Ordnen Sie das passende Wort zu: *Wahlbeteiligung · Bürgerinitiative · Standpunkt · wahlberechtigt · Teilhabe*.
 
@@ -177,8 +204,7 @@ Richtig oder falsch? Korrigieren Sie die falschen Aussagen.
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Präsentation vorbereiten (B1-Sprechen, Teil 2 — ca. 3 Minuten).**
 
 Bereiten Sie eine kurze Präsentation zu einem Thema vor. Wählen Sie:
@@ -203,37 +229,18 @@ Bereiten Sie eine kurze Präsentation zu einem Thema vor. Wählen Sie:
 
 Anschließend gibt Ihre Partnerin / Ihr Partner **ein Feedback** und stellt **eine Rückfrage** (Teil 3). Antworten Sie spontan in ein bis zwei Sätzen.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 · Modul Sprechen · Teil 2 + Teil 3**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit10_politik-und-teilhabe_exam" >}}).
 
-**Aufgabenstellung.** Halten Sie eine Präsentation (5 Folien, ca. 3 Minuten) zu **Thema A oder Thema B**. Danach gibt Ihre Partnerin / Ihr Partner ein kurzes Feedback und stellt eine Frage; Sie antworten (Teil 3).
-
-- **Thema A:** Wählen ab 16 — sinnvoll oder nicht?
-- **Thema B:** Bürgerinitiativen — hilft das wirklich, oder ist es nur Symbolpolitik?
-
-**Bewertungsraster (20 Punkte).**
-
-| Kriterium | Punkte |
-|-----------|--------|
-| Aufbau / Struktur (klare Gliederung, roter Faden) | 0–4 |
-| Inhalt (Beispiele, eigene Position, Bezug zum Heimatland) | 0–4 |
-| Begründen (Nebensätze mit *weil* / *dass* / *obwohl*) | 0–4 |
-| Wortschatz & Grammatik (inkl. *würde* / *könnte*) | 0–4 |
-| Interaktion Teil 3 (Feedback verstehen, Rückfrage beantworten) | 0–4 |
-| **Gesamt** | **/20** |
-
-*Richtwert: ab 12 Punkten bestanden.*
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann einer kurzen Wahldiskussion in den Hauptaussagen folgen.
 - [ ] Ich kann meine Meinung mit *weil*, *dass* oder *obwohl* begründen.
 - [ ] Ich kann höflich/hypothetisch mit *würde* und *könnte* sprechen.
 - [ ] Ich kann eine 3-Minuten-Präsentation halten und auf eine Frage reagieren.
 - [ ] Ich kenne fünf neue Wörter zum Thema Politik und Teilhabe.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

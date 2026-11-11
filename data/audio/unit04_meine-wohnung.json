@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
-    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "source_body_sha256": "8435b0d45cff601fd8a7d34d75efafc865cf0ed5a852d1263a884808eda68c78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
-    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "source_body_sha256": "8435b0d45cff601fd8a7d34d75efafc865cf0ed5a852d1263a884808eda68c78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Lena: Hallo Ana! Komm rein. Das ist unser Wohnzimmer. Ana: Oh, schön! Es gibt ein Sofa und einen Fernseher. Tom: Ja. Und hier ist die Küche. Wir kochen zusammen. Ana: Und wo ist das freie Zimmer? Lena: Hier, neben dem Bad. Es gibt ein Bett, einen Schrank und einen Schreibtisch. Ana: Das Zimmer ist toll. Das Bett steht am Fenster."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
-    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "source_body_sha256": "8435b0d45cff601fd8a7d34d75efafc865cf0ed5a852d1263a884808eda68c78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "das Zimmer.\ndas Schlafzimmer.\ndas Wohnzimmer.\ndie Küche.\ndas Bad.\nder Balkon.\ndas Bett.\nder Tisch.\nder Stuhl.\nder Schrank.\nder Schreibtisch.\ndas Sofa.\ndie Lampe.\ndas Fenster."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
-    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "source_body_sha256": "8435b0d45cff601fd8a7d34d75efafc865cf0ed5a852d1263a884808eda68c78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Zimmer in WG — Wien-Mariahilf - 15 m², 450 € (warm) - Ein Zimmer, gemeinsame Küche + Bad - Möbliert: Bett, Schrank, Schreibtisch - U-Bahn U3 in 5 Minuten - Ab 1. September frei"
@@ -73,7 +73,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/kurs_a1/units/unit04_meine-wohnung/index.md",
-    "source_body_sha256": "888500210ae0b74dceff55eba64948a477eab69f188c927ed2b4e1a0759ccd39",
+    "source_body_sha256": "8435b0d45cff601fd8a7d34d75efafc865cf0ed5a852d1263a884808eda68c78",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ana hat jetzt ein Zimmer in der WG. Das Zimmer ist klein, aber schön. Es gibt ein Bett, einen Schrank und einen Schreibtisch. Das Bett steht am Fenster. Der Schreibtisch steht neben dem Bett. Auf dem Schreibtisch ist eine Lampe. Ana findet ihr Zimmer gemütlich."

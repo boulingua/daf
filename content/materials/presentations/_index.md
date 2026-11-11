@@ -1,7 +1,7 @@
 ---
 page_type: section
 title: Foliensätze
-description: Alle 60 DaF-Foliensätze (Platzhalter), filterbar nach GER-Stufe und Modul.
+description: Alle 60 DaF-Foliensätze, filterbar nach GER-Stufe und Modul.
 material_kind: presentation
 layout: materials-list
 author: S. Le Boulanger

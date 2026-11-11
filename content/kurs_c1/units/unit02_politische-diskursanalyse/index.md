@@ -37,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.PROD.planning.01
-    - C1.REC.overall-oral-comprehension.01
-    - C1.MED.processing-text.08
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.PROD.planning.01
+  - C1.REC.overall-oral-comprehension.01
+  - C1.MED.processing-text.08
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung--ger-c1-modul-schreiben-teil-1
+exam:
+  page: kurs_c1/units/unit02_politische-diskursanalyse_exam
+  format: module-practice
+  duration_minutes:
+  points: 25
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit02_politische-diskursanalyse-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit02_politische-diskursanalyse-teacher.png
 audio_manifest: unit02_politische-diskursanalyse
 ---
 
@@ -82,6 +111,7 @@ Aussage wahr ist, sondern *wie* sie uns zum Verstehen anleitet — welche
 Rahmen sie aufspannt, welche Voraussetzungen sie stillschweigend
 mitliefert und welche Alternativen sie unsichtbar macht.
 
+## Aktivieren {#activate}
 **Einstiegsfragen zur Diskussion:**
 
 - Welche drei rhetorischen Mittel erkennen Sie *sofort* in einer
@@ -90,8 +120,7 @@ mitliefert und welche Alternativen sie unsichtbar macht.
   Frame wahr und dennoch irreführend sein?
 - Wann ist eine Metapher analytisch erhellend, wann verschleiert sie?
 
-## Input
-
+## Input {#input}
 ### A. Analyse-Wortschatz
 
 | Begriff | Erklärung | Beispielkollokation |
@@ -187,8 +216,7 @@ DWDS, s. Quellen). Für die Diskursanalyse ist diese Eigenschaft zentral:
 Was präsupponiert wird, entzieht sich der Diskussion, weil es gar nicht
 erst behauptet, sondern vorausgesetzt wird.
 
-## Üben
-
+## Üben {#practise}
 ### Aufgabe 1 — Strategie zuordnen (Grundstufe C1)
 
 Ordnen Sie jeder Äußerung die dominante Strategie zu (*Präsupposition,
@@ -263,8 +291,7 @@ die Passage weniger überzeugen als moralisch vereinnahmen will.*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Produktionsaufgabe (C1, ca. 230 Wörter):** Verfassen Sie einen
 analytischen Forumsbeitrag für das Feuilleton-Forum einer überregionalen
 Zeitung zur folgenden These:
@@ -288,34 +315,11 @@ leistet), *argumentieren* (Ihre Position), *mit Beispielen erläutern*
 - **Kohärenz & Sprache:** logische Gliederung, komplexe Konnektoren,
   C1-Wortschatz, grammatische Korrektheit.
 
-## Prüfung — GER C1, Modul Schreiben, Teil 1
+## Prüfung — GER C1, Modul Schreiben, Teil 1 {#exam}
 
-**Aufgabe (ca. 230 Wörter):** Schreiben Sie einen Kommentar für ein
-Online-Feuilleton-Forum zur These:
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit02_politische-diskursanalyse_exam" >}}).
 
-> *„Die Schule sollte ein Pflichtfach ‚Rhetorik- und Medienkompetenz‘
-> einführen.“*
-
-Wählen Sie einen eigenen Titel. Setzen Sie **vier Sprachfunktionen** um
-(erklären · argumentieren · mit Beispielen erläutern · Vor- und
-Nachteile abwägen) und schließen Sie mit einer klaren Position.
-
-**Punkte-Rubrik (25 Punkte):**
-
-| Kriterium | Beschreibung | Punkte |
-|---|---|---|
-| Aufgabenerfüllung | These getroffen, alle vier Sprachfunktionen umgesetzt, Umfang eingehalten | 6 |
-| Kohärenz & Textaufbau | erkennbare Gliederung, Konnektoren, roter Faden, Titel | 5 |
-| Wortschatz | C1-Register, Fachbegriffe korrekt, Präzision, kaum Wiederholung | 5 |
-| Strukturen | Satzvariation, Konjunktiv, Passiv/Hedging, komplexe Nebensätze | 5 |
-| Korrektheit | Grammatik, Orthografie, Interpunktion | 4 |
-| **Summe** | | **25** |
-
-*Richtwert:* ab 20 Punkten sehr gut · 15–19 gut · 11–14 ausreichend ·
-unter 11 nicht bestanden.
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich benenne mindestens vier rhetorische Strategien mit dem
       korrekten Fachterminus.
 - [ ] Ich erkenne Präsuppositionsauslöser (*wieder, aufhören, wissen,
@@ -326,7 +330,7 @@ unter 11 nicht bestanden.
       distanzierendes Passiv).
 - [ ] Ich unterscheide kritische Analyse zuverlässig von bloßer Polemik.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

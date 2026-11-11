@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.01
-    - A2.PROD.creative-writing.07
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.INT.conversation.04
-    - A2.MED.collaborating-to-construct-meaning.01
+  - A2.INT.correspondence.01
+  - A2.PROD.creative-writing.07
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.INT.conversation.04
+  - A2.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a2/units/unit03_beim-arzt_exam
+  format: module-practice
+  duration_minutes:
+  points: 6
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit03_beim-arzt-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit03_beim-arzt-teacher.png
 audio_manifest: unit03_beim-arzt
 ---
 
@@ -81,14 +109,14 @@ Aus dem GER-Kompetenzprofil dieser Einheit:
 >
 > **Nadia:** Ja, das ist eine gute Idee. Gute Besserung!
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg**
 
 - Was tut Tom weh? Nennen Sie zwei Beschwerden.
 - Wann waren Sie zuletzt beim Arzt oder in der Apotheke?
 - Wie sagt man in Ihrer Sprache „Gute Besserung“?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz
 
 | Wort                     | Bedeutung                         |
@@ -184,8 +212,7 @@ Krankenkasse eine Person versichert ist.
 *(Paraphrasiert nach „Elektronische Gesundheitskarte“, Wikipedia,
 CC BY-SA 4.0 — siehe Quellen.)*
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Globalverstehen (leicht).** Richtig oder falsch?
 Kreuzen Sie an.
 
@@ -246,8 +273,7 @@ Kreuzen Sie an.
 Essen.
 
 {{< /details >}}
-## Anwenden
-
+## Anwenden {#apply}
 **Rollenspiel (Sprechen) — In der Apotheke.** Arbeiten Sie zu zweit.
 A = Patient:in, B = Apotheker:in. Spielen Sie ein kurzes Gespräch
 (6–8 Sätze).
@@ -270,72 +296,18 @@ A = Patient:in, B = Apotheker:in. Spielen Sie ein kurzes Gespräch
 | Verständlichkeit und Aussprache             |   2    |
 | **Gesamt**                                  | **10** |
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER A2 · Modul Hören · Teil 3 — Einzelgespräche verstehen**
+[Prüfungsübung öffnen]({{< relref "kurs_a2/units/unit03_beim-arzt_exam" >}}).
 
-**Aufgabenstellung:** Sie hören drei kurze Gespräche. Die Lehrkraft
-liest jeden Text **zweimal** vor. Wählen Sie die richtige Lösung:
-a, b oder c.
-
-*Hinweis: Eine Audio-Aufnahme kann später ergänzt werden. Bis dahin
-liest die Lehrkraft die Texte als Hörtext vor.*
-
-**Gespräch 1 — In der Praxis**
-
-> — „Guten Tag. Mein Kopf tut seit gestern weh und ich bin sehr müde.“
->
-> — „Haben Sie Fieber?“
->
-> — „Nein, kein Fieber. Nur Kopfschmerzen.“
->
-> — „Trinken Sie viel Wasser und schlafen Sie heute lange.“
-
-1. Welches Problem hat die Person?
-   a) Bauchschmerzen · b) Kopfschmerzen · c) Zahnschmerzen.
-
-**Gespräch 2 — In der Apotheke**
-
-> — „Hier ist Ihr Medikament. Nehmen Sie zweimal täglich eine
-> Tablette, morgens und abends. Das macht 8,20 Euro.“
-
-2. Wie oft nimmt die Person das Medikament?
-   a) einmal täglich · b) zweimal täglich · c) dreimal täglich.
-
-**Gespräch 3 — Am Telefon**
-
-> — „Kommst du morgen ins Büro?“
->
-> — „Nein, der Arzt hat mich bis Donnerstag krankgeschrieben.“
-
-3. Bis wann ist die Person krankgeschrieben?
-   a) Dienstag · b) Mittwoch · c) Donnerstag.
-
-**Punkte-Rubrik**
-
-| Aufgabe            | Punkte |
-|--------------------|:------:|
-| Item 1             |   2    |
-| Item 2             |   2    |
-| Item 3             |   2    |
-| **Gesamt**         | **6**  |
-
-*Bestanden ab 4 von 6 Punkten (ca. 60 %).*
-
-{{< details type="tip" title="Lösungen Prüfung" >}}
-1. b · 2. b · 3. c.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann meine Beschwerden mit „seit“ + Zeitangabe beschreiben.
 - [ ] Ich verstehe die Anweisungen der Ärztin (Imperativ, „sollen“).
 - [ ] Ich verstehe Dosierungsangaben („dreimal täglich nach dem Essen“).
 - [ ] Ich kann in der Apotheke nach Medikament und Preis fragen.
 - [ ] Ich kenne die wichtigsten Wörter: Rezept, Packung, Fieber, Mandeln.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten)**
 

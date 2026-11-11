@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: C1
   implements:
-    - C1.PROD.overall-written-production.02
-    - C1.REC.identifying-cues-and-inferring.01
-    - C1.REC.overall-oral-comprehension.02
-    - C1.PROD.compensating.01
-    - C1.MED.note-taking.01
+  - C1.PROD.overall-written-production.02
+  - C1.REC.identifying-cues-and-inferring.01
+  - C1.REC.overall-oral-comprehension.02
+  - C1.PROD.compensating.01
+  - C1.MED.note-taking.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_c1/units/unit05_identitaet-und-sprache_exam
+  format: module-practice
+  duration_minutes:
+  points: 25
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit05_identitaet-und-sprache-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit05_identitaet-und-sprache-teacher.png
 audio_manifest: unit05_identitaet-und-sprache
 ---
 
@@ -78,6 +106,7 @@ Akzent lauter war als ihr Lebenslauf. Derselbe Wortlaut — zwei
 Welten. Wer über Sprache spricht, spricht selten nur über
 Grammatik. Er verhandelt Zugehörigkeit.
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 - Welche Sprachen wohnen in Ihrem Alltag — die bewusst
@@ -91,8 +120,7 @@ Grammatik. Er verhandelt Zugehörigkeit.
   länger?
 
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz — Diskurs über Sprache und Zugehörigkeit
 
 | Ausdruck | Erläuterung / Register |
@@ -221,8 +249,7 @@ weit zurück. Gemeinfrei zitierbar ist Wilhelm von Humboldt
 > menschlichen Sprachbaues* (postum 1836, gemeinfrei)
 
 
-## Üben
-
+## Üben {#practise}
 > **Niveau-Differenzierung.** ● Basis (C1.1) · ◆ Standard (C1.2)
 > · ▲ Vertiefung (C1.2+). Wählen Sie Ihr Einstiegsniveau; die
 > Aufgaben bauen aufeinander auf.
@@ -295,8 +322,7 @@ Person“*) am Wortlaut zeigt und als Grenzziehung deutet.
 {{< /details >}}
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Schreibaufgabe (C1, ca. 300 Wörter) — essayistischer
 Forumsbeitrag.**
 
@@ -322,44 +348,11 @@ simplifizieren.**
       Perspektive verortet.
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER C1 · Modul Schreiben · Teil 1 — Meinungsbetonter Beitrag
-(ca. 230 Wörter).**
+[Prüfungsübung öffnen]({{< relref "kurs_c1/units/unit05_identitaet-und-sprache_exam" >}}).
 
-In einem überregionalen Online-Feuilleton ist folgende Behauptung
-erschienen:
-
-> *„Herkunftssprachen sollten an Schulen wie reguläre
-> Fremdsprachen unterrichtet werden — mit Curriculum, Note und
-> Prüfung. Alles andere ist folkloristische Symbolpolitik.“*
-
-Schreiben Sie einen Forenbeitrag, in dem Sie
-- den Kern der These präzise wiedergeben,
-- mit *zwei* Argumenten Stellung nehmen (darunter ein
-  Gegenargument, das Sie einordnen),
-- ein konkretes Beispiel anführen,
-- und mit einer abwägenden Schlussfolgerung enden.
-
-Register: essayistisch-argumentativ, durchgehend gehedgt.
-
-{{< callout type="note" >}}
-**Punkte-Rubrik (25 Punkte)**
-
-| Kriterium | Punkte |
-|---|---|
-| **Aufgabenerfüllung** — alle vier Leitpunkte inhaltlich bedient, Position erkennbar | 6 |
-| **Argumentation** — Trag­fähigkeit, Gegenargument eingeordnet, konkretes Beispiel integriert | 6 |
-| **Textaufbau & Kohärenz** — essayistische Progression, Konnektoren, Absatzlogik | 5 |
-| **Wortschatz** — Fachtermini korrekt, präzise Kollokationen, Register | 5 |
-| **Korrektheit & Heckung** — Morphosyntax, Modalisierung/Distanzierung C1-gerecht | 3 |
-
-**Schwelle:** ab 15/25 bestanden; ab 21/25 sehr gut.
-{{< /callout >}}
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich unterscheide *Code-Switching*, *Translanguaging* und
       *Heritage Speaker* sicher und gebrauche sie korrekt.
 - [ ] Ich lege in Identitätsdiskursen stille Voraussetzungen und
@@ -372,7 +365,7 @@ Register: essayistisch-argumentativ, durchgehend gehedgt.
       Prüfungsaufgabe.
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **45-Minuten-Taktung.**
 

@@ -6,8 +6,7 @@ unit_nr: 7
 cefr_can_do:
 - Ich kann ein kulturelles Missverständnis benennen und ausräumen.
 - Ich kann Register situationsadäquat wählen (förmlich / vertraut).
-- Ich kann eine Position höflich relativieren, wenn ich merke, dass ich anders gedacht
-  habe.
+- Ich kann eine Position höflich relativieren, wenn ich merke, dass ich anders gedacht habe.
 skills_focus:
 - language_awareness
 - sprechen
@@ -38,13 +37,42 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.conversation.02
-    - B1.LING.general-linguistic-range.01
-    - B1.PROD.monitoring-and-repair.01
-    - B1.INT.goal-oriented-co-operation.02
-    - B1.MED.collaborating-to-construct-meaning.01
+  - B1.INT.conversation.02
+  - B1.LING.general-linguistic-range.01
+  - B1.PROD.monitoring-and-repair.01
+  - B1.INT.goal-oriented-co-operation.02
+  - B1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit07_interkulturelle-begegnung_exam
+  format: module-practice
+  duration_minutes: 3
+  points: 15
+  skills:
+  - language_awareness
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit07_interkulturelle-begegnung-teacher.pdf
+  thumbnail:
+    /daf/materials/worksheets/unit07_interkulturelle-begegnung-teacher.png
 audio_manifest: unit07_interkulturelle-begegnung
 ---
 
@@ -80,6 +108,7 @@ Selbstgebackenem Nähe — wer nicht kostet, weist die Person zurück. Steffi
 dagegen dachte nur: „Ich will niemandem etwas wegnehmen, das teile ich lieber
 mit allen.“ Beide meinten es gut. Trotzdem ging etwas schief.
 
+## Aktivieren {#activate}
 **Sprechen Sie zu zweit:**
 
 - Haben Sie selbst schon ein Missverständnis erlebt, das **kulturell** und
@@ -89,8 +118,7 @@ mit allen.“ Beide meinten es gut. Trotzdem ging etwas schief.
 - Wer entscheidet eigentlich, wann man vom *Sie* zum *Du* wechselt?
 
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz — über Missverständnisse und Lösungen sprechen
 
 | Deutsch | Wortart / Beispiel | Bedeutung (Umschreibung) |
@@ -171,8 +199,7 @@ Person die Chance, ihre Absicht zu erklären.
 | Sich einigen | *„Abgemacht — beim nächsten Mal frage ich vorher.“* | *„Okay, machen wir so.“* |
 
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Wortschatz zuordnen (rezeptiv).** Welches Verb passt? Ergänzen
 Sie aus dem Kasten: *ausräumen · nachfragen · relativieren · Rücksicht nehmen*.
 
@@ -239,8 +266,7 @@ Respekt zeigen kann.“*
 {{< /details >}}
 
 
-## Anwenden
-
+## Anwenden {#apply}
 **Rollenspiel „Missverständnis klären“ (Paar, ca. 5 Minuten pro Paar).**
 
 Person A hat Person B zu einem wichtigen Familienfest eingeladen. Person B hat
@@ -263,38 +289,11 @@ abgesagt, ohne einen Grund zu nennen, und A war gekränkt. Spielen Sie das
 - [ ] Am Ende steht eine **gemeinsame Einigung**.
 
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 · Modul Sprechen, Teil 1 — Gemeinsam etwas planen und aushandeln.**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit07_interkulturelle-begegnung_exam" >}}).
 
-**Aufgabenstellung:** Sie planen mit Ihrer Prüfungspartnerin / Ihrem
-Prüfungspartner ein **interkulturelles Willkommensfest** für neue Kolleginnen
-und Kollegen im Kurs. Sprechen Sie darüber, machen Sie Vorschläge, reagieren
-Sie auf die Vorschläge der anderen Person und **einigen Sie sich auf alle vier
-Leitpunkte**:
-
-1. **Wann?** (Datum, Uhrzeit)
-2. **Wo?** (Restaurant, Kursraum, Park)
-3. **Was essen und trinken?** (auf verschiedene Kulturen und Vorlieben achten)
-4. **Wer organisiert was?** (Aufgaben verteilen)
-
-**Dauer:** ca. 3 Minuten.
-
-**Punkte-Rubrik (max. 15 Punkte):**
-
-| Kriterium | Beschreibung | Punkte |
-|---|---|---|
-| Aufgabenerfüllung | Alle vier Leitpunkte werden besprochen und eine Einigung erreicht | 0–4 |
-| Interaktion | Vorschläge machen, auf die andere Person eingehen, nachfragen | 0–3 |
-| Wortschatz | Themenwortschatz (Fest, Einladung, Absprache) angemessen | 0–3 |
-| Strukturen | Konjunktiv II, Nebensätze (*weil*, *dass*, *wenn*) korrekt | 0–3 |
-| Aussprache & Register | Verständlich; Register passend zur Partnersituation | 0–2 |
-
-**Bestehensgrenze:** ca. 60 % (9 von 15 Punkten).
-
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann ein kulturelles Missverständnis in eigenen Worten erklären,
       ohne die andere Person zu verurteilen.
 - [ ] Ich kann zwischen förmlichem (Sie) und vertrautem (Du) Register
@@ -304,7 +303,7 @@ Leitpunkte**:
 - [ ] Ich kann in einem Konfliktgespräch nachfragen, statt sofort zu urteilen.
 
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

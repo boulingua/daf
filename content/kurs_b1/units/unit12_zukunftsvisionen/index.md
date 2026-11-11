@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.interviewing-and-being-interviewed.02
-    - B1.PROD.monitoring-and-repair.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.conversation.02
-    - B1.LING.orthographic-control.01
+  - B1.INT.interviewing-and-being-interviewed.02
+  - B1.PROD.monitoring-and-repair.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.conversation.02
+  - B1.LING.orthographic-control.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_b1/units/unit12_zukunftsvisionen_exam
+  format: module-practice
+  duration_minutes:
+  points: 8
+  skills:
+  - listening
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit12_zukunftsvisionen-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit12_zukunftsvisionen-teacher.png
 audio_manifest: unit12_zukunftsvisionen
 ---
 
@@ -78,6 +106,7 @@ darüber **nachdenken** und **Vermutungen** anstellen. Genau dafür
 brauchen wir den **Konjunktiv II**: die Form für Träume, Wünsche
 und Möglichkeiten.
 
+## Aktivieren {#activate}
 **Sprechen Sie zu zweit:**
 
 - Wenn Sie eine Sache in Ihrer Stadt bis 2040 ändern **könnten** —
@@ -86,8 +115,7 @@ und Möglichkeiten.
   Bürgermeister wären?
 - Welche Veränderung **würde** Ihnen Sorgen machen? Warum?
 
-## Input
-
+## Input {#input}
 ### A. Wortschatz: Über die Zukunft sprechen
 
 | Deutsch                       | Wortart / Beispiel                                  |
@@ -187,8 +215,7 @@ Vermutungen. Genau deshalb passt der Konjunktiv II so gut: *Wenn
 mehr ältere Menschen bei uns lebten, bräuchten wir mehr Pflege
 und barrierefreie Wohnungen.*
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Hörverstehen: Wer wünscht sich was?**
 Ordnen Sie nach dem Hörtext zu.
 (M = Milos · N = Noa · L = Dr. Lenz · K = Malik)
@@ -275,8 +302,7 @@ immer mehr Menschen in die Städte ziehen.*
 
 {{< /details >}}
 
-## Anwenden
-
+## Anwenden {#apply}
 **Präsentation: „Meine Vision für 2040" (B1-Sprechen, Vorbereitung
 auf Teil 2)**
 
@@ -308,45 +334,11 @@ Halten Sie eine kurze Präsentation (ca. 3 Minuten, 4–5 Folien) zu
 Eine mithörende Person gibt danach **ein Lob** und stellt **eine
 Rückfrage** auf B1 (*Warum würdest du …? Wie könnte man …?*).
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER B1 Hören, Teil 4 — Zuordnung (Meinungen von Personen)**
+[Prüfungsübung öffnen]({{< relref "kurs_b1/units/unit12_zukunftsvisionen_exam" >}}).
 
-**Aufgabenstellung:** Sie hören den Podcast „Morgen könnte anders
-sein" (Abschnitt C) **einmal**. Ordnen Sie die acht Aussagen den
-vier Personen zu. **Eine** Aussage passt zu **keiner** Person
-(Distraktor). Schreiben Sie M, N, L, K oder „—".
-
-1. „Kleine Arbeitsorte im Dorf würden Pendelzeit sparen." → ____
-2. „Ich hätte gern einen festen Ort zum Zurückkehren." → ____
-3. „Auf dem Land fehlen bald Ärztinnen und Ärzte." → ____
-4. „Fakten und Meinungen sollte man klarer trennen." → ____
-5. „Bewegungsfreiheit zwischen Ländern wäre mir wichtig." → ____
-6. „Videosprechstunden könnten den Arzt vor Ort nicht ersetzen." → ____
-7. „Roboter würden 2040 alle Berufe übernehmen." → ____
-8. „Mehr Zeit für die Familie wäre der größte Fortschritt." → ____
-
-{{< details type="tip" title="Lösung & Punkte-Rubrik" >}}
-
-**Lösung:** 1 = M · 2 = N · 3 = L · 4 = K · 5 = N · 6 = L ·
-7 = — (Distraktor) · 8 = M.
-
-**Punkte-Rubrik (max. 7 Punkte):**
-
-| Punkte | Leistung                                            |
-|--------|-----------------------------------------------------|
-| 7      | Alle 7 Zuordnungen richtig (Distraktor erkannt).    |
-| 5–6    | Kleine Unsicherheiten, Hauptaussagen erkannt.       |
-| 3–4    | Etwa die Hälfte richtig; Personen teils verwechselt. |
-| 0–2    | Hauptaussagen überwiegend nicht erfasst.            |
-
-*Hinweis:* Der Distraktor (Nr. 7) kommt im Hörtext **nicht** vor —
-wer ihn einer Person zuordnet, verliert dort den Punkt.
-
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann einem Podcast über die Zukunft in den Hauptaussagen
       folgen.
 - [ ] Ich kann Meinungen von vier Personen richtig zuordnen.
@@ -362,7 +354,7 @@ Kompetenzen sind seit Einheit 1 am meisten gewachsen? Und wenn Sie
 den Kurs noch einmal beginnen könnten — was würden Sie anders
 machen?*
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):**
 

@@ -37,13 +37,41 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.creative-writing.02
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.INT.goal-oriented-online-transactions-and-collaboration.01
-    - A1.LING.orthographic-control.01
+  - A1.INT.correspondence.03
+  - A1.PROD.creative-writing.02
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.INT.goal-oriented-online-transactions-and-collaboration.01
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   # implements: chosen by hand — see `conformance_audit.py suggest --page`
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  practise:
+  - üben
+  apply:
+  - anwenden
+  reflect:
+  - reflexion
+  teacher-notes:
+  - hinweise-für-lehrkräfte
+  exam:
+  - prüfung
+exam:
+  page: kurs_a1/units/unit05_essen-und-trinken_exam
+  format: module-practice
+  duration_minutes:
+  points: 3
+  skills:
+  - reading
+  - sprechen
+worksheet_teacher:
+  file: /daf/materials/worksheets/unit05_essen-und-trinken-teacher.pdf
+  thumbnail: /daf/materials/worksheets/unit05_essen-und-trinken-teacher.png
 audio_manifest: unit05_essen-und-trinken
 ---
 
@@ -84,14 +112,14 @@ Es ist Samstag. Mia, Tom und Frau Berg sitzen im Café „Sonne“. Der Kellner 
 >
 > **Herr Klein:** Sehr gern. Kommt sofort!
 
+## Aktivieren {#activate}
 **Fragen zum Einstieg:**
 
 1. Was möchte Mia trinken?
 2. Wer mag keinen Kaffee?
 3. Und Sie: Was trinken Sie gern?
 
-## Input
-
+## Input {#input}
 ### A. Vokabeltabelle
 
 | Wort              | Bedeutung                        |
@@ -137,8 +165,7 @@ Frau Berg isst gern Brot mit Käse zum Frühstück. Sie trinkt einen Tee. Ihr So
 
 In Deutschland gibt es oft drei Mahlzeiten: das **Frühstück** am Morgen, das **Mittagessen** am Mittag und das **Abendbrot** am Abend. Das Abendbrot ist traditionell eine kalte Mahlzeit mit Brot, Käse und Wurst — der Name kommt vom Wort *Brot*. Das warme Essen gibt es oft mittags. (Paraphrasiert nach Wikipedia, „Abendbrot“, CC BY-SA.)
 
-## Üben
-
+## Üben {#practise}
 **Aufgabe 1 — Zuordnen.** Essen oder Getränk? Schreibe **E** (Essen) oder **G** (Getränk).
 
 - Brot ___ · Kaffee ___ · Apfel ___ · Wasser ___ · Käse ___ · Saft ___ · Ei ___ · Milch ___
@@ -182,8 +209,7 @@ In Deutschland gibt es oft drei Mahlzeiten: das **Frühstück** am Morgen, das *
 
 **Niveau-Differenzierung:** *Leichter* — Lernende zeigen auf Bilder und sagen nur das Wort (*Kaffee*). *Schwerer* — Lernende bilden ganze Sätze mit *mögen* und begründen kurz: *Ich mag Tee, denn Tee ist warm.*
 
-## Anwenden
-
+## Anwenden {#apply}
 **Sprechaufgabe — Im Café (zu zweit).** A ist Kellner:in, B ist Gast. B bestellt **zwei Dinge** (etwas zum Essen und etwas zum Trinken) und sagt einmal: *Ich mag … / Ich mag … nicht.* A nennt den Preis. Dann wechseln Sie die Rollen.
 
 **Bewertungskriterien:**
@@ -192,36 +218,17 @@ In Deutschland gibt es oft drei Mahlzeiten: das **Frühstück** am Morgen, das *
 - Ich benutze *Ich möchte …* oder *Ich nehme …*.
 - Ich sage einmal, was ich mag oder nicht mag.
 
-## Prüfung
+## Prüfung {#exam}
 
-**GER-Prüfung A1 · Modul Lesen, Teil 1 — Richtig oder Falsch?**
+[Prüfungsübung öffnen]({{< relref "kurs_a1/units/unit05_essen-und-trinken_exam" >}}).
 
-Lies die Nachricht. Sind die Aussagen *richtig* oder *falsch*?
-
-> Hallo Tom,
->
-> heute Abend koche ich eine Suppe. Ich mag Suppe sehr gern! Du magst keine Suppe, oder? Für dich habe ich ein Käsebrot. Wir trinken Tee. Kommst du um 18 Uhr?
->
-> Mia
-
-1. Mia kocht am Abend eine Suppe.
-2. Tom mag Suppe sehr gern.
-3. Für Tom gibt es ein Käsebrot.
-
-**Punkte-Rubrik (3 Punkte):** Pro richtige Antwort 1 Punkt. 3 P = sehr gut · 2 P = gut · 0–1 P = bitte wiederholen.
-
-{{< details type="tip" title="Lösungen" >}}
-1. Richtig · 2. Falsch (Tom mag keine Suppe) · 3. Richtig
-{{< /details >}}
-
-## Reflexion
-
+## Reflexion {#reflect}
 - [ ] Ich kann 10+ Wörter für Essen und Trinken sagen.
 - [ ] Ich kann sagen, was ich mag und nicht mag.
 - [ ] Ich kann eine einfache Speisekarte lesen.
 - [ ] Ich kann im Café etwas bestellen.
 
-## Hinweise für Lehrkräfte
+## Hinweise für Lehrkräfte {#teacher-notes}
 
 **Zeitplan (45 Minuten):** Einstieg 5' · Input 12' · Üben 15' · Anwenden 8' · Prüfungsvorschau + Reflexion 5'.
 

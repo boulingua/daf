@@ -1,0 +1,1431 @@
+{
+  "date": "2026-10-31",
+  "review_status": "editorial-repair-complete-human-validation-pending",
+  "external_sources": [
+    {
+      "url": "https://de.wikisource.org/wiki/Vor_dem_Gesetz",
+      "purpose": "Kafka public-domain primary text; sentence H"
+    },
+    {
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/Methoden/Erlaeuterungen/verbraucherpreisindex.html",
+      "purpose": "VPI definition"
+    }
+  ],
+  "records": [
+    {
+      "path": "content/kurs_a1/units/unit01_begruessung-und-name_exam/index.md",
+      "before_sha256": "8c464f9579ce3f8129df599963b42b5f1f8a441ef224a94a45c5a19d04bb1633",
+      "after_sha256": "e0ed7b14f93bccebb92f69c1a49f40fcbfc2d09188c7af9e5c1ace14cf3e9875",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit01_begruessung-und-name_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved complete task-specific model responses into explicit teacher-only key; rubric stays public."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "fdc3aa2592addc440419ff2eeaf0d71a019a901f8fe0d3de83076cebcabef943",
+          "after_sha256": "e0ed7b14f93bccebb92f69c1a49f40fcbfc2d09188c7af9e5c1ace14cf3e9875",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit04_meine-wohnung_exam/index.md",
+      "before_sha256": "b8ee00de66ba114e942e96534f6a36e324193b3fab7b49eaaec12ba15400c73a",
+      "after_sha256": "9e45ec2deb1d1e39ba154f31d84595c11a395bafdad00dc025c17d9f2d7adc96",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit04_meine-wohnung_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Replaced 'Staatsangehörigkeit' with 'Herkunftsland'",
+        "Replaced 'Herkunftsland: portugiesisch' with 'Herkunftsland: Portugal'",
+        "Replaced '**Anmeldung einer Wohnung — Stadt Frankfurt**' with '**Übungsformular — Wohnung in Frankfurt**'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "299f8e6e769b66af95bc21661c596ee301fb8e8f41907bec80513f7d920d871e",
+          "after_sha256": "9e45ec2deb1d1e39ba154f31d84595c11a395bafdad00dc025c17d9f2d7adc96",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam/index.md",
+      "before_sha256": "54fa0c3fbe4141f3cec60f86af6c9e4cc836027e59a98bf075179a8ee4f63404",
+      "after_sha256": "d831ca1b2cb1db936fce4e7364157fac045cd6e34ca3d6d8fa99e63b22c0939d",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit07_uhrzeit-und-wochenplan_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved complete task-specific model responses into explicit teacher-only key; rubric stays public.",
+        "Replaced 'leider kann ich heute nicht in den Kurs kommen. Ich bin krank.' with 'leider kann ich am Donnerstag um 9 Uhr nicht in den Kurs kommen. Ich bin krank.'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "e7060c0abb2ec1724637b1b1cf2f634cec93a93235697a52832222a458a36f1b",
+          "after_sha256": "d831ca1b2cb1db936fce4e7364157fac045cd6e34ca3d6d8fa99e63b22c0939d",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit03_woher-kommst-du_exam/index.md",
+      "before_sha256": "2cbf89b55b01517f964142ede71bb3ac20739a7d5d08bf521b3fc9889de73137",
+      "after_sha256": "81cd1eeb2cd3590889d18d4cd5cffd9b2b9afd4d6bccec36a6a7b914de34da31",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit03_woher-kommst-du_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved the three exact existing spoken transcripts out of learner questions into role=key, preserving ordering."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "ac25a63a20cfc260c9f95b22b147a6437df1a04a5fba7dd1aa90165dd0251d3e",
+          "after_sha256": "81cd1eeb2cd3590889d18d4cd5cffd9b2b9afd4d6bccec36a6a7b914de34da31",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit11_meine-freizeit_exam/index.md",
+      "before_sha256": "e13f31e781f7656f83247198efc6390b6702db89cb8f59dd8f8913354ac365ad",
+      "after_sha256": "2a9cdbf0062a2fc4008e734c03170fb9f212d16ba236d3dc9c683809e5578327",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit11_meine-freizeit_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "9a2b5c509e86cabd35fbc59d7da88aec2fd72fe5e573a9b37007a7d00a1c9d4c",
+          "after_sha256": "2a9cdbf0062a2fc4008e734c03170fb9f212d16ba236d3dc9c683809e5578327",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit02_meine-familie_exam/index.md",
+      "before_sha256": "395ec5b43322d66ebec8ef1693abcbcb809ff7510d14b3fd293a96b52653f6a4",
+      "after_sha256": "2ec9f85ac5c83db16ea80d4ac1e5516ce3e78684fa64baac6eab2ccd91b69a7d",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit02_meine-familie_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "83f3820417ad9e640734ec05578940b06c33ccfd23980ddb3d4b48a4923b0502",
+          "after_sha256": "2ec9f85ac5c83db16ea80d4ac1e5516ce3e78684fa64baac6eab2ccd91b69a7d",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit10_mein-beruf_exam/index.md",
+      "before_sha256": "bf77edb4a4e28e88ece47774d8e90ef5c5152e525fca191ad9786a7d53c89051",
+      "after_sha256": "b862c0e1ecd51e82d7b2b3097d7c3fee812066b887aa95320b67152d9bfd2dad",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit10_mein-beruf_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "d3ff54b0510381c5b7ac139eaceb6f1aae24b839985884666902e45d67b350f3",
+          "after_sha256": "b862c0e1ecd51e82d7b2b3097d7c3fee812066b887aa95320b67152d9bfd2dad",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit06_einkaufen-und-preise_exam/index.md",
+      "before_sha256": "a260854b2857a2641c7a6504664808f1112082716f49fa84560f1babf0c35c07",
+      "after_sha256": "e5ccc69ae5412094271873552017e254db876990c4973797a71347173dd74f16",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit06_einkaufen-und-preise_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Separated the five existing announcements from learner true/false statements."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "a0811d337f2dffa35ed9277be304cb25eaf1314bea0fe17c8119f2a8d1f9c888",
+          "after_sha256": "e5ccc69ae5412094271873552017e254db876990c4973797a71347173dd74f16",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit08_wetter-und-jahreszeiten_exam/index.md",
+      "before_sha256": "d48f3f7a67d08e7ed8efcbddc8f7b1d994b6325d6e69834fb56a914976382955",
+      "after_sha256": "ad31198a51e374c225c8fc5b2690143ad2fd9bddf5636126f151d6c0a2a2adf3",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit08_wetter-und-jahreszeiten_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved the three exact existing spoken transcripts out of learner questions into role=key, preserving ordering."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "4bdc612fe9f2c88b1bb364a38d823cc1d26c10312b5975d143a8a5fcbd8c45c0",
+          "after_sha256": "ad31198a51e374c225c8fc5b2690143ad2fd9bddf5636126f151d6c0a2a2adf3",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit05_essen-und-trinken_exam/index.md",
+      "before_sha256": "d744c730c840f9e4dc3a9afdbb51eb389f251fedfbac4927c3da253978fc6687",
+      "after_sha256": "e116b63d335df7d4fc647d6233388b59e8351dff6643cdb87c98ffd0d5dffdc0",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit05_essen-und-trinken_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "016cdce9c2d70763ef1cad7e96bc8fb4ed96e3232658f86ed818179237e60c1e",
+          "after_sha256": "e116b63d335df7d4fc647d6233388b59e8351dff6643cdb87c98ffd0d5dffdc0",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit09_koerper-und-gesundheit_exam/index.md",
+      "before_sha256": "866bbfbb131dbf1f4ab42552deba12c0a1a7662e17f45d0cfd1f1ca5b36c216c",
+      "after_sha256": "189648f10b815ff87100545049cc4094baedd8012f9efbad7b94f93a3a0fc924",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit09_koerper-und-gesundheit_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved complete task-specific model responses into explicit teacher-only key; rubric stays public."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "d31c0416adf81e72f24e15e47a031930d34d1ba030a425e64fe9573a26fb7855",
+          "after_sha256": "189648f10b815ff87100545049cc4094baedd8012f9efbad7b94f93a3a0fc924",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a1/units/unit12_reisen-und-unterwegs_exam/index.md",
+      "before_sha256": "d23278852d93bda5c68db02db50b62beada04b2049fe96fc7d2eca794f1eec73",
+      "after_sha256": "9be8cc117538feeefb6940584db2528005b2acc20b3254e875a943591c21b3a1",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a1/units/unit12_reisen-und-unterwegs_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "96a83d16768fdb8a9a6c55a605a6c6a85dcaade97e55b6f7d02c9ab097b3675b",
+          "after_sha256": "9be8cc117538feeefb6940584db2528005b2acc20b3254e875a943591c21b3a1",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet_exam/index.md",
+      "before_sha256": "1534b41de4d1b4e1d7d177bf566009cd28ccff2984ecad46ea3328e5ca45dd48",
+      "after_sha256": "c9c0b1dee1e19dfdef112094665be5e5d6e90fdd0d33c988ef9a09f0b6f90f94",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit06_umwelt-und-mobilitaet_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section A spoken content; assessment hearing count 1 controls delivery; source classroom instructions omitted.",
+        "Replaced 'sicheres B1-Hörverstehen' with 'Hauptaussagen weitgehend sicher erfasst'",
+        "Replaced 'B1 erreicht, mit kleinen Lücken' with 'Mehrheit der Zuordnungen richtig'"
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b1/units/unit06_umwelt-und-mobilitaet/index.md",
+          "source_sha256": "2bce4a64717a95816a51509aaf104f21bb06f291114e7eee096518c57f821f62",
+          "section": "A",
+          "excerpt_sha256": "a3d3c6e884e305665e84626c890f37300cc7f0a0ad86f98d31932b57ff6386ad",
+          "excerpt": "### A. Hörtext (zum Vorlesen) — Ausschnitt aus der Podiumsdiskussion\n\n{{< callout type=\"info\" >}}\n**Für die Lehrkraft:** Lesen Sie den Text einmal ruhig und\ndeutlich vor (ca. 2 Minuten). Die Lernenden hören zunächst nur zu,\nohne mitzulesen. Danach folgen die Aufgaben im Teil **Üben**.\n{{< /callout >}}\n\n> **Nihad (Moderation):** Frau Mišić, Sarajevo hat noch keine\n> autofreie Innenstadt. Wäre so etwas bei uns überhaupt umsetzbar?\n>\n> **Amina Mišić:** Technisch ja, politisch ist es kompliziert. In\n> den letzten Jahren haben wir in einigen Stadtteilen die\n> Fußgängerzonen erweitert. Aber das Entscheidende ist: Bevor man\n> die Autos rausnimmt, muss der öffentliche Verkehr funktionieren.\n> Sonst ist der Frust bei den Menschen riesig.\n>\n> **Kjell Baumann:** Genau dieses Argument höre ich in Köln auch.\n> Wir sagen dann immer: Wir fangen mit *einem* Viertel an, dann\n> kommt das nächste. Inzwischen gibt es bei uns fünf\n> verkehrsberuhigte Quartiere. Nach sechs Monaten waren die\n> Anwohner:innen begeistert, weil die Kinder wieder auf der Straße\n> spielen konnten.\n>\n> **Herr Tanner:** Das hört sich schön an, aber für uns Ältere ist\n> das Auto oft die einzige Möglichkeit, zum Arzt, zum Einkauf oder\n> zur Familie zu kommen. In Salzburg ist meine Bushaltestelle 800\n> Meter weg — und das bergauf. Ich frage mich: Wer denkt\n> eigentlich an uns?\n>\n> **Kjell Baumann:** Das ist ein wichtiger Punkt, den man ernst\n> nehmen muss. Ich glaube auch nicht an die *komplett* autofreie\n> Stadt. Ich glaube an die *fast* autofreie Stadt, in der es klare\n> Ausnahmen gibt — für den Lieferverkehr, für den Rettungsdienst\n> und für Menschen mit eingeschränkter Mobilität.\n>\n> **Amina Mišić:** Und man darf eines nicht vergessen: Viele\n> Fahrten in unseren Städten sind sehr kurz. Auf so kurzen Strecken\n> könnten viele Menschen aufs Rad umsteigen. Aber dafür brauchen\n> wir Radwege, die wirklich sicher sind.\n>\n> **Herr Tanner:** Das stimmt, und ehrlich gesagt: Ich selbst würde\n> wieder Rad fahren, wenn ich mich trauen würde. Als junger Mann\n> bin ich jeden Tag mit dem Rad gefahren.\n>\n> **Nihad (Moderation):** Also, wenn ich Sie richtig verstehe: Es\n> geht nicht um „Auto gegen Rad“, sondern um gute Bedingungen für\n> alle. Vielen Dank — wir öffnen jetzt die Runde für Fragen aus dem\n> Publikum."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "88a383f63bea56929401b506ac53cbcbca4db77ac8c43d114d60de72541d85bd",
+          "after_sha256": "c9c0b1dee1e19dfdef112094665be5e5d6e90fdd0d33c988ef9a09f0b6f90f94",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit07_interkulturelle-begegnung_exam/index.md",
+      "before_sha256": "523d37cab3e3ca9cd41b974211040a62158ce2da1e124cb8ac699c5de84853ac",
+      "after_sha256": "4d011f3060f7d8de9dac02255fb222d46a9199f19f11071db0bb857eb9908ac3",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit07_interkulturelle-begegnung_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "4f426592ed234c72ce9bd6c059f8e537acfa37ce3e1e7f0378bcecb5111f4dde",
+          "after_sha256": "4d011f3060f7d8de9dac02255fb222d46a9199f19f11071db0bb857eb9908ac3",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit10_politik-und-teilhabe_exam/index.md",
+      "before_sha256": "cf0bafe221db17add0ba1f880683ae0387b7ecc692255d2bcf3e7ea57e8dbe5d",
+      "after_sha256": "9907380f66b095992a0a858146d1180568180ef9cec75fb4782c9922161aea05",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit10_politik-und-teilhabe_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "e5f5732be2287410cbc0de63b912a9e43b90b41764d545bffda709cd60925831",
+          "after_sha256": "9907380f66b095992a0a858146d1180568180ef9cec75fb4782c9922161aea05",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "before_sha256": "568850843a00c72be1e16ed625b1a00ae450636d4f63bb671b6b2f07b93e2a6e",
+      "after_sha256": "424431e3d1233d94093f746dd68b58db84b88e788058a3f19dc264e6c31bf575",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit04_gesundheitssystem-dach_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted.",
+        "Replaced 'Die Lehrkraft liest den Hörtext (Abschnitt\\nC) noch einmal vor. Ordnen Sie die acht Aussagen den drei Ländern\\nzu: **DE**, **AT** oder **CH**. Eine Aussage passt zu **keinem**\\nLand (Distraktor). Pro Aussage kreuzen Sie genau ein Feld an.' with 'Die Lehrkraft liest den unten für sie bereitgestellten Unterrichtstext zweimal vor. Ordnen Sie die acht Aussagen ausschließlich nach diesem Text zu: **DE**, **AT**, **CH** oder **keines**. Mehrere Länder können zu einer Aussage passen. Kreuzen Sie dann alle passenden Länder an; „keines“ darf nicht zusammen mit einem Land stehen. Der historische Modelltext ist keine aktuelle Auskunft zu Versicherungsleistungen.'",
+        "Replaced 'Aussagen 1–7 richtig zugeordnet (je 1 Punkt)' with 'Aussagen 1–7: vollständige richtige Ländermenge (je 1 Punkt)'",
+        "Replaced '6 = DE/AT (beide\\nakzeptiert, da im Hörtext für DE genannt und für AT „wieder\\nhalbe-halbe“)' with '6 = DE **und** AT (beide müssen markiert sein, da im Hörtext für DE genannt und für AT „wieder halbe-halbe“)'",
+        "Removed unsupported free-choice claim from item1; corrected malformed table; learner rubric no longer identifies distractor8."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b1/units/unit04_gesundheitssystem-dach/index.md",
+          "source_sha256": "06af6e14a194a3a555c6ce6a8a79e21260baa4cd800529321472e5da6779d8b0",
+          "section": "C",
+          "excerpt_sha256": "853c99d63b8b2c94de8d65b8497997d4fbc5d3281a8c1b4a1c4c2b987d8ce3e8",
+          "excerpt": "### C. Hörtext (zum Vorlesen) — Podcast „Sprechstunde“\n\n> *Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten\n> Mal hören die Lernenden nur zu, beim zweiten Mal machen sie\n> Notizen.*\n\n**Moderator:** Willkommen zur „Sprechstunde“. Heute geht es um die\nKrankenversicherung in Deutschland, Österreich und der Schweiz.\nFrau Dr. Lenz, wo liegen die größten Unterschiede?\n\n**Dr. Lenz:** Auf den ersten Blick sehen die drei Länder ähnlich\naus, denn überall gibt es eine Versicherungspflicht. Aber die\nUmsetzung ist verschieden. In **Deutschland** sind rund neunzig\nProzent der Menschen gesetzlich versichert. Die Beiträge hängen\nvom Einkommen ab, und Arbeitgeber und Arbeitnehmer zahlen sie\nungefähr je zur Hälfte.\n\n**Moderator:** Und in Österreich?\n\n**Dr. Lenz:** In **Österreich** ist der Beitrag ebenfalls vom\nEinkommen abhängig — aktuell etwa 7,65 Prozent, wieder etwa\nhalbe-halbe zwischen Betrieb und beschäftigter Person. Früher gab\nes viele Kassen je nach Beruf. Seit 2019 wurden sie in der ÖGK\nzusammengeführt, also in der Österreichischen Gesundheitskasse.\n\n**Moderator:** Die Schweiz gilt als das teuerste System.\n\n**Dr. Lenz:** Ja. In der **Schweiz** zahlt man keine Beiträge nach\nEinkommen, sondern eine feste Prämie pro Kopf. Je nach Region\nliegt sie ungefähr zwischen 230 und 430 Franken im Monat. Dazu\nkommt die Franchise: Erwachsene zahlen die ersten 300 Franken pro\nJahr selbst, und man kann freiwillig eine höhere Franchise bis\n2500 Franken wählen. Wer das tut, zahlt eine niedrigere Prämie,\nträgt aber mehr Risiko.\n\n**Moderator:** Und danach ist alles bezahlt?\n\n**Dr. Lenz:** Nicht ganz. Nach der Franchise kommt noch ein\nSelbstbehalt von zehn Prozent, maximal 700 Franken im Jahr. Das\nüberrascht viele, die aus Deutschland zuziehen.",
+          "source_revision": {
+            "source_sha256": "7fc11fb538fd2d3b553c7da6cf7224f1ac09134b44269b2e155f9b9fa3fe2206",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "4901bf794fc42fea111184742ffe257935cc1f9b07246d21306162d7420d7ada",
+          "after_sha256": "92b21896f524feea277f66d9b50bf94a37481e6a3f60298977dd998699d6f3ca",
+          "decision": "Removed unsupported free-choice claim from item1; corrected malformed table; learner rubric no longer identifies distractor8."
+        },
+        {
+          "before_sha256": "92b21896f524feea277f66d9b50bf94a37481e6a3f60298977dd998699d6f3ca",
+          "after_sha256": "0dfd8327b1442b673d67bc3ab3e591c2ac1b04bb4f438e8ecaca802fa87e688d",
+          "decision": "Official-source coherence corrections; see docs/factual-source-repairs/2026-10-31/manifest.json"
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "0dfd8327b1442b673d67bc3ab3e591c2ac1b04bb4f438e8ecaca802fa87e688d",
+          "after_sha256": "424431e3d1233d94093f746dd68b58db84b88e788058a3f19dc264e6c31bf575",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit08_stadt-und-land_exam/index.md",
+      "before_sha256": "27a6f987cce93b7e985dbabb5b0ace48dd575dcda13677176676231ef9576e6d",
+      "after_sha256": "cfc114e10b4bfdc371002d08e4cc4ae82ed533c3ebf91d45a2aad6efa738b977",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit08_stadt-und-land_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Copied only Robert letter; omitted inconsistent source heading (age54/since30years versus moved18) while preserving letter text.",
+        "Supplied actual existing reading source in learner Textgrundlage, without source unit model analysis.",
+        "Replaced 'Robert ist in der Großstadt geboren.' with 'Robert ist in der Großstadt aufgewachsen.'",
+        "Replaced dependent rereading direction with standalone source direction."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b1/units/unit08_stadt-und-land/index.md",
+          "source_sha256": "d3748d82fdb7d00baf63a973b05d3dbf43199d9b9e50e7706878b3a3812f6372",
+          "section": "C",
+          "excerpt_sha256": "aaa76c83d5db23de291034bc1b1f480ab16dfe265a6c155a339e4e17a43f4d4f",
+          "excerpt": "### C. Zwei Leserbriefe (Originaltexte)\n\n**Brief 1 — Yasmin, 29, gerade von der Stadt aufs Land gezogen**\n\n> Vor einem Jahr sind mein Partner und ich aus der Innenstadt in\n> ein kleines Dorf gezogen. Damals dachte ich, ich würde die Stadt\n> jeden Tag vermissen. Heute weiß ich: Das stimmt nicht. Weil wir\n> jetzt im Homeoffice arbeiten, brauchen wir das tägliche Pendeln\n> nicht mehr. Morgens höre ich Vögel statt Straßenlärm, und die\n> Miete ist nur halb so hoch wie früher. Obwohl vieles besser\n> geworden ist, gebe ich zu, dass nicht alles einfach ist. Der\n> Bus fährt nur fünfmal am Tag, und die nächste Ärztin ist\n> zwanzig Minuten entfernt. Als unser Auto letzte Woche kaputt\n> ging, haben wir gemerkt, wie abhängig wir von ihm sind. Trotzdem\n> würde ich nicht zurückziehen. Ich glaube, dass das Land heute\n> eine echte Alternative ist — aber nur, wenn man flexibel\n> arbeiten kann und bereit ist, Kompromisse zu machen. Wer diese\n> Freiheit nicht hat, für den bleibt die Stadt oft der bessere\n> Ort. (ca. 165 Wörter)\n\n**Brief 2 — Robert, 54, lebt seit dreißig Jahren in der Großstadt**\n\n> Ich lese ständig, dass alle aufs Land wollen. Bei mir ist es\n> umgekehrt. Ich bin in einem Dorf aufgewachsen, in dem es weder\n> ein Kino noch eine weiterführende Schule gab. Mit achtzehn bin\n> ich in die Stadt gezogen, und ich habe es nie bereut. Hier\n> erreiche ich in einer Viertelstunde drei Kliniken, vier Museen\n> und einen Bahnhof, von dem ich ohne Auto überallhin komme. Klar,\n> die Mieten sind hoch, und im Sommer ist es zu heiß und zu laut.\n> Aber wenn ich krank werde, ist der Arzt um die Ecke, und wenn\n> meine Enkel zu Besuch kommen, gibt es tausend Dinge zu tun.\n> Manche sagen, das Landleben sei gesünder. Das mag stimmen,\n> solange man jung und mobil ist. Aber sobald man älter wird und\n> nicht mehr Auto fahren kann, wird das abgelegene Dorf schnell\n> zur Falle. Für mich zählt vor allem eines: Nähe. Nähe zu\n> Menschen, zu Ärzten, zur Kultur. Deshalb bleibe ich, wo ich bin.\n> (ca. 175 Wörter)"
+        }
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "73a6a61b34d1285624b0aaa86068ec3fe92edfbc46b8ba414c5761fa8d447365",
+          "after_sha256": "4a95f3eef28ed01cadf574d03d5e20839c8e4ec338c17a7376e8782af34a9ea1",
+          "decision": "Replaced dependent rereading direction with standalone source direction."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "4a95f3eef28ed01cadf574d03d5e20839c8e4ec338c17a7376e8782af34a9ea1",
+          "after_sha256": "cfc114e10b4bfdc371002d08e4cc4ae82ed533c3ebf91d45a2aad6efa738b977",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit03_weiterbildung-und-studium_exam/index.md",
+      "before_sha256": "2ad6963bacd46b709ceeca7428f710f63de2cd0c18766b514101a4682681fe93",
+      "after_sha256": "d5915a5c1eaef56a28352c003b2a307d0fe59f84c30e27ffaf9ad9df7f373501",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit03_weiterbildung-und-studium_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "ad732950b4f53589782b033f68f28ceb931837e716ac275a0cb5d574b33be404",
+          "after_sha256": "d5915a5c1eaef56a28352c003b2a307d0fe59f84c30e27ffaf9ad9df7f373501",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit02_der-bewerbungsweg_exam/index.md",
+      "before_sha256": "695cf96bb33bb53a87bcee3181f654a69243200e3b9912f99898800a6125e234",
+      "after_sha256": "a8c531b5da2241cb8ef08e2e5fa3784cb8a85ac982112677629661a990ef4fc2",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit02_der-bewerbungsweg_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved complete task-specific model responses into explicit teacher-only key; rubric stays public."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "4a23b91631674bd4c7e85e883f5bee2de0b4cc648665e89968b892ed56dcf155",
+          "after_sha256": "a8c531b5da2241cb8ef08e2e5fa3784cb8a85ac982112677629661a990ef4fc2",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit01_neuanfang-in-basel_exam/index.md",
+      "before_sha256": "81e7f73642b1035b21a70148845aa56cfcb46787faa7248a49f68e67072c7cbd",
+      "after_sha256": "1bad956bfb428e6abf5cb9d114d7612b10c41bb6b83c3f7a3963e49387220317",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit01_neuanfang-in-basel_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Replaced 'Richtwert: **12–15 Punkte** = sicheres B1; **9–11** = B1\\nerreicht mit Lücken; **unter 9** = noch nicht B1.' with 'Rückmeldung zu dieser Aufgabe: **12–15 Punkte** = weitgehend sicher erfüllt; **9–11** = teilweise sicher erfüllt; **unter 9** = gezielte Weiterarbeit nötig. Diese einzelne Aufgabe stellt kein GER-Niveau fest.'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "968233914742df1f3cd6cae47cec4e78bd62d9fac1fc703bbc21aa94818d0d59",
+          "after_sha256": "1bad956bfb428e6abf5cb9d114d7612b10c41bb6b83c3f7a3963e49387220317",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit12_zukunftsvisionen_exam/index.md",
+      "before_sha256": "7b15f8146989f29d432f10ce12dad99a191b9aac27842923f1318ffe4063229e",
+      "after_sha256": "3f0866cb93c6717748e09cb3f2c1992d6f916a1ba12f404e98917c42ed0c078b",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit12_zukunftsvisionen_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 1 controls delivery; source classroom instructions omitted.",
+        "Corrected eight independently scored responses from contradictory max7 to max8; teacher key retained; unit pointer points requires coordinated update."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b1/units/unit12_zukunftsvisionen/index.md",
+          "source_sha256": "b342d5d94dde6c0438ae1dea87dfdba8a61f3a90f4ccac5c9eb88c13ef24b728",
+          "section": "C",
+          "excerpt_sha256": "4772a94ae6fdc68c7a78b7c0d3300d1c00d1e8e019cdbd60e455cd6c01fb778f",
+          "excerpt": "### C. Hörtext (zum Vorlesen)\n\n> *Die Lehrkraft liest den Text zweimal langsam vor. Beim ersten\n> Mal hören die Lernenden nur zu, beim zweiten Mal machen sie\n> Notizen.*\n>\n> **Podcast „Morgen könnte anders sein\" — Folge: Vier Blicke auf\n> 2040**\n>\n> **Moderatorin:** Willkommen! Heute fragen wir vier Gäste: Wenn\n> Sie einen Wunsch für das Jahr 2040 frei hätten — was würden Sie\n> sich wünschen? Milos, fangen wir bei Ihnen an.\n>\n> **Milos:** Also, ich würde mir wünschen, dass niemand mehr vier\n> Stunden am Tag pendeln müsste. Wenn wir kleine Arbeitsorte in\n> jedem Dorf hätten, könnten die Menschen mehr Zeit mit der\n> Familie verbringen. Das wäre für mich der größte Fortschritt.\n>\n> **Moderatorin:** Noa, Sie sind 22. Wie sähe Ihre ideale Zukunft\n> aus?\n>\n> **Noa:** Für mich wäre Bewegungsfreiheit das Wichtigste. Ich\n> würde gern in mehreren Ländern leben, ohne dass es kompliziert\n> wäre. Aber ehrlich gesagt hätte ich auch gern einen festen Ort,\n> an den ich zurückkehren könnte. Beides zusammen wäre ideal.\n>\n> **Moderatorin:** Frau Dr. Lenz, Sie arbeiten als Ärztin.\n>\n> **Dr. Lenz:** Ich würde mir wünschen, dass wir 2040 genug\n> Ärztinnen und Ärzte auf dem Land hätten. Videosprechstunden\n> könnten vieles einfacher machen, aber sie könnten den Menschen\n> vor Ort nicht ersetzen. Wenn wir jetzt nichts ändern würden,\n> hätten viele Dörfer bald keine Praxis mehr.\n>\n> **Moderatorin:** Und Sie, Herr Malik?\n>\n> **Malik:** Mein Wunsch wäre ein ruhigeres Mediensystem. Wenn wir\n> Fakten und Meinungen klarer trennen würden, könnten wir\n> einander wieder besser zuhören. Ich bin nicht pessimistisch —\n> ich glaube, das wäre machbar, wenn wir es wirklich wollten.",
+          "source_revision": {
+            "source_sha256": "3b81ac17772bdcbe17c96d270310d606850a2ddd3b64d9814f2da43ea3faf752",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "00750feb29ed3bfc5c00923139ad68a52967d7e588a2e00053c024035e86f072",
+          "after_sha256": "3f0866cb93c6717748e09cb3f2c1992d6f916a1ba12f404e98917c42ed0c078b",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit11_persoenliche-beziehungen_exam/index.md",
+      "before_sha256": "cf038dc1dc3228985ef772d02ca6bef786a129a33c338e6881808a7f54a1ed1a",
+      "after_sha256": "447d75eff8e0f6e8e5affa319b49b69a53607969cb421808e81c06ec69eada6a",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit11_persoenliche-beziehungen_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Supplied actual existing reading source in learner Textgrundlage, without source unit model analysis.",
+        "Replaced 'Amir war pünktlich bei Stefan.' with 'Amir besuchte Stefan in dessen Wohnung.'",
+        "Replaced 'Richtig (implizit: *„als ich in die Wohnung kam“* — er war da).' with 'Richtig (*„Als ich in die Wohnung kam“* belegt den Besuch, nicht Pünktlichkeit).'",
+        "Replaced dependent rereading direction with standalone source direction."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b1/units/unit11_persoenliche-beziehungen/index.md",
+          "source_sha256": "c7ac34636dfd3292f2769f9c8e9c698541ebd858ba9d53c41e54f380d0d6a652",
+          "section": "C",
+          "excerpt_sha256": "4baccc952f7e323b76a095db0ca6d231facd20c776af51cd3bd062bb322e0dab",
+          "excerpt": "### C. Blogeintrag (Originaltext)\n\n> Heute Nachmittag war ich mit Stefan verabredet — ein Kaffee,\n> einfach reden. Ich hatte mich darauf gefreut. Als ich in die\n> Wohnung kam, saß Stefan vor seinem Laptop und spielte. „Einen\n> Moment“, sagte er. Der Moment dauerte eine halbe Stunde. Wir\n> haben danach noch geredet, aber ich war schon so enttäuscht,\n> dass ich nicht mehr richtig zuhören konnte.\n>\n> Ich weiß, dass Stefan eine stressige Woche hatte. Vielleicht\n> hat er den Termin einfach vergessen. Oder er hat ihn bewusst\n> klein gehalten, weil er sich ausruhen musste. Trotzdem hat es\n> mich verletzt, weil ich mich nicht gesehen gefühlt habe.\n>\n> Ich möchte ihm keinen Vorwurf machen, den ich später bereue.\n> Deshalb schreibe ich nichts, bevor ich mich beruhigt habe.\n> Morgen schicke ich ihm eine kurze Nachricht und frage, wann\n> wir uns noch einmal treffen könnten — diesmal ohne Laptop. Ich\n> glaube, eine ruhige Aussprache wäre besser als ein wütender\n> Text um Mitternacht."
+        }
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "47db13415a3e9ab8681d649794e29d8630c87206a886378920922b4c4beab580",
+          "after_sha256": "c7f9c91e2365015eaedb2272c57b44e79f73a5084079d8ef13c8db2b50ab750a",
+          "decision": "Replaced dependent rereading direction with standalone source direction."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "c7f9c91e2365015eaedb2272c57b44e79f73a5084079d8ef13c8db2b50ab750a",
+          "after_sha256": "447d75eff8e0f6e8e5affa319b49b69a53607969cb421808e81c06ec69eada6a",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit05_digitale-kommunikation_exam/index.md",
+      "before_sha256": "54dae7f28ee288013d227056e7c5c6895c4a65734436eb711dbec174ed3b7e8e",
+      "after_sha256": "1b350f949850e9248db34cd8a61a751804bec180a948369cb947d3047df0ba65",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit05_digitale-kommunikation_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "2508c1262cb1c5141ce9a99775fcb0e22a957db53a133e29ad2daf35779f2bb6",
+          "after_sha256": "1b350f949850e9248db34cd8a61a751804bec180a948369cb947d3047df0ba65",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam/index.md",
+      "before_sha256": "51a087123477a9e4ed3cd67778e343fdfd2c4c287fc1a9b154cbefadc09b950c",
+      "after_sha256": "0595de3c8561f7be725d444b0709147dad9cd1c4cf671e9de6fb0ebd4f6d316e",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b1/units/unit09_konsum-und-verbraucherschutz_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "4bb774ba9fffa85146253dcf22e8191c140d0951706c32c8eb8a01128a461376",
+          "after_sha256": "0595de3c8561f7be725d444b0709147dad9cd1c4cf671e9de6fb0ebd4f6d316e",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit03_beim-arzt_exam/index.md",
+      "before_sha256": "b295b82bd043ed4bebe2246f55e85d3a52307e6132931a30398bb382aa47df1a",
+      "after_sha256": "81af02ca361a6dd4c4a833a91bd3eaa3471a01b8b12488902bab82b6c0d26088",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit03_beim-arzt_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Moved the three exact existing spoken transcripts out of learner questions into role=key, preserving ordering."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "b512294e8aa7616e328273c8358492dd6cf020472715f2705854327ec0426bed",
+          "after_sha256": "81af02ca361a6dd4c4a833a91bd3eaa3471a01b8b12488902bab82b6c0d26088",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit04_im-amt_exam/index.md",
+      "before_sha256": "727b4fa0d763bfd41c29d917698e5bb56092d9be78211ea3319448fd1dc2cc1b",
+      "after_sha256": "65ada3e44b0e647ce5b99be7ac171a7c0299d0f85c0458ab6d89b47f596e0463",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit04_im-amt_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "4b5925d0aef700069c8316192678aa1e876082f0f75a2e96b0a43b742335bb55",
+          "after_sha256": "65ada3e44b0e647ce5b99be7ac171a7c0299d0f85c0458ab6d89b47f596e0463",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit05_reiseplanung_exam/index.md",
+      "before_sha256": "dd32baff7ca491a534811e68c659879d675561d4a1f775c864f6debf3fb4725f",
+      "after_sha256": "4416a783fbd5ab70d8b399c7749a3c68383ea4321425090a5dc69d51ad860b98",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit05_reiseplanung_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "0d865fb28c3175b72dda9ba4fe45c90b6aff15b64a5d075a2742191763aa6f83",
+          "after_sha256": "4416a783fbd5ab70d8b399c7749a3c68383ea4321425090a5dc69d51ad860b98",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam/index.md",
+      "before_sha256": "771284bc275a7b6bd3ccbb0602dfe052d6bacd81d1e4f544e06de7df8e59f505",
+      "after_sha256": "e3e4b10e6a0a2b2a062e995cdd84706f17a632b45515660165eb977dcdc45953",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit01_arbeitssuche-und-stellenanzeige_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Replaced '**Achtung: Zwei Anzeigen passen zu\\nkeiner Situation.**' with '**Jede Anzeige passt genau einmal.**'",
+        "Replaced '(Keine Anzeige passt hier doppelt; alle fünf werden genau einmal\\ngebraucht — die zwei „Ablenker“ entstehen bei Varianten mit mehr\\nAnzeigen.)' with 'Alle fünf Anzeigen werden genau einmal gebraucht.'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "e25fa67549708e5e2076f4d909f145f08711f26c43ca133c77bf9a22df23a14f",
+          "after_sha256": "e3e4b10e6a0a2b2a062e995cdd84706f17a632b45515660165eb977dcdc45953",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam/index.md",
+      "before_sha256": "fede7d4e529454329810b2b8eaf16b2f30211a34cac84667cd0cbe7ea4dcf6e1",
+      "after_sha256": "7bfd8258c579bc2660d89ddf9c0d44a113356dad78ca0f85b15f186124126c32",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit12_freundschaft-und-familiengeschichte_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Replaced ' Hinweis: Die Aufgabe prüft das Schreiben; ein Modelltext steht im Lösungsteil des Arbeitsblatts.' with ' Die Aufgabe prüft das Schreiben.'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "39a4849647cb2d9701ae83448cc807be9ce20df67be61b785f20a602fd1a8353",
+          "after_sha256": "7bfd8258c579bc2660d89ddf9c0d44a113356dad78ca0f85b15f186124126c32",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "before_sha256": "c8148febd549f24a1a675c63c96dd2a27cdc579b7bbb80c81c97dd43b4e1a1a8",
+      "after_sha256": "9594121d7f85e94a47ac4c3d00b2e495c553d7ce52139ce052c9022fb41a3b7a",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit11_umwelt-und-alltag_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_a2/units/unit11_umwelt-und-alltag/index.md",
+          "source_sha256": "a2ce9d44a14baa0e20ed61d01cdacc9ead648b585c22b927b5b994749e2013fa",
+          "section": "C",
+          "excerpt_sha256": "fe3e25248e55a816fa226f543534a7b879d615a79fd0a29872edbee77d53cac9",
+          "excerpt": "### C. Hörtext (zum Vorlesen)\n\n*Die Lehrkraft liest den Text ein- bis zweimal ruhig vor. Ein\nkurzer Radiobeitrag im Format „Umwelt-Tipp der Woche“.*\n\n> **Moderatorin:** Willkommen zum Umwelt-Tipp der Woche! Heute im\n> Studio: Frau Berg von der Stadtreinigung. Frau Berg, wie trennt\n> man in Deutschland richtig?\n>\n> **Frau Berg:** Guten Tag! Ganz einfach mit vier Behältern.\n> Papier kommt in die blaue Tonne — also Zeitungen und Kartons.\n> Obstreste und Kaffeesatz gehören in die braune Biotonne.\n>\n> **Moderatorin:** Und die Verpackungen?\n>\n> **Frau Berg:** Plastik, Dosen und Tetrapak kommen in den Gelben\n> Sack. Aber bitte sauber! Ein schmutziger Becher gehört in den\n> Restmüll, also in die graue Tonne.\n>\n> **Moderatorin:** Haben Sie noch einen Spar-Tipp für uns?\n>\n> **Frau Berg:** Ja, gern. Duschen Sie kürzer, weil das viel\n> Wasser spart. Und kaufen Sie Obst aus der Region, weil das gut\n> für die Umwelt ist. Batterien bringen Sie bitte zum Supermarkt\n> — niemals in den Hausmüll!\n>\n> **Moderatorin:** Vielen Dank, Frau Berg. Bis nächste Woche!",
+          "source_revision": {
+            "source_sha256": "7cbfd7c4af56303faed6c06d6ba8c727658dd6c257ca440ebc6f6120a94ba39f",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "1999383cd2b55a0815bb37c58f9fa6e1e863064427db53b35a71d6b25d4026d0",
+          "after_sha256": "c8ccadc587e524cf2f0d7c81105ee1d17d773029b8275d290bac43a233c92850",
+          "decision": "Official-source coherence corrections; see docs/factual-source-repairs/2026-10-31/manifest.json"
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "c8ccadc587e524cf2f0d7c81105ee1d17d773029b8275d290bac43a233c92850",
+          "after_sha256": "9594121d7f85e94a47ac4c3d00b2e495c553d7ce52139ce052c9022fb41a3b7a",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit09_plaene-und-zukunft_exam/index.md",
+      "before_sha256": "7e1c55e0545498511c49b5f4eb2b33deccdd042156d85b5ff110d8cad25a2b21",
+      "after_sha256": "106479e08cfd9ac5b8b69561244f20498ba1fad8e0a367ed977a50eb81e19495",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit09_plaene-und-zukunft_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "445810adb70fe8d958b958769f8650125230ea518436feb5c2597228c1e60de0",
+          "after_sha256": "106479e08cfd9ac5b8b69561244f20498ba1fad8e0a367ed977a50eb81e19495",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit08_gestern-und-vergangenheit_exam/index.md",
+      "before_sha256": "4b267e751b7e3480faae799ae99a8ae47c7c7bf783d2d7b2472a13f29b9e65b5",
+      "after_sha256": "5f6feb2cd2c0e4405806a55cc8ab57485dec736df6a252d01df056ed19edd236",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit08_gestern-und-vergangenheit_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "883558c1d2cc2dec69ee28dd853f290e34fe2178fc4d6907d7b99c212245d505",
+          "after_sha256": "5f6feb2cd2c0e4405806a55cc8ab57485dec736df6a252d01df056ed19edd236",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit06_hobbys-und-vereine_exam/index.md",
+      "before_sha256": "938d21c18117fd0ed2bb76cc8231ac858698b508b5d6c26b9e946a3049c6f795",
+      "after_sha256": "79c7e98fdac2a61c049e0ebd29cb213b30614ee42f80b8328ae1e996696eb0df",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit06_hobbys-und-vereine_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "8b245d507a29546bb3bb31e328bbf2c6e0bbb0b0190145e9d36bb58fc71e432d",
+          "after_sha256": "79c7e98fdac2a61c049e0ebd29cb213b30614ee42f80b8328ae1e996696eb0df",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit02_wohnung-mieten_exam/index.md",
+      "before_sha256": "7af256fbfdac4aca047b88422921df6dba5c9eb5ac04620ee8e9e324ad076f51",
+      "after_sha256": "13c3ca4acd2c8091a43156df8190e7fecdf8f069eda828986898e8cad3fe7a94",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit02_wohnung-mieten_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "f04655c6ebdf180d15f166836c0e65c5e1a11b384741a19fadfe9b6be3660a91",
+          "after_sha256": "13c3ca4acd2c8091a43156df8190e7fecdf8f069eda828986898e8cad3fe7a94",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit10_medien-im-alltag_exam/index.md",
+      "before_sha256": "d04a3bb176e076c8d51388655c8acbdc4b2ca972929087ac43faedc634f2bf36",
+      "after_sha256": "4ff15b6ce147bc912be6b95acf91ac3fcecfe1c882537894e2849a31cfc30fa7",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit10_medien-im-alltag_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_a2/units/unit10_medien-im-alltag/index.md",
+          "source_sha256": "a1e45fb1983484bb65259cbc49eb41fef472282f68d71755b576cd622864f038",
+          "section": "C",
+          "excerpt_sha256": "69c6c8066f220371e00482b449dc01b0b3b6350ec29187daaa5f1736f7abf30f",
+          "excerpt": "### C. Hörtext (zum Vorlesen) — „Interview über Bildschirmzeit\"\n\n*Die Lehrkraft liest den Text zweimal langsam vor. Eine\nAudio-Aufnahme kann später ergänzt werden.*\n\n> **Interviewerin:** Nadia, wie viel Zeit verbringst du pro Tag am Handy?\n>\n> **Nadia:** Ungefähr drei Stunden. Am Morgen lese ich zuerst die\n> Nachrichten, weil ich wissen will, was in der Welt passiert.\n>\n> **Interviewerin:** Und welche Medien nutzt du noch?\n>\n> **Nadia:** Im Bus höre ich fast jeden Tag einen Podcast. Fernsehen\n> schaue ich fast nie, weil ich keine Zeit habe.\n>\n> **Interviewerin:** Glaubst du, dass du zu viel Zeit am Bildschirm bist?\n>\n> **Nadia:** Ja, das stimmt. Gestern habe ich vier Stunden auf das\n> Handy geschaut. Deshalb möchte ich am Abend das Handy weglegen\n> und ein Buch lesen."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "857d10256d387c74c15661b7324af9413a409d8b02f1631e0efbbbe5b4d11124",
+          "after_sha256": "4ff15b6ce147bc912be6b95acf91ac3fcecfe1c882537894e2849a31cfc30fa7",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_a2/units/unit07_feste-und-traditionen_exam/index.md",
+      "before_sha256": "b72fe50f45fcf5523dc28917a0b874c14e1b5271295f2bbb7d6364e55dd208ed",
+      "after_sha256": "fe1139b96e935d37d42b451340a8bb6231402e6b992f85ca7718acbb81be864d",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_a2/units/unit07_feste-und-traditionen_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "b30b1492f65b6ed50509499d87cf227c2303bca835da5ee58033433eba8448a3",
+          "after_sha256": "fe1139b96e935d37d42b451340a8bb6231402e6b992f85ca7718acbb81be864d",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit10_ethik-digitaler-technologien_exam/index.md",
+      "before_sha256": "18082372c7e984d9fa0cc0107e379eea421f83e78295793ecaf84b0b9491a8fc",
+      "after_sha256": "33e6fc5cd14aec6ac79479b616e071f4ad24e14a1f8f03c7e7b0fc87a192a8b8",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit10_ethik-digitaler-technologien_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "fa7fd5636f3522d0b7891cae4a09c5db74ee3e89ad6ce6771021e5635e24a195",
+          "after_sha256": "33e6fc5cd14aec6ac79479b616e071f4ad24e14a1f8f03c7e7b0fc87a192a8b8",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "before_sha256": "14687e818a4e3125757514066667a1987bb1443c29528d00b550188708889eb0",
+      "after_sha256": "25065b91c91f733ffb5c1141c7db583e48755b6f48efffa07c903ca9339f8d56",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit06_migrationsdiskurs_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Supplied actual existing reading source in learner Textgrundlage, without source unit model analysis."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+          "source_sha256": "86cade44d82dbc3eb80353369676d66a8d47e63cd63b9e74a02592b8ba6843fb",
+          "section": "C",
+          "excerpt_sha256": "6f5675f23ffe143065b77daf7faff2cb2f3c38e6379bd7187d03c831f0cf25ee",
+          "excerpt": "### C. Essay-Ausschnitt (Originaltext, B2)\n\n> Wenn mich jemand fragt, wo ich herkomme, antworte ich: *aus\n> Sarajevo, aus Berlin, aus dem Raum zwischen beiden*. Drei Orte,\n> eine Person. Für meine Generation scheint das selbstverständlich,\n> und dennoch bleibt die öffentliche Debatte oft zweiwertig: drin\n> oder draußen, integriert oder nicht, einheimisch oder zugewandert.\n>\n> Diese Zweiwertigkeit ist bequem, denn sie verlangt keine Nuance.\n> Sie übersieht jedoch, dass Zugehörigkeit keine Ja-Nein-Frage ist,\n> sondern eine lange Verhandlung — am Esstisch, im Büro, beim Arzt,\n> vor dem Amt. Wer sich dabei nicht verlieren will, braucht zweierlei:\n> eigene Sprachkompetenz und ein Gegenüber, das zuhört.\n>\n> Man könnte einwenden, Zahlen ordneten die Sache: So viele kommen,\n> so viele gehen. Zahlen sind wichtig, sie schützen vor Gerüchten.\n> Doch eine Zahl allein sagt noch nicht, ob jemand dazugehört.\n> Zugehörigkeit wird nicht gemessen, sondern erlebt — im Gespräch,\n> in der Arbeit, in der Nachbarschaft. Folglich sollte, wer über\n> Migration spricht, zwei Sprachen beherrschen: die der Statistik\n> und die der Erfahrung.",
+          "source_revision": {
+            "source_sha256": "343e29427728a2e73b382191623b74d1106aee4ac2bd23118622b2ff9b546f47",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        },
+        {
+          "source_path": "content/kurs_b2/units/unit06_migrationsdiskurs/index.md",
+          "source_sha256": "86cade44d82dbc3eb80353369676d66a8d47e63cd63b9e74a02592b8ba6843fb",
+          "section": "D",
+          "excerpt_sha256": "779611f4056a9d3a063a7d449a89fff91ff28094446af57656c2709ac2671a42",
+          "excerpt": "### D. Sachtext mit Kontext (paraphrasiert, mit Quellen)\n\n> Wie groß ist Migration weltweit wirklich? Nach Angaben der\n> Bevölkerungsabteilung der Vereinten Nationen lebten Mitte 2024\n> rund **304 Millionen Menschen** außerhalb ihres Geburtslandes;\n> das entspricht etwa **3,7 Prozent** der Weltbevölkerung. Bemerkens­wert\n> ist dabei, dass dieser Anteil seit 1990 nur wenig gestiegen ist —\n> im Gegensatz zu dem Eindruck, den manche Debatten vermitteln.\n>\n> In Deutschland wiederum wurden für 2024 laut Statistischem\n> Bundesamt rund **12,4 Millionen Menschen ohne deutsche\n> Staatsangehörigkeit** gezählt; bezieht man den weiter gefassten\n> „Migrationshintergrund\" ein, so lag der Anteil bei etwa **30\n> Prozent**. Zahlen wie diese werden hier nicht als Argument für\n> oder gegen etwas angeführt, sondern als gemeinsame Grundlage:\n> Wer die Größenordnung kennt, diskutiert sachlicher.\n>\n> *(Zahlen paraphrasiert; Quellen siehe Abschnitt „Quellen\".)*",
+          "source_revision": {
+            "source_sha256": "343e29427728a2e73b382191623b74d1106aee4ac2bd23118622b2ff9b546f47",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "006016f34fa7a1a6920ead794911ace297da224fc869ccda2b9781faa106701a",
+          "after_sha256": "911675855ba077b0a84d50cc901bfeb13dcd1fca4c56d3888fcb028a2a90df25",
+          "decision": "Official-source coherence corrections; see docs/factual-source-repairs/2026-10-31/manifest.json"
+        },
+        {
+          "before_sha256": "911675855ba077b0a84d50cc901bfeb13dcd1fca4c56d3888fcb028a2a90df25",
+          "after_sha256": "03d1578ecfaa0332c05064ea3e1d86dee438cdbfa517aef08764bd8b523f7802",
+          "decision": "Final coherence: learner references omit tooling observations; franchise is conditional on treatment costs."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "03d1578ecfaa0332c05064ea3e1d86dee438cdbfa517aef08764bd8b523f7802",
+          "after_sha256": "25065b91c91f733ffb5c1141c7db583e48755b6f48efffa07c903ca9339f8d56",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit09_bildungsdebatten_exam/index.md",
+      "before_sha256": "c387dde4933dd6442d43909053abccf6e2f6d14b2d1a7e1ddb9ac5dcfff4c305",
+      "after_sha256": "31d7618d2817cfabf6adbe12c674163c2c95431f9f6bed10b3f0fd18d61074f9",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit09_bildungsdebatten_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Supplied actual existing reading source in learner Textgrundlage, without source unit model analysis.",
+        "Replaced 'noch einmol' with 'hier'"
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b2/units/unit09_bildungsdebatten/index.md",
+          "source_sha256": "266d1805a80442401be01c7904c79f8faa1b5dd9aa5680b279b38269aa24a003",
+          "section": "D",
+          "excerpt_sha256": "c706ae91b076050337d5d6ba76dc7f7ec77c7d725be8cc20dcaab217393d7a82",
+          "excerpt": "### D. Sachtext 2 — Vier Stimmen aus der Debatte (original)\n\n> **a)** „Die Schule kann nicht reparieren, was in den ersten Lebensjahren zu Hause versäumt wird. Wer echte Gerechtigkeit will, muss bei den Familien ansetzen, nicht erst im Klassenzimmer.“\n>\n> **b)** „Eine spätere Aufteilung nähme den Druck aus dem Grundschulalter und gäbe Spätzündern eine faire Chance. Man würde niemandem etwas wegnehmen — man verschöbe nur die Entscheidung.“\n>\n> **c)** „Leistung muss sich lohnen. Senkte man die Anforderungen im Namen der Gleichheit, so schadete man am Ende gerade den begabten Kindern aus einfachen Verhältnissen.“\n>\n> **d)** „Ohne mehr Personal und kleinere Klassen bleibt jede Reform Symbolpolitik. Gerechtigkeit kostet Geld — das sollte ehrlich gesagt werden.“"
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "82124aff13ab1c3c1a35d85988c1920d5bc7a034b4c70db878deca5a2cd783a4",
+          "after_sha256": "31d7618d2817cfabf6adbe12c674163c2c95431f9f6bed10b3f0fd18d61074f9",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit07_gesundheitspolitik_exam/index.md",
+      "before_sha256": "ac7734bd0365029abaae71434c50a0763b84ce0d00633e1650395fee526cf534",
+      "after_sha256": "fd11f2e90bc0dfc95e57b349f4f094c5c1ae2bb7b3a30c970befa9158c5916a0",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit07_gesundheitspolitik_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "4dc21fb740acefeebccce148806bbb1bb9e7301e3f2a57b757835dd6abf0ca72",
+          "after_sha256": "fd11f2e90bc0dfc95e57b349f4f094c5c1ae2bb7b3a30c970befa9158c5916a0",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit03_gesellschaftliche-debatten_exam/index.md",
+      "before_sha256": "e75c91ee9e9eaff8f8cc13aa2fd55450899a429b4f66bd94645e5bb94f0e79b9",
+      "after_sha256": "447dff4425c01ca850d1538749f48f20ea89b24415fb0446ae047638f5121079",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit03_gesellschaftliche-debatten_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "aacdbc49b92c527110cb9bd72fcc5440271878a186497aafd0748880c1e01b8f",
+          "after_sha256": "447dff4425c01ca850d1538749f48f20ea89b24415fb0446ae047638f5121079",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit05_kunst-und-kultur_exam/index.md",
+      "before_sha256": "d6a6e6424fc386ccd236e44626df9e6523d5a0679c0cda695c751c2e5e5d8a53",
+      "after_sha256": "726e8f661e827d2885ada3bd0a989030f2fab4e1626e477488e9333940691887",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit05_kunst-und-kultur_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 1 controls delivery; source classroom instructions omitted."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b2/units/unit05_kunst-und-kultur/index.md",
+          "source_sha256": "3e5709f626d68c5cd28beba6339ee746d0006b4fa237b60c5a0588df18c93ed0",
+          "section": "C",
+          "excerpt_sha256": "ac2d84e1b156e1b3bf1e68b6c80da55cd1b34af26f0455dafe9af22e5f9a2b1a",
+          "excerpt": "### C. Hörtext (zum Vorlesen)\n\n> Die folgende Radio-Diskussion liest die Lehrkraft **einmal** in\n> normalem Tempo vor. Die Lernenden hören zunächst ohne\n> mitzulesen.\n\n**Kulturradio — „Blickwinkel“. Thema: die Ausstellung *„Frauen\nder Wiener Moderne — Wiederentdeckt“*.**\n\n**Moderatorin:** Herzlich willkommen. Bei mir sind die Kuratorin\nDr. Hübner, der Kunstkritiker Herr Ritter und die Besucherin\nFrau Aldan. Frau Dr. Hübner, worum geht es in dieser Schau?\n\n**Dr. Hübner:** Um Gerechtigkeit, ehrlich gesagt. Neben Klimt und\nSchiele malten Frauen wie Broncia Koller-Pinell auf gleichem\nNiveau — und wurden dennoch aus dem Kanon gedrängt. Wir zeigen\nvierundachtzig Werke, viele davon zum ersten Mal öffentlich.\n\n**Ritter:** Die Konzeption ist mutig, das erkenne ich an. Doch\ndie Hängung ist mir zu dicht. Manche Bilder brauchen Raum, um zu\nwirken; hier hängen sie fast Rahmen an Rahmen.\n\n**Frau Aldan:** Als Besucherin habe ich die Audiotour geschätzt —\nsie hat mir die Farbgebung erklärt. Gefehlt hat mir allerdings\ndas Biografische: Wer waren diese Frauen im Alltag?\n\n**Dr. Hübner:** Der Alltag steht bewusst im Katalog, nicht an den\nWänden. Einerseits wollten wir die Werke sprechen lassen,\nandererseits war der Platz begrenzt. Folglich mussten wir\nauswählen.\n\n**Ritter:** Und genau diese Auswahl überzeugt mich künstlerisch.\nIm Gegensatz zu vielen Jubiläumsschauen wirkt hier nichts\nbeliebig. Trotz der dichten Hängung bleibt der rote Faden klar.\n\n**Frau Aldan:** Dem stimme ich zu. Ich bin ohne Erwartung\ngekommen und gehe mit einer Entdeckung.",
+          "source_revision": {
+            "source_sha256": "4d80bc40654db559e53d0a7d33e010481e7c4a958042a451bde211d67feae6c6",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "f9ea591c0df5371a3b9fdd80850c703a4a9e557a93895ec6977324d633ed7233",
+          "after_sha256": "726e8f661e827d2885ada3bd0a989030f2fab4e1626e477488e9333940691887",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit04_arbeitswelt-im-wandel_exam/index.md",
+      "before_sha256": "1f574337a35188ee843bc6f5b93f65200cb91cd057f45e5955bf55f3de600614",
+      "after_sha256": "27b0fd7e2b86ce0bb8fb145acab5760f8548d0e1c8449eb59994039af5f19a53",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit04_arbeitswelt-im-wandel_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "a297c0d8fb9dadddb41be18efcf2bc9b81ca58221a5c5ab5b05414a1f6646e03",
+          "after_sha256": "27b0fd7e2b86ce0bb8fb145acab5760f8548d0e1c8449eb59994039af5f19a53",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit11_oekonomie-fuer-laien_exam/index.md",
+      "before_sha256": "e95bab29d74c590a45b229ca40977df3d8956e512d5b4a6b411b9fb3b346217e",
+      "after_sha256": "274554cbda687ccb450466f7f50a1867e8a269877b4644093456e997e88795b2",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit11_oekonomie-fuer-laien_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted.",
+        "Replaced 'ein Warenkorb zur Messung der Teuerung' with 'ein Maß für die durchschnittliche Preisentwicklung eines Warenkorbs'",
+        "Replaced 'Gemessen wird das mit einem Warenkorb, dem sogenannten Verbraucherpreisindex.' with 'Gemessen wird die durchschnittliche Preisentwicklung mit dem Verbraucherpreisindex. Seine Berechnung geht von einem Warenkorb aus.'",
+        "Factual correction based on Destatis checked2026-10-31; original source transcript retained in archive; unit correction still pending.",
+        "Moved scoring criteria from hidden key to learner-visible rubric."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b2/units/unit11_oekonomie-fuer-laien/index.md",
+          "source_sha256": "1000956c3e7eee49b6eaf2378b0dcbbf335db8bb38539d438a536ebf00a47518",
+          "section": "C",
+          "excerpt_sha256": "41fe0916573ee9d8aa8572775e36dce31cba478fc38833fa43e73ac53e9d6ba4",
+          "excerpt": "### C. Hörtext (zum Vorlesen)\n\n*Die Lehrkraft liest den folgenden Podcast-Ausschnitt zweimal in ruhigem Tempo vor. Die Lernenden hören zunächst ohne mitzuschreiben, danach bearbeiten sie die Aufgaben in Abschnitt \"Üben\".*\n\n> **Elena (Moderatorin):** Herzlich willkommen zu \"Geld, kurz erklärt\". Mein Gast ist Ökonomin Frau Dr. Wagner. Frau Wagner, viele Menschen sagen: Ich verstehe von Inflation nur, dass alles teurer wird. Stimmt das denn?\n>\n> **Dr. Wagner:** Im Kern schon — aber lassen Sie es mich genauer fassen. Inflation bedeutet, dass das allgemeine Preisniveau steigt und dass folglich die Kaufkraft des Geldes sinkt. Der Zwanzig-Euro-Schein bleibt derselbe, doch er kauft weniger. Gemessen wird das mit einem Warenkorb, dem sogenannten Verbraucherpreisindex.\n>\n> **Elena:** Und wer legt fest, wie viel Inflation \"normal\" ist?\n>\n> **Dr. Wagner:** Das ist eine gute Frage. Die Europäische Zentralbank hat erklärt, sie strebe mittelfristig eine Teuerungsrate von rund zwei Prozent an. Zwei Prozent klingt nach wenig, ist aber bewusst gewählt: Ein kleiner, stabiler Preisanstieg gilt als gesünder als null Prozent, weil er einen Sicherheitsabstand zur Deflation schafft.\n>\n> **Elena:** Deflation — das wäre doch schön, wenn alles billiger würde?\n>\n> **Dr. Wagner:** Das denken viele, und dennoch ist es trügerisch. Wenn Menschen erwarten, dass alles morgen billiger ist, verschieben sie Käufe. Die Nachfrage bricht ein, Unternehmen verdienen weniger, und im Gegensatz zur milden Inflation kann eine Deflation eine ganze Wirtschaft lähmen.\n>\n> **Elena:** Was kann die Zentralbank tun, wenn die Inflation zu hoch wird?\n>\n> **Dr. Wagner:** Ihr wichtigstes Werkzeug ist der Leitzins. Wird er erhöht, so werden Kredite teurer; Menschen und Firmen geben weniger aus, und die Preise kühlen sich allmählich ab. Einerseits bremst das die Teuerung, andererseits werden dadurch auch nützliche Investitionen teurer. Die Abwägung ist eng — es gibt hier kein Werkzeug ohne Nebenwirkung.\n>\n> **Elena:** Ein letzter Punkt: Trifft Inflation eigentlich alle gleich?\n>\n> **Dr. Wagner:** Nein, und das wird oft übersehen. Wer spart und ein festes Einkommen hat, verliert tendenziell an Kaufkraft. Wer dagegen Schulden hat, kann von milder Inflation sogar profitieren, weil der reale Wert der Schuld schrumpft. Inflation ist also nie nur eine Zahl — sie verteilt auch um.",
+          "source_revision": {
+            "source_sha256": "567d5765c76db1fe8bec48d0a9369184b2777db8471ce73a1fcbbc034fe118eb",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "7eff991a9d3cb4faeb710a1c509ba0eb3efb8b02faadc6370360e0cef921a030",
+          "after_sha256": "274554cbda687ccb450466f7f50a1867e8a269877b4644093456e997e88795b2",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren_exam/index.md",
+      "before_sha256": "f4e56f0af0063bd8ead0c97a52aa304428486d12f4a36e80c3bb27534808d5d7",
+      "after_sha256": "b6ce3eeab0ebda95a5c6be1a6a90eedae13a21dd2d02af38a0ebdc13989547b6",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit02_wissenschaft-kommunizieren_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section D spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted.",
+        "Replaced '8–7' with '7–8'",
+        "Replaced '6–5' with '5–6'",
+        "Replaced '4–3' with '3–4'",
+        "Replaced '2–0' with '0–2'",
+        "Named included teacher transcript instead of external section reference."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_b2/units/unit02_wissenschaft-kommunizieren/index.md",
+          "source_sha256": "e9e95ac4ab44f3f335e69cb143a5e146433a87340f0910dbc65625729d7fe3cd",
+          "section": "D",
+          "excerpt_sha256": "a5398324b99e43508fd7c233789bfc4db5f80f6b53d10cb72a9adfccd3d52687",
+          "excerpt": "### D. Hörtext (zum Vorlesen)\n\n> *Anweisung für die Lehrkraft: zweimal in natürlichem Tempo vorlesen. Ein kurzes Interview zwischen einer Moderatorin (M) und dem Kommunikationsforscher Dr. Jonas Brandt (B). Dauer beim Vorlesen ca. 3 Minuten.*\n\n**M:** Herr Dr. Brandt, Sie erforschen, warum manche Wissenschaftsmeldungen Vertrauen schaffen und andere Skepsis auslösen. Woran liegt das?\n\n**B:** Entscheidend ist selten das Thema selbst, sondern die *Art* der Darstellung. Unsere Auswertung von rund zweitausend Online-Meldungen zeigt: Beiträge, in denen offen benannt wird, was eine Studie *nicht* belegen kann, werden von den Befragten als glaubwürdiger eingestuft. Das mag überraschen, denn viele Redaktionen fürchten, Unsicherheit schrecke das Publikum ab.\n\n**M:** Also schadet Vereinfachung dem Vertrauen?\n\n**B:** So einfach ist es nicht. Vereinfachung ist notwendig — niemand liest eine Studie mit vierzig Seiten Methodik. Problematisch wird es erst, wenn die Zuspitzung die Aussage verdreht. Wenn aus „ein möglicher Zusammenhang\" ein „bewiesener Beweis\" wird, entsteht eine Verzerrung. Und genau solche Verzerrungen werden in sozialen Medien besonders schnell geteilt.\n\n**M:** Sie haben untersucht, wer für Desinformation empfänglich ist. Gibt es ein Muster?\n\n**B:** Ein deutliches. Menschen mit einer stark gefestigten Meinung neigen eher dazu, Falschinformationen zu akzeptieren, sofern diese die eigene Sichtweise bestätigen. Man müsse, so betonen wir in unserem Bericht, Fakten deshalb nicht nur liefern, sondern auch an die Lebenswelt der Leserinnen und Leser anknüpfen. Reine Faktenkorrektur allein bewirke wenig.\n\n**M:** Was raten Sie Forschenden konkret?\n\n**B:** Drei Dinge. Erstens: Unsicherheit nicht verstecken, sondern erklären — sie ist ein Zeichen von Sorgfalt, nicht von Schwäche. Zweitens: die Quelle transparent machen, damit Aussagen nachvollziehbar bleiben. Drittens: Geduld. Vertrauen entsteht über Zeit und im Dialog, nicht durch eine einzige perfekte Grafik.\n\n**M:** Ein hoffnungsvoller Schluss. Vielen Dank, Herr Dr. Brandt.",
+          "source_revision": {
+            "source_sha256": "84d174ae78503af7b697237ce505268ecde4ea610f76b638e3c0b85596659439",
+            "reason": "Official-source correction or fiction label; original excerpt/hash preserved above",
+            "record": "docs/factual-source-repairs/2026-10-31/manifest.json"
+          }
+        }
+      ],
+      "editorial_passes": [
+        {
+          "before_sha256": "3805ceaa2c3b785f2002ecd31eac6615b586132df7af12f32ee742dfc32740e3",
+          "after_sha256": "c61d0bf54c348a71271dc13486ebdd94e94d24f0f284bfbdf3144c4f216b5548",
+          "decision": "Named included teacher transcript instead of external section reference."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "c61d0bf54c348a71271dc13486ebdd94e94d24f0f284bfbdf3144c4f216b5548",
+          "after_sha256": "b6ce3eeab0ebda95a5c6be1a6a90eedae13a21dd2d02af38a0ebdc13989547b6",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit12_literarische-perspektiven_exam/index.md",
+      "before_sha256": "ec2a2567e98e34ea3d9959a7eac13f01fc8dd4a2f68e63449c1ab5f6be4c0b01",
+      "after_sha256": "2edd60a62fb1ce34f8fb762d728473dedc3454875a8d18eeb10ad5df6ea3a592",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit12_literarische-perspektiven_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "ac4502272d6387db6f2c1d71ea4c3523f5d97580f1703d7d9069346a26387216",
+          "after_sha256": "2edd60a62fb1ce34f8fb762d728473dedc3454875a8d18eeb10ad5df6ea3a592",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit01_medienlandschaft-heute_exam/index.md",
+      "before_sha256": "c9519a9dc353b4f8adfeae2a65210964ec84859974111dd7fc420d17691040a4",
+      "after_sha256": "f5ce479ae0d167cf6254d4857a928dc9ef0b0b76556030459b32c211dc2f2ab0",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit01_medienlandschaft-heute_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Removed answer letters from learner-visible scoring rubric."
+      ],
+      "source_excerpts": [],
+      "editorial_passes": [
+        {
+          "before_sha256": "f8a63ae523e39afe710c5bed9affb7db36429f9752a824b02c46e868935b2c95",
+          "after_sha256": "45b594a9afbe124567e5c3720697c1ac6ff9fe9c8f5e642d1f6f289831052a35",
+          "decision": "Removed answer letters from learner-visible scoring rubric."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "45b594a9afbe124567e5c3720697c1ac6ff9fe9c8f5e642d1f6f289831052a35",
+          "after_sha256": "f5ce479ae0d167cf6254d4857a928dc9ef0b0b76556030459b32c211dc2f2ab0",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_b2/units/unit08_umweltpolitik_exam/index.md",
+      "before_sha256": "00c6779fca5bef0a44d5019e20aa7bb0aa9808d2e628196812dc36bd126a954d",
+      "after_sha256": "64c6854ac5734db5d36b6919ffdf8638b91863a4c05ad1e0a6201f367ae861e4",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_b2/units/unit08_umweltpolitik_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "a22b705f84bb4753e1efdcb5b686c04c310f7262c48204577f42aa6fbfdcd4d1",
+          "after_sha256": "64c6854ac5734db5d36b6919ffdf8638b91863a4c05ad1e0a6201f367ae861e4",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit03_wissenschaftstheorie_exam/index.md",
+      "before_sha256": "c5f87cdbf30dfa3e4d1b4f4dc83696a6f459137fcac1a48ff1c168dabb9339f7",
+      "after_sha256": "597734fce3b96580756bce1d6f9e5518fcbd2e5ebdc59a81a151d36fd1c1e378",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit03_wissenschaftstheorie_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section D spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted.",
+        "Moved scoring criteria from hidden key to learner-visible rubric.",
+        "Replaced 'GER-Einstufung' with 'Rückmeldung zu dieser Aufgabe'",
+        "Replaced '7–6 | sicher auf C1 — auch implizite Bezüge erfasst' with '6–7 | Kernaussagen und Details weitgehend erfasst'",
+        "Replaced '5–4 | C1 erreicht — Detailverstehen tragfähig' with '4–5 | Mehrheit der Aussagen erfasst; einzelne Details unsicher'",
+        "Replaced '3–2 | Übergang B2/C1 — Globalverstehen ok, Details lückenhaft' with '2–3 | Einzelne Aussagen erkannt; Zusammenhänge nacharbeiten'",
+        "Replaced '1–0 | noch nicht ausreichend — erneutes Hören mit Transkript' with '0–1 | Erneutes Hören und Nachbesprechung mit Transkript'",
+        "Restore the precise scope statement after a broad feedback-label replacement altered it."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_c1/units/unit03_wissenschaftstheorie/index.md",
+          "source_sha256": "27128388fd24089d888740e4b25b322e32928b763963bdb1b7a49bd51a3ac647",
+          "section": "D",
+          "excerpt_sha256": "efb38fb7b1e3c848370ceeb26c2f7e7f3cddd92e3dac56405cc63dd1b6baeb2f",
+          "excerpt": "### D. Hörtext (zum Vorlesen) — Vortragsausschnitt, ca. 6 Min\n\n> *Die Lehrkraft liest den folgenden Text zweimal ruhig vor; die\n> Lernenden hören zunächst ohne Mitschrift, dann mit.*\n\n**Dr. Helena Stark, „Einführung in die Wissenschaftstheorie“:**\n\n„Meine Damen und Herren, ich beginne mit einer Zumutung: Der Satz,\nden Sie für den sichersten halten, ist womöglich der unwissen­schaft­-\nlichste. Doch der Reihe nach.\n\nDie erste große Antwort auf die Frage *Woher stammt unser Wissen?*\nlautet: aus der **Erfahrung**. Der Empirismus sammelt Beobachtungen\nund schließt vom Einzelnen aufs Allgemeine — das nennt man\n**Induktion**. Plausibel, alltagsnah, und dennoch tückisch. Denken\nSie an den klassischen Fall: Sie sehen tausend weiße Schwäne und\nfolgern, *alle* Schwäne seien weiß. Doch keine noch so große Zahl\nbestätigender Fälle beweist den Allsatz — ein **einziger** schwarzer\nSchwan hingegen widerlegt ihn endgültig.\n\nGenau hier setzt die zweite Position an. Karl Popper — ich referiere\nihn sinngemäß, denn seine Texte sind geschützt — verschiebt den\nMaßstab. Nicht die Bestätigung adele eine Theorie, sondern ihre\n**Widerlegbarkeit**. Eine Aussage sei, so seine Pointe, nur dann\nwissenschaftlich, wenn man überhaupt angeben könne, welche Beobachtung\nsie zu Fall brächte. Das klingt paradox: Die Stärke einer Theorie läge\nin ihrer *Verwundbarkeit*. Und tatsächlich — Aussagen, die mit *jeder\ndenkbaren* Beobachtung vereinbar sind, erklären am Ende gar nichts.\n\nDie dritte Stimme, Thomas Kuhn, verkompliziert das Bild noch einmal.\nWissenschaft, so seine These, schreite nicht stetig voran, sondern in\n**Phasen**. Lange arbeite eine Disziplin ruhig innerhalb eines\n**Paradigmas** — bis sich die **Anomalien** häuften, bis die Ausnahmen\nso zahlreich würden, dass der Rahmen selbst ins Wanken gerate. Dann,\nund nur dann, komme es zum Bruch, zum *Paradigmenwechsel*.\n\nSie sehen: Zwischen *beweisen*, *widerlegen* und *umdeuten* liegen\nWelten. Und die Frage, welche der beiden Studentinnen mich vorhin\nrichtig zitiert hat, lässt sich nun beantworten — es waren, auf ihre\nje eigene Weise, beide.\""
+        }
+      ],
+      "followup_revisions": [
+        {
+          "before_sha256": "00b26f2ac1f7e87625524b489ad7a59ffb3653f3ad16ec431dbad9c4b53bdd51",
+          "after_sha256": "aff5d1912583a20c0efdced3ed71b42fcd3e57291592037367bce1f3a24b684e",
+          "archive": "docs/assessment-archive/2026-10-31/followup-review/content/kurs_c1/units/unit03_wissenschaftstheorie_exam/index.md",
+          "decision": "Restore the precise scope statement after a broad feedback-label replacement altered it."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "aff5d1912583a20c0efdced3ed71b42fcd3e57291592037367bce1f3a24b684e",
+          "after_sha256": "597734fce3b96580756bce1d6f9e5518fcbd2e5ebdc59a81a151d36fd1c1e378",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit06_postkoloniale-perspektiven_exam/index.md",
+      "before_sha256": "f26abecddb1346c322a29a832adf736d75bbf1c513c75bccbd9afbfc805cf03d",
+      "after_sha256": "fcf509ef14bc2625fa1bfe36fc0570cf53c22614cfbe207074e8d1fa3264c6d2",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit06_postkoloniale-perspektiven_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Made penalty calculation explicit with floor0; removed public item numbers that disclosed the two distractors.",
+        "Replaced '*(Originaltext)*' with '*(eigens verfasste Rollenposition)*'",
+        "Replaced 'widerspricht allen drei abwägenden Positionen' with 'ist durch keine der drei Positionen belegt'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "2ebbaa218084ebe655656d634cd5c9b4af4c0d9b92cdd10fadf3cfd6d23fed46",
+          "after_sha256": "fcf509ef14bc2625fa1bfe36fc0570cf53c22614cfbe207074e8d1fa3264c6d2",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam/index.md",
+      "before_sha256": "4c6a4642e9c247f66d5c1d9dd346c3c036128793e0d4c36364bb4df6a3121152",
+      "after_sha256": "d28e68c2aa46ccb8cddac01b6d5b024897ed3f50c045d419b3d3ed0659843c59",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit08_philosophie-fuer-informierte-laien_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "310711a7ac3b435b4434d99b69dcdbaeeb1721e8465d75f0f3fb7b7880e49d45",
+          "after_sha256": "d28e68c2aa46ccb8cddac01b6d5b024897ed3f50c045d419b3d3ed0659843c59",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht_exam/index.md",
+      "before_sha256": "64eaa171ac759fcf138cda45fbf7cf8e92868dd0f99f66afa0d924f48b672d6d",
+      "after_sha256": "a68789cdc27fb832f1bf3dd428df1c7c6f4201cf6a755427e604b92f0490fbbc",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Supplied actual existing reading source in learner Textgrundlage, without source unit model analysis.",
+        "Replaced 'Die Entzündungswerte werden täglich neu bestimmt und\\n   protokolliert.' with 'Die Entlassung setzt anhaltende Beschwerdefreiheit voraus.'",
+        "Replaced unsupported daily laboratory testing item with actual discharge condition; clarified scoring floor and removed public distractor identities."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_c1/units/unit09_fachsprachen-wirtschaft-medizin-recht/index.md",
+          "source_sha256": "9a9b75dc73a9f33ac64db968672c7da070c60564a887f3fd7cf83a9635049211",
+          "section": "D",
+          "excerpt_sha256": "1bbf1b61ca141cdb1a1b6645d4d58e083e087211f5ca1560571d7f68ada5e4ba",
+          "excerpt": "### D. Zwei Originaltexte zur Analyse\n\n**Text 1 — Populärwissenschaftlicher Kommentar (Originaltext,\nca. 320 Wörter).**\n\n*Warum Fachsprache uns aussperrt — und manchmal schützt*\n\nWer zum ersten Mal einen Arztbrief, einen Anlageprospekt oder\neinen Mietvertrag in die Hand nimmt, erlebt dasselbe leise\nUnbehagen: Die Sprache scheint absichtlich zwischen sich und den\nLeser eine Mauer zu ziehen. Und in gewissem Sinn tut sie das\nauch. Fachsprachen sind über Jahrhunderte gewachsene Werkzeuge,\nund wie jedes Werkzeug sind sie für eine bestimmte Hand gemacht —\nnicht für jede.\n\nIhre auffälligste Eigenschaft ist der Hang zum Substantiv. Wo der\nAlltag sagt „wir prüfen, ob Sie zahlen können\", schreibt der\nFachtext „die Prüfung Ihrer Bonität\". Das klingt kühl, doch es\nhat einen Zweck: Ein Substantiv lässt sich zählen, definieren, in\neinen Paragrafen einfügen. Es friert einen Vorgang zu einem\nBegriff ein, mit dem sich rechnen und regeln lässt. Der Preis\ndafür ist hoch: Je mehr die Sprache nominalisiert, desto seltener\nnennt sie, wer eigentlich handelt.\n\nZugleich erfüllt jede der drei großen Fachsprachen eine andere\nAufgabe, und das hört man ihr an. Die Wirtschaftssprache warnt\nund wirbt zugleich; sie spricht von Chancen und Risiken und\nverpackt Unsicherheit in gedämpfte Modalverben. Die Medizin\ndokumentiert und ordnet an; sie schreibt knapp, oft im Passiv,\nund vertraut auf lateinische Präzision. Das Recht schließlich will\nvor allem eines: verbindlich sein. Deshalb wiederholt es lieber\nein sperriges Wort, als eine Lücke zu lassen, durch die ein\nStreit schlüpfen könnte.\n\nWer diese Muster durchschaut, ist der Fachsprache nicht mehr\nausgeliefert. Man kann fragen: Welches Verb steckt in diesem\nSubstantiv? Wer ist das getilgte Subjekt? Ist die Genauigkeit\necht — oder nur eine Geste der Autorität? Verständlichkeit und\nPräzision stehen dabei in einem Spannungsverhältnis, das sich\nselten ganz auflösen lässt. Die Fachsprache sperrt uns aus. Aber\nsie hält, richtig gelesen, auch einen Schlüssel bereit.\n\n**Text 2 — Register im O-Ton (Originalbeispiele; der Rechtssatz\nparaphrasiert einen Gedanken aus dem gemeinfreien BGB).**\n\n> **Wirtschaft:** *„Die in Aussicht gestellte Rendite unterliegt\n> Marktschwankungen; ein Kapitalerhalt kann nicht zugesichert\n> werden.\"*\n>\n> **Medizin:** *„Nach komplikationslosem Verlauf ist bei\n> anhaltender Beschwerdefreiheit die Entlassung am Folgetag\n> vorgesehen.\"*\n>\n> **Recht:** *„Wer eine Pflicht aus dem Schuldverhältnis\n> verletzt, hat den daraus entstehenden Schaden zu ersetzen,\n> sofern er die Pflichtverletzung zu vertreten hat.\"* (Gedanke\n> nach § 280 Abs. 1 BGB, amtliches Werk, gemeinfrei; hier in\n> vereinfachter Fassung.)"
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "e05f3203059621e57e9cd081216666aedd3df9d79e70b7cf9e1e575ed79a21e0",
+          "after_sha256": "a68789cdc27fb832f1bf3dd428df1c7c6f4201cf6a755427e604b92f0490fbbc",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit10_stilistik-und-rhetorik_exam/index.md",
+      "before_sha256": "d763ee269f9c824421b8afb5f4c8246e6e0151caeb111bcc223d7ef3d1dc1ae4",
+      "after_sha256": "eb59c83c105580c2c927eb9f64d07dc67f50f158d9f07048af533a5f4252f145",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit10_stilistik-und-rhetorik_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "2b44d56b3cf92934d1fc9892addb0a2e45c93c8866fd307e09015040c54ab703",
+          "after_sha256": "eb59c83c105580c2c927eb9f64d07dc67f50f158d9f07048af533a5f4252f145",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit04_aesthetik-und-urteil_exam/index.md",
+      "before_sha256": "5eb040f28e07a8eed1015b4956a451b49c9da9073fecd4c0e82502f5f975a1a9",
+      "after_sha256": "2042ddd9f1bb7fc3dff894963e5837112479123dc745877f894406e600d863e4",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit04_aesthetik-und-urteil_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "39e2c1c393801e471e13d31f53fa685b51216ef4ff00cf578081dc3f1fb90cff",
+          "after_sha256": "2042ddd9f1bb7fc3dff894963e5837112479123dc745877f894406e600d863e4",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit02_politische-diskursanalyse_exam/index.md",
+      "before_sha256": "c1fde12e4a4bfaffc15049b628a07b3a966797fd59a1783c1d6e6df90847d764",
+      "after_sha256": "4ad5cf961e7b5b28404810b9d5b089927ce761dcf74730f3208646d31bfe6414",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit02_politische-diskursanalyse_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending."
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "be30d4c0f4c6e993c25e2677e2f6799b76bb9af14bb73b846b73e47f879bd680",
+          "after_sha256": "4ad5cf961e7b5b28404810b9d5b089927ce761dcf74730f3208646d31bfe6414",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit01_literarisches-argumentieren_exam/index.md",
+      "before_sha256": "d7eb46e68117d854313d14511254618d6279bb34808611ad7f9e7d13ca5c5e9f",
+      "after_sha256": "e7e956273490a14221a568503f1522a2d9b71b4dd66683bc7040ca648284e130",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit01_literarisches-argumentieren_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Replaced 'Denn niemand hat\\n> dem Mann je körperlich den Weg versperrt.' with 'Denn der Mann versucht\\n> den Eintritt trotz des Verbots gar nicht erst.'",
+        "Replaced 'Der Türhüter droht nie mit Gewalt; er sagt lediglich „jetzt\\n  nicht\".' with 'Der Türhüter warnt vor seiner Macht und der Macht weiterer\\n  Wächter; der Mann entscheidet sich daraufhin zu warten.'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "704926d4aeaae975713827c2ee5ad245d8a8ddb173af2336ec9575d7ae412a8b",
+          "after_sha256": "e7e956273490a14221a568503f1522a2d9b71b4dd66683bc7040ca648284e130",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit07_historiografie_exam/index.md",
+      "before_sha256": "1150f2a2e9ee886e5018c85f7aba1886168587490530d0231230dd9dfd20873e",
+      "after_sha256": "f545b45d217e3102b3870c23c1cd08438bcaed9802a154c0a29871c17ed8e3f3",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit07_historiografie_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 1 controls delivery; source classroom instructions omitted.",
+        "Moved explicit distractor numbers into key and replaced inferred guessing diagnosis with observed score feedback.",
+        "Remove a feedback-band description inconsistent with the explicit one-point-per-item rule."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_c1/units/unit07_historiografie/index.md",
+          "source_sha256": "79c4771245c754ae437188ae5b0c0eef78bc099e8c240a444a72c027be26eb95",
+          "section": "C",
+          "excerpt_sha256": "dc6efb2c1012cb540cae9daf4e275d0ba8e76fa2f268602e36a93eba031b3394",
+          "excerpt": "### C. Hörtext (zum Vorlesen) — Podcast *„Geschichte verhandelt“*, Folge 12\n\n> *Vorlesehinweis für die Lehrkraft: einmal in normalem Tempo\n> vortragen; die vier Stimmen (Moderatorin, Vogt, Bauer, Lange)\n> deutlich unterscheiden. Länge ca. 3,5 Minuten.*\n\n**Moderatorin:** Willkommen. Unsere heutige Frage klingt harmlos\nund ist es nicht: Wer schreibt eigentlich *die* Geschichte der\nDDR? Frau Dr. Vogt, ich beginne bei Ihnen.\n\n**Vogt:** Schon die Formulierung „*die* Geschichte“ ist verräterisch.\nIn den 1990er Jahren waren es überwiegend westdeutsch sozialisierte\nHistoriker:innen, die den Ton angaben. Inzwischen mischen sich\nStimmen ein, die selbst im Osten aufgewachsen sind — und das\nverschiebt die Akzente merklich. Das Material aber, die Akten,\ndie Statistiken, bleibt dasselbe. Insofern würde ich sagen: Die\nDeutung wandert, die Quelle ruht.\n\n**Bauer:** Da muss ich behutsam widersprechen. Auch eine Akte\nruht nicht neutral im Regal. Sie ist von jemandem angelegt, von\njemandem geordnet, von jemandem *aufbewahrt* worden — und ebenso\nvon jemandem nicht angelegt worden. Was nie zu Papier kam, das\nVerschwiegene, das Beiläufige, nenne ich das *Schweige-Archiv*.\nEs ist genauso Geschichte wie das, was überliefert ist — nur\nschwerer hörbar.\n\n**Lange:** Mir fehlt in dieser Debatte etwas anderes, nämlich die\nSelbstkritik derer, die heute den Ton angeben. Auch wer im Westen\nsozialisiert wurde, schreibt nicht aus dem Nichts heraus. Ein\nErzählen ganz ohne Standpunkt gibt es schlicht nicht.\n\n**Moderatorin:** Frau Lange, ist das nicht ein Freibrief für\nBeliebigkeit? Wenn ohnehin jeder aus seiner Perspektive erzählt —\nwarum dann noch Wissenschaft?\n\n**Lange:** Im Gegenteil. Gerade weil es keinen Standpunkt von\nnirgendwo gibt, wird Methode wichtig. Nicht die Illusion der\nNeutralität rettet uns, sondern das Offenlegen der eigenen Lage.\n\n**Bauer:** Da treffen wir uns. Wer eine Geschichte schreibt, muss\nden eigenen Standpunkt kenntlich machen — das ist Handwerk, nicht\nSchwäche. Verdächtig ist nicht die Perspektive, verdächtig ist\ndie *verschwiegene* Perspektive.\n\n**Vogt:** Einverstanden — solange wir darüber die Quellenarbeit\nnicht kleinreden. Sonst wird aus jeder Erzählung ein bloßes\nMeinungsstück.\n\n**Moderatorin:** Ein schöner Streit, der sich zum Konsens neigt.\nHalten wir fest: Die Vergangenheit ist geschehen — aber wem sie\n*gehört*, das wird bis heute verhandelt."
+        }
+      ],
+      "followup_revisions": [
+        {
+          "before_sha256": "835a7e63c0cd3078bc2881d0a353c0ae46cfef1673dc814559ee10349a1f4dcd",
+          "after_sha256": "a7e951e8084d85decc05dea0b4d4a57c5f74214e8596b0f970c7d6e41e5c2526",
+          "archive": "docs/assessment-archive/2026-10-31/followup-review/content/kurs_c1/units/unit07_historiografie_exam/index.md",
+          "decision": "Remove a feedback-band description inconsistent with the explicit one-point-per-item rule."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "a7e951e8084d85decc05dea0b4d4a57c5f74214e8596b0f970c7d6e41e5c2526",
+          "after_sha256": "f545b45d217e3102b3870c23c1cd08438bcaed9802a154c0a29871c17ed8e3f3",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit05_identitaet-und-sprache_exam/index.md",
+      "before_sha256": "20d7be87fa2af9b57bbff0b7c73fdf7a93814b0c9d84277864fb460f6f291af4",
+      "after_sha256": "c0cb41c09aa936d5800c01626d9d6e55dec2d249c86cf8fcefc36ab6c377dde4",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit05_identitaet-und-sprache_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Replaced 'Korrektheit & Heckung' with 'Korrektheit & Abtönung'"
+      ],
+      "source_excerpts": [],
+      "download_revisions": [
+        {
+          "before_sha256": "18bcd078454d53ebc15dcb24096459f25cc339088ad964c42840315c3ffee42a",
+          "after_sha256": "c0cb41c09aa936d5800c01626d9d6e55dec2d249c86cf8fcefc36ab6c377dde4",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit11_literarische-moderne_exam/index.md",
+      "before_sha256": "03367f88fdc7044f47b6fa1a6b7758a25d1e2c50b759c4b3c1f9e172895f50c2",
+      "after_sha256": "47c08dc1011b59ed62cf2c9054c63f8b64db27fe427e208bd10df2c038f05079",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit11_literarische-moderne_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Supplied actual existing reading source in learner Textgrundlage, without source unit model analysis."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_c1/units/unit11_literarische-moderne/index.md",
+          "source_sha256": "7023cc8044c706bf123d8d24ead35635835dbb6dc5a0b80e6cb888b07baaf3e1",
+          "section": "C",
+          "excerpt_sha256": "c072e99c3a0886e8e13cfc1a73c8754803f336483e3d1f938c19a09d25f63689",
+          "excerpt": "### C. Textgrundlage — ein gemeinfreier Originalauszug (exakt zitiert)\n\nDer folgende Satz ist **gemeinfrei** (Franz Kafka, gest. 1924; Erstdruck 1915)\nund darf daher wörtlich und mit exakter Attribution zitiert werden:\n\n> „Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich\n> in seinem Bett zu einem ungeheuren Ungeziefer verwandelt.“\n>\n> — Franz Kafka: *Die Verwandlung.* Erstdruck in: *Die weißen Blätter* (1915);\n> Buchausgabe Kurt Wolff Verlag, Leipzig 1915. Gemeinfrei.\n\n**Kurzanalyse (Modell einer textgebundenen Lektüre):** Der Satz ist ein\neinziger hypotaktischer Bogen, dessen Nebensatz (*Als … erwachte*) eine\nalltägliche Erwartung aufbaut, die der Hauptsatz kommentarlos zerstört. Die\nErzählinstanz registriert die Verwandlung im nüchternen Ton eines Befundes;\nkein Ausrufezeichen, kein Erschrecken. Diese Kühle *legt nahe*, dass nicht das\nWunder das Thema ist, sondern die Selbstverständlichkeit, mit der eine Existenz\naus ihrer Ordnung fällt. Der unbestimmte Ausdruck *„ungeheures Ungeziefer“*\nverweigert überdies jede zoologische Festlegung — eine Unbestimmtheit, die den\nText deutungsoffen hält."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "115cdaf19f8ac2ea1ab647243e3e57de9a91aa3b40b15f025bb9c58a90042635",
+          "after_sha256": "47c08dc1011b59ed62cf2c9054c63f8b64db27fe427e208bd10df2c038f05079",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    },
+    {
+      "path": "content/kurs_c1/units/unit12_gegenwartsliteratur_exam/index.md",
+      "before_sha256": "29cd987047ef54bcd6c531253261c1c0b19058f6f97921b09d5b2e5ea0d575db",
+      "after_sha256": "fd00ba5fb9676869980d30d45d951fec929f6007fce6099af5239474f741a073",
+      "archive": "docs/assessment-archive/2026-10-31/originals/content/kurs_c1/units/unit12_gegenwartsliteratur_exam/index.md",
+      "decisions": [
+        "Classified reviewed answer-bearing details as role=key; retained public assessment criteria and marked human review pending.",
+        "Included actual source section C spoken content; assessment hearing count 2 controls delivery; source classroom instructions omitted.",
+        "Added previously missing teacher key traced to actual source, expanded speaker codes and defined present interpretation versus future expectation."
+      ],
+      "source_excerpts": [
+        {
+          "source_path": "content/kurs_c1/units/unit12_gegenwartsliteratur/index.md",
+          "source_sha256": "a4b7011c9ca039f47235ea930d8a5bc2faeab416b421f43739a12f22ca86e3ee",
+          "section": "C",
+          "excerpt_sha256": "53ff330a04808bb57930010c832d8328359dcfff9a4ccd96abbe63442fbba2cf",
+          "excerpt": "### C. Hörtext (zum Vorlesen) — Podcast „Bücher & Stimmen“, Folge 47\n\n*Die Lehrkraft (oder zwei Lernende) liest den Text zweimal vor. Alle\nNamen und Werke sind erfunden; die beschriebenen Tendenzen sind\nparaphrasiert und in den Quellen belegt.*\n\n> **Moderatorin:** Willkommen zur letzten Folge der Staffel. Drei\n> Tendenzen der deutschsprachigen Literatur des vergangenen Jahrzehnts\n> — benennen wir sie, jede für sich.\n>\n> **Kritikerin:** Die erste würde ich das *Wiedereintreten des\n> Politischen* nennen. Nicht als Parole, sondern als Hintergrundrauschen\n> — Herkunft, Klasse, Migration liegen unter der Handlung, bis sie\n> plötzlich die Handlung *sind*. Man könnte sagen: Der soziale Raum wird\n> selbst zur Figur.\n>\n> **Buchhändler:** Meine Kundinnen greifen zu etwas anderem: zur\n> *Autofiktion*. Ein Erzähl-Ich, das so nah an der Autorin sitzt, dass\n> man ständig fragt, ob das wirklich passiert ist — und genau diese\n> Frage ist der Motor. Verkauft sich, ehrlich gesagt, hervorragend.\n>\n> **Literaturwissenschaftlerin:** Und drittens beobachte ich die\n> Rückkehr des *Stilfragments* — kürzere, montierte Formen, oft mit\n> typografischen Brüchen. Das kommt, tendenziell, aus der\n> Bildschirmlektüre und wirkt in den Buchdruck zurück.\n>\n> **Moderatorin:** Welche dieser Tendenzen überdauert das Jahrzehnt?\n>\n> **Buchhändler:** Die Autofiktion bleibt — sie passt zu einer\n> Generation, die sich ohnehin ständig selbst dokumentiert.\n>\n> **Kritikerin:** Das Politische bleibt, gleichwohl nur, solange es sich\n> nicht mit der bloßen Geste zufriedengibt.\n>\n> **Literaturwissenschaftlerin:** Das Fragment kommt und geht.\n> Ausgerechnet seine Ironie macht es angreifbar — sie schützt und\n> entwaffnet es zugleich."
+        }
+      ],
+      "download_revisions": [
+        {
+          "before_sha256": "72a3768c78138afee6ffb2dbbae6d24dfd0a52db4655883241a21e90ca9381c0",
+          "after_sha256": "fd00ba5fb9676869980d30d45d951fec929f6007fce6099af5239474f741a073",
+          "body_unchanged": true,
+          "record": "docs/assessment-build-2026-10-31.json"
+        }
+      ]
+    }
+  ],
+  "unit_sources_unchanged_at_initial_assessment_migration": true,
+  "subsequent_unit_corrections": "Seven controlled unit corrections are recorded separately; this historical flag describes the initial exam-only migration."
+}
